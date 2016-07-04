@@ -1,0 +1,4 @@
+clearlakeshores-tx.gov.	86400	IN	NS	dns1.civicplus.com.
+clearlakeshores-tx.gov.	86400	IN	NS	dns2.civicplus.com.
+qhk8ufm923heopppqq3f9qm3kiq6qfif.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. dSHOZSwaCkr2RW5ZXczeWVrTBtxWiYQCO2+7WahbHBedoPeOW5sBTxRl/ZxVuAsl/T5ykjVkwkfa4Jj+cmUC89yy7hKhspESUOrGY2qEyS4oNWU++UwWGQXJXkNjUxd2XmYHiivdUPcy2KTQbCDp+580KmeNZejzvzdvhj3V4C8=
+qhk8ufm923heopppqq3f9qm3kiq6qfif.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qiaqb1iss45hg0949ne2rtp0a56bnovk NS 

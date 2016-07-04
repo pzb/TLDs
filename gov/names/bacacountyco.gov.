@@ -1,0 +1,4 @@
+81o01kcg56f8n1icss9svofv3ucoskqi.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Rekg/PfYHGaZFZlpcgDNuVZ4It0wkFqScqJKlkjCbc45VYUpn3CdreTApX3npQl08qbqv3IdhFFWiMcLsLmCbD5R/l7I2xB6akcRMQn/oD9xDDQYG1pkGpXR47oIMG104rxv+Eof36W6fnn78Fydu1OowFfAXTMWoWCPhWQZrAk=
+81o01kcg56f8n1icss9svofv3ucoskqi.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  81v7r1j80h7093qd5f4jllviutqq55or NS 
+bacacountyco.gov.	86400	IN	NS	ns03.domaincontrol.com.
+bacacountyco.gov.	86400	IN	NS	ns04.domaincontrol.com.

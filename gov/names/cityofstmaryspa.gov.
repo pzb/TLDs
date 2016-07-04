@@ -1,0 +1,6 @@
+09lqpki4hqn4hitd49n8e6jab8u712g2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. bt0+aASypi6R/wRTDB50E3gmi/NKW4hXjHN1Gx0W8lxme9I7YLi2n41DNkgJFS0XqZc2SOfOIAgArtbQRes2wR91BgL1m1HLhp7D0PCyNeU1MEuNzkJlalYUD2WyZY37he7UWnJrs7vDneLQpv2LVUp7bOjaz/Q9EMhymnIi0xU=
+09lqpki4hqn4hitd49n8e6jab8u712g2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  09o84jpl9kpqadt8239kaohnqi45atb8 NS 
+cityofstmaryspa.gov.	86400	IN	NS	ns1.windstreamhosting.biz.
+cityofstmaryspa.gov.	86400	IN	NS	ns2.windstreamhosting.biz.
+cityofstmaryspa.gov.	86400	IN	NS	ns3.windstreamhosting.biz.
+cityofstmaryspa.gov.	86400	IN	NS	ns4.windstreamhosting.biz.

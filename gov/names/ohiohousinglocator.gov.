@@ -1,0 +1,6 @@
+gtf4sccrvhn3830ja9sl9sh2av9knlrn.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. WdmcKVdzsKz5HAsvf/K9jwlO//nKeZhBQoUs6HVXn7G4tKd5ZBvQN5THyUmWSusQCMfJHptQP27aO7eiEOwojWeBZ51ZKw3+03A/CPclS7rKT6xHNVnR69A/54wYDBwGLjdZ22chL/Shsr/37p9sCPf1+G07XpyxiYuf0SAepvQ=
+gtf4sccrvhn3830ja9sl9sh2av9knlrn.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  gtg8366e6ca262l577gv5fe644b26id4 NS 
+ohiohousinglocator.gov.	86400	IN	NS	ns1.state.oh.us.
+ohiohousinglocator.gov.	86400	IN	NS	ns2.state.oh.us.
+ohiohousinglocator.gov.	86400	IN	NS	ns3.state.oh.us.
+ohiohousinglocator.gov.	86400	IN	NS	ns4.state.oh.us.

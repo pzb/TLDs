@@ -1,0 +1,6 @@
+azracing.gov.	86400	IN	NS	ns-136.awsdns-17.com.
+azracing.gov.	86400	IN	NS	ns-897.awsdns-48.net.
+azracing.gov.	86400	IN	NS	ns-1112.awsdns-11.org.
+azracing.gov.	86400	IN	NS	ns-1870.awsdns-41.co.uk.
+bg0q219i6evln089348fq24me3s5agna.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. xud+S5kilN6Xy0j46Iiob583OMsJn/WlLZd/60jwyqzhCr71OUzYTvUfAnv11N8+3TC5pJkzXBt28tBMRTTlI2Rzw88DG7VMVVwD/ouum6Z7/gmPNa3BG7ipyXBCtXMUSHGE1a/wte+NGN8ywb8NR2f9/pSAtA3JpSnC/z9yTfE=
+bg0q219i6evln089348fq24me3s5agna.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bg49qip2j9vhubo4jvdo90joen09sbqo NS 

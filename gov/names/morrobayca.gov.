@@ -1,0 +1,4 @@
+1nsdpttrkeds720lrr6k64dj6fhs3o87.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. UA7UAeCf9ShFbb73oyaYowwVCYJFkOB1GHhS0BHPD+stsD745IxxFc8K/ZuOw4Dnggtht3LZA6BGfVDhpT5NW+x/uvLoCsvBHng41u7WGfLv1SK4TPTaHlZAW+KzbY+FsmcohCmJYQPpxP45xq4R2D02EliYM66MQX09xzWhhRg=
+1nsdpttrkeds720lrr6k64dj6fhs3o87.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1nsk4svh2ni4k6r8s74dpqjvqehlretd NS 
+morrobayca.gov.	86400	IN	NS	ns1.socaldata.net.
+morrobayca.gov.	86400	IN	NS	ns2.socaldata.net.

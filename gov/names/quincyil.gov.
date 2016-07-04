@@ -1,0 +1,6 @@
+dns0cu72c686tsvjn6v7fotuoh5p1slp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. kx71svS2jg5SSmEAVGMh+QJhN0REWHRsaHpcZaX4gLM216SCoznKYYxro6RVjdtKNpLci3BEHQIdLJNngH2B12RDP0dp56GcQM4KrgoEmQZ98l2tSimx1rdo9sj+OrfQp4uepUI/m8RVOjdlYOoA4sahzcFaeyW4nyUBh7ofzj0=
+dns0cu72c686tsvjn6v7fotuoh5p1slp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  doe55o8eaa25ubc1adc92jhrvpn9p0gt NS 
+quincyil.gov.	86400	IN	NS	ns.adams.net.
+quincyil.gov.	86400	IN	NS	ns2.adams.net.
+quincyil.gov.	86400	IN	NS	ns3.adams.net.
+quincyil.gov.	86400	IN	NS	ns4.adams.net.

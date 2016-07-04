@@ -1,0 +1,4 @@
+carverma.gov.	86400	IN	NS	ns1.infotech-maine.com.
+carverma.gov.	86400	IN	NS	ns2.infotech-maine.com.
+fi2c98sgh7l9hsdmqr2pgrtd4b80jl9e.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. sw+eNvk62Y56jYFcUZENaCTVEh0PRmLQb6sMQ/SkaTCifNVN0YVVdHJceY5/Bt4ZRSyumYvrCHNEC1cUryOwjnxFiHQjWsA/al1ei3eLYtvdaCupHokCbLHIg0z0saFCfso+LU2ekDZf4jC5Zqywn5uEYaS75jOI8TLApLMRDOw=
+fi2c98sgh7l9hsdmqr2pgrtd4b80jl9e.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fi9f8np4dlcvh2q11b822jtmlhp1laf2 NS 

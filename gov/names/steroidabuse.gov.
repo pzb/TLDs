@@ -1,0 +1,12 @@
+ns.nih.gov.	86400	IN	A	128.231.128.251
+ns.nih.gov.	86400	IN	AAAA	2607:f220:404:101::80e7:80fb
+ns2.nih.gov.	86400	IN	A	128.231.64.1
+ns2.nih.gov.	86400	IN	AAAA	2607:f220:418:4101::80e7:401
+ns3.nih.gov.	86400	IN	A	165.112.4.230
+ns3.nih.gov.	86400	IN	AAAA	2607:f220:402:1801::a570:4e6
+steroidabuse.gov.	86400	IN	NS	ns.nih.gov.
+steroidabuse.gov.	86400	IN	NS	ns2.nih.gov.
+steroidabuse.gov.	86400	IN	NS	ns3.nih.gov.
+steroidabuse.gov.	3600	IN	DS	48546 7 1 f96b5d86b3da061ef751c0bb0c43c65c178bead3
+steroidabuse.gov.	3600	IN	DS	48546 7 2 b23aa4d36e5d415d378041ad4565221bf097a6f1fbe6338e65a2e25469e000dc
+steroidabuse.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. D+PSDB1rgb/qh6Smlx1X2mCGGR/+/nIi0xHHz/9VL7Ob5APSsM9P0/bW0NGeWI4oBrn7oW8NBAKJ+DzATKdf13TNtNDB94DEq2DreQ+7o+IPuvPI6GFG+8KTkRbygJK3ef5e7y6eDJaWO6nSdZKdh4i1pv39ulXH+ah8LHVdI58=

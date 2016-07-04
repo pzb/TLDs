@@ -1,0 +1,9 @@
+geocommunicator.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+geocommunicator.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+geocommunicator.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+geocommunicator.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+geocommunicator.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+geocommunicator.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+geocommunicator.gov.	3600	IN	DS	58330 7 1 442a4f2dd364bf1bce509a71c0135b8ee1dc5db1
+geocommunicator.gov.	3600	IN	DS	58330 7 2 5d63698f064a3844cd6ef0d57f2c99710067252a2c8d23fa38c3b30595746cbc
+geocommunicator.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. SzglSeTHW/7PDAfP7t89Mmwk6qxBnmDDWFDtKBxhAUlQY0IJQSw4cAKzgh1Kx/MemvrvC6f2+BNYsEgO3Pkjgwb8XSTeFOSdWtpYZpW7YWzHxNzW87ucAumVLlXb6BgG+cdoE91qdC8NC7KRvFETU6SuMZcaG7Fi6WM0/Soks78=

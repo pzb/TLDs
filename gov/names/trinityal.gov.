@@ -1,0 +1,5 @@
+ql36sfafssmu3vmp0lop82f87m499ul1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. V0br90KBAxwFB7ejxOfD0426NUkpKtvrKx1KzSvVdeeNyEOEUXBOlozDrnuiLFpkD/k97GaS47oIkQe8/nwUoDySgd/0FCDzkz5sKvJL96OVowU2jzoTT7tF+7zszuofDuXee1PNxyyA095AA1v8YFS9I7x9++SP4XsSdAZ/sw0=
+ql36sfafssmu3vmp0lop82f87m499ul1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qlcik12m96obhcm22bkhqbecg5926aeg NS 
+trinityal.gov.	86400	IN	NS	ns1.worldsecuresystems.com.
+trinityal.gov.	86400	IN	NS	ns2.worldsecuresystems.com.
+trinityal.gov.	86400	IN	NS	ns3.worldsecuresystems.com.

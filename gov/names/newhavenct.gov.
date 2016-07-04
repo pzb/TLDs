@@ -1,0 +1,6 @@
+g7qs6iemji2696ocnvuc0ulqp6vgim61.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ucrdffmz8lXs0IKA9nC5mTQldq1zuxvjxVHLZmVdYGXAokNvl14de7g97PB3dTCxoBMSjZ1c+7ZaTK5RwBqbHwFGTQvgv/7ASzlgmHs84Hi2Q29MdxyXfHdD9SOw5sH8K1bDxJZuUm/V14N6jsslBFyDTEmHboZxo+q/R9zpgPA=
+g7qs6iemji2696ocnvuc0ulqp6vgim61.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  g7uu6peeqq0imv6ufuu7qrsf4rirjtfj NS 
+newhavenct.gov.	86400	IN	NS	dns1.newhavenct.gov.
+newhavenct.gov.	86400	IN	NS	dns2.newhavenct.gov.
+dns1.newhavenct.gov.	86400	IN	A	64.207.109.158
+dns2.newhavenct.gov.	86400	IN	A	64.207.109.188

@@ -1,0 +1,14 @@
+fara.gov.	86400	IN	NS	ns-jdcd-01.usdoj.gov.
+fara.gov.	86400	IN	NS	ns-jdcd-02.usdoj.gov.
+fara.gov.	86400	IN	NS	ns-jdcw-01.usdoj.gov.
+fara.gov.	86400	IN	NS	ns-jdcw-02.usdoj.gov.
+fara.gov.	3600	IN	DS	10294 8 1 94684affd77d7ab9ab1953535747b06e141fc091
+fara.gov.	3600	IN	DS	10294 8 2 955b7d621af5c67ffd61d9d5b241f7b6195167eedd1303b5511a8b361f374561
+fara.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. bS05dt073J/9O838PsWiNPcm6lfj78zUYUOKz5pNgqc0jOTPtYHbLvSZD+3AehYQNTVUDbd/jOZcdhj9ajmvA1N88OwwWwtka31mbwwX1zlO6hsaKSzoOdF/nhG+HiADLC2K9/utUtiwY096JKHSvnSViI+n2SxYrFUUItCL2uE=
+ns-jdcd-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcd-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcd-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcw-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcw-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-02.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::6

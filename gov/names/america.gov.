@@ -1,0 +1,7 @@
+america.gov.	86400	IN	NS	authns1.centurylink.net.
+america.gov.	86400	IN	NS	authns2.centurylink.net.
+america.gov.	86400	IN	NS	tpsns11.terrenap.net.
+america.gov.	86400	IN	NS	tpsns12.terrenap.net.
+america.gov.	3600	IN	DS	65046 7 1 01daae8c84c86ae1ae0492a3280f23db27320bf9
+america.gov.	3600	IN	DS	65046 7 2 00266e90744ff14af2df8be22c331ec290e3de6c1aee64455d07bb5307a5e0d9
+america.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. jHtPJ+w0l0bvnpE3hpODpdUefZDC5fSnuZ1SOEW0bbFodVzDV3Usryq/GgzTCRl712OZrwjHgWinucP52MsNZ9uzV8fxSynVL13lVPWyVveUc6rf2KtqikOPS+JjSpd2p9UB2TK54Mf7nhYmAeLUZevy3OkjtiRzFBKiQIIScdg=

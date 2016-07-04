@@ -1,0 +1,20 @@
+ns01-cc-gw.health.mil.	21600	IN	A	214.2.210.178
+ns01-ee-gw.health.mil.	21600	IN	A	214.2.213.178
+ns01-ncr-gw.health.mil.	21600	IN	A	214.2.208.178
+ns01-nwc-gw.health.mil.	21600	IN	A	214.2.211.178
+ns01-pac-gw.health.mil.	21600	IN	A	214.2.215.178
+ns01-sea-gw.health.mil.	21600	IN	A	214.2.216.178
+ns01-sec-gw.health.mil.	21600	IN	A	214.2.209.178
+ns01-swc-gw.health.mil.	21600	IN	A	214.2.212.178
+ns01-we-gw.health.mil.	21600	IN	A	214.2.214.178
+te65jjfd6seoodda92mc5rorv73363us.mil.	10800	IN	RRSIG	NSEC3 8 2 10800 20160708161835 20160701161835 16413 mil. LynBEPVKKQIUGOr0QFR9fOzYeZ3q3JFbNjO7lnWXnU8u0TTuP3HKlFMbDTstqk6EBq4FhF4eXQ1cCjbDMTkVGy0JJv8AdJV7GG+qmbnPxt2sGNUnWkhXfF9IixEm9XjRMstDBVap4VL7kWsXWvHspTfH/1uogmi0aLx9frBlUcbJed8=
+te65jjfd6seoodda92mc5rorv73363us.mil.	10800	IN	NSEC3	1 0 10 adeb  tgo7s6pemg1vggtkn4oeqfqhm9iaubh6 NS 
+tricare.mil.	21600	IN	NS	ns01-cc-gw.health.mil.
+tricare.mil.	21600	IN	NS	ns01-ee-gw.health.mil.
+tricare.mil.	21600	IN	NS	ns01-we-gw.health.mil.
+tricare.mil.	21600	IN	NS	ns01-ncr-gw.health.mil.
+tricare.mil.	21600	IN	NS	ns01-nwc-gw.health.mil.
+tricare.mil.	21600	IN	NS	ns01-pac-gw.health.mil.
+tricare.mil.	21600	IN	NS	ns01-sea-gw.health.mil.
+tricare.mil.	21600	IN	NS	ns01-sec-gw.health.mil.
+tricare.mil.	21600	IN	NS	ns01-swc-gw.health.mil.

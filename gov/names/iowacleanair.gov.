@@ -1,0 +1,7 @@
+dgqngp8affi17in74vf6mndrg0pu2279.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. EnS2kw2j9+wQWW3moNICwAGr/n85oRHBNisqZe/cgLIlx8cB/nz7cZ30r2ZSsMBxD0qLYlAFDYBeFHivKI9RfPMK7jcYFVHqBE3dwhHEY/+wWVqnnCArpVZNyPhPQPisZPO1IHrLmAKsvFuGj58s9brcI5qe2D2sx0+e66zmmfg=
+dgqngp8affi17in74vf6mndrg0pu2279.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dgsokfclb01cuh16t0rpaoikkc2srcda NS 
+ns1.iowa.gov.	86400	IN	A	165.206.254.145
+ns3.iowa.gov.	86400	IN	A	209.56.120.13
+iowacleanair.gov.	86400	IN	NS	dns.iowaccess.org.
+iowacleanair.gov.	86400	IN	NS	ns1.iowa.gov.
+iowacleanair.gov.	86400	IN	NS	ns3.iowa.gov.

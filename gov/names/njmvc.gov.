@@ -1,0 +1,4 @@
+mqe9jsc24bnpi9vd9l7ugnqbohqgm9v4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. b6Cmd8lLk/1RMAZFt5OwoD05c1DWjrZjr5VA++4lK8Uik23//LwpHrdtDlQWlbmvDnAwrfu2w0xGIB3zj0+6GPfol8iUN3sdF7ip2NQLaamIte907eIQ/BdyDJO57f+4jufDIcq3ypPM+yhlvKFEVIpbWbiqMS29SSXCvMTc2J4=
+mqe9jsc24bnpi9vd9l7ugnqbohqgm9v4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mqk7371kuuaasm5ao8q5q0n0puubpcqj NS 
+njmvc.gov.	86400	IN	NS	ns1.state.nj.us.
+njmvc.gov.	86400	IN	NS	ns2.state.nj.us.

@@ -1,0 +1,14 @@
+bop.gov.	86400	IN	NS	ns-jdcd-01.usdoj.gov.
+bop.gov.	86400	IN	NS	ns-jdcd-02.usdoj.gov.
+bop.gov.	86400	IN	NS	ns-jdcw-01.usdoj.gov.
+bop.gov.	86400	IN	NS	ns-jdcw-02.usdoj.gov.
+bop.gov.	3600	IN	DS	58789 8 1 f5938872dbfdd0fbbbf655a08a302873d28ee685
+bop.gov.	3600	IN	DS	58789 8 2 a42392621936fa4e5818cfcde4a082690887d4c3b92be93774fb0559c7f0f983
+bop.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ehuCuociVOu1VOG7khFCOwJPGd3ye+YM+fzzKSVhx8btNb/Elxmb18aShueu+1czTJz4MqHk8YVLVaZ9iZb9HUnq1wBvYgU00ci945/Ujl5Yj3jvr3IPRdR0vZtViZLeTMzopim4oe3CCK/7jtryzNwWnfOiaclxga9oOHqjFrU=
+ns-jdcd-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcd-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcd-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcw-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcw-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-02.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::6

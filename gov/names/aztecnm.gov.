@@ -1,0 +1,6 @@
+aztecnm.gov.	86400	IN	NS	ns1.fasttrackcomm.net.
+aztecnm.gov.	86400	IN	NS	ns2.fasttrackcomm.net.
+aztecnm.gov.	86400	IN	NS	azwebutility.aztecnm.gov.
+azwebutility.aztecnm.gov.	86400	IN	A	206.123.204.202
+b3pj60hnhfhfjtb3410rqmtplsmi1314.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. vMn4Ur1NkKurLYc2EU+9ahR3YRwT5/CrivQ/T0ibjy7QxAeJowWYdZwTdLVMCQOz9ylDUzSpZgk2R9FISzbEp0yy94JORAqqq9bm0K+CRGXqq6jbs7HTkoAlPjhsK9LhcqIbDvDiJj/8ErAVOVtWM1efBYnrHGhrq9NYwGjFw0E=
+b3pj60hnhfhfjtb3410rqmtplsmi1314.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  b3qa5sr6jqgd966ko9msh3o5nie1vcdk NS 

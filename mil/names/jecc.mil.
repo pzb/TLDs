@@ -1,0 +1,9 @@
+jecc.mil.	21600	IN	NS	adns1.ustranscom.mil.
+jecc.mil.	21600	IN	NS	adns2.ustranscom.mil.
+jecc.mil.	21600	IN	NS	adns3.ustranscom.mil.
+jecc.mil.	10800	IN	DS	61297 8 1 ef20933766f4c10b6166d5aeec6aacbe31b05e95
+jecc.mil.	10800	IN	DS	61297 8 2 59d6e4920c0ba090690295761a301e978f2e107d31cb892f7c182d962af9a665
+jecc.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. YAsYNYEEOSMXIsS+pI3J8JIosfel13bp//a3Hj6w0JxTEybQQtJ30899WHbUlwE8/ZRbknTi7El5t3I/u50Dye/n59j8UOVU+nIMwkYY/vT1KKnoSSRjYuBSfVpW9xrfFkIn21Dt4WpT5iZMsopk4yV7KyR+ACYaAzm/LmxnTxTpk10=
+adns1.ustranscom.mil.	21600	IN	A	214.3.17.232
+adns2.ustranscom.mil.	21600	IN	A	214.3.16.232
+adns3.ustranscom.mil.	21600	IN	A	214.4.156.232

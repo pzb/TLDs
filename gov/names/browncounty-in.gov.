@@ -1,0 +1,4 @@
+browncounty-in.gov.	86400	IN	NS	nsa.powerdnn.com.
+browncounty-in.gov.	86400	IN	NS	nsb.powerdnn.com.
+ro79pm2ckp45u9ch98n76oe7cn2ch8l1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. MhazUvMDinB62WBr120CY54JECEZAhCzRQ2KHHM6sAsOxdGkhE5acRua1kSNRT5vNFH3G1yTm5OYHNB69jogQQ5hODmxRbGa4r6KWZCgJRarDIE/Q+D9hbDiebvEyshrcdZ6YcZ17vJhsX4CQpx/SDA67znCvTrQ+79jzGOz/Hk=
+ro79pm2ckp45u9ch98n76oe7cn2ch8l1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  rob8qndbq3ke45mi0nkhf9733jgl0m8o NS 

@@ -1,0 +1,9 @@
+watermonitor.gov.	86400	IN	NS	a3-64.akam.net.
+watermonitor.gov.	86400	IN	NS	a6-65.akam.net.
+watermonitor.gov.	86400	IN	NS	a7-66.akam.net.
+watermonitor.gov.	86400	IN	NS	a1-241.akam.net.
+watermonitor.gov.	86400	IN	NS	a10-66.akam.net.
+watermonitor.gov.	86400	IN	NS	a16-67.akam.net.
+watermonitor.gov.	3600	IN	DS	6502 8 1 9ba8a9e55bb9c6f6e09cc44dd4e2a32660c28aac
+watermonitor.gov.	3600	IN	DS	6502 8 2 ac0aa0bfecf805a08883b532b11096286e31ccee919646811f419e99ab6b3624
+watermonitor.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. cFKfMI3L4o4SprjbYp2Z28JsnTe18T+ZMsBIicWlogbBFAd8e6albz8B5HfE7RoQWqSOafdGoL8OkKvh6P4nGxGW8aBGmqKnlc71sJ4zdrpT774+MCrBtwBnAtP4EL8F40X4F99vB/5I6ioj3gAtKhwAtGi9RdY7/SaVjfeu4xs=

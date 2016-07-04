@@ -1,0 +1,4 @@
+90fqval4gj99he0ji038ptspvjib1an9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. F3i1Allk2j/zamlPvadHKITecQqwiRQa/6cJJWAmLRK04P/kDDnIru+CriA3ukeT+t3A5MZs8vXZU+N9mQ2ZpQ6DacRlb1b2f81ALBMvEIW5hqp+RkQ/7ri+AlhAr7TiBvPBz4fy2ptCyYNnMXd/Xy1yWKnlqPXqEhH/PLFU7XQ=
+90fqval4gj99he0ji038ptspvjib1an9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  90gla5u0mlp62uh6952026s97p7j5vo4 NS 
+inverness-il.gov.	86400	IN	NS	pdns05.domaincontrol.com.
+inverness-il.gov.	86400	IN	NS	pdns06.domaincontrol.com.

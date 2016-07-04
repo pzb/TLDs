@@ -1,0 +1,4 @@
+iom.int.	86400	IN	NS	ns1.gva.ch.colt.net.
+iom.int.	86400	IN	NS	ns1.iom.org.ph.
+iom.int.	86400	IN	NS	ns1.zrh1.ch.colt.net.
+iom.int.	86400	IN	NS	ns2.iom.org.ph.

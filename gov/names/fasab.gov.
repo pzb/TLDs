@@ -1,0 +1,5 @@
+8m4sm89kql9fo9vvqojmjlv61m6shg6r.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. T2DyK/6RKBikcIqEcXDR3Ikq3/nS5zz9jX7BzMTVDBNgmRbj9b6fKlBCdu7Em9izPI/5sAdi8UiswfI+utD6K8lPwIQzGghw6RxTZNMrVO9AwIQjiNOhkKiUSKyoM2Gt1j4r3Ij6X1wPzoIoz2eENxUy6XWeAdFKJdDjd+OTVYA=
+8m4sm89kql9fo9vvqojmjlv61m6shg6r.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8m72ojtmunpuv7tt7g58klfd32vjlgdu NS 
+fasab.gov.	86400	IN	NS	ns-26.awsdns-03.com.
+fasab.gov.	86400	IN	NS	ns-886.awsdns-46.net.
+fasab.gov.	86400	IN	NS	ns-1384.awsdns-45.org.

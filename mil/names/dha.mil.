@@ -1,0 +1,21 @@
+dha.mil.	21600	IN	NS	ns01-cc-gw.health.mil.
+dha.mil.	21600	IN	NS	ns01-ee-gw.health.mil.
+dha.mil.	21600	IN	NS	ns01-we-gw.health.mil.
+dha.mil.	21600	IN	NS	ns01-ncr-gw.health.mil.
+dha.mil.	21600	IN	NS	ns01-nwc-gw.health.mil.
+dha.mil.	21600	IN	NS	ns01-pac-gw.health.mil.
+dha.mil.	21600	IN	NS	ns01-sea-gw.health.mil.
+dha.mil.	21600	IN	NS	ns01-sec-gw.health.mil.
+dha.mil.	21600	IN	NS	ns01-swc-gw.health.mil.
+dha.mil.	10800	IN	DS	32674 8 1 df1fe015ccdd6a983d0994d9aab078eb0aa07db8
+dha.mil.	10800	IN	DS	32674 8 2 42927b45929a2d630c375556e8be604a8127a9d2bc0b1716d5d83a0aac189f25
+dha.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. Q4UKXDxtQXgRonPHqSaJ9d+NZDxEJyDr1/r/bYnj2VZ7Dg3cRd18GtTeFo5Sq16AvyxgcKULEbrrypzpXQcnHHQ7YRJ5BD7QXIxN93rhiaPiqa+fCDBtDnjXxjoZmhSvjhOC9FjJOb+fm7GUD6EieWoAAG8A7DlZZydI989pqgc9bAw=
+ns01-cc-gw.health.mil.	21600	IN	A	214.2.210.178
+ns01-ee-gw.health.mil.	21600	IN	A	214.2.213.178
+ns01-ncr-gw.health.mil.	21600	IN	A	214.2.208.178
+ns01-nwc-gw.health.mil.	21600	IN	A	214.2.211.178
+ns01-pac-gw.health.mil.	21600	IN	A	214.2.215.178
+ns01-sea-gw.health.mil.	21600	IN	A	214.2.216.178
+ns01-sec-gw.health.mil.	21600	IN	A	214.2.209.178
+ns01-swc-gw.health.mil.	21600	IN	A	214.2.212.178
+ns01-we-gw.health.mil.	21600	IN	A	214.2.214.178

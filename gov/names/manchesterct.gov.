@@ -1,0 +1,10 @@
+manchesterct.gov.	86400	IN	NS	dns1.manchesterct.gov.
+manchesterct.gov.	86400	IN	NS	dns2.manchesterct.gov.
+manchesterct.gov.	86400	IN	NS	dns3.manchesterct.gov.
+manchesterct.gov.	86400	IN	NS	dns4.manchesterct.gov.
+dns1.manchesterct.gov.	86400	IN	A	38.126.110.3
+dns2.manchesterct.gov.	86400	IN	A	38.126.110.4
+dns3.manchesterct.gov.	86400	IN	A	64.251.56.3
+dns4.manchesterct.gov.	86400	IN	A	64.251.56.4
+ovm543g9aps331gd362mpnfbqhasa875.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. T1CsBwzos4cixW8OdxE9p0qpcyhMyG4vOnwTwF8d5Vo8++Ja7Qojjggp6BkU99oqw7sDNmFrRBVm3ZxcHfo1ejXj78EBQol9dFNE9p71n7PIvhdb4nvL5QfkfPdQZESmIN0PwcZLGIRxTKF2l8OEW7VtsokGXlm8WyTqjU/sEaQ=
+ovm543g9aps331gd362mpnfbqhasa875.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  p03htfttvlt5san8rn1kg7al0ik3ukis NS 

@@ -1,0 +1,4 @@
+cq49vdiaiu19k3vftud368jg47bdi1ek.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. sIRv+YM7vPti+9RSIbMPFXlZzwl6jJAB/GMbCLB3viPyG1oouK2Thst4ZgVTtbEyhXu/QnoTBgpjATB9J2/EMblCwBK0o3mYSnhytHDk2cV0Ls4YLvsqj9F0R/++vS/+/brMvco46t4QtgikYp2rGjsv5lZWBhbkXU8xxLQ8vsk=
+cq49vdiaiu19k3vftud368jg47bdi1ek.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  cq9b1i5a60qio6895ke84hk3ljhc0n8j NS 
+espanolanm.gov.	86400	IN	NS	ns13.zoneedit.com.
+espanolanm.gov.	86400	IN	NS	ns17.zoneedit.com.

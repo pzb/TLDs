@@ -1,0 +1,6 @@
+arizona.gov.	86400	IN	NS	ns-19.awsdns-02.com.
+arizona.gov.	86400	IN	NS	ns-913.awsdns-50.net.
+arizona.gov.	86400	IN	NS	ns-1350.awsdns-40.org.
+arizona.gov.	86400	IN	NS	ns-1736.awsdns-25.co.uk.
+ej259o24lef76m9715idm2tifc1sbnuh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wzDJoVwW1laidz4wS6oeKBN9cJBymrh7bqsfNEJs5jtuE2CPQt3KATmTBUhKz4Uu7s1OhC+FFxBk/5oBi+xIA+Oy3h8HaS1nQOJGl2JnF2xwAcbKhABEci1gmyCMqG0yllhhLagH1NIvnalWSiw7i6EF7YZ/1DiUHWjUBcslZ7M=
+ej259o24lef76m9715idm2tifc1sbnuh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ejc2u8hn5laveppoa69u6fkccol2d4v8 NS 

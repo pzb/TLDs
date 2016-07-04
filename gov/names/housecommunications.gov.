@@ -1,0 +1,6 @@
+eso2e0k3hdaq0emijegjjmgnajfdqm1u.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. SZGtnUIW6n9Toe4GUvCrWFtD8aPLsOgaKpA+DCTtDKN+zwDc9wgoZRQUGTWS9kJpAHYz3qhj9s3BTc+uFsGx5j2XxN7G+fL4elHlhwoQXiN2cGvx9o8V1Uxmx5BmxiU+uReYvlnprOWNAVFmue4EWzejVgMVCKmTdH2DhjXozDw=
+eso2e0k3hdaq0emijegjjmgnajfdqm1u.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  esv0mo5hb4u5fd6rotachaelqplivnch NS 
+chyron.house.gov.	86400	IN	A	143.228.129.38
+mercury.house.gov.	86400	IN	A	143.231.1.67
+housecommunications.gov.	86400	IN	NS	chyron.house.gov.
+housecommunications.gov.	86400	IN	NS	mercury.house.gov.

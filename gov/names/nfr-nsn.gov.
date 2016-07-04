@@ -1,0 +1,4 @@
+gldv5drkctfd6v7ent83k7rqhqdqvuik.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. GKdJnr4NdiqIjBBB0HrWRjcrDuariSGPuPBclwSvzk1UCEj8D80eWG+ekRXBTeQq4FclAWIgXAGXu2ul8JC6cn+eKUJ3+tPbvnp6M0Bsc6Y4OsX+14GlprlPifRzURoqfdbRQzsjswnqaystG8ahHWomS8zAZRXjws/CDmFNRDk=
+gldv5drkctfd6v7ent83k7rqhqdqvuik.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  glf8gpdv4libag68gtisl5v3q61313l3 NS 
+nfr-nsn.gov.	86400	IN	NS	ns1.netptc.net.
+nfr-nsn.gov.	86400	IN	NS	ns2.netptc.net.

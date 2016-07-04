@@ -1,0 +1,6 @@
+lanesboro-mn.gov.	86400	IN	NS	lweb1.lanesboro-mn.gov.
+lanesboro-mn.gov.	86400	IN	NS	lweb2.lanesboro-mn.gov.
+lweb1.lanesboro-mn.gov.	86400	IN	A	173.201.23.157
+lweb2.lanesboro-mn.gov.	86400	IN	A	184.168.121.166
+o9456dlujgprue3u9lrpm71fj6q8i2vl.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fZQ0ogUQinshnEIhdQ4yvH5U2Mdm5EMzRrFHcXRK/2KJk52iI+oi0Y5A5+InCtdumXVWD72Em4HfE/9sI3LdJ2oftyB1UQZeKhmVRhUmyEsw3MHga+h+oMRWfa7AtYsNGBN67CVMBZXRS8SM2u1iccfMV2eGRrSyZzNjpRuK6ao=
+o9456dlujgprue3u9lrpm71fj6q8i2vl.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  o97l89ml2ap96ppbrsgkm930mrpna7d9 NS 

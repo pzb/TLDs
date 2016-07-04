@@ -1,0 +1,4 @@
+qrrbfedm0tsab5heql0gft9kcqdusj5f.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. YSRRcMS7ZVYXG6Q7RKpodMT7C+bGY8aOmO60GbWzZ5fpjTP2I9hE2gvZMH3P4ITRT4JMlNFu7pcmIf7Msg0qlZkJDVdFu5MMPR46y/BNWxkntlBDAgf8uOPSBy7dzdTUjdJHo5gH8CzbTJOegV2FpaLkMmlot00vdddy+yA+8H4=
+qrrbfedm0tsab5heql0gft9kcqdusj5f.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qs5d5ga0oiv38tkqs2ps482c9rgircre NS 
+rhinebeck-ny.gov.	86400	IN	NS	ns495.hostgator.com.
+rhinebeck-ny.gov.	86400	IN	NS	ns496.hostgator.com.

@@ -1,0 +1,10 @@
+85ihvcpp51gfj1mp1cf4s1s64jiadct0.mil.	10800	IN	RRSIG	NSEC3 8 2 10800 20160708161835 20160701161835 16413 mil. WMHHbyLwudNqmzq+GPwtQAhgJGY4agFMOnDF/HNTsbFsaDvfe3q9KIZ/+4RYP9hiM9BDHnzoQrlySxMNkVaE9ColEjyUspLVj3GjnCYLrTq8Q1Tn4bjyUmhJpBSiHUlDTgajGJ4XeU5NnZOeC0m5z0CtajbyqkoQ4ial28rUfqdZj/M=
+85ihvcpp51gfj1mp1cf4s1s64jiadct0.mil.	10800	IN	NSEC3	1 0 10 adeb  860usn17jhl0cqmo6mcdaphjphrgieo2 NS 
+jdrs.mil.	21600	IN	NS	ns1-ni.navair.navy.mil.
+jdrs.mil.	21600	IN	NS	ns2-ni.navair.navy.mil.
+jdrs.mil.	21600	IN	NS	ns1-pax.navair.navy.mil.
+jdrs.mil.	21600	IN	NS	ns2-pax.navair.navy.mil.
+ns1-ni.navair.navy.mil.	21600	IN	A	205.85.48.33
+ns1-pax.navair.navy.mil.	21600	IN	A	205.85.22.62
+ns2-ni.navair.navy.mil.	21600	IN	A	205.85.48.34
+ns2-pax.navair.navy.mil.	21600	IN	A	205.85.22.63

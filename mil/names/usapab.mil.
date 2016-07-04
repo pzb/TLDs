@@ -1,0 +1,6 @@
+3lr5q5u7v7ujecg4449vu2v4f0mc68tj.mil.	10800	IN	RRSIG	NSEC3 8 2 10800 20160708161835 20160701161835 16413 mil. D5mZjbV2YjMsfDpfnWhuS3zvPG3MNJ6FE4UV0Dfm/bB6+xWc/1LrRRsfxw6B9lANfXbMWDFYis0ZndqWnKCW4YzddywG5NW7LUI4JVM9GVyO3A2mGKZ1M+VlZdlBpJHtPTFusUfkORmRKQJiVLAAGpNj9DMIFZ9qZfp2F/FlzBioJXg=
+3lr5q5u7v7ujecg4449vu2v4f0mc68tj.mil.	10800	IN	NSEC3	1 0 10 adeb  47gukrvp8su5cjga92qvol6u38cfh0nv NS 
+usapab.mil.	21600	IN	NS	u30dc01.usapab.mil.
+usapab.mil.	21600	IN	NS	u30dc02.usapab.mil.
+u30dc01.usapab.mil.	21600	IN	A	214.4.158.3
+u30dc02.usapab.mil.	21600	IN	A	214.4.158.4

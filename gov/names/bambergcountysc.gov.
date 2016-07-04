@@ -1,0 +1,4 @@
+b8o3g5bjh762an7qkhogmgibd7v4r80f.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Anj9zRWL6FOGjxumQg62TDLUpIc2r3FUtLG694ycJrrzXmbU5p+efx720u2nXSFaftoX/j9KbmN6Dup53ww+ADPmcu2FHVGX4v6J+d0cE54WJdzL8ANl6boy+jjfNKsk7fk0g05tmr4I6+bMxzoqPstjxj7VuFo1yNgLXRk3M3E=
+b8o3g5bjh762an7qkhogmgibd7v4r80f.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  b8s3sbkm4nvva91rnkifk6egt84joe85 NS 
+bambergcountysc.gov.	86400	IN	NS	ns1.net.state.sc.us.
+bambergcountysc.gov.	86400	IN	NS	ns2.net.state.sc.us.

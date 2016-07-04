@@ -1,0 +1,15 @@
+businessusa.gov.	86400	IN	NS	dns.gsa.gov.
+businessusa.gov.	86400	IN	NS	dns2.gsa.gov.
+businessusa.gov.	86400	IN	NS	dns3.gsa.gov.
+businessusa.gov.	86400	IN	NS	dns4.gsa.gov.
+businessusa.gov.	86400	IN	NS	dns5.gsa.gov.
+businessusa.gov.	3600	IN	DS	3871 8 1 1053f8839f10a8d96313e24908d804d89d57d161
+businessusa.gov.	3600	IN	DS	3871 8 2 86ce3f18af9b75cd99d1284a40e7c83c6a1d5f3ebd331b820ba4f86d7e35c530
+businessusa.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. bYt3m2PrrqUR/H7wHmLgwIkH1/15gsFNHyIXxQDqptLPddgraafsTxTSrFeMvcyr/1BSs8j6miCE/q6+6oTW+n0Y9w9IeWjMH6vHjC3OnD+U74B/MjZdG0/rkzEt13HXL+fWrQoHYi5ucgVrqHR3R6E5TeGGcRuU1upQvbEu2cc=
+dns.gsa.gov.	86400	IN	A	159.142.136.198
+dns.gsa.gov.	86400	IN	AAAA	2620:0:150:280f::5
+dns2.gsa.gov.	86400	IN	A	159.142.150.68
+dns3.gsa.gov.	86400	IN	A	52.203.230.235
+dns4.gsa.gov.	86400	IN	A	159.142.69.84
+dns4.gsa.gov.	86400	IN	AAAA	2620:0:150:4013::5
+dns5.gsa.gov.	86400	IN	A	159.142.45.20

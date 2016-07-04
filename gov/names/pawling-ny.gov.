@@ -1,0 +1,4 @@
+2ancek2g7ga1o49vam9i5sn95bafh8c3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. dy1feiPTRv3Z98q2HGQCxaoW3GmdysQvYXHH3HKjqbBDCEur7f+Y6Qe0mwMPwwW5w7eGxL/nrxmnMnegDag8DLAUCsmE/ZmH1FtKuVmXvYYNvCKAPixGuxZ2axhmxHB7okhj6VHjIwlCVE3Y6OgJCjpvdsNI+SksMMLIg0IbI5g=
+2ancek2g7ga1o49vam9i5sn95bafh8c3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  2apib0fk60dp47du4802j717l0ov3v1j NS 
+pawling-ny.gov.	86400	IN	NS	ns51.domaincontrol.com.
+pawling-ny.gov.	86400	IN	NS	ns52.domaincontrol.com.

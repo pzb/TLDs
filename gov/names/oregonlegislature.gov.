@@ -1,0 +1,4 @@
+i95qr8nscskjjq2op3ci2902lo5vbdob.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. mRFBXPhnK+hBwYGbs4roJ2goc/+g5fqfmKQXPkcnG3vdBbZHnJsfvQ8sllF4DBd40xyKPYWMu/w0ccJHamdPFCJmug3TdGNxAv+lJw95GwtOSKqbLKQnq/F/ThuuAQs95gUx8C4N0qp1/SlM1YIJBVkRu6XBrDf33EKEaGLYxjM=
+i95qr8nscskjjq2op3ci2902lo5vbdob.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  i99lgodoqmf0j1vhd7nh4jc2b8qi4d9v NS 
+oregonlegislature.gov.	86400	IN	NS	lion.state.or.us.
+oregonlegislature.gov.	86400	IN	NS	puma.state.or.us.

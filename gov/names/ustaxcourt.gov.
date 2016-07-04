@@ -1,0 +1,9 @@
+ustaxcourt.gov.	86400	IN	NS	ns1.ustaxcourt.gov.
+ustaxcourt.gov.	86400	IN	NS	ns2.ustaxcourt.gov.
+ustaxcourt.gov.	3600	IN	DS	17182 8 1 5fcf0f5cc7da3ce622c2e2cbc40a5bb053ee815e
+ustaxcourt.gov.	3600	IN	DS	17182 8 2 47bab55f86d3f520dc9786ff92dbbdb4ebe855482426c36fa94c170ac2791921
+ustaxcourt.gov.	3600	IN	DS	49016 8 1 f20db766ee7377eece1f25092422f152146a081a
+ustaxcourt.gov.	3600	IN	DS	49016 8 2 6e56daa723b3609e7ed52b727bf5c5a1335bed372a9d65856404f05714c5c755
+ustaxcourt.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. UsrusCOSBGUqcFd7mVbOgkdRAz8aMTGQsBrFCVi7GvspRYkHSVWnJJGNsk+4SyECjwfrz7a6ezmSRhjNY0g4Yc56bJ32jF+u+GiJpGVJBBIUPYlfIYxetAQHZYEl8pISqYwy7UrauIKIB1GcvElD9FNxPGJZjRfQ9kMlWBZVHS8=
+ns1.ustaxcourt.gov.	86400	IN	A	65.246.108.6
+ns2.ustaxcourt.gov.	86400	IN	A	65.210.125.198

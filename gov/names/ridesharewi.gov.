@@ -1,0 +1,5 @@
+htaqropdos6trb77o7rk62firhstdvjd.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. eob9O7O/5EnIQ8TAiJOStSdgwKYQ6UgZaRDUjgPAXh1CAv+ZCDOkLrIGW8beXBHImeNbpbKTBpzlG9uP5KYr9Zqn5QHjWl+pWx/uaH+iR/1YyiYphdwY5bGBMha3ud8hPqfNirN1TxLKoNfhgMSoSUjnN4I/rx9g/nelSJkiARo=
+htaqropdos6trb77o7rk62firhstdvjd.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  hth4hinql68um6hfsslqe3hriuqam5ud NS 
+ridesharewi.gov.	86400	IN	NS	dns.uw-mad.wiscnet.net.
+ridesharewi.gov.	86400	IN	NS	dns.uw-mil.wiscnet.net.
+ridesharewi.gov.	86400	IN	NS	bigred.state.wi.us.

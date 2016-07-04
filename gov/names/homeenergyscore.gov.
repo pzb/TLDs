@@ -1,0 +1,9 @@
+foxbat.doe.gov.	86400	IN	A	205.254.143.110
+foxbat.doe.gov.	86400	IN	AAAA	2607:f368:1000:1000::53
+fulcrum.doe.gov.	86400	IN	A	205.254.144.110
+fulcrum.doe.gov.	86400	IN	AAAA	2607:f368:1000:1100::53
+homeenergyscore.gov.	86400	IN	NS	foxbat.doe.gov.
+homeenergyscore.gov.	86400	IN	NS	fulcrum.doe.gov.
+homeenergyscore.gov.	3600	IN	DS	56260 8 1 0a5354e246edda0a61aead6e086db63cf1f64182
+homeenergyscore.gov.	3600	IN	DS	56260 8 2 81477df886aa4106892f18a784764b54298eece7bd9d8ac46a6766e524ac8210
+homeenergyscore.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Vj/n6sFHqjQCkKHQv1Mgy5zy4ngCa4QqbhL8k/s7lqjVU0RcqmecNUmuyWeE4wya4oSTFCbFL293H5tD5z11CszqXKXKNX4lPPa8d1hoABo83wVRUKN+qGIGTDROda14jotZEdVVx3Cirb2EcUGpaDICnxdBp9PbblgoInJotOM=

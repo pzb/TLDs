@@ -1,0 +1,4 @@
+cityofplainville-ks.gov.	86400	IN	NS	ns1.ipowerdns.com.
+cityofplainville-ks.gov.	86400	IN	NS	ns1.ipowerweb.net.
+v2psgu60c19v7l8e52rjo0g1admvt7jo.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. lNPQRTPdiZWnKomm28qR2sVxUaIN30MlNSB8KKCfrFnIPOquZWHyaOPbEDh0S0/BRnTHaaVhkYm7a2jf0g193Efi7+1I8yQDGUgbYrEX/ONN2cKlw3Plh6wixrqLL7J7Xgt/3mP+8JaoYJSF3kGSul4syqHil8RvCsKpzmZXwxE=
+v2psgu60c19v7l8e52rjo0g1admvt7jo.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  v38dntvjj8abvbckh22e85s4n64rm4vj NS 

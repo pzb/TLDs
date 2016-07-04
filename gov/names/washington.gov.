@@ -1,0 +1,9 @@
+nsoly1.wa.gov.	86400	IN	A	147.55.186.3
+nsspo1.wa.gov.	86400	IN	A	147.55.114.3
+washington.gov.	86400	IN	NS	lion.state.or.us.
+washington.gov.	86400	IN	NS	puma.state.or.us.
+washington.gov.	86400	IN	NS	nsoly1.wa.gov.
+washington.gov.	86400	IN	NS	nsspo1.wa.gov.
+washington.gov.	3600	IN	DS	56692 8 1 7c9eb53af6d6a2aef13daed8ec61e28e94d5feb7
+washington.gov.	3600	IN	DS	56692 8 2 65f8a41663b9088d9bd219834cc73322eccb353be1af2b94fda54b7982ae98f2
+washington.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. mIZ5eB0iY+Qo21SyHIN330dLQRx853I5qugPHm5SlO3ZZ2qV7a9iWqsPYYR2eXD5AKQFBHeJ69RzNHXoHxNL+vx4FINJSCACEAoBYjLbE2oyHIvicbKQmEgggsph3TfZ5y/4eaWNnxHQ2mXoF7bL53bDM26JF2MmI5atz99+m9U=

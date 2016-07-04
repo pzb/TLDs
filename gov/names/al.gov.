@@ -1,0 +1,6 @@
+0co7r0ft9balqiagdom5jr1ihvfv6h9r.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. uURylUF+CSf5IWpeOjaU+5uUNUBY4D2ROg6sKJb2Yo0oXHebfdzYOZWpL7sIPVRbBi/NXt+Vni/1Ysmi/AR1shSiKWqQXtUg+b3uhtZ03XCBnD4rC2n5EKLU1eAaB7V0eZguo+BEUC4dch+yy1Q0RXl0tufvW1rKriWmmhEf+uo=
+0co7r0ft9balqiagdom5jr1ihvfv6h9r.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0drp6rf5tid0nqv6rll6v7ajk14lfesj NS 
+al.gov.	86400	IN	NS	edns1.alabama.gov.
+al.gov.	86400	IN	NS	edns2.alabama.gov.
+edns1.alabama.gov.	86400	IN	A	216.226.178.11
+edns2.alabama.gov.	86400	IN	A	216.226.178.12

@@ -1,0 +1,7 @@
+ice.ars-grin.gov.	86400	IN	A	199.133.55.19
+slim.ars-grin.gov.	86400	IN	A	199.133.55.18
+arsusda.gov.	86400	IN	NS	ice.ars-grin.gov.
+arsusda.gov.	86400	IN	NS	slim.ars-grin.gov.
+arsusda.gov.	3600	IN	DS	58164 8 1 26223e57fed0411c135c7732379d19d94e7968f7
+arsusda.gov.	3600	IN	DS	58164 8 2 27fa0771d1f6c194f34575a1cfd0ff6d65f4ff476b4a6116959ebd15c0d99541
+arsusda.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ukIqU4ukbLshHGvKJ/iGjbXKHlXeq6e0Teyd5T9wsnoNlq4oq5x9lkWGrfdoNCK7eDhuqYcOal5Il+jayn39++XkNzfipRNvyCwy8aACdO3QTUZBwRgPYUvm/WqqP+XQJjF8YsYEDfdoZs8oeus3s7Z8tUTeuHsQDBOCWXSM0Z0=

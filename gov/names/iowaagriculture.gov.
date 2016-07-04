@@ -1,0 +1,4 @@
+ch9gtnae77tlsilb5ivsn08aioh9v103.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. dgclxSDM9eV9Fv98z+1HBvOsE4e0XAO/aq4NkZj18EbEmPK6EAM9AuTOAz5fvQ61vNRGbgT7YjxClhD1pQn+sLJ5Ubdecx4QboFkpAAYYvk/Y+TumS9KuiVOb7nTvdzSIMco7gWdEbTNVMpmSbHr2DczuRW+mkR+98LdNTyhzPg=
+ch9gtnae77tlsilb5ivsn08aioh9v103.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ci0o8uobbm1icst832c5mg71gtihv7pa NS 
+iowaagriculture.gov.	86400	IN	NS	ns.state.ia.us.
+iowaagriculture.gov.	86400	IN	NS	dns1.icn.state.ia.us.

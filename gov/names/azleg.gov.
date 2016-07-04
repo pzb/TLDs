@@ -1,0 +1,6 @@
+azleg.gov.	86400	IN	NS	dns1.easydns.com.
+azleg.gov.	86400	IN	NS	dns2.easydns.net.
+azleg.gov.	86400	IN	NS	dns3.easydns.org.
+azleg.gov.	86400	IN	NS	dns4.easydns.info.
+c2guee5es4dmvcqi0nnchraeurgt55ul.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. CjWH4Hva3MnptSAG9JZviOKI9/tmw5+wbXA++nb+pHGjNeF34GGJbJvWPKLBPhmQbQDZareUekrdfXKN/Yy0h1swtUsoUsnA3uOY194GFqag8u8Fpmr9zJqL3VI30sxWIlegu6zzHNY3Qq8wpVh+Rr7Ui+fZC2aGZdlcFiBE5Mg=
+c2guee5es4dmvcqi0nnchraeurgt55ul.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  c2iph7bjtkj2cjkbg0fccun265redfme NS 

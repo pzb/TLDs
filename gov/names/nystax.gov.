@@ -1,0 +1,4 @@
+gg07mql64j0ls0lnjuqf7qc2bcb8mjqh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. kOFtfb0jOWqjCsM/ND8I2eteIwUJh+wg51dYGW5x0LwtdPLNf7k42cHYneQCrT1WL8RcMwsBEaR+nMgcYdJRQX43PmqUD8Y+kkxzstkpdlfgzlGpXulmlScB0muJv0UV26vz7z0B5NaPFeQnxoQWNhkP9OuaR3EZMz3TNxaEnSg=
+gg07mql64j0ls0lnjuqf7qc2bcb8mjqh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  gg3fm8fj5ipp55i4c5a6e5un6v82dnus NS 
+nystax.gov.	86400	IN	NS	cbru.br.ns.els-gms.att.net.
+nystax.gov.	86400	IN	NS	cmtu.mt.ns.els-gms.att.net.

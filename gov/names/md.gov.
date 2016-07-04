@@ -1,0 +1,7 @@
+md.gov.	86400	IN	NS	nsa.mdarchives.state.md.us.
+md.gov.	86400	IN	NS	nsb.mdarchives.state.md.us.
+md.gov.	86400	IN	NS	nsc.mdsa.net.
+md.gov.	86400	IN	NS	nsd.mdsa.net.
+md.gov.	3600	IN	DS	57442 5 1 0f499b2f840bf8a191f286e8852792502781019c
+md.gov.	3600	IN	DS	57442 5 2 90fb9044e697c65dec5660364c7592f2c5f5b6c6b2df952ef8550ffddc2b4081
+md.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. OsqmBbFGE9O3e+zb8doW+WszKn2/F1RAk7YeyW0Lw4SnaWdWKOfmIyA6NOq4rQMbi7U+a+Ve6mdRZuLJsGuCevj93LtrspkUB9sObbbLsQI/R9psrjnxrdYeJyh0LrT1o/V00+BQVUM8ux76kYdzaMjCMsC+HSzYYhYOD6rpEzw=

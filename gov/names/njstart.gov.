@@ -1,0 +1,4 @@
+njstart.gov.	86400	IN	NS	ns1.state.nj.us.
+njstart.gov.	86400	IN	NS	ns2.state.nj.us.
+ociugn6smflhab5qtpdotcin1208hre8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. GDyTCQiAjgJEP9VjrdkULrlrL470Dk+6IXefXhoHg5PAnCGznmMh/WC8OW7YzSI94P5SqjaxMhV/Gv7jmI+DkVcHd4Vtmy6+R+No7lMAs5+eLY1z4xn0aCUsT0/OLqfGRENtT+4fGx30k/N+vNcHnkwAjAERkzwVFIRvJPG2Gao=
+ociugn6smflhab5qtpdotcin1208hre8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  oclsvb10if076i75ickb7l4i1vct39bu NS 

@@ -1,0 +1,7 @@
+americasstory.gov.	86400	IN	NS	ns21.loc.gov.
+americasstory.gov.	86400	IN	NS	ns23.loc.gov.
+americasstory.gov.	3600	IN	DS	13246 8 1 611109600270a54377e38d02045c766a1eeffb2f
+americasstory.gov.	3600	IN	DS	13246 8 2 220113e0f084a26d4a6701f98e40bd158efad089410fe2e7603ad172373aa4d8
+americasstory.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. F3hKip4Ij7oSRjHPHcwi3RhtKwWlFok7m3nux5h1yeUjuorzZcI0dGxVg3x7ZKBYKsh4jy9I7maKwSy2FtS61gpuaKq2vLcea3MI2eiEEGL+MesWZ9Cgk1AbqysGyLDY6RkkUxSsCj8jv5dPEUpJYLAvtkUZBpy0LEsbKDPeBmQ=
+ns21.loc.gov.	86400	IN	A	140.147.32.166
+ns23.loc.gov.	86400	IN	A	140.147.239.150

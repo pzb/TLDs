@@ -1,0 +1,4 @@
+9ac7gqovk3cfm4avr7ttuk88sc2neq14.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. uQADJfDYaULszkVqh6pOEfDrDWsJ8LiUjdybahPNVf1/eyOU9/RDuBZaoR0nWDfpRUrAae4/TDr2OnSimhwTlPlEOigRi2ZQLjIEV4Be1/EW1KzCzeC7dQ3hQDRt00JDRza8hHIOGWFFBGhX1w+bOq75renxyo5y/MMCpOOA3gs=
+9ac7gqovk3cfm4avr7ttuk88sc2neq14.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9adc7tsm14i79j41m08qp3i00uf3qtfg NS 
+fortlupton-co.gov.	86400	IN	NS	ns43.domaincontrol.com.
+fortlupton-co.gov.	86400	IN	NS	ns44.domaincontrol.com.

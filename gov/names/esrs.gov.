@@ -1,0 +1,4 @@
+esrs.gov.	86400	IN	NS	ns03.symplicity.com.
+esrs.gov.	86400	IN	NS	ns04.symplicity.com.
+esrs.gov.	3600	IN	DS	46138 5 1 834fd6cf2c969cf0f38a779777ad98ed5fa5cfb6
+esrs.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Shoq8cdvrSQbjuiGjfzQTOqA4rlUHHo/dlLQO1LL1So9AHykWuk3UgfUTWG4GCVuhHi1+zay0Mcrmrw9NkVZ5SFmgnZLfCt6DjeQllsLcKRGrlHagRf5xE9PmV5qO93D2afOqDviPbenZe+NNpoC+/SSwk9l3yFldRgU8MlifCQ=

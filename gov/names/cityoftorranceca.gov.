@@ -1,0 +1,8 @@
+cityoftorranceca.gov.	86400	IN	NS	ns1.cityoftorranceca.gov.
+cityoftorranceca.gov.	86400	IN	NS	ns2.cityoftorranceca.gov.
+cityoftorranceca.gov.	86400	IN	NS	ns3.cityoftorranceca.gov.
+ns1.cityoftorranceca.gov.	86400	IN	A	204.145.129.2
+ns2.cityoftorranceca.gov.	86400	IN	A	204.145.132.2
+ns3.cityoftorranceca.gov.	86400	IN	A	204.145.133.10
+igmbsfo87ci31gbm9ie8im4ej9su8lac.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. NgcUqytN/VtRPWov8/VOdA2L5T/hQumOeiXwCNTzx2GPXryUfpR3ARmDo/3HEx1J9xtTwBEobM07BNlLVCuBBovgFoXQUZkOWkIX/7jJq+8ZWQVucTPHcbJUbeozV9pCGhbFdcSuEmREBCHpI1KFoQB5xa3ItyzbSuNH++LUFRE=
+igmbsfo87ci31gbm9ie8im4ej9su8lac.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  igorqk2tukkav7t7i4t5g7or050lmph1 NS 

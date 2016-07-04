@@ -1,0 +1,4 @@
+leonianj.gov.	86400	IN	NS	dns1.primemsp.com.
+leonianj.gov.	86400	IN	NS	dns2.primemsp.com.
+mme39e3ametk5efs064llir0fhpkn594.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. bO5rJpcSOvbZ8ZnJDnYPuinr8FKBVYKVL55PNC8MsVHhhIemSC53XmMLI6Y2DUKPqajBJRfbOzDECHXs5aXQn5fMlxnYAhtxp3+xpB1RIvPM4NfNtPeniipmZqSjCF7HKCOK88bvSu6a7JQB5UTDSLPw1WTuiT3WfJuTre7ZZKM=
+mme39e3ametk5efs064llir0fhpkn594.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mmfojb50pr3kp3ufh48gq9v45odeg5hl NS 

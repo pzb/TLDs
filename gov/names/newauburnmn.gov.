@@ -1,0 +1,4 @@
+8oi5hq7dhtoor5b46h8j8n901l5d2jkj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. oUEVRJxAK5wPR9TphjO/p0PjU020r+C9kIw6Hk8jpNsuVTU6UTICW2nZrb8mP9enkIIiqn9dUeoWmZereRqw7kUCaT3t1xI+kg3l6Jf1S/4CBEIPvq8nG1F/3JU4isb10L2evfaZJymFnZ/8wCNKwyXIlw7f0UrF7KTCIKizVxw=
+8oi5hq7dhtoor5b46h8j8n901l5d2jkj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8okvgn347kcrorukmlgkmem8kr8398sj NS 
+newauburnmn.gov.	86400	IN	NS	ns6.wixdns.net.
+newauburnmn.gov.	86400	IN	NS	ns7.wixdns.net.

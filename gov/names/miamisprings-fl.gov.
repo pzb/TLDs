@@ -1,0 +1,4 @@
+1bivqp7d9e1f06tsmh3q5m7e605vr3tt.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. guQ3y9HO7zCdG/N9xuMyMMYXMFo2NKLGbCTbmePlsqpiuOWH8p2Ek/u3d5x28V7El0fcMlIMsVIgVUsGCkcYJzO4w/yndVBKCn4DL3D42he+JUfS5yiRAkhp7UJWRYnKJAma4dc5gwKnM/sxslC3uc5nKwLaa4zh+YM8yjfDYOQ=
+1bivqp7d9e1f06tsmh3q5m7e605vr3tt.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1bjbhtd6o3ahc28mtf3iehcc4ds2tlar NS 
+miamisprings-fl.gov.	86400	IN	NS	ns-322.awsdns-40.com.
+miamisprings-fl.gov.	86400	IN	NS	ns-553.awsdns-05.net.

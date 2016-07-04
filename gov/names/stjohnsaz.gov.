@@ -1,0 +1,4 @@
+ac82i8u3kfim55bvfdldv9p5l5e5h1om.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. bY4s0LxWzsxKrkj6jRAgnTohghdnDiDiVQSk8VLalQqGTvW5MeUDNiCTbOpuAHLSLFjeF85dlUa8bENGEFeUoEQYmTT36s/6xJLBp6X5DtmEWoqwukzt0Qciagut0Ql1Tgegybz4Yebyhmi9lQP+YRKIDbfN9v8ZaCw57SASBP0=
+ac82i8u3kfim55bvfdldv9p5l5e5h1om.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  acjnqmb3isf6l6t3giac515jn3srbpmf NS 
+stjohnsaz.gov.	86400	IN	NS	ns1.ctgweb1.com.
+stjohnsaz.gov.	86400	IN	NS	ns2.ctgweb1.com.

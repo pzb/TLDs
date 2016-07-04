@@ -1,0 +1,5 @@
+cv7gfar6rqaodoldgvghdbqks74nor3s.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. KpTLyYvqpO+5LFLwr3R70OSOcVaIl20DYqgbZ00Y1My8vUfuhayaul7MQkrENQg3r9fJy+k+iyPWWRegmVILj0h956eWa0/eyq9C2U15GfCsgPlx2fAt2lxH1R7JnwZL/1gWrmUNga3Z1bWFzlTRZJM0YyT3Q8pi8Go/LFeNnkg=
+cv7gfar6rqaodoldgvghdbqks74nor3s.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  d06fkfhsam9o8oafk2a428j14km7ujs0 NS 
+naugatuck-ct.gov.	86400	IN	NS	a1.verisigndns.com.
+naugatuck-ct.gov.	86400	IN	NS	a2.verisigndns.com.
+naugatuck-ct.gov.	86400	IN	NS	a3.verisigndns.com.

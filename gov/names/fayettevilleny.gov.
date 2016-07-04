@@ -1,0 +1,4 @@
+3olvde4r48hebq7oaef1tl5j0bvp5meq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. jtV6f/WoBBx7iZUrM+3NTwZDHjxE8gG9Oaj/7eige6ozTLyFrPm0YyjcwmClHZTRLydq0zPPmNaf7malyVF0iJNFGEUeacsuSxfoCzPCd3NkxwoFC9q9nFjaqBI0ZjB0Lr/jNX/8V0+D4q3Zg1LDZP0UOIzpbcA13W+xewQBgpo=
+3olvde4r48hebq7oaef1tl5j0bvp5meq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3onghlbja8qafdidf8kfq1dasv54jv57 NS 
+fayettevilleny.gov.	86400	IN	NS	ns1.ev1servers.net.
+fayettevilleny.gov.	86400	IN	NS	ns2.ev1servers.net.

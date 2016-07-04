@@ -1,0 +1,7 @@
+asianpacificheritage.gov.	86400	IN	NS	ns21.loc.gov.
+asianpacificheritage.gov.	86400	IN	NS	ns23.loc.gov.
+asianpacificheritage.gov.	3600	IN	DS	65104 8 1 39c0bcf9c885badf686ce011704ea6f0ce329282
+asianpacificheritage.gov.	3600	IN	DS	65104 8 2 f07099a10f211af31cc3c6cf542bff8d20679d0ca85d5f6e8f93d313aa86af6a
+asianpacificheritage.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. R4jZPzQF6ocgcRg+MvBYon8NpDP8vyy+i5ZAlnO+K8HTT03XvyDCgiDbzrzCYS4d2taRKSHS3flntL8M1Yb80GD6TjwA0GC2iCOiqHs5HRgLxxACPRu6BqxaRkPWk/wAifX4zoebRLFGwdXDnTasC8KMGThe8F8DGZqm1U9FMDk=
+ns21.loc.gov.	86400	IN	A	140.147.32.166
+ns23.loc.gov.	86400	IN	A	140.147.239.150

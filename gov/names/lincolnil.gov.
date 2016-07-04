@@ -1,0 +1,4 @@
+lincolnil.gov.	86400	IN	NS	ns6589.hostgator.com.
+lincolnil.gov.	86400	IN	NS	ns6590.hostgator.com.
+qeuai0s8gqrv85qu9dn68fhfh457nglj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. nBMMa6pU18wwxFilXSQaGcxm5LSj4P7+w7SpgpvOy4X8Fdvp9f/pSV47lg6FGoQZj8CCLVOL+EsiIcGBJTmWQN47bfV+rmNly0GJIWdj38iT3yBcM7O9Crflsyh0EjpM2drhEYnIa59KdYeY511OTNxRyS+2jLHG6FSx6BIHohI=
+qeuai0s8gqrv85qu9dn68fhfh457nglj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qf8dcnac874qdkr4oq4u6511nbb4118o NS 

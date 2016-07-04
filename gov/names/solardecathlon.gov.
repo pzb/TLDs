@@ -1,0 +1,5 @@
+as1tavori8ujv0ijujrojvh7padb0823.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. gkfh1IN/RKxpd7ruUTcdXkj2zfteOvcou14FWYpqKFcYzMSe9LWZYqIIxD+EZQBLBVCK0YJghVawZZjYZuaGRxvCBXR3nyIrFsrrz3bSw08W2sRO6k1pLTUXrFuzQuIsM7J4RfQrbbtjMiqXO71rI2ovOCGOrbnQXPhYcwJnKiQ=
+as1tavori8ujv0ijujrojvh7padb0823.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  as90ku36d8k2qp6qfjsfef5hcim02g4c NS 
+solardecathlon.gov.	86400	IN	NS	ns-316.awsdns-39.com.
+solardecathlon.gov.	86400	IN	NS	ns-1001.awsdns-61.net.
+solardecathlon.gov.	86400	IN	NS	ns-1107.awsdns-10.org.

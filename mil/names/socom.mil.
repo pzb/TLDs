@@ -1,0 +1,8 @@
+l50cdhp4tl8lprdt2mi0jh6htbhgtnid.mil.	10800	IN	RRSIG	NSEC3 8 2 10800 20160708161835 20160701161835 16413 mil. Woley56muUWT5jmqkemYyxmas+cNpM0oDC00hnyv0Z9Ioj4ZUqAHzHhb/tKPP0SRSTYkL86QkXMYqqW72sv9h6guEVKbjGklgkxFicr9fVouVHzmz/reJe/PJm7fPvMdA0D+coCWdj54gsANWI3UtItDnMmoH8G2/TnnXFKWPxl6P/k=
+l50cdhp4tl8lprdt2mi0jh6htbhgtnid.mil.	10800	IN	NSEC3	1 0 10 adeb  l73udlcfaf1ig0hcd3gmub6qq7eh0lr0 NS 
+socom.mil.	21600	IN	NS	ns11.socom.mil.
+socom.mil.	21600	IN	NS	ns21.socom.mil.
+socom.mil.	21600	IN	NS	ns22.socom.mil.
+ns11.socom.mil.	21600	IN	A	209.22.230.152
+ns21.socom.mil.	21600	IN	A	209.22.227.52
+ns22.socom.mil.	21600	IN	A	209.22.230.152

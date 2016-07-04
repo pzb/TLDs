@@ -1,0 +1,11 @@
+mesh.gov.	86400	IN	NS	gslb01.nlm.nih.gov.
+mesh.gov.	86400	IN	NS	gslb02.nlm.nih.gov.
+mesh.gov.	86400	IN	NS	gslb03.nlm.nih.gov.
+mesh.gov.	3600	IN	DS	36825 7 1 c5375401a2b0f9d4920c8c663d55d8ffac74d1f4
+mesh.gov.	3600	IN	DS	36825 7 2 ef8691bea0e20d794f7a36087cda64266cd8ed9313cec0809ea5beff5ce1e6a6
+mesh.gov.	3600	IN	DS	56004 7 1 eccceaef739fed635dcf35e36e5fc43d79b15d11
+mesh.gov.	3600	IN	DS	56004 7 2 1dcbc48263284fa99542b805cdccf9adb685fca822c71b7aadd229bc564a5004
+mesh.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. tZeqgmM38b/x+GBujL2CYA3oFE7dTD3DPN4zbGrsOvKY2QZcY8W43GZPS3p1TQykinS6l4/BBfZ+sD87x9QcmSwxymk7ZEn3hXp8yWfXwq/aL1o/mFyzefNN4jQJvXEsMifkeNrQT3ZrE87uuWjb3327CZxMtT3hv4qyPBy4CSk=
+gslb01.nlm.nih.gov.	86400	IN	A	130.14.252.50
+gslb02.nlm.nih.gov.	86400	IN	A	165.112.6.3
+gslb03.nlm.nih.gov.	86400	IN	A	130.14.252.53

@@ -1,0 +1,4 @@
+7tql10v8i6496elui1305esc59mc55ci.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. khU9fGQVVfKP9jonluRans9PCvtVI65rph7yCREcElozgbFqgxNwCsCcu5d4nNCk3v4wqfPktzSzmXRxYT2vUWipI1VKCI0VxAS/MzvSVKPuy1dswFJHnj6X9m2OcP2ode8BRVY8vR7ZReCdjcwwF/vA2iMfDTiW+Zh7mivUBt8=
+7tql10v8i6496elui1305esc59mc55ci.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7tt5co0vr9sn0n6d49sj2u2df4gbjgpf NS 
+goddardks.gov.	86400	IN	NS	ks01.state.ks.us.
+goddardks.gov.	86400	IN	NS	ks11.state.ks.us.

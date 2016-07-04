@@ -1,0 +1,6 @@
+8omcdalbdsp649v5tva26726ccsnoq1h.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. PjrsvQEgfvY6a/tzmWzqFYK0ZyPQLTIFLMKrNA1LaYq+GppZMBfbl52W2aJrCMacAew7o4WFEADFL5wzPhRR9WGlXhSajFeEWZ40NpajQZEHPFSI6QLzv02NR0CJNmlS5pjmbvgAsQ4Ca4E/O1lUXCW2gGeEebD3kf+k2ODhqas=
+8omcdalbdsp649v5tva26726ccsnoq1h.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8omd4hlcjfotbu97asl9vlu6qdo4q8da NS 
+ns1.cen.ct.gov.	86400	IN	A	67.218.95.9
+ns2.cen.ct.gov.	86400	IN	A	207.210.151.9
+vernon-ct.gov.	86400	IN	NS	ns1.cen.ct.gov.
+vernon-ct.gov.	86400	IN	NS	ns2.cen.ct.gov.

@@ -1,0 +1,14 @@
+rh202ns1.355.dhhs.gov.	86400	IN	A	158.74.30.98
+rh202ns1.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2a
+rh202ns2.355.dhhs.gov.	86400	IN	A	158.74.30.99
+rh202ns2.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2b
+rh120ns1.368.dhhs.gov.	86400	IN	A	158.74.30.102
+rh120ns1.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2c
+rh120ns2.368.dhhs.gov.	86400	IN	A	158.74.30.103
+rh120ns2.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2d
+recoverymonth.gov.	86400	IN	NS	rh120ns1.368.dhhs.gov.
+recoverymonth.gov.	86400	IN	NS	rh120ns2.368.dhhs.gov.
+recoverymonth.gov.	86400	IN	NS	rh202ns1.355.dhhs.gov.
+recoverymonth.gov.	86400	IN	NS	rh202ns2.355.dhhs.gov.
+recoverymonth.gov.	3600	IN	DS	53154 8 2 955b434602574d96660582f25789e01f06fdd972f60dd02eb2350e4ed23c9f2a
+recoverymonth.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. L/GGZoT7bzl9s2sidm4UJ5qv0s9b3ND/9rMCWEXMyt1JosQJD470hBj/TO0/D4/mHrIEiYkZeELfPaTTchoKRmNW56uZsxXK/DEFeI3LFF9ObthhZvBVfM4gwgovqe4PNNg72VxAYyv3f/0fIbvPe73P1u07MJX9VSlC0UO5yHY=

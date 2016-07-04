@@ -1,0 +1,5 @@
+rppk4bfg05c0e52m42o50ai15fm9hb5h.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hNqQnzfKgvZSjwSoaZvgjGaQZUAFfQ4d0x6l8VlQrxBjM98cGh7TRAibtYjV0vo35DY6dM+R/niVu0OUUFsa7GdU4wVXMxIdXbgfegY6ftJoGJjccopOBMiWGn5RMLXKwQG83cZZ1QQl5opE5XV5d2AHDLOdn5kqzw/TVo7il4Y=
+rppk4bfg05c0e52m42o50ai15fm9hb5h.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  rq2651faaj4nen6tfis8ju5005qccn8j NS 
+waynesvillenc.gov.	86400	IN	NS	dns1.vc3.com.
+waynesvillenc.gov.	86400	IN	NS	dns2.vc3.com.
+waynesvillenc.gov.	86400	IN	NS	dns3.vc3.com.

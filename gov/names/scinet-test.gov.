@@ -1,0 +1,10 @@
+76rblkkif1oevramjg8b5jslui7t23dl.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. kfLgSU31ZiUVFKL9B2QDnZ/vStqmI7YX6H/GNMoOBYDt6toRRSuvNkUWyZbri1JmZaV0xK6yileYWaMjk082JWZAmECNbZ488Rcth5dC33TClsCBwfUrqvGfD632GFZsCLyc6jviNt7v5kN9lRGTekxJlfDP2Udu8JJRItnNYKY=
+76rblkkif1oevramjg8b5jslui7t23dl.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  76u7lsh5aogq7c821k8qk9oakvmuhidh NS 
+scinet-test.gov.	86400	IN	NS	eur2.akam.net.
+scinet-test.gov.	86400	IN	NS	eur4.akam.net.
+scinet-test.gov.	86400	IN	NS	eur5.akam.net.
+scinet-test.gov.	86400	IN	NS	usc5.akam.net.
+scinet-test.gov.	86400	IN	NS	usw1.akam.net.
+scinet-test.gov.	86400	IN	NS	usw2.akam.net.
+scinet-test.gov.	86400	IN	NS	ns1-62.akam.net.
+scinet-test.gov.	86400	IN	NS	ns1-216.akam.net.

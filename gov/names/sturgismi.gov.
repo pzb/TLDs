@@ -1,0 +1,6 @@
+7nbrd8fhj3cavmtrvfnrdag7qh0sbp1j.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. vAaWT/lMMuOakm+/OVl6PKmYzyN4YPpv19M3y9DRSC3YeNomCRD4nU6LUaipN8aMm+n3rcN+67GsRRr1ENS9k752fydmjWJumRu0fEFIQrOZo1J3meUit8q62wgjbdLZIr5DwxAMAk8Q9uHCNv3JKMZlbI39OcEteOhw9dX2kdk=
+7nbrd8fhj3cavmtrvfnrdag7qh0sbp1j.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7nkbt53ikhlr4kpj2kvabsp9dg8lo0d1 NS 
+sturgismi.gov.	86400	IN	NS	ns1188.dns.dyn.com.
+sturgismi.gov.	86400	IN	NS	ns2177.dns.dyn.com.
+sturgismi.gov.	86400	IN	NS	ns3170.dns.dyn.com.
+sturgismi.gov.	86400	IN	NS	ns4169.dns.dyn.com.

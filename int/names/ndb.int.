@@ -1,0 +1,4 @@
+ndb.int.	86400	IN	NS	ns1.tmdhosting990.com.
+ndb.int.	86400	IN	NS	ns2.tmdhosting990.com.
+ndb.int.	86400	IN	NS	ns65.domaincontrol.com.
+ndb.int.	86400	IN	NS	ns66.domaincontrol.com.

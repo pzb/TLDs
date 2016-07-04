@@ -1,0 +1,4 @@
+8ulaipr7p7163b907jrppg1f8ejve21j.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. cg4EefnpaBsUTSnv3VwzpfsbjT2s2SfkTD7L56b5pF7FRHFcncz1X292pPZnG2QxnNXr0RUquYFBGMlT7CYggQGxDPo5vGwjLDJri/FzQkAMqPVRFmV7pkd2sUbzjGTcnkD1op8UUkt8vXWFFdLqb/mcacDg6CliGLKN4w5mvRk=
+8ulaipr7p7163b907jrppg1f8ejve21j.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8un2063jfhh46mcqp3rp8kvk7b0dq7tm NS 
+pilotpointak.gov.	86400	IN	NS	ns1.fatcow.com.
+pilotpointak.gov.	86400	IN	NS	ns2.fatcow.com.

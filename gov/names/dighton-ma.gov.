@@ -1,0 +1,4 @@
+7bktvc2k2j5trpp5aqook82upcku2pf7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. glzNSwJ/mo3oxCVOSPGEs/RAAF8CpFluX7vYBuCQ2hVIhvOy83EAKcWHlDEqOZ+RtQzv9TDDwuzuFUHFzwS2w9cn5TWAY4rf5R8JQvwXAAWll3ejIvLsGplCbhJ5nNu9P7ltY84Vh29gijeSQ3xol8fZ0/vxUYI6COLVuEe/25c=
+7bktvc2k2j5trpp5aqook82upcku2pf7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7bro4gm0qlbr5kvffrb688hbav0frs9f NS 
+dighton-ma.gov.	86400	IN	NS	ns1.infotech-maine.com.
+dighton-ma.gov.	86400	IN	NS	ns2.infotech-maine.com.

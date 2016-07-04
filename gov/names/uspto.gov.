@@ -1,0 +1,8 @@
+uspto.gov.	86400	IN	NS	lbboy-dns1.uspto.gov.
+uspto.gov.	86400	IN	NS	lbprod-dns1.uspto.gov.
+uspto.gov.	3600	IN	DS	39858 7 1 9f4cdec9621d3f8aa5b076d07502858b83cc8900
+uspto.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ZixeKkNVIpmFziG64X+LiKiaCym9PYbq4HjtfotQN6wCSbBPwN7aIy6JCbzAyPa1hYCJOhuO9lXXsM5Sb5LAi/zKgl1OAQt4B+E7wyfFd65pdMMulRgqX6OoeX3tHoTk1IkuyciP8hG20mLvYNZkwc6BvcUQjLyuCu4ExEKE9TU=
+lbboy-dns1.uspto.gov.	86400	IN	A	151.207.128.200
+lbboy-dns1.uspto.gov.	86400	IN	AAAA	2610:20:500a:1606::200
+lbprod-dns1.uspto.gov.	86400	IN	A	151.207.240.199
+lbprod-dns1.uspto.gov.	86400	IN	AAAA	2610:20:5004:1606::199

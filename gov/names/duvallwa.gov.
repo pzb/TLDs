@@ -1,0 +1,6 @@
+611qj971uuhg6cftilf4fjljlqdv6v0l.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. EfYI2rlCGXHbNo2CkhVBGFFUit1w0XZOP12UH8YQATGpf4f20OD4ev/BSxEvnx7KOqYcC0uWu1WQrEr3HgG2eMHzMI3HHr0bfH5/4hVmKDYkBpq42+pi68xrqr/9nuC4zqLa+1QcB5WRIXhFKhJXB+AKp2kNwggFrd+5i3GyH+8=
+611qj971uuhg6cftilf4fjljlqdv6v0l.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  612rokrsvcl8fl7mdj9t00pc1ss6aa2g NS 
+duvallwa.gov.	86400	IN	NS	ns-113.awsdns-14.com.
+duvallwa.gov.	86400	IN	NS	ns-956.awsdns-55.net.
+duvallwa.gov.	86400	IN	NS	ns-1266.awsdns-30.org.
+duvallwa.gov.	86400	IN	NS	ns-1854.awsdns-39.co.uk.

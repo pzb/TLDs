@@ -1,0 +1,5 @@
+albuquerque-nm.gov.	86400	IN	NS	dns0.cabq.net.
+albuquerque-nm.gov.	86400	IN	NS	dns1.cabq.net.
+albuquerque-nm.gov.	86400	IN	NS	dns6.cabq.net.
+padc89f7ek479qmg0shgbm302ao2al5q.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. YIrVintKw+2+gfF1zNIwGO+WQLwe8+tpbf9fobrjlvcZKfV7HJqVimNU9CCS+LdSgclQoUEbFGwHF17RT/o4hBxrAF0UB/ZHjNN64O6CM4P/WwiNlgz4AL5hpl4shrZgwcuxSpQa9vn6VLBzFswFLUa2XNbiErII/gXJvpsNHRQ=
+padc89f7ek479qmg0shgbm302ao2al5q.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  paus0bjsm0qsogcl1p35s1f1s437g64u NS 

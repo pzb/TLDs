@@ -1,0 +1,8 @@
+3depnnv8us2jb9f8a69qfgrm9qcq49qr.mil.	10800	IN	RRSIG	NSEC3 8 2 10800 20160708161835 20160701161835 16413 mil. wCvY7Tt/0WtUTa/hxgM/pceUjk4ORM+JDNyM5XNbpD169GALuNfLtAAfgz6aHdsp0FuG54gI+zJTTfvDTMlOjY/n7Vd873UIlTGGj1XphH6+cqFqMrLU/+jl9FtHlFpMyXUzyjaY6YVSRFlpxf+c0gCzDZAkjKtRPYg91LoTtGqJiX0=
+3depnnv8us2jb9f8a69qfgrm9qcq49qr.mil.	10800	IN	NSEC3	1 0 10 adeb  3g0fjol6022otgg0a7nvb4p66rlkhs7c NS 
+ns01.army.mil.	21600	IN	A	140.153.43.44
+ns02.army.mil.	21600	IN	A	192.82.113.7
+ns03.army.mil.	21600	IN	A	130.114.200.6
+dpsa.mil.	21600	IN	NS	ns01.army.mil.
+dpsa.mil.	21600	IN	NS	ns02.army.mil.
+dpsa.mil.	21600	IN	NS	ns03.army.mil.

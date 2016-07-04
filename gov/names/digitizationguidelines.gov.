@@ -1,0 +1,7 @@
+digitizationguidelines.gov.	86400	IN	NS	ns21.loc.gov.
+digitizationguidelines.gov.	86400	IN	NS	ns23.loc.gov.
+digitizationguidelines.gov.	3600	IN	DS	25777 8 1 dcc01e4e696d48c29e01719b52eff8e5a18e5af2
+digitizationguidelines.gov.	3600	IN	DS	25777 8 2 f6d575faea92701d2f105e6e0e3274ab1a362d47cb6b7df7f4819640d62cade9
+digitizationguidelines.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. fF8QsMlQwA5YgKJtVAAZcGkE7Uyn4IbmW5SflSD8WZgy6nm8y/HD7P9Hxv8BgT7ZjX8i2AowfToBV5hRKMPHOrN333ObaXl0/J1OlNr7igv8i3kB8BalrVhWQU9uGN0IdYmZqvJ7AZtwbHMuu06TdGJw+B+fQ83wukEmFSbapMg=
+ns21.loc.gov.	86400	IN	A	140.147.32.166
+ns23.loc.gov.	86400	IN	A	140.147.239.150

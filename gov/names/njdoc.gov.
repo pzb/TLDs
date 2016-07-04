@@ -1,0 +1,4 @@
+j81pgeijrfmpi16t2gkqjv9jet4fea5e.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. CPA1DH/XyRKu5HmQOH4twZkIum/cKozI4Fps4lT29vZoFC2EW0QqeYLJH6RudkHsAaDK9JyaauFxtcwHdgOoyA/jM8vzHqgfbRYhV1vygkCWp+7qltMq5oakgRySQuGIr2kTyc7S0tIQu/CEr60bxrtInNeExGfESxjQN+3vf2o=
+j81pgeijrfmpi16t2gkqjv9jet4fea5e.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  j8a278m4k8fjr2jva8rv0blktthn9bvs NS 
+njdoc.gov.	86400	IN	NS	ns1.state.nj.us.
+njdoc.gov.	86400	IN	NS	ns2.state.nj.us.

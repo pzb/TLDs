@@ -1,0 +1,4 @@
+e7ou3b6pr5hck9pacmj935gfc7fbmc7d.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Yjq9Ef/PUjF2xzIozi+O+o2yrhXjCzAo7SowcygUlSRgxk3fenk3REZjWlmB0kbq4qwoZwZOjL5vh9SmrZIqVrUIIeeGv8UZiXasNv+B83Mcv+GbCvO5DWJXkPMSsJ2MMQ+MK90aiQPCY3zs0AxURwT97uAalIqtRVUzOnz6aAY=
+e7ou3b6pr5hck9pacmj935gfc7fbmc7d.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  e7sc9bhm05bck3vee3hk5mmoofr7drqo NS 
+fairfieldoh.gov.	86400	IN	NS	ns1.fuse.net.
+fairfieldoh.gov.	86400	IN	NS	ns2.fuse.net.

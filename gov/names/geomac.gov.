@@ -1,0 +1,9 @@
+geomac.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+geomac.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+geomac.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+geomac.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+geomac.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+geomac.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+geomac.gov.	3600	IN	DS	40100 8 1 4f03ba0933a17052f91b8a8a18a037f44fe7ee51
+geomac.gov.	3600	IN	DS	40100 8 2 7d1230f6bb5b9b23f36e266742bcd5fb21efe88e5e47951e828802fb64cceb14
+geomac.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. j1QbJdvsZuqZUoB3ECkdKTtl1h7E3O1NMBG4L9zvU2Xi6pAfkWyNApgkSnfldIGr223zo0uQoIeCl5ZvAQD9B4VIb66uT6hqGCDZJsoNpgzI+KjAOZAJ7SsUDLh0We14h4Su/QnOH+EhPXZE3U+252lwsCHDw6fuJhefAmUCk1Y=

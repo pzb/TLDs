@@ -1,0 +1,6 @@
+buenavistaco.gov.	86400	IN	NS	ns1137.dns.dyn.com.
+buenavistaco.gov.	86400	IN	NS	ns2128.dns.dyn.com.
+buenavistaco.gov.	86400	IN	NS	ns3184.dns.dyn.com.
+buenavistaco.gov.	86400	IN	NS	ns4142.dns.dyn.com.
+copjp8i0hrmamp07m1lh4i3se8dacqkg.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. nJjbNJdN8JQ7oqJpzgeynt3/Kwwrgy3i1X1IzDwYc8Yl5iDjCDoFesrk2qLGA5ErNQ8fTM2bkAIaOQybos4NkWsVng9q9wSiynOo1Y/Fs5O23c0DdYgBZ70soTfIXreT/ZUG01oQmcIc05Ce1jdTYBM/tWA9OcTjoUAxpcvunQk=
+copjp8i0hrmamp07m1lh4i3se8dacqkg.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  cormna0b2beb1cusdhpaggfauht2jtek NS 

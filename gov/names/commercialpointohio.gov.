@@ -1,0 +1,4 @@
+0lpdlj3emd169so7ui846v6n864qd53o.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. AkDGrvQYr+bCYnclOeObbiVWr1svvMZbYyni1d/UlkVs0ZvEgfWGZHzzW24qldFMnIQAE8v2prKFs7k3IPyDKEizxr4f8QxP75TmRlYfup08EXkcsoA6q4oz8izRqPMUuQGNGocTO/KS1iKi1Bq7/la9t09kJwo+S8jN/ixRHic=
+0lpdlj3emd169so7ui846v6n864qd53o.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0lqu6n6snjlmuo70lu1lrcndb548112j NS 
+commercialpointohio.gov.	86400	IN	NS	ns3.webtemplatehosting.com.
+commercialpointohio.gov.	86400	IN	NS	ns4.webtemplatehosting.com.

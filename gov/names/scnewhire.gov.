@@ -1,0 +1,4 @@
+lg67v4nn3sf9qru9tdo1ehjmdmijhb50.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. VkAYYxV/eEqXRGR4zQn1P1YmTpEis/LQyXryknGfuDB+Ah8IiFD3YgP8AYv6aLEt7e2zC0oAjKPKflGKn85Ucmz62+4wrKzjFXt2boOo+1cVIIVB7dQ8VlgADCoQuLP6nJ1rxn4Lz8GPSTh998oXdvHmuBTdICs1mYhFGD2bka0=
+lg67v4nn3sf9qru9tdo1ehjmdmijhb50.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  lgbm8no0becfi1g6qj4svlgucjdrouf7 NS 
+scnewhire.gov.	86400	IN	NS	ns1.net.state.sc.us.
+scnewhire.gov.	86400	IN	NS	ns2.net.state.sc.us.

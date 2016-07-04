@@ -1,0 +1,9 @@
+iad.gov.	86400	IN	NS	bloodaxe.iad.gov.
+iad.gov.	86400	IN	NS	bloodgem.iad.gov.
+iad.gov.	3600	IN	DS	34090 8 1 dcedca30584c7769818f3749e1fddf1bf5b259c0
+iad.gov.	3600	IN	DS	34090 8 2 94b05b419887e4e8bbc10694bc0f421b5e651757fdd8fdebbba5eb1c35c40c79
+iad.gov.	3600	IN	DS	65489 8 1 0ba75147422d82b644b75bfeb21997e859fd2951
+iad.gov.	3600	IN	DS	65489 8 2 b1533adf36be44be85e790fa18e0af63d4aeaf36ef8a5aeeb2abd8c0cf07d7a7
+iad.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. CArYJXgX9VxwNq+/EgthS8wCzcjoMFNhRnL6n/VIL0mkOaVDGZIi0hX3/ZrvwLCZxPQ2PVgAL88r1oL5ZMFOfxemJll3uN3UrChPt9lIRhq0tP6HaQwZk07Brk+niLk8JIvf4Hii5gDRBn8+Gtn5Zh5ibNHuy7Rt67vdDka64IM=
+bloodaxe.iad.gov.	86400	IN	A	8.44.96.33
+bloodgem.iad.gov.	86400	IN	A	8.44.96.34

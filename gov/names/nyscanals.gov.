@@ -1,0 +1,6 @@
+fk3obod55l0ivtjo26gjmsip2tp4ujec.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. S9WJhj05hSujGQsQn/+ZV58cG7uP1XLhmUUKqQ86yI4XgKi0TDE0/iZ1r0fSafo8S+ZCiPzzSiIEgfWiCH62DT50lHUi4p7ECMJzMCGsP3V87epKHoBsQZpxCy7Rxiq7eLLd90U3bEzhRg//gyCtmfXLsCsntbYEb/Vev2HCZVQ=
+fk3obod55l0ivtjo26gjmsip2tp4ujec.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fkb3t1mvfavq912gemu73os15nnn4qc7 NS 
+nyscanals.gov.	86400	IN	NS	ns1.nyscanals.gov.
+nyscanals.gov.	86400	IN	NS	ns2.nyscanals.gov.
+ns1.nyscanals.gov.	86400	IN	A	161.11.122.51
+ns2.nyscanals.gov.	86400	IN	A	66.192.38.212

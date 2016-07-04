@@ -1,0 +1,4 @@
+clarkecountyms.gov.	86400	IN	NS	ns1.premisesupport.com.
+clarkecountyms.gov.	86400	IN	NS	ns2.premisesupport.com.
+ndfdotfhn4sant5a9ii4lnpqaagtuogi.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. gSUxeVVvkYAwvNSbbmNQXtK4en/nM6morSL+Jo37em0rr0P5+h62/Ii8aUfMF+9Am/5iMnxNzW5O+eZJ4BM8VvG8GQ0uUFhew28SVXlZ7XpFKvcrMANb1SBgwqNkCRffuU7DP6szuw6g2sA0W7M6SJ0+VYgVQAsT0d9ZTBCzU84=
+ndfdotfhn4sant5a9ii4lnpqaagtuogi.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ndqolbpuihgmt742roulheltpnk3dqmb NS 

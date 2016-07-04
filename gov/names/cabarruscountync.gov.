@@ -1,0 +1,5 @@
+cabarruscountync.gov.	86400	IN	NS	ncnoc.ncren.net.
+cabarruscountync.gov.	86400	IN	NS	reggae.ncren.net.
+cabarruscountync.gov.	86400	IN	NS	chlt-ns1.ncren.net.
+nmci6d380qhltdke7igc9k68rfhfe70j.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. S5rMCIl93TAhVZAbLBk/C0a4JZ83GZMh5sWlTgC4x+alYpFHGXE3vReGy3Oyq+WAjy1MvXLtt5IFFlxwv8N1krbJ2PoqngWlJlBI6SrMEOrRy2eHeFvzyS/p+IBZh72v4eDxOpBUikgl0AaeotyBMiYodMmJeabeerxArWHlur8=
+nmci6d380qhltdke7igc9k68rfhfe70j.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  nmliqfi8q1ojiigum1bj8v34n04q7mku NS 

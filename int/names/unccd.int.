@@ -1,0 +1,5 @@
+unccd.int.	86400	IN	NS	ns1.unccd.int.
+unccd.int.	86400	IN	NS	ns2.unccd.int.
+unccd.int.	86400	IN	NS	deneb.dfn.de.
+ns1.unccd.int.	86400	IN	A	195.37.114.10
+ns2.unccd.int.	86400	IN	A	195.37.114.9

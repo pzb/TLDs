@@ -1,0 +1,10 @@
+b3oimpa2k7763bv8j2opn0juc6h4dk00.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. GFvVCjljUlTRWAyi5+RFHVzArvTjp9BMK0vuHelLXEUjCmKQW0xFs8PhVSXJr9Df+FuNguTV4d39UJnLc5u/zhhUvCM1Yo/M4l30JRcnPuAsoTjsu0dK70UKsoB4xHELoDHPPcLJTJfvnrjwzaXD/30ZGQu8mB63sFgar7nvcmI=
+b3oimpa2k7763bv8j2opn0juc6h4dk00.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  b3pj60hnhfhfjtb3410rqmtplsmi1314 NS 
+supremecourtus.gov.	86400	IN	NS	eur2.akam.net.
+supremecourtus.gov.	86400	IN	NS	eur4.akam.net.
+supremecourtus.gov.	86400	IN	NS	eur5.akam.net.
+supremecourtus.gov.	86400	IN	NS	usc5.akam.net.
+supremecourtus.gov.	86400	IN	NS	usw1.akam.net.
+supremecourtus.gov.	86400	IN	NS	usw2.akam.net.
+supremecourtus.gov.	86400	IN	NS	ns1-62.akam.net.
+supremecourtus.gov.	86400	IN	NS	ns1-216.akam.net.

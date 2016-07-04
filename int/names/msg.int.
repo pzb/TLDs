@@ -1,0 +1,3 @@
+msg.int.	86400	IN	NS	ns01.trademarkarea.com.
+msg.int.	86400	IN	NS	ns02.trademarkarea.com.
+msg.int.	86400	IN	NS	ns03.trademarkarea.com.

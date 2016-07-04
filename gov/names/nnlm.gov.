@@ -1,0 +1,16 @@
+lhcns1.nlm.nih.gov.	86400	IN	A	130.14.55.72
+lhcns2.nlm.nih.gov.	86400	IN	A	130.14.55.128
+ns.nih.gov.	86400	IN	A	128.231.128.251
+ns.nih.gov.	86400	IN	AAAA	2607:f220:404:101::80e7:80fb
+ns2.nih.gov.	86400	IN	A	128.231.64.1
+ns2.nih.gov.	86400	IN	AAAA	2607:f220:418:4101::80e7:401
+ns3.nih.gov.	86400	IN	A	165.112.4.230
+ns3.nih.gov.	86400	IN	AAAA	2607:f220:402:1801::a570:4e6
+nnlm.gov.	86400	IN	NS	ns.nih.gov.
+nnlm.gov.	86400	IN	NS	ns2.nih.gov.
+nnlm.gov.	86400	IN	NS	ns3.nih.gov.
+nnlm.gov.	86400	IN	NS	lhcns1.nlm.nih.gov.
+nnlm.gov.	86400	IN	NS	lhcns2.nlm.nih.gov.
+nnlm.gov.	3600	IN	DS	15163 7 1 575b61edadbfa3b6521c3848ec0e5f5d78366631
+nnlm.gov.	3600	IN	DS	15163 7 2 9a851a57685dca8a2fd2fa075c8ffaec9652d4baeecfb82a5a68da7c0b640d31
+nnlm.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Asv/yC+KZ3hR7V2B3AwE2K027MnQe81x+z8D4FHlfCXSy94YbQnNlDiKcoidPLLA9AG31pBgjdgL15RuDRs7Wp2+/N+29vrGsuWMENtSK3jVcSuR+Ut7MjFrgFc9+HsB0kjdJVPsEBqzcZ+QE263Fj9inpwPY2+g47C8dozQYwg=

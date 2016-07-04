@@ -1,0 +1,4 @@
+beverlyhills-ca.gov.	86400	IN	NS	ns1.beverlyhills.org.
+beverlyhills-ca.gov.	86400	IN	NS	ns2.beverlyhills.org.
+qseej034esc1cdjfmhgu4i0ql3s2a53u.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. SGi00SXPCIEU1RfMi4JHjduDysZ388M0QE50lgvfqkqMATnVkZ5LoNMapnOCKBINB/wZ/a36R87o8VymYhLZLOJZXHc9CeeEIMqpWFMScziZiKrqily8Iey3P8mQbbiIUOlst9Lcr/iDMnvaQ7SsFPqlfZ6ezX1W/FeIa/hIDSY=
+qseej034esc1cdjfmhgu4i0ql3s2a53u.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qsflfomvjb4u0igmsrq96fskuhii9o4u NS 

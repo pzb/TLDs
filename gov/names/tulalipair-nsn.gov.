@@ -1,0 +1,4 @@
+khhlsq3ms2euoolgb1jm9b2t0lnpu7ji.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. KqcIu9t4VoCk7wPPvhZgOjT4DyIOBkw0CbH3P37R1K3fCSlj0p2MRhwEwlckRzHuh0NEZDHDNCsp65qNRAWSB8ILTvBfCH8z/L4VFyJhQ3xZsGOcPNWrREt1iYMNsiaYViUUK/AzWobCXHRqS/nToN/xKRNmoKX76zF/bjgtTNY=
+khhlsq3ms2euoolgb1jm9b2t0lnpu7ji.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kicqgu5r3h82ub4k20nu1mbb9m05uvs3 NS 
+tulalipair-nsn.gov.	86400	IN	NS	ns1.tulalipdata.com.
+tulalipair-nsn.gov.	86400	IN	NS	ns2.tulalipdata.com.

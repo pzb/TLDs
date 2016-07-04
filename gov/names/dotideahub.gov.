@@ -1,0 +1,9 @@
+dotideahub.gov.	86400	IN	NS	emns1.faa.gov.
+dotideahub.gov.	86400	IN	NS	avatar.esc.gov.
+dotideahub.gov.	3600	IN	DS	35839 8 1 9116da663b4b81cc9c2f4086760cc0bd47fe046e
+dotideahub.gov.	3600	IN	DS	35839 8 2 6299381d686f8cb631afd4a05b2a3ad1cf67fae51be930044d19d58fda4b5b48
+dotideahub.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. mXJts1pgcznvDEz9ScCpcd9Q2My5LdV6j+SCwgbSrLZi8/2tbOmzhfU8SEK8bgA0KkK9YgrNHixPQuV95UmYj31gHyZs8IgwS60gDMOt8a280I1fYw3LJG7nwD2SYPLT8PEZxPIV7OWdVunSy3GCXUnrvYG609Bv6L3V8gYYncc=
+avatar.esc.gov.	86400	IN	A	162.58.35.104
+avatar.esc.gov.	86400	IN	AAAA	2001:19e8:8041:23::11
+emns1.faa.gov.	86400	IN	A	155.178.206.21
+emns1.faa.gov.	86400	IN	AAAA	2001:19e8:8001:3060::21

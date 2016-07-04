@@ -1,0 +1,9 @@
+cia.gov.	86400	IN	NS	a1-22.akam.net.
+cia.gov.	86400	IN	NS	a3-64.akam.net.
+cia.gov.	86400	IN	NS	a12-65.akam.net.
+cia.gov.	86400	IN	NS	a13-65.akam.net.
+cia.gov.	86400	IN	NS	a16-67.akam.net.
+cia.gov.	86400	IN	NS	a22-66.akam.net.
+cia.gov.	3600	IN	DS	22462 8 1 637d22cd4ce6935216f0a6bb64c5301322c42544
+cia.gov.	3600	IN	DS	22462 8 2 081acc65f00b95050b590c5740e4e7fc9791e9692d504ae035846824baba797c
+cia.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Fgo8t7mY2wQiE89mlVw6ttuyDoKM49u5rm27/zEcAy0aEWXn+SXov5GABu9uh2CfkEbQnf1bDVGZvjAuabWJ9Cw4wcF41p8MgygtkVdZtvlkeo6r2K9sZ3VxJa9QBBYUEF9cF2WtsoRzMs4nmh9VAX+TRpPw9gcQb2r1uW79dAY=

@@ -1,0 +1,9 @@
+reportband.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+reportband.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+reportband.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+reportband.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+reportband.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+reportband.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+reportband.gov.	3600	IN	DS	62081 8 1 38b42721e1a3b65e4b8b4ede62ab47cf10ec1323
+reportband.gov.	3600	IN	DS	62081 8 2 2f597736b482664f03011c2cfec1bb21eeef68322b0917638e380878a95d103d
+reportband.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. nFLQTPJhlwn89xmvXGmeS5P1pxGXAWpyYzFysQEqXLbTeNqy17ddUR2AY0YGe4GrafxmDRZshfWDNculcDUjfWjWPvKryY9rmbSyVwAP8id56ShnaWrT9WU48+MEHxNERk9cKia3pilv9ggSseuk/g9loSoF+Hf5HPoA4WSPxt4=

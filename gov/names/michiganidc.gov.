@@ -1,0 +1,4 @@
+bgquvir6l81tgbjm7r7d4l0i8s4t7o07.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. B6YpTeLiA+YvKhi0iNAvwrDTtrfZoEMSUqaGR6eqeYur82jnMOVX3l5Vc3xoNOYIVgRUX4oKVc7hRko5BLKgiFsgFZa0kgtJ3h5/Z7hDfZgYmW6UL8jcCmJtpeSn/C8sZ1oz9a2on917X14zhKsVnpX9keNk3QGQHax4g4+g3dw=
+bgquvir6l81tgbjm7r7d4l0i8s4t7o07.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bgs1qoo5uhctpb6nmb1o87cjcfsihsas NS 
+michiganidc.gov.	86400	IN	NS	ns6051.hostgator.com.
+michiganidc.gov.	86400	IN	NS	ns6052.hostgator.com.

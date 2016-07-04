@@ -1,0 +1,6 @@
+calhouncountymi.gov.	86400	IN	NS	publicdns1.calhouncountymi.gov.
+calhouncountymi.gov.	86400	IN	NS	publicdns2.calhouncountymi.gov.
+publicdns1.calhouncountymi.gov.	86400	IN	A	64.20.192.194
+publicdns2.calhouncountymi.gov.	86400	IN	A	64.20.192.218
+l373vjptunjbhi8j8hb3r86secf9uu0v.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. EHvuOE7NXnLWc+7HHZsI+Lg79YBEJMoAYfIItgZZB5PUfa+RiDIxUFK2wonCvU3cGMxWWosFjffRoXk/GNKSrGGZfbnGAUJbuamRjbyodxXrjE0Oll535PHXMrOXsLwjj/ZXX5FQxGFmssLz/fsCrSQEiMYd7ZN1JhU/CxwFsA4=
+l373vjptunjbhi8j8hb3r86secf9uu0v.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  l38kt8hvc7g275j4raredqq611o35de8 NS 

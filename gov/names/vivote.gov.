@@ -1,0 +1,4 @@
+7h32mnelcnt0ul5ogqv60lu20bjeuufp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. IbEha579IlmySBRGj/ataxY/bOIzvogSpQVHDq1hCRmvDCGoH2JqoN/av3d7Cas6Hz0pCuA4+UkwTZkuKkqWFDihual0Z01t7FFyOUJw4m6OwSnTqS8xvub4myvPUext3vYbDYqVh0XiTpA6wDXilkd9DYNuu6rjXppus9y4zl0=
+7h32mnelcnt0ul5ogqv60lu20bjeuufp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7h5qvvtdpms4ui618akujqndkrst4i7c NS 
+vivote.gov.	86400	IN	NS	ns1.bluehost.com.
+vivote.gov.	86400	IN	NS	ns2.bluehost.com.

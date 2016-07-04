@@ -1,0 +1,7 @@
+ns1.csosa.gov.	86400	IN	A	152.180.7.14
+ns2.csosa.gov.	86400	IN	A	152.180.7.14
+pretrialservices.gov.	86400	IN	NS	ns1.csosa.gov.
+pretrialservices.gov.	86400	IN	NS	ns2.csosa.gov.
+pretrialservices.gov.	3600	IN	DS	17965 8 1 75f72ff488c9961ca16b876d82c30bff48e15e4a
+pretrialservices.gov.	3600	IN	DS	17965 8 2 cb2178f748f923bfa6fcf4aa90c5b687e28aa96895cf96583690d9c1d72705eb
+pretrialservices.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. hV5OXtziJxPMKehigGyDaeNLxvjWsxcptMAR+9H9/ZEBpmxmRtdTDIfCVvVG4LSSM1Ic3DYp5ixQkSvOW+e0Tb9TZ0RnxoRo15t9UjfqPN8yhcBVCZwahvWv59/4gAWX+XntBZssdnAEhdiAwBHxlOqBVZczpHc3/NlmdoCMrvE=

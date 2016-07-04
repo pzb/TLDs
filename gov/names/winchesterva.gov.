@@ -1,0 +1,4 @@
+30nl22mproptraph9lj9v3jcgodj04c1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. LcdlHKzrYDcSlWivSU4TPpl3WTjKDGoiAZH09Xo7qTNFqfaUiPbiwXdnetVM19JbeAjfC+/Aesd4WC+keN2BJ108VjNxaetj7Scns8QbvjUy9brwQeaS8+iw0yQ68fhKbAYgtDFyQM+l2S7BKIbN8j7N5USMNN2EfvfE0HSINpw=
+30nl22mproptraph9lj9v3jcgodj04c1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  30s0ramcbom4a175qe6l8sucbrnc21lu NS 
+winchesterva.gov.	86400	IN	NS	pdns05.domaincontrol.com.
+winchesterva.gov.	86400	IN	NS	pdns06.domaincontrol.com.

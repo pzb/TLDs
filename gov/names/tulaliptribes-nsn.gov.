@@ -1,0 +1,5 @@
+5omn1dbvs2sdaj5rc96itt6nqjqcc8h1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. LbpcK97/fPgYI5IMJoXb/6t8TDxWlJfLF4WG1mMeC9I4NnzqNFwbQGkc7FcR8m41WBMBEYotNy7WkYgdHiKq6CvchdouZyMX8vG1pzQdrAH2HJ6rpbNP8cO9o0trDvfqJswVIzF9MvDrFDorFK8ehtPzQ6jsSYr48dofRUyzzYo=
+5omn1dbvs2sdaj5rc96itt6nqjqcc8h1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5oolf79p91lutdgodiebni3b6jee45kk NS 
+tulaliptribes-nsn.gov.	86400	IN	NS	ns1.tulalipdata.com.
+tulaliptribes-nsn.gov.	86400	IN	NS	ns2.tulalipdata.com.
+tulaliptribes-nsn.gov.	86400	IN	NS	ns3.tulalipdata.com.

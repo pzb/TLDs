@@ -1,0 +1,6 @@
+azgfd.gov.	86400	IN	NS	ns-51.awsdns-06.com.
+azgfd.gov.	86400	IN	NS	ns-948.awsdns-54.net.
+azgfd.gov.	86400	IN	NS	ns-1197.awsdns-21.org.
+azgfd.gov.	86400	IN	NS	ns-1847.awsdns-38.co.uk.
+dmrv0q8anc52qa0kdjk3a2l9tjta4cl0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. LuDgLjOUM54SpmKGL5vmARgszERNhK/j1GyLdjnx2arstlXsQxBM9kraEL9PWrs0iaZZd04muWif+7W3ZjXJ//7Y8AYxJ3pzcIkhaNY4wpAK0q44HiCcDPkSr/SGvAKJ21uoDasXTYq3W3Zr0Il21FC/zJg1KUbYrqwcO8jy9OY=
+dmrv0q8anc52qa0kdjk3a2l9tjta4cl0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dn5og1qtqdc1tftm40p3ri59bg6nprdq NS 

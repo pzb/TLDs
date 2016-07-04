@@ -1,0 +1,5 @@
+7thh7qcd1b8dcue6tugka213pjjupouv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. GRfpiDxVkcc2e5b3CVIrJkHdgU55txQ/Jni7Jt8gTrRIXThvCvU/HlEAP2ajPBkf+JWzXNSvAZK6a2vKi3jphU1nWyaELkMYX5OMcM/6t0ZccxslRAxcVAe4qb77R5HC+ka65obEQn9cGDfEBs0KPPIxtqtqUoNPYV/8cltiLXE=
+7thh7qcd1b8dcue6tugka213pjjupouv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7tlq76jammi6scnrdsqqj398m4ru4qpf NS 
+gardnerville-nv.gov.	86400	IN	NS	ns1.dcnv.us.
+gardnerville-nv.gov.	86400	IN	NS	ns2.dcnv.us.
+gardnerville-nv.gov.	86400	IN	NS	ns3.dcnv.us.

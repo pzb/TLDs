@@ -1,0 +1,9 @@
+edns1.dot.gov.	86400	IN	A	204.68.194.100
+edns2.dot.gov.	86400	IN	A	204.68.194.200
+edns3.dot.gov.	86400	IN	A	204.68.195.200
+safeocs.gov.	86400	IN	NS	edns1.dot.gov.
+safeocs.gov.	86400	IN	NS	edns2.dot.gov.
+safeocs.gov.	86400	IN	NS	edns3.dot.gov.
+safeocs.gov.	3600	IN	DS	8431 8 1 082700276a5b37a03427e06286f6c7d3f63c06d2
+safeocs.gov.	3600	IN	DS	8431 8 2 16f94a818107ef8337114e4c2165258df639acd36063d8b169ac6ed4d8efaad6
+safeocs.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. aXP3aRc1N3aj92j382Fl2bLGD1oUKxCmoFIoI26IfCw9eNSeq2KNw+z23ceC83n0MxhjykDJcf5VVJBkWqoZogYX05/pkU8JwAaxksQWWaVj+y1wIkglVpUnEaJeHXA317DAVtqTh2XR+mHHzg7qVhzTI8hnGnAgYGHGpCoUZ50=

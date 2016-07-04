@@ -1,0 +1,6 @@
+o08craac5v0njdno32040v1rmaiaob8r.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. tyb3wL9HfofpgwcTtkniRJtO2hTemxb9jLgokDybpCbBBCxe3IcHcAvI4nw/V4hwKYTT95LLzoxJHfX7e71wFxvVuKAve0055AYTqH4ax9ytqYMHnsaeiL0ZawGSkoldz1/FFjH8q7dbv5uWfKQBis1xDD+/W8aRtbkdzked/a4=
+o08craac5v0njdno32040v1rmaiaob8r.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  o0bl0qisu5tfnamkbqkdscv581ghng10 NS 
+oakland-me.gov.	86400	IN	NS	ns1.oakland-me.gov.
+oakland-me.gov.	86400	IN	NS	ns2.oakland-me.gov.
+ns1.oakland-me.gov.	86400	IN	A	72.12.68.67
+ns2.oakland-me.gov.	86400	IN	A	72.12.68.68

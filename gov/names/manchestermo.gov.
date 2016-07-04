@@ -1,0 +1,4 @@
+cn045iv5buqtj47d4ag1md8vjj4bfhek.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Sme8+MWbk7M/7a6OTTfi97ArTKJc5Sk1403F1on6jJDhNl2smZwCd5tOWe1NZsRpc4+zeNGmR3FaA+2jVK3p0KNWF9wzaHmMtkz9g/8JBnlf8vmsp4E0JgXajD1Gpuc8iniAQWvqTL36EY3ecgBEgzY95CcoFSnGKFNcGESf0x8=
+cn045iv5buqtj47d4ag1md8vjj4bfhek.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  cn2udu0kjqg2dvdvuu57rnifm7o97eg4 NS 
+manchestermo.gov.	86400	IN	NS	ns1.avenet.net.
+manchestermo.gov.	86400	IN	NS	ns2.avenet.net.

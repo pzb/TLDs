@@ -1,0 +1,10 @@
+hrsnlf34bn6ntl1qos36bj9dj320mmp6.mil.	10800	IN	RRSIG	NSEC3 8 2 10800 20160708161835 20160701161835 16413 mil. kybLWEcMS6+aJtJJR6PIZ7mD78ztwhGpNwfA6HyOJd1QTWpVyqdNV1P7R1d2pwTy22HG4hjAPqFkWOBN+vBNsNW6PU2d0QyVrzwIsRxlAnfgPWHDZMkkO/RLmJvALPZS91ysn/kmHJXyhzjpwsZlx4IwOSVKgpmdiGtUGanL21Yvcfk=
+hrsnlf34bn6ntl1qos36bj9dj320mmp6.mil.	10800	IN	NSEC3	1 0 10 adeb  i0ftn72vfkvm8et8ufoft70fjbhsn1vd NS 
+northcom.mil.	21600	IN	NS	ncnd.northcom.mil.
+northcom.mil.	21600	IN	NS	ncnd2.northcom.mil.
+northcom.mil.	21600	IN	NS	cmdnsh01.northcom.mil.
+northcom.mil.	21600	IN	NS	cmdnsh02.northcom.mil.
+cmdnsh01.northcom.mil.	21600	IN	A	164.236.160.19
+cmdnsh02.northcom.mil.	21600	IN	A	164.236.160.20
+ncnd.northcom.mil.	21600	IN	A	164.236.0.20
+ncnd2.northcom.mil.	21600	IN	A	164.236.0.19

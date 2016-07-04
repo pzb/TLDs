@@ -1,0 +1,5 @@
+harmartownship-pa.gov.	86400	IN	NS	ns1.mdnsservice.com.
+harmartownship-pa.gov.	86400	IN	NS	ns2.mdnsservice.com.
+harmartownship-pa.gov.	86400	IN	NS	ns3.mdnsservice.com.
+q33ch0olr19g4dr5jqdhlrerqh2qg3o6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. SGh7aQZCiHQd2rz5i8i9dHKMXfq4XvjSA+mzJpJg9WzXwH/F89SqG6oZxSVEiwF62lOMYedOzVeoxRS0e9J8lYJEX6Lw06sIxr33YTpHLKp9ROx6CPXk72ceej/a8NWpNjAASNiPRpmweXDOUt8aBJqgG3pLZIHXQpmaYHhwVFQ=
+q33ch0olr19g4dr5jqdhlrerqh2qg3o6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  q39pdsim2r460kj06p9gk9r5hrrk51nj NS 

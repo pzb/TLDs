@@ -1,0 +1,16 @@
+dea.gov.	86400	IN	NS	ns-jdcd-01.usdoj.gov.
+dea.gov.	86400	IN	NS	ns-jdcd-02.usdoj.gov.
+dea.gov.	86400	IN	NS	ns-jdcw-01.usdoj.gov.
+dea.gov.	86400	IN	NS	ns-jdcw-02.usdoj.gov.
+dea.gov.	3600	IN	DS	1972 8 1 72ecf547e2e72eec397f394b3668ded3a3996fa7
+dea.gov.	3600	IN	DS	1972 8 2 35c53078eb774ee0be7cb9bc7e6594c7c7f1fa2681d73a6feeb42e8cf6e7e8f4
+dea.gov.	3600	IN	DS	10594 8 1 f8af2813597d0ce1ad5943733a6f3ae46eb512bf
+dea.gov.	3600	IN	DS	10594 8 2 518e6c4052e58fe236a7340929687ce7a778a7ce19772818e18b04cf29705d22
+dea.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. TaR1oZ3YvKs8C2RG0+An/Z9RRyK1/6COeGrnXPdnzlEBF0GHJw8kYBLwx5XGfrvpTM9G335vIc7+c6SnOulV9gg9YHOrftBExXSGm1FiV14cz1dRmJYO+bqvpbCxog6ISd+eaad/UUqfc4B9EBwLzmKgQkkKOJWeezEOdhs2QqQ=
+ns-jdcd-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcd-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcd-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcw-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcw-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-02.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::6

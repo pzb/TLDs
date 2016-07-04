@@ -1,0 +1,9 @@
+fpi.gov.	86400	IN	NS	ns-jdcw-01.usdoj.gov.
+fpi.gov.	86400	IN	NS	ns-jdcw-02.usdoj.gov.
+fpi.gov.	3600	IN	DS	63427 8 1 d47384d60a66813bd8afce907dcde3ee0ab8274e
+fpi.gov.	3600	IN	DS	63427 8 2 52988f62f97da6bc852cd89fd5335ff928555d45e6a2533d901d09a9226486f7
+fpi.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. SfVSkW2oVl+NHZTkR2B52CWhYweHmp5ne8BO43uEgHiqa8BDkd+1H17C+r1tkkiHn/sUfyIW5fzSEcDujrWMqElpWax2OHmBynNgQcaxCsJhqby2/8E68fC4RZiU4jeylL4ZH7bsMpsRgtsFUzJq5C2MVTDHlaPr6dijAo9/YFY=
+ns-jdcw-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcw-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcw-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-02.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::6

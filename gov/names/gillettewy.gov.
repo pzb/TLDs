@@ -1,0 +1,10 @@
+gillettewy.gov.	86400	IN	NS	ns1.gillettewy.gov.
+gillettewy.gov.	86400	IN	NS	ns2.gillettewy.gov.
+gillettewy.gov.	86400	IN	NS	ns3.gillettewy.gov.
+gillettewy.gov.	86400	IN	NS	ns4.gillettewy.gov.
+ns1.gillettewy.gov.	86400	IN	A	69.145.187.49
+ns2.gillettewy.gov.	86400	IN	A	69.145.187.50
+ns3.gillettewy.gov.	86400	IN	A	64.184.230.49
+ns4.gillettewy.gov.	86400	IN	A	64.184.230.50
+mkrnt43fottn2dtp7jevp5sb93fcvc5j.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wXRLT864FgvINz9oUuOIXgbGw+uXo56GEb7qH3jOJhQgYgpsE80IzZhMeaVcDFW898p+zVjxF1wVLwocOFtIOlGAH6Nl8zdQBCxoG8D+2rD9tWCgnlMt4VkKZVNNaxtLL1uvz8px2NG79ufSeijMN4bdGXKDTwcL99ijZdzgWz4=
+mkrnt43fottn2dtp7jevp5sb93fcvc5j.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mksefmkcs04mq9hhr3o8h2h40k5qi2qn NS 

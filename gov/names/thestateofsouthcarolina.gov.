@@ -1,0 +1,4 @@
+6n769t8t9652ptdlqsdludf6kopl7cbd.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. vyIG1pwroEVEDcnO6R4W+IqIbYI4AOZokkNxcMvdVF0GdVGzrWwDiD/ECFV6sL11nvV2eAw6ZhejitxEiMxpwLPsWXwKR9qMGy159u6JnjZhDFtXN5RnFdbuDCgf+YxR6xQCNQIKm9F7jEsCsA17iGT5jC5i9DZhJPTvvO9aye0=
+6n769t8t9652ptdlqsdludf6kopl7cbd.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6n8liaslmt68rra4bimt7ki3gc2sq1kk NS 
+thestateofsouthcarolina.gov.	86400	IN	NS	ns1.net.state.sc.us.
+thestateofsouthcarolina.gov.	86400	IN	NS	ns2.net.state.sc.us.

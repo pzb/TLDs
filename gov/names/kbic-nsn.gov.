@@ -1,0 +1,6 @@
+dvuth36m7unq3eeisvo9dp9is1diar51.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ExMgnl7f1jFE4hL8U+01b+guaamCsHvidNFhk3ua+ea10PtVOlBhkIcVHrsMtl+z+O093gjuYO5YfdLOzCZRF1fsYsGCWxLwMaqhMbYUk2kqSTujpnYp8WFjzBdi4B+UJjhsCMRf6wx+TqJYxMZd67ym4izKujNpaJT1PcXHBz4=
+dvuth36m7unq3eeisvo9dp9is1diar51.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  e081fi0j7ejarn7b8g9ju6ui25kofqoe NS 
+kbic-nsn.gov.	86400	IN	NS	ns1.kbic-nsn.gov.
+kbic-nsn.gov.	86400	IN	NS	ns2.kbic-nsn.gov.
+ns1.kbic-nsn.gov.	86400	IN	A	206.51.125.68
+ns2.kbic-nsn.gov.	86400	IN	A	206.51.125.69

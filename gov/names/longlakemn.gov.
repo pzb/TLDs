@@ -1,0 +1,4 @@
+673f35vpcd8qei1no34ctu1rbl509i12.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. dp4oW2hjDpUwiRBxnm4ZvQAkumR/odWLGpM7Vxj15b3wybNcSR1E4iJoGbcXbINyat1GR5J5dUSZ/KLVp7+H1uyLpQsyCohl5dUz45vCWtHst+2XGuhuMl/FUFUQBGq0Dn1A6lUGANwEekYGix6Jh+uji1ToybR3rtsgflWPQ8w=
+673f35vpcd8qei1no34ctu1rbl509i12.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  679not2n0jqhkbp9fb0t5q5lhthljcek NS 
+longlakemn.gov.	86400	IN	NS	ns1.avenet.net.
+longlakemn.gov.	86400	IN	NS	ns2.avenet.net.

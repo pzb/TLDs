@@ -1,0 +1,4 @@
+7ms2ku8ajahkvfs0jab6qq6f3ue8gjrv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. XfTWu00QsrpTov/SAltNxSv3jb5ljkdcs9E8lLxkt5BTKqzsyf6xLr3HuWqFZdGIvhHw/pXd+AWVl+v/G9U3AyTqH1dJoUNKcp6TuwWVfe3vOsZe5j/mITETIDjhg/Fo2uCNhJtHRlFBFMZF4KDWznsOQBO6q4g5BcpYrR3G6hQ=
+7ms2ku8ajahkvfs0jab6qq6f3ue8gjrv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7ms4ejp740am15cbgbbq2efmd69pj39a NS 
+highlands-ny.gov.	86400	IN	NS	ns1.gear.host.
+highlands-ny.gov.	86400	IN	NS	ns2.gear.host.

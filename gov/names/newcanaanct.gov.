@@ -1,0 +1,4 @@
+newcanaanct.gov.	86400	IN	NS	ns.cv.net.
+newcanaanct.gov.	86400	IN	NS	ns.cvnet.com.
+slfq6im22nem9pgba7e2ms4p5d159eh3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. tDUHMb79LPWD+EhuEuHJwHAsFfShZyPSG7Jwl4dU97DPNKqF4s6WXRYxfcxDUhoDVZ7n5aSdScfDhoKbKaC3KJj2nV8sz5TNKotygkubeYQqmMmAoruM8PErLbvaMsr2VdpQrp7eF0f47rVRTLUdgXi0kKxHq921UqufPg+sv0A=
+slfq6im22nem9pgba7e2ms4p5d159eh3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  slpet0p7dtsac6o0e5to2ure07k4s5tf NS 

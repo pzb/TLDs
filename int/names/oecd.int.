@@ -1,0 +1,3 @@
+oecd.int.	86400	IN	NS	delphi.iea.org.
+oecd.int.	86400	IN	NS	net-gw4.oecd.org.
+oecd.int.	86400	IN	NS	net-gw5.oecd.org.

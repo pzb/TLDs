@@ -1,0 +1,4 @@
+l8dsdl68m3fsj4vr33dkl54l7io9o2lg.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. KbfFLQifVIi1AjJskezIlubwUJY65gdsiu42lo7eBPufMqcH9WSpn4DAtPpJY6G1kctQr6VwrveUqaQruCkjfC/qyoDw31n/glDU9bwub7EY+msHTdvMzlJyeeKjN4yrmZzbsxWkqvxf6MoWpLnNgdb8nfmEkpj7ELfQksvBA18=
+l8dsdl68m3fsj4vr33dkl54l7io9o2lg.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  l8e4vekl3gd0msnk2mjj2r53age5ar1v NS 
+lumpkincounty.gov.	86400	IN	NS	ins1.georgiadns.net.
+lumpkincounty.gov.	86400	IN	NS	ins2.georgiadns.net.

@@ -1,0 +1,5 @@
+ibec.int.	86400	IN	NS	ns3-l2.nic.ru.
+ibec.int.	86400	IN	NS	ns4-l2.nic.ru.
+ibec.int.	86400	IN	NS	ns8-l2.nic.ru.
+ibec.int.	86400	IN	NS	ns4-cloud.nic.ru.
+ibec.int.	86400	IN	NS	ns8-cloud.nic.ru.

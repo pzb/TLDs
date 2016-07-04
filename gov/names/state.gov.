@@ -1,0 +1,7 @@
+state.gov.	86400	IN	NS	authns1.centurylink.net.
+state.gov.	86400	IN	NS	authns2.centurylink.net.
+state.gov.	86400	IN	NS	tpsns11.terrenap.net.
+state.gov.	86400	IN	NS	tpsns12.terrenap.net.
+state.gov.	3600	IN	DS	59805 7 1 fa7f6febbb25075d03e1872d13015a3b01d21d1b
+state.gov.	3600	IN	DS	59805 7 2 4a55e93153cb16cdc3fc61190205184ffbacfcccb0ed367b683b62219d0888ba
+state.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. i/uGQ2kAJV+uGC2EK5sHR0sMKc/fXAez41YNzNVRFaRXrQQjWDQd9WV0NnbjUf0wer9hVu62rP1KONRN2Gh/tGLuNwap9ZhmIBam3wIv79dsUJKNHtW975xnHSwm38o63PUlc4+6TQu/v4CoIh0IvFXsLEL6bAuqnGWauh9AEuo=

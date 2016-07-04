@@ -1,0 +1,9 @@
+dspo.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+dspo.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+dspo.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+dspo.mil.	10800	IN	DS	31024 8 1 5e2f6f5612ba0075a75a2164ca03eb49c17a2459
+dspo.mil.	10800	IN	DS	31024 8 2 7dff4054ae1d7e81c5697203bbd39c44fec4a8458b9f2e5d4e0c375006caa0f4
+dspo.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. F/gdniD3U+1gwclGOu0PYl7Cw0A7x+K9ku/ZKbSf276xMiIGE2ImzGXOPuc6bbYMhF9j/EgnqMyRRcj30vW64zivA23Oeidysjg2hgxu7K60ntqa8sr5U8frfMs2YDhIJNCocR0aeF5SLIMGc1N1/9nWdZiWksGw6/g6j/M18OcMPuk=
+dns-pub-f1-u.pentagon.mil.	21600	IN	A	199.252.47.11
+dns-pub-f2-u.pentagon.mil.	21600	IN	A	214.14.133.11
+dns-pub-f3-u.pentagon.mil.	21600	IN	A	199.252.47.75

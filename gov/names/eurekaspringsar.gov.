@@ -1,0 +1,4 @@
+8ni9rlt0k2ftff9j17oprnf5vbnu5g38.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. f/EWjVdR3uCb0juFcvOSKOkQBgdet5iYWRJgZqXNW2B06BNjn9G7+QGVKdVammZPpwLtv6ZlmqGgAvRC/POJLCsghiSvVh+q15LM4T37cxO5Z4BH0ngHM/yYa7+WqnlGKgzkXKn8JI55OYEpbHXj8H/TkOkAd6KRvDqPVpjhnMg=
+8ni9rlt0k2ftff9j17oprnf5vbnu5g38.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8nm4gc5arnpbp9m38s23mp6jqr3k3ufk NS 
+eurekaspringsar.gov.	86400	IN	NS	ns73.domaincontrol.com.
+eurekaspringsar.gov.	86400	IN	NS	ns74.domaincontrol.com.

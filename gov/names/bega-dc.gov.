@@ -1,0 +1,4 @@
+bega-dc.gov.	86400	IN	NS	ns1.mediatemple.net.
+bega-dc.gov.	86400	IN	NS	ns2.mediatemple.net.
+n23mde9lhem9l7evdb89kqcjpg4di2as.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. KUEtykel/5DXgbGygtMdDc5LzxxWDkvVMea0N7+izTqTo44cwizDSndpoR8BI9VHzWObx6kHmp/92Tc73Iigj5EoLpRkXkMV5yvC6TyZIMddcvlTOVcJY/VtBIz3AlrxXR/QcDIgF02tE/CdmX4xNsHDDzs+edTe4c0fNSM2l0U=
+n23mde9lhem9l7evdb89kqcjpg4di2as.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  n2g0oev7ldqpqmnu81e54sn2g97krahr NS 

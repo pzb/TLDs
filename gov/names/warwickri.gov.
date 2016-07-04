@@ -1,0 +1,4 @@
+gf36novgmt6cdp3eb9ehb1na7vrfep4a.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. r0P824ks2uYj41DFCTC+jAEiZffmx4ndYqZxz16cMFYW9uIShjzLfKlBcP/MNDTTdFzl+dYDW1i2KGpHHeFeB5Dwvvq6nAYykLZMnunNHwqan0QLSvn0+BT2xRY48TGkxOo9zo7jgi8HeE21V2S7cHZB8gEG5UD+HASGMNZ50lY=
+gf36novgmt6cdp3eb9ehb1na7vrfep4a.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  gf6228hg4jigcdcap65sc5mfi994mipa NS 
+warwickri.gov.	86400	IN	NS	ns1.infotech-maine.com.
+warwickri.gov.	86400	IN	NS	ns2.infotech-maine.com.

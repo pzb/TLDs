@@ -1,0 +1,6 @@
+3nuu0u22c4kig6ilp6t8jn8aqbfm3sht.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. T3Vnv4PXQpq2TP+gpBNAYHqCysFv3hqu4r/0Os00/hk3NCFroelCwFyCioEnVSDNM09+VsDhwi4RL67hmfyrv1N7incQXlCJP5zR/4vdqAIQau0BfzrLpaYMCBiqaz0QBQ7vJgISUqIkdmHqUQ58unCl+4VZXXVmA/MHsF9B59E=
+3nuu0u22c4kig6ilp6t8jn8aqbfm3sht.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3o7fp072mip1ooua3q50j5vtt1f7djjc NS 
+azstepsup.gov.	86400	IN	NS	ns-113.awsdns-14.com.
+azstepsup.gov.	86400	IN	NS	ns-815.awsdns-37.net.
+azstepsup.gov.	86400	IN	NS	ns-1253.awsdns-28.org.
+azstepsup.gov.	86400	IN	NS	ns-2031.awsdns-61.co.uk.

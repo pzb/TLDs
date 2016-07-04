@@ -1,0 +1,4 @@
+ohiohouse.gov.	86400	IN	NS	ns.lis.state.oh.us.
+ohiohouse.gov.	86400	IN	NS	ns2.lis.state.oh.us.
+q4u3as72hnufaktce4e38bju0m28b13c.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. MTECW9br1+kr1Tg9kk5lhBqbyZs5ewMyMV786dUPzLwiEzLtOGh0JnVi9wH1aRsqdQT3ZDdsnTx1Mtc9yF0kWy8HEqKph5AtQohm0f8CA+ELlsQh0bX/e48Imr8BWOXxz+covrj1lBAqqBq5zZj29nCiJOrhx3NWSlZ4/WwiGFE=
+q4u3as72hnufaktce4e38bju0m28b13c.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  q4u46grb6phulhjv5r9cmrenvguvonkb NS 

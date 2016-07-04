@@ -1,0 +1,4 @@
+shapingnj.gov.	86400	IN	NS	ns1.state.nj.us.
+shapingnj.gov.	86400	IN	NS	ns2.state.nj.us.
+vb52hqb67sdcva4vim3f67u2ddpl85im.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. sCaW02rEdqeznXSv8og1ydrTzWoNfMjV8eYfkHTUOFm/l3PfcxQgNDlrQWS7yNHQsvAY7qqIOjgFxt7ZD+Kz0tnFgo7r+nHJLDzQeH1u1hasTs7n8Px5ooeq60oZFWIn0kU8KCH8JAokSmChXtjFC0FttA8sMOeObwR1R9Pm1QY=
+vb52hqb67sdcva4vim3f67u2ddpl85im.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vb8e3tdho1b940u0422o6k0lng7ktosq NS 

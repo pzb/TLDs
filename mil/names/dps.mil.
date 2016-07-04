@@ -1,0 +1,8 @@
+bucqg9m342kuqp6d3gtpgbicf55rrs6p.mil.	10800	IN	RRSIG	NSEC3 8 2 10800 20160708161835 20160701161835 16413 mil. O043itdvj0q5Vdo+IcconRfl7jptsktfGEasQNHTWqFmP15egVHCc6xSMkcUhNn8ZqVJQVunEBOtwuy5GWTGqcNQ3PhP5xe/Dkhgu2zA5FGV9q3z3Z2XkcQo6t+RTHQUBTBbSQGp1Cnto3w1k9EkZ263U0dzzAtbQxXh1RPxcbkCVms=
+bucqg9m342kuqp6d3gtpgbicf55rrs6p.mil.	10800	IN	NSEC3	1 0 10 adeb  bumcrmmuvh2j59n606fnrpa9de813ioq NS 
+ns.cybercom.mil.	21600	IN	A	131.77.60.235
+ns1.csd.disa.mil.	21600	IN	A	152.229.110.235
+dps.mil.	21600	IN	NS	ns.jtfgno.mil.
+dps.mil.	21600	IN	NS	ns.cybercom.mil.
+dps.mil.	21600	IN	NS	ns1.csd.disa.mil.
+ns.jtfgno.mil.	21600	IN	A	214.3.125.231

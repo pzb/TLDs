@@ -1,0 +1,14 @@
+deadiversion.gov.	86400	IN	NS	ns-jdcd-01.usdoj.gov.
+deadiversion.gov.	86400	IN	NS	ns-jdcd-02.usdoj.gov.
+deadiversion.gov.	86400	IN	NS	ns-jdcw-01.usdoj.gov.
+deadiversion.gov.	86400	IN	NS	ns-jdcw-02.usdoj.gov.
+deadiversion.gov.	3600	IN	DS	48100 8 1 d7d37c75b26db91109c051ee63cdb1ef490be741
+deadiversion.gov.	3600	IN	DS	48100 8 2 6c19e804069be0ce3fa6f9bed3b091864596edbdfca51f3295a9bc3f1c0cc32c
+deadiversion.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Hw3WlLQXNcjwryvfBLdXPJVZS2MzOELbiAUas8JJlnSjfX03FBt1OhODJLP3e2V4HLnd0ZqIzkDnq3dh468nOFjbBOKuPA3WJket+EeEqgPx9h0PgCttsChPtI9j1O7E6gt2kqu3zFHeacfhF2iu2zmUUyg8wXm6APE1edsq+eo=
+ns-jdcd-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcd-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcd-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcw-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcw-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-02.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::6

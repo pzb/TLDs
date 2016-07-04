@@ -1,0 +1,4 @@
+hbm5i1mg5akaej06rriclqjlmcr4igho.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. qjJv5RYmi498ADO6vzPcZ/K3R/w6I6JQwR75SMmXAQwFw1AmdwpnaHjhllRIQBhGlZgnlIcCLWFbCEF8MKEiK5oj1kqZ3nLpHbw3tgkbpsBtTU0LIe/YnayDz4fDFPa9zIUpTTk2+7sYeulGL0rGAEE3XOL1jdvZ1Nw0D+wuAgY=
+hbm5i1mg5akaej06rriclqjlmcr4igho.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  hbnnsr9b81jffujtj5d7krv01ke96kal NS 
+wvot.gov.	86400	IN	NS	dns.state.wv.us.
+wvot.gov.	86400	IN	NS	dns3.state.wv.us.

@@ -1,0 +1,4 @@
+23ft154lt1q7j81m0hempb3k6h9kio48.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. F1dPYmtWbW8i7odNhybK6tQCnrlv660XAoeUnQUsAsf3ijte9Iif0g/K7NxpK6Nz08C+KUp8ro9f2h03XpdPGPxvQbJLjC2dN+6yq2Rj8NONskHRK724VirpPO87EwB4n2v5oS+YvwOQBbVnSvzWSc3s4Xv8rqYjQ/b8Az5Za58=
+23ft154lt1q7j81m0hempb3k6h9kio48.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  23g26g7prsqjsf89g86jkf3v71v35rsd NS 
+auroratexas.gov.	86400	IN	NS	ns2.powweb.com.
+auroratexas.gov.	86400	IN	NS	ns3.powweb.com.

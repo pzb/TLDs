@@ -1,0 +1,5 @@
+ph47v71nnfl1uumavo9he591vfpqerri.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. eqjQlPesENBMJKEhdjZD8huysuWBzAKCdhkXheL3zkID8SLFBdJIeWbU28G8/+O/uj5R6Mc4CWB9NpCgCeEqIcA9muELSO4xVM2vV6bnY4ZpzY/zO1tQtSpdSC9AW3Q5U4yBuEsM8AVaGPezTY5r6bngkxNB6bgJ6EiL9tyNoYg=
+ph47v71nnfl1uumavo9he591vfpqerri.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ph4or44ukjkg2rlit6661d94o3ukv3c7 NS 
+wibadgertracs.gov.	86400	IN	NS	dns.uw-mad.wiscnet.net.
+wibadgertracs.gov.	86400	IN	NS	dns.uw-mil.wiscnet.net.
+wibadgertracs.gov.	86400	IN	NS	bigred.state.wi.us.

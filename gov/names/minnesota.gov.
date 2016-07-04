@@ -1,0 +1,6 @@
+minnesota.gov.	86400	IN	NS	ns1.state.mn.us.
+minnesota.gov.	86400	IN	NS	ns2.state.mn.us.
+minnesota.gov.	86400	IN	NS	ns3.state.mn.us.
+minnesota.gov.	3600	IN	DS	15244 8 1 8da0657d209874e2de1a67ae62aed78fe4c43280
+minnesota.gov.	3600	IN	DS	15244 8 2 4caf579501c7f058bd8537baf2ec4fb49be84f5d45f35fabcef97c8780c50b8f
+minnesota.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. SwhpyWx7LW/ogl1Pk+bnRHt+50DJVEmQLKk96j0mNTrGTd6TEvkSQXNy88yd/s4cWHCEBJllZt09BouCjm89NFNSrHV3uPOF2nm5AznCH3bgnRZA/G/+5/gxPv4krWl0D4fF7MT+8ajJ0CWjDsbueGUQxg0eJOa5meJoE2u5Mtk=

@@ -1,0 +1,4 @@
+081r8bbeuhii4ngl5i6gmd6s67thp3nv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ZKuU3WMslWR+bpricAMHpSmbR0h521avzDg25cZThkIFHbfpH78/Ta/ZegekhyvLPSZV2KVu1dur4BhZEdew+RwONM51QD71sIZth1KH1gd7DOveGF9KHhGQe20B3tU/ZSJXX9rh2tt8LFyprT6RXZQNiIZ3jf3B19dQxAKXLTE=
+081r8bbeuhii4ngl5i6gmd6s67thp3nv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  08ctbjag0ciuuqmq5i3c8dbmdoe85vpq NS 
+franklincountyohio.gov.	86400	IN	NS	ns1.oar.net.
+franklincountyohio.gov.	86400	IN	NS	ns2.oar.net.

@@ -1,0 +1,5 @@
+8omd4hlcjfotbu97asl9vlu6qdo4q8da.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wflUnMfsw9vR3L7ZeVCE7rO+jHheUoZrN6dwNLqtpRK32+ZKhiXtPHRJTbqJ4GU81ZAkrH8hCMDdSp7GO3As2AvF7jtwYgApdIeTTPP09fbmP6JAJ5HsCbrnDmSDKXihD/lAwWJ4qYkRvO9pv2rC/ysjLmCzLiZ8c8BD7krcyxM=
+8omd4hlcjfotbu97asl9vlu6qdo4q8da.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8omeh72dsmguqkac2q41eqgasjpv8f7q NS 
+delta-co.gov.	86400	IN	NS	ns1.dtdns.com.
+delta-co.gov.	86400	IN	NS	ns2.dtdns.com.
+delta-co.gov.	86400	IN	NS	ns3.dtdns.com.

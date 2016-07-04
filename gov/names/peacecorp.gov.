@@ -1,0 +1,7 @@
+peacecorp.gov.	86400	IN	NS	ns0.peacecorps.gov.
+peacecorp.gov.	86400	IN	NS	ns1.peacecorps.gov.
+peacecorp.gov.	3600	IN	DS	45933 7 1 acec50abb9b9992b0df8eb71503703ba9bd8026e
+peacecorp.gov.	3600	IN	DS	45933 7 2 55d9c26909224829941d7f3bcf21229c0e7462c3a75eb2e03fdeb19188b694bb
+peacecorp.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. KBsIgsljySoCi+7SscaX+/epBjOuXd+DRxL6654rUdw+JqY4FlRR9PKcegM/fXcsVS6g/bXdZ2vNHC8tZ9+W00STHchEQ/JKHb2hE+iS8WlihAEQseapFMHqLO7GbFUHfoar5gxyfZYExp2qwmHM3NWumjzS3AfcpqTTP3gSHqs=
+ns0.peacecorps.gov.	86400	IN	A	65.205.231.167
+ns1.peacecorps.gov.	86400	IN	A	65.243.77.5

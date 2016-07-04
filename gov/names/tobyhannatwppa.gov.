@@ -1,0 +1,4 @@
+bceqs02klv86ig5gn0v41a368i4he2g0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. WM4VfUA5CH1lqzf3T3oreowo1wqruNERpgmwt66dWUB108xUxY9ENNbm2jGdztNJjrp1iFdj2V9PfRd0/s1l+TD3mwH99BkBZAcD4OBG2saKVvGzIx/9p5i87iabe+QbieCjTc0Y/SA3kIkoj9qBOZ2YQOYqVZgE5SYEYvtrplw=
+bceqs02klv86ig5gn0v41a368i4he2g0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bcf2gbifekumc94nosvjuok756qghlcr NS 
+tobyhannatwppa.gov.	86400	IN	NS	dns1.ptd.net.
+tobyhannatwppa.gov.	86400	IN	NS	dns2.ptd.net.

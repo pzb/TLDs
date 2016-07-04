@@ -1,0 +1,4 @@
+7acc6bgt3ci9fknfbpcklk439ve1i7s8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. jA3iS6wCQkJTaZa/YiGmzHrNYDsKJ4TwHNWP/lvxPA1wBLGLUbm6zGM52/Ph8wk2rxNXpjQ/s96unl4wP8aN/zI3oN9hQwjZz/qhqHQEKRs8DwVmjIbYrh8g3GFiFcWgxb3KGDyERNUYjNgvjplM7CKS4wb+d0TsVs6/Uwq0L0E=
+7acc6bgt3ci9fknfbpcklk439ve1i7s8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7b1rbjjdrclqgfi9ksn3rs1i5l56mbj7 NS 
+njflupandemic.gov.	86400	IN	NS	ns1.state.nj.us.
+njflupandemic.gov.	86400	IN	NS	ns2.state.nj.us.

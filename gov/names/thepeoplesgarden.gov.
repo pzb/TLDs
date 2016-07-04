@@ -1,0 +1,9 @@
+thepeoplesgarden.gov.	86400	IN	NS	ns1.usda.gov.
+thepeoplesgarden.gov.	86400	IN	NS	ns2.usda.gov.
+thepeoplesgarden.gov.	3600	IN	DS	3526 8 1 d15f9cd4efb68ca37f33c171d84b89ff5b99eeea
+thepeoplesgarden.gov.	3600	IN	DS	3526 8 2 2f27fd9d00eaa33342925816a21991e6e7496f3c8083e80db1f1bc62d6d92d4c
+thepeoplesgarden.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. a+Mtd//OGyIpx7r3ZPEZULK9cj+xe4VraCy3jxrG24/Dvi897Mg5UHgH3C06/4M/Ofsj16hBwy5clIfA8dWfImxKyUj9uYewICBsUYZHB2GS0EHWa/bMtGgBcHTTZ+fijkzwPOt8DPvlKrjgZfYSc4g04M+UEyhW9s27c5T7SbE=
+ns1.usda.gov.	86400	IN	A	199.141.126.202
+ns1.usda.gov.	86400	IN	AAAA	2600:12f0:0:ac04::202
+ns2.usda.gov.	86400	IN	A	199.141.126.206
+ns2.usda.gov.	86400	IN	AAAA	2600:12f0:0:ac04::206

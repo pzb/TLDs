@@ -1,0 +1,6 @@
+coadns1.austintexas.gov.	86400	IN	A	162.89.4.139
+coadns2.austintexas.gov.	86400	IN	A	162.89.4.140
+austintx.gov.	86400	IN	NS	coadns1.austintexas.gov.
+austintx.gov.	86400	IN	NS	coadns2.austintexas.gov.
+dnb1ae9re32h9u2nupicl2pj09qvjdc6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Ci67koBtgyjFc8aHVKptI1C7K3E/3ZE3p2s/aSeV2tWXkFfvKfRLcU9eo504LbzVyHwTQsCnKL1lFySwg1YkCqH2J3hXa5TbTNgTgtrBNYEvF8DHl4pF+GmnvXaVsQRK/hNtS+5x7LFL7s/lC+Ot2DYA4PUaUbppFDXgN8a2XoY=
+dnb1ae9re32h9u2nupicl2pj09qvjdc6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dne1vd0scv46baplt2pggq3modm1hjk8 NS 

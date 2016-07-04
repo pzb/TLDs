@@ -1,0 +1,4 @@
+onojsslqvcmpfakavrnkgt0m5kl9s6pr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. g7LY0x1Zo9g5emWQGp8bFcP36xD+i+I/yTVHWw/oa1wGRZzzax2ZkfLOWf/JMw5SjvKBm4+oDVg69cCuf4PXhKu1Tt6XDTiwQGOZpukySY7M6iHUOdWdK8Wv0TishlMTxhFugqtGyNXaYgkDcgCfbcxFvcpURf9qfg/50bqCueo=
+onojsslqvcmpfakavrnkgt0m5kl9s6pr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  onqlhgcm0qssmrgr5a6v9i9ji50dltmr NS 
+tamaya-nsn.gov.	86400	IN	NS	ns1.twtelecom.net.
+tamaya-nsn.gov.	86400	IN	NS	ns2.twtelecom.net.

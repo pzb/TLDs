@@ -1,0 +1,4 @@
+1ot5t6thkonv8dao5u8rvm4cb8ncja16.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Dz1rZrDC9KiNVRkFNeShgojiEklfx2WjByRApWa6dD5mhdrKdcT832OfwBbQ28Z5DwIjWo1xKMkFNhPkPXgXFyZg0RlvzODXAmzZcuJWdhgJkQ3L2i4nXBC0HiT/sgOhuRgdCs2Je4gOLln21wT2XJ73QFZovNoa+wbFlCljiU0=
+1ot5t6thkonv8dao5u8rvm4cb8ncja16.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1p1hk0kjv4age46d90nijiqe7mbvnakr NS 
+mrcog-nm.gov.	86400	IN	NS	ns2.swcp.com.
+mrcog-nm.gov.	86400	IN	NS	kitsune.swcp.com.

@@ -1,0 +1,9 @@
+bankanswers.gov.	86400	IN	NS	ns1.treasury.gov.
+bankanswers.gov.	86400	IN	NS	ns3.treasury.gov.
+bankanswers.gov.	3600	IN	DS	29103 7 1 90451e65d3d1d68ee23231ef8a8eaf4274f5e6ab
+bankanswers.gov.	3600	IN	DS	29103 7 2 f91619703587c878aa5c7219bdc267ccfcd3acc21113b76191093061ab95dfec
+bankanswers.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. BzWAbzaUCXbt/XNIrss64V9as4hL+EV41Dp9+D4oeXCKYs0G+IOy0OUVRtTjQa3vtN/QX+Ym0IXcDmTaGDqsLjjM2L7Jq9KPfGJu+nFueClBNsc8ZZwfbClnWPPyVROk9WehZ20rXE6LwBKsLoV+n24feW4ehczZDNZAvFjuZaM=
+ns1.treasury.gov.	86400	IN	A	166.123.208.249
+ns1.treasury.gov.	86400	IN	AAAA	2610:108:4000:100a::249
+ns3.treasury.gov.	86400	IN	A	164.95.95.155
+ns3.treasury.gov.	86400	IN	AAAA	2610:108:3000:100a::155

@@ -1,0 +1,8 @@
+905cea20fg6lln70mn85o0vpm88cv3pb.mil.	10800	IN	RRSIG	NSEC3 8 2 10800 20160708161835 20160701161835 16413 mil. Pfo0W3LiDdI2KomDS2v/9X+R4HcIDVkhGmkaIaONgPFCPXSYdylk7Op8t+66hJSwu706C98+AVry0m1QmKmlXAbK5oJ2gZqUfsKEBlMOzyXl7gadg2yzWGxxeX8F3z9F+Ep7nxS58aU0ogALzcTNzSQmFkl3WYuyl+X+Ybyedg0Q7po=
+905cea20fg6lln70mn85o0vpm88cv3pb.mil.	10800	IN	NSEC3	1 0 10 adeb  91fm2nag8qb6qnidet2o19ihvl1viv2m NS 
+dodiis.mil.	21600	IN	NS	nediacd003u.dodiis.mil.
+dodiis.mil.	21600	IN	NS	nediacd004u.dodiis.mil.
+dodiis.mil.	21600	IN	NS	papjicd0001n.dodiis.mil.
+nediacd003u.dodiis.mil.	21600	IN	A	214.3.138.10
+nediacd004u.dodiis.mil.	21600	IN	A	214.3.138.13
+papjicd0001n.dodiis.mil.	21600	IN	A	198.201.23.26

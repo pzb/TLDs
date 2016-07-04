@@ -1,0 +1,4 @@
+iica.int.	86400	IN	NS	ns.iica.int.
+iica.int.	86400	IN	NS	ns2.iica.int.
+ns.iica.int.	86400	IN	A	200.91.91.165
+ns2.iica.int.	86400	IN	A	23.96.18.108

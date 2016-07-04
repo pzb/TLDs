@@ -1,0 +1,15 @@
+eduftcdnsp01.ed.gov.	86400	IN	A	165.224.21.6
+eduftcdnsp01.ed.gov.	86400	IN	AAAA	2610:e8:907f:1:cd99:4fb7:bb7:2213
+eduftcdnsp02.ed.gov.	86400	IN	A	165.224.21.5
+eduftcdnsp02.ed.gov.	86400	IN	AAAA	2610:e8:907f:1:d093:1118:adf3:7473
+eduptcdnsp01.ed.gov.	86400	IN	A	165.224.212.6
+eduptcdnsp01.ed.gov.	86400	IN	AAAA	2610:e8:9080:1:88dc:90ef:b68:490
+eduptcdnsp02.ed.gov.	86400	IN	A	165.224.212.5
+eduptcdnsp02.ed.gov.	86400	IN	AAAA	2610:e8:9080:1:8c49:4c6a:b596:f07b
+nationsreportcard.gov.	86400	IN	NS	eduftcdnsp01.ed.gov.
+nationsreportcard.gov.	86400	IN	NS	eduftcdnsp02.ed.gov.
+nationsreportcard.gov.	86400	IN	NS	eduptcdnsp01.ed.gov.
+nationsreportcard.gov.	86400	IN	NS	eduptcdnsp02.ed.gov.
+nationsreportcard.gov.	3600	IN	DS	46885 7 1 d32534fac3e483c93550c638b4825efebaa8fec3
+nationsreportcard.gov.	3600	IN	DS	46885 7 2 0ada78e6a87946b1a23a326a11e5db536808a113e6c1e06ce6aab8c2de9b2406
+nationsreportcard.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. WH4STxAMVtaBeXlRiV+UMmTrrx6OMR9hc9rJ4cV4IzYbC7bcwNaJNIrQYvthL2UlWeMRmsnMe9bVAbAvPr9Q3/YhcHuUZE9QlGywMfjGhjH20d6cZdMED+ckecKCeAa9ULMKvdYjsHtF484jlclUaVcnB3UIs7lO3OtkbTbkGNo=

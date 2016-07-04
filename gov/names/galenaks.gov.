@@ -1,0 +1,4 @@
+euan7hfj5r9oj0308meqct48kdlh3n6c.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. cCjWIQjcDJpJvHfJQ7AJWpf0dI/KqfHIW7DJQaoFr5Qizbq3GnoYLi+rpSyXW2PK2S4usyVNKrHxf9RpIDs2puXbC4IZxetj5c+qA1GfVe8zJOGE0pDEMRx7CekgjLCr8j9S0kB+7/yU42JEBGhKRo2PUh9ekPP51Pnr8obsqvE=
+euan7hfj5r9oj0308meqct48kdlh3n6c.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  euanj36hto9n3ovc3raneqqplo6igqd7 NS 
+galenaks.gov.	86400	IN	NS	mns01.domaincontrol.com.
+galenaks.gov.	86400	IN	NS	mns02.domaincontrol.com.

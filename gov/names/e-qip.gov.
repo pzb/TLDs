@@ -1,0 +1,8 @@
+e-qip.gov.	86400	IN	NS	a1-12.akam.net.
+e-qip.gov.	86400	IN	NS	a5-67.akam.net.
+e-qip.gov.	86400	IN	NS	a11-67.akam.net.
+e-qip.gov.	86400	IN	NS	a14-64.akam.net.
+e-qip.gov.	86400	IN	NS	a18-65.akam.net.
+e-qip.gov.	86400	IN	NS	a20-66.akam.net.
+e-qip.gov.	3600	IN	DS	8077 8 1 2cffd6d198db50c5acbe2358ee10033c08d8f053
+e-qip.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. dVXAighKQb6NDw8LJKK2Wz27NojsLBE+egj/I8L1xKnfGb2PRgvodLYChZeyEGVSFkwEqBQC1MNig+J64zIRpwaGwNzd2QEgLexOO8iKFIAOQXzUc1T3K2WGx3Vwv6DSC22e6ujVEnKFkzdWZrVB1mvoPQj9WJCBubvcTJiLSac=

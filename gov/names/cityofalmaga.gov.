@@ -1,0 +1,4 @@
+cityofalmaga.gov.	86400	IN	NS	ns1.softlayer.com.
+cityofalmaga.gov.	86400	IN	NS	ns2.softlayer.com.
+tgm31u5g6kut7vcaj4go6oimnjg7nvkg.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. bovuTLFPEZ/onZENZO07VVU3RpDKsTdJg0Eem520xpq6GmvvEQgjOhzhZ4zvAj9uSooV7zm5k8pmL/6kuX7voZtelXw6hf3mj4t5lwVmFpgMfsWA1jJIae+3NyaxYV9FLM8TQ/2GFzGH0HSgsd7ixQrm4wI6GWj1xFvkQZxnvFo=
+tgm31u5g6kut7vcaj4go6oimnjg7nvkg.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  tgm7oheqghuri2h0mn1gnala6ttbm7j9 NS 

@@ -1,0 +1,9 @@
+uscg.mil.	21600	IN	NS	ns1.uscg.mil.
+uscg.mil.	21600	IN	NS	ns4.uscg.mil.
+uscg.mil.	21600	IN	NS	ns5.uscg.mil.
+uscg.mil.	10800	IN	DS	16278 7 1 c514d3c32db3b9233f0994fe886b99f25dac4f37
+uscg.mil.	10800	IN	DS	16278 7 2 62d0b6b70bbcbca7657f4c1410e25fe1db8f8bf827722d6873c29ad6a0c96fb8
+uscg.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. djlvIojhj/19R5uctqExWwRsA9/8LBpa1s2qha/K9uzoUoQ/WtRu02Faa6uUwnobZxDnylcywyoemXMj6tahBINv6Xoxo2yIsABtw8599w1nL09XhhW6q5yrCQiHd2m1tO5iuyCBd91vjONwQ0m8DKYhOpY92stm9axYklCuK/BelOA=
+ns1.uscg.mil.	21600	IN	A	199.211.215.69
+ns4.uscg.mil.	21600	IN	A	199.211.216.7
+ns5.uscg.mil.	21600	IN	A	199.211.218.6

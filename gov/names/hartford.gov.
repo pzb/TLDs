@@ -1,0 +1,6 @@
+ns1.cen.ct.gov.	86400	IN	A	67.218.95.9
+ns2.cen.ct.gov.	86400	IN	A	207.210.151.9
+g8cfmc2oi4ahj7eqsd4qk07lkr3emsfg.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. xOp79n7xSiAzFhYt0CS0Qv85O8sFxtO7A8torD3zRX5R1/O76hYsw31rpzahS7qy4waOxe6ppsAUl++76RVGSM4gEws9wXmuxAZVm1VDanmAcB8o+2/6XIqQxsruOhl8sFBHmCdhz6M+c+1evpx/m2A8VDS02Ad7Iez8ZFdnrso=
+g8cfmc2oi4ahj7eqsd4qk07lkr3emsfg.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  g8i3n2krq1inkpdkh5lkiei0unqi82ec NS 
+hartford.gov.	86400	IN	NS	ns1.cen.ct.gov.
+hartford.gov.	86400	IN	NS	ns2.cen.ct.gov.

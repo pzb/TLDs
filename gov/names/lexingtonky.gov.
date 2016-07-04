@@ -1,0 +1,4 @@
+2n573td0oq5jhh358noq154lj4rqfu0r.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. WphWoIZGYjYVoakrrInbxakGExDOnWyUYiOTfQiYaco8XQiWCDjzgpPorbXj0rBEu5UWWG3qc+p36e2wuer9peI4Q8z3HifCFImRyEy6SC6mty9jbkssqvyvt/TnYjAjgcgl0GkH0zv1+/+5d2krwTwlYW9Az2ZhVBbcbWCwqlY=
+2n573td0oq5jhh358noq154lj4rqfu0r.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  2n66ifrcf8n9ggmtkgp0nvqackntfnm1 NS 
+lexingtonky.gov.	86400	IN	NS	ns1.lfucg.com.
+lexingtonky.gov.	86400	IN	NS	ns2.lfucg.com.

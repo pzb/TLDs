@@ -1,0 +1,6 @@
+gop.gov.	86400	IN	NS	chyron.house.gov.
+gop.gov.	86400	IN	NS	mercury.house.gov.
+chyron.house.gov.	86400	IN	A	143.228.129.38
+mercury.house.gov.	86400	IN	A	143.231.1.67
+lqvir05drbdv9sroucrrr1jopgavan4h.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. FKt9MGjwaz7tfcC81HqBY3ea6JY2jLUkq7BTmU3NOlZvOMPnYVoHATPk6uBfJ87+SZWlmUYp6qUUhRUBTsvxBcwiZPXwsxhMUaRP/DNjAjfQqmdkhITcwKIpsq7TVnrxppxiIvn3aQ04slKIA1XwieHpgxYUoNwZUIcT6I1Cozg=
+lqvir05drbdv9sroucrrr1jopgavan4h.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  lrldbtc333hrmc3pg3jlch8i6k96akgo NS 

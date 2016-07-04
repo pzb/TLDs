@@ -1,0 +1,4 @@
+61oj8nfghisv0bc6rslejh246gq0d8r6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Yo6RFrFUj5wOt+5XZtwV5EdTcVgBMWLiaRwVTP18r8mwpSG34dnGRAJBpf4zeBQDmmLJCFbnp0nIp2o2SIXwidAt+U7qzAeyFyxMWXk2qTtOBxDm6ZArMZvDtyZbvJetvyBGRNA4yMt5+abE2c/0B/vO3KHltCTyZMWDwDV7cwk=
+61oj8nfghisv0bc6rslejh246gq0d8r6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  61qekofua4m6i77hld5tiaupqs3g3p4o NS 
+granby-ma.gov.	86400	IN	NS	ns1.infotech-maine.com.
+granby-ma.gov.	86400	IN	NS	ns2.infotech-main.com.

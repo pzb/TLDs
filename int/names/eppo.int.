@@ -1,0 +1,4 @@
+eppo.int.	86400	IN	NS	ns1.eppo.int.
+eppo.int.	86400	IN	NS	ns2.eppo.int.
+ns1.eppo.int.	86400	IN	A	149.62.152.20
+ns2.eppo.int.	86400	IN	A	149.62.158.200

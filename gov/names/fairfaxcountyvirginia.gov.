@@ -1,0 +1,10 @@
+eb2cldqami3vmobg6rrvfh7hj0v536mi.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. CcuxpHQYvHqOKXlt/GJpw96Q/8qD0D2OOdQSS3Fgq+u2BzfOcqJTWa5tfoMGkc1hJgerhcYU3/rHnaV1icMqCe2JGIuy4nY28yi/f+a9twtEgSrkRzrsrgI9CIBdNTRf+Ntdd1ap3ljXRwHkummK8fM+m5tX7tBtX3WgtSpBo9M=
+eb2cldqami3vmobg6rrvfh7hj0v536mi.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ecfe0ikaqd056cliuj1uqg6h95pl4lu7 NS 
+fairfaxcountyvirginia.gov.	86400	IN	NS	ns1.fairfax.va.us.
+fairfaxcountyvirginia.gov.	86400	IN	NS	ns2.fairfax.va.us.
+fairfaxcountyvirginia.gov.	86400	IN	NS	ns11.fairfaxcountyvirginia.gov.
+fairfaxcountyvirginia.gov.	86400	IN	NS	ns21.fairfaxcountyvirginia.gov.
+fairfaxcountyvirginia.gov.	86400	IN	NS	ns31.fairfaxcountyvirginia.gov.
+ns11.fairfaxcountyvirginia.gov.	86400	IN	A	166.94.11.19
+ns21.fairfaxcountyvirginia.gov.	86400	IN	A	166.94.15.20
+ns31.fairfaxcountyvirginia.gov.	86400	IN	A	166.94.192.31

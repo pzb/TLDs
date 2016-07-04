@@ -1,0 +1,7 @@
+clarkecounty.gov.	86400	IN	NS	b.ns.buddyns.com.
+clarkecounty.gov.	86400	IN	NS	d.ns.buddyns.com.
+clarkecounty.gov.	86400	IN	NS	ns1.clarkecounty.gov.
+clarkecounty.gov.	86400	IN	NS	puck.nether.net.
+ns1.clarkecounty.gov.	86400	IN	A	50.201.153.52
+fnhoc96dfpcd6d1dpeac89c1l1a7jrto.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. VUe12JHL2dt9ortyYHrEMdiyjiVmsmzL7byN4PeG1Ouo/rY9EtTypntUIuxZ+LccIDJIBckOVYZXWg9xnWFKe+eWm0UOqa51gvazQzusil3gLgS0XwNOAjoQ+G1UVj5z66c16u7lZR7bhTBPD25O83ldg16omWGNtd2iGZTt0ns=
+fnhoc96dfpcd6d1dpeac89c1l1a7jrto.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fnjtnis86di9d8q9bn2ut7m0hnja2jb0 NS 

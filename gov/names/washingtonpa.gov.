@@ -1,0 +1,4 @@
+52iqu1ps5lbg85rjtrao4o7rbdqe3bpl.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. OJ1xd5C88BjdU3jv2kOhGfzXjdynngLhzG5500dyri9lf6EP01wwrUwmv700whhtZQ/4SFwBhgv7s08QI/kSnGdHJqlZjtjg7E6p8kgv+jV3mREQ5+A8Mk5kcsECwfFH6BCViXu0B6wFFYCtf1xsdKoYoBZd1xSQqlxYwfw70u4=
+52iqu1ps5lbg85rjtrao4o7rbdqe3bpl.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  52uh1uagcpqlhaos1fu0ga9v04c1di9f NS 
+washingtonpa.gov.	86400	IN	NS	ns31.domaincontrol.com.
+washingtonpa.gov.	86400	IN	NS	ns32.domaincontrol.com.

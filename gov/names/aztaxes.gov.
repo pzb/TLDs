@@ -1,0 +1,8 @@
+aztaxes.gov.	86400	IN	NS	dns1.state.az.us.
+aztaxes.gov.	86400	IN	NS	dns2.state.az.us.
+aztaxes.gov.	86400	IN	NS	ns-35.awsdns-04.com.
+aztaxes.gov.	86400	IN	NS	ns-857.awsdns-43.net.
+aztaxes.gov.	86400	IN	NS	ns-1479.awsdns-56.org.
+aztaxes.gov.	86400	IN	NS	ns-1774.awsdns-29.co.uk.
+s8p5i4cnvsond8munh5810pdknbfi7jl.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. xjgC7nCJk+v7QIzdn8HPapSZeLNCA4TXFNHOsWcfLRcMd66WeXOdYcn6y8wTwvC+egkZ5KSQNdEigBeWB8qg0j+SCiQ5eLFKjLNmP8Z2qnensAIgNr0YITSZ6fQ2J02C+lZkiiqxQLJ39GLEXgePz91UNBAmQRVgm0BPFJzsf5s=
+s8p5i4cnvsond8munh5810pdknbfi7jl.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  s8tm6dc3grgqriafakklhhpvfm70tca2 NS 

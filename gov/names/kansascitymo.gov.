@@ -1,0 +1,6 @@
+kansascitymo.gov.	86400	IN	NS	pubdns1.kcmo.org.
+kansascitymo.gov.	86400	IN	NS	pubdns2.kcmo.org.
+kansascitymo.gov.	86400	IN	NS	pubdns3.kcmo.org.
+kansascitymo.gov.	86400	IN	NS	pubdns4.kcmo.org.
+plbl1go84glc71rb8kh9iao5ambnqs6s.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. mZK2Kt06H4HBO5Pp60J+s6BqvLy4KVOA73FH+KA5PBhX0bx+JDyhOpAxR3jVGvpAwhpiZBg3I7qDKyM1OBq3/xCTmyYzt7uB7f7mpr5XDtfxq8lKa+Zeb+IcfE6trG44av+/LYwbPuDYMNubjWMij/NqWAqkqiWK/pbCoy+P9e8=
+plbl1go84glc71rb8kh9iao5ambnqs6s.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  plbt69i2ah6po6l8fuljq1bs4olt8aad NS 

@@ -1,0 +1,4 @@
+oldlyme-ct.gov.	86400	IN	NS	ns1.infotech-maine.com.
+oldlyme-ct.gov.	86400	IN	NS	ns2.infotech-maine.com.
+ue3hkquddi2033ruirmu6u5u027kivgb.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fQW9DpVMX8yvHi8+BFWeoECvYVat76ILYIsCnBfGcGs27Gdr5MVwETkukjG3v+yiMkVRMiLY/zUTJGfVodL0lp23blIFXi+D+2fnWO7vqxikwybRm1ZOUgOiOWcvmKVnQQEVP4Q5fafCLdHKC7ho8PuaiGBdmr2nKq70agZdm8g=
+ue3hkquddi2033ruirmu6u5u027kivgb.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ue5uubm06s37vhggnknn6sdls5gibufd NS 

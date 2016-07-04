@@ -1,0 +1,10 @@
+dcaa.mil.	21600	IN	NS	hq1-dns.dcaa.mil.
+dcaa.mil.	21600	IN	NS	hq2-dns.dcaa.mil.
+dcaa.mil.	21600	IN	NS	mem1-dns.dcaa.mil.
+dcaa.mil.	21600	IN	NS	mem2-dns.dcaa.mil.
+dcaa.mil.	10800	IN	DS	62522 5 1 6f0fbc47be08d760e4cc3b63b68c5375f075c2eb
+dcaa.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. jONOVulUWQtQuc0mlm2g9EsFN3oAtyWR5e1l0af/yRaoing2wegUHOg5O2eBIj2Y0VwewHWUJqxvMjYRVJBvIgjvEHsspLaJhzrz+CmHswnQkySdX/gFKVg/R1ZMJyLgyETKwdsfPtHLi/Su/TnnDLPz3LmPKhMDIyzuthUsl70xIvg=
+hq1-dns.dcaa.mil.	21600	IN	A	214.25.28.6
+hq2-dns.dcaa.mil.	21600	IN	A	214.25.28.7
+mem1-dns.dcaa.mil.	21600	IN	A	214.37.44.6
+mem2-dns.dcaa.mil.	21600	IN	A	214.37.44.7

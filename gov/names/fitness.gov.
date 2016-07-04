@@ -1,0 +1,14 @@
+rh202ns1.355.dhhs.gov.	86400	IN	A	158.74.30.98
+rh202ns1.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2a
+rh202ns2.355.dhhs.gov.	86400	IN	A	158.74.30.99
+rh202ns2.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2b
+rh120ns1.368.dhhs.gov.	86400	IN	A	158.74.30.102
+rh120ns1.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2c
+rh120ns2.368.dhhs.gov.	86400	IN	A	158.74.30.103
+rh120ns2.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2d
+fitness.gov.	86400	IN	NS	rh120ns1.368.dhhs.gov.
+fitness.gov.	86400	IN	NS	rh120ns2.368.dhhs.gov.
+fitness.gov.	86400	IN	NS	rh202ns1.355.dhhs.gov.
+fitness.gov.	86400	IN	NS	rh202ns2.355.dhhs.gov.
+fitness.gov.	3600	IN	DS	780 8 2 f289f15b2061cdf3008fcef1a5c74c2c5be50739f91cda3a55405bf2302eef91
+fitness.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Oh4NGaA4ltBsKOVu4IT52IVKuRNEoIIYESCAmfmEQ9YiwY4Bf0TX9XvIBiSgKTqu9Gl5lTmrw2TLbqBtMuHL9qliBwJ45hzvnDa53RvYhGu5X9Rdfuvt9HU2rh2EMOrP+J+dFXZfNhtPPHJnjtAvG6R39nRaNi2E++0KyobdOSI=

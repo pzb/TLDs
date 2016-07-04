@@ -1,0 +1,14 @@
+nicic.gov.	86400	IN	NS	ns-jdcd-01.usdoj.gov.
+nicic.gov.	86400	IN	NS	ns-jdcd-02.usdoj.gov.
+nicic.gov.	86400	IN	NS	ns-jdcw-01.usdoj.gov.
+nicic.gov.	86400	IN	NS	ns-jdcw-02.usdoj.gov.
+nicic.gov.	3600	IN	DS	40696 8 1 33b2b0f253668dc04ac6554abfc78f38777a0f23
+nicic.gov.	3600	IN	DS	40696 8 2 8319a3ba51a35817a6c3ecae4a0dec582775ffebe9c51eb3118f36438d773e34
+nicic.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. q7G00Bp73jPtZerT6amXHwF52ZH3snKXM+bd0VzxZJLh+IhZhornglW3KDGKsJq0Gj/0EolWtsFC3x+7S0/lDWNRP8qT71Loq/1KgCpx18RhkBFI2VXGQrUS6LB7Gh9cAxIlWp/c67lA0l3uFWSlbxJKhlWxnFgtUNngOp0m4dk=
+ns-jdcd-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcd-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcd-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcw-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcw-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-02.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::6

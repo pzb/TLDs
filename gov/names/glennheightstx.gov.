@@ -1,0 +1,4 @@
+dv5compvqiufmcle0cgd1nc2j0snl5d1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. gjTB7G+wnS5Zl0n0Jijs/mQhhCCJC+6ieFrrOcXEtSa15QL+q8EH7oror8kjDWf7hsXjDgeFkqm3jkLAY4Apn8RkYQQZHoWubAbbCXq1YeV5iaKdVwN6rSXmtPw1lKPWdu98XW4ZP5GLEnVCDs/biSFE5Py03/4Rsh/n6mZJo2o=
+dv5compvqiufmcle0cgd1nc2j0snl5d1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dv5q2e3h6ibg3v8u5qj50cam2qn7lk77 NS 
+glennheightstx.gov.	86400	IN	NS	ns63.domaincontrol.com.
+glennheightstx.gov.	86400	IN	NS	ns64.domaincontrol.com.

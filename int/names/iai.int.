@@ -1,0 +1,5 @@
+iai.int.	86400	IN	NS	ns2.globalgate.com.ar.
+iai.int.	86400	IN	NS	dns1.globalgate.com.ar.
+iai.int.	86400	IN	NS	dns3.globalgate.com.ar.
+iai.int.	86400	IN	NS	iaisrv1.iai.int.
+iaisrv1.iai.int.	86400	IN	A	190.57.231.77

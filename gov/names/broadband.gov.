@@ -1,0 +1,9 @@
+broadband.gov.	86400	IN	NS	a7-67.akam.net.
+broadband.gov.	86400	IN	NS	a1-166.akam.net.
+broadband.gov.	86400	IN	NS	a13-67.akam.net.
+broadband.gov.	86400	IN	NS	a20-64.akam.net.
+broadband.gov.	86400	IN	NS	a22-65.akam.net.
+broadband.gov.	86400	IN	NS	a24-66.akam.net.
+broadband.gov.	3600	IN	DS	4519 8 1 2a6af721eda3af2c5a1087f3eb8037e300c48dac
+broadband.gov.	3600	IN	DS	4519 8 2 3819aa9bda635494229e4f64d715740a07177b3bdb1ca12214a69539bde679db
+broadband.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. o+LgE2EDIyECFMBkQNICLS6QLQoYKUz4Nh0o35hLtVJiD4yLbWkJ76YTopAEhXkFSvObG9qVczGyJHVt8124WxgaVIOJ0jtugo7KR6H9pi7ICa6c+o4DPYYn5oSXvyFrDWUZ7bhGXk8aMZzrOsY0NU5kC4aaeCDZm3okc4mWJDQ=

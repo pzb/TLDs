@@ -1,0 +1,6 @@
+o4fs6taec1r9hpmtrsrlsqg02mmp1diq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. BeB2rVhMY6pNAP527Wv/B2jUcA3D0pRJr87mCTgQSvg/gq+XoGVKGU2lEl1+oDXrSneoT1BvADr5YpKSrm2/bkcrtLqMONYX8mAn/8jXew3q5BbeDEQokv9pMWf6zvq6qi9I5DWBj17KxV3+7GWAR7a8KLXBX9Sh4wnWDKBs9Gw=
+o4fs6taec1r9hpmtrsrlsqg02mmp1diq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  o4i7ba4cqrrka28nleqb4d7iieqor4cd NS 
+olympia-wa.gov.	86400	IN	NS	disdns1.wa.gov.
+olympia-wa.gov.	86400	IN	NS	disdns2.wa.gov.
+disdns1.wa.gov.	86400	IN	A	147.55.96.32
+disdns2.wa.gov.	86400	IN	A	147.55.48.32

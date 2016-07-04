@@ -1,0 +1,4 @@
+q6rh2cijrjd8rre8sv8v297vchj3qb7j.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. YjT2lcZnT33JGo02QavBk/es/GTZssTrr9DkZncQZvO6x8zeY9m+/Yr8z/3txNrsR2WiliWjdkDKJfHn0VOInVlsuoRPxZylcS/aVX3l2dVIleEzK6gU+5RYuj2sXtJrOQPM699cbsIcmCYoVB3zBZ7bJwFlQw+sfLt9ztqt61U=
+q6rh2cijrjd8rre8sv8v297vchj3qb7j.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  q71idgsf3ajptskq86p46rtsatgh358n NS 
+rilegislature.gov.	86400	IN	NS	anc1.atrion.net.
+rilegislature.gov.	86400	IN	NS	anc2.atrion.net.

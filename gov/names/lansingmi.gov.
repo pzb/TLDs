@@ -1,0 +1,4 @@
+89dj73hdfp3oi2bakke7gbnh8cs6n5ge.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. feG1mxQTuKQgfJOaEn5Ufw6xCE2FHfaMXzGvSi8YCgOA3iBA4MEzChp/VK17HSzJ2aib4Beak6uzq73iM3zVagIn2Tn4FeOi7N+crbCVBFxrjrC+Dxe4hKBO0OFW9pMKqB7KGvbibYjKSEYnlO5m2YwdoBk1rGfsoJLy8l51LQc=
+89dj73hdfp3oi2bakke7gbnh8cs6n5ge.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  89pdtplrt1onnt4d6765q0cpaejnkd9v NS 
+lansingmi.gov.	86400	IN	NS	ns1.crt.net.
+lansingmi.gov.	86400	IN	NS	ns2.crt.net.

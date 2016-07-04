@@ -1,0 +1,9 @@
+ns1.usda.gov.	86400	IN	A	199.141.126.202
+ns1.usda.gov.	86400	IN	AAAA	2600:12f0:0:ac04::202
+ns2.usda.gov.	86400	IN	A	199.141.126.206
+ns2.usda.gov.	86400	IN	AAAA	2600:12f0:0:ac04::206
+womenfarmerclaims.gov.	86400	IN	NS	ns1.usda.gov.
+womenfarmerclaims.gov.	86400	IN	NS	ns2.usda.gov.
+womenfarmerclaims.gov.	3600	IN	DS	58450 8 1 d5f7d32231d4ed89056a05bddb170d0d1d3fadfa
+womenfarmerclaims.gov.	3600	IN	DS	58450 8 2 f71fe93559a129cb9b0bc4e63933f7a114ac4a3e8cdd2596beb54a25bc59884c
+womenfarmerclaims.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Thk/G+Qq2atKxUk1gA7CSK1whpSIyZajgz4kBtjQ8pc65dZHtTl7yJCfmVyz5L4zRHQZHj3R+l9iVngRJJYsmibzYIDyUW9mn2L6HDY1DUyPiq60BicJtgLM1iZEBuLUXlVTlJ6+4X9cd1Ep1LW6uAsty2YUvfwOmQ8Z0tghrV8=

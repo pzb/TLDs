@@ -1,0 +1,7 @@
+int.	86400	IN	SOA	sns.dns.icann.org. noc.dns.icann.org. 2016062100 3600 1800 604800 86400
+int.	86400	IN	NS	ns.uu.net.
+int.	86400	IN	NS	ns.icann.org.
+int.	86400	IN	NS	ns0.ja.net.
+int.	86400	IN	NS	ns1.cs.ucl.ac.uk.
+int.	86400	IN	NS	sec2.authdns.ripe.net.
+int.	60	IN	TXT	"$Id: int 5255 2016-06-21 19:58:01Z dclosson $"

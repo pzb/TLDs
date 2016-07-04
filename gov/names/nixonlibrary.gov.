@@ -1,0 +1,7 @@
+nixonlibrary.gov.	86400	IN	NS	sauthns1.qwest.net.
+nixonlibrary.gov.	86400	IN	NS	sauthns2.qwest.net.
+nixonlibrary.gov.	3600	IN	DS	7555 7 1 e03f4c2a6069bcd736fe3cc9f19c1b914fd37995
+nixonlibrary.gov.	3600	IN	DS	7555 7 2 daf68b0627c3b9f50ef82ea405ca5146c3a85987ac4fd2ef664abb59b6f23925
+nixonlibrary.gov.	3600	IN	DS	19833 7 1 1480bf23ee2f2b172be3ec4b96e8d0458de01bc7
+nixonlibrary.gov.	3600	IN	DS	19833 7 2 2d5ac9e3ba032681a2f7e72cd86a5db530420a17382882e90174125198771928
+nixonlibrary.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. vjfjdFbhColSBS7NkNKa4MSYpXA7Fkhh2PMjn7y2MTT0BeFwU3fxts6ebqELiptClGc+dIlzyds1i7X53ZGndcA55ws4A1B3xta/2NTnD8v6scn0apT7gOFMtDnSiFAJB7qEh+JdlP8yS1+o3ovWpZdNdOLCo1FPHDdsb2fJEfE=

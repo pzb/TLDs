@@ -1,0 +1,14 @@
+foia.gov.	86400	IN	NS	ns-jdcd-01.usdoj.gov.
+foia.gov.	86400	IN	NS	ns-jdcd-02.usdoj.gov.
+foia.gov.	86400	IN	NS	ns-jdcw-01.usdoj.gov.
+foia.gov.	86400	IN	NS	ns-jdcw-02.usdoj.gov.
+foia.gov.	3600	IN	DS	14749 8 1 6fd4a918b491d2397f362346d345aa2b4a48db61
+foia.gov.	3600	IN	DS	14749 8 2 3399dbaac5489dba2cb72f6978635c6e0a5483f8e6dff79207d450352317078b
+foia.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. cjoGe/c3THp/TW/O6zRP0Nv1zdEqvQOESqYaLdxO8ImiM0v5anP7X9Eljsw5CV6CL5ePglf/s72u3bqcQXp00lwtUtyxyU8ORWdZQkYa7+KfYjSYjJKAm7HrKLIBkjto4PtlE8/GfMIJAkLpm7SqD2stT0go38dQrOOd2UbdGQk=
+ns-jdcd-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcd-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcd-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcw-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcw-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-02.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::6

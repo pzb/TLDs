@@ -1,0 +1,6 @@
+l7e6ukfl0tp51gqjtgjnf1mrg2dns28b.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. c2on2MvKd2E4WzxloCViHLN6op3CGeStCaxcaGS9yhCgw9ddZxjSMbqrvCmUzY+/aFUrpuDr3lwLaRFR3vKiWdGykvKahLJrUulRJDCbGn8OGLzWPBGiHKs9j5yR5HCTl6UHrtfov+tY6dPvpLeOBmBrlasNZwsKEm+/Da0aivY=
+l7e6ukfl0tp51gqjtgjnf1mrg2dns28b.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  l7hpht6fnictt69mtkthlnrf6nk0gr0u NS 
+whitepinecountynv.gov.	86400	IN	NS	ns1.whitepinecountynv.gov.
+whitepinecountynv.gov.	86400	IN	NS	ns2.whitepinecountynv.gov.
+ns1.whitepinecountynv.gov.	86400	IN	A	12.178.167.194
+ns2.whitepinecountynv.gov.	86400	IN	A	107.141.111.9

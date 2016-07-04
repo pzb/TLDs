@@ -1,0 +1,4 @@
+au7sbt0dpkg2d2k7v23inkmh38u8j9o1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Dt7CWhQ/VkpFQjS+IEV2WG1dUZKij1JNaZMPvtXXWG2+RVMzRsZyHPLhlN1zwQUkmIX5FX6NSAQtjXf37aTwa4K8RuuI46fOR/Ym3/VTzXtq/HeUikgxLnEyeyU7/Mireu5NA5iXbUMNWHEVZwXwDLb8iDx9kHupcWGYgm2wqWo=
+au7sbt0dpkg2d2k7v23inkmh38u8j9o1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  au8q2slcmq4fbkfsgofu1m09200lieac NS 
+mashantucketpequot-nsn.gov.	86400	IN	NS	ns1.mptn.org.
+mashantucketpequot-nsn.gov.	86400	IN	NS	ns2.mptn.org.

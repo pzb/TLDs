@@ -1,0 +1,6 @@
+a1ejuolu4lev3lhmpbp6ilsdlphdbpv8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. QtA+d/FUevkkMP5+FXXhWom8YoA62diKzDYZjC0DLE5qn7+ovbI2w7httVWef3EUvQhA6GDlw8Rqi+GuFrShayW5gGlCYbvr50A/t4o2X40KBNafROa9Fp3B/TIdv8fI61AUyO3000D3q6rtxHqggKOXpHknyV1LJ/3bMhprXLE=
+a1ejuolu4lev3lhmpbp6ilsdlphdbpv8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  a20205fid8ibg4ul42b794doup3riijj NS 
+scohio.gov.	86400	IN	NS	ns1.state.oh.us.
+scohio.gov.	86400	IN	NS	ns2.state.oh.us.
+scohio.gov.	86400	IN	NS	ns3.state.oh.us.
+scohio.gov.	86400	IN	NS	ns4.state.oh.us.

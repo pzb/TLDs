@@ -1,0 +1,4 @@
+oujcd85ukmgls64d7r58n1puhdu39m5m.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. oyIwqr7ZekOZY3c2d/ZDjoL6H9tiyRQGl0i5W5FfS6W1BOrowUxIvz4Ivg/ztvsB8rC/wchEUROcpyXr2uPHb5XcgaII8LYODZFcDQbAHaXA6lxEl1KAF/9XI4AKz7YTasL/z3EY2xChOWEXMD5qf+9iF8DeEWWyrEfFJWPXE8Y=
+oujcd85ukmgls64d7r58n1puhdu39m5m.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ov1idomfiraigalse3qem071jbi3pmqs NS 
+southpadretexas.gov.	86400	IN	NS	ns1.biz.rr.com.
+southpadretexas.gov.	86400	IN	NS	ns2.biz.rr.com.

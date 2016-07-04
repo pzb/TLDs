@@ -1,0 +1,6 @@
+18f.gov.	86400	IN	NS	ns-27.awsdns-03.com.
+18f.gov.	86400	IN	NS	ns-992.awsdns-60.net.
+18f.gov.	86400	IN	NS	ns-1209.awsdns-23.org.
+18f.gov.	86400	IN	NS	ns-1901.awsdns-45.co.uk.
+fr1kmpknikvjj0gu1hkn3upnri1mr7ha.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Bb4rNiBfZ5WnwncizDx1EvQ0I6Lawc2l2qgUFhOGiIqpUU4ITzl80ULtjeU2LZExkOQ3EoZAZ0d4rtDihlwnNeBInRVemV7rHA4x/p9S9Y4gUfwkswWasLimc9NoktaGfBF9bFxlRgrN7aMNFwF1NJ6yOqfGq2AAJR6WcGIRyC8=
+fr1kmpknikvjj0gu1hkn3upnri1mr7ha.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fr3q11ladh7o1ralj1vpit799igtk6b4 NS 

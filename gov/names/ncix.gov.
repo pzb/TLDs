@@ -1,0 +1,4 @@
+6tmjr0d1nj659575sdnsl1ug37brp6kb.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. DQMGYJWeIUfWclrmu8JYk57T6yQBtsCsps8uy5ZLgHnmCP/oUxNiyfNZWB4ErsharMplJS+voKg7wLZmErFslolYojGX20JcrCCK8pC38cGoF3tNzTglTe+wL/pPz5AldtFf/L50Iz882Yp/NAGHAva5f6dRJYdIFnx8Dg+wKcw=
+6tmjr0d1nj659575sdnsl1ug37brp6kb.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6u4jcg50dtucu9nbnuo33mcms9oj20qj NS 
+ncix.gov.	86400	IN	NS	relay1.ucia.gov.
+relay1.ucia.gov.	86400	IN	A	198.81.129.193

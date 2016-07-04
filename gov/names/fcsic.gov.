@@ -1,0 +1,9 @@
+fcsic.gov.	86400	IN	NS	dnssec7.datamtn.com.
+fcsic.gov.	86400	IN	NS	dnssec9.datamtn.com.
+fcsic.gov.	86400	IN	NS	dnssec10.datamtn.com.
+fcsic.gov.	86400	IN	NS	dnssec11.datamtn.com.
+fcsic.gov.	86400	IN	NS	dnssec12.datamtn.com.
+fcsic.gov.	86400	IN	NS	dnssec14.datamtn.com.
+fcsic.gov.	3600	IN	DS	19523 7 1 ec0a8dc7473778649075aa0817039ca820e2f8da
+fcsic.gov.	3600	IN	DS	19523 7 2 b16ed957422aa410ab95790241048786810afc07638330812430518c4815fea9
+fcsic.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Y+4kHBlTxWICWwpEUGIvWPUd1sJbFsAIXTBnCsgpVj91Dew+OuzCuJE2eQLmBgvnH7Y2U1W5vEVPCGMLsZIb/Jmz3Dy7jXEZVCRtFrsF0mt7atRehYu9inuImaJKFvfIi3fEDsOdllPEV9MfE3nHtAIFlvJqsFAwHa35vH+sKm0=

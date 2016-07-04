@@ -1,0 +1,4 @@
+dtjiqlh6q6538rg8147bp9ai7t1v0glg.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. kFC8vFhit8HZHWasP1S9BDUl3nUuRzT76kralDN4JF0QprdTzDU0QfzqxXdK5PAqDRnmMGiCBjew8UsbW3xqgvrcRTWqAPC6RUYWjW84JwKtSpFZoj+mo8dlMDkbrlQQJ4MkarZ6cozAU4HTkffxRo1s5zo0ScXBf8ElddCsE1o=
+dtjiqlh6q6538rg8147bp9ai7t1v0glg.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dtlhcuq3d2kjhse43ins4cbclape9ipm NS 
+palatka-fl.gov.	86400	IN	NS	dns1.civicplus.com.
+palatka-fl.gov.	86400	IN	NS	dns2.civicplus.com.

@@ -1,0 +1,8 @@
+1u83bpgdv250ftbd64s1mdol2g107248.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. EVTKKi9sCAWbUH1CSkQWdq6Frho9v3aD2leRG0PZIFK2quzhJZNY2DYKAVPNlsTMy/l6xoxvm5nc42LQSAwKeeuhnH/KQMSVbbGsNwSd2fwGNssd05NL5UM8zn4Ho4NZECi6QHIA26VUUPkc0fE6w+txKUWBwr1Tp6s42cHaHDQ=
+1u83bpgdv250ftbd64s1mdol2g107248.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1uaj9o6l0vjh37feis2fs2cb9ifd9ilq NS 
+willmarmn.gov.	86400	IN	NS	ns10.dnsmadeeasy.com.
+willmarmn.gov.	86400	IN	NS	ns11.dnsmadeeasy.com.
+willmarmn.gov.	86400	IN	NS	ns12.dnsmadeeasy.com.
+willmarmn.gov.	86400	IN	NS	ns13.dnsmadeeasy.com.
+willmarmn.gov.	86400	IN	NS	ns14.dnsmadeeasy.com.
+willmarmn.gov.	86400	IN	NS	ns15.dnsmadeeasy.com.

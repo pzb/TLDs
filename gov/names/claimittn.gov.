@@ -1,0 +1,6 @@
+claimittn.gov.	86400	IN	NS	dns4.tn.gov.
+claimittn.gov.	86400	IN	NS	dns5.tn.gov.
+dn5og1qtqdc1tftm40p3ri59bg6nprdq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. VQ40nmSP1Z4i8FBHZCbYAwrvKM3MUx1qPdIClIUzPzaKTPmQvr1f3tFoE8TZ8eAaixZTuAjNw6z6EwZh9+rdHuxnTtEV36Os8wQNDpiamo4dFF5P27rTeRc4OIozHJhGAPSb3fINv7UI/B8OOpjkN53Nn6wQHCRx9Zn6wa1+4fE=
+dn5og1qtqdc1tftm40p3ri59bg6nprdq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dn77drcj70h6bch2o6rc3o75k0c31j08 NS 
+dns4.tn.gov.	86400	IN	A	170.142.92.58
+dns5.tn.gov.	86400	IN	A	170.141.168.22

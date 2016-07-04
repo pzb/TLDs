@@ -1,0 +1,4 @@
+n6datniak5fb50cppee22le19armjju7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. QPniLLYLZVx78qlbBYmpvT12zJ2/25pOydBe00Zamfr8OhjVOJL9sv5aa1WatIX/I68Unxese7uDptVeFZbjbLEPYmKzXCYi/t96VnECCbKovrGvJPQ6mjLgYLji5dwUJB7VLsIyzycvz8aWH/YsgV6j3q0acczp3C9bH5rprXM=
+n6datniak5fb50cppee22le19armjju7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  n6dmbnsqlurmbq5fjp8st7kchjqasv7o NS 
+scottcountyiowa.gov.	86400	IN	NS	ns1.bettendorf.org.
+scottcountyiowa.gov.	86400	IN	NS	ns2.bettendorf.org.

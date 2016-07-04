@@ -1,0 +1,8 @@
+m17kirqrm5bhekbrojd3ssou2dpiel0s.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Orrz/8t5mtNgYhLud7VgsqV4ILM0O0oreI2XRyfSVzilI9YP8fNvVgi4+S8oKuD8bog2KWGW+TYnP/ycnO4EPLZHZILwGsbUza0vWMVeqqZt8JX1gzDbPjfmPDOsssCH4nIHB/npY58vHwtLQVnVqXvRnjRkzOzIQHNa0/yLp40=
+m17kirqrm5bhekbrojd3ssou2dpiel0s.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  m1mkk00r0nje5ei74qorf34s4p02fidq NS 
+nationalcityca.gov.	86400	IN	NS	ns1.nationalcityca.gov.
+nationalcityca.gov.	86400	IN	NS	ns2.nationalcityca.gov.
+nationalcityca.gov.	86400	IN	NS	ns3.nationalcityca.gov.
+ns1.nationalcityca.gov.	86400	IN	A	63.206.44.9
+ns2.nationalcityca.gov.	86400	IN	A	75.49.51.221
+ns3.nationalcityca.gov.	86400	IN	A	70.167.178.60

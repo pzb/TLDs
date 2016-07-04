@@ -1,0 +1,6 @@
+35kin5kkch6oc3j87r35iamgsp4infq6.mil.	10800	IN	RRSIG	NSEC3 8 2 10800 20160708161835 20160701161835 16413 mil. ucd6wduqg9/Ani0YKdtEMfKu6a8+sBg0Lr/6igcMmwWFaOKZjBtNRFHeG1Yk0r9XYDI3t6JJ8sxxgqYhPE9uTcmLx8A6Wt8krX9J8thWpFi1nJLDPcCC1+mUQTgbbkWfgGjkac/j2s1OB2kVL44X6aup9EQYLlmQiHRC8gX+cv5D42I=
+35kin5kkch6oc3j87r35iamgsp4infq6.mil.	10800	IN	NSEC3	1 0 10 adeb  35o2gpm6i7acgml84224pulrap3mah1h NS 
+socds.mil.	21600	IN	NS	ns1.socom.mil.
+socds.mil.	21600	IN	NS	ns2.socom.mil.
+ns1.socom.mil.	21600	IN	A	209.22.221.53
+ns2.socom.mil.	21600	IN	A	209.22.221.54

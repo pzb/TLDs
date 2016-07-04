@@ -1,0 +1,6 @@
+costillacounty-co.gov.	86400	IN	NS	ns1.easydns.com.
+costillacounty-co.gov.	86400	IN	NS	ns2.easydns.com.
+costillacounty-co.gov.	86400	IN	NS	remote1.easydns.com.
+costillacounty-co.gov.	86400	IN	NS	remote2.easydns.com.
+nveiphts4ls8d1nkvocdm84e6v527gnd.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. BQZkY9vCn5qIs1rX42X7uyEQ53CXtvl4xD/k2X41443GCi43JJh4scruIQQ1MwvNKwOmoQelbBp4OBt8tsWO3HqqxIjpoOP+1R+ueuBGuXEqfbNUIAr3NTAuxCdz0hKWbpL9+vMe/TJDUZDsXVWK9yd7JbYfNi2t5fk7y9uDlOA=
+nveiphts4ls8d1nkvocdm84e6v527gnd.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  nvh15b5ksu38lqui1vh0p402bfd0fs9r NS 

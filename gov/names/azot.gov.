@@ -1,0 +1,6 @@
+1j59q3t7nmh0vk67gghnfubtve36ccm6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. EjBl664Bavq8YSnms1jQi7Iy+fQLUOHewhWCqUYCDBopdoS74ljmeEKyYfKZ+Fno0sL56ISZHKpw8rkS+GmDPbI/8QsKx1tz1VEr1aeIktmdLiOZFdI4XAvogj//O51x4EfUkqlzNR+qFUUw/OvpEix9XYQWM0e9nfcKEFB5QRY=
+1j59q3t7nmh0vk67gghnfubtve36ccm6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1jda531dvirr7mud1spkeprlic4girh2 NS 
+azot.gov.	86400	IN	NS	ns-232.awsdns-29.com.
+azot.gov.	86400	IN	NS	ns-994.awsdns-60.net.
+azot.gov.	86400	IN	NS	ns-1340.awsdns-39.org.
+azot.gov.	86400	IN	NS	ns-1563.awsdns-03.co.uk.

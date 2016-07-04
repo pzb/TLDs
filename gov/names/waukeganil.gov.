@@ -1,0 +1,4 @@
+822mh62ib8o6ff072bjpqvlglboqhh3t.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. TX9QN3rTQPdxP0SbFuyYuzKeIyNAugmYK/bZdSR3S1FADLwxoO3GCukDxKGpCYCLr2W5hDcdArnAv8hUEXxVKP4q15VX8JiCkqmQxTiU9SeZmbqLYvs277P+u4bX1v9Ttem+ic70kTGgWnJLlbfKI2gnW21ui06feO2kf1nCGOA=
+822mh62ib8o6ff072bjpqvlglboqhh3t.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  822tbhfa71g8gsfcfghk9qhg6h3gk8bc NS 
+waukeganil.gov.	86400	IN	NS	mns01.domaincontrol.com.
+waukeganil.gov.	86400	IN	NS	mns02.domaincontrol.com.

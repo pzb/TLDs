@@ -1,0 +1,4 @@
+adqaba0913j7s2a7doe83v9293ac2fdh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. U+iXadYGRuBHYyM8dOuQe5Je7/JGladKU2qUZhlGq62Z7d6p6hp+Uay9vaJCMDnticBJJIiNRTBnhUU16QYk+pe2t3RQ2YnDpw94UjffUpSJgY/0qts6217c/+KMrDCnXfRIDdd9cBLmH3Xe1JEgo5wCzxxRFINxVmS2id9Ekk8=
+adqaba0913j7s2a7doe83v9293ac2fdh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  adrk5updf2u4bslgu32khs8669h73sc9 NS 
+jerseycitynj.gov.	86400	IN	NS	ns2.jcnj.org.
+jerseycitynj.gov.	86400	IN	NS	ns3.jcnj.org.

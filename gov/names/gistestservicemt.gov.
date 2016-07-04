@@ -1,0 +1,6 @@
+gistestservicemt.gov.	86400	IN	NS	ns-312.awsdns-39.com.
+gistestservicemt.gov.	86400	IN	NS	ns-618.awsdns-13.net.
+gistestservicemt.gov.	86400	IN	NS	ns-1479.awsdns-56.org.
+gistestservicemt.gov.	86400	IN	NS	ns-1710.awsdns-21.co.uk.
+s820ueegefg92epaqefjbihlf623doe2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. jinNc+oB8tQRI0KY9vqZALy7Jg3MbI+clFTe+dr17JHAOL2hsKLH0QMpfwPG4vzOevLKcQJF5Mi5JhfNOnsow6J/NgsZH8z4dVda8GP9eXRq4caicMRMv82SPO6f/HwyavUmrkkVj4GdIDRuEII4o8a6nFn9Wb9Nj1IJ7XB/ZpE=
+s820ueegefg92epaqefjbihlf623doe2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  s834lptpi1dmj87ulsq3tq7kjk2kgrrm NS 

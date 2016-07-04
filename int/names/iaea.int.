@@ -1,0 +1,4 @@
+iaea.int.	86400	IN	NS	ns3.iaea.int.
+iaea.int.	86400	IN	NS	ns4.iaea.int.
+ns3.iaea.int.	86400	IN	A	161.5.1.8
+ns4.iaea.int.	86400	IN	A	161.5.1.9

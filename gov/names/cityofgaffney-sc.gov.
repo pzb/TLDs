@@ -1,0 +1,4 @@
+cityofgaffney-sc.gov.	86400	IN	NS	ns51.domaincontrol.com.
+cityofgaffney-sc.gov.	86400	IN	NS	ns52.domaincontrol.com.
+ln21739umk9dvo5o49c40hbd67clvp1k.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. FXkScix1MFZ2/1Bnwg9hbbVrNRwohSnz0y92U34gHFmzdm3fbaIXDuZ1guw4RVIBswkZ5IPSbfA5CnpMQ5B56Q1tLDsIcuVLGzU/97F9kkwIPnSKFZuHkCqA5pgIP6ciHSCW5cgmfnsi1iPTfBj47ci9Sfq+KK5fLe6P1DDl/Do=
+ln21739umk9dvo5o49c40hbd67clvp1k.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  lnbssukerd94eve43rbbgqtqrcvjtodr NS 

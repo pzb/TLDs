@@ -1,0 +1,4 @@
+89qkb9i2hjeq3ksvo5b8c6ak9krm7kc0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. S3X0Y9T1e9ojPOMKaj+WhrU+fd4VGq8B8E/eOgbXkF5nNAFUQ745JR9+4snDuswn9oefTi6CVIcNXZKisJBJkACEAdlRqaECJ6TH5y1oTrcVFMuCZch1prL0bi+603EqtroRWgJWSoQWPJJnnmkU98GoRu9EAf/aAL4f4EoUqZ4=
+89qkb9i2hjeq3ksvo5b8c6ak9krm7kc0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8a7h4iut2ftbbr9op4p9qi45dlpdgh7j NS 
+randolph-ma.gov.	86400	IN	NS	ns1.infotech-maine.com.
+randolph-ma.gov.	86400	IN	NS	ns2.infotech-maine.com.

@@ -1,0 +1,15 @@
+acus.gov.	86400	IN	NS	dns.gsa.gov.
+acus.gov.	86400	IN	NS	dns2.gsa.gov.
+acus.gov.	86400	IN	NS	dns3.gsa.gov.
+acus.gov.	86400	IN	NS	dns4.gsa.gov.
+acus.gov.	86400	IN	NS	dns5.gsa.gov.
+acus.gov.	3600	IN	DS	12065 8 1 4aacfc0fcfc2b2462d2065053922e08dc3694b0d
+acus.gov.	3600	IN	DS	12065 8 2 32f6044d068c93e2eac828902bf8b1d293336a10c54143410e93208cf57f2424
+acus.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. StoaHHc1cGdYuzO1oydZJRaTrWP5qzdOur0QmhtprRkOHkbaLOf2S12Q08zCLcxqCrwj4ka1nXo2XY08ZkUYA6EpLxj/Oc6g/tGDv+ItSxqyBH5ZFcwpI1P3rJNbe42daeqiPYh2e4Ez+bQ+Md9MetTfSkmW1PEAgJT6ibfqsAU=
+dns.gsa.gov.	86400	IN	A	159.142.136.198
+dns.gsa.gov.	86400	IN	AAAA	2620:0:150:280f::5
+dns2.gsa.gov.	86400	IN	A	159.142.150.68
+dns3.gsa.gov.	86400	IN	A	52.203.230.235
+dns4.gsa.gov.	86400	IN	A	159.142.69.84
+dns4.gsa.gov.	86400	IN	AAAA	2620:0:150:4013::5
+dns5.gsa.gov.	86400	IN	A	159.142.45.20

@@ -1,0 +1,4 @@
+mkr1m4glk80i22mccj482jqi134n9ejv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. TitQ9WyQBfs///tOddDpjYAqQAb5k1spfZ9yShqqxflmRKZsYN4cZ24f1QRKgabDmTFGX3UP3XOfSZ/4P2OevvRdd0bV3o5e4V3F/dbu2xveVZpKf7Gys6iQAcXHONBK53hFGShW/TCdXg5X8qAmV4jW6eSzipO959KdcLNJY5k=
+mkr1m4glk80i22mccj482jqi134n9ejv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mkrnt43fottn2dtp7jevp5sb93fcvc5j NS 
+stpaulsnc.gov.	86400	IN	NS	ns57.1and1.com.
+stpaulsnc.gov.	86400	IN	NS	ns58.1and1.com.

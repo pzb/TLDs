@@ -1,0 +1,7 @@
+digitalpreservation.gov.	86400	IN	NS	ns21.loc.gov.
+digitalpreservation.gov.	86400	IN	NS	ns23.loc.gov.
+digitalpreservation.gov.	3600	IN	DS	54886 8 1 efe9bb0265d45745d771f5b742871625dd0981a5
+digitalpreservation.gov.	3600	IN	DS	54886 8 2 b00db512706aecf700a14bb47160cd46fbdeda11dc7b023f3aa5e8ec06718d5e
+digitalpreservation.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. MtDx175Jm7MiK3oXXdR0jYyBLeqsZMVq6AvxYF9yby1bDo7Qp82W+wvVSC24g2FqQdmS8Y+R83DrhJZvSwhtEnD3kLUuVSH/0xnQc+mirOP9t1VwipwTSNU5NRCoJGOgX7Y3REB7dysKNPQAZHn9x47nU+yhqk/gh8bJIXDoYkQ=
+ns21.loc.gov.	86400	IN	A	140.147.32.166
+ns23.loc.gov.	86400	IN	A	140.147.239.150

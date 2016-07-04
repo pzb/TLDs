@@ -1,0 +1,4 @@
+4k52ps6j06ocerpb1dneckq3oseoncn7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Xa4SIDTggowRNr4rgH5qoM4QUhlezIWuPTMJCj6OMqT7c5Nav6IILl19uOrkaOZt9G+wx8knc8N7krgL+EfuuxYH3JdJsrogAz9J1IwpXc/jytQf3AnI/DOf/VK34JzJsY+z0Hf9EXAUNndKK9yHfuJB42sBzNpfEZIilYFh9s0=
+4k52ps6j06ocerpb1dneckq3oseoncn7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4kemm6i74mhjm6obf5dl9036u92d70un NS 
+oakham-ma.gov.	86400	IN	NS	freud.mec.edu.
+oakham-ma.gov.	86400	IN	NS	darwin.mec.edu.

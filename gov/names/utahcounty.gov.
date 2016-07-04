@@ -1,0 +1,6 @@
+t8135u07t00jq7n51qoltesv0e7vpc5o.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. tYZtP56KdbVlVNi+z1T9GmzGPj3YySgB1jVIKmZzoqOyYV3E6LXIEgThBKKWyEIhYQrc//sJx57LFm5f/OUNx1nqvbGlz37qZ1AvwtBWI2+++efUgJ/8bEvyjDRZD9CpehqL2e5AioSCopGBdC5l+gFlrI32ianbACwkTkU2+mE=
+t8135u07t00jq7n51qoltesv0e7vpc5o.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  t84fdvallddo47heah5g160cfb6b3hi5 NS 
+ns1.utah.gov.	86400	IN	A	204.113.19.5
+utahcounty.gov.	86400	IN	NS	ns1.utah.gov.
+utahcounty.gov.	86400	IN	NS	dpagradm.it.as.ex.state.ut.us.
+utahcounty.gov.	86400	IN	NS	sparcler.it.as.ex.state.ut.us.

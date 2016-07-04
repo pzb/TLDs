@@ -1,0 +1,15 @@
+eduftcdnsp01.ed.gov.	86400	IN	A	165.224.21.6
+eduftcdnsp01.ed.gov.	86400	IN	AAAA	2610:e8:907f:1:cd99:4fb7:bb7:2213
+eduftcdnsp02.ed.gov.	86400	IN	A	165.224.21.5
+eduftcdnsp02.ed.gov.	86400	IN	AAAA	2610:e8:907f:1:d093:1118:adf3:7473
+eduptcdnsp01.ed.gov.	86400	IN	A	165.224.212.6
+eduptcdnsp01.ed.gov.	86400	IN	AAAA	2610:e8:9080:1:88dc:90ef:b68:490
+eduptcdnsp02.ed.gov.	86400	IN	A	165.224.212.5
+eduptcdnsp02.ed.gov.	86400	IN	AAAA	2610:e8:9080:1:8c49:4c6a:b596:f07b
+g5.gov.	86400	IN	NS	eduftcdnsp01.ed.gov.
+g5.gov.	86400	IN	NS	eduftcdnsp02.ed.gov.
+g5.gov.	86400	IN	NS	eduptcdnsp01.ed.gov.
+g5.gov.	86400	IN	NS	eduptcdnsp02.ed.gov.
+g5.gov.	3600	IN	DS	23299 7 1 0eb8e02f6837c5f5b8867525d2cb3fd823688d80
+g5.gov.	3600	IN	DS	23299 7 2 d22b9eb3af7f38dd6f7a539ccb1d2708489cd6bb097d1c6ea79bd525abe16e62
+g5.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. WBij0bJJaAwAJu0YoU6FGW+WYQ2Eh6C36eZAmbmdJtDXG3U0/K5tNFb0B+AwpeyjqpJk6SqcN+VV4PHFcA2a5TDIutxRJTrHL6dLsC2/+i+P7bWt/5ZPI4C0/o4/OFL7BjBme/ftZpi/1oag+KbxmrdMoEvRP6UBE4q/YDdJepo=

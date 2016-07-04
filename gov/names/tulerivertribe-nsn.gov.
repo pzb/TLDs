@@ -1,0 +1,4 @@
+0iaciqa5kvc1bd0p5ef7iiftetk2s047.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ZgRecQDvPA+B9Q7peOOOuaMuQ3/mpY5sh2o3ANeTDaCrvUi4IW2TdpB+ksZrF1XiZ+75DuL0Ov+QwNZMpQwr0cZ6p70AtmWKZscNsqf4P3/DEaxoP/oyPAQVsc5nF6RaxSzL+lw59ESSo2kFnYJfMCLzNI+h5WsUzJmRAYW204s=
+0iaciqa5kvc1bd0p5ef7iiftetk2s047.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0iboo7cs4jpjlnffs1ae63ojncpib59n NS 
+tulerivertribe-nsn.gov.	86400	IN	NS	dns2.earthlink.net.
+tulerivertribe-nsn.gov.	86400	IN	NS	dns3.earthlink.net.

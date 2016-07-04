@@ -1,0 +1,7 @@
+oshrc.gov.	86400	IN	NS	sauthns1.qwest.net.
+oshrc.gov.	86400	IN	NS	sauthns2.qwest.net.
+oshrc.gov.	3600	IN	DS	10384 7 1 cbb186968dcfee62b3b8fbd3a2becb058836005d
+oshrc.gov.	3600	IN	DS	10384 7 2 a80df258b22bb5a8baeec68b0c9412a308dbfce4e77031037e98027995348fb8
+oshrc.gov.	3600	IN	DS	25624 7 1 03e8b14abfa8e0bfaeea8a49e502c7fa6bab4287
+oshrc.gov.	3600	IN	DS	25624 7 2 f41d1e4c9d0816ea25144178d5cdf2651674ac153aacc68a32913a823c20f0ec
+oshrc.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. HzI3utLz6fnGcu+rZrciizIhtmZ+cfATqxpfCxAmYhOWqESF4gNl814rgC1YGNtPOnuAVXowmwt323ZqAnanof8B+l2O5xwpu83rfNRM6uYu6q/ZhmPTKdcPeam5L4KPysiqjW/fcUd426ZFE7vkFIbtlcJf1kalOcQl7x7rvDY=

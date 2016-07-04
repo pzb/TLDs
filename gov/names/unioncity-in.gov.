@@ -1,0 +1,4 @@
+mq0u4p5v1jmglb1a5df0uuffh5it5jqu.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. xCdojnr6HcGFJPvSW8Y7KviHMRvBIEhMomP8kBdwUXtMcoJMCXjnGx09JoX2ZbHShHRKnm/0JH9vGaZKmMqy1OF/JmBm7DR6tbE/t7ACdH5rpMa9NaANxFGWnpPlDzilYDc7MUmCTmYKrj5YAU12iz1y843IBd5PU+DzaTrZReA=
+mq0u4p5v1jmglb1a5df0uuffh5it5jqu.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mq8pt80p5964res8t23bv8cob063mi4h NS 
+unioncity-in.gov.	86400	IN	NS	ns1.afraid.org.
+unioncity-in.gov.	86400	IN	NS	ns2.afraid.org.

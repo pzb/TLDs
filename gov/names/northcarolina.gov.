@@ -1,0 +1,6 @@
+ns1.nc.gov.	86400	IN	A	149.168.11.11
+ns2.nc.gov.	86400	IN	A	149.168.138.11
+northcarolina.gov.	86400	IN	NS	ns1.nc.gov.
+northcarolina.gov.	86400	IN	NS	ns2.nc.gov.
+pi9vp7vvur7qph6n5ur739b51mtfhf5d.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. FxJrAbecByt73j/Ah46QM0axz2ZhBdi7DYiINRCp0ZrIClvJMY4/jHEvx//mI/ezNqtQOU/XmmOdtiOgSQN8dUqiOqakwl/b5Fu45pAU85JqO4SKCgOUtP1tCW07Bx/WhIvueS/HMcqT9cmbWWVyIE4pqowqwbqao5UWh0KKlpA=
+pi9vp7vvur7qph6n5ur739b51mtfhf5d.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  piab6arke1bqnbpc65lrok2gr47r9p2t NS 

@@ -1,0 +1,6 @@
+healthysd.gov.	86400	IN	NS	ns1.sd.gov.
+healthysd.gov.	86400	IN	NS	ns2.sd.gov.
+jlffi74ihugsv88d9pjc8ee7fu570tce.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. EzTPB/acMuBfmLqxxy/QcjO1okD+1UQiNrqQkqlTiqnZUxX51tlgsZw+ydTqt7L9C8Hfl2N1AhHauvCYrl/31bllNj9Zg3plKKpMl/FG2RUIeOs+RiIbhJxLqePjmHagPGOeMrp98w3TZe2O95rC1TB4AyFgaP0J3bmOe5GPlRg=
+jlffi74ihugsv88d9pjc8ee7fu570tce.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jm53im0dbq3thnb306cancpb30bmft4r NS 
+ns1.sd.gov.	86400	IN	A	164.154.62.76
+ns2.sd.gov.	86400	IN	A	164.154.62.77

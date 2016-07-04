@@ -1,0 +1,5 @@
+boxborough-ma.gov.	86400	IN	NS	ns1.infotech-maine.com.
+boxborough-ma.gov.	86400	IN	NS	ns2.infotech-maine.com.
+boxborough-ma.gov.	86400	IN	NS	ns3.infotech-maine.com.
+mjfd7gi99ht74d762td8420mbdhe71dp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. anD0xqLF1ddGArs/Z7fjcZYi0ATGofXPWk38Ky2uKmjjiRgFe8i3X34lAeP/rjUsiuOFCb79leaYIeYZ5JHGAix9BK6ZY3qi5mWuXFTj6haLbz3RInO/su2IdtgffH+HzmzcwCa8M1WtFmW2FcdywUcffzczunUQjQkkD7nLftk=
+mjfd7gi99ht74d762td8420mbdhe71dp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mjicmqfft3pr889dp3sfgm7428cgtfon NS 

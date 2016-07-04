@@ -1,0 +1,6 @@
+huachucacityaz.gov.	86400	IN	NS	ns1176.dns.dyn.com.
+huachucacityaz.gov.	86400	IN	NS	ns2130.dns.dyn.com.
+huachucacityaz.gov.	86400	IN	NS	ns3140.dns.dyn.com.
+huachucacityaz.gov.	86400	IN	NS	ns4179.dns.dyn.com.
+tcks9piug23bko1vq4ncp7824jvb0f33.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ovRr2aEFHbb2+eMEKOTBkAU+qlolZDmFqAjNLtM3K8k9M2RPO6bx9HEFKZ1wm7u6ABMOlpKBvP0+ZihKufPnqKrXvM25qi0IGPO+VENZkhsO0brwbsgINZBxxlK9RW9D9U/Gj2m7BnZ8cz/UMiBCIYCe7ZvsubVRphv5lv5VM78=
+tcks9piug23bko1vq4ncp7824jvb0f33.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  tcnlvv2rqrkcmak1lbmpgt3qtpaanlci NS 

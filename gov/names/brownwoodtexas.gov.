@@ -1,0 +1,5 @@
+12oiiujbpai4avqi8jhsnbb67h7uc3l7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hbdCHvhwOmF1HoAiO40ASEVkJa/vB36ISYn43OYzG0SRuyJNaieDC33PyhGi/3v4wGFVw3I85ewz1Cb/ZpSo7seDxIteJpwXgvsC7c6MWzeyPBSyAzkVmPNAvf8jSQArmiAHHcsyPphLX2Rs01QwxN+bU+t4YbEi/b3d/LhapZM=
+12oiiujbpai4avqi8jhsnbb67h7uc3l7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  12tdtliqbum754jm01us1k3so1qvaies NS 
+brownwoodtexas.gov.	86400	IN	NS	ns1.wcc.net.
+brownwoodtexas.gov.	86400	IN	NS	ns2.wcc.net.
+brownwoodtexas.gov.	86400	IN	NS	ns3.wcc.net.

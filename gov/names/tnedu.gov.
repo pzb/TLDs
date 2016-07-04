@@ -1,0 +1,6 @@
+o1ctfa4gt7fhl85u6mtd5ur7kggnut8s.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. pmgwhXgokj1IWLdGsSHsm/UfAtUhmdNUzJdqKxQ2KSc+1oPH2GEq9fZsDxmZ4630gk5FTy4JQNAfYl59De2fXZaMwT5ElpRHEErbQvIUOTlNqYVorAQCMO0qlEoZJMBatU3Rh+Z9Oad8rwVVcbEkUlRJeRAOJDa2lYzNxqa4z3E=
+o1ctfa4gt7fhl85u6mtd5ur7kggnut8s.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  o1cvd1mh5hpv60r7rk8esolp5neh1vbl NS 
+tnedu.gov.	86400	IN	NS	ns1.tennk12.net.
+tnedu.gov.	86400	IN	NS	ns2.tennk12.net.
+tnedu.gov.	86400	IN	NS	ns3.tennk12.net.
+tnedu.gov.	86400	IN	NS	ns4.tennk12.net.

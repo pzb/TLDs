@@ -1,0 +1,6 @@
+08scgdf7otcois9qmpkl4hvef8qit0lr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. XFoWY18yS8c6WH8JhNJMMOIL0/zWj/smD7fmra1Ms+2CGbxTvd9j9k88gcbk/z64UdEaugc5LoZH7bMdOxcEe+RlWL1a/oXtaTZfAqryNH9aCnAUJO1mkEAxHXcYXt5OAxTHeVY8jWzwYkTKTd3RX5pS9K+36JT9gblebxpm7xA=
+08scgdf7otcois9qmpkl4hvef8qit0lr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  08uvuka8cnkdn8k918qjgtk7c4gq7997 NS 
+mamaroneck-ny.gov.	86400	IN	NS	ns1.afraid.org.
+mamaroneck-ny.gov.	86400	IN	NS	ns2.afraid.org.
+mamaroneck-ny.gov.	86400	IN	NS	ns3.afraid.org.
+mamaroneck-ny.gov.	86400	IN	NS	ns4.afraid.org.

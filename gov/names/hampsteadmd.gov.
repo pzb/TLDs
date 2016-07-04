@@ -1,0 +1,4 @@
+10sptr0s9iscj428l1s4tm42bvvkpb90.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Ai5MnV9jzWNKKY9tZ/PErrTxYeV9shqXBho+Sm8vbeMgA3hYLODwbDePkjwuBmbEiPtpAF6Hc+DjhIpoDMlPbdIkk9jCydemmYpuWhXeBYwFIZynhCzu4E5vC0SD/hXe23N+DjnID/L/Z5rE6kGaYGFQ8D8Z5JZaEbTRtxZ81ls=
+10sptr0s9iscj428l1s4tm42bvvkpb90.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1113oejfcrgjphlrd7f9q9g91r7qb2ho NS 
+hampsteadmd.gov.	86400	IN	NS	ns1.avenet.net.
+hampsteadmd.gov.	86400	IN	NS	ns2.avenet.net.

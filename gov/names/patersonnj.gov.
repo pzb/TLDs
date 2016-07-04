@@ -1,0 +1,4 @@
+kiegjaiapufd02690tnjm01ob3iobufr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fGr+8O0WHbRls6JohoNSwfljeyB0oRycwmqmAOPPYBRBCUV2ALHn/cHtK8BRrGW51Cpb53OF4ps4JpYIh0vcydcJv53Pi++LCZ4an2vXXD3QgniAQ/UWJrVlm8CHhL7D8dDmqD72J7lW4Yo9IbFL1cjZiJd51XRzkRTeWtRp2U8=
+kiegjaiapufd02690tnjm01ob3iobufr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kil3v358fpnd777dej9dn580fks8791i NS 
+patersonnj.gov.	86400	IN	NS	ns1.dnetit.com.
+patersonnj.gov.	86400	IN	NS	ns2.dnetit.com.

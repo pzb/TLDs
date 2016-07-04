@@ -1,0 +1,9 @@
+dns-pub-f1-u.pentagon.mil.	21600	IN	A	199.252.47.11
+dns-pub-f2-u.pentagon.mil.	21600	IN	A	214.14.133.11
+dns-pub-f3-u.pentagon.mil.	21600	IN	A	199.252.47.75
+people.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+people.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+people.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+people.mil.	10800	IN	DS	8989 8 1 380d751d1c62425a92dedd250ff6565bf5b061bf
+people.mil.	10800	IN	DS	8989 8 2 69bc7886c0a3ccefa37fea4eb3743a234b57c3c50fba9e5e5fe2b2738fcfa770
+people.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. X18d7w9cBx/w3f4re62MXz9c8KHLvZcAsxfzRqJH0UKKfQk9sVGqSETXV0okvkSLJn+ZvDvKxyFC9SxbNppHtnLYZ5sNokQR4PayVIpNo0a5CaCGjmqQGZKZcS9Yjzg9HWssxGu99mQQjQQy7LyvXu8cwNk5/XsxvyfgFeEK4/U5b3s=

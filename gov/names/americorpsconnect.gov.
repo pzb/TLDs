@@ -1,0 +1,7 @@
+americorpsconnect.gov.	86400	IN	NS	dns01.cns.gov.
+americorpsconnect.gov.	86400	IN	NS	dns02.cns.gov.
+americorpsconnect.gov.	3600	IN	DS	18408 7 1 924f860b72902473f0d67b0d2aaf058dbfab6fa8
+americorpsconnect.gov.	3600	IN	DS	18408 7 2 5b96fe92d769537983bb5029bbe8ddfad0a3cd463ee242db5ddfc6cb7603633d
+americorpsconnect.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. p2tF+tp4HUoyvfOBnHQi04eRFi6FkYSHPc3nqrk/2ByydbjLtM8fD2OaoTF3COEFd/kiQul1hEhonEMysaDSzSTbAj3T8KwP5Ui/FAQZplmJwr/4o8N4sKCIfdp+n5bp1+5c5rvH2zMua93/+6N/+yOLV8B6erdpJcThrCLm4aY=
+dns01.cns.gov.	86400	IN	A	152.180.8.143
+dns02.cns.gov.	86400	IN	A	152.180.134.207

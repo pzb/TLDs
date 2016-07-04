@@ -1,0 +1,4 @@
+1ajtqieosu43qckear4n866q8t3v8tji.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. UX2NEnUbGZnGUAMMjCDsLKoTMl9Ct6OwT40+s6BJcwx0Lu7p8BHABYJDEVvm3TrW3g6w7eLQDIvpkdWZ6022mJMKlMTToHFNfJwulQ2YuMiqJtJ4GCtp/wD2WJIEtQPG+2FsUbT0p7ClL+7Uf697z85n4bOMbE9y5OQO2hmjGZs=
+1ajtqieosu43qckear4n866q8t3v8tji.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1avm5set11nujse5fuguv1spl89lqjg6 NS 
+sherwoodoregon.gov.	86400	IN	NS	ns1.sherwoodbroadband.com.
+sherwoodoregon.gov.	86400	IN	NS	ns2.sherwoodbroadband.com.

@@ -1,0 +1,8 @@
+5a5oqhrcnp3q7m2thbnpid1oeueu0ghh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. F1Kf+stMgqx1PplbmY4HXJSsIv/giBu3SVO+Omt69WzLCXDZ7Xaqqg/gLO3meh5eNGKRmSRZlnSRqLwwhewvl8H3wEehULGNGMcyZYMbp+6Bi+3HRogylnUXaeNSj+EBPD3G+66FC9jwuVfJHx87WfHvTCOMtffXCR6Q1K950aU=
+5a5oqhrcnp3q7m2thbnpid1oeueu0ghh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5ahb1760tre0u8ikqf7b3jcgd85avj3g NS 
+fjc.gov.	86400	IN	NS	a2-66.akam.net.
+fjc.gov.	86400	IN	NS	a7-64.akam.net.
+fjc.gov.	86400	IN	NS	a1-221.akam.net.
+fjc.gov.	86400	IN	NS	a11-64.akam.net.
+fjc.gov.	86400	IN	NS	a16-65.akam.net.
+fjc.gov.	86400	IN	NS	a24-67.akam.net.

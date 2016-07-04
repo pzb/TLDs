@@ -1,0 +1,7 @@
+gnl7qq7ro38d4ad2hpmfngfkbrbfu4g6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. aE9gz6lMbf4p9goIUsibYW/nuFf2ha8l0AULO9mRUvoBaAFQerh78kJpM1fHNZosXoDDqlu41nR3HkHGiH48L42RiBSB+ILcXdtbkT+H5F4jQSOU+RuwOT5Q4q/0bxWVpKxkIIQ4dqLlxDr2sR/BLolYQoNoHWXUJKOFxbqEzig=
+gnl7qq7ro38d4ad2hpmfngfkbrbfu4g6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  gnnbcgovoapb7m9umttvj6nhqpgr6mmr NS 
+warrickcounty.gov.	86400	IN	NS	freedns1.registrar-servers.com.
+warrickcounty.gov.	86400	IN	NS	freedns2.registrar-servers.com.
+warrickcounty.gov.	86400	IN	NS	freedns3.registrar-servers.com.
+warrickcounty.gov.	86400	IN	NS	freedns4.registrar-servers.com.
+warrickcounty.gov.	86400	IN	NS	freedns5.registrar-servers.com.

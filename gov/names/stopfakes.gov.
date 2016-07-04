@@ -1,0 +1,6 @@
+ns1.gpo.gov.	86400	IN	A	162.140.64.100
+ns2.gpo.gov.	86400	IN	A	162.140.252.180
+stopfakes.gov.	86400	IN	NS	ns1.gpo.gov.
+stopfakes.gov.	86400	IN	NS	ns2.gpo.gov.
+stopfakes.gov.	3600	IN	DS	21768 7 1 e622315c2ff2917da175b995d6317abcdb315d57
+stopfakes.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. f7xEhBVTlCVECugIrqyRyIruylJ1BBpnmfUHpEfbfdS9LyVyCTIctnTDeqcZIF+FhWWZSwoWD/Gq7Mps/TFyCt/OEqYTTCWJuNUPTWzA7iIVkyP3ZWtSWf9tNfP7QU98XvhWka+AYNYM1eXnJbHq2j9hNKbmiu3LkWiDE3rHbbo=

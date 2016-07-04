@@ -1,0 +1,4 @@
+bradfordcountyfl.gov.	86400	IN	NS	authns1.centurylink.net.
+bradfordcountyfl.gov.	86400	IN	NS	authns2.centurylink.net.
+epvlv3qke66d5h1gqedf6lg60copnl88.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. sQth1RNjLK4JxRRVkvc7ZX2Wf7iTc2edr77M6Fr80pby4esnLUT020hGFk/p7F8rD4N1i/GzUSuclqCsvvL+4ZEpZOMnLGmyokKaVwnxeyuKF4ZI2BTVy0lzLrn3dm/eI2kt34Z4nC34kmaN+2Hv4O07iV/lAKb8vWonxBGq2zU=
+epvlv3qke66d5h1gqedf6lg60copnl88.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  eq1k7fs421amrpp85dpue9bjf5gkth2e NS 

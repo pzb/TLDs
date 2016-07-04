@@ -1,0 +1,5 @@
+econsumer.gov.	86400	IN	NS	dns1.lmbps.com.
+econsumer.gov.	86400	IN	NS	dns2.lmbps.com.
+econsumer.gov.	3600	IN	DS	60100 8 1 8bd3f9dcb22e2ac788d1565fb3806f3845c77129
+econsumer.gov.	3600	IN	DS	60100 8 2 a5a413a48fcf1b5e895f04791244b73dfe876ed8ec56fde11c6661dbdf365cdc
+econsumer.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. m6BCvlvfZrRZXjNEac69gdihxw32HdlqTBVSZ3Xd3mUekd/nkTQB31eU4AZspBCZ0xkFM1gdO2Z+ZQGbDoXUfkZBn7UddpKqD605HEIwssdiV0WZOYGCMFA+bVswrKJUSp+LKV1p+R+JL2fS5O0WfytfB+6surqkQe57GVvM1rs=

@@ -1,0 +1,4 @@
+5att7r9d4eiqoajkfqdvc09vemllgk2p.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wORxKtUaVvRV85iFsvkDk49fc2sFovnF8nMKC2bdmvRXzHZ+JCw41cx1u8lCt+cxKejLxxXd4KHtuNJhUHt7ALYuegC1OoSTYahAHgpQ/tz1JFY4oYNBzss1cjUg3nivEULgVfUh5ZW72hFc0kGEafMlw0UEfjmk7RsP+SFwq9g=
+5att7r9d4eiqoajkfqdvc09vemllgk2p.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5b2n41vsrkgriod25iks8e84t4siksuv NS 
+azgada.gov.	86400	IN	NS	ns29.domaincontrol.com.
+azgada.gov.	86400	IN	NS	ns30.domaincontrol.com.

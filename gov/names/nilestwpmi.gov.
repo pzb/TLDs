@@ -1,0 +1,4 @@
+2pmga30hjmkb1a5mgkf70dfigqi6jgnu.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Q6CVHwoha7DD1FyszP5lL0ccRKY1FNjLdXKLXPh3rKRffxNHYzKxzM+5Z1Znw0O8r9JHHlkfXKk2GGyJwoiU+mAgf4VRPkAhKI6lRLn9jHI6FrzWaQFQym/gYaTHykr2eua8AeWClrQWMf2E5Rkgt0lp+jjI9jENpBt9f3Rcke0=
+2pmga30hjmkb1a5mgkf70dfigqi6jgnu.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  2pog449jvvtjnbn4gsqk2qb2lumoad9g NS 
+nilestwpmi.gov.	86400	IN	NS	ns1.itright.com.
+nilestwpmi.gov.	86400	IN	NS	ns2.itright.com.

@@ -1,0 +1,15 @@
+fedramp.gov.	86400	IN	NS	dns.gsa.gov.
+fedramp.gov.	86400	IN	NS	dns2.gsa.gov.
+fedramp.gov.	86400	IN	NS	dns3.gsa.gov.
+fedramp.gov.	86400	IN	NS	dns4.gsa.gov.
+fedramp.gov.	86400	IN	NS	dns5.gsa.gov.
+fedramp.gov.	3600	IN	DS	51739 8 1 273db61791663f608e617d4c38eaf67051e0249a
+fedramp.gov.	3600	IN	DS	51739 8 2 c7cff6f59a794552a78bd4ce6ee88069dbb9bd7d818bd9a5c21fc33905b92c0d
+fedramp.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. o9tH1AaBKmYABmzgawuzxzZ/Q+BoxZL+5wyvqn6cI9bVKJb3PZtjLc1aoyqpV4+gnL/J0P0g90TQ4NOo0DDbB1XHqaHOWh0MyUNpAt1bKJcLh/9FeXHpKkbWvEXGBhy2fUHv4ZMHsKCMS3R0oZ8rqh7+LYHvYYz6Q8kOOq5jZlw=
+dns.gsa.gov.	86400	IN	A	159.142.136.198
+dns.gsa.gov.	86400	IN	AAAA	2620:0:150:280f::5
+dns2.gsa.gov.	86400	IN	A	159.142.150.68
+dns3.gsa.gov.	86400	IN	A	52.203.230.235
+dns4.gsa.gov.	86400	IN	A	159.142.69.84
+dns4.gsa.gov.	86400	IN	AAAA	2620:0:150:4013::5
+dns5.gsa.gov.	86400	IN	A	159.142.45.20

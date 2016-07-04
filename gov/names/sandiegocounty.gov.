@@ -1,0 +1,8 @@
+nd7b5g2l0chf3o02c2v3vq4e1sgmu5a1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ttxOcbtuha1FRWTWZ8NE9+3EiHwdrS32Lr+NoNWvC29PnVyylYfd0V6kj2eH5fkjO77wHkqvq1NwsPqwHdT2iM88c2RnDKAMN9TDrh7yokr3hb0Z9c5GhcnMRodo3Yj+lD89uLwu/d/zlQbF87VFef2rstxZJPb3ulDxSdVroq8=
+nd7b5g2l0chf3o02c2v3vq4e1sgmu5a1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  nd87lmpstjetk3c1g04j44ihsfjlpdrf NS 
+sandiegocounty.gov.	86400	IN	NS	a1-6.akam.net.
+sandiegocounty.gov.	86400	IN	NS	a3-65.akam.net.
+sandiegocounty.gov.	86400	IN	NS	a5-66.akam.net.
+sandiegocounty.gov.	86400	IN	NS	a8-67.akam.net.
+sandiegocounty.gov.	86400	IN	NS	a14-67.akam.net.
+sandiegocounty.gov.	86400	IN	NS	a24-64.akam.net.

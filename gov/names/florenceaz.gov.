@@ -1,0 +1,7 @@
+5hsed6k851q54jgnaatf5m7ti8pqo1cf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. OeTJHNbL3eYZEzPYmHfs0GbY7qrbNHksklredbGIXKpYhN5DqGo6VtGEqzbU7lE+YJO5v+iYSsCWX5PIJ8vxCqoNI57Vv/XbFKIjSnkefJcG/tgSGWoPTlsrlcw4zJBnR68dZtpm1uOtbOJyDVwRkao31vrvI1eHX3Ig3hCfNKU=
+5hsed6k851q54jgnaatf5m7ti8pqo1cf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5i9ch72u6dtgo9d3953hj6aungciu7b4 NS 
+florenceaz.gov.	86400	IN	NS	ns0.dnsmadeeasy.com.
+florenceaz.gov.	86400	IN	NS	ns1.dnsmadeeasy.com.
+florenceaz.gov.	86400	IN	NS	ns2.dnsmadeeasy.com.
+florenceaz.gov.	86400	IN	NS	ns3.dnsmadeeasy.com.
+florenceaz.gov.	86400	IN	NS	ns4.dnsmadeeasy.com.

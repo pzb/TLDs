@@ -1,0 +1,6 @@
+azjuved.gov.	86400	IN	NS	ns-393.awsdns-49.com.
+azjuved.gov.	86400	IN	NS	ns-658.awsdns-18.net.
+azjuved.gov.	86400	IN	NS	ns-1316.awsdns-36.org.
+azjuved.gov.	86400	IN	NS	ns-1606.awsdns-08.co.uk.
+fau62p4s9qf9rvojoseu8q9ot56s5r9u.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. P8RTE6OflqGcryneFK748wBJXWaUXE5r30patChNiab0v08eRR3pVT4oSp8jls8TaIGqczI6EinJUfQdLRgZMU9HRGbO64QKFIb9gtBgpP0k0HB9N0zZZ5DpHbfslJUxKauW4uAI/FfG3O9t+vkRJCVfi7ZTiydIJKZTYgf5mVI=
+fau62p4s9qf9rvojoseu8q9ot56s5r9u.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  faubi26d1nk9nnun254v286m2lh7c3an NS 

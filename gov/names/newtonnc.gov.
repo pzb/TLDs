@@ -1,0 +1,4 @@
+newtonnc.gov.	86400	IN	NS	dbru.br.ns.els-gms.att.net.
+newtonnc.gov.	86400	IN	NS	dmtu.mt.ns.els-gms.att.net.
+sr275jqpjid8qjvpvv37c7qs1jnp7pvj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. eXwciODx3LZQZ83YUYYe3Jvig+0TA2+zHqujtcVtrWUNgFX55uJqc+46vx4jwoTgmh4uxY4pXLHcN6FIyh1K3iZGNQcsEdgKa1Y7rsiDN2bGXZe2tdH6touM0AnXwJubAui/CB6r0nVDFfqMc4d75szw6K65QvKTTmSmU9xCYtc=
+sr275jqpjid8qjvpvv37c7qs1jnp7pvj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  sraum082sdcu8kaa69argk3rhoak758t NS 

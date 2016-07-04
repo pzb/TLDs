@@ -1,0 +1,8 @@
+ns1.modot.mo.gov.	86400	IN	A	168.166.124.193
+ns2.modot.mo.gov.	86400	IN	A	168.166.124.194
+modot.gov.	86400	IN	NS	ns1.modot.mo.gov.
+modot.gov.	86400	IN	NS	ns1.modot.net.
+modot.gov.	86400	IN	NS	ns2.modot.mo.gov.
+modot.gov.	86400	IN	NS	ns2.modot.net.
+qm36ooi1dro2ngn4p42vevni78ukk8f0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Pa0GwqZCL8oMN/DyC/jAnE6uH/kqEWYoTNC0JZIF+jaVQ9l92eG8BXXdmX9i894QiFLUlgYg1nHji91ESSwB6SiBQAa2A1tdySisNjk5vzip8cv2UmjzAmmL+FoMYEEHzaSj0BZuoKqWNXwvQ2xL9531Xz+aXUP9WT6qyTHmKM8=
+qm36ooi1dro2ngn4p42vevni78ukk8f0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qmbkcmm5ibkda7j64615bkbp635sn0ap NS 

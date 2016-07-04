@@ -1,0 +1,9 @@
+anthrax.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+anthrax.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+anthrax.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+anthrax.mil.	10800	IN	DS	21439 8 1 d9fe6347530dbefad2b66e0992526ca8004c58fb
+anthrax.mil.	10800	IN	DS	21439 8 2 95651d288a81290246fab851f4f0c2c6696c3e36175d884071f899bd3c1cb315
+anthrax.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. wFDabG23Z/Dtj5rfiyPjp0ieUOBranUADYkTyhqto2gQryj5kULPpolLj1LJpolHwzymBc78JC/L6yRYveARxZLym7qmoiKNlpS0wHhx0YrsW8uAtGguy7L4wo3BYuMKFteUBGfttnQykq14haobwp80D+r99FZ1Yq7g9FXmFcb5meA=
+dns-pub-f1-u.pentagon.mil.	21600	IN	A	199.252.47.11
+dns-pub-f2-u.pentagon.mil.	21600	IN	A	214.14.133.11
+dns-pub-f3-u.pentagon.mil.	21600	IN	A	199.252.47.75

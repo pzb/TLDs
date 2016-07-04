@@ -1,0 +1,4 @@
+0f4nrt6uqv2mndc04v8cdujq90echq2t.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. cItlpIMhNn2tAG9WMexdjfdxAiI3D+JWXO/1hcxrSyK/Le+Z0iy5MufLfQKr4lpu+g6sthAf0BpMbOBAXVfsKMSRuychMirlK54n0w4UXdKXXUC2yMrwYPV1oPIb+7eBzjL8rlZ5Rz9gtr7wH2LX+uM6IMFXCMvuotaBXf5lqrc=
+0f4nrt6uqv2mndc04v8cdujq90echq2t.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0f5vk7dq93pmf47qodm0l2p896e5s3pj NS 
+gatescountync.gov.	86400	IN	NS	ns87.worldnic.com.
+gatescountync.gov.	86400	IN	NS	ns88.worldnic.com.

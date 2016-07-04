@@ -1,0 +1,6 @@
+libertymo.gov.	86400	IN	NS	dns1.easydns.com.
+libertymo.gov.	86400	IN	NS	dns2.easydns.net.
+libertymo.gov.	86400	IN	NS	dns3.easydns.org.
+libertymo.gov.	86400	IN	NS	dns4.easydns.info.
+libertymo.gov.	3600	IN	DS	61969 5 1 e6c4de7825318995715f1cf223ce1fc90eec90f1
+libertymo.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. CGmt5LEjl+8I5RdwXbQSZCR04H8m/L/Mi2b85sTSyZHdu60dV0+T1NW4wMFg1NAHrm6W/Ku4gjJ1qh+vAFAp6yz1KHs1zJlkwG+PmkFhpAH/nEnxAQAKlfOq785ng8eea3GPtPisqrhR8Hcg6aSjWmR4aYda7uu5YKF1CFE8ALE=

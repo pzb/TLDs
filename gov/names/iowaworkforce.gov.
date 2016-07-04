@@ -1,0 +1,7 @@
+b316cg8m97dvogp3u942jde7ctq7pou3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. k/pwEu6bf6UuOFpJjQGFlfjIip1BYWuV+BBbwBgfc4r2RFc5xKYR0U6+mA5Vi8KMainueyZ1zwA0f9JF/kUC/4KzfknZESPLpuZMox9CHCKo9c0tzX5em7pDOF0TUAy+wVgx8lQHPPZCHSeeCnyDXzB3L+H0vmyK/vi6wUmdOGc=
+b316cg8m97dvogp3u942jde7ctq7pou3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  b358vrol0f5as6cl9n4hvee29a4ni0pj NS 
+ns1.iowa.gov.	86400	IN	A	165.206.254.145
+ns3.iowa.gov.	86400	IN	A	209.56.120.13
+iowaworkforce.gov.	86400	IN	NS	dns.iowaccess.org.
+iowaworkforce.gov.	86400	IN	NS	ns1.iowa.gov.
+iowaworkforce.gov.	86400	IN	NS	ns3.iowa.gov.

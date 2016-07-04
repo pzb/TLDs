@@ -1,0 +1,4 @@
+lavernia-tx.gov.	86400	IN	NS	ns1.eztask.com.
+lavernia-tx.gov.	86400	IN	NS	ns2.eztask.com.
+lvqbgpsmtnb8hkfou1nvlijh4bqefj9r.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. I+MUkOgzhdN0yfGPtIZBbOVINN4/xT6IdrTCN1+n/1ldMq4C/pDDYzX6iVyITpbnUnuAyeax5uShOcJJcs6R0aVJKUsbcsQAJDXrN6rB+Rxn2a3B7ct3HV0TUSpQm8lLZQwtsWCh08lp6fT53qIpPUBznviU4MSf08aKCjIQiuY=
+lvqbgpsmtnb8hkfou1nvlijh4bqefj9r.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  m026kpceug3voho0h959p3ctbsvs2m0g NS 

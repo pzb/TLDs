@@ -1,0 +1,4 @@
+nphvjiqtb80id7fli7nktjjs5931ra7f.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. uSpPh1KPwuGIex/exOANKdykNUGCA0Fvcz2IIFl7UThT6VRXPznxbBoLJjaHC4hlku+Sn+VNH/3dPPpki4iexyl0a5HIXZLvrBichqi2R82kx4asv4fckERdffQctQKls+7f0fW1Ykl5eR+9ZPhASszHUxHdRegNf7IqknRvWMs=
+nphvjiqtb80id7fli7nktjjs5931ra7f.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  npip19hfnuene6c1vgvurkg6isr49rak NS 
+smithtownny.gov.	86400	IN	NS	dns1.civicplus.com.
+smithtownny.gov.	86400	IN	NS	dns2.civicplus.com.

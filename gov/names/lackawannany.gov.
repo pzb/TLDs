@@ -1,0 +1,4 @@
+hcld4susv691oor9sk50uuok9kqspn5a.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. qXg2EqzjwhohpcPx7kz09fMq8gJBBlvBoUWpp2cW67nrZ5l/G3YzricreXkKPLxStrK3DChSO2ZPojC/nolDdMb+RL3Ro7xdmoOsYtpqQNdw6Kv4KMl5pXZgZflXe6egsrWFil0BWhSAB84ZFMWrRCW1qaVJXMf4YahFE8itmIw=
+hcld4susv691oor9sk50uuok9kqspn5a.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  hcpghet4cfusgala939fsfv0j2huufbd NS 
+lackawannany.gov.	86400	IN	NS	ns1.bluehost.com.
+lackawannany.gov.	86400	IN	NS	ns2.bluehost.com.

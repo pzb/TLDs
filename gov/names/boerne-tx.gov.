@@ -1,0 +1,4 @@
+7lhgcf49f3ub5lndtd8jhi9n4ven1fbe.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. VaKei7JAJ7ynoZ/eMg0jdrx+Ct4qm2DOegdy7USWAI2D0dCT3WC2PWObD0yr91+VI0d76P9A+Sfl6dPAqniYI5sYdyHD0Xwpj8wUYrt1FIXya6fDlJvqp8ctjPKbm2C7XVxnKDEG5k/PHopZNfNFq7Xjof9UzjMU8X8DS+IJxsk=
+7lhgcf49f3ub5lndtd8jhi9n4ven1fbe.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7lpp4026tpcd9df967j57hth7qbkqjfr NS 
+boerne-tx.gov.	86400	IN	NS	ns1.gvtc.com.
+boerne-tx.gov.	86400	IN	NS	auth1.gvtc.com.

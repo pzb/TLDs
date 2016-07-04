@@ -1,0 +1,4 @@
+mitchell-in.gov.	86400	IN	NS	ns3.zoneedit.com.
+mitchell-in.gov.	86400	IN	NS	ns4.zoneedit.com.
+ngk7ineaqnm9megsgpk4hofrnoer60ru.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. qAouSp7YwjA09lMVMjKe9v0LnRs7wVDDMbU6snVN9nEMY7u/LT6iPtwPlnW1wpvIWhCYRBkdH9pF7ULyObXOoFaYdrCkbPf1WCW91+KTtFHzF+S7gFgiCHozLoP5q69l2ZLlVVFumZtB0og3nn4dcZX32vxnQZt8jKoVY0pn5kc=
+ngk7ineaqnm9megsgpk4hofrnoer60ru.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ngl0lc08cbo4qr9urs04v2pgt79g4r7t NS 

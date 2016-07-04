@@ -1,0 +1,4 @@
+61o7b02fsim6spcu28g3fg0njp0bnnq8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. A63eJ756oEqGGzv8n7bRavkyfEM29oGn/B8YEYHKNpX3c+VZbvORfgCB0/xQHyZMbwFxDSdMxBicA66FIgaFseN/We15owMKdKOHNoLBO6zHfh8Sgo+ysVQiIgftozMJcwkHrn7rSjrw9d8ieifSIQg5uw+Le5r0edSk5J01tHE=
+61o7b02fsim6spcu28g3fg0njp0bnnq8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  61oj8nfghisv0bc6rslejh246gq0d8r6 NS 
+mashantucket-nsn.gov.	86400	IN	NS	ns1.mptn.org.
+mashantucket-nsn.gov.	86400	IN	NS	ns2.mptn.org.

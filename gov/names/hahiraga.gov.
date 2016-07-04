@@ -1,0 +1,7 @@
+c6l9pkhnfvjcf4t2nfc8tcilobis1cpe.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. cIZKYBgFuHlrNqQaqhKKB98cDLozTHcDdQcGdcxjBihI1Y02WZih0c5Sv9nu+pn3TobcWw5UrFIsMfWSM6TLXytb0GiNAxXIgre1tmESsGw+IVrXVcdrYDkJ0v8s4iYTDKVOdB5lbHVpvN0iWPinVQVeuBgBtNNLJwtWu9gWSSg=
+c6l9pkhnfvjcf4t2nfc8tcilobis1cpe.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  c6ocjt3muh9c1ja5oi2qjm5jho7bgh6p NS 
+hahiraga.gov.	86400	IN	NS	ns1.no-ip.com.
+hahiraga.gov.	86400	IN	NS	ns2.no-ip.com.
+hahiraga.gov.	86400	IN	NS	ns3.no-ip.com.
+hahiraga.gov.	86400	IN	NS	ns4.no-ip.com.
+hahiraga.gov.	86400	IN	NS	ns5.no-ip.com.

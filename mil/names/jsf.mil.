@@ -1,0 +1,6 @@
+jsf.mil.	21600	IN	NS	gccvns01.jsf.mil.
+jsf.mil.	21600	IN	NS	gedpns01.jsf.mil.
+jsf.mil.	10800	IN	DS	38858 5 1 26e34bda4e42c923791fa4ee693953977a0eaeae
+jsf.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. dvasOU5HWaAe/Cgzca/p3U6t1s5ZZAl47qmld0dloS7SPF/VtYluMcLVGXyC5caPRhH4gNrwjctTiP1M2FxwBywpCVp7bMVMWxXwOf8yJM1giAUVw6QYKTo7i72ABgVRISiu7dEcQL4BYdiH85ASVg/umFnqdlh2zuTv6e72COsamPk=
+gccvns01.jsf.mil.	21600	IN	A	209.22.51.68
+gedpns01.jsf.mil.	21600	IN	A	214.3.135.134

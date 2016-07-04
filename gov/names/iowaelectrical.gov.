@@ -1,0 +1,7 @@
+fjrqfq7ojobo1f43hagpu60vu2la4pq3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Q4PGdcdW2DnsF457zGY2aoNDiuVcFl/OOFd4e2wyFSecx8gseBIlmUxGpFca8Ed12vM0nJYexPk/955uVZpaWul1BqD+mfP3oNuTra+8Z4RzTD8ZEe/utURqJbLtnfqaU6aRZ/lwPwnes0YJQ9w12b5fVoEN4l3lskH2EH+AA78=
+fjrqfq7ojobo1f43hagpu60vu2la4pq3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fk3obod55l0ivtjo26gjmsip2tp4ujec NS 
+ns1.iowa.gov.	86400	IN	A	165.206.254.145
+ns3.iowa.gov.	86400	IN	A	209.56.120.13
+iowaelectrical.gov.	86400	IN	NS	dns.iowaccess.org.
+iowaelectrical.gov.	86400	IN	NS	ns1.iowa.gov.
+iowaelectrical.gov.	86400	IN	NS	ns3.iowa.gov.

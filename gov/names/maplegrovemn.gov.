@@ -1,0 +1,5 @@
+4aefnhs8id9v3st32a1farv74he6u2l8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. c17le5sgf80X0RGbi0dPhWNHAvsXvbfsg1FOhcNeOgiRyx12LI6yeJuaYQe6LS56chDpdh2TD8HW8unCyf/Sbd6fDuCygHR+7jZ2y4RRaUne+0rYinojlwQKcawG2yVI1/GkmPRgAtTb0ME+3RfcCMyhKyKumgL5YwgRkum8E5M=
+4aefnhs8id9v3st32a1farv74he6u2l8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4aempsepilm270auf91egul5ttuf208a NS 
+maplegrovemn.gov.	86400	IN	NS	ns1.state.mn.us.
+maplegrovemn.gov.	86400	IN	NS	ns2.state.mn.us.
+maplegrovemn.gov.	86400	IN	NS	ns3.state.mn.us.

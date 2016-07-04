@@ -1,0 +1,4 @@
+charlestonwv.gov.	86400	IN	NS	ns63.domaincontrol.com.
+charlestonwv.gov.	86400	IN	NS	ns64.domaincontrol.com.
+d2ptj3ijbkh2rj53fo01a8mbtsiev63b.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. nxHTPdiogAla4ES6+GGkLz1UYDkzZl/OkXWjMnIHOnHdqle5Ov5UvV7fBdTl7c+Jv/z50NRr2Zep09CjlBgkhc+US2EKokBPslJXsZ1Z9xpqDqUtdsYLosgo+U3VWd9rEe1OM/JFpqjJzXoDUxRVOpyw2F7dTmRsp6vA1l4PZ/U=
+d2ptj3ijbkh2rj53fo01a8mbtsiev63b.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  d3hv2nngoj7f2pa94la2g4eokpve259u NS 

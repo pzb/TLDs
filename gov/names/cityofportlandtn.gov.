@@ -1,0 +1,4 @@
+cityofportlandtn.gov.	86400	IN	NS	ns1.wix.com.
+cityofportlandtn.gov.	86400	IN	NS	ns2.wix.com.
+g6v5ibfs9p98hcdoqcsrq0ujngjt87cr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. H7Fdrp4YEZ0DwTBOgslSRAWDfBawAlsHYozGYTaVW6o76Ydk9x0ICI3+ERpgVhRIbWuLVEOdqyTHXLvAjNHxmizs2M8eEtrdYpy6h1XRvq43Jv7pH6b+ZRVuTZijw7SVepEaS8/7Ycl5O0xItW11CqlShObDujEJVaatweja9RE=
+g6v5ibfs9p98hcdoqcsrq0ujngjt87cr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  g6vsdbk7vlnig0fnsfq98sj8o3v09oe5 NS 

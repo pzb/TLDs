@@ -1,0 +1,8 @@
+k8pt05nqk8u0ee69u8601rgn5vffb5ol.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. WiuoL2zA7yRlDm5yBSg8vyApch2WTBL7SYtmarU7jxngd2lIIOKM3TL4owQONZMxEKnWWFuNxLktUQBhsqZq+7PpGDMozFtjGh+nz16HSCH1Ntar2ZWbqPFsPkbwOXa/5w+DGOGjdzVfZ4CS225lFl1BK5dP4Cgi2frxCBvG8r8=
+k8pt05nqk8u0ee69u8601rgn5vffb5ol.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  k8q9nhldodfrl62lo5rvlt4m0jrktlt1 NS 
+tampafl.gov.	86400	IN	NS	ns1.tampafl.gov.
+tampafl.gov.	86400	IN	NS	ns2.tampafl.gov.
+tampafl.gov.	86400	IN	NS	ns3.tampafl.gov.
+ns1.tampafl.gov.	86400	IN	A	198.199.209.95
+ns2.tampafl.gov.	86400	IN	A	198.199.209.70
+ns3.tampafl.gov.	86400	IN	A	198.199.208.70

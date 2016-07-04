@@ -1,0 +1,6 @@
+azvoices.gov.	86400	IN	NS	ns-213.awsdns-26.com.
+azvoices.gov.	86400	IN	NS	ns-543.awsdns-03.net.
+azvoices.gov.	86400	IN	NS	ns-1363.awsdns-42.org.
+azvoices.gov.	86400	IN	NS	ns-1959.awsdns-52.co.uk.
+e5jdruhnmjki1fq927drtvuq5rjbmdi2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. qvygXWpfdNjAJT8WJOUnyadCumwhwUBf/2vPPOy391CoeCYfAv97GvQV9OmH/IR9Ll5RVBqPhamw/8jDn0XvyFkQ0etOJoTvBrep8UEe3kZHkt6Owu2sAmgtl1lvtuv2SCwEWMADfPijnQSMlxWNoI9uCLNCtR9lCo0yoaBKuu8=
+e5jdruhnmjki1fq927drtvuq5rjbmdi2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  e5jr3rj3fnpppvv0k744pph2de854e2l NS 

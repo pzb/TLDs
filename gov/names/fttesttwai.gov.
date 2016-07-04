@@ -1,0 +1,13 @@
+fttesttwai.gov.	86400	IN	NS	ns1.fttesttwai.gov.
+fttesttwai.gov.	86400	IN	NS	ns2.fttesttwai.gov.
+fttesttwai.gov.	86400	IN	NS	ns3.twai.gov.
+fttesttwai.gov.	86400	IN	NS	ns4.twai.gov.
+fttesttwai.gov.	3600	IN	DS	9523 7 1 10be2fcff9b7c484020c5ace241d402a9ab62325
+fttesttwai.gov.	3600	IN	DS	9523 7 2 15d3805a0c1aee1a1f6c0271f3dd196ae8c3c4c02690b8eedcd7ac4ddffc7fd4
+fttesttwai.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. mtfRuzBxjqA2zk/Jn7duE0bXq9nsEQb1FKEprkD4w6jmj30JSCaJAbJdxkIh4I6bjpljqXG2DsnXxhu7L7E7cJxEAMRo/8N/r3l1xr4a8X4jHu3IWF7pO35fuBnUlKICmacQsxov2XJRVfjT/Y/JbEkunt1Fp6ar2nNH99fDpPk=
+ns1.fttesttwai.gov.	86400	IN	A	199.169.196.64
+ns1.fttesttwai.gov.	86400	IN	AAAA	2605:3100:fffb:8100::7
+ns2.fttesttwai.gov.	86400	IN	A	199.169.197.64
+ns2.fttesttwai.gov.	86400	IN	AAAA	2605:3100:fffb:100::7
+ns3.twai.gov.	86400	IN	A	199.169.197.64
+ns4.twai.gov.	86400	IN	A	199.169.196.64

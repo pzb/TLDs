@@ -1,0 +1,5 @@
+7dieht0a84dg5rop645c6lebod7t7qrl.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. F+4DhQOYsifSqS0hPwJxC6U3UPdMgLF5OZkr53L7NabH0IvLgKb3gKMomjsXrt8XA40wydyEi/UE6pgAvLjqCUP6eDe7lGdZTVXSBEfyRJZW3szc4DsEvQimojy79DFSyzhGLsGJVbMqvIcvu3lEQPmKIHQg2ON2czbq90HbMjk=
+7dieht0a84dg5rop645c6lebod7t7qrl.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7dpjl913ed9jg2vsrcmp51ics7c6lcdv NS 
+plymouthmn.gov.	86400	IN	NS	ns1.state.mn.us.
+plymouthmn.gov.	86400	IN	NS	ns2.state.mn.us.
+plymouthmn.gov.	86400	IN	NS	ns3.state.mn.us.

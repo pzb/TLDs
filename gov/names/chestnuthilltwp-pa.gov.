@@ -1,0 +1,6 @@
+chestnuthilltwp-pa.gov.	86400	IN	NS	nsa.chestnuthilltwp-pa.gov.
+chestnuthilltwp-pa.gov.	86400	IN	NS	nsb.chestnuthilltwp-pa.gov.
+nsa.chestnuthilltwp-pa.gov.	86400	IN	A	108.163.231.164
+nsb.chestnuthilltwp-pa.gov.	86400	IN	A	108.163.231.164
+nog93vhnlmt5fvg9gbio3bc431vpddh6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. lpQGNK3NJOmEUdFhzMGVmyu+a9loQx3MC0qyCKeP27TqiKDpVW0Bf8fB8u7f9M8sErL02AmLl9uS0ack/TJuuRTMARlUxdLZN5ILUf+2k0N1FtR2mBZQL/sUHRg5Z0zo39HYMBfV+ygWAE8kGQDqmWuqRS8KcjpRYBspImPbrKA=
+nog93vhnlmt5fvg9gbio3bc431vpddh6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  noh4qg4p11gs679u4dup27mr0bb3rjb1 NS 

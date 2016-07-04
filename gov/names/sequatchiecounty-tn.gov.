@@ -1,0 +1,4 @@
+2jie5fhj3om63rc3hpnal6luddchgo2g.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ZGZSmFPiC8yJYmuKNES8dq84tRMgMGC86kuIJmq2BenFVgVv/6EBIZcJmS8895DJXNDOtQWiAkZc7Btr7AB5Ai4ETsuBwRIue35ktVaAHRM2Pyqd41SJl3Zm2UWe/MpLgW/ixb01gZFRXs63Gg1iAPKnR73XTpNP1Jub5yFc0jM=
+2jie5fhj3om63rc3hpnal6luddchgo2g.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  2jsaoohua532idrqbliudck0gckj98sv NS 
+sequatchiecounty-tn.gov.	86400	IN	NS	ns1.rctg.net.
+sequatchiecounty-tn.gov.	86400	IN	NS	ns2.rctg.net.

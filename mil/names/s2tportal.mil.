@@ -1,0 +1,7 @@
+tsddns4.fedsun.hpc.mil.	21600	IN	A	140.32.23.2
+tsddns.fedsun.navy.mil.	21600	IN	A	140.32.24.2
+s2tportal.mil.	21600	IN	NS	tsddns.fedsun.navy.mil.
+s2tportal.mil.	21600	IN	NS	tsddns4.fedsun.hpc.mil.
+s2tportal.mil.	10800	IN	DS	43306 8 1 96723d639d5e810699f5b60290f6b2af8cb93ebd
+s2tportal.mil.	10800	IN	DS	43306 8 2 ed19746bff7e6acfd983e9f37e44b8a6d69360861e41cbae5b5517b52d4739d7
+s2tportal.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. kszFk8v5XmAB7eASW8lV1PxhJON8Z0ggKp2mBcHDX13WCWLtcNe+Zg7wA97K0N9u/h/AE1szIRl9rAuou2ocXgMIqxpF2+O1J02FdoVAJzJtPf1jVsfgiJaRX+uI0L8J5Ml6iX3n+rkh80sbcb52tf0mVJeAeUt30PO5z4/N+/5EQJA=

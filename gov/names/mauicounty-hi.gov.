@@ -1,0 +1,5 @@
+6anul29hdhtfv3furdpqjg4rm7vs73q6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. FzfpyHro7x6TbNzvLcGyM2A+47upzt4mDlCm0TNbsgxiuWbzJS7pLcd2B8lItIQW9TV3/M3V/ryP7ZY3KByE6MCJuBSB1QiDVZ9NGzBSICtmMuBMqnM2bog/9OjPTpdjEJ6nP6Hliv0xcF6wifTpoUqQxbpDLhLxNxx6QNWwCXc=
+6anul29hdhtfv3furdpqjg4rm7vs73q6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6aorlu95iobspid5ia73p0b4gj9v62vq NS 
+mauicounty-hi.gov.	86400	IN	NS	ns1.iplt.twtelecom.net.
+mauicounty-hi.gov.	86400	IN	NS	ns1.milw.twtelecom.net.
+mauicounty-hi.gov.	86400	IN	NS	comdns1.co.maui.hi.us.

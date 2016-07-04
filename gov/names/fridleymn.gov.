@@ -1,0 +1,7 @@
+assvl85j8k4i4s6it21bv81phscjgps8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. GkX2GfqA5IjJDs6dR7Pzc+au3lCFpV5JMqxUh4vN9UkJB/fJuSYM1ucaOzokq3rQk7TmLV6cWxJiSzU7vrUKtHGKB+HLUtFIIxUt6QAKihfWTLXqq5kITSURV2yQCHAkKuc3myapkRx5IEQtzHQYpNwGH2Fy8rL6cjfHSZ9TCQ8=
+assvl85j8k4i4s6it21bv81phscjgps8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  at1ddl5io7r1k6m7on1qvibj0n53r481 NS 
+fridleymn.gov.	86400	IN	NS	ns0.dnsmadeeasy.com.
+fridleymn.gov.	86400	IN	NS	ns1.dnsmadeeasy.com.
+fridleymn.gov.	86400	IN	NS	ns2.dnsmadeeasy.com.
+fridleymn.gov.	86400	IN	NS	ns3.dnsmadeeasy.com.
+fridleymn.gov.	86400	IN	NS	ns4.dnsmadeeasy.com.

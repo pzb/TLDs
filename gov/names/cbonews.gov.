@@ -1,0 +1,6 @@
+cbonews.gov.	86400	IN	NS	pdns89.ultradns.biz.
+cbonews.gov.	86400	IN	NS	pdns89.ultradns.com.
+cbonews.gov.	86400	IN	NS	pdns89.ultradns.net.
+cbonews.gov.	86400	IN	NS	pdns89.ultradns.org.
+jvo6as2bfhj21o4rkn92ajqme2gequul.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hHilQ8LoDZPVo1frcZdcVkjWXDNIT/r/VOwmCUwf7VnQYP+tahNIRbWJb/gJmyuzZCh6pAsECEwUBplYKxmK7onwAFt1t5yqgZVsQFQWucBDWkMgnmY2wIa5LUWuEvL/WWt7FPB4FIgx1LvJX6fd5PxslX9s9PQe0iAWt0M0H4c=
+jvo6as2bfhj21o4rkn92ajqme2gequul.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jvqlq7foglr5k6nhkn8f47kg41ac5d64 NS 

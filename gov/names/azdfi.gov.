@@ -1,0 +1,6 @@
+62a11aqgvtje66ad7874uuidkm4v1rkf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hetWFsiDCEiyGXyv42aUM9PNDWThsmyDJm+tIzc4y1Mqz/BtEZrqE0C1yQmRC/w4D1ZKGfcEzxKoJPsiaudFOhIgkCtXPB2KVDj9bji24t/QHdDawH3Lo+D3fsFYLDwNe2ESQ1DF15y+2E9nyWeZXv5i1lnEjBaygYqKIS09isQ=
+62a11aqgvtje66ad7874uuidkm4v1rkf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  62fa45cu03g1smvu4sghnn9s8b2er82h NS 
+azdfi.gov.	86400	IN	NS	ns-506.awsdns-63.com.
+azdfi.gov.	86400	IN	NS	ns-801.awsdns-36.net.
+azdfi.gov.	86400	IN	NS	ns-1053.awsdns-03.org.
+azdfi.gov.	86400	IN	NS	ns-1705.awsdns-21.co.uk.

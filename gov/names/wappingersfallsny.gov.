@@ -1,0 +1,4 @@
+secnq4krbtoo0fqfs7ckskrlcm7ugd7e.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. SIMWKA+TRZV06NLswY1IFIP0t9rWFFMA8AjTHUBGWwYam5QFLt+s5/0GZnu3+FfM85XTW2Or02rNY1AhJDNER6doLPXryjBHTeuyF+3zAkuSqR7yzXe2HSxOUzkrnI5ZiCEDFKh7lcfwzmhNtcLqQqXJuUvXAMEi7438uRbht9E=
+secnq4krbtoo0fqfs7ckskrlcm7ugd7e.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  sed8mk59hqnfkjh25s4986gkudmgchv6 NS 
+wappingersfallsny.gov.	86400	IN	NS	ns03.domaincontrol.com.
+wappingersfallsny.gov.	86400	IN	NS	ns04.domaincontrol.com.

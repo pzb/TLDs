@@ -1,0 +1,4 @@
+alexandercityal.gov.	86400	IN	NS	ns13.hostgator.com.
+alexandercityal.gov.	86400	IN	NS	ns14.hostgator.com.
+meclqjt3293jeko4gqcblnnaqhbdsoij.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Prl5R9tbJHpXzFmbDrAF4oH/8FBOBzhawy0jWrWuhYM67MzpZTmFzdFM4OK32EiYNO79OAlN9JPvMcUSIgnBn2jgpqLsgFHqN7LCwp8QCZq4rB+zmwLS8wnaz7bg9voft+YKzmGPB1cYx36QdMa0RmLKyOZp9byBsCye4LB06H0=
+meclqjt3293jeko4gqcblnnaqhbdsoij.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mf5rlkmccornj46rrbo5fd8deq93ef8i NS 

@@ -1,0 +1,9 @@
+sdns1.csd.disa.mil.	21600	IN	A	131.64.140.8
+sdns2.csd.disa.mil.	21600	IN	A	214.22.172.8
+sdns3.csd.disa.mil.	21600	IN	A	158.15.104.8
+mail.mil.	21600	IN	NS	sdns1.csd.disa.mil.
+mail.mil.	21600	IN	NS	sdns2.csd.disa.mil.
+mail.mil.	21600	IN	NS	sdns3.csd.disa.mil.
+mail.mil.	10800	IN	DS	34516 8 1 8c19fe2d97d90ddb7042dc2be366f1ac22ccb30a
+mail.mil.	10800	IN	DS	34516 8 2 4b43136a5122c230dfc2f433ba62eaf771b0c1968c6681fb53dda747c3455e3e
+mail.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. lz0/os7JfMralonv8o3lizy28kRfxzb8TaEggyjPQR77DMduu7E7K9pPKmaZqBuFTFzVtIrTHvroepFtfqU7YYb7Uyj5fkV0b3AKZq14U2IxX5hvlzTDUBluXmVM3CDXc39HQBMYvx7cD9DFlt5Qop93xbDdK6I8fA8DIDH1JfjrgiQ=

@@ -1,0 +1,6 @@
+lk2n8ia1dc5p93d5ep8vrduqedj9n8la.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. DO9tOr6TMFbryh5JfiDWlq3L22nkGwToi5HUsB+U6JDDo+w4sYahglRiPRMDaCaL1fLGkBWUkkBf9SeYNH1T84vXTf6slIXNxr4SNyLM8XNbaRl3k9lOFtahZrS1KuIk6A/ntzXDv8tpgRPxC/Pd5ARv0RtJ18Wuzj7QAHng3aw=
+lk2n8ia1dc5p93d5ep8vrduqedj9n8la.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  lke220mdt41o92t1vhd1vdqjvs17ggnd NS 
+tafttx.gov.	86400	IN	NS	ns1152.dns.dyn.com.
+tafttx.gov.	86400	IN	NS	ns2190.dns.dyn.com.
+tafttx.gov.	86400	IN	NS	ns3177.dns.dyn.com.
+tafttx.gov.	86400	IN	NS	ns4166.dns.dyn.com.

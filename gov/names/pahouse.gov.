@@ -1,0 +1,6 @@
+61fmk8bjreluv1hv1dklgui9p8ag19la.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. OWFxIWAbD++rDBv0Bs+HNSS5/c2repeFhRJ3tazBcESgC/W4NbO9TVnjuYeKzyc21dTY8R0bdkGMRTkVb8b7/8qjoanGg2wLUXQHv+8gsNfs/tZby8OU7uwlxwbl3rDS2/2WHHWM7iz42WNuPLSBnSjMjliVr8hVlebm4a6a37o=
+61fmk8bjreluv1hv1dklgui9p8ag19la.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  61h4c7kv6jhp7mfndj3713l79djn0tk9 NS 
+pahouse.gov.	86400	IN	NS	ns1.legis.state.pa.us.
+pahouse.gov.	86400	IN	NS	ns2.legis.state.pa.us.
+pahouse.gov.	86400	IN	NS	sengate2.pasen.gov.
+sengate2.pasen.gov.	86400	IN	A	170.47.1.5

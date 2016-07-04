@@ -1,0 +1,6 @@
+alabamaconnect.gov.	86400	IN	NS	edns1.state.al.us.
+alabamaconnect.gov.	86400	IN	NS	edns2.state.al.us.
+alabamaconnect.gov.	86400	IN	NS	edns3.state.al.us.
+alabamaconnect.gov.	86400	IN	NS	edns4.state.al.us.
+p3o34daepqd7vg799edo0d881e1r21qd.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. J+tLLFi8Tg+/dO3fu0C6eeExltaMcFshDCgq43javCVzMn6fk/xGUT0FLs/VPPWZ3CcqDzJDy0Fpl37B3ejBmtPPPOCuCHvndodRlY8nQSKYedo3LXZZXD6CoyE3PjuTa7ZSzDsqyoREtg6Og4YNu5b1m3QbxbkjEVYDUK6gpjc=
+p3o34daepqd7vg799edo0d881e1r21qd.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  p4ast0mitse6m5hl1v11fb5hud8htdc5 NS 

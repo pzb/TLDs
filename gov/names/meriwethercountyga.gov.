@@ -1,0 +1,7 @@
+f05dm2s6kvs5vvcjhvn1shdsldhu45oj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. oF1sOmCM0F0ZDq0Ije5e/ASqAnBwZofqpTDBI+TW84XIERbF4JH53k1MdZSBoyfyRVwC8Y6pzs42+LmLH57skCtP/x+vi/NviruHif1blrkmN4/BTI4NVLJKgQwlGHyOJvX51O8chpm4YOXoxXXDPqJX9kyGrVdOqxOBt3DKX7c=
+f05dm2s6kvs5vvcjhvn1shdsldhu45oj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  f0efmd5brfkponpvguee7rjc5kbv2btt NS 
+meriwethercountyga.gov.	86400	IN	NS	dns1.name-services.com.
+meriwethercountyga.gov.	86400	IN	NS	dns2.name-services.com.
+meriwethercountyga.gov.	86400	IN	NS	dns3.name-services.com.
+meriwethercountyga.gov.	86400	IN	NS	dns4.name-services.com.
+meriwethercountyga.gov.	86400	IN	NS	dns5.name-services.com.

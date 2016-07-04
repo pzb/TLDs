@@ -1,0 +1,7 @@
+nocusuhs.nnmc.navy.mil.	21600	IN	A	131.158.4.8
+ntcusuhs.nnmc.navy.mil.	21600	IN	A	131.158.4.7
+usuhs.mil.	21600	IN	NS	nocusuhs.nnmc.navy.mil.
+usuhs.mil.	21600	IN	NS	ntcusuhs.nnmc.navy.mil.
+usuhs.mil.	10800	IN	DS	56179 8 1 f1ea336ca6d58ec6b06d1667c8d11d8a8a852286
+usuhs.mil.	10800	IN	DS	56179 8 2 8d89f7cf9ce85d93b5567003c8ba1e1cf9c1d8ca1999d7149ed5c0a01ca4241e
+usuhs.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. SklQTnndgAQ5ge5BZdn4FIoQGg5uEY0R5XxEe9DkNDx6HZFCGUFmZ/G7mN8YYdts0m0Nuvj5DsZRgVENKe8fsuGlAwV0cdtSXCYBTcb9LMlbdS7g7fOXuQvrBdf1/xjf36xqBuD+Ptr2vpWSlNvZhHQUjuzNIyts3SM0RD0ItUfONXY=

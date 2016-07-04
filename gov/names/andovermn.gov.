@@ -1,0 +1,4 @@
+0drp6rf5tid0nqv6rll6v7ajk14lfesj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. PfklBjD8/lja8KC6TsboWcN3oI3ZvumwgXMe2lP/B/VOp0sSFwYxCuVsaPgcMATk65AvIaSvWmkaceoZbmic9UMlUXhbEmSJD4moPZhJlfc1UyIfOKQLd2/kRhAs/UKvXf+TZBMmNoVMymh/OdjVO0xFPWvCjSYZ6//KEc8GXag=
+0drp6rf5tid0nqv6rll6v7ajk14lfesj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0dsk137i8rpctbdm7b8n7tfbiqn83qgf NS 
+andovermn.gov.	86400	IN	NS	dns1.civicplus.com.
+andovermn.gov.	86400	IN	NS	dns2.civicplus.com.

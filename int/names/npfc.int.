@@ -1,0 +1,3 @@
+npfc.int.	86400	IN	NS	ns-222.dns.jp-e1.cloudn-service.com.
+npfc.int.	86400	IN	NS	ns-223.dns.jp-w1.cloudn-service.com.
+npfc.int.	86400	IN	NS	ns-224.dns.us-e1.cloudn-service.com.

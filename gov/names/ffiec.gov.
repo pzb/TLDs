@@ -1,0 +1,9 @@
+ffiec.gov.	86400	IN	NS	a5-65.akam.net.
+ffiec.gov.	86400	IN	NS	a1-166.akam.net.
+ffiec.gov.	86400	IN	NS	a10-65.akam.net.
+ffiec.gov.	86400	IN	NS	a11-66.akam.net.
+ffiec.gov.	86400	IN	NS	a16-67.akam.net.
+ffiec.gov.	86400	IN	NS	a28-64.akam.net.
+ffiec.gov.	3600	IN	DS	26281 8 1 159a81ad19f2245d6bc26edcd64a69aaa765afc0
+ffiec.gov.	3600	IN	DS	26281 8 2 3c09128be0a2d18bc8475fcab038ca124bf4770b946b8fbd17421d1a0caa1fed
+ffiec.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. kVY3K4Bne1hKwzygjnaiCd85SvppIBT6hHD2L4DNN6oVn5qbyAlKY3pAQHIfLuPSul8HBils3MMDjlbrk30+KlBi4mGekxCk7FqDys5ehzMmynmz+pCNwFpd14NbtV1RpidwbuTNa/oOrHMKitJ7tvPGYardmrhPwlPCNzFZVdA=

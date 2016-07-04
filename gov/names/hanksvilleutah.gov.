@@ -1,0 +1,4 @@
+5ne2eukut13k4gac229b6qaac926te5k.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. D2AgwQ/heiCy5LZ4DNVV64fZrn7wEEGYgEdchCnmvHN8fyXbXy4D2Wzmh2HOckhXYFQRybbH7LwszZqMSd9hLr9rVVbMwzx0XJNEsQWpO0tC8LHS6ICZp5DOOY4I7GDUcDkCXa1FaVWlZaGsm3XsO65+/3ewtaaEEh1AMJ2kd0I=
+5ne2eukut13k4gac229b6qaac926te5k.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5ngqo5g2do24c5gvuncvguisa0koqbuk NS 
+hanksvilleutah.gov.	86400	IN	NS	ns10.wixdns.net.
+hanksvilleutah.gov.	86400	IN	NS	ns11.wixdns.net.

@@ -1,0 +1,6 @@
+mcac-md.gov.	86400	IN	NS	dns01.mcac-md.gov.
+mcac-md.gov.	86400	IN	NS	dns02.mcac-md.gov.
+dns01.mcac-md.gov.	86400	IN	A	167.102.151.75
+dns02.mcac-md.gov.	86400	IN	A	167.102.151.76
+p9324gs4qgmg9r4m2e4cqcqeqc1rs30a.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. V+brpi5rLlwBbTJfoiuYsWY0mNuIasFXRiRHBTzJy88wK8X2wxAt0UC/qKL9BtQgcLyE529fkmeDTk07L5oEYbjBP6n/3/sQqj7AnotywnzDodcHdv6TP/x3VgPK0avOtevkllSx3veT92jd/sR/brarOgqi9RqE9Oi8hMc8PVE=
+p9324gs4qgmg9r4m2e4cqcqeqc1rs30a.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  p93nvrhc0do8ugfa67hckc8tsfbkb0s4 NS 

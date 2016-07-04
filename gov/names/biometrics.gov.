@@ -1,0 +1,7 @@
+biometrics.gov.	86400	IN	NS	auth00.ns.uu.net.
+biometrics.gov.	86400	IN	NS	auth100.ns.uu.net.
+biometrics.gov.	3600	IN	DS	16959 7 1 904a0fecbf581a71d60967afbd914484188ccb44
+biometrics.gov.	3600	IN	DS	16959 7 2 db1149d3553fa6042cd0c5f6fc6f0eb11f9da3bdbea4b0e1ffb9684c014fab22
+biometrics.gov.	3600	IN	DS	61675 7 1 cc7dfa753183464f1136dfda1cef88e229f7769d
+biometrics.gov.	3600	IN	DS	61675 7 2 18931fbcc71914a13562f5c703dfbfc02c062b9b58da338249468b1a368971b5
+biometrics.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ZIMk5roTUxcENsI2KN+Efcqtb8b21OP/IBkzWQya475ts7dPRgKufB8gkdwUPdL6AvXJka9KTBe+XwA7+fxrFOwzP7KMqC8eiqBaV8r686akSmN+OF3/jX1YOXpNBmafxzj8EHSqP+7h6IGtYVSwm6Bl/hSSKu1hA0Qy670aEek=

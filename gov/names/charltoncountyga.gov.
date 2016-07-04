@@ -1,0 +1,4 @@
+charltoncountyga.gov.	86400	IN	NS	ns13.domaincontrol.com.
+charltoncountyga.gov.	86400	IN	NS	ns14.domaincontrol.com.
+j2p4ck3pmfdj6lmdf5c2jmd0h3ot87np.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. sgJoobj82fRabeOb7lmtpWGWHPW0WC3SOu2OHjX3AVPrNJtSlNzxt3OpOTYXSn7RJrOi56GbJcrAc+zG1v6BF7aJmNHHUQ6LeLMcxQ5NQNvBaJEOKf/p4i6NyL/YDDFATo9/39EsAti19HIYNxAIICv5QmuQxLAh/OTexoDLexw=
+j2p4ck3pmfdj6lmdf5c2jmd0h3ot87np.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  j2tqngq1vc1ti33mne4lg9i5l5ft9c3r NS 

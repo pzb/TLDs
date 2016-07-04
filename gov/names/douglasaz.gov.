@@ -1,0 +1,4 @@
+1bmv90btumrqdqlsctot5akqvlpcb27f.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. RyEDhg8IwNFykbDL7S8vEEve3QN6NmJsgWxZV4RW3+QyGgR5QeilCN+NUlv3+jlyj4kM2Jo46MADglEfQ35swl6OmGoGrJ4NnaL2xyLD5aOWuGslmNMRH6fZpg0oltj56Wj4NmwwAGkOaY4WuXIvKlPEqaYKSUCgVPlgWMl/Onc=
+1bmv90btumrqdqlsctot5akqvlpcb27f.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1bs8epcucrns1i9r9pk9jrd35v9v0gff NS 
+douglasaz.gov.	86400	IN	NS	ns2.zoneedit.com.
+douglasaz.gov.	86400	IN	NS	ns13.zoneedit.com.

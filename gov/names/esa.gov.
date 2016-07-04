@@ -1,0 +1,13 @@
+gpaens2.doc.gov.	86400	IN	A	170.110.225.13
+hchbens1.doc.gov.	86400	IN	A	170.110.225.11
+esa.gov.	86400	IN	NS	dnssec7.datamtn.com.
+esa.gov.	86400	IN	NS	dnssec9.datamtn.com.
+esa.gov.	86400	IN	NS	gpaens2.doc.gov.
+esa.gov.	86400	IN	NS	dnssec10.datamtn.com.
+esa.gov.	86400	IN	NS	dnssec11.datamtn.com.
+esa.gov.	86400	IN	NS	hchbens1.doc.gov.
+esa.gov.	3600	IN	DS	34810 8 1 1cd86cc716b00020b3f0ed3c8ce8b83cf173a755
+esa.gov.	3600	IN	DS	34810 8 2 0e04a68ccb28a071d6aa6e96ca584d5199bf76708a965d1926107706f9d5a72b
+esa.gov.	3600	IN	DS	60322 8 1 1acaf42e6d5a0d0f99a47b96ae10701e35daf2f2
+esa.gov.	3600	IN	DS	60322 8 2 bfd4c4340d83a53bbac6490bf296ffcf4ef08597fecd22d937bc6068cf161686
+esa.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. JxZVa1p3Ur51xO4ZJoU1abKx5Bx6m2r9A7WuCUr4htJh384CYPKQFyE1xZrJ9MAaZiwjFiDvi9EairPRdgUKSfxf2/r6hb6kIGqUb/CT7o+Ia97jBnTE9h6tpvEwcYzy+AVCzzSU9NrxHQNGycRWp6tJblMy9ZDBlVvObit5bQA=

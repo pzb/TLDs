@@ -1,0 +1,4 @@
+manisteemi.gov.	86400	IN	NS	ns1.itright.com.
+manisteemi.gov.	86400	IN	NS	ns2.itright.com.
+su5qotctcttj78skcbk5081ipoml6kdq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ZF5ODDRavGRaxjMpD9Rmkh3JHlxhD47InjWsnNBvior/n1hwdYty78WYE20e0fUNlXjnDC6Z37vrHgyQlBBPsjS8fZTqzLijhYmbGGA0AemkOeadBqXN5Y+7ERTu+91jTGLAm+cy3ME1GfMTrzaXfJNuV3r+UAJgtRqzazRrWos=
+su5qotctcttj78skcbk5081ipoml6kdq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  su6h4hoejk2t3ougmjg6c7lbp910tn8a NS 

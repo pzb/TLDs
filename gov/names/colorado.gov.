@@ -1,0 +1,4 @@
+5fpaq889hmunbn5ts5l10p7dt10vlojs.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. FGbuiiIKbzsSNxZRuseX1nHlhjvSdaSudSNhaA8X0ZXHMBEOLQv3JwgeZe4rvwOAuee+cbxgav/1DU/t0ihsphWEbB7ZR8kOwK6kaeyYnvR1m1Or4+Pa7vfJkPnd/UDcbawzAhvGp8ArcTML4Q/UbDrzARBjXzxst59ptQIzJNs=
+5fpaq889hmunbn5ts5l10p7dt10vlojs.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5fujuua1q90od4i5tp0944i4a2rs6900 NS 
+colorado.gov.	86400	IN	NS	dns1.state.co.us.
+colorado.gov.	86400	IN	NS	dns2.state.co.us.

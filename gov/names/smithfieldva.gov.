@@ -1,0 +1,4 @@
+ibt42braeb55a2ce03a37aktdimmh06p.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. KutG+EMq+Wr4e+e25BkZ8iI/dQKwfObMolqasjEixIqeKQVkh9qK9kL/kTyXn4ZEIDN4C25xsn2m3LLApDBlc/B0OINs0uzSJtSxiju1nW5o1H5U9cwMSfj4RQ6daYNNCCKlqhjN0ZYpWeVv3Z/yRA4nelm4y0sDdlQRSEzDbXQ=
+ibt42braeb55a2ce03a37aktdimmh06p.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ibtaav543etm2rne1qa77q5tbvm8v3ec NS 
+smithfieldva.gov.	86400	IN	NS	auth0.ns.charter.net.
+smithfieldva.gov.	86400	IN	NS	auth1.ns.charter.net.

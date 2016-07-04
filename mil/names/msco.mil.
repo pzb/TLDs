@@ -1,0 +1,7 @@
+tsddns4.fedsun.hpc.mil.	21600	IN	A	140.32.23.2
+msco.mil.	21600	IN	NS	tsddns.fedsun.navy.mil.
+msco.mil.	21600	IN	NS	tsddns4.fedsun.hpc.mil.
+msco.mil.	10800	IN	DS	42214 8 1 feb8e730475586d9d574849a539963da20cb6c15
+msco.mil.	10800	IN	DS	42214 8 2 eb25da64abef26e15de012c9b49ea9d230111789dd49997ebca6c60fb5a5d855
+msco.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. N6q3yYWir1Gn+7nWNrfQFjwpxNIpROmzX3RRlqEPYTT+IY/arOhm9v3EWjK3L5PKkqdPRJ5Z0XJUHYksRFugt4U6CMqhq5IirMFYiPVZVYrFf+MZBZ4vxHV3aKwh+XnuXfXw9vvFvWX/y7J5k0EMm+R88bh1QiLD9L+tvL14EMHrjqQ=
+tsddns.fedsun.navy.mil.	21600	IN	A	140.32.24.2

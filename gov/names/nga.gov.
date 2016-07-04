@@ -1,0 +1,9 @@
+nga.gov.	86400	IN	NS	auth1.dns.rcn.net.
+nga.gov.	86400	IN	NS	auth2.dns.rcn.net.
+nga.gov.	86400	IN	NS	auth3.dns.rcn.net.
+nga.gov.	86400	IN	NS	auth4.dns.rcn.net.
+nga.gov.	3600	IN	DS	2749 5 1 6aa19cd4b4a6ff0a125619b643eff19b180b957d
+nga.gov.	3600	IN	DS	2749 5 2 77303df346dd855b05918b8ced57a17a1411fa14958b99b9c2f3ad1038a92313
+nga.gov.	3600	IN	DS	56044 5 1 4f5496af6cb147048ec3daefab8ddad62e171dbb
+nga.gov.	3600	IN	DS	56044 5 2 ced4c0bfbaf1625a54ad5ecd8ec12d2f04784ead4a2e7f76cbed214708bd728b
+nga.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. H9ynehStPaBB2mn4T5G4h4C2llKFk/uEPmc3i+RPvsFBVupXDCJZwW6m8YfIqrnwWs9z3u6uqDKv4jcSKPFEx+N7u6RLYe6sccWWt4FYZE/QA2pElKZcFW9fwwkvGSm9FQv15LClheBTWGQ4cTOgoVFR8ymyoQbsvw9bsveGFlM=

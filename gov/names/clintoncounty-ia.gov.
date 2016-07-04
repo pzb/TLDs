@@ -1,0 +1,4 @@
+clintoncounty-ia.gov.	86400	IN	NS	ns1.tsts.com.
+clintoncounty-ia.gov.	86400	IN	NS	ns3.tsts.com.
+jhfo8btdje1vfq6j6vt4o0k5g4e1jik2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Wdvnc1vq1ymwCOaHipE4lfgNhEFY1I7PkKrfOhdbV1kHWg4cozJFKI8raGQoHUP3oVF6tOAfNG3SMFLRa3k9J66/UXKrOD7MmK21q1T/EkIh48as5NkXf4D7SvWzU34OKMjxfWVYUKvgQazeJhMNLqEnSp7yW/4YZ31Z/u1SEns=
+jhfo8btdje1vfq6j6vt4o0k5g4e1jik2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jhn64jnnqp1av6kcb573q200bh3df2f2 NS 

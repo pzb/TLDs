@@ -1,0 +1,4 @@
+305efethc5hia7lkaa80tkhq9pkri5ii.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. jsoR//YX3Qb3rd8ZIItTpZxQdEydw9JEljOeA5zWvkeNviUtRDKNpbLzMv9Fsz61sJHqk5N3XNSvNn6HE/bnidPXmLtQSYjCfzdx5xjwCvZfD6q1rTC78aChZiE5okI4ksZoPRzQmpd662jWqkTOj/ZOUwDFuFAeCFaU9sYDJk0=
+305efethc5hia7lkaa80tkhq9pkri5ii.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  30mau1imla2t7eva18chg5nsd3og4923 NS 
+cityofgroveok.gov.	86400	IN	NS	ns1.rectec.net.
+cityofgroveok.gov.	86400	IN	NS	ns2.rectec.net.

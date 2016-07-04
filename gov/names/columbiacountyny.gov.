@@ -1,0 +1,4 @@
+columbiacountyny.gov.	86400	IN	NS	ns1.midhudsondata.com.
+columbiacountyny.gov.	86400	IN	NS	ns2.midhudsondata.com.
+emf128c2iok80ipjht9dpad2k46k11qh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. tlBYcYMPRFTZw0nDzfKR5Of+ujzCphVJglpQSPMta7/m/tcpuetP/e1ZkSzCFiAKeY8OWWg25GaD8V3XCrQxjBzwP+6dzvZukNyVDyV4MYYpZ+FK13Q9iP0VKmngkixeygqFIQrj2Qc4fGxYwuNPMLzIXbq+lx4opsoxzwsPfCw=
+emf128c2iok80ipjht9dpad2k46k11qh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  emjpab8emlie9rslfur3tkm8hkvsmr98 NS 

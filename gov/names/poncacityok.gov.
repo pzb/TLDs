@@ -1,0 +1,4 @@
+poncacityok.gov.	86400	IN	NS	cbru.br.ns.els-gms.att.net.
+poncacityok.gov.	86400	IN	NS	cmtu.mt.ns.els-gms.att.net.
+t712h5hgdm7v18u6htpjhnptsssdpkqn.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. cOMZs6XvDeB57sZyxq5MTe1Vy1D/Af1SUYCDXdc/Fzm4hp2he9aPBCM7wF1K9KboYkkMi4azwOLd+3MsJImfzrPkDoP/JaUlmluEf4Wd4rV9hrduIZJEcurJfjf8hSKpK+6/av+m8xP5JVCmajai5pSIEVjMbno75gN9bsZTEx4=
+t712h5hgdm7v18u6htpjhnptsssdpkqn.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  t77ej3rep26kd5cgau0eld65v96rnsr3 NS 

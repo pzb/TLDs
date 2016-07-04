@@ -1,0 +1,4 @@
+6o4vmhbhaebrtgsmrtdirnrohhca0i23.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. GD/ZgS+8UU9Rk1Pzx/ZbwxPBtE5+mo42d5bnE6c6+fqWq+ov4nS1zXKGL0rKwkN/e7vxy6xAkHCL+aJy0w0ioOAK3BWDkd2uOqu0soAxxr6ObqvThPWGmCEl6u2nVCEkGqPPU2DwKf28WU5MgEZWju5cspukZjsI3AzJWsK1ULA=
+6o4vmhbhaebrtgsmrtdirnrohhca0i23.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6ofk7j5otf1g42lljigmc9kohcdq5b64 NS 
+coworkforce.gov.	86400	IN	NS	dns1.state.co.us.
+coworkforce.gov.	86400	IN	NS	dns2.state.co.us.

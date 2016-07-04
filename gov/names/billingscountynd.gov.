@@ -1,0 +1,4 @@
+billingscountynd.gov.	86400	IN	NS	ns3.ndnic.com.
+billingscountynd.gov.	86400	IN	NS	ns3.state.nd.us.
+l6rrbkdjvohogag14hlu0t4s18l3u8ak.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. rOI92H4DrTVHee3/O3f21VJ6x6T+oyZo7xVfvqPH4KYLCUsEb91l10FYmdX4b+1fJenm8KToY/xpQjoBcc6tKmqFPwp9oyLl6PQ7qnmGhGmb46H7kW/A+j/DKmVx537F9OGfVGYkYPGdPoKI/ZUVipMwmO8/esa0vbYjgz/Kj7o=
+l6rrbkdjvohogag14hlu0t4s18l3u8ak.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  l7e6ukfl0tp51gqjtgjnf1mrg2dns28b NS 

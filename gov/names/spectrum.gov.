@@ -1,0 +1,7 @@
+spectrum.gov.	86400	IN	NS	ns1.p12.dynect.net.
+spectrum.gov.	86400	IN	NS	ns2.p12.dynect.net.
+spectrum.gov.	86400	IN	NS	ns3.p12.dynect.net.
+spectrum.gov.	86400	IN	NS	ns4.p12.dynect.net.
+spectrum.gov.	3600	IN	DS	52039 5 1 2685f38673f34b3ef617d805b753865bdda514d5
+spectrum.gov.	3600	IN	DS	52039 5 2 8d1cba2b2d0ef177065b6591753c83db55f2474441bf21b7f27b2def76cb7fab
+spectrum.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. WtS/4c67QhU+amdbLCrVJHu+x1kDk67pG9pwHRw1If6uEdwBxpv7H0qOL2hOtOZeKZUFCKnsSTJHggIXRodQlYu/5KfZMXpehwVXFaPMpwcmemadf2+N34YEEWFyB+3/0Z2kbMBNfWwzTx6UsbIxZXcRA2iFOZxPdfz6QFbd4q8=

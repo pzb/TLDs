@@ -1,0 +1,12 @@
+ns-e.noaa.gov.	86400	IN	A	140.90.33.237
+ns-e.noaa.gov.	86400	IN	AAAA	2610:20:8000:8c00::237
+ns-mw.noaa.gov.	86400	IN	A	140.172.17.237
+ns-mw.noaa.gov.	86400	IN	AAAA	2610:20:8800:8c00::237
+ns-nw.noaa.gov.	86400	IN	A	161.55.32.2
+ns-nw.noaa.gov.	86400	IN	AAAA	2610:20:8c00:8c00::2
+sdr.gov.	86400	IN	NS	ns-e.noaa.gov.
+sdr.gov.	86400	IN	NS	ns-mw.noaa.gov.
+sdr.gov.	86400	IN	NS	ns-nw.noaa.gov.
+sdr.gov.	3600	IN	DS	46486 5 1 c713e9976a09b575ac596d87414463240aec9c28
+sdr.gov.	3600	IN	DS	46486 5 2 299ff946d62e516c4155574980d109773bee555fdfa58cbddca2a92aa630e600
+sdr.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. PxqAq7qQLHt3XKytuQnfDv2HBqqqV3fo/qBcYB/PDK5ZuuI1CIboOIFFTeUc91RiVkSNd2uOI00ltOcBClhcd7Z8ddBOifjdBGuSnh//kyJ3XqqFk4HyE4Kd2LTxDzzRTRqt1T6ZYmyAA+DjlNLMXj3uhLn7fxEvNXQG5xsCuA0=

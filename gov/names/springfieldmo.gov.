@@ -1,0 +1,4 @@
+8omeh72dsmguqkac2q41eqgasjpv8f7q.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. saFpbUveCY0i17ELZzfOKeUTpnk3AdTLN41Job1rO1vDjXpcJmDDkzAX+vWw65HHQgNrsUkECvLaQL/3I8pXLySvyOZNqcZa+cU3j0/ekCEKA6sDdkVyWEoDLvBFGbhirSKcgi45oTsPezEf1rrD4hFqxL9qpHMvEynmlLa8/50=
+8omeh72dsmguqkac2q41eqgasjpv8f7q.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8oo5qsgj044uen5icc1dfinkqhuqffd2 NS 
+springfieldmo.gov.	86400	IN	NS	ns.springnet.net.
+springfieldmo.gov.	86400	IN	NS	ns2.springnet.net.

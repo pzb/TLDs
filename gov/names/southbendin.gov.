@@ -1,0 +1,4 @@
+southbendin.gov.	86400	IN	NS	ns3.microintegration.net.
+southbendin.gov.	86400	IN	NS	ns4.microintegration.net.
+v0mjmhmqh2umcf13iodjsfaci9tnvjbp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. g6u7QlGmGI1cjycrT+0nxxWj2IjL+h9NWJ4ioHO7cV+QIqEhV8k6VHlEbA2qTc7MmW8e7mBR/yPMaDSA/ZkKgjSG9nD38OeR8EZizVrjErjR+gJt3WONa1dpH19nffQ+3dtbs/gKT9+1nLoz/lgRT4R1tHXGi//3WetzmNAs9oo=
+v0mjmhmqh2umcf13iodjsfaci9tnvjbp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  v0nghnil86gpej3lobn36a9jjp5u3mv0 NS 

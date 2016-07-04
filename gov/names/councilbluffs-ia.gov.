@@ -1,0 +1,4 @@
+councilbluffs-ia.gov.	86400	IN	NS	dns1.civicplus.com.
+councilbluffs-ia.gov.	86400	IN	NS	dns2.civicplus.com.
+rg692n0ltujrabolmasldhmb8gmdot4c.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. B2lmfjMBuYL6qzOgGoSGBwXq6XE0VFuUq4ClK1wh/lqXpdwGf7orlhibEJTLrbXQD7PwXvqnhQUAXjBG3KVgvNbgZtvdqaqULylq5jcLtRRhaRST2prrXsrSN/hFVQZbDfLlgs1Sby3TddfffpGV8+qcbxkn1YxeBPd1fe3NGJM=
+rg692n0ltujrabolmasldhmb8gmdot4c.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  rgfu9p9vjoqudsiejc3pvgo7gf2nd9cr NS 

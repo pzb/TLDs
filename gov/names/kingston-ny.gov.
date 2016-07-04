@@ -1,0 +1,4 @@
+kingston-ny.gov.	86400	IN	NS	ns1.hvdata.net.
+kingston-ny.gov.	86400	IN	NS	ns2.hvdata.net.
+mtqt2ag6betkrvnmk3er94fer8hl0008.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. gnWQQHkUmMU6jPjnnYUtBhEy4HcrX4Iihx79j60jcBAXBiVFNRzJZoLuRIHRc5P0ZrS8p0ez9R5kZPH6XuhxTQNv481LXKNQSKoJ/zeQKzstC1xzPMeVArGg8ryFxeatZyxvaoP0cKhu/n0BUqo9JPnzaYqow5ogjaJHVFU4DX4=
+mtqt2ag6betkrvnmk3er94fer8hl0008.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mtsk5ble4re72kt972o55hur8rfm6nvv NS 

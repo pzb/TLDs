@@ -1,0 +1,12 @@
+disasterassistance.gov.	86400	IN	NS	eur2.akam.net.
+disasterassistance.gov.	86400	IN	NS	eur5.akam.net.
+disasterassistance.gov.	86400	IN	NS	use2.akam.net.
+disasterassistance.gov.	86400	IN	NS	use5.akam.net.
+disasterassistance.gov.	86400	IN	NS	usw4.akam.net.
+disasterassistance.gov.	86400	IN	NS	ns1-46.akam.net.
+disasterassistance.gov.	86400	IN	NS	ns1-96.akam.net.
+disasterassistance.gov.	3600	IN	DS	25724 8 1 2f5d559318b379af8e18f5a25248e534541dd062
+disasterassistance.gov.	3600	IN	DS	25724 8 2 f586ce2f9ebdb20bc6afe1d4cd76505229a8dfc8222e7e321d38321d00ee73e9
+disasterassistance.gov.	3600	IN	DS	55526 8 1 ea810c31a14287dfa509e750e673110e29e4ac86
+disasterassistance.gov.	3600	IN	DS	55526 8 2 b6ac41f63a5a50b7d2edff29c5996f3c3271cee627b4fc5f769d6f5cd8bbbe8b
+disasterassistance.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. bEQrqjfZ0NBaUX/VnzQc/z8cPAbRuKHgbbkDiDsldHj7eyjL9oZbDRy2laWRrdbN0Oxt6vF+LHWRG7+DX1xBYV+XqXgLAH1JVPDSw+N3afekGxijtZ5BvnOG6g/7gOGQ1bczRnJL+PQMRB1PMZZNsY2OYEsCj03k1hd8toxPraM=

@@ -1,0 +1,4 @@
+hopkinsville-ky.gov.	86400	IN	NS	ns1.hop-electric.com.
+hopkinsville-ky.gov.	86400	IN	NS	ns2.hop-electric.com.
+tmepbo11ogjp5jm6ctb8odh2f58cjuc9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Zr8HnvMXXf5rwuA/hq6pIdLfLenECgSDLQiYPez8/ZY6WweYoU81ngsSu2XxJhZprojqmy9jTJTzgahRqMAj1inJbZmQVZSs6vHhewwDLwbkZE//x927JllSBmRpkslabnCC4aqBQGWZKZQGgcsioCL3Ew7fdgInA4oIATZcSvI=
+tmepbo11ogjp5jm6ctb8odh2f58cjuc9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  tmkv93moffica4dljjd0ssurab63ldra NS 

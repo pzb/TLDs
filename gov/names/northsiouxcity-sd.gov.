@@ -1,0 +1,4 @@
+kcfv8fgccf17c76upgkjnn50d3ub2d9c.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wGg5GDtBjZCGerRtwxMbKYBLHRwKj91afXUNrJgbQs+cT0VOaxzX6u1kazr0Vp06VW+Vm8pIY+kXBJF7sBZIncEpPEGYqCmabnJL+Uyzn/0HPn/kc2Ne1XGWEWMOZmnUpCmO1wL8IzmExURcU0t20T7rk9MPizsHPvTWwbMR+so=
+kcfv8fgccf17c76upgkjnn50d3ub2d9c.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kcpsvrbeg4k7kjtc8i7dak1kjj7a3j7m NS 
+northsiouxcity-sd.gov.	86400	IN	NS	dns1.knology.net.
+northsiouxcity-sd.gov.	86400	IN	NS	dns2.knology.net.

@@ -1,0 +1,6 @@
+toolecountymt.gov.	86400	IN	NS	ns1.afraid.org.
+toolecountymt.gov.	86400	IN	NS	ns2.afraid.org.
+toolecountymt.gov.	86400	IN	NS	ns3.afraid.org.
+toolecountymt.gov.	86400	IN	NS	ns4.afraid.org.
+vhmt5852o32jrviqbr1cec2rthci1as8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. mSPkVZRs9ELbPMa5O3st4EMSYI7M5P/i3dAuyMICHL41p3wYykpp5NfJe/N2/qOKPKFNUWjh1yaU+1nkE8QNlqMEDvgf+slhdr03bPS2qfbYkOHJyTTbA44qJYAMxYzCsMEZTCKiZh7UQPZooXNL1auUxtUnfIiROl3iVN21pVM=
+vhmt5852o32jrviqbr1cec2rthci1as8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vhr6t374qh9n5i904aatfr6hubbpdv2d NS 

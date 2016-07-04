@@ -1,0 +1,6 @@
+bmskbenm2jluktv7kh9qhlof57geik9s.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. GvbdjaoNYL/NTqNVHGRRXRig/65LgT1ZpD9TJEF8jm9cezss1ke8OPqvobxm9VQC+rL1b54zyJL0+iVHRW34ChSy6j/Y1aAeg+BiPffJ8yIMB7HXQxNJKGtxgSF85mQzHPgHvMl903lLEyjLOpG88RvVDKZYZchHVS3WFioqYDM=
+bmskbenm2jluktv7kh9qhlof57geik9s.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bmsu8c0o0m8b27u0esarmduln2ppuqqc NS 
+dns4.tn.gov.	86400	IN	A	170.142.92.58
+dns5.tn.gov.	86400	IN	A	170.141.168.22
+tnvacation.gov.	86400	IN	NS	dns4.tn.gov.
+tnvacation.gov.	86400	IN	NS	dns5.tn.gov.

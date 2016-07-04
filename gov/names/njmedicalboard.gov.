@@ -1,0 +1,4 @@
+g033r84ko63i47pceh10m6st39kgjouv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. VTQ9JaESn91QqgV8klOS/mePpz9jpIqiZpMnGPPqG+27GnOCF4HeQZj5VjXRJ/664TD47yqP95kWB0H/LtmqHKa1Lkky1zfNgFxkmGqtx/EGczon984wBHgfzZQnPksvZ8IRG4UxzqD5nYzdvp2c+uAIqdyHnIeMGd1+hp+YTD8=
+g033r84ko63i47pceh10m6st39kgjouv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  g05ll82tp38oqlhj03udh1ol7d219569 NS 
+njmedicalboard.gov.	86400	IN	NS	ns1.state.nj.us.
+njmedicalboard.gov.	86400	IN	NS	ns2.state.nj.us.

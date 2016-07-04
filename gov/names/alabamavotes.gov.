@@ -1,0 +1,10 @@
+edns1.alabama.gov.	86400	IN	A	216.226.178.11
+edns2.alabama.gov.	86400	IN	A	216.226.178.12
+edns3.alabama.gov.	86400	IN	A	216.226.184.10
+edns4.alabama.gov.	86400	IN	A	216.226.184.11
+alabamavotes.gov.	86400	IN	NS	edns1.alabama.gov.
+alabamavotes.gov.	86400	IN	NS	edns2.alabama.gov.
+alabamavotes.gov.	86400	IN	NS	edns3.alabama.gov.
+alabamavotes.gov.	86400	IN	NS	edns4.alabama.gov.
+qaluh0lblvjqfgdfgvcua41g9detgktl.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. KzTZohQlJ4CQogPDIedhnWbZhSOkye//l7BHOAcf2KLF5y3T7VWgNBWBcV0Q+CdcCa/+wPvhz3M1bu+LM4c+g4J/NS6ov/SNpRL00WFMx7MRjR0Hsf9YBLbLM0XDMG5BXP3rnJ6FOuTkIBb8lVaUDMVMmBh45GUYsyTKUKo84ug=
+qaluh0lblvjqfgdfgvcua41g9detgktl.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qatqojgarkplmhqkhob5h6lfqq72srf9 NS 

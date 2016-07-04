@@ -1,0 +1,7 @@
+americasheroesatwork.gov.	86400	IN	NS	ns1.americasheroesatwork.gov.
+americasheroesatwork.gov.	86400	IN	NS	ns2.americasheroesatwork.gov.
+americasheroesatwork.gov.	3600	IN	DS	44311 5 1 1ad0ebfe47db1755db6c8c0bf864da45d66d552b
+americasheroesatwork.gov.	3600	IN	DS	44311 5 2 b1e0d723fcb5c1aa1fc7812777eb281722b24f2238575e97400a74724d75a544
+americasheroesatwork.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ReSN3E7FhGrNhX/P9QnYPnI9CBt/Q7kdZLXULTtmQinDq9VagpxfILoW+SshBnPghw4/VG6/zRPowjYEeDA7imj4pWnOQN41L0bU92+s2JKPxGAEK/TopM2nomD/xE9DzB7IONq542OAJ6s2EleQsT9lZqFslRPridxcScQloUk=
+ns1.americasheroesatwork.gov.	86400	IN	A	52.200.29.131
+ns2.americasheroesatwork.gov.	86400	IN	A	52.200.38.202

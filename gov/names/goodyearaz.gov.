@@ -1,0 +1,4 @@
+1nf4b8bjqi9sb3oepocnf4mebc2n46nn.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. qqTh0jhZh3cZvvk7vVB1AH071cF3/toMn/RM1o8w+jaYkdMfT487Kec9ZXQuAK04wJ6xKlNUxcJnbOSKyIkw3QB8ZXD6G0Fl0ZHU0Gd5vxpJNjy8OEVWxCwRwS38x8NG0vLQdbGG+lRrUg/FQA2+bnwI9WiJ4AHkP3Ft2Cs4kBw=
+1nf4b8bjqi9sb3oepocnf4mebc2n46nn.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1nffqi33jj1g2f0861legs9v7vbijatt NS 
+goodyearaz.gov.	86400	IN	NS	authns1.centurylink.net.
+goodyearaz.gov.	86400	IN	NS	authns2.centurylink.net.

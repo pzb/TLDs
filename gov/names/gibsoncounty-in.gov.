@@ -1,0 +1,4 @@
+gibsoncounty-in.gov.	86400	IN	NS	ns1.sit-co.net.
+gibsoncounty-in.gov.	86400	IN	NS	ns2.sit-co.net.
+j5aija46sclkkancv2boo7p545a3vr5i.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. pMDbEt0SzQDZUq9wX/Fi8hVqE1xhrewAgKpOCPpXiOoiu9svPwCdGjAXK0FrSqbEa2ZaYVBbC92qDiEqTeN2x/iKw0h0jcKZb7WbCamB/VyXGFJH01Qe6BixWtCocPh4vpDzRhFjf3pgCJRFZ+3PA7FNwdyyP0JswkJDC1NVDgw=
+j5aija46sclkkancv2boo7p545a3vr5i.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  j5i83bq627b7ep8clptoh54873clcf01 NS 

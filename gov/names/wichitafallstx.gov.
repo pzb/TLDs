@@ -1,0 +1,8 @@
+qc65hbct6jq6hjb9l5t3b7o8at3ehvul.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. B2IZnIrnsIVqutceWZ8HN1n2IubyGk76ki0MaTS3aNk/RFZj7At3apwxfBMGms6LDuLCqIfGEmESShbHaF8wjpYiDb04pWwu8GG67wHcxmUOfuai9OoJnkmTGpdkgyLsuUw9y6p7xpmS2FGbrtLQk+PjymnClOymKl2yU0sqG4c=
+qc65hbct6jq6hjb9l5t3b7o8at3ehvul.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qc6vi9o6alkkcm06084kmandejul9j1c NS 
+wichitafallstx.gov.	86400	IN	NS	ns1.wichitafallstx.gov.
+wichitafallstx.gov.	86400	IN	NS	ns2.wichitafallstx.gov.
+wichitafallstx.gov.	86400	IN	NS	ns3.wichitafallstx.gov.
+ns1.wichitafallstx.gov.	86400	IN	A	64.57.225.10
+ns2.wichitafallstx.gov.	86400	IN	A	64.57.225.20
+ns3.wichitafallstx.gov.	86400	IN	A	71.40.82.62

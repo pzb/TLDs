@@ -1,0 +1,4 @@
+bd5g6t0fhnnb5lp3a2b89s4ktpje9n1l.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. F1Khy7FzqoA0SsUiDykvVb7PSBdmhzrnOaP0+0Hrh9XTs8dynO1F4jpXBViKUSGc+ieVGcsk6JM4ejZYLOTxr0/7vSOM8TwrMdT1wKUOkK4jw8XC8LKDl+OiEC+X+hsA2mUuOokBZHMCnIcKuXfXthz4vwN5NYiTqHdNuu8duLw=
+bd5g6t0fhnnb5lp3a2b89s4ktpje9n1l.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bd7piugao58b6oi9ita76i6fn2ntbqje NS 
+broomecountyny.gov.	86400	IN	NS	ns1.twtelecom.net.
+broomecountyny.gov.	86400	IN	NS	ns2.twtelecom.net.

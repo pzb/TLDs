@@ -1,0 +1,14 @@
+projectsafechildhood.gov.	86400	IN	NS	ns-jdcd-01.usdoj.gov.
+projectsafechildhood.gov.	86400	IN	NS	ns-jdcd-02.usdoj.gov.
+projectsafechildhood.gov.	86400	IN	NS	ns-jdcw-01.usdoj.gov.
+projectsafechildhood.gov.	86400	IN	NS	ns-jdcw-02.usdoj.gov.
+projectsafechildhood.gov.	3600	IN	DS	61825 8 1 62596b75c4a5e19ef95560625b9dfb5c02c946f4
+projectsafechildhood.gov.	3600	IN	DS	61825 8 2 5151a60e8ae2608293e02115ab99aa931c06acdfe0504f93d61b5471c45e3cb8
+projectsafechildhood.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. He4qpWc7vdqFGAab+jvqqE2/UJSgoNwUJn+8P/wkQfcbqn8ROSsPHDlaba4EB/uyEr3OqqeKxYtFeI7gh7Dc2TTIh2KcZq/AjxrSPLjEsf+Bygxnw1TOoZp188Oe4BfZP2JOvfGrtwnQKwjuRaulwJcEGYIJedhHy6HbaokvslY=
+ns-jdcd-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcd-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcd-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcw-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcw-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-02.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::6

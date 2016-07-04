@@ -1,0 +1,4 @@
+biggs-ca.gov.	86400	IN	NS	ns05.domaincontrol.com.
+biggs-ca.gov.	86400	IN	NS	ns06.domaincontrol.com.
+n5r5i6b77ui8olhl15rougdllgj15fiu.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. YF2VSB4vD5Vah5bcnmBOhR6xMqfU2yBm0aCUvq4D5TmDokwiVbTCwE4JSTU9qZAH3s2cX6XN9fCjw3MMWpWYHdbc/4OldsKyW3Sl5jFPEwGonF0jPDaPZBrfGznDwJTHQtmXB1bpWuEpwUdDOSypabnrbsl17jXNY1NogHgrsfk=
+n5r5i6b77ui8olhl15rougdllgj15fiu.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  n63jdrfnqqgsbmrag8d1719o61n5n9qe NS 

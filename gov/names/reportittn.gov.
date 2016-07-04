@@ -1,0 +1,6 @@
+dibfsb8q36i7476kk2v6epomq1j72cdu.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. qoqlnft0iO9vBfKizZzkXLlmgAyy+F7VI6P6izvLgjb4QKZxK7xbwJ5lr1A8JocE5klsxYz3oUbtLcjxyC3VenNSXM+HkAe4CZGwKHtUPIGmqQ5V9WLT5E91rmKZmV7MkTdkK0i28iTiSw7jD3Z3OQ30yeMzIsVxRohYjGYGe1c=
+dibfsb8q36i7476kk2v6epomq1j72cdu.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  diblgs90t9fk48ojuphc05himhiv4clg NS 
+reportittn.gov.	86400	IN	NS	dns4.tn.gov.
+reportittn.gov.	86400	IN	NS	dns5.tn.gov.
+dns4.tn.gov.	86400	IN	A	170.142.92.58
+dns5.tn.gov.	86400	IN	A	170.141.168.22

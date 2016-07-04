@@ -1,0 +1,4 @@
+ek22qcrsdhv7pddje8pos54re9r6u2to.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. WhstAkz8tMEYsWlI7FAamK76F8cQ2yMMwkp7v+VJlLVit9LZVuU//kvCiSjbUFlA/OguLqWWyEDufCG5roBO0ZRnD6Fc/9SAPxi1A6eFU1INZziO2dy+WNAFElpG2uPiLN56pM+a8dBRXg4DQEcpKSmVr7ZGUiZCq5pfx8ULRvE=
+ek22qcrsdhv7pddje8pos54re9r6u2to.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ek9910jg9j0f5142t19q44d7hoajb2i9 NS 
+iowajnc.gov.	86400	IN	NS	ns.state.ia.us.
+iowajnc.gov.	86400	IN	NS	dns1.icn.state.ia.us.

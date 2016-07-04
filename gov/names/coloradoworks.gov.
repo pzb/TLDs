@@ -1,0 +1,4 @@
+coloradoworks.gov.	86400	IN	NS	ns1.mediatemple.net.
+coloradoworks.gov.	86400	IN	NS	ns2.mediatemple.net.
+ojoq4vt4af3bapeq7vvq6eah7iet8qg5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ot3D6KYlel/gZzQVpmh5bi/W/7fDYdJB5mncRTTDcKtks/auuxkZrVKgTSknxmwSAGKyU5kDs0NRmoIL2sypDN2myDrFjfkY3oZ1bJuv7i4dVL1BtMQO9pRiVwMveDVlTZhBhv5YaVIui7s4oYYyIcNPQtNT0IVsJTGrc7Pi14I=
+ojoq4vt4af3bapeq7vvq6eah7iet8qg5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ok46bfsohm9edfokarvhoubqu31gt874 NS 

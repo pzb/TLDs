@@ -1,0 +1,4 @@
+2vjqr4fjacb93eak2pd36ug27s9glpop.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. HrG1aKzyAoiMOhNadTj7OM9PhraX4nVS7EItTBJg6wkMRBD4XDl8xvIgWvL6nEZ2MiOgWqB2msI8zmOs9X0uOpNJ78ihuBk3N8ZNpIsJ9YO5R26wYy2XwMdx2o8nHW1rJVyOJie/pcd8ek5qlhz254LiyNHDhav8/CG2gFOAyZw=
+2vjqr4fjacb93eak2pd36ug27s9glpop.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  2vn1ial01dsjqbma1bn0ka3ttcitdrvp NS 
+galvail.gov.	86400	IN	NS	ns1.thinkhost.com.
+galvail.gov.	86400	IN	NS	ns2.thinkhost.com.

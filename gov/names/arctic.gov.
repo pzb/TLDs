@@ -1,0 +1,15 @@
+arctic.gov.	86400	IN	NS	swirl.nsf.gov.
+arctic.gov.	86400	IN	NS	whirl.nsf.gov.
+arctic.gov.	86400	IN	NS	cyclone.nsf.gov.
+arctic.gov.	86400	IN	NS	twister.nsf.gov.
+arctic.gov.	3600	IN	DS	13336 7 1 f3c6fac3277cee954d5fb7c4f331054a45b1cb3e
+arctic.gov.	3600	IN	DS	13336 7 2 d32510538efdbbbd5a4db2ea1851b8c827deb3abb0b294aa89bb633c71ef85af
+arctic.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. w0gQs48IOSXfhSn/Jf2oGBlTJquvzdmF9QoTr1XN8aVPrggMyKeqtNoBJh3yRHyxyqbO99qwbJldrRUSjOVZN8zG9iwlguekcWGlPknyii6L/7rtU3xr0YXpNEljrpYF/LwDlmdJ0cGEqxBMmuuPGqc5Bwheyj24U8aFXtyP/iA=
+cyclone.nsf.gov.	86400	IN	A	204.14.134.227
+cyclone.nsf.gov.	86400	IN	AAAA	2607:f478:80:1::53
+swirl.nsf.gov.	86400	IN	A	198.181.231.15
+swirl.nsf.gov.	86400	IN	AAAA	2620:10f:6012:1::15
+twister.nsf.gov.	86400	IN	A	198.181.231.17
+twister.nsf.gov.	86400	IN	AAAA	2620:10f:6012:1::17
+whirl.nsf.gov.	86400	IN	A	198.181.231.16
+whirl.nsf.gov.	86400	IN	AAAA	2620:10f:6012:1::16

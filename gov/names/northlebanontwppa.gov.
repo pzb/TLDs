@@ -1,0 +1,5 @@
+f3uhhrslajh8ltmp1gsqoebtuvapqe2t.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. kY2RPk0LhAObMyWsJz5JKudJabdIb5Dk5sTMO3Vpmx2yTS5s1DjNru9tYfRk63yZjd+IShYox88yl+QgglygfWrueRmS2WJJ3mx2J46xjeAHpL4OGnTqESZ8TueoDxrvuRIczoVcJPysRCOGKfN1t+CXcWYLhAc+qgW9Zb1oLRE=
+f3uhhrslajh8ltmp1gsqoebtuvapqe2t.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  f49lr5fmpqag7qmutmg4l5v672cj36a4 NS 
+northlebanontwppa.gov.	86400	IN	NS	ns1.omnis.com.
+northlebanontwppa.gov.	86400	IN	NS	ns2.omnis.com.
+northlebanontwppa.gov.	86400	IN	NS	ns3.omnis.com.

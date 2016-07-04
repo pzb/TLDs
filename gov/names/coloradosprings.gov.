@@ -1,0 +1,7 @@
+coloradosprings.gov.	86400	IN	NS	ns1.p05.dynect.net.
+coloradosprings.gov.	86400	IN	NS	ns2.p05.dynect.net.
+coloradosprings.gov.	86400	IN	NS	ns3.p05.dynect.net.
+coloradosprings.gov.	86400	IN	NS	ns4.p05.dynect.net.
+coloradosprings.gov.	3600	IN	DS	46231 5 1 66df40ad069fa6cf5da911211967659e55c56766
+coloradosprings.gov.	3600	IN	DS	46231 5 2 5e6faa10117d896d14366bf499821dd31be79d756ce0f75221a909b5e83bace8
+coloradosprings.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. XSrgVEeVDcmuAI3UrCk98ZOBI4D8eslK1PlSU8920Qjb0YDSnxTQXLw2v4Qz/cmSLZ5MTgp9ZzeBw9GaB4+c/Qs5DtycuLk2CXZ0qdna3yT0jkREQsX56NbhI9t5r24bLLjB3/1GwGH8KIgbHlLpjnRIQQkA/OpeL60sDOd8xgU=

@@ -1,0 +1,9 @@
+paymentaccuracy.gov.	86400	IN	NS	zc.akam.net.
+paymentaccuracy.gov.	86400	IN	NS	use6.akam.net.
+paymentaccuracy.gov.	86400	IN	NS	usw1.akam.net.
+paymentaccuracy.gov.	86400	IN	NS	usw5.akam.net.
+paymentaccuracy.gov.	86400	IN	NS	usw6.akam.net.
+paymentaccuracy.gov.	86400	IN	NS	ns1-145.akam.net.
+paymentaccuracy.gov.	86400	IN	NS	ns1-176.akam.net.
+paymentaccuracy.gov.	3600	IN	DS	34620 7 1 7bc58e988eec53cfe1bca0802f1909cd0b47a780
+paymentaccuracy.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. oeASWcjeAujx0aympIEJvwq/RNQFoDQc5ye8TsXeBybIKjpNRRnyinAnjJ6ceIhtmPZMpf7+nqcDuBoJg9Mw0XUVwUtP9m/mw4rcCTJCkGexl8WFK0nr6h5wtHBMaXRxI0jSxVmHG+wOJkmridGwB66iEAKm2NQGVhRI0bX6NyA=

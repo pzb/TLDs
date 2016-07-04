@@ -1,0 +1,4 @@
+daqj1sca3f3cpj3hsr6snkghuf882mj1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. mFA4LU0r+LeaeJZ4e/kjmHHGfgBVvHu6KZ7yEXefwldirY5DvX0nunwLdDZW0yN5tC4s8HFii8xJ/G5afAZiq7cdoF2P4dwTIrAF+FhRvIbrNGM5q7VPozZnPkWSEyRf0No2R+2Yb4p0WbTNGgrOuwG8olAkPL9P7HWMprYNdlQ=
+daqj1sca3f3cpj3hsr6snkghuf882mj1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dau8gp0r1batkcs579uo0cq7l0te9tfa NS 
+njohsp.gov.	86400	IN	NS	ns1.state.nj.us.
+njohsp.gov.	86400	IN	NS	ns2.state.nj.us.

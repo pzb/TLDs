@@ -1,0 +1,12 @@
+drugabuse.gov.	86400	IN	NS	ns.nih.gov.
+drugabuse.gov.	86400	IN	NS	ns2.nih.gov.
+drugabuse.gov.	86400	IN	NS	ns3.nih.gov.
+drugabuse.gov.	3600	IN	DS	28755 7 1 a7afeeb833d95a7640a58fe7e0f087debf2debb4
+drugabuse.gov.	3600	IN	DS	28755 7 2 f2fa7a79a3aff2f64fad3fdd607949ee36974402b7751cc7a81eb5026ec92818
+drugabuse.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. mrDDIk3gmLMxmMt+2VO3qRK5Q4ekVEawJffBmTezqCOMpg9yLVrlmgtTIba/t/Mk62AVN8295RtE2O1B/vOIyMj+ExxD7kjvhPFzxg86UPL1yg+6fEmh4lTfPfN7rRxq7yuBeYwlVOSBKRQNUwqFu8fB/lJTnPTR0FTFHfSzm4Q=
+ns.nih.gov.	86400	IN	A	128.231.128.251
+ns.nih.gov.	86400	IN	AAAA	2607:f220:404:101::80e7:80fb
+ns2.nih.gov.	86400	IN	A	128.231.64.1
+ns2.nih.gov.	86400	IN	AAAA	2607:f220:418:4101::80e7:401
+ns3.nih.gov.	86400	IN	A	165.112.4.230
+ns3.nih.gov.	86400	IN	AAAA	2607:f220:402:1801::a570:4e6

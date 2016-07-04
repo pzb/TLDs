@@ -1,0 +1,4 @@
+lyndonks.gov.	86400	IN	NS	ns1.avenet.net.
+lyndonks.gov.	86400	IN	NS	ns2.avenet.net.
+s4ljii0o4tgtmj8js3c4lot27rf4qmer.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. BWXDDnqatZdmVbIb8NEZcRT09HWPCqWA/A7xZ5moSP0NRWAzXiAMJRD+12BmVvWTSbkKIESSvXTlFjBzdah/M3DIw8d5KCrfMmY2qbza6qXFgVZegHjJtH5Sod0qGy7a9/350TPWy98Dz4BhxV5At9rMW85tcD8b/Z+1qtVPWmY=
+s4ljii0o4tgtmj8js3c4lot27rf4qmer.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  s5f9r1b2jed9rgqikeghu8kccmme3mhd NS 

@@ -1,0 +1,4 @@
+8m72ojtmunpuv7tt7g58klfd32vjlgdu.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. qhUCjdJuUyoKrnIULl1cwk+hI1A34TOQOg6RW1u7LVf3YW4BARHbYVByNMnICq5+xa8Xx7BiqdNRDH8BLBugxj315Bhk9Ds+sirScngNnodC1KFFbNx8AGwdb0HSaQDQH61L0G8C2uaVbcM4SYGsMAfDdc+xSBWmhx8iUhQGEls=
+8m72ojtmunpuv7tt7g58klfd32vjlgdu.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8m8hidem0ndg804ll66b37ehkgepuj8a NS 
+rosebudsiouxtribe-nsn.gov.	86400	IN	NS	ns0.wixdns.net.
+rosebudsiouxtribe-nsn.gov.	86400	IN	NS	ns1.wixdns.net.

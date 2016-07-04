@@ -1,0 +1,4 @@
+arlingtonma.gov.	86400	IN	NS	ns1.connactivity.com.
+arlingtonma.gov.	86400	IN	NS	ns2.connactivity.com.
+qofko342heuqivlod6vqpvhoc0ace1fv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wvcLPewfnD0v82qoHbMEtj5Q/V+icQris+LvN1PP0LrhCVpWy/HBy8/wQek4lPD6rOw7fbH3Ul6FPncmPIzOvglgezRLOrXDvqLqTgoD/xxaI2QqwQqaeLo41EAN/XZhuJLm2SvadZMR2fZproPn+s/ZgOw2jn/SyVux2o3Bh4c=
+qofko342heuqivlod6vqpvhoc0ace1fv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qofqj60q3pubtbs1uur2ebmlrjr7547m NS 

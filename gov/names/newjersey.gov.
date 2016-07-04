@@ -1,0 +1,4 @@
+1fcu4o1khlh6bevkat928dm40jqrve7s.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. KGaAZDpCZ0d90vmomFrutbvOAUuzt2/rf5PKiWRShy2WZ5gwuQZ7io8/7f3D99v3rZSrKf/2Jc6q+s745dohGz3Zk1+V0F77TXkRS+B+fC27cbcrdAsGkCtC/nwV6/0IjM6byKMVtASdZIWMO29nffV/Gb3myf8/hCvQ1My+BKM=
+1fcu4o1khlh6bevkat928dm40jqrve7s.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1ffkp1gqd94ikocdsu884mau4b8l9uh1 NS 
+newjersey.gov.	86400	IN	NS	ns1.state.nj.us.
+newjersey.gov.	86400	IN	NS	ns2.state.nj.us.

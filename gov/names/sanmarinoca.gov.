@@ -1,0 +1,4 @@
+sanmarinoca.gov.	86400	IN	NS	ns8.zoneedit.com.
+sanmarinoca.gov.	86400	IN	NS	ns9.zoneedit.com.
+um0a2lnivb17c0aqnu0k22mjjt36o7se.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. dJO2B4c2LXL1eAqTAHjoOOl5kZbFgHcFmbfzY2Fw9uY+CSXqb75PZ95T67qD5JF65RgzdMk1nedwGAruj0EzpzUN0LM9wGTnLJ3UTI+S77301q5ftReuZ2AMXPzHyTW0cjYxzLgSzClCWP7IqxsDOGtg9Z/ZPXCE/1UR3ASVvwg=
+um0a2lnivb17c0aqnu0k22mjjt36o7se.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  um23ibf8bor3ui9rnfo7135vodlh6cfv NS 

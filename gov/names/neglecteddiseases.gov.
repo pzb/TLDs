@@ -1,0 +1,11 @@
+neglecteddiseases.gov.	86400	IN	NS	ns1.terrenap.net.
+neglecteddiseases.gov.	86400	IN	NS	ns2.terrenap.net.
+neglecteddiseases.gov.	86400	IN	NS	ns05.usaid.gov.
+neglecteddiseases.gov.	86400	IN	NS	ns06.usaid.gov.
+neglecteddiseases.gov.	3600	IN	DS	7780 8 1 a3d7607719ce30f6ef03b398d3a2f955d821b67f
+neglecteddiseases.gov.	3600	IN	DS	7780 8 2 241b84652ceee420863c93b97cff7dc501cb1fa64782dac69e0999f8bb426d11
+neglecteddiseases.gov.	3600	IN	DS	41227 8 1 523b27f06cba737ba93082b089c0e45e025f3273
+neglecteddiseases.gov.	3600	IN	DS	41227 8 2 f2894b6dd9930520916bc7fa94b1f0dacf9a215e15fd54299aadb741e4b6efcc
+neglecteddiseases.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. aY13DnAWasq/VXGjsa3YS/Kug95vz3aRnSsFh3WSzRt4U+Zeh8i8xlGYmFDiSOBjd9FcQkuj4U5uw/bC1Gi4PX97XrLDp+zADpCVJ9wCp57ELF7vTLbtP0N6be1PNjDCCpZ5N06euopPRdYRF3dJC86U/LnonqLq3Yuc6jVhb+M=
+ns05.usaid.gov.	86400	IN	A	12.14.13.231
+ns06.usaid.gov.	86400	IN	A	12.14.13.170

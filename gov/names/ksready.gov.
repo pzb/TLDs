@@ -1,0 +1,4 @@
+c7kajam498gp25uae47s99ie83t3ausm.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. FR/a1y9T0md8UD5VKvmlE4uyIu7pj9JMcV0M2YGRvHBG6Ycgv2LKKMEwguTH9YmsUDAL2qifR/77Th6KVl98pVWx65BImt4hkCD1qX/SMgt6v08JwPx8xj5oVicLwB9JA5ZhGsp4FJEGkuFfuoLVn56yf6ZHbMcD0njjqQaawbY=
+c7kajam498gp25uae47s99ie83t3ausm.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  c7mkueoh2rs862mc75setbha6gtl2r8k NS 
+ksready.gov.	86400	IN	NS	ns1.ksdoim.com.
+ksready.gov.	86400	IN	NS	ns2.ksdoim.com.

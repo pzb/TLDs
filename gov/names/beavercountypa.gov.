@@ -1,0 +1,4 @@
+beavercountypa.gov.	86400	IN	NS	ns2.zoneedit.com.
+beavercountypa.gov.	86400	IN	NS	ns4.zoneedit.com.
+l2k5qqecraduo1ae38vqjv7bd8hdmp51.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Lpu8wrbHn19tV8bvZE8i2Ot7PYS1Z5TtdiDuhKF3kdUxwyY8XDlvf7Q3whMF7zgiBaZnXHGbdjKjWCnLTj4zYiyEA2nE/o3xygx+F2Ae8GIaJMtbHBkgEQbAz0cYJDzoxO8mNvWZu0eJh/z9stKqrA4FPY7c7EZJy9KYb/Fyhic=
+l2k5qqecraduo1ae38vqjv7bd8hdmp51.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  l2nli1l4sraffra4bbuo8mdu69phmr2c NS 

@@ -1,0 +1,6 @@
+usint.gov.	86400	IN	NS	authns1.centurylink.net.
+usint.gov.	86400	IN	NS	authns2.centurylink.net.
+usint.gov.	86400	IN	NS	tpsns11.terrenap.net.
+usint.gov.	86400	IN	NS	tpsns12.terrenap.net.
+usint.gov.	3600	IN	DS	62868 7 1 2d8c1eb443c1fc85d708275d2707253418bae644
+usint.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. qWKqvLfQTWtq0y+Luw+B8v8fHLXa4ust0imAaWSDg/1142hPOZyFKQ/eJG45MZu7JQBQ8qqySWf63BlRiXcx5u/kpHHwnnRxRbUODCo852ztDh5nGFLH6+wkoYinb9Ka0gv9YJAjLMyHBUJJHWocnA03rcqHEKEb5vQI7eiXUWk=

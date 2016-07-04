@@ -1,0 +1,8 @@
+e2okkcaoehrnu0lmopddog6n6ejddt9p.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. IKQXKd+3EwqxnEqOQ1QURzAMxaWvkhxCF2d5zt4ph4D2Df3DuKWFoxIQNDJ4iWjBTN2XIlN838p0Jh1ODDgb1AMP3yhlyvrqqqE9t75Qgfuo+t/MDLNPaXgRBgNjFh8tuHqoWrzPZCYyU7psT8yE6yA1RhWC4SJ4BlFN55Ibskg=
+e2okkcaoehrnu0lmopddog6n6ejddt9p.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  e2s2hg9csar1r1u768fkn792ikpu85hc NS 
+waterfordmi.gov.	86400	IN	NS	ns.waterfordmi.gov.
+waterfordmi.gov.	86400	IN	NS	ns2.waterfordmi.gov.
+waterfordmi.gov.	86400	IN	NS	pdns07.domaincontrol.com.
+waterfordmi.gov.	86400	IN	NS	pdns08.domaincontrol.com.
+ns.waterfordmi.gov.	86400	IN	A	198.111.163.198
+ns2.waterfordmi.gov.	86400	IN	A	198.111.163.199

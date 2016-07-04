@@ -1,0 +1,6 @@
+bothellwa.gov.	86400	IN	NS	ns-49.awsdns-06.com.
+bothellwa.gov.	86400	IN	NS	ns-866.awsdns-44.net.
+bothellwa.gov.	86400	IN	NS	ns-1505.awsdns-60.org.
+bothellwa.gov.	86400	IN	NS	ns-1717.awsdns-22.co.uk.
+k6qfv3fgugjhcpkks61ua63kgm745nks.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Huqj9llfG/iGTHoMVEjSi8PWxExMCeaRlEelXE5avmuptAOx1WEoMx9UhHbj4icf6qvjCnDcEhH0hitB4H+n719IrmeVdhn5+JYisqqae5jncZBI4tuHar13uYt8uLbk9WOfS8DzvhsGUa8H6SlUp2cP7sbh0vSkL2Mzr1HEyMo=
+k6qfv3fgugjhcpkks61ua63kgm745nks.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  k6sbj7afjti0o288grp0dgodveffo0qh NS 

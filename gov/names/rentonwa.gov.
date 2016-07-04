@@ -1,0 +1,6 @@
+p22eign9t9tbqcbshc9ti8kl4ahmkf6s.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. TUBrtMrF59DRXOSbpZK2xD8uDmwXstlkRTAiOClYszjLVhHzPeO7jvi5dfaqbJrtC0ncR1rAPx/9iqbbE3rEaRcWmnZzv8zIbDu7IR3AMrwLfGiQgScZuydf4iCaTs4QjIV0Oe3uPEu2nW4xBfyjcW1g6xdQzkPyaPRlQAUYaCw=
+p22eign9t9tbqcbshc9ti8kl4ahmkf6s.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  p24i1vrbo52d4fc36n8virh0ki8cmrif NS 
+rentonwa.gov.	86400	IN	NS	ns1.rentonwa.gov.
+rentonwa.gov.	86400	IN	NS	ns2.rentonwa.gov.
+ns1.rentonwa.gov.	86400	IN	A	146.129.243.130
+ns2.rentonwa.gov.	86400	IN	A	65.102.132.205

@@ -1,0 +1,4 @@
+cityofnovi-mi.gov.	86400	IN	NS	udns1.ultradns.net.
+cityofnovi-mi.gov.	86400	IN	NS	udns2.ultradns.net.
+hqt2v4nls3rinqobjckpi06h88utvimd.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. thtpHlagTBM4CMIQTG5jogMv38vC5O1xtRY9Iil24HMAyFlvSCDRVDxQgavbkrnrDLgr52k31rkK7OWiV+pRxEUrz8jVCQe+FoJYq99eVKDZgl74SJsPe64XV4LEFQBU0CVJo73HtlT/2KPOfsyuOywIsX68CyyGb4N1s1rQ2Tw=
+hqt2v4nls3rinqobjckpi06h88utvimd.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  hqvattkjss18tv7gbirkf9hb5b9lo3u8 NS 

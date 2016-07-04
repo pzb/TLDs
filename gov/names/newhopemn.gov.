@@ -1,0 +1,5 @@
+ls0n58ungv6blmdsia136jglh603n2jo.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. AUy3ja+olr2te/l7wVoXWzv6pmXqunzfD0J156E14kEQQgwIXVbJubYkNj81oiOUrcyzZ+jVOyoG7RSHyHSEMH7YZH9IiI+YA/GD9tBXtrATbM5EYqdn6WBJCbaFPLkmpWXtV53xoms2DBUM7GjqSjjLbeUnQ0Ubgid8ItCb/KY=
+ls0n58ungv6blmdsia136jglh603n2jo.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ls97m7gg5rhfpe07k6m45oirhqq7q000 NS 
+newhopemn.gov.	86400	IN	NS	ns1.state.mn.us.
+newhopemn.gov.	86400	IN	NS	ns2.state.mn.us.
+newhopemn.gov.	86400	IN	NS	ns3.state.mn.us.

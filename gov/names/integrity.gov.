@@ -1,0 +1,9 @@
+integrity.gov.	86400	IN	NS	ns2.nitc.usda.gov.
+integrity.gov.	86400	IN	NS	ns3.han.nitc.usda.gov.
+integrity.gov.	86400	IN	NS	ns4.han.nitc.usda.gov.
+integrity.gov.	3600	IN	DS	23334 10 1 36b9af741d858bc873e9c0b26336f7148b71061c
+integrity.gov.	3600	IN	DS	23334 10 2 f06579d87a386d5cb445a3846531228122fe7dd43c4afa8392de5d7f2bfd88a5
+integrity.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. MTbECEAwVv2+CkVBSxROxtdDEkCT96ioXmChunj3uL/OnbspcK1M/sEx0rBv/tvHPWeO9gtZzdlNHdXtwp+98Tn4QpkGrep9uEv4ILVWavBiZbvfWGeKVhgyXKnEDvqs39Vm6olIBseFRzrtwzR3DmJVKAqyRuyPx2Ww7a4yv8I=
+ns3.han.nitc.usda.gov.	86400	IN	A	199.134.208.70
+ns4.han.nitc.usda.gov.	86400	IN	A	199.134.208.90
+ns2.nitc.usda.gov.	86400	IN	A	199.134.227.132

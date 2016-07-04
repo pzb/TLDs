@@ -1,0 +1,4 @@
+beac.int.	86400	IN	NS	iri.beac.int.
+beac.int.	86400	IN	NS	kombo.beac.int.
+iri.beac.int.	86400	IN	A	195.24.202.250
+kombo.beac.int.	86400	IN	A	195.24.202.218

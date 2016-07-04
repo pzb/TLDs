@@ -1,0 +1,4 @@
+1rlivoe0s8gpvpcb4cp44gci4fht43lg.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. KHeLMMVXv6mfbnRrPqYOZPwAQ026twz2bOGEWVMOX77JunVuFYocwwYqOC38Pu02989WTOpOeQJBqIBxe8D9pdC7sfJRpugFfJrmZm1tGefS58587GDXt9tvilBmKTdJdOURrGklFa9qIcOjroAtI0jKuMoA0HGGDr8WGdKVrq4=
+1rlivoe0s8gpvpcb4cp44gci4fht43lg.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1rnfc91sa3lg79156hne4cs3975je9g0 NS 
+arkansascityks.gov.	86400	IN	NS	ns1.softlayer.com.
+arkansascityks.gov.	86400	IN	NS	ns2.softlayer.com.

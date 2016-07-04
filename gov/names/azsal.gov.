@@ -1,0 +1,8 @@
+4gibhol74jq8mrbr50acj2bhbbl7m3a4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. k0p3ycZr3S1lRaSzJHKzrq5K9xg6H59SC69P+czw3GzDtpPRQxRMA0zkGHiTUC5i/wjspFqGiuD3qUzy1vUnVnvb/G6aJjBCMreZSjcuPAMECKiCtcLM6KAa5pcd/5F+jizFzfDeFOXpWYr+iEBuSZwubMsaYzHdVRis5ZxXWqM=
+4gibhol74jq8mrbr50acj2bhbbl7m3a4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4gjs679c529j5uohc6r0gogbhamuvp3a NS 
+azsal.gov.	86400	IN	NS	email.state.az.us.
+azsal.gov.	86400	IN	NS	gopher.state.az.us.
+azsal.gov.	86400	IN	NS	ns-116.awsdns-14.com.
+azsal.gov.	86400	IN	NS	ns-814.awsdns-37.net.
+azsal.gov.	86400	IN	NS	ns-1167.awsdns-17.org.
+azsal.gov.	86400	IN	NS	ns-2015.awsdns-59.co.uk.

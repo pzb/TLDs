@@ -1,0 +1,7 @@
+arnnsahslpdns1.nga.mil.	21600	IN	A	207.132.76.145
+ndedaa175rdns01.nga.mil.	21600	IN	A	214.28.253.19
+nima.mil.	21600	IN	NS	arnnsahslpdns1.nga.mil.
+nima.mil.	21600	IN	NS	ndedaa175rdns01.nga.mil.
+nima.mil.	10800	IN	DS	39250 8 1 8076df425d5dbc9f54d3b17e13ddc17c680a27c1
+nima.mil.	10800	IN	DS	39250 8 2 2da631a82dd9abac6113966a9c8560a2cf75ab7e12f59cc3ecfdd5e0fe2faaa3
+nima.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. Sp/UtuI88+c+R5r6KKKA16y1Sr9DTpu+vzRVltJJUpoDq3RfOvftJnXTcohEH+CvLwbQ8EZMTvzwiWTEbvJxoQkf+Zo4tdGQm/EXozM6DSMjF50RLeTcXSu6A2BFvFQSB4NhpwcBTfWohaQEMgc7xcJor7HCWaauTMMPihw3IndEFuQ=

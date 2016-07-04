@@ -1,0 +1,6 @@
+bendoregon.gov.	86400	IN	NS	ns1.p07.dynect.net.
+bendoregon.gov.	86400	IN	NS	ns2.p07.dynect.net.
+bendoregon.gov.	86400	IN	NS	ns3.p07.dynect.net.
+bendoregon.gov.	86400	IN	NS	ns4.p07.dynect.net.
+j3bmc9naoigfa919ojahbrbroi0msun4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. xJ6HHcX2zVY6DldzB1VG9I0Q/YEUddRrlrxQlCH++QSslOxB5jqtw1lujDZR0JNu+Ciygst4f6H3taq2HUEYjjkdbP9+HXFlADDc62WhEJ7UTgI745wAE3/ikac0ddRPrw44UjzqfquXS+n6TSepS9OqYkZXnJt1cx19PD/rrbo=
+j3bmc9naoigfa919ojahbrbroi0msun4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  j3c39aqsjsi8r1m2jl0d9utomac8qiha NS 

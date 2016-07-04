@@ -1,0 +1,4 @@
+boid53j7iuu214tjukpu0rpat6tqrlvo.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. AmYeyyk3dQTnRUIRTXdT/Z3L0Uhpe1FknxFfCj3oo5fucSvH4llDeTKqvw/YSXGnMs7iZUH8ondQmvk+5xhCeszjO32gN9Dtw6+Z2oJFkZ+ighRSE3+8A0Xedn9WIHZg2bMqow6CzN21ck94FeqHyOgVstiw8hL28GF7ozE597E=
+boid53j7iuu214tjukpu0rpat6tqrlvo.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  boncb3a4oom34kjqp7csipcvbdd691fi NS 
+dicksoncountytn.gov.	86400	IN	NS	dns1.lgdpc.com.
+dicksoncountytn.gov.	86400	IN	NS	dns2.lgdpc.com.

@@ -1,0 +1,4 @@
+decaturil.gov.	86400	IN	NS	ns1.illinois.net.
+decaturil.gov.	86400	IN	NS	ns2.illinois.net.
+h8pu1a2es1ij3vbftk3aq9a40i2ciole.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. rLZOBP4rvB7mR8zAdlXUym0hIHWU4qcr1Bv1Rj/lj77gsXy5XKUvDOstcQ31XjkMQ5PRcCj+2/SLz21HXWxfnwez+6Csd7lMPRC/FDCudueqR50lB9ycWanzZx7y8hC5uQtRN1OY9A20WaKOMYzycItvD9TP4KkFSSVwRN5shJs=
+h8pu1a2es1ij3vbftk3aq9a40i2ciole.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  h8slufmqf9bsbtlgq1ouc5f9gorlu1pv NS 

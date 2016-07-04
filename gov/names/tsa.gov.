@@ -1,0 +1,12 @@
+tsa.gov.	86400	IN	NS	eur2.akam.net.
+tsa.gov.	86400	IN	NS	eur5.akam.net.
+tsa.gov.	86400	IN	NS	use2.akam.net.
+tsa.gov.	86400	IN	NS	use5.akam.net.
+tsa.gov.	86400	IN	NS	usw4.akam.net.
+tsa.gov.	86400	IN	NS	ns1-46.akam.net.
+tsa.gov.	86400	IN	NS	ns1-96.akam.net.
+tsa.gov.	3600	IN	DS	13744 8 1 37112639452061844cf4dcf1c2b90d8e02ad2282
+tsa.gov.	3600	IN	DS	13744 8 2 56ce9d408b6439027ebbdd1b90fb082d8721eea7958342ba3225e0e0eb203c6f
+tsa.gov.	3600	IN	DS	35789 8 1 7fc999e5dd15341a59eefbcec69c46d6f66ec79c
+tsa.gov.	3600	IN	DS	35789 8 2 3277afba30a8b5ea8d08b081104e087454b3d9a6f22ceab13d19f10ce0563413
+tsa.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. utfTxBBaQveeUVfeul26pHsV1a+6snxAVbx6kH03BkZm/ikOxq24ybn/M3h951355fQ6j5KsOmxQ1snr1uPoJYw+zBD45ocnCpqkRzkzpyMKCFPP/NIg8rkqF7+fJDAH4YzS30A68oH3HdoFhv+l+r/WMnFEmUT0fKfQnn9J3EQ=

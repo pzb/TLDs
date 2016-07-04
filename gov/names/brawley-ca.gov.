@@ -1,0 +1,4 @@
+99u86le6u63rr27svp4t623bjvvaqo6o.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. r1bTku8AKrqpRaD0uGVoFfaLHni1Yy11v4igZoa7M+Wyl0xwTYqvivTS3tyE3zS5S6HLPH9v3IQ+N8L6vOlQReoBFj6mMH85UPjlVq+iddye4hkws6qqx/NBrVWud/SDZkF6+3Gk1rYK1c1nPbv+2jsNUajz03cZC1Bns0SZYYU=
+99u86le6u63rr27svp4t623bjvvaqo6o.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9a2g6lqj731h70t9n6tdjidt2pf4pkfb NS 
+brawley-ca.gov.	86400	IN	NS	ns1.icoenet.org.
+brawley-ca.gov.	86400	IN	NS	ns2.icoenet.org.

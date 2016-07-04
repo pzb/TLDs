@@ -1,0 +1,9 @@
+ns1.gpo.gov.	86400	IN	A	162.140.64.100
+ns2.gpo.gov.	86400	IN	A	162.140.252.180
+usgovernmentmanual.gov.	86400	IN	NS	ns1.gpo.gov.
+usgovernmentmanual.gov.	86400	IN	NS	ns2.gpo.gov.
+usgovernmentmanual.gov.	3600	IN	DS	7594 8 1 1adf1be6d495c24f3d7bf6c167cf2a394b9e31b1
+usgovernmentmanual.gov.	3600	IN	DS	7594 8 2 cfe41aad5448a2d267a3b2744300a8edd94b84993c897ca9621c70ec76641a50
+usgovernmentmanual.gov.	3600	IN	DS	30592 8 1 d3fb0565eb933486f23700c59c93f7259eda03f0
+usgovernmentmanual.gov.	3600	IN	DS	30592 8 2 3ef01d2e6b0669d6f6fde5d3cb9e430db298896eb707bd13d37bacf3c4dbb2de
+usgovernmentmanual.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Qy4WIOATRVF2CNDHhhGuCCffqew7dzWWmwerC6Rg2Lk8dKkGE/zdPXDKa/mruUzOA/reIhCeTjJM1NrJ2TWkk2MsHPOn+agio3WXqWeM824XfThA+X+YcYk2CmIAy4tiSEa3HNUPSVZOAKFl7FPXOdyjW2mrqnypLY0mAunzUyM=

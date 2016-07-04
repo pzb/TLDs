@@ -1,0 +1,4 @@
+5pmj81hiffud0fun9odbtrlv5ft9q0ee.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. sHbLEHynJ+J+Az3AEuYHB6hFZOnSMwhUImiAFQF77w3dj3zreXbus9URKz+RlZJYxyUb0r77j7C0/ghQ5Jf8uCqeXYcRBKuNRU1ira/tI0tRiHlBjBFPqcDGgdbdTqx76CTwqHOHijqFb+rW+Po6Apj/gzrZSe9zxR65IRviGts=
+5pmj81hiffud0fun9odbtrlv5ft9q0ee.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5preq8iq2tei7rs39pfrbu0so3b8elq1 NS 
+pikevilleky.gov.	86400	IN	NS	mns01.domaincontrol.com.
+pikevilleky.gov.	86400	IN	NS	mns02.domaincontrol.com.

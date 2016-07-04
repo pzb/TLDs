@@ -1,0 +1,4 @@
+4np646hrangqaab2n15d5n97a02vua55.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. byK5a/vew1Q0PYKGtLoUOpEU63zAvRtCFDz37m389ASa6ebluvQkGf9G6E+/Ym+NzKlu/MWfpoifDHWoInC55ont8AFMzFYAJLD3URYKpIDgrMbSEFWmaXQSTT6SAdI+AjyVSA7qve8i6XiGMb9HEUa0ZEuhQEbT9T7d9EKVwmw=
+4np646hrangqaab2n15d5n97a02vua55.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4o68mv5hss5r0ge2b2k3jr39oqvced26 NS 
+poplarbluff-mo.gov.	86400	IN	NS	dns1.civicplus.com.
+poplarbluff-mo.gov.	86400	IN	NS	dns2.civicplus.com.

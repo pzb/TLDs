@@ -1,0 +1,5 @@
+j2tqngq1vc1ti33mne4lg9i5l5ft9c3r.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. rMyvYpTpoDudnlPIxdFfuANMsiZ1PLeK7r4YTMhefcSam4J8Ows3/C6e1VsJmWDojf1ENU7o4DrikkJnv/kWYTvdRKVOxmXgi7uhsTsPoag7LWJCzMuNs4BpgCq6XFddv7Vc1K/P4aR/CEbC9V7k/6UcyoOW55n9uRXu3Et2O9I=
+j2tqngq1vc1ti33mne4lg9i5l5ft9c3r.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  j37lhab0hu8gptctaddds2r990nvbj7i NS 
+myin.gov.	86400	IN	NS	ns1.ai.org.
+myin.gov.	86400	IN	NS	ns2.ai.org.
+myin.gov.	86400	IN	NS	washington.ind.net.

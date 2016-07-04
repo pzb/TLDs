@@ -1,0 +1,4 @@
+528u3edjpka8q07ji8nhrjcfgrl7hgj6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fayHhfe6EChuzWyCZ91CaLVNonIMp8DPcuwanTHkUrbM5i7iwBcl7+JnXisDAricFfvgzQZAdSzcfaZqM0WyeOF8CQ5mUu2jvtyaSfb0gVjhSxLkObJqUvaV1EQQbceN1bP7brQeT4qGblDYq62Vvbp4na4IFGAvHCvk04QOz/8=
+528u3edjpka8q07ji8nhrjcfgrl7hgj6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  52ccsdlddeb30cmonhncke7r73tqha68 NS 
+bountifulutah.gov.	86400	IN	NS	ns.integraonline.com.
+bountifulutah.gov.	86400	IN	NS	ns2.integraonline.com.

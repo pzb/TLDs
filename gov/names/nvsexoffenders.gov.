@@ -1,0 +1,5 @@
+0uq586kjpu2qqtd6psb01n961ls9i2n7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. TbSR7fIqfU+UDISQJre5ejqDK0kqgs7bxbpiIWj1OolksOZGFugEYUQB/OgBE45Vgcoamg7QI8ib1sqpjX58tIueDnjR+uvv9Atb+uysDwpWmlGA7thNVBLXHM3dyn/Sl5RDv9Gy5r0Epvi2+IPVzNuKlonBozh3WF9HdU6OAg4=
+0uq586kjpu2qqtd6psb01n961ls9i2n7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0uuvq29ea50k42spe5o5797m9hltco0p NS 
+nvsexoffenders.gov.	86400	IN	NS	ns1.state.nv.us.
+nvsexoffenders.gov.	86400	IN	NS	ns2.state.nv.us.
+nvsexoffenders.gov.	86400	IN	NS	ns3.state.nv.us.

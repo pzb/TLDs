@@ -1,0 +1,6 @@
+l7omv05tq84dj04lihilktcifavav2c3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. DxuAX4KDotQke6cfAARjrGLDmTX6UbHpdlXsfCUl4YOuQs62iopTxQLeVZ9z2VQWKVYk2IBX7O/5U1G/LMEniGX82Yn6X1vr5jLumsZ7Oc2uJrCBn6+U2CGl7uITrlq3MKBrdrGL0j7iRclh5RWBLBcA/B3jjWTSuw7A0+Q8sKE=
+l7omv05tq84dj04lihilktcifavav2c3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  l80pbprg2ilr5doo2g9o53oftpjtgp65 NS 
+dns4.tn.gov.	86400	IN	A	170.142.92.58
+dns5.tn.gov.	86400	IN	A	170.141.168.22
+tncollegeadviser.gov.	86400	IN	NS	dns4.tn.gov.
+tncollegeadviser.gov.	86400	IN	NS	dns5.tn.gov.

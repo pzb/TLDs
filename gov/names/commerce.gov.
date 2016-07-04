@@ -1,0 +1,11 @@
+commerce.gov.	86400	IN	NS	dnssec7.datamtn.com.
+commerce.gov.	86400	IN	NS	dnssec9.datamtn.com.
+commerce.gov.	86400	IN	NS	gpaens2.doc.gov.
+commerce.gov.	86400	IN	NS	dnssec10.datamtn.com.
+commerce.gov.	86400	IN	NS	dnssec11.datamtn.com.
+commerce.gov.	86400	IN	NS	hchbens1.doc.gov.
+commerce.gov.	3600	IN	DS	51607 8 1 a5b3b240bf017c9c91d70478ce102c1030bb6b38
+commerce.gov.	3600	IN	DS	51607 8 2 59d039bf0233c6d7e440659cb42772227d23beb8354006c4f8dbe742342c335d
+commerce.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. V3J80ccCxDmTRDmJOeKPHcKVkB4TGDOXXN6HaB1jnTuzrwqm9AV1bO56PJHVA0QtbFa0P0xSEYuv2jKL7jIwEvbRSLEhbyq1uVtDRWD4uGE18zxtdtZGk6sN37wJqArP73GV5n71orI9x0XM12vJUdrDaUu5XkIvtkoX3PfrEoo=
+gpaens2.doc.gov.	86400	IN	A	170.110.225.13
+hchbens1.doc.gov.	86400	IN	A	170.110.225.11

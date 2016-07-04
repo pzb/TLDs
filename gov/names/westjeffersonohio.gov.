@@ -1,0 +1,4 @@
+0f5vk7dq93pmf47qodm0l2p896e5s3pj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. RqmILUMObvao70rxj0J77nzR1/EgCfxZ1IkecT0XTISaneKBx1NuilYfvrmpQ2Pz7Q/n3tE5GTF/pg6h2sVFE8efIf9zj4l2OLfXNgr9OpGJkexwCXfZUgvK1lRmD9tS7iXc1svDBuw5TWY0yRxkO0JnvsjT6Bz7k/MXyz4ruAg=
+0f5vk7dq93pmf47qodm0l2p896e5s3pj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0fc2hqphcqplt1709vm549ln7abhr1i7 NS 
+westjeffersonohio.gov.	86400	IN	NS	ns0.wixdns.net.
+westjeffersonohio.gov.	86400	IN	NS	ns1.wixdns.net.

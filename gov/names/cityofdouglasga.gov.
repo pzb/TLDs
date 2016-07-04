@@ -1,0 +1,4 @@
+cityofdouglasga.gov.	86400	IN	NS	ns1.davidsheffield.org.
+cityofdouglasga.gov.	86400	IN	NS	ns2.davidsheffield.org.
+kqqis9m192khsihma2ci53dl8og52m4v.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. uVurEdOMY0EERA+uOrUHOQbijQv/QsNrBXfKQZVLyCZqSEa9HMKnACPKgsNhJjdQbMU/R4G3B/RfDP8lO25cq+OhlJ9RJGvpbNOx1CGtiiTSQpGbCc7JaC8dKSTxOC9Uh7u5yJaAqyw/mJANJtW0R7nH5C1E8NR5H6UzaerV87E=
+kqqis9m192khsihma2ci53dl8og52m4v.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kravdi7occ5qiu0l8v9v4a7te812o09l NS 

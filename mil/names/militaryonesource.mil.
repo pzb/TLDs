@@ -1,0 +1,15 @@
+ns.cybercom.mil.	21600	IN	A	131.77.60.235
+ns1.csd.disa.mil.	21600	IN	A	152.229.110.235
+utindo02.csd.disa.mil.	21600	IN	A	152.229.110.236
+guv10m01.mont.disa.mil.	21600	IN	A	214.3.160.20
+guv10m02.mont.disa.mil.	21600	IN	A	214.3.160.21
+ns.jtfgno.mil.	21600	IN	A	214.3.125.231
+militaryonesource.mil.	21600	IN	NS	ns.jtfgno.mil.
+militaryonesource.mil.	21600	IN	NS	ns.cybercom.mil.
+militaryonesource.mil.	21600	IN	NS	ns1.csd.disa.mil.
+militaryonesource.mil.	21600	IN	NS	guv10m01.mont.disa.mil.
+militaryonesource.mil.	21600	IN	NS	guv10m02.mont.disa.mil.
+militaryonesource.mil.	21600	IN	NS	utindo02.csd.disa.mil.
+militaryonesource.mil.	10800	IN	DS	48484 8 1 a46faa8543225daab3535cbca2cb41f9ae16c27e
+militaryonesource.mil.	10800	IN	DS	48484 8 2 f37a1c7bb88a703f268df1c782825d18876d85d4da5f111b0aa512dc6bd138f6
+militaryonesource.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. qIfKhJpZq22LVUcv9yBYIYfO1n6YMFtmw3d1DwEDcsBocLSuZk7jONLIJD8yKUhFL28/2JjxkbbXBMhpCo/rQHKzWjiY6D2bdU8KukxdaoaZngLFykXlCVtOysyTuNdrLyqlI+LgBI4jWPpqSdqJ7AUDagYhdSxvhwM+8hzsghfUyuE=

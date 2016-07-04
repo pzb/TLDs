@@ -1,0 +1,7 @@
+ns1.iowa.gov.	86400	IN	A	165.206.254.145
+ns3.iowa.gov.	86400	IN	A	209.56.120.13
+iowaforms.gov.	86400	IN	NS	dns.iowaccess.org.
+iowaforms.gov.	86400	IN	NS	ns1.iowa.gov.
+iowaforms.gov.	86400	IN	NS	ns3.iowa.gov.
+sei31t6ptj1afg93lcncinjmkq4imf0o.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. bWFajw7OSMLMQdChyqyibZJAa5gn4F27WUQrQ60s5IV3KCFF1Lx3WZoXZCdX8oB0MIF1I7aHtTo3V8bgl0NGgfmLn10ObHd/K7kiz7ZKpF5toSVZDExGEkgl6QmHJJvZOnGmfQPtNFpG8d+4E0RCLDE3vY5M088baZaWLJgp8mI=
+sei31t6ptj1afg93lcncinjmkq4imf0o.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  semr97rct7bmvi30vkok6s98de37vihv NS 

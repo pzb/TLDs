@@ -1,0 +1,6 @@
+familyresourceaz.gov.	86400	IN	NS	ns-9.awsdns-01.com.
+familyresourceaz.gov.	86400	IN	NS	ns-965.awsdns-56.net.
+familyresourceaz.gov.	86400	IN	NS	ns-1302.awsdns-34.org.
+familyresourceaz.gov.	86400	IN	NS	ns-1674.awsdns-17.co.uk.
+lik8j63c5l0avgl1s99u8jt5usnehojs.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. QIadGQZMuj0V8mJAoaL3Q1ZAED7vBJ8CX0Noodv+QB7QIO2z0QqnDGWyevatfHHj32cNN3umvLqKArXfSVTEZ3qKLcokbmNfSCJ3re5FgfQ7ct+iJkHbLD+XWcM/C3MhgK12p57vAxPuHKuu72c7xyJSTvMCzK/636ksFyPlajY=
+lik8j63c5l0avgl1s99u8jt5usnehojs.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  lintdjiu2kt7mjcb1gmgu7vqbeaqrll0 NS 

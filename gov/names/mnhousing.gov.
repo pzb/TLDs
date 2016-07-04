@@ -1,0 +1,4 @@
+ch8ulb56slenbbomvhcaoiv3cd19sdt2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. GSiCSIhgkMnjCuXlQfcrjQWevo+yw6jeWKtMP871EoFMmDOntvFsFGUhSOBXFBzQKTpNSAHVVsPxldk+VT2kJWjPlAF6T5p4gY1dXkiSOLTzL7g4CPbRREJb7cyyIDSwDiU7kvnq3ZXOB8p7sfJMvqNTsvhzgMQRJF8BQWPokCI=
+ch8ulb56slenbbomvhcaoiv3cd19sdt2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ch9gtnae77tlsilb5ivsn08aioh9v103 NS 
+mnhousing.gov.	86400	IN	NS	ns1.state.mn.us.
+mnhousing.gov.	86400	IN	NS	ns2.state.mn.us.

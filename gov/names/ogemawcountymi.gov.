@@ -1,0 +1,4 @@
+ogemawcountymi.gov.	86400	IN	NS	oc1.greyhousemedia.com.
+ogemawcountymi.gov.	86400	IN	NS	oc2.greyhousemedia.com.
+ph4or44ukjkg2rlit6661d94o3ukv3c7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. FvrAzvlRAD32af1ToVGF7hPNeoCJtzrgmyxJqzKfbWZ8mWNoy/EqHjjStDtON0k7NmGA0pc0wWrRjNXlQr/reuF2SOdMF3SXvPdgYKzwL6/sLOgZe+PqnnxVtb5S9qK2mNoaQBOUsBER5NMI5hy4h5TGKt33EZJxFh0KhdJgfd8=
+ph4or44ukjkg2rlit6661d94o3ukv3c7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ph588o9ibmonl53o1e84acvbi1op19iv NS 

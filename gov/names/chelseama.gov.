@@ -1,0 +1,4 @@
+11ets7qiv7rmgl503kgv1kd4uvnqo99c.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. g9iG+Y9detpopPVPWcFhb5lzmNu7OkHYIKWh7/kGX7ddeJgTGnL+dYavbBSuZ/6JEKX1cVoPWfromz9FgtRCqVGs6hnPJ6WEweXj2ZRzKy7l9wNh4aCcYjWd+u7Jk2jEE+eBL2P/IhHOlHjgWNXAsrofyC2wY28v4WmPrOMUzsM=
+11ets7qiv7rmgl503kgv1kd4uvnqo99c.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  11t5g164nkahdlbiitifsacrcoapvr0l NS 
+chelseama.gov.	86400	IN	NS	ns1.infotech-maine.com.
+chelseama.gov.	86400	IN	NS	ns2.infotech-maine.com.

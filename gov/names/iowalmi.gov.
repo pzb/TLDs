@@ -1,0 +1,7 @@
+1u1s4q8sdjoil2s8p0630ms9kumurnfv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. euYJwXDsvp2PbwfMhZuNzWBcolb8VYvOfYen9agHI30gVs2eEUe0A0Er/B56my3y8w6I/0E2Ar/QjrgJquqFmADks1KpY5G5i88Ki+WZP9gCAiOZUEK/98ErcZHKrLTRC8iHNYulfutORGXWPwncqzvtTpqKa8ZABtHOxitEQ+g=
+1u1s4q8sdjoil2s8p0630ms9kumurnfv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1u83bpgdv250ftbd64s1mdol2g107248 NS 
+ns1.iowa.gov.	86400	IN	A	165.206.254.145
+ns3.iowa.gov.	86400	IN	A	209.56.120.13
+iowalmi.gov.	86400	IN	NS	dns.iowaccess.org.
+iowalmi.gov.	86400	IN	NS	ns1.iowa.gov.
+iowalmi.gov.	86400	IN	NS	ns3.iowa.gov.

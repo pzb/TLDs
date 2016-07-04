@@ -1,0 +1,7 @@
+disability.gov.	86400	IN	NS	ns1.disability.gov.
+disability.gov.	86400	IN	NS	ns2.disability.gov.
+disability.gov.	3600	IN	DS	55576 5 1 87533a4bcabb79ea69edc1e61ac345de0c51a090
+disability.gov.	3600	IN	DS	55576 5 2 1f9080f04b7c914ef3fcd6f4fb3353c2c912c2c49ae06fc5febf209e6ba16bdb
+disability.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. UNd7NDU0pZtF1uQyi5stv5FyxhCZHNixkuNeQsH0IZRnQ7dFeJnOV7/MzcBV/rzC9YujDkIhVBF5eSP8i3tiw9RAqlsgzKoQ1bsCe8aTAwFC4bzDxx4cNeh3xY/GDa/59b4pDhDow/K49+ey/f68zO2qVxJpHQSrneNF9R2xUCM=
+ns1.disability.gov.	86400	IN	A	52.70.122.82
+ns2.disability.gov.	86400	IN	A	52.200.15.198

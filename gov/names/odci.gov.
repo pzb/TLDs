@@ -1,0 +1,9 @@
+odci.gov.	86400	IN	NS	a1-22.akam.net.
+odci.gov.	86400	IN	NS	a3-64.akam.net.
+odci.gov.	86400	IN	NS	a12-65.akam.net.
+odci.gov.	86400	IN	NS	a13-65.akam.net.
+odci.gov.	86400	IN	NS	a16-67.akam.net.
+odci.gov.	86400	IN	NS	a22-66.akam.net.
+odci.gov.	3600	IN	DS	50131 8 1 4618cf595560cfeffa2f69694e91f8e288aad1b4
+odci.gov.	3600	IN	DS	50131 8 2 6f2dadc2e474d1127f492fde53a5cc04f169e533a2e6ef3f1518cb8a1cabf7d3
+odci.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. k3yjNdrz76WF/Uru+l+pqjOKi+q5knLc5hjNKYKgAfeOldN45faGL6KtlsjD4+tdjrkwJC+Qpkj2heRgisWHLHMrmcAQrHpSz3ozAV/RMjGna39RL7JC3UuWj0C8j5DTCqOjMjZTsxwyNc0wgt4+IEg3PvbWUCSMNTL7HFBmC/o=

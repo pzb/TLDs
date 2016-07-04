@@ -1,0 +1,9 @@
+edns1.dot.gov.	86400	IN	A	204.68.194.100
+edns2.dot.gov.	86400	IN	A	204.68.194.200
+edns3.dot.gov.	86400	IN	A	204.68.195.200
+strongports.gov.	86400	IN	NS	edns1.dot.gov.
+strongports.gov.	86400	IN	NS	edns2.dot.gov.
+strongports.gov.	86400	IN	NS	edns3.dot.gov.
+strongports.gov.	3600	IN	DS	28117 8 1 e1b08f30eecfbb66d2abfa2ff3445697a2a3495f
+strongports.gov.	3600	IN	DS	28117 8 2 321194d9a779adb2503cf43a557b44f3f53f3caaedb6c8efbe98b14b9014ce30
+strongports.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. rxS+L/hUHMt8+FiQ1TbBeHLbPaxdgXBbe3GkXHlHcZWA0TeTL2gRHsW0+hIopF0DIuZhJW8fBODZht+6qcV59fn9TYr4zDq7ds4yeEmI8n93NEBB9w7XFbz4H4hnVdZ17XZJ9lTy5fjajXc+gsZgiaRfBnI6ST06APeI++X3/Fc=

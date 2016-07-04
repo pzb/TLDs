@@ -1,0 +1,8 @@
+fqsf72nsr7263qeelvrg56usabqomuuk.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. dn1PffQ20CaSoxoLG/AaIzcP0Mn8R0jCpfmE7RRZIlV1u+uxCFegRHZM9lHxkXk37rieqqudDJ3MS/KB+tkfCGWtlniPq/VxeF21UxiMqn3j6uSCniBinec7kz6AGiMNvv40gcunh9bcAzrsAeI2LFy43sQDjxaDnOzZYMh53tE=
+fqsf72nsr7263qeelvrg56usabqomuuk.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fquakvf7uhpo0su0m6a1c40ag7norubb NS 
+freeportny.gov.	86400	IN	NS	ns10.dnsmadeeasy.com.
+freeportny.gov.	86400	IN	NS	ns11.dnsmadeeasy.com.
+freeportny.gov.	86400	IN	NS	ns12.dnsmadeeasy.com.
+freeportny.gov.	86400	IN	NS	ns13.dnsmadeeasy.com.
+freeportny.gov.	86400	IN	NS	ns14.dnsmadeeasy.com.
+freeportny.gov.	86400	IN	NS	ns15.dnsmadeeasy.com.

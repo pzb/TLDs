@@ -1,0 +1,4 @@
+madisonlakemn.gov.	86400	IN	NS	ns1.avenet.net.
+madisonlakemn.gov.	86400	IN	NS	ns2.avenet.net.
+nf5nd6hrj2e463j8a00hvqhd1t8ptd99.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ZiS+La6ny/XjH1PS8AYUV//YjN4/mHJHJnf7l5Acbh9qFaj1OWqDKD0viubwh6rT7w491OOCSIz9oSAJeKBHU1byhZ6aYLV7gt7PtSNLxdslvR31mxRziDUguCJ/56kx95C7LIHcZlXm/UGgza3q0cqzi8tbNMMDR7DqCh+EjWA=
+nf5nd6hrj2e463j8a00hvqhd1t8ptd99.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  nffhassnu79ctmb5mvplveajaagspgki NS 

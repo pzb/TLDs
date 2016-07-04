@@ -1,0 +1,4 @@
+gp3mhjv739l2qhube5m6qkqv8eivql5e.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. tfXOiOo3ooBEyL42lMimGxqyFK9EMnjK1YZZwlEg/ygorDfb2RuV5NbDultdMbt8uIht/o+uM1k0v3SUhpkvfXr6lp5P3WfFyGEATLGrqDsgefRzw0emwh6ja6HF8SslxUqTEebHksyovuMQj/A2WmPB/i0f+0CZ+JO8Uv7+FVw=
+gp3mhjv739l2qhube5m6qkqv8eivql5e.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  gpt5f6khlrntdcj8pjr230c0r9g4bkrr NS 
+statecollegepa.gov.	86400	IN	NS	dns1.dejazzd.com.
+statecollegepa.gov.	86400	IN	NS	dns2.dejazzd.com.

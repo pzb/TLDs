@@ -1,0 +1,4 @@
+ociqhidv2ajq298lmvdtmo0t4c9rm29k.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. VWyfFpVbl123Ey+o443hfyo1cq2Ab/jnqupUZnddiLplsqmP5xGf9Y/qK8qLoSFlzDuPmc6dMjKVU2y3MODsk+6HfuekDjAvlo6rKyMHbi/HwcgkFEN5vIvyu0xO4SRUuSlcAV6/bG0bQquz6VE7VOnI+fODCqVj5sINBj6kFD4=
+ociqhidv2ajq298lmvdtmo0t4c9rm29k.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ociugn6smflhab5qtpdotcin1208hre8 NS 
+wvdnr.gov.	86400	IN	NS	dns.state.wv.us.
+wvdnr.gov.	86400	IN	NS	dns3.state.wv.us.

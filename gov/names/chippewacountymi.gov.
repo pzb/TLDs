@@ -1,0 +1,8 @@
+2bjd5n00tbvfq3b8dvgj55qm18at2obk.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. o0/lvRal1TRDFhjIVEhpL8FAtAXGalW6VeV8BL1MJ9GnrkLkc72s6ytGi/n2iTBzH4tBXJG5pTCOHG4/64Zj1bFD/qJQvLzNZHiHh4dmAaM5T7AyQiiex01/VdvsXLlAYE8JuH52OAUntbvnlJ33Mues1YONVrQUJAFhoSzpXVY=
+2bjd5n00tbvfq3b8dvgj55qm18at2obk.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  2bjlu8hls85lgdrp17vbqv3aefad1fpq NS 
+chippewacountymi.gov.	86400	IN	NS	ns10.dnsmadeeasy.com.
+chippewacountymi.gov.	86400	IN	NS	ns11.dnsmadeeasy.com.
+chippewacountymi.gov.	86400	IN	NS	ns12.dnsmadeeasy.com.
+chippewacountymi.gov.	86400	IN	NS	ns13.dnsmadeeasy.com.
+chippewacountymi.gov.	86400	IN	NS	ns14.dnsmadeeasy.com.
+chippewacountymi.gov.	86400	IN	NS	ns15.dnsmadeeasy.com.

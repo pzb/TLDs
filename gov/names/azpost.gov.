@@ -1,0 +1,6 @@
+azpost.gov.	86400	IN	NS	ns-336.awsdns-42.com.
+azpost.gov.	86400	IN	NS	ns-559.awsdns-05.net.
+azpost.gov.	86400	IN	NS	ns-1494.awsdns-58.org.
+azpost.gov.	86400	IN	NS	ns-1725.awsdns-23.co.uk.
+i1tlmitsu47c5f0iiq41gc4dt15rp9np.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hI1bz75oktx5YycYwBiPDLCOsMLHI/j4/3ITvxuvqYQULdUxHMfzWlQnJlraWwKyWyxzzDGaGAU7NPYurH2z9sk11lvAcUhSXNMyF2Bh3EicsHnTXCyZViDL7a96JRCcstDuXOh6Cdg6HtvUd2YpPNQRxIietQXLL+ys7/wQ9Kk=
+i1tlmitsu47c5f0iiq41gc4dt15rp9np.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  i2pafmsrg0rmn7q5dtsj3tvua8krlea2 NS 

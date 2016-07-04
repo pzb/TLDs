@@ -1,0 +1,6 @@
+g01ip5vbs5o17ur79goudcahqhkjfud6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. cpvGUDcv1nXhBp1LsOmJbK/d10Ht4KCQrga1S7BXZHeTztou/ggI16Mdp2V2pt3pNYQivWZpcUku2g2QqfpZG2zKQNBqhmf+q9Ziq3yyUoK9szL62hsJaHCGysjLPUVQOrF6AKCjQ3G9+GSydSmaNwSCpXvPqur4TlB4eGpXh+E=
+g01ip5vbs5o17ur79goudcahqhkjfud6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  g033r84ko63i47pceh10m6st39kgjouv NS 
+trophyclubtx.gov.	86400	IN	NS	ns1.mydomain.com.
+trophyclubtx.gov.	86400	IN	NS	ns2.mydomain.com.
+trophyclubtx.gov.	86400	IN	NS	ns3.mydomain.com.
+trophyclubtx.gov.	86400	IN	NS	ns4.mydomain.com.

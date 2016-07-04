@@ -1,0 +1,5 @@
+l0nkont8rfsg2bt1dvho0o10i59aa954.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. FnpLuYg16kw3F+NO9V4uduDRFBM3FT8mzm/cRTW6020oMEqPyoRm3sjd36VkOvCPvb661kLGcZv0hnJzWgsy+b0YHOiygIxstCydYSaDAgIDL9fJldyicKQKzDuauYKdJFnq+LvtOpyCDOYvGe52kUfxy0M2DevFGX1mWdL31i8=
+l0nkont8rfsg2bt1dvho0o10i59aa954.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  l100spt9cd3q9i0ek9ep7v1ohju4992o NS 
+tyringham-ma.gov.	86400	IN	NS	ns1.infotech-maine.com.
+tyringham-ma.gov.	86400	IN	NS	ns2.infotech-maine.com.
+tyringham-ma.gov.	86400	IN	NS	ns3.infotech-maine.com.

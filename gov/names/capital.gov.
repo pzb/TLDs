@@ -1,0 +1,10 @@
+6d0jfmggd02a0bo2f02vkeo3lo1j6kc8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. EYj5/388apL3hK8lds6uBQSqkaGIfuxQP31L3UDIuSgEN1ubhePNYlPfAo007TTR6Kdv1G6MLHcjMAU5aT9McGcF88fICEsxHuYKULUr2leNPz9YLR691neIrnrHX4xJTQZwo7hUHSbpujEVMCohwOu3tEyKocERxe7VUyQuZzs=
+6d0jfmggd02a0bo2f02vkeo3lo1j6kc8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6d6qab8vmrb067769d84nt5nuivbjvf1 NS 
+ns1.aoc.gov.	86400	IN	A	161.197.102.14
+ns2.aoc.gov.	86400	IN	A	161.197.100.14
+capital.gov.	86400	IN	NS	ns1.aoc.gov.
+capital.gov.	86400	IN	NS	ns2.aoc.gov.
+capital.gov.	86400	IN	NS	auth111.ns.uu.net.
+capital.gov.	86400	IN	NS	auth120.ns.uu.net.
+capital.gov.	86400	IN	NS	authns1.centurylink.net.
+capital.gov.	86400	IN	NS	authns2.centurylink.net.

@@ -1,0 +1,6 @@
+nsopr.gov.	86400	IN	NS	a1.verisigndns.com.
+nsopr.gov.	86400	IN	NS	a2.verisigndns.com.
+nsopr.gov.	86400	IN	NS	a3.verisigndns.com.
+nsopr.gov.	3600	IN	DS	33648 8 1 ebffd7ef7c5e3a2aa152bb10cd850e13efcbaf1b
+nsopr.gov.	3600	IN	DS	33648 8 2 9a917134bfe944f755dfd143397ad9be0a02da6c4a54c21ab0ab45e18b171b00
+nsopr.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. AbjQWlcEf1MJHTIrGxEvR3pJnwvnQqenQnfI0UKzXOwf06RU8GZcBXdDG44jXJ2hqBi5BJ+Zl4sk2e0aSZaAA8BmnesqfDEOY2AqE6wbldW2nAEejiiKzj8TKq7H4X27eDsEXymWmrdjzQWlISrLybkgkx2jmyhLjsULd+HwgvM=

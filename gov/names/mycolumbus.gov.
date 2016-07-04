@@ -1,0 +1,6 @@
+mycolumbus.gov.	86400	IN	NS	ns1.easydns.com.
+mycolumbus.gov.	86400	IN	NS	ns2.easydns.com.
+mycolumbus.gov.	86400	IN	NS	remote1.easydns.com.
+mycolumbus.gov.	86400	IN	NS	remote2.easydns.com.
+spnsuv0f3gp791sqnm93prs87eu5v8hb.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. V1M4NGOvqmqMoDmNe13y4DTgM2eF/Es8zxZQbBFv4F3u1nMLr13zLn7jMhb0tbV9gq+Bj+m/EFYndzOYN6hx1amjcDclvTgrcOYvPEZdp+MHnIBp7BuxaGKxrWzqIfCxDf5Aifn+itSb0qe+zYvTxqYr3GImcauWNZv2DO6vWo0=
+spnsuv0f3gp791sqnm93prs87eu5v8hb.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  sq7l89m53f2cehlpise7qk9sfof7blqt NS 

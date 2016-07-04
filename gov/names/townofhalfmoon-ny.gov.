@@ -1,0 +1,5 @@
+9usil0370gr0f2afo795mo4dpehijbiu.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. bA1qKS9IT80TU4VwGw3S6uY2u+lHp3/BLFNqQWTVNWeOzbMLMqzRtxXkXfZzNo9Zd0AYSNO6vemy9CHCTMjVHKGbtXDayrnPDb1cDnaT1V3PDYh3ZXnzlJHMucnRItDXWXsKgebmTuuuNKjbzmZgTL4s3jgTmExX4t4aleyTpG4=
+9usil0370gr0f2afo795mo4dpehijbiu.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9utbosttsgi2cpm3jimabi1ttf6tddi7 NS 
+townofhalfmoon-ny.gov.	86400	IN	NS	ns1.infotech-maine.com.
+townofhalfmoon-ny.gov.	86400	IN	NS	ns2.infotech-maine.com.
+townofhalfmoon-ny.gov.	86400	IN	NS	ns3.infotech-maine.com.

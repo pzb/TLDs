@@ -1,0 +1,4 @@
+68lvdg6qbjbt35p9b39tn47qdslkc1q9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. c5ZHqly+zp78GmfUBHAMlBCgAULEqXz07q6LQ1UhFd1IZURyFXE3gUohy8/grUMAhF4Sc6dTSCyWXUNmDosisHcfvptX3LRvV0qrYa7VEQHFO7HTXxTbuqTDTYnwpBR2l05vcKLQMk5F3wHTXl00QdCx3ISiZEVyDybOAa7B4yA=
+68lvdg6qbjbt35p9b39tn47qdslkc1q9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  68q02vbhqb09aa35novonjhcho8kmguf NS 
+floridaspsychology.gov.	86400	IN	NS	ns1.mqawebteam.com.
+floridaspsychology.gov.	86400	IN	NS	ns2.mqawebteam.com.

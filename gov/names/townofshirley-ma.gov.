@@ -1,0 +1,4 @@
+jfge5qc4j9o7561p2353tnerhc9hjn5n.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. pCSw9+7bmsyKeSURjgTTvmAqsRJnp+2NdC1fbTMx7yx11AwNlDmxSZib/j1v6Qjmy3/k0NiWfZ0kejzyNib8zpumyvLE7e2wRcrKvwUdMYriQxdbQfMylG8Jk2/5HbtxLwk/kTGTCEavHcyhJifHa8WucywMKo1ZU2kXsRW9GpI=
+jfge5qc4j9o7561p2353tnerhc9hjn5n.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jfj4q94sfs4792g891g9hghkqu4fj95a NS 
+townofshirley-ma.gov.	86400	IN	NS	ns1.maia2.com.
+townofshirley-ma.gov.	86400	IN	NS	ns2.maia2.com.

@@ -1,0 +1,4 @@
+dojmt.gov.	86400	IN	NS	pdns03.domaincontrol.com.
+dojmt.gov.	86400	IN	NS	pdns04.domaincontrol.com.
+rts32sfq245d8uejf2u8ll10hbrgekhr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. PhdnWD0O5ekuQSmiHy3eOoH9T4OMoFDt5dnNETqFmHjjBPvqB6kYK+eb2yDk1aXxZp1EZvbt9c9LWTXN6FpxeTy95nIoE71wXxrsOLDXcHQ5lNn6COu/TWIp67tQWBDWAU1MCLArIx7aD4lq98LLCIq7V5g25UEPdSlHj3gqlz0=
+rts32sfq245d8uejf2u8ll10hbrgekhr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ru0g2clpp7bej2e2je3duh3drdr8so2u NS 

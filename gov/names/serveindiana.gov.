@@ -1,0 +1,4 @@
+serveindiana.gov.	86400	IN	NS	ns1.ai.org.
+serveindiana.gov.	86400	IN	NS	ns2.ai.org.
+uv8o06fl4fvhrq3j1eio8bp8ei4opfuf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ArJsNzFS5aQGu7mfYyVa8aKxBw97YDhUH6GPnI8Oj6vUqpc7expshlGir+pBQtlX369EB2N70OhnJr/2g+9VvGwvilO6w32XPN1wuo7nlbhNCpt0A24flR5eua901tCtnwLn8/qZ+O24XUgGSJj61uiXnOB+Sy+tc3ycZrkusII=
+uv8o06fl4fvhrq3j1eio8bp8ei4opfuf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  uvn9ahqopcdaum8pmnomm29raf85tul8 NS 

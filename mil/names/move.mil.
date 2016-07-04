@@ -1,0 +1,9 @@
+move.mil.	21600	IN	NS	adns1.ustranscom.mil.
+move.mil.	21600	IN	NS	adns2.ustranscom.mil.
+move.mil.	21600	IN	NS	adns3.ustranscom.mil.
+move.mil.	10800	IN	DS	29857 8 1 838763128c8700139b1b4b5f7e75c0cb890797ba
+move.mil.	10800	IN	DS	29857 8 2 e6d43aa9105abb8511dbf15cac0cfe187ab1f98cec0d64c033ef3ce1c5db96f0
+move.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. rQ23PZ7m6IF9u12j5OkdTpU/21YGHknopurgJ4haj1jHZQPL1xBZoTT5cXFt9AmjvUa0RTpsDIkOJk1rX2IaJ+0fu7fklQbMKYM8BeGnLKHmiAmmpRzVEZ039oXp9FS+IWilRe+pZ4xq9UcivGrOcxqWmjGZGSQlBbaYlg8hxVfw2q4=
+adns1.ustranscom.mil.	21600	IN	A	214.3.17.232
+adns2.ustranscom.mil.	21600	IN	A	214.3.16.232
+adns3.ustranscom.mil.	21600	IN	A	214.4.156.232

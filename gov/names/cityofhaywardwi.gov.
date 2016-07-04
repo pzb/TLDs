@@ -1,0 +1,4 @@
+cityofhaywardwi.gov.	86400	IN	NS	ns.rackspace.com.
+cityofhaywardwi.gov.	86400	IN	NS	ns2.rackspace.com.
+l8v4et78sd2o1bn140ctfojv4ga62oiv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. agIOa+kN88k5xolAItTvkY6176YF79QrmcJ7swxfkX3XM316dbsWPLXievs7TUcJwGdN7NRvNFa4DooX9qObUr9+0Sn3SMeTrTK1hGivrEOhDV2Oo+FrpQ5GvOvCJJl3forrjs03TYVh5uM3K01pvprsf+ksfHzZKIMeJOozgKg=
+l8v4et78sd2o1bn140ctfojv4ga62oiv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  l95f2ut7f8cr3neensld0072e704l25o NS 

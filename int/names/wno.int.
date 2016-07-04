@@ -1,0 +1,4 @@
+wno.int.	86400	IN	NS	ns1.edis.at.
+wno.int.	86400	IN	NS	ns2.edis.at.
+wno.int.	86400	IN	NS	ns5.edis.at.
+wno.int.	86400	IN	NS	ns6.edis.at.

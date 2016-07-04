@@ -1,0 +1,8 @@
+icjointduty.gov.	86400	IN	NS	a1-22.akam.net.
+icjointduty.gov.	86400	IN	NS	a3-64.akam.net.
+icjointduty.gov.	86400	IN	NS	a12-65.akam.net.
+icjointduty.gov.	86400	IN	NS	a13-65.akam.net.
+icjointduty.gov.	86400	IN	NS	a16-67.akam.net.
+icjointduty.gov.	86400	IN	NS	a22-66.akam.net.
+icjointduty.gov.	3600	IN	DS	48832 8 1 ef83f001302c014089bedec4087a15a4f65c67d1
+icjointduty.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Mru+Wr3DjDRVd2XWfkmv3nVsvpHwiiKl83+u8dVn7Z/G2N3CF8Md+pi2COb0DKlc5jQQkJGFCGyWRANFZClXC7tPqAVNKXjbXDbqdPlldohLHkDRbd5HnqpmpOMQlCREfmKeUVO+SjT1h4CqyIHUxEFZl1nF9IC4Rb9k/63Su9c=

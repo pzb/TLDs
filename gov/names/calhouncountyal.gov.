@@ -1,0 +1,5 @@
+1fib6a1h4tf0uqlpqanq6um1pi6fdpqu.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. JiAol6o7c0truAvg97LBVwPzfXNquarlz12yrcSM+SXK4afftY/GqyO6H8SI7HAk1YpEhRmPajSdtcSVw3INOV6CxTDASFJKAl2XJBA0pjpte8NrwBYX5v2/eNNaNRh5ztq8lQmGVU1Qr5NA6r30VijbPG8CrJsvUKPnaxh2IyQ=
+1fib6a1h4tf0uqlpqanq6um1pi6fdpqu.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1g73j47ammaj2icuj2fa511ppavs57tf NS 
+calhouncountyal.gov.	86400	IN	NS	dns1.easydns.com.
+calhouncountyal.gov.	86400	IN	NS	dns2.easydns.net.
+calhouncountyal.gov.	86400	IN	NS	dns3.easydns.ca.

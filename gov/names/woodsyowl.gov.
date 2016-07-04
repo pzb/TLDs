@@ -1,0 +1,9 @@
+ns1.usda.gov.	86400	IN	A	199.141.126.202
+ns1.usda.gov.	86400	IN	AAAA	2600:12f0:0:ac04::202
+ns2.usda.gov.	86400	IN	A	199.141.126.206
+ns2.usda.gov.	86400	IN	AAAA	2600:12f0:0:ac04::206
+woodsyowl.gov.	86400	IN	NS	ns1.usda.gov.
+woodsyowl.gov.	86400	IN	NS	ns2.usda.gov.
+woodsyowl.gov.	3600	IN	DS	30100 8 1 f533988c2bda91edb3fb8c2a894d040bda4df2c4
+woodsyowl.gov.	3600	IN	DS	30100 8 2 a627c2504ab43726dee93f10e3cef71f7ed3150fde7f6737f36bf64c2c3c2006
+woodsyowl.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. v2ljjEe21qsqcXsBzVso75mR8G2o5Vv2EXG3+CYh+PunP+F466wtMVnra+5gwOKrFn0G8iEbYDwSJMtIzhVtMT/pf8BMh0qovMD1yqoKYlUvYCuBHXREsGodxuLj6ON5qcD/ZvQfH7rpLLPNkCntikg2DjyTdRuUpkejV32liIg=

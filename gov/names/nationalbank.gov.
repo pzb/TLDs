@@ -1,0 +1,11 @@
+nationalbank.gov.	86400	IN	NS	ns1.treasury.gov.
+nationalbank.gov.	86400	IN	NS	ns3.treasury.gov.
+nationalbank.gov.	3600	IN	DS	46131 7 1 1700f20d1ef8a9be66d44b5633fd56d970faa1cd
+nationalbank.gov.	3600	IN	DS	46131 7 2 2f8c29dbc12b3eb457a9ce7866d8e108a996e02a6c51b136be37b887a587ecdf
+nationalbank.gov.	3600	IN	DS	54291 7 1 16b5143d762ec1a93175b26feaff3bb1ef70a038
+nationalbank.gov.	3600	IN	DS	54291 7 2 0c671fd4a04856a005c092cdc39a0f629bda784f8e147f6289f5cb725be32e4a
+nationalbank.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. is5ZzBuHpsVMuRg/MshNigWGrGQSJAyPu4BQaesOp1LecDlB1UGXI6qkRI/F5C1rgXnWEi1FxzQeqB/TQhjaUTZDeBcsMaqDIuMTBryyt1zCJixU2imvTKOhJb5FpKn9lDq/U4BNKJPTLS9phB7g3lCJQ005+5cZJxbNptm1298=
+ns1.treasury.gov.	86400	IN	A	166.123.208.249
+ns1.treasury.gov.	86400	IN	AAAA	2610:108:4000:100a::249
+ns3.treasury.gov.	86400	IN	A	164.95.95.155
+ns3.treasury.gov.	86400	IN	AAAA	2610:108:3000:100a::155

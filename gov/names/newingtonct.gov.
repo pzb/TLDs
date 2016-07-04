@@ -1,0 +1,6 @@
+ns1.cen.ct.gov.	86400	IN	A	67.218.95.9
+ns2.cen.ct.gov.	86400	IN	A	207.210.151.9
+iufnkruk7re7insat7kufgto8h2tur5m.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. OgiMyi7OVloy/0M5HeC7dZf6YTaQ8PamTynssjPOAkE/Sb++uJVBgTdvMTJo3mgdrDtQiFKTG9/3CGGlnh8LLhzN5pSUTbRjq6x/L6FXeYvd5jIROSihT5v7g0jZGHr8qHv6i2CnP9Z/i2gFb5p5DUmLB2VUna/oiDbjQFjvtRE=
+iufnkruk7re7insat7kufgto8h2tur5m.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  iv0op84tv5o82fhs39hikj36sj0oltl7 NS 
+newingtonct.gov.	86400	IN	NS	ns1.cen.ct.gov.
+newingtonct.gov.	86400	IN	NS	ns2.cen.ct.gov.

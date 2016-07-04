@@ -1,0 +1,4 @@
+capitalert.gov.	86400	IN	NS	ns1.fairfax.va.us.
+capitalert.gov.	86400	IN	NS	ns2.fairfax.va.us.
+n7k2iavt95hpgmi5g2tr5v2k91bk5hbu.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. MU1YzLeh6wc/QvfseNbXBvKSRmdkqmpfvtDLmPWRD9p5VBtXs7vCKqMv+nGAH5l9ruLaazMzYJf7drhG1lSMiypVFMcKLUcCDFvLdwZ/5llNRuU4p+IxFimo2r85cCtvUdqAeZ6gZSeD2B4ym7i/CNz8NQnqxR+g2+R7q4JT/ys=
+n7k2iavt95hpgmi5g2tr5v2k91bk5hbu.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  n7oh9442dskffp3unbprfq5gmma3ovlj NS 

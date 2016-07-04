@@ -1,0 +1,4 @@
+bhgdr3c30p84tpojc2qric1f40b2b2mj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. rubDIaHXshUS0aGS02iKkJDc10PsJ+GuoivnqcVpwlwz8y06QHP/+/4rvYNDSR3jHQAoaqD4e5ZsFnTxy+NRRhCUE1JJGvyqmF+x+8FguH8unEkLl+ZxUCSNHaKRQCOU/OfNaztT4qw4VY5W7+2UIVm+rF0andoY+P4q8L/nfGU=
+bhgdr3c30p84tpojc2qric1f40b2b2mj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bhou68cqf9pmno7ffnlgrtvm15vr9qai NS 
+pawneerock-ks.gov.	86400	IN	NS	ns6625.hostgator.com.
+pawneerock-ks.gov.	86400	IN	NS	ns6626.hostgator.com.

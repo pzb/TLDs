@@ -1,0 +1,4 @@
+0566540sa2gfcpudf0jv953l6irjrdfl.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. YKjL9WM6HvAO1WSN4caHUUUbm51m8Az2RxumuDf9DzovEb4GTuxj72/Y5ADw1NQCbjG10rkBcZGJA8v5psrfJ5DIIrdfS3cf3l+IB6Gbx1l4g+cGl/nCAo7NW5jHKZK893RD+yRcrzBOCWFIg0d7uXUs5LpeM1dXdFZkCTNXQ6s=
+0566540sa2gfcpudf0jv953l6irjrdfl.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  05gc37jmm6a7mu77c8q4hom95s03n623 NS 
+pecostx.gov.	86400	IN	NS	pdns1.registrar-servers.com.
+pecostx.gov.	86400	IN	NS	pdns2.registrar-servers.com.

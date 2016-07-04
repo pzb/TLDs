@@ -1,0 +1,6 @@
+relayutah.gov.	86400	IN	NS	ns1.utah.gov.
+relayutah.gov.	86400	IN	NS	ns2.utah.gov.
+slpet0p7dtsac6o0e5to2ure07k4s5tf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. SuMxelgQNV42NAoOlRg+hpWu7Jh4fqDO18U640f4u6r+2kxHa/Vznbclq38mO7Dq+9RWkGCIG86tszUdgG0GsCcK7GbjxTyyL0k0QRLa6su2siBIMeCuifptQck2r0KbJGTiPTQrsXZmQc68ykDb/iv/HPTKwC3PnAh2RcZxMdQ=
+slpet0p7dtsac6o0e5to2ure07k4s5tf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  sm0la5ll6ed5q8v69ppijns0vt5cuilu NS 
+ns1.utah.gov.	86400	IN	A	204.113.19.5
+ns2.utah.gov.	86400	IN	A	204.113.4.5

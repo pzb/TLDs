@@ -1,0 +1,4 @@
+c49cmmgpeg7qs64g3fl37cmpvrdj53pf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. AGIzeZE8vc7SpgZcO2pcip83p7B1RvOTjOavBO1mtRkUnCvVadaVMJ3Pqed0qTBZKafFOdWoPKW+oIzK4BH1omOxHFfAPeKbgqYT37VPZnyQca6lBcneq44OxZv9t8B4fh0SY5taqhLyq6QS17xrZJ2aZwbX6Gf4RYACEBF3t2s=
+c49cmmgpeg7qs64g3fl37cmpvrdj53pf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  c4ftdvodfg4vftq3f7qkmn4iet3hsn5i NS 
+weakleycountytn.gov.	86400	IN	NS	ns.christianwebhost.com.
+weakleycountytn.gov.	86400	IN	NS	ns2.christianwebhost.com.

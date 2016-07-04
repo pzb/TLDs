@@ -1,0 +1,12 @@
+esa.int.	86400	IN	NS	dns1.esa.int.
+esa.int.	86400	IN	NS	dns2.esa.int.
+esa.int.	86400	IN	NS	dns3.esa.int.
+esa.int.	86400	IN	NS	dns4.esa.int.
+esa.int.	86400	IN	NS	dns5.esa.int.
+esa.int.	86400	IN	NS	dns6.esa.int.
+dns1.esa.int.	86400	IN	A	131.176.107.3
+dns2.esa.int.	86400	IN	A	131.176.107.4
+dns3.esa.int.	86400	IN	A	131.176.86.2
+dns4.esa.int.	86400	IN	A	131.176.86.4
+dns5.esa.int.	86400	IN	A	192.171.5.18
+dns6.esa.int.	86400	IN	A	192.171.5.19

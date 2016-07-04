@@ -1,0 +1,4 @@
+a82hl9b16k71dklfog0nmm0orp239enu.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. VGW38vlfPsn6/orMrLCSidiZ1bYnMryga6Jq7CF4sje+/gfbFxA6i00SCDIXJ77l3jRJJRdwrFPFim6hdAQl1eok9sP3ToRUs2GEzPc+Iz4VbP11LIeXohg8p9qw2MhohsPi+eGs5nr2aTGa5dUH5u0Ni1rqlUe4Rhcq7FmCv4Y=
+a82hl9b16k71dklfog0nmm0orp239enu.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  a86l4ajud25cd48efa46gdasrc406pkg NS 
+poynette-wi.gov.	86400	IN	NS	dns1.harbortechnologies.net.
+poynette-wi.gov.	86400	IN	NS	dns2.harbortechnologies.net.

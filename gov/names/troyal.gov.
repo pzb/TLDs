@@ -1,0 +1,4 @@
+64olmomdj0if0mht14hs3hfg9vinkvsf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. GkzAy5KrKtX4rfuLXUsf8UKyX5mSA4ipZHZH99WpWG0VQp8xxD9m+MPntKFkWWsIm9RqhnsIqTC43kB6/OmJHCl1dV7j9JiTKCsYIfLYecbbXKuKbEv+5+dk8r0LA1cqUlZ9IpvvzeIPaDa4bmYmmJwqazYZWcB8L7dtD7bfVx0=
+64olmomdj0if0mht14hs3hfg9vinkvsf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  64q6jlv7d42r9pvtvf5k79b8i4u7i3lf NS 
+troyal.gov.	86400	IN	NS	ns25.domaincontrol.com.
+troyal.gov.	86400	IN	NS	ns26.domaincontrol.com.

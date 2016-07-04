@@ -1,0 +1,9 @@
+sen.gov.	86400	IN	NS	use1.akam.net.
+sen.gov.	86400	IN	NS	use4.akam.net.
+sen.gov.	86400	IN	NS	use5.akam.net.
+sen.gov.	86400	IN	NS	usw2.akam.net.
+sen.gov.	86400	IN	NS	ns1-139.akam.net.
+sen.gov.	86400	IN	NS	ns1-201.akam.net.
+sen.gov.	3600	IN	DS	8245 8 1 c278521abfb64317aa453ad12f1f65fae2cbebe4
+sen.gov.	3600	IN	DS	8245 8 2 2c396d458bcdcb3c03bd4d28e5ec313250ee0946ce22901bba0687008f055c0a
+sen.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. C2oXC2gQq7DjEXbto+OoVq/pKHhraoJ4nfg4Rihu9+qqjQt0nErvIcQsAhqXfvpRJkVqG7WPel7x7d7ODUfyrDdofeSNHXAUfuvh+N2ptUfsFgtfh/1b/HgUyZ+R4QD/qYNWmK1QypKnjoOcnwFyVl1SFlnliQEFVtPu1ckhxJE=

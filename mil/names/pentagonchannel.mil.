@@ -1,0 +1,10 @@
+beast.dma.mil.	21600	IN	A	155.7.145.113
+beauty.dma.mil.	21600	IN	A	155.7.145.112
+kaucher.dma.mil.	21600	IN	A	155.7.208.113
+russell.dma.mil.	21600	IN	A	155.7.208.112
+pentagonchannel.mil.	21600	IN	NS	beast.dma.mil.
+pentagonchannel.mil.	21600	IN	NS	beauty.dma.mil.
+pentagonchannel.mil.	21600	IN	NS	kaucher.dma.mil.
+pentagonchannel.mil.	21600	IN	NS	russell.dma.mil.
+pentagonchannel.mil.	10800	IN	DS	33284 8 1 6870b20822acfbb561ccf6d2069326eb374e7d75
+pentagonchannel.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. PHjxJKTF5XnTpReRrapO4z3eQk6FgxSrX5Bqmv2rut1lNRKJnteEdIAtAUB0+Swe2RoqrVu/NarHy4avnaFQy7IM/92kek3Cv49HpDX18906PYRdPyhshdj4TPAVNUDWQgeWuoTDCHdmjTSAJfnrb//KtR7Rzl6P6XXhEh183cOyfAE=

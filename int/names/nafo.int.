@@ -1,0 +1,3 @@
+nafo.int.	86400	IN	NS	dns-nb00.aliant.net.
+nafo.int.	86400	IN	NS	dns-nb01.aliant.net.
+nafo.int.	86400	IN	NS	dns-ns00.aliant.net.

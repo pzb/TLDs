@@ -1,0 +1,6 @@
+altusandc.gov.	86400	IN	NS	altdsos.altusandc.gov.
+altusandc.gov.	86400	IN	NS	altdstork.altusandc.gov.
+altdsos.altusandc.gov.	86400	IN	A	198.47.68.21
+altdstork.altusandc.gov.	86400	IN	A	198.47.68.20
+s3bco9j5scsidthkulhto5d5onrvgqdv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Kkau7OUFco4kzE/Abt3IKCHdCySKyx/5OLMnxGdHxqgIto+VzpEWDlghLM8HbQGN4aASSl+kuJA36DwqA5p+L7CZXmnfC5Wpg9AcfI+zPqFCxivFKENldl/UYW34c4Ivr5IOftBGj0C7I81pjV0nldNYrj9o1l2O40kRMNsxj68=
+s3bco9j5scsidthkulhto5d5onrvgqdv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  s3e375obv53mtdlqv4a7b5n2h7gsc0n5 NS 

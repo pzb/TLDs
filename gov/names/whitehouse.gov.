@@ -1,0 +1,8 @@
+whitehouse.gov.	86400	IN	NS	zc.akam.net.
+whitehouse.gov.	86400	IN	NS	use6.akam.net.
+whitehouse.gov.	86400	IN	NS	usw1.akam.net.
+whitehouse.gov.	86400	IN	NS	asia9.akam.net.
+whitehouse.gov.	86400	IN	NS	ns1-145.akam.net.
+whitehouse.gov.	86400	IN	NS	ns1-176.akam.net.
+whitehouse.gov.	3600	IN	DS	38601 7 1 da224bc306e05a54b7b96fe85a9593fbc13a8210
+whitehouse.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. B0Q28IKO7QATxrdDsHVqYECi0/VqI9wtBytVE+Joh+D69KKkWRQqNvCoKsnuMXPUwRg7Qap0/9pch6uwhLwOP02VwCoWfKsavKoch9VKFp013k9kUG0QD+AMnn7JoVTUzWbMiT4CbQBGWdCPT9ep7wYL/5V5+Xth4x1+vfLqSgs=

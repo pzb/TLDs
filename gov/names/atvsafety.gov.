@@ -1,0 +1,7 @@
+atvsafety.gov.	86400	IN	NS	auth10.ns.wcom.com.
+atvsafety.gov.	86400	IN	NS	auth50.ns.uu.net.
+atvsafety.gov.	3600	IN	DS	29418 7 1 b2f563b7e9efa68b44d352b022ee6db673e185a4
+atvsafety.gov.	3600	IN	DS	29418 7 2 659b3ec0e91acd441e3901074d10d1acc363aec70453d9ea6aca1127a9327021
+atvsafety.gov.	3600	IN	DS	49785 7 1 2c74694c6f4d59bce3ae2fc89208ab455ba389f9
+atvsafety.gov.	3600	IN	DS	49785 7 2 7e8119d196d03b816ff9f1014e4e10e8e00d3e5fc129bea51a9f4985170dabc5
+atvsafety.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. cvtMVLCdCaNdtfmhuQN0nhEjxYakd08s61NGnc07g8RYyWC9K+qYBgtQBNuSt6oDPvvmFjEr8sff2D21AyREmzZoo+eQ2YnF30vEkHhO5uDNOucisgEIHeSIDEHlAjESVxO6vP6zifeX2dT/zQRtDra6bFIXin3Lf+2m+eC8dV0=

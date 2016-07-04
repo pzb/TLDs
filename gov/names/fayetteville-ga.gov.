@@ -1,0 +1,5 @@
+fayetteville-ga.gov.	86400	IN	NS	dns1.earthlink.net.
+fayetteville-ga.gov.	86400	IN	NS	dns2.earthlink.net.
+fayetteville-ga.gov.	86400	IN	NS	dns3.earthlink.net.
+n2nomvj6414h5kfhkkp1b7aioj2cnb2b.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. RT0IMCuiAakRLJ3fQgPTjezSQuzvDa49OaCgDYeraALTWOKtOBUZrfIAi1YW0M059YUyDyFyiabPoiiOVzwfuFzI+7FzOVquhZ0TXD2YvWOJPdwbkoGMTLE3vFGfHjPONDvJxD5HuvuEp29Yq6uLxer01IuDZqO5dsQbNWYVGYg=
+n2nomvj6414h5kfhkkp1b7aioj2cnb2b.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  n2rkvjbh4e13b27nbd7ke1sa5ekschlh NS 

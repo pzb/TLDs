@@ -1,0 +1,5 @@
+barona-nsn.gov.	86400	IN	NS	ns1.barona.com.
+barona-nsn.gov.	86400	IN	NS	ns1.gothamweb.net.
+barona-nsn.gov.	86400	IN	NS	ns2.gothamweb.net.
+eo6s91pbdigh037t151adhoodbsq7h7g.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. JIypLChCGu3zn2G1fIRg+sHI8F6t7mTi0NNd6dPxDU5jz0eol+/Hm6Ab2oH2GGgIL8kUo7drs+0WhAcHzILd6+cPoqbsjcRalMQbAw/yA5+fl900+xpxsdzV041vNAR7EniDXvhTZ2KKKVsWjVFr+ut5HWFatKwz+e8qqyaVmZE=
+eo6s91pbdigh037t151adhoodbsq7h7g.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  eogc43ai8jv09jaila2l8gsg0g0glugm NS 

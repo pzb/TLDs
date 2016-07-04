@@ -1,0 +1,5 @@
+mariettageorgia.gov.	86400	IN	NS	ns1.cl.bellsouth.net.
+mariettageorgia.gov.	86400	IN	NS	ns2.cl.bellsouth.net.
+mariettageorgia.gov.	86400	IN	NS	ns3.cl.bellsouth.net.
+mgset7kl751a0obad1i93scfcouubooc.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. DWJDSgtNCz5zC+dlSdG46Q51XQNA2uoG7BjerbiwJe/kNVUYq5j6uM8jhtGczsqnQAaPqu8//dBi6uHg907KNUruTuDCo+oROgtK8SQhV80mp1v8bSE0JEkpd4fTc22SrQrTK9RHKMXYebphP3W3+4oquQmCyneY4rKNTPK4PVE=
+mgset7kl751a0obad1i93scfcouubooc.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mgvmrdjdgmfktjruqqd0ntlhhdatcmkl NS 

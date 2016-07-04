@@ -1,0 +1,7 @@
+americorpsweek.gov.	86400	IN	NS	dns01.cns.gov.
+americorpsweek.gov.	86400	IN	NS	dns02.cns.gov.
+americorpsweek.gov.	3600	IN	DS	27516 7 1 099bb0001352ff0f71093f6e3f26f69f140d7a80
+americorpsweek.gov.	3600	IN	DS	27516 7 2 340582f6e24ceb7ad03bbe2778a17b6848f2bfb3fd3babcf85be92e7fc633b22
+americorpsweek.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. I+us+/T7clmfhmNTG4Xu+9FQX2SeDhDWV3HhGJG3thdrdW75vfI3Sxsl9qI2/419+l3Tffh/5y4K+6PdDCADTjTzB5u7MfkCeUJtJJdzdrQKgkNgGKKrUY/Opihn8csCgFqsSWGfST/Bg33evY3jjyyaSJinKX6Lq96FGqhyZ0E=
+dns01.cns.gov.	86400	IN	A	152.180.8.143
+dns02.cns.gov.	86400	IN	A	152.180.134.207

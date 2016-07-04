@@ -1,0 +1,6 @@
+eulesstx.gov.	86400	IN	NS	ns1.p05.dynect.net.
+eulesstx.gov.	86400	IN	NS	ns2.p05.dynect.net.
+eulesstx.gov.	86400	IN	NS	ns3.p05.dynect.net.
+eulesstx.gov.	86400	IN	NS	ns4.p05.dynect.net.
+kv8ud0066d2v67o3t2u5mhk3p3t61aq5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. lt7BVbVeyuX3BhLxU6k5nc8Z9dsm0TD160bAX+Lrdtyi3AZv95BWKdqazP+l9G1/jCoIexCv4OVblRgVr/wwRYIdOe+kNAHfg2Y5TNqN1xTC0knfmo9xkspVQbRYEBAUwCowKhXwUv5NlaCxY6Fj0BXwTNipViXHjhgUcbNjxY4=
+kv8ud0066d2v67o3t2u5mhk3p3t61aq5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kvhdpu3k8ic6kb9odtfn49281gpr78to NS 

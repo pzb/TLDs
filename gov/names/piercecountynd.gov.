@@ -1,0 +1,4 @@
+g0fcdlpas6qp0g2st9sqfi1v8hfank2u.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. gxe6caf9fScUMvAA5usR/H2CaEEn31bLwQaFz6cWyWJ4BQU5YSGtV3x7SADO6SwWStW3JN9i0dKw+MWXO15r9IqrD0QLjW2/k7NyL9fkfOwo7le/t35/cmv/cb8qlIdYWxf/LXWXO5xre7L3WNuJkVIn5Bc2qsYeuzyx7d51ZtQ=
+g0fcdlpas6qp0g2st9sqfi1v8hfank2u.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  g0n8jcgugr6s57dof01vbjq9k0k512oe NS 
+piercecountynd.gov.	86400	IN	NS	pdns01.domaincontrol.com.
+piercecountynd.gov.	86400	IN	NS	pdns02.domaincontrol.com.

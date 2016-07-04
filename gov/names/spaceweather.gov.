@@ -1,0 +1,12 @@
+ns-e.noaa.gov.	86400	IN	A	140.90.33.237
+ns-e.noaa.gov.	86400	IN	AAAA	2610:20:8000:8c00::237
+ns-mw.noaa.gov.	86400	IN	A	140.172.17.237
+ns-mw.noaa.gov.	86400	IN	AAAA	2610:20:8800:8c00::237
+ns-nw.noaa.gov.	86400	IN	A	161.55.32.2
+ns-nw.noaa.gov.	86400	IN	AAAA	2610:20:8c00:8c00::2
+spaceweather.gov.	86400	IN	NS	ns-e.noaa.gov.
+spaceweather.gov.	86400	IN	NS	ns-mw.noaa.gov.
+spaceweather.gov.	86400	IN	NS	ns-nw.noaa.gov.
+spaceweather.gov.	3600	IN	DS	1807 5 1 907da427005df6b4e6dd1b605bea19b60a82e37e
+spaceweather.gov.	3600	IN	DS	1807 5 2 2c6526d61bac5d958fdb1edfa5c8233a047432942941d47ebef74d0ca249f7e0
+spaceweather.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. uf9Lx6s2KHeEioqBqZL5eoj8pNZsGrT/WbxRpQKpQgVtofgi08u6TD91OFIL4Dzr2rLiac6bc940X+Tru6J58kk2y2QhUrUFYTaVJQ2dpKSMvOpJL9gR/Y0EkY4NTBUn14hpw519ZBYGm2uHAN9Fn/chnyAHV/a2tE2BYlqiPc8=

@@ -1,0 +1,5 @@
+hayestownshipmi.gov.	86400	IN	NS	ns1.dreamhost.com.
+hayestownshipmi.gov.	86400	IN	NS	ns2.dreamhost.com.
+hayestownshipmi.gov.	86400	IN	NS	ns3.dreamhost.com.
+ld9e59adh60neti7oqbipajfcearrtoj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. JgmnSoOIJCaD4wYGu4pw3GDVO77bAwWGW7pDEEGfbeUP8gZT7DWCdo6T5++YsGuw4TqmELomQ/XX/jtQ0BUYElKUE72Z7tA6gBqpRqJroun4tFesD4ENJmThBoDjVy1/GQoO9EECDLQamefrsmRXKJsnDM3CBSDz3tbZTog270I=
+ld9e59adh60neti7oqbipajfcearrtoj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ldg20tprtatja4859rt4ci2oa81d324d NS 

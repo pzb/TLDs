@@ -1,0 +1,6 @@
+cityofmarionil.gov.	86400	IN	NS	ns1.cityofmarionil.gov.
+cityofmarionil.gov.	86400	IN	NS	ns2.cityofmarionil.gov.
+ns1.cityofmarionil.gov.	86400	IN	A	198.57.250.100
+ns2.cityofmarionil.gov.	86400	IN	A	198.57.250.101
+euanj36hto9n3ovc3raneqqplo6igqd7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ePUy8eesVed0KeYu+l5+CNIffsDZq7eyFu4KWR52C+Nz3NurSFrRwAWJhwvONz5nirr0OidamnNrTi8EJSn9M0k+Ltu4MFdKR2GiaDjWyHFzc66tmmfugm2DF+ZZ8Bjl09itAjCf58jqAtzDMmitrQnw8U4rXTZSJh8XYhEYHZI=
+euanj36hto9n3ovc3raneqqplo6igqd7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  eug5e7tl5cln09tg21hobb9cd186mcl2 NS 

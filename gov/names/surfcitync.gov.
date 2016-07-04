@@ -1,0 +1,6 @@
+063hpnju4mvags2tkoqfh8232jsmgqfg.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. laPmMi09bENXNF5CePy+v8tqCN7TI4DYPJDU3M/bqPsGNdCOPT75fqhc2rGpq1gMXnHsvyIryVud4UWvzMWiryxU/Ny5E35N7Cu7ziJhIyOKDkyh0xhY8wPpJduE2AIKtZd+u6w6eWpRFLlSgqZRz+dKpnTwwqxLvVXM1gz2JWc=
+063hpnju4mvags2tkoqfh8232jsmgqfg.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  06gqaku89auh772l71g31tf6golib0i8 NS 
+surfcitync.gov.	86400	IN	NS	ns.surfcitync.gov.
+surfcitync.gov.	86400	IN	NS	ns2.surfcitync.gov.
+ns.surfcitync.gov.	86400	IN	A	72.167.119.208
+ns2.surfcitync.gov.	86400	IN	A	166.62.52.149

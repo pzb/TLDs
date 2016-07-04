@@ -1,0 +1,4 @@
+3sdu18s0p7s2dcc8bq9ptmt5hgvqsi6r.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. xGlkRoUhwwFFE4TmT13TLFUGJN6i9qIQOAEkDnVkYh2e7PpBs3/+MskRtrfCNyyrn+7EfERgJV9Tlpcm2pDQDFFfF/PIWGs+tLJauxzkUg/dHvRVmTi1Z80pVFCEXkU1cxaUWAy+YZsWFCHfUYnPicswH1JyqTYtlucNm2rrBFM=
+3sdu18s0p7s2dcc8bq9ptmt5hgvqsi6r.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3shvnaq9fu0s90in550lu7lueo3apd4b NS 
+nddatacenter.gov.	86400	IN	NS	ns3.ndnic.com.
+nddatacenter.gov.	86400	IN	NS	ns3.state.nd.us.

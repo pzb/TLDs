@@ -1,0 +1,4 @@
+04hd54e16kqf0gaf5g9nrsn3vu41894j.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Cehr0TYlx0U0pi79RsK1fzEfgeho0LabNMfDjESrHTd7i69NneqgbJS7QVNhCJLrIBQvJRQoZQZ7s5CCcoYGfZZ7IXRW+XYt6LQDhTGILPMRCmcjsTeAM83Hh9w61cF77X5QvdpMsZvo9FzK4sCQZU/Dnb9IjlRi91H+6c0EYPY=
+04hd54e16kqf0gaf5g9nrsn3vu41894j.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  04un84plicied345oimhigoauaejpipp NS 
+columbiatwp-oh.gov.	86400	IN	NS	ns1.hostmonster.com.
+columbiatwp-oh.gov.	86400	IN	NS	ns2.hostmonster.com.

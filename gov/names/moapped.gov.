@@ -1,0 +1,4 @@
+moapped.gov.	86400	IN	NS	ns71.domaincontrol.com.
+moapped.gov.	86400	IN	NS	ns72.domaincontrol.com.
+q90e05l4qr0gq9ts1gkjh61iha3pcvht.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. MTDfR6XMjNox3pTetGRZeosx2CqYiKutrB1BQzcWJSq9rJfS2U4ZC8Qef14Eg67nXal3gJjJWnGTN8WACSb0OHsX9TUoS7jCaK0rBD6u9G8ggVYO7JaQGs8cw1u89KnFBegautAarPh1O52RW+/1sU1kjv81RcB1Y27vDY9cYtQ=
+q90e05l4qr0gq9ts1gkjh61iha3pcvht.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  q91jeig38jma6ecm5cbktq6n0b70qki0 NS 

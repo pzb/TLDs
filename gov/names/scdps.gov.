@@ -1,0 +1,4 @@
+hbadm5c4catc5pt703qm80b13anrneed.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. JRrQBdCPvyqwGOO+qAxkVfwE/fhhyp1DXgj/M1T014NyrytpPoJpQw23/d62IrvXgZP1I+veU4BvWrAdG741vSqplfAAO5iEQ7QpU+rfY0oQvZvJ/cNSUvR0XEfL5lXIMUBlQ+y3Szs1LuC+BXA1tCnW2FpZx7VvgA3p1N+cOmQ=
+hbadm5c4catc5pt703qm80b13anrneed.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  hbm4ol9qgoamf3ugc774miovkiqb2ctq NS 
+scdps.gov.	86400	IN	NS	ns1.net.state.sc.us.
+scdps.gov.	86400	IN	NS	ns2.net.state.sc.us.

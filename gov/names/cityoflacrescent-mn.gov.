@@ -1,0 +1,4 @@
+cityoflacrescent-mn.gov.	86400	IN	NS	jay.ns.cloudflare.com.
+cityoflacrescent-mn.gov.	86400	IN	NS	dina.ns.cloudflare.com.
+snhdc33q06bduh78mnqbogsv5vafn2r3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. p5MzlUCSDiZGTScXwWoeUfrCoa7WN6w++zwRd0MG3eCRJS7R+30bzdAz1q4JrisszUVNlxaBcaR5RZTLuNepMalaSk7xTNMXGyV3AJkE7iN6TdmBBXRLmdnZ7/7WyMR2u1KC4IUzazh1/93uRvBa33SBe7h9VYbFDN69a608SAc=
+snhdc33q06bduh78mnqbogsv5vafn2r3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  snjsfpm87i7tj1929q7rkjlckhharc2f NS 

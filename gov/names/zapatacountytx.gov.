@@ -1,0 +1,4 @@
+pd65vqclu8b0rldpe27egpnf8s9s13ta.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. jtKKG4gO7uJYIESzpZefEBV6f/ewp4PDa0uY7Gq9w2cae68C03kGaIRbXzKEtcUUd25I0ua9GtKp3PuPS5W9IKyKRPuPsx9IOibvqjW9m+KJpJvZ1IYvkUhjeomd8pfzTOGZkYQz0cwQqFqoxmYfnyzkxKT22Ob7qFbFVLc8fNw=
+pd65vqclu8b0rldpe27egpnf8s9s13ta.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pd68r2v0vht6nmcbc6c45pjcklfk0h4g NS 
+zapatacountytx.gov.	86400	IN	NS	mns01.domaincontrol.com.
+zapatacountytx.gov.	86400	IN	NS	mns02.domaincontrol.com.

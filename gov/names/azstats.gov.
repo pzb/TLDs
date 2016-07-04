@@ -1,0 +1,6 @@
+azstats.gov.	86400	IN	NS	ns-135.awsdns-16.com.
+azstats.gov.	86400	IN	NS	ns-830.awsdns-39.net.
+azstats.gov.	86400	IN	NS	ns-1486.awsdns-57.org.
+azstats.gov.	86400	IN	NS	ns-1590.awsdns-06.co.uk.
+hj75ld37uevf8fvfe6s3vs7b48o0inik.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. w9r++UsKeIKG7T7VfHQ+Kkopip55fzcTyvSyllrvr0nBup8ieUk3uD/BfTnG16FSKey0GtRhYMzA2wo8XR9LtSbxVstDuM1BYW/uvjv/Q/H/ZtJNZzq9Y37MBLPnSsXDMJA/k6GU0SBpuTE3huRGm5LdxZQaCEzFAYe10WPd68s=
+hj75ld37uevf8fvfe6s3vs7b48o0inik.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  hjp9h2np6qgpjd1r8debi4g8rof0sjmg NS 

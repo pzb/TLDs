@@ -1,0 +1,8 @@
+as1p6t9vgqkn3iihtiomctkaumlaucri.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. edC5XgU3fJF8VXXk/CQWh7qZ/QcVdxRr6Xy/bcK3de2BHQBHbMAafp+AkkLpLBjX0wH8tkdIDUiBzb+J/pezMWVYPPtIO7vA1agQBmsxSSVjrG5bLjs+T410EOWHO9bSfvlx5LonE+2NpFtuxf58g5m3ZK9eRzRshOfv3jmoHDc=
+as1p6t9vgqkn3iihtiomctkaumlaucri.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  as1tavori8ujv0ijujrojvh7padb0823 NS 
+charlescountymd.gov.	86400	IN	NS	ns.charlescountymd.gov.
+charlescountymd.gov.	86400	IN	NS	ns2.charlescountymd.gov.
+charlescountymd.gov.	86400	IN	NS	ns3.charlescountymd.gov.
+ns.charlescountymd.gov.	86400	IN	A	167.102.160.34
+ns2.charlescountymd.gov.	86400	IN	A	167.102.160.35
+ns3.charlescountymd.gov.	86400	IN	A	54.84.205.129

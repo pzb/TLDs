@@ -1,0 +1,4 @@
+akleg.gov.	86400	IN	NS	nsanc.legis.state.ak.us.
+akleg.gov.	86400	IN	NS	ns-jnu.legis.state.ak.us.
+j5ips5u3s0ha3fufdvck9ouaf4k98gnc.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. BEFMpsnzLUydGFAJF8RHVH/QI6iIBJTzuwIxmmvaSLlMNCXI7K+Ker5nNtGnrdJY43gEqCQECHgMm9F7tgKYiciKdXEfNPkBqVL7QOhwH82iCVhZ4D08JzBjSlBls0DU6Lu4N+a09e0vhGdncwgGRFWQbNIsF3+w6opy14amzOY=
+j5ips5u3s0ha3fufdvck9ouaf4k98gnc.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  j5j40cs731lvbb9e41llt41bupnpgok7 NS 

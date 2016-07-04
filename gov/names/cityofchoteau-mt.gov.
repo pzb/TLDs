@@ -1,0 +1,4 @@
+cityofchoteau-mt.gov.	86400	IN	NS	ns1.preferreditsystems.net.
+cityofchoteau-mt.gov.	86400	IN	NS	ns2.preferreditsystems.net.
+es99sifcjo00nt031boq5jlmpac2dgh5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. DI8LOEDl6VVpMww3c+qmOGOQ6NMBxz9gjaOi8Ba1TDPh+tkjS4kXmuYotcwjSS3z2WdhQpolYGAHxryv3axQ0NjFJpAAWFg4+X1bjHeoyjB17/CgkLjTr6X/nh7Gqlim8xuVBknnxpt+8Ix22L+ulGSFKJ2E3EIauduuupwdQJo=
+es99sifcjo00nt031boq5jlmpac2dgh5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  esh40o160d79q5b0csdmb2ed3i02j2a6 NS 

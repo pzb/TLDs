@@ -1,0 +1,4 @@
+96rj588nklls0j1anhq7mrnjnji5jhj9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. DY1m5kYtc4mksE3bs21bc+gmkp6hLPAHhX4LooB922Bs05LJz0HIFXWN+PbCjeQySxhFpKt4HULoeQtS27U+YY2ULq2sReVi2MO37qouMCGfk0cXSDMqlQ7Z71VYUGfl9vKnn/I4ecLp5HsN2tTDG4ey42k9UcD3cNMYflFbW+Q=
+96rj588nklls0j1anhq7mrnjnji5jhj9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  970foe3i7apiti24j0dootoo5758lgut NS 
+wvlegislature.gov.	86400	IN	NS	names.wvnet.edu.
+wvlegislature.gov.	86400	IN	NS	nameserv.wvnet.edu.

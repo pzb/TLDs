@@ -1,0 +1,5 @@
+9u96k7ksctsfug8pji30v8n7ttethv0d.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. UDLfgvEGMteeU1dLdPMOx9fgQswSYhZ2rLuQTSACZWVHlGuUQlIq7a0wqE2ctpUl22iPK9iCJqEaSX+kZ4JzHkiF5v1mTyJXl++zTTkseoCH7MVwfrqGG2rzkmoyklZ2onBbWmkOn3Mf1JFDUjznczQEUcNbHHhVU5ChUiAZZcw=
+9u96k7ksctsfug8pji30v8n7ttethv0d.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9ubuv1q465j40hob0uf0ipfs6c2s73h7 NS 
+montereyma.gov.	86400	IN	NS	ns1.infotech-maine.com.
+montereyma.gov.	86400	IN	NS	ns2.infotech-maine.com.
+montereyma.gov.	86400	IN	NS	ns3.infotech-maine.com.

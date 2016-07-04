@@ -1,0 +1,6 @@
+f5ble0ots4rfmf31j982dqvm5fss06d3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ZB9LMJYaNROkTF9RW3G/9tOMnLdeWU/omC5TDSz1C2HHO2aA7K459QhormCgfX8Q9qiXEsE8R3SS3FIv5v9W/y0kk0sxOXm4KQz2bIYB8in+8Ap4k29TzXjoG4S4rZsMgAbq5DiCbmz8sk1tICBPBr3ncHsfZboRoTvEsv9mz/0=
+f5ble0ots4rfmf31j982dqvm5fss06d3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  f5d55ndcl6e7qf2qbucmsrbjrr609viv NS 
+sweethomealabama.gov.	86400	IN	NS	ns-26.awsdns-03.com.
+sweethomealabama.gov.	86400	IN	NS	ns-855.awsdns-42.net.
+sweethomealabama.gov.	86400	IN	NS	ns-1498.awsdns-59.org.
+sweethomealabama.gov.	86400	IN	NS	ns-1699.awsdns-20.co.uk.

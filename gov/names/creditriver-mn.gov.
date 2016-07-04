@@ -1,0 +1,4 @@
+creditriver-mn.gov.	86400	IN	NS	ns.integraonline.com.
+creditriver-mn.gov.	86400	IN	NS	ns2.integraonline.com.
+dcgdbmairsfpr8k4p4428k36vsu2i0vl.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. pZZGEZVg6OEAoYSVIAK+5yr6MyG8Cw+G9j+Q7/BsjNbstTfNNfaNW1Jv2a7iJotxNAVRfhdsIhAE+RhABf1vd4Md559VLYtGHA/Xrn6qD4WuGX1RWVNN/3wX/t3ihP+4nLL1zcf4H0+KY83pYADLx9ekqzV95yxkSXFbAn+3gUo=
+dcgdbmairsfpr8k4p4428k36vsu2i0vl.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dcrrhb7ra5uc3qv815u35oua5p7fj0a8 NS 

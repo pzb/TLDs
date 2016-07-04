@@ -1,0 +1,15 @@
+faca.gov.	86400	IN	NS	dns.gsa.gov.
+faca.gov.	86400	IN	NS	dns2.gsa.gov.
+faca.gov.	86400	IN	NS	dns3.gsa.gov.
+faca.gov.	86400	IN	NS	dns4.gsa.gov.
+faca.gov.	86400	IN	NS	dns5.gsa.gov.
+faca.gov.	3600	IN	DS	45737 8 1 d18551892babb552ee94c9c510593645ac815326
+faca.gov.	3600	IN	DS	45737 8 2 1d99b409d8fb1af83dcff36c8d82f7ccc3d0219eab3ae2aa14fdd5d5468276f1
+faca.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. v7SRrYNM9WjU8CuwFNfJdzKWZP/q6a5iHkB6S52oqX5gnZbG5X9E6QBSrIyC52AXxzNnmyPuGvpW4DAWSYBjh+0QY549BeFd+/X+v6uxccYTM0FsacTZK+TEtn21obeK5C0Ijr+8wI3fhJybPOe5xb5DM0DBNASj5+NY1PtS8J4=
+dns.gsa.gov.	86400	IN	A	159.142.136.198
+dns.gsa.gov.	86400	IN	AAAA	2620:0:150:280f::5
+dns2.gsa.gov.	86400	IN	A	159.142.150.68
+dns3.gsa.gov.	86400	IN	A	52.203.230.235
+dns4.gsa.gov.	86400	IN	A	159.142.69.84
+dns4.gsa.gov.	86400	IN	AAAA	2620:0:150:4013::5
+dns5.gsa.gov.	86400	IN	A	159.142.45.20

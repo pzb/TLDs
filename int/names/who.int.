@@ -1,0 +1,9 @@
+who.int.	86400	IN	NS	ns1.wpro.who.int.
+who.int.	86400	IN	NS	whqdns1.who.int.
+who.int.	86400	IN	NS	whqdns2.who.int.
+who.int.	86400	IN	NS	whqdns3.who.int.
+who.int.	86400	IN	NS	ext-dns-2.cern.ch.
+whqdns1.who.int.	86400	IN	A	158.232.12.5
+whqdns2.who.int.	86400	IN	A	158.232.12.6
+whqdns3.who.int.	86400	IN	A	202.188.122.155
+ns1.wpro.who.int.	86400	IN	A	123.176.64.11

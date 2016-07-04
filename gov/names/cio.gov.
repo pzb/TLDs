@@ -1,0 +1,10 @@
+cio.gov.	86400	IN	NS	zc.akam.net.
+cio.gov.	86400	IN	NS	use6.akam.net.
+cio.gov.	86400	IN	NS	usw1.akam.net.
+cio.gov.	86400	IN	NS	usw5.akam.net.
+cio.gov.	86400	IN	NS	usw6.akam.net.
+cio.gov.	86400	IN	NS	asia9.akam.net.
+cio.gov.	86400	IN	NS	ns1-145.akam.net.
+cio.gov.	86400	IN	NS	ns1-176.akam.net.
+cio.gov.	3600	IN	DS	2556 7 1 2dd888f2ec3501aece1f954a74ccce0b7cf806da
+cio.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ZQtSq+3ud3aUPnlJ8/PU/KM0hcMJp0THtXNGMm6t/ug2hEcQfRUtQa18zvfghk7e8w2Sta6GwYfaWZ3mI7LOIVZTFokEgpu2m5lUCkYorvGjPAbPJ+G8nFDQKk3G/XZjLrNHEJssIEIE99/0+BAJqk8iADfb+YscYIQ+Fw3tkbQ=

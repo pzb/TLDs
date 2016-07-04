@@ -1,0 +1,5 @@
+athol-ma.gov.	86400	IN	NS	ns1.infotech-maine.com.
+athol-ma.gov.	86400	IN	NS	ns2.infotech-maine.com.
+athol-ma.gov.	86400	IN	NS	ns3.infotech-maine.com.
+hiv73kttipi5kl9ohrje107t3lfv0rqo.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. bXgPL97uOAjXzBelyecAac+wV+kfHg2EeJb+IW+CR7WzG79yJJ6CMJA/qG6PTfyfD2l4+PGKmPfPP3sR4m1DU3MGCtqQlBywVAktG1jiuozJfltEArZAgQTgmyRdX58CCr0wdbEkEZXdlrc3zxNM1j+pNIVSDDS3i8C5R4mlvpo=
+hiv73kttipi5kl9ohrje107t3lfv0rqo.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  hj75ld37uevf8fvfe6s3vs7b48o0inik NS 

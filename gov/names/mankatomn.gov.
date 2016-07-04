@@ -1,0 +1,4 @@
+ltmo0fevck3fptemuj2gag7iai4ga08s.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. RiTlndeuaM33of+P5r5E5Ohwy+LmBwhs5RNmr4u3XmYomHudksJVlxsO4iBQo2cHaGXsd7yskGTi1ZeJkkfE0bInTHxdRPZZp7PpmBP4oWR8sEj5M8A21ykTdr1TSVR9Lqs47k/tuwFTXW/YAYDnbhlevo5M0eIne4EEDR18LAM=
+ltmo0fevck3fptemuj2gag7iai4ga08s.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  lto1bes7bec9vu7n793nq5fi7gbk4pdn NS 
+mankatomn.gov.	86400	IN	NS	ns1.hickorytech.net.
+mankatomn.gov.	86400	IN	NS	ns2.hickorytech.net.

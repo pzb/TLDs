@@ -1,0 +1,4 @@
+cityofalgoodtn.gov.	86400	IN	NS	ns17.domaincontrol.com.
+cityofalgoodtn.gov.	86400	IN	NS	ns18.domaincontrol.com.
+v8s59k8t6mae5itjiape2vquqopt3ae1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. tE3tYzdRS1MI9/1eNqtUM+OiKPZeAlFn0q+ruKlnQtyd3gNNXBg5uzC03htghRMx00/GiObo+C54UNGD3QrXwBDUOw016aAfds/NIHDc0FXXV8Fc0scvceAza90+6yP7ves6URuL3kaiMaZSR70Ps+cJINHKtbknhJLKzlsZ1zI=
+v8s59k8t6mae5itjiape2vquqopt3ae1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  v9etbafrknj2mpcaj603h0v35mb1pfms NS 

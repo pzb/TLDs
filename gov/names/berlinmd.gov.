@@ -1,0 +1,4 @@
+berlinmd.gov.	86400	IN	NS	ns1.peer1.net.
+berlinmd.gov.	86400	IN	NS	ns2.peer1.net.
+nm9m2s6om9v4thrdh9tilleg86b3kq11.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. DF1nv60ZRG8C/1TehNaldn6eOSwtME5sy4aGkxYQ0KZbrCGRi/KAVafE1lTM0tDALaSDw5FXJ3uAplOes8Zwgb49H1cC0vckrE2REl92yvrsLXBbJMnaoanIAYeG0U2WgK5p2UgoToSyjFAOzW5xn8QR+URwtcKJFn8NYV939dc=
+nm9m2s6om9v4thrdh9tilleg86b3kq11.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  nmci6d380qhltdke7igc9k68rfhfe70j NS 

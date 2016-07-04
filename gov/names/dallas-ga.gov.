@@ -1,0 +1,4 @@
+dallas-ga.gov.	86400	IN	NS	ns35a.att-webhosting.com.
+dallas-ga.gov.	86400	IN	NS	ns35b.att-webhosting.com.
+jk09htucouifg1pdahio0943dotja3ij.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Je+N8JloviZ5KT8TaGAcjN1EAlwl7egcFlKH4XUux0zW1/iLKJV2nAA4M37zXiZ1XF2SOHN38XtyfKYiMtI6NuL34UwPFdmsOWzFXiSzWYJ0m1F8w6/Anfqiad1ZmbqPy3JcF5btGP5mgCwa9ctwZp1fq90p9h6dd3rI01eHZzk=
+jk09htucouifg1pdahio0943dotja3ij.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jk13maeiketlr6onpkj585verddg3e1e NS 

@@ -1,0 +1,4 @@
+alhouse.gov.	86400	IN	NS	ns3.asc.edu.
+alhouse.gov.	86400	IN	NS	asnsvr.asc.edu.
+vks8sv80pr8qhovu982p271p23sr8iv8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. EFRsFsHDMrCCcghq++TNk/jF7Eu91/jkuIlcl/153bJDrZ1l9cSI8HtL24vcES0dP4rUmQ7FmZ6mhoVbj8Kya4xHMdJZ3U0ksvnP7I8HdaoAMaRxRZEmEkogkzC22xKpgXE7GByIWfX+ttdot6gcIW7fxxNpl2cT3GmsZIJrUEw=
+vks8sv80pr8qhovu982p271p23sr8iv8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vldrm444rvbjogfvdco7a38bmi5vh4qd NS 

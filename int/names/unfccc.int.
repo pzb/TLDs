@@ -1,0 +1,4 @@
+unfccc.int.	86400	IN	NS	ns1.unfccc.int.
+unfccc.int.	86400	IN	NS	pns.dtag.de.
+unfccc.int.	86400	IN	NS	secondary006.dtag.net.
+ns1.unfccc.int.	86400	IN	A	62.225.2.18

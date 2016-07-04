@@ -1,0 +1,9 @@
+dietaryguidelines.gov.	86400	IN	NS	ns1.usda.gov.
+dietaryguidelines.gov.	86400	IN	NS	ns2.usda.gov.
+dietaryguidelines.gov.	3600	IN	DS	45637 8 1 ebd8ed96e72921a663080bed6e10d4704678aa70
+dietaryguidelines.gov.	3600	IN	DS	45637 8 2 e7196443f4cc92843f8d9c1e955625c1d83251b2054649612c4ea9dc582143a5
+dietaryguidelines.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ix7rbSFZgtyd9bHPwBzviPhVXlD5XsL7Ck0tcnayC9YUYzd3gs2zGa+b6MvPHqRLfU56tV6sI3l7J8v8qzzhpyb18sPR6HkcBB3IN/PR4D0qFhOKp2OcT983QmDQm7PL/gQ4OuyCE3kKtd+p907bDsVobHcQFzeItpXEWCHFoQQ=
+ns1.usda.gov.	86400	IN	A	199.141.126.202
+ns1.usda.gov.	86400	IN	AAAA	2600:12f0:0:ac04::202
+ns2.usda.gov.	86400	IN	A	199.141.126.206
+ns2.usda.gov.	86400	IN	AAAA	2600:12f0:0:ac04::206

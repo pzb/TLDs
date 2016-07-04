@@ -1,0 +1,9 @@
+d116001.dmdc.mil.	21600	IN	A	214.3.116.1
+d117001.dmdc.mil.	21600	IN	A	214.3.117.1
+d118001.dmdc.mil.	21600	IN	A	214.3.118.1
+dodsurveys.mil.	21600	IN	NS	d116001.dmdc.mil.
+dodsurveys.mil.	21600	IN	NS	d117001.dmdc.mil.
+dodsurveys.mil.	21600	IN	NS	d118001.dmdc.mil.
+dodsurveys.mil.	10800	IN	DS	14029 8 1 b1b7d7de93693b6c0fb956ac3ad121958563ebc3
+dodsurveys.mil.	10800	IN	DS	14029 8 2 10e3c4c4a246a90891254d22bb9c17ef1a842f2f219262adefac9f4cf1688729
+dodsurveys.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. MptAhg61nRaD0x+/jETM8CTueOap+YdY/1f2e3ZBJV4KAmkWqNow+9xvcNdrYxg3s1SvlGiUtDMU7dJ4pua1ex5kfg/jlVm3/vjqHxdo38jUpbSetzbXifZrGNSLXt2n6eSg00nUn+IhkX5tnclsK3NuRkV65Z5hIYPEjyK1GkERDvY=

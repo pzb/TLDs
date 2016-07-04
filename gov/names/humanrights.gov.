@@ -1,0 +1,6 @@
+humanrights.gov.	86400	IN	NS	authns1.centurylink.net.
+humanrights.gov.	86400	IN	NS	authns2.centurylink.net.
+humanrights.gov.	86400	IN	NS	tpsns11.terrenap.net.
+humanrights.gov.	86400	IN	NS	tpsns12.terrenap.net.
+humanrights.gov.	3600	IN	DS	30783 7 1 ec65fd0f36928ae9d61bd1270bcb33cf859a25ec
+humanrights.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. JlPQNErLRdLuNa9naa2BA9o0dZ3AoKSGZJTOmoLOi7F3AnODfyCUUZcQ85BOCa3R/v4VZl2xVqp47AtngV07OFKvH51OYmhDPcDvqypVFtirGzzGklllCVe5RMMQ4ClO3kOiDwHYQfcGe1uuGS8u8oy/wOKE0nGDNY4q0S9J538=

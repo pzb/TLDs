@@ -1,0 +1,14 @@
+learndoj.gov.	86400	IN	NS	ns-jdcd-01.usdoj.gov.
+learndoj.gov.	86400	IN	NS	ns-jdcd-02.usdoj.gov.
+learndoj.gov.	86400	IN	NS	ns-jdcw-01.usdoj.gov.
+learndoj.gov.	86400	IN	NS	ns-jdcw-02.usdoj.gov.
+learndoj.gov.	3600	IN	DS	43225 8 1 0719a25c01b8a5187aa7060f289bda8fcb96c1af
+learndoj.gov.	3600	IN	DS	43225 8 2 655f5bfdfc8ba87ad9a750091d3f119a3a991347c5a32043c66de904dcd32201
+learndoj.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. F/pOJTvV+CguQjqcVmp68T/srIlle56uz/CItIg71pEbqOg0i6mKfMzcBR4vtOejnv4IASeU+Nfk+HdSG+qEO+ooxMm/+iCe9XLHsaTvc0R54mZCEIcpnB/0nc6xzDOrGWa2vdDLp1+YJpabGsLw0Tnet2I+7WEkjx+XduieTxI=
+ns-jdcd-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcd-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcd-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcw-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcw-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-02.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::6

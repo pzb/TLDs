@@ -1,0 +1,4 @@
+bloomington-mn.gov.	86400	IN	NS	ns18.zoneedit.com.
+bloomington-mn.gov.	86400	IN	NS	ns19.zoneedit.com.
+d688sr84in8i9vh9978lh5ttlbfa3uno.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. O8wYdO6UrkNtjDobUMZnQjvOdUCmfSukdasDZjc0N6Kk2bgAv2cmgKHKswyx0DpIOtCT85XID8lPNN8EwALfuWeb3Oi4ga1JeCIQwj5bTJBdZOeFIR16raJflTBuvTjTbr4Y3hw4/s/FgzJTa0qHtJp0KCH+36+OCv56whvdi1k=
+d688sr84in8i9vh9978lh5ttlbfa3uno.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  d6pqgq1sdgu7jfch5khbkm3ko1amsg5c NS 

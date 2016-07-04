@@ -1,0 +1,6 @@
+0g7tak7ucdo5rc5uo5bpbngu1veghd45.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ewvbWb9XKN3hedD5Zv5xMN0I25Q44HTasazhk+4c1DwVoP/FaazWdIWa3dKomJ05FNr2M3q4Z39LgLa/kHUCN34kNW54PcQIEdOQFiyFB0Mo4Fe8VYXjtb3oUT/Xa1YffKp/o/8rg1TUrHb1cjz7Rpy9/jF89+q4bCogmDQbmiM=
+0g7tak7ucdo5rc5uo5bpbngu1veghd45.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0g9thoduvdm2gorp34tplngt1j0ebqgj NS 
+dns1.azdes.gov.	86400	IN	A	207.108.136.98
+azjobconnection.gov.	86400	IN	NS	dns1.azdes.gov.
+azjobconnection.gov.	86400	IN	NS	pdns05.domaincontrol.com.
+azjobconnection.gov.	86400	IN	NS	pdns06.domaincontrol.com.

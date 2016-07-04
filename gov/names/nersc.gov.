@@ -1,0 +1,11 @@
+nsd.lbl.gov.	86400	IN	A	162.217.113.14
+nsd.lbl.gov.	86400	IN	AAAA	2607:fc50:1:9c00::2
+nsx.lbl.gov.	86400	IN	A	131.243.64.3
+nsx.lbl.gov.	86400	IN	AAAA	2620:83:8000:140::3
+nersc.gov.	86400	IN	NS	nsd.lbl.gov.
+nersc.gov.	86400	IN	NS	nsx.lbl.gov.
+nersc.gov.	86400	IN	NS	adns1.es.net.
+nersc.gov.	86400	IN	NS	adns2.es.net.
+nersc.gov.	3600	IN	DS	25773 7 1 3e8e5471d05d7c23e26545772fd76f8a67bbef9a
+nersc.gov.	3600	IN	DS	25773 7 2 9b63b93f463491fb5f104869ce57fb8020c5917f22ded93819ce7337e68b36be
+nersc.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. jRAXQVl2aFfmdJAyjLogxEjGwZd9wcZxG4UhwwssluFcRq4K9/W4LK6tM+S2bjJwmmuLeXZmsNRPcASKzWEE1WXUrvRiSkEjzxa4twDzrVJZWg81UQwjetSXdfEHbPFVBJdlp+jND/uTDB9bZFpScgjzJg90fqzcBHVSDBJvv+g=

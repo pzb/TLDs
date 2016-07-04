@@ -1,0 +1,4 @@
+coopercountymo.gov.	86400	IN	NS	ns1.socket.net.
+coopercountymo.gov.	86400	IN	NS	ns3.socket.net.
+k1bajtrg8cqiiqfc557mqqkktcg23bm4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. o5yrxgJwEWHSYebhA1EcSc3TIt1Nzt2osH/+B6rPYiuu4YvtYahFY5HIcgrpNfiBJnqE4JPiAGISGcAioBNw/X+1u14zjj6IZgDJ+r84c/T22Eyx4F4+STV+k7dr+TI0T7BWFBJnoyvWQoDBydUzHNVdmVgsPqRyuB4BEJuSmg4=
+k1bajtrg8cqiiqfc557mqqkktcg23bm4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  k1f5bsulndb7cusmqphlldh55g4ocn5f NS 

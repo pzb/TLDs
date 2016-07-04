@@ -1,0 +1,7 @@
+learnatf.gov.	86400	IN	NS	ns22.usdoj.gov.
+learnatf.gov.	86400	IN	NS	justice2.usdoj.gov.
+learnatf.gov.	3600	IN	DS	53074 8 1 f6478f4e6fbed74a774e4fe97712a5386dc2cbe9
+learnatf.gov.	3600	IN	DS	53074 8 2 1096cfb189a21f320e009492f6852fc342a9c2e1c074c64e7b447b9268555b14
+learnatf.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. jSZlAXU+UGPFVykIx1cK9KwplJXgetpUY0N7FzgWvgzDlFFZs3uRDMhEyTKkopPEiurjqFuJfcSA950UDGog/0lPfR/lpEUXGIy43YBD38fTNek6BqpN4jSq7QtzX9Yv5MxBIkReEofdQrN5sfDnB4WSPxn3NG/GtA5IvBr5OsA=
+justice2.usdoj.gov.	86400	IN	A	149.101.1.3
+ns22.usdoj.gov.	86400	IN	A	149.101.1.6

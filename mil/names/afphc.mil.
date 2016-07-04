@@ -1,0 +1,8 @@
+afphc.mil.	21600	IN	NS	ns01.army.mil.
+afphc.mil.	21600	IN	NS	ns02.army.mil.
+afphc.mil.	21600	IN	NS	ns03.army.mil.
+ns01.army.mil.	21600	IN	A	140.153.43.44
+ns02.army.mil.	21600	IN	A	192.82.113.7
+ns03.army.mil.	21600	IN	A	130.114.200.6
+i0ftn72vfkvm8et8ufoft70fjbhsn1vd.mil.	10800	IN	RRSIG	NSEC3 8 2 10800 20160708161835 20160701161835 16413 mil. FLZJhVvASUCMz0d32HaPcN8CTwEgvG/rHTOcEuHCu3XdvWYt/+5SWPKlInXpr3jcy9uWNL2kYgKERslTSzS6WvHlbeS/kvow9grFf/IbFVVhG9g7HLs/EeTa7dBNDBCKXwnfDQRn7EBvqUwWFMip834Jvd9u2+oaK7dEEMSn7FSdwzo=
+i0ftn72vfkvm8et8ufoft70fjbhsn1vd.mil.	10800	IN	NSEC3	1 0 10 adeb  i0q5eb8lqvs579laidgak1vbv9f01sl9 NS 

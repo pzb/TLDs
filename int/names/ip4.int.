@@ -1,0 +1,2 @@
+ip4.int.	86400	IN	NS	dot.ep.net.
+ip4.int.	86400	IN	NS	flag.ep.net.

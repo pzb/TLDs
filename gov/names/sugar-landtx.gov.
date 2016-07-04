@@ -1,0 +1,4 @@
+hamtk41t86t61ee2aud4h0kdsej8h0cj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ksJq19/vzlUzgY4vinojVXgOxq0APrgKt0znG1FGyGhhkpUkG8+jI17UtQHZK91tbfhzPhkslmjf1/ah/yTDy/MW4Jntv3WQdIfiW2oRpx7MaVCoItzGhQS7SzMetkU8wM5zohWrsmKiE+aIqp8vP7Omvb9+PYtT/QY7PQHrIIQ=
+hamtk41t86t61ee2aud4h0kdsej8h0cj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  hb2ce1dsuatgjq1671pmsm6q2e8lfte3 NS 
+sugar-landtx.gov.	86400	IN	NS	ns1.vericenter.com.
+sugar-landtx.gov.	86400	IN	NS	ns2.vericenter.com.

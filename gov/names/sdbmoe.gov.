@@ -1,0 +1,6 @@
+nks8dnuguvlsenqs2j6qi903kgto6ptb.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Y2V4gh/WPYfM3KC/FBvJ+oICU/aJfG3oGhLM1jc8wIpZ/leJTHqd6h3cWhEFmHYuWZ0pQOk65drwE9iKZ8cYBqWTxMsBUcn3idiuhdmBEZYsAyoENlYmhWGadu31hpmuvWsdo505UrilAEr63VrVobkd/AArMQllZXHtwXDJzxI=
+nks8dnuguvlsenqs2j6qi903kgto6ptb.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  nkt7jv240g5p1m6ktitju1ln7n5gr4o4 NS 
+ns1.sd.gov.	86400	IN	A	164.154.62.76
+ns2.sd.gov.	86400	IN	A	164.154.62.77
+sdbmoe.gov.	86400	IN	NS	ns1.sd.gov.
+sdbmoe.gov.	86400	IN	NS	ns2.sd.gov.

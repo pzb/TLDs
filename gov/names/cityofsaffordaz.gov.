@@ -1,0 +1,4 @@
+9hef4r97agl4ilrfvcihfq9h8jnsmjrh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. bH8rUxtrBwCjMOBqHH1KlEOIiZWS/h2wONx/k0RmTxx7mazkB5jSWpHj7WK+agnPejvFwS49Ce9FtvMHVMDexx3JQjz6cjAINJFkMQvB9c1VMeAqqquhceB+hH4tGHWTraXHuFCu1R9xukwGHk0uKexVxqrGL4Zgz0uYZ/BGyO4=
+9hef4r97agl4ilrfvcihfq9h8jnsmjrh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9hgqd73j24861sakqvt08crbr5q8brpi NS 
+cityofsaffordaz.gov.	86400	IN	NS	pdns01.domaincontrol.com.
+cityofsaffordaz.gov.	86400	IN	NS	pdns02.domaincontrol.com.

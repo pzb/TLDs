@@ -1,0 +1,4 @@
+oregonmotorvoter.gov.	86400	IN	NS	lion.state.or.us.
+oregonmotorvoter.gov.	86400	IN	NS	puma.state.or.us.
+vdd8508mfq9judv8l4toub9tuj9iij8c.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. i3qZ6yh0WXMadypNi/pCh0ViCkj46O83k9YHSh/z22GWAQpZm4Z9aVwlVExcX3AfZq+dCMqaEI7dmrTvfBcgmB9Ny0IfVGQGJs/3BuVv2gvUMKGVlAWVbD/HfX/TzEjstvIWm1ijP54M++addASNxLIZ3Rlkjtvutu1gUvMZO8s=
+vdd8508mfq9judv8l4toub9tuj9iij8c.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vdi43o89lllhlopgonbqn2crftqp439b NS 

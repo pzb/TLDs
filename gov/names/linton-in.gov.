@@ -1,0 +1,4 @@
+0bis7l7u9bindhkfgm9c3ar2mnsbfpb0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. w699wu8sWV/bhc10FwyTYu1zhEM/dDCuo9rf5/jDMghTFb219DYyRRHVNiW8MXsxgjss0siIbG99ZRSpC+C7aDif4fO5Xi05tmj1QRSwyrZXnjZRp7v5hhlTDYraPFZbEwRqKfuJps4NeFc9n9XR8ntnKw11jm/+DCRkc8qx5SU=
+0bis7l7u9bindhkfgm9c3ar2mnsbfpb0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0bleb0do5p730rqia1cu594avl6pui7j NS 
+linton-in.gov.	86400	IN	NS	pdns03.domaincontrol.com.
+linton-in.gov.	86400	IN	NS	pdns04.domaincontrol.com.

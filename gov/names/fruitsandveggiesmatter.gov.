@@ -1,0 +1,9 @@
+icdc-us-ns1.cdc.gov.	86400	IN	A	198.246.96.61
+icdc-us-ns2.cdc.gov.	86400	IN	A	198.246.96.92
+icdc-us-ns3.cdc.gov.	86400	IN	A	198.246.125.10
+fruitsandveggiesmatter.gov.	86400	IN	NS	icdc-us-ns1.cdc.gov.
+fruitsandveggiesmatter.gov.	86400	IN	NS	icdc-us-ns2.cdc.gov.
+fruitsandveggiesmatter.gov.	86400	IN	NS	icdc-us-ns3.cdc.gov.
+fruitsandveggiesmatter.gov.	3600	IN	DS	33621 7 1 4e5acdbced4e01d755960c9b5339b534d378cc68
+fruitsandveggiesmatter.gov.	3600	IN	DS	33621 7 2 03daaa96c8fb0a5e2002ecc8f9b36ca0dd28746204dab392c537d045a51e4ada
+fruitsandveggiesmatter.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. bWGUrDMJs6kuXM+j21FQon1hXsfczyeiZOxeZvnSv7Pbj+O7cGroJyM7vjM2ad1oY5ySilTyw/kX++U6i89+HvG0QIJZ8ljTrnLI4SQQcy/WNKlX+BG6Pqu6vifb7lcaRtFXRu5sqQZL4y3SExFLEXTN6RXSlLqQuFKbQDC7qRc=

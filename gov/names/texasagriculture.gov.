@@ -1,0 +1,4 @@
+4aempsepilm270auf91egul5ttuf208a.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Ac4U27QxSn52ERKt0RKt37vUwj3STLfFOrxOqqCz0AZK9OONu57tqx5BUGPUtK/ZeFLhwO2v+WxjudsGoBl6qGsrQQJVBKpMaXrucXiP58zVxx0Rr/oSgdblwXyjZ97rQ8P8TwmHFhHqPir5RYK8zeN3q6TIRWHjSEqEAKyNcBE=
+4aempsepilm270auf91egul5ttuf208a.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4ah2a4m6t027mdnbroorvsgehbbkjgvl NS 
+texasagriculture.gov.	86400	IN	NS	ns.tda.state.tx.us.
+texasagriculture.gov.	86400	IN	NS	ns5.capnet.state.tx.us.

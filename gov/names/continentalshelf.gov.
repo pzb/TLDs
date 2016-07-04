@@ -1,0 +1,6 @@
+continentalshelf.gov.	86400	IN	NS	authns1.centurylink.net.
+continentalshelf.gov.	86400	IN	NS	authns2.centurylink.net.
+continentalshelf.gov.	86400	IN	NS	tpsns11.terrenap.net.
+continentalshelf.gov.	86400	IN	NS	tpsns12.terrenap.net.
+continentalshelf.gov.	3600	IN	DS	35460 7 1 b5c68d1e8560593faa235c22eb8dbc9f1cf1005a
+continentalshelf.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. udBSv6PM/lERKVsM6CSBU19kNyfC34Zkk8DGj2OLjyVH4M/o4t4CeAT1ccEDb6hkzGzODpQeGLOIN6c3FcQSv8X6ebOgNc5De4/UKRImghUICvn4r8whh9xbOKek5zeED5ZO7kiW362/0BMEGb314/4crtlMZ2w9A8lIpe1aP2g=

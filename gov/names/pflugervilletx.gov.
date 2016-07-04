@@ -1,0 +1,4 @@
+aqjl80cqujrofct101eojo2thsia6r10.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. m+nddlMyXd7e+fiHEsz8UqreeBgWOs1XdWcvJzzYuXoVUt7piB1cNVDt9rmW4QB9yS4ubXNxlbt7R40QqYuubwHrrivdO0dfDzJt42jc9J09VwFr2WDfR5CPO7UNPu3x4lhBTuItZ2n0A01dxSkHzz3i7zyEMGToaCA8kw6YcH4=
+aqjl80cqujrofct101eojo2thsia6r10.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  aqneqmv8015rm9o8n4msc41h3ahdmthe NS 
+pflugervilletx.gov.	86400	IN	NS	pdns07.domaincontrol.com.
+pflugervilletx.gov.	86400	IN	NS	pdns08.domaincontrol.com.

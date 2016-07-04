@@ -1,0 +1,4 @@
+k8vi3jtdgs63lldb8g1dpf6io16q5c2o.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. c1ctKONLyfOdD2GQdQRT661rF6318fTfx1Hc/hKsEQaybN/Y9K6K5vtL2wMb0BHDDqj2pVYN/4mnUGHEM/egI7fmNCq+wQulAM+VybdF2Hxjoee3J8WUSx61zbqKNVrZZZIegETBghENjSbe6Dzmpq07ZeDw7iWtrI87YDWcM5A=
+k8vi3jtdgs63lldb8g1dpf6io16q5c2o.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  k94jcch1mdgji01il1kaub00tfdq3vuu NS 
+mesquitetx.gov.	86400	IN	NS	may.ns.cloudflare.com.
+mesquitetx.gov.	86400	IN	NS	fred.ns.cloudflare.com.

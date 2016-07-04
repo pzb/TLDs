@@ -1,0 +1,7 @@
+ns1.iowa.gov.	86400	IN	A	165.206.254.145
+ns3.iowa.gov.	86400	IN	A	209.56.120.13
+iowafinancialaidapplication.gov.	86400	IN	NS	dns.iowaccess.org.
+iowafinancialaidapplication.gov.	86400	IN	NS	ns1.iowa.gov.
+iowafinancialaidapplication.gov.	86400	IN	NS	ns3.iowa.gov.
+s834lptpi1dmj87ulsq3tq7kjk2kgrrm.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. UXfKIytm0UzASWDBp6FdDQ2QqjmEm+8sjebPo1bb1gAOTUIql2ekc+cpNkUtMDXD0+K7GM10xInJjU0yq3h5usTO6o3t1X71cM6mS4fOoiWrqO5VZsnDNkfWYcpkDMSfujia26hZixS2FR+8glZs5zpCS+FhnN19D4qfPDlnVYg=
+s834lptpi1dmj87ulsq3tq7kjk2kgrrm.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  s85ilapsa7306skutm343klhd7n7decb NS 

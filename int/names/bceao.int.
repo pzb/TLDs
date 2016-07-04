@@ -1,0 +1,4 @@
+bceao.int.	86400	IN	NS	ns1.bceao.int.
+bceao.int.	86400	IN	NS	ns2.bceao.int.
+ns1.bceao.int.	86400	IN	A	213.154.86.2
+ns2.bceao.int.	86400	IN	A	213.154.86.4

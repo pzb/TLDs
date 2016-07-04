@@ -1,0 +1,7 @@
+cavc.gov.	86400	IN	NS	ns2.thedomaincompany.com.
+cavc.gov.	86400	IN	NS	xdns2.uscourts.cavc.gov.
+cavc.gov.	86400	IN	NS	authns1.qwest.net.
+cavc.gov.	86400	IN	NS	authns2.qwest.net.
+xdns2.uscourts.cavc.gov.	86400	IN	A	65.114.174.134
+jpdost18prjtunl49bot0vf9abld9kta.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. G0F6dIvYCPi+hYydNo4T1iJCBWHlJsUcAOKT11Sfx45DfVTJ2r7PY87U+gnyBE/ubB3deACj8pwr6FuoqBZuogc11G22Cz7390TCi2p2Xr26RXg4PHeCfGKKZlQKP2/6AYxXtHWh0NQhsk69scvFign3+tqVy6LldgvE1caoV+o=
+jpdost18prjtunl49bot0vf9abld9kta.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jpdu4j1kg32ldcq8qfsoeqvg77uqspmo NS 

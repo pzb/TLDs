@@ -1,0 +1,4 @@
+fenu0ml8vmlg7afgmt8bnni08t09b04n.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. CTGCeTbiHgephyl3kANjV3h2t38mxY65VhpLEAvbvu/yS9UKPxsO3XqBvDJrIwbt6wzMBAYRANviBmLPW+CZskIsSnETyn2gQf3UD0GWlGNjvra5ywUZOihE4C2ZcvOJd4piCk3XOsAvknzSUYfFNalCbGHROOpK5a4XZTmNQ0s=
+fenu0ml8vmlg7afgmt8bnni08t09b04n.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ff1k5raurb408b1egbori3j90m01dr8r NS 
+gallowaytwp-nj.gov.	86400	IN	NS	ns1.comcastbusiness.net.
+gallowaytwp-nj.gov.	86400	IN	NS	ns2.comcastbusiness.net.

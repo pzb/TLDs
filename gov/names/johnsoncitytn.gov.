@@ -1,0 +1,7 @@
+5cfftsegu8tiagsrquvv9js80vo2v6l7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. S//+1VV2B9M++yBeSwQAo+iRxN6fTuMwjv2Fv0a55bzfOruMNCweLAxdDpq/RXYj/1joGKJmGXhC3lPtouYA7zhI+GtU1cAZhznlT1M8ypj6lQVxOjle9RoiDkIhad44FXt7q+z2ufbKV6LdrrWH2Fy6gw9rUuuXdXgL7hJ8IEE=
+5cfftsegu8tiagsrquvv9js80vo2v6l7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5chpl2jvmfr5puctmptmn69idq7hknn0 NS 
+johnsoncitytn.gov.	86400	IN	NS	ns1.johnsoncitytn.org.
+johnsoncitytn.gov.	86400	IN	NS	ns2.johnsoncitytn.org.
+johnsoncitytn.gov.	86400	IN	NS	ns5.dnsmadeeasy.com.
+johnsoncitytn.gov.	86400	IN	NS	ns6.dnsmadeeasy.com.
+johnsoncitytn.gov.	86400	IN	NS	ns7.dnsmadeeasy.com.

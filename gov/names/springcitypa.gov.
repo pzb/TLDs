@@ -1,0 +1,4 @@
+5ekl85h70rp9c4a7oi5fc3icvdlr4ckc.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. E7BhdQC6KBrD+WVF9xyFAOq0L1WV1pP16USKMbwA4jnLA/1K/6wnL1S5nmRzyREUY6wPBm9CU98Kkp9jE0miuMWjsQO4R9TuDREBYQX+CwrOMroKfVWPltv35xUzwdTv/BRU8KIS7LgNuFU1C6fZoyqWrjubKdkeLqy4dGnn7gw=
+5ekl85h70rp9c4a7oi5fc3icvdlr4ckc.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5enemr3ilmfprf4gr0psnb252jbj338f NS 
+springcitypa.gov.	86400	IN	NS	ns1619.hostgator.com.
+springcitypa.gov.	86400	IN	NS	ns1620.hostgator.com.

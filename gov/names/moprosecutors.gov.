@@ -1,0 +1,9 @@
+moprosecutors.gov.	86400	IN	NS	argus.more.net.
+moprosecutors.gov.	86400	IN	NS	osage.coreserv.more.net.
+moprosecutors.gov.	86400	IN	NS	current.coreserv.more.net.
+moprosecutors.gov.	86400	IN	NS	meramec.coreserv.more.net.
+moprosecutors.gov.	86400	IN	NS	chariton.coreserv.more.net.
+moprosecutors.gov.	86400	IN	NS	gasconade.coreserv.more.net.
+moprosecutors.gov.	3600	IN	DS	24654 7 1 acbbb96c9715a550148bc34d5e16cd0406bd51ab
+moprosecutors.gov.	3600	IN	DS	24654 7 2 b9158daeff6b3832d2f422fdfdb7ac23ea6a2702e56952b4c66bcb1bd6374965
+moprosecutors.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. hxL5BHcAoqsH+poRxJz32Yjft6TZ2LD4ekD1DefCFlRNFM7QO91G6Tg4ysB/6KzYMWWqy54vswUGbYfy9yKA4cdkuwltjtUxLhySkejSpUV+FNQSziJr5BIfm94qjWGEW0MEtFXQdJAYWCKYnzreIHcmjjPcKBbuM6B9/7CGGPo=

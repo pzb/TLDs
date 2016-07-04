@@ -1,0 +1,4 @@
+hereford-tx.gov.	86400	IN	NS	ns1.xit.net.
+hereford-tx.gov.	86400	IN	NS	ns1.wtrt.net.
+nfv23co5s2lvoo2lods77nvtipouup0h.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. MYO9/DDWNLrl431WnXZUnf0+q2TWKmMr6yP7mbQ9BmwreWnqqQttjiR1Xr2yzrX58mSYhn7+87yu04Lk0uC0x+nUW/UomtfBSJ82su3qCAbQ0HaVo/BHlJe/UuwKvzSYHlh1RWHo1fV7C1UfJIBOZz2Z1vW/J5ush0vNU94qcnM=
+nfv23co5s2lvoo2lods77nvtipouup0h.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ng8rg3d7hsh2qhm3hlup11lpuihdruka NS 

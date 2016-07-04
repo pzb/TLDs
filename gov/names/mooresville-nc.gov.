@@ -1,0 +1,4 @@
+ep1k9gak2bria5lhkim5oel6r47mprrt.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. W0Uy0EKTiVfYa/W4wp6j23n0D4U3Dl8qV8GVTJU/bYQ5YT8VYEcKo3Y7DyeJJHmNyEJE1vttZxUdK3pDYa2RWSuHql1cGy/mFwN+F1JKNHkfHKG8mZtaXIU0ow/Uk3JSYwiuX3orTNx25NJDp/nfOgEBBcwm6fAl/8rBP3lbPH8=
+ep1k9gak2bria5lhkim5oel6r47mprrt.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ep5s9pundn9af237soa52uj79tcg9uhp NS 
+mooresville-nc.gov.	86400	IN	NS	ns1.mydyndns.org.
+mooresville-nc.gov.	86400	IN	NS	ns2.mydyndns.org.

@@ -1,0 +1,6 @@
+gadol.gov.	86400	IN	NS	ns1.gadol.gov.
+gadol.gov.	86400	IN	NS	ns2.gadol.gov.
+ns1.gadol.gov.	86400	IN	A	70.159.4.58
+ns2.gadol.gov.	86400	IN	A	70.159.4.63
+ub0a777osrrrhbdanqievqv9dh0e0e51.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. O8jU6za4n8ux6U/n6+uwUusUG6rMZb3kGOWCBQaoQJ1kGc3vmFNN/zr9kOY6PmCB4QYgr9myFjXBwRO7WWO0PiXknbXUgjNS4yPM1SQR1d6tIRLe1p5uLweu/8kn42NffiLUSfxlPK5U/62zp6CADBoBLFyiMpnDNWwOlTsiD1k=
+ub0a777osrrrhbdanqievqv9dh0e0e51.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ub61sms6b1d7n9cesu5nheg9l57um35u NS 

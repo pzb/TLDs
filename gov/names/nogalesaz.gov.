@@ -1,0 +1,6 @@
+68q02vbhqb09aa35novonjhcho8kmguf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. YBo3+EyUXzTq+WVuORW2INUlQ6D7X0r2hnHFaEjHAfu7ptav9gvXC3opllHrVTiOlO9MbgZ6l4UB+BBjjUAUcNnP1huYqdvjhwf74cTZFSiSt8eadtgmxWKqaez3DuRTrI/9YwmzoDpL9uBNfYx60go1vMNAm7+104L2yjhvHi4=
+68q02vbhqb09aa35novonjhcho8kmguf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  693frbpqoagsdurromfjsukf9ha1ki2l NS 
+nogalesaz.gov.	86400	IN	NS	ns-453.awsdns-56.com.
+nogalesaz.gov.	86400	IN	NS	ns-745.awsdns-29.net.
+nogalesaz.gov.	86400	IN	NS	ns-1256.awsdns-29.org.
+nogalesaz.gov.	86400	IN	NS	ns-1869.awsdns-41.co.uk.

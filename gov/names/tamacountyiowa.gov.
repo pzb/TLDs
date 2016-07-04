@@ -1,0 +1,6 @@
+9tupgqhdkg7mcfgv57que4pmsi93k4bt.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. m19Zi9rK2z6m/mGsG0ZtefiuW0rRTV8rBc4GhG/SHkQqwaxXJsuE+fyOfBj8El4xF8nuLMXpECdhezRNIV9S7C3IxzcDXfSqp4YTZEj4w2tSJKc+KDLV8TZbly4xnOSscSdbPVNq8x6VLuGiBD3HVXbY0XHjOpSVgToCSSuFeYw=
+9tupgqhdkg7mcfgv57que4pmsi93k4bt.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9u96k7ksctsfug8pji30v8n7ttethv0d NS 
+tamacountyiowa.gov.	86400	IN	NS	ns1.windstreamhosting.biz.
+tamacountyiowa.gov.	86400	IN	NS	ns2.windstreamhosting.biz.
+tamacountyiowa.gov.	86400	IN	NS	ns3.windstreamhosting.biz.
+tamacountyiowa.gov.	86400	IN	NS	ns4.windstreamhosting.biz.

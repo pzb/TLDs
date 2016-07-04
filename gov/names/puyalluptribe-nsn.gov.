@@ -1,0 +1,7 @@
+puyalluptribe-nsn.gov.	86400	IN	NS	ns1.puyalluptribe-nsn.gov.
+puyalluptribe-nsn.gov.	86400	IN	NS	ns2.puyalluptribe-nsn.gov.
+puyalluptribe-nsn.gov.	3600	IN	DS	27451 8 1 3df6ce947c1032150d18557fca9ff89dfb209c1d
+puyalluptribe-nsn.gov.	3600	IN	DS	27451 8 2 0a0ce2239b088805a33dca45cfa83a3f32e61051126695f418dc4f51eb36308b
+puyalluptribe-nsn.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. KdgDf8kbYy8ocNrHmBcVCr4Z16O+6VS53LXcWvbcemiiq7nMzWukyoa85NglNmaZRSiRVOM7NLUN/aBtuEmKfhZYfnvvQzocBgCpTiZo4RDeq/sjKFSa3G2BRl+8ucaHTcB1eAYLvvC9cz6NUstW1BuPZwWgjJDTOZbA+DRrZS4=
+ns1.puyalluptribe-nsn.gov.	86400	IN	A	65.126.57.81
+ns2.puyalluptribe-nsn.gov.	86400	IN	A	65.126.57.82

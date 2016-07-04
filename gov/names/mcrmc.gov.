@@ -1,0 +1,8 @@
+mcrmc.gov.	86400	IN	NS	dns-pub-f1-u.pentagon.mil.
+mcrmc.gov.	86400	IN	NS	dns-pub-f2-u.pentagon.mil.
+mcrmc.gov.	86400	IN	NS	dns-pub-f3-u.pentagon.mil.
+mcrmc.gov.	3600	IN	DS	31816 8 1 e497b4c8cbbbc93b46d42a758713e45b3d707fa6
+mcrmc.gov.	3600	IN	DS	31816 8 2 adab5cae25d093515e1f2c962974c391a8e35a8cea5e4605be439a8e99fdada5
+mcrmc.gov.	3600	IN	DS	49429 8 1 b1a08c268a0bd60348187acdb3137a323ef1699d
+mcrmc.gov.	3600	IN	DS	49429 8 2 e85083c2dc9da61c21c91d42675e8b1d9ea7f14787b7792c5596fa58789b62ce
+mcrmc.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. DbTJ3ItWK0Ivk9XZ8wuO9zQ1QhDk0qs/bxywZNeJjKPMZd/CwYdP+ZKKx9nvXZ9zQluIhg3cVjh6lfpKrlrhS3vYojorsFxS2ZJ+l9Ss8ETvE1HLgFllQXF4PTTvEKyx92qoUXGFasTLsIQeEWs+Zf+RYaWZSk7bqW/7wpkWL2I=

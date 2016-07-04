@@ -1,0 +1,4 @@
+browncountywi.gov.	86400	IN	NS	ns1.ameritech.net.
+browncountywi.gov.	86400	IN	NS	ns2.ameritech.net.
+fe54n8d6gg5hrl5nt1nft1p90e8r84k2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. SqJOKyq72P2hup7hnrwk3UVh0JkooSdHmmxkR+KZt5SMif/4aS4fRpasvMwAOF1e3/PemDHkW2J4KqCg3GXwpFM2ozAuufYvXfhKiBL4QZSh4bcaANSyM6xNzlhQdqPwx2ud7T3ITXfsTXE98hnk7ruKguFkYHAiGjm5Ms02M6g=
+fe54n8d6gg5hrl5nt1nft1p90e8r84k2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  febg3cl1em3egkh1f2tr3t5tt68sa08g NS 

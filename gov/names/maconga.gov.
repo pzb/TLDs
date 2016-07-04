@@ -1,0 +1,4 @@
+maconga.gov.	86400	IN	NS	dana.ns.cloudflare.com.
+maconga.gov.	86400	IN	NS	pete.ns.cloudflare.com.
+st8780gv8jvupatmturoul4j5hb1s992.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. CpSYyWSBuDUcSbO9PK5AwxvjaGRIFoODRY1AWYEqS/8bvRQXhmuS+qRNMw+e1ysItqfZv+Z0XBDNs0BQ7jYooAF+5snBk82C/mAGN4LF/dc/XAgtGG6uWj+YF5TjEw/efoORSsDlJnrzLciXEWAMgCh/bjPWPfXmJwFQw03Gl7k=
+st8780gv8jvupatmturoul4j5hb1s992.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  st8ad8o3d23f6vhmojqm1ujr9biv6rok NS 

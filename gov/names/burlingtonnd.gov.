@@ -1,0 +1,4 @@
+burlingtonnd.gov.	86400	IN	NS	ns1.avenet.net.
+burlingtonnd.gov.	86400	IN	NS	ns2.avenet.net.
+c9h7adpp50sunodkq031ktigmvq6c5qi.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. FVoadwWJz64RgRJ3LpzIiNq248O08vZuaSdvYOCvlRlT6kTO55Ak5JJ+82a0mVlPYR3llzxIpa++AyBOVSIUUrFpTpSWtlC3QT5QzIlU7KevTX2AwjAu+iWt3wXIWXdYI1Qnvc5rGbIE+/VoFqN7oUnvjVt8zAZt3W4KBN+RJ5g=
+c9h7adpp50sunodkq031ktigmvq6c5qi.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  c9njlg73h5sj8r4r52edhgu1t7g607hp NS 

@@ -1,0 +1,10 @@
+bqss47gscdsg3lj0gr8kfpkl1povqkjo.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. sVF5I2tZborgcDGVn4bRllL4jIt4QT1dvZ67pMhrVG1sGGv2DuWjk3xRxGtzQ+eCuLZqK9vf4bAhtDIGzPJFf91Oa1ZBIKcrBU+4p9aD+Z1vE+6B4cE1QhrOQfCS7mivx95PVwlcFhoOjlPMBlMan/dxZOqjES9e7/UMtvFR4BY=
+bqss47gscdsg3lj0gr8kfpkl1povqkjo.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  br2n9h1r3kcddd2ij2rn64hqr49rno7h NS 
+princegeorgecountyva.gov.	86400	IN	NS	cnsa.vita.virginia.gov.
+princegeorgecountyva.gov.	86400	IN	NS	cnsb.vita.virginia.gov.
+princegeorgecountyva.gov.	86400	IN	NS	snsa.vita.virginia.gov.
+princegeorgecountyva.gov.	86400	IN	NS	snsb.vita.virginia.gov.
+cnsa.vita.virginia.gov.	86400	IN	A	166.67.65.169
+cnsb.vita.virginia.gov.	86400	IN	A	166.67.65.170
+snsa.vita.virginia.gov.	86400	IN	A	166.67.161.169
+snsb.vita.virginia.gov.	86400	IN	A	166.67.161.170

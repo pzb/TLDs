@@ -1,0 +1,9 @@
+selectusa.gov.	86400	IN	NS	a4-64.akam.net.
+selectusa.gov.	86400	IN	NS	a5-65.akam.net.
+selectusa.gov.	86400	IN	NS	a8-66.akam.net.
+selectusa.gov.	86400	IN	NS	a1-109.akam.net.
+selectusa.gov.	86400	IN	NS	a12-66.akam.net.
+selectusa.gov.	86400	IN	NS	a13-67.akam.net.
+selectusa.gov.	3600	IN	DS	34624 8 1 2d07a5d17731f4dc7e3c1f996f27549bbf33f067
+selectusa.gov.	3600	IN	DS	34624 8 2 e145b85eadb5a824f50a58d9fa172709150d951414e5584f9642942a652305c2
+selectusa.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. IFbwdd5iG1lP3cptLWNanx7NevOUf9y1pAaXkXCiuHvnmd7gpgbdJwJ/RIt6kgjsvLL6MLfpL+i/MgZ1gOAc5UxjmFmGt9KRsHRQPMUsOqDhewV5GjjjXcJ/BBS65t9bDFUsupHIvtxsZSfzw6l53HwbmlE59pczjN8wm8AX4eI=

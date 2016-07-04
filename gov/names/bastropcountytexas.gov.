@@ -1,0 +1,4 @@
+asirddq6md5iin6d28s10a82bif123i1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. B6qOxZVwMvz2umZ0Ol1pC8HvvvPCk403JZP3pOoPAEE0Xq9wPaX673llfdPlJ9Roq/t3ZEv9/lju+2DosNw+pZojh+xq2lq6jyX0lUbWyBzaNtKwBFi/xl8AeFmwLW2e17VxdFIaSF3h4d9EXBU77e5Kn6Ruyn2xtmMcHUjKkvE=
+asirddq6md5iin6d28s10a82bif123i1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  asn2h1ii7iv0b6co0slqsm6r0q3ka2fg NS 
+bastropcountytexas.gov.	86400	IN	NS	ns1.eztask.com.
+bastropcountytexas.gov.	86400	IN	NS	ns2.eztask.com.

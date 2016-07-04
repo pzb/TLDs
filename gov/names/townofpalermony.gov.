@@ -1,0 +1,5 @@
+35uhehgcndorcfhrr986tk385pfl7rlc.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. INN60jetk76FGYUDEsUgwUJ72sfcyqg5UKoAtC4CD3UbGNIwFAmAmSiF/d+iVO6DBQYUI9yPC62KOXSuekC4ofPwt/rVqgSRPpWhRj5Jd9uWLqP/DiQ7cr+mnbnsxAkaRJa8fur+pnONH8yVggwLKe6C1ApGAFSle+qbWeS/THA=
+35uhehgcndorcfhrr986tk385pfl7rlc.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  35v0b2iiidan8ki1s82icedpcgia5drs NS 
+townofpalermony.gov.	86400	IN	NS	ns1.biz.rr.com.
+townofpalermony.gov.	86400	IN	NS	ns2.biz.rr.com.
+townofpalermony.gov.	86400	IN	NS	dns4.rr.com.

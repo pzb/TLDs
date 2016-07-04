@@ -1,0 +1,4 @@
+uemoa.int.	86400	IN	NS	dns.uemoa.int.
+uemoa.int.	86400	IN	NS	ouapdns02.uemoa.int.
+dns.uemoa.int.	86400	IN	A	212.52.130.131
+ouapdns02.uemoa.int.	86400	IN	A	154.65.61.1

@@ -1,0 +1,4 @@
+bixbyok.gov.	86400	IN	NS	ns1.bixbyok.net.
+bixbyok.gov.	86400	IN	NS	ns2.bixbyok.net.
+l38kt8hvc7g275j4raredqq611o35de8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. gGg6oXT+Mv8bNIfrnMszuBIL0fyJPHEwpPClQbsuZ0sO02gcQD8v/XPOXnQ7xy9IL2j4zQZQiUhXQvynQ063X540kkzZHP1XhF8lqaHZDaks6viXRBcsUIFIiV9BuhzzVm5BFhM/hLUnLb3XuXZR+tAPbs2wGUkdn2Prbz1MtmM=
+l38kt8hvc7g275j4raredqq611o35de8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  l3irflrukpfhmr0k348mtf46a6fj55gv NS 

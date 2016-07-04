@@ -1,0 +1,5 @@
+5vv9metok0p7m82cq90v0s52e5chepua.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. m8YVCh0zYl5rAL2zxS0CfzqCHJaJt74eRppQyjHey/dufZr82XNbv2DgMlfb3w923TGwC4Ft5LdbkjCTsxxBeQT4C9Vk9BRUTANIdUdStbLuvC+bYAG8SmLrv4UFneMfgKI6Q2Cw5XlRZMdBqiJAFJm2c4emTeMJIGOcNPjocDM=
+5vv9metok0p7m82cq90v0s52e5chepua.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  607u116rdcpg555kk6tbuduef5gf1g0u NS 
+visitnh.gov.	86400	IN	NS	ns1.silvertech.net.
+visitnh.gov.	86400	IN	NS	ns2.silvertech.net.
+visitnh.gov.	86400	IN	NS	ns4.silvertech.net.

@@ -1,0 +1,7 @@
+asaferflorida.gov.	86400	IN	NS	ns1.state.fl.us.
+asaferflorida.gov.	86400	IN	NS	ns4.state.fl.us.
+asaferflorida.gov.	86400	IN	NS	mfnorl-ns2.mfn.myflorida.com.
+asaferflorida.gov.	86400	IN	NS	mfntal-ns2.mfn.myflorida.com.
+asaferflorida.gov.	86400	IN	NS	mfntex-ns1.mfn.myflorida.com.
+r8b5thb7drkmm3ietl56qt1psh1c541i.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. LEXhlALW74joeJEjSyznO8v7ksZplavmX8U6q3Jsec8+EXbti8Su5lhLcD9zgYhDZ8Im3/AVwsmkR5EpiETyhuSDr6MAfBq3IMhj68qZy9TReyyIlpVgvaAy7HN5ufKbLU/PpbwwHGtjUlLTbaVRYj7Hd/l8XsCyDbOJbVsH0R4=
+r8b5thb7drkmm3ietl56qt1psh1c541i.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  r8d0nfglsoji360cbp2j78df1a4vbljb NS 

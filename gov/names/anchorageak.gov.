@@ -1,0 +1,6 @@
+5sm7j1to3dtpa5v0ogklhdc3mpal3qn1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. HyoGIi3/qq5y+bLMn5KRE9OsiLNOshV9HcVIIeJRbXQvNUnsWLniIVSRbjAvGrSGK1SsiN1wrdQoTmZcsYQlT+BPS+RPbS3S19ZcOp25qJCRVQcsOmh5msttmtj6r1tWgR950TWDVGfWC3eB71n4Z+1DbZ0l7iHZJv5MAreyIUE=
+5sm7j1to3dtpa5v0ogklhdc3mpal3qn1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5sne3o9p4e8lku1bug64i1df660b76fd NS 
+anchorageak.gov.	86400	IN	NS	ns01.anchorageak.gov.
+anchorageak.gov.	86400	IN	NS	ns02.anchorageak.gov.
+ns01.anchorageak.gov.	86400	IN	A	216.67.108.71
+ns02.anchorageak.gov.	86400	IN	A	209.193.41.78

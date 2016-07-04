@@ -1,0 +1,6 @@
+l8i50jmaj18kir21p45d0tfishtcp0pp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. tUk6GZMUnwSW3pCBYaabeUl+qJKSax6SQ7K8LaMjHjR0Li0Sj66bn5zEV9kaRMX/C/ky62eAgBXVdI/wAu4Qq5JFPmuzQHYA0M38bpGiBoo+bmEOu0oYozuFoaSLTLYLatcfkGwg+DMJb0whIDlLNvluIviCPHtUJh0CqZwnACU=
+l8i50jmaj18kir21p45d0tfishtcp0pp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  l8ijavv44ch4kabd6k4lfeu4468jifqr NS 
+ns1.nc.gov.	86400	IN	A	149.168.11.11
+ns2.nc.gov.	86400	IN	A	149.168.138.11
+ncworks.gov.	86400	IN	NS	ns1.nc.gov.
+ncworks.gov.	86400	IN	NS	ns2.nc.gov.

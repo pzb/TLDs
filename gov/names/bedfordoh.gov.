@@ -1,0 +1,7 @@
+35q5iqvsb3e88dn9oj3q9sa8o49hi45l.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. rAseJ0DNMLpZc/DsY2oZwidaolMixR8EvGCxlAYIFKJqLGIS9DvwLrLVKVpBv8rjlLcuKGTzRnbGTcRF/ZnwpMFZx3vjtlMrltZ7n3XPtax7xWEmTf+nFsdCqEouZ801G+KjtBOI4JexGVfEc0vxpaqVJ45prHusNThzSzStc5o=
+35q5iqvsb3e88dn9oj3q9sa8o49hi45l.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  35qbskqu1j629pjopm6a8osmn35t1qee NS 
+bedfordoh.gov.	86400	IN	NS	auth1.dns.expedient.com.
+bedfordoh.gov.	86400	IN	NS	auth2.dns.expedient.com.
+bedfordoh.gov.	86400	IN	NS	auth3.dns.expedient.com.
+bedfordoh.gov.	86400	IN	NS	auth4.dns.expedient.com.
+bedfordoh.gov.	86400	IN	NS	auth5.dns.expedient.com.

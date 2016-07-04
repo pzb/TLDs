@@ -1,0 +1,4 @@
+richfieldwi.gov.	86400	IN	NS	dns1.civicplus.com.
+richfieldwi.gov.	86400	IN	NS	dns2.civicplus.com.
+tcnlvv2rqrkcmak1lbmpgt3qtpaanlci.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. AtL6Elv7KhvY7Pp2pTuGOpx/kNZpGhwp1FTsLUQQWX46bRyo+UBMePsOir0u8ePc5uu/Qa+XlgWpwCrdG3/EiUsUuYtXYRFQ5rizR+FmLeZ5+LEVFgSpoMqFHh4UhnTy/eSJGMSAc5JwvWb2CDzoVMYzZPjz/S4fr7G+dUcG1/I=
+tcnlvv2rqrkcmak1lbmpgt3qtpaanlci.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  tco6498ndi5ht022augnfskti0u7ebjp NS 

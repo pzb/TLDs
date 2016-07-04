@@ -1,0 +1,4 @@
+fb8utao01ru96198tplvcva012n32uau.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Vjywdm23Buw9JSipp75rK4JBOB0TOkaiE6GcDRoHfFqznuOkHxOmkIGYrfU/XZ0Bs7tRtMeassFiS8IsYCJbhtm/puJ5WqyVrVUuoWMQbwDuE+iH+h8cWcB4QpzRI11qyXxS1N0m/Lp6y09/6IZSVJwOViWTAHMgOo3gVfmCNiA=
+fb8utao01ru96198tplvcva012n32uau.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fbk2oitu9djhjuk36pbnbc84u8851shg NS 
+pittsboronc.gov.	86400	IN	NS	ns1.avenet.net.
+pittsboronc.gov.	86400	IN	NS	ns2.avenet.net.

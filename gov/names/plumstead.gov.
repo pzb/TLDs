@@ -1,0 +1,4 @@
+ov1idomfiraigalse3qem071jbi3pmqs.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. du+gC7R83pxwUv+uUS1u2YmTYygxU+wbvaigJdfWRwwbtWEP9Hskqjts8aiwlbNRpmCTMuyWwoGK9jELX+R57SMbJJpGph1rzEE2cPiWOQ3zgMMV302yh9SeiOqkTO+nD6tvAJXjNTwATHeNUuuJArNyM1UOElijX8C6vkIa1Co=
+ov1idomfiraigalse3qem071jbi3pmqs.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ov1qib9ll40l302avogbgcnb5mg2iiub NS 
+plumstead.gov.	86400	IN	NS	mns01.domaincontrol.com.
+plumstead.gov.	86400	IN	NS	mns02.domaincontrol.com.

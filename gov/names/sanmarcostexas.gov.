@@ -1,0 +1,4 @@
+95ur1mor790ig6tt31gt2bmn8h06b6il.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. XGWYCk88Xr40EVktlagHfTbcUTde8LqpGs+O6+jiKUWk/vo2AwC42lOF3tTvqp1xt/Z/BpZc8Llqu0pnae0kr00Rpos17f6vr8Wx305eHsXea01LKTpiMphFn6zXz+SHjI1QTHq5SMtIuAyLrqI1iUSz09mk0s6BI4Ms9Ddj6TA=
+95ur1mor790ig6tt31gt2bmn8h06b6il.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  966vjiad8ajp0cg53bil2m815gqu2ar6 NS 
+sanmarcostexas.gov.	86400	IN	NS	ns3.lsn.net.
+sanmarcostexas.gov.	86400	IN	NS	ns4.lsn.net.

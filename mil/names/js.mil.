@@ -1,0 +1,15 @@
+daip-mgt.daip.jcs.mil.	21600	IN	A	206.38.92.140
+prod-int.daip.jcs.mil.	21600	IN	A	206.38.92.120
+test-int.daip.jcs.mil.	21600	IN	A	206.38.92.121
+js.mil.	21600	IN	NS	daip-mgt.daip.jcs.mil.
+js.mil.	21600	IN	NS	prod-int.daip.jcs.mil.
+js.mil.	21600	IN	NS	test-int.daip.jcs.mil.
+js.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+js.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+js.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+js.mil.	10800	IN	DS	61942 8 1 ea9e74d2a174bcc984567fa62325891b9c06eda3
+js.mil.	10800	IN	DS	61942 8 2 450dc2f3135e91cb6b4a9a6eb70d42e2e430ec805691b6066b5b685f8fb73299
+js.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. iqANENHf4ROyihbSW3Bvv8nqz64EQ/tay4+srdDg4N/syA4X0pU6d8i2LP45MMRDMA7dCxDpCHQjXUVX7CEQa2CHlI+4WruDiShmRtumDDUmuaQcEUbmxAe3mm5LUp1jusMPa226cSUB8ZHVH4A3UqHuSAKnQj3u8RgZfOPml81Hy00=
+dns-pub-f1-u.pentagon.mil.	21600	IN	A	199.252.47.11
+dns-pub-f2-u.pentagon.mil.	21600	IN	A	214.14.133.11
+dns-pub-f3-u.pentagon.mil.	21600	IN	A	199.252.47.75

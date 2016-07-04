@@ -1,0 +1,4 @@
+5448lalc8alo0lji50eraau5m76dsuck.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. nT/aH90Jws7fjO3akdoEv7N9l5RIi91V6LeI7ZGYZxg+CXIdUMTyzTGxvCCyC4oOdiDb5YWWz9hWKRfDRAj9NVal81Xa3x3vG9oFbAH+C7t3ProOzVvJ9lwqRpcgXX50/tfk/ifD2DpBBxmT3aqh27O+rPZ1HpY1WfHw7ZXdnTQ=
+5448lalc8alo0lji50eraau5m76dsuck.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  54auuqctlf6lkdeivtflduhe29pljt1g NS 
+coloradorcjc.gov.	86400	IN	NS	dns1.state.co.us.
+coloradorcjc.gov.	86400	IN	NS	dns2.state.co.us.

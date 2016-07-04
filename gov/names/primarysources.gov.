@@ -1,0 +1,7 @@
+ns21.loc.gov.	86400	IN	A	140.147.32.166
+ns23.loc.gov.	86400	IN	A	140.147.239.150
+primarysources.gov.	86400	IN	NS	ns21.loc.gov.
+primarysources.gov.	86400	IN	NS	ns23.loc.gov.
+primarysources.gov.	3600	IN	DS	36004 8 1 78f94db68f7e162e406ff79fc61f9df8bb981781
+primarysources.gov.	3600	IN	DS	36004 8 2 889b3b083498c867c300fb7c4946dc88d283d104a53e289f7d8c8abb483a70d0
+primarysources.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. jWVsc2y/+rNBGs4HQm7lOpOYcrcjiEMiRb+kDG6rzvNnCUa06OS2kjXtQinYIyVC3ZNo0fHhjIGq4zaHIYRq4ex3+67hQuPVbnxoMea3FfWnUrKn7veAnP3P7MyM9lESspwG+Bw0twvP6+bu4cQS3nTsQttOM+smjRPlgcU11/8=

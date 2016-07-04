@@ -1,0 +1,8 @@
+joiningforces.gov.	86400	IN	NS	use6.akam.net.
+joiningforces.gov.	86400	IN	NS	usw1.akam.net.
+joiningforces.gov.	86400	IN	NS	usw5.akam.net.
+joiningforces.gov.	86400	IN	NS	asia9.akam.net.
+joiningforces.gov.	86400	IN	NS	ns1-145.akam.net.
+joiningforces.gov.	86400	IN	NS	ns1-176.akam.net.
+joiningforces.gov.	3600	IN	DS	27606 7 1 5c64b0ccf41c6c4a369c3a1aef5c7a0090f2a4aa
+joiningforces.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. XLxcyQ0jzt966O0k6ipxDBAoFGtd75rCwECjjx64pjmKSwDMyNwjYqaG/3KVz60ZICYGL+g9l8ALAMDisZP842rtIjE0jp2n9HBCgPZvUXwZgon9A3OMcrVkc8twWxKmVjKi7/MgVuNw8vWLCGsJ+4SrDOU47TU3CCIBv3WQXMs=

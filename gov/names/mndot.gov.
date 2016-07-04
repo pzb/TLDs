@@ -1,0 +1,5 @@
+fsqs9oli89g5dpshbtnq8bj71pbuh7v8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wItJt1Ob8JzaqbB0kqLgPZ6WEiqsVRLou3CLOZiP72weMEgj3NN/Dj9iqjt4rpOlsN0+DE1ngpwWjArynWVTdnPdx1n/MVmHQqRb7WYEAIsdoBrmrXvC7Wsb2G/rHdSpdFrJvI/awLi+2iPGV9ARnafft2GHW0wnYyZw3rMFD5Y=
+fsqs9oli89g5dpshbtnq8bj71pbuh7v8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fsu23a0rginn0eu4jnhiskr65255r89f NS 
+mndot.gov.	86400	IN	NS	ns1.state.mn.us.
+mndot.gov.	86400	IN	NS	ns2.state.mn.us.
+mndot.gov.	86400	IN	NS	ns3.state.mn.us.

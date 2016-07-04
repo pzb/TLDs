@@ -1,0 +1,4 @@
+35pca7ihnmehk3evilsobqkm92es62sf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. o9dGuiarxkJsIhQscDJ+MrRSmFgK8pAEv8B1PXuOGZMKf1tdpAPo/HrZ5kQD/pcNqYMwujH4Fjdj1z41ZzoNJ4QOlFOMIBtwdIqJ0KNUKn8w+2uL79IVlHw0HoHzn3CgEmStrM23DpvJLtVa1GLnP1Sv/5ElgaDKjU6daqjPI6I=
+35pca7ihnmehk3evilsobqkm92es62sf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  35q5iqvsb3e88dn9oj3q9sa8o49hi45l NS 
+cityofholyoke-co.gov.	86400	IN	NS	ns1.softlayer.com.
+cityofholyoke-co.gov.	86400	IN	NS	ns2.softlayer.com.

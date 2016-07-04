@@ -1,0 +1,6 @@
+cityofhokah-mn.gov.	86400	IN	NS	ns1.carrierzone.com.
+cityofhokah-mn.gov.	86400	IN	NS	ns2.carrierzone.com.
+cityofhokah-mn.gov.	86400	IN	NS	ns3.carrierzone.com.
+cityofhokah-mn.gov.	86400	IN	NS	ns4.carrierzone.com.
+n77tmmpl4qg4quondj3qe3rl9mgvbj8r.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. WQH8mcUM81MkwvA5+QiaBQMewwZfiYkLLKCPq8ovNs+SbAjBlocQLKRbfQu0rI4fIKuS2lkD+W+019XiNC4oSsNwzgbcymGW4d1FER5AF9JV3qPzoNP30ADcIAp/UkTC6o0/J/Z+7IUJ2vPe7Utbc6adx6yOKAxC6SjkWowTghY=
+n77tmmpl4qg4quondj3qe3rl9mgvbj8r.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  n7cpt76q0tvomsn449tq6egij4583cer NS 

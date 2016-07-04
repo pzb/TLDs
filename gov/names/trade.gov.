@@ -1,0 +1,9 @@
+trade.gov.	86400	IN	NS	a4-64.akam.net.
+trade.gov.	86400	IN	NS	a5-65.akam.net.
+trade.gov.	86400	IN	NS	a8-66.akam.net.
+trade.gov.	86400	IN	NS	a1-109.akam.net.
+trade.gov.	86400	IN	NS	a12-66.akam.net.
+trade.gov.	86400	IN	NS	a13-67.akam.net.
+trade.gov.	3600	IN	DS	31953 7 1 db3da4559487bf014608385b7fcb3f3fc1f6c067
+trade.gov.	3600	IN	DS	31953 7 2 5f968c62f47424dcda434b1e50f31bbc4b6066cd00b9dc6818246e18b99217fe
+trade.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. EbwLtXrI0qUi6/x9OdScgFvzSD91jqvbggANpUShLTSXr/pwbXiv6c8abKESnajU3aePlUwGECwzOwXzK3LpT9LRFv3yu57tPuWg8eMcVv4Bw9eQB0YY4omlSBMYnMy7HEblHZ9Bfq1dvQAONsT1II0eCa/v1jZMkOh4Myw8bs8=

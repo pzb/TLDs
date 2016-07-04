@@ -1,0 +1,11 @@
+ns1.treasury.gov.	86400	IN	A	166.123.208.249
+ns1.treasury.gov.	86400	IN	AAAA	2610:108:4000:100a::249
+ns3.treasury.gov.	86400	IN	A	164.95.95.155
+ns3.treasury.gov.	86400	IN	AAAA	2610:108:3000:100a::155
+treasuryscams.gov.	86400	IN	NS	ns1.treasury.gov.
+treasuryscams.gov.	86400	IN	NS	ns3.treasury.gov.
+treasuryscams.gov.	3600	IN	DS	30093 7 1 e7fd6e339b0b1b51f1116d6179a36601eda6ba5c
+treasuryscams.gov.	3600	IN	DS	30093 7 2 edd8a6015df61567e6ce42db9717da78c7d5d62d7455302c13cf72f13bfc99c3
+treasuryscams.gov.	3600	IN	DS	61314 7 1 6a1f4a5edc88afeb791e216181e31c2b250cc1e5
+treasuryscams.gov.	3600	IN	DS	61314 7 2 8d46cc8c90b0867969e182a0544f6266aafa35c18e223907685eb952f200f7df
+treasuryscams.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. BbLgzX80FLNpAlhYhBCV6Ey3FqEpeGLyv20iKgb4NrFcxDznO85xZ/aVktahZylLujMToaYnaVHMGfnSjivV1LkwKJ8+tc0qIWS2w2Mv8D7gO8cY7XntYPsg6EbhE1hthOLstTybAsCuJ5GmUCWFMvXxk2n0CK7Suc1YRyT5Zdg=

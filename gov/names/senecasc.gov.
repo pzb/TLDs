@@ -1,0 +1,4 @@
+51d6spurc8r2mamu5qhmv9uvval4r9nt.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Y2I33T+6qY1n6jL9EQ7ammP1jf6jZmz0pfm4l5uuWrJeqMe+YqBRX9LoB+wMdCOoQ2U9NQ6cuUk5zwemguXOXqUxwl3CN8boB6sBPv+YtYPqlhiUkhWqsJEdoMY1XpSzeq5koWoHwqFaeWfjKm8YCUB7TT+uNwRlazjlaP2jQ9Q=
+51d6spurc8r2mamu5qhmv9uvval4r9nt.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  51maup8re2jg1m4e83oc3agbrdal80jj NS 
+senecasc.gov.	86400	IN	NS	delta.netmds.com.
+senecasc.gov.	86400	IN	NS	gamma.netmds.com.

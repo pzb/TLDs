@@ -1,0 +1,11 @@
+tlaloc.okc.disa.mil.	21600	IN	A	152.229.150.204
+tlaloc.okc.disa.mil.	21600	IN	A	214.3.13.204
+faa.mil.	21600	IN	NS	greed.faa.mil.
+faa.mil.	21600	IN	NS	cresvc.faa.mil.
+faa.mil.	21600	IN	NS	greed2.faa.mil.
+faa.mil.	21600	IN	NS	tlaloc.okc.disa.mil.
+cresvc.faa.mil.	21600	IN	A	214.4.159.30
+greed.faa.mil.	21600	IN	A	214.4.159.22
+greed2.faa.mil.	21600	IN	A	214.4.159.28
+o72uhqdeuunnhq6f6fn7hsn2eq9qubcr.mil.	10800	IN	RRSIG	NSEC3 8 2 10800 20160708161835 20160701161835 16413 mil. X0hTqzd+GnJrneHADsT3NXf6dlLKr0O0BUUifEPcOCFVqxqt/scFVJSe4hSPNd1ZcURZ3vhodpQ6HRuB9z7/OxyXNjQpa/LxWa5cjP7BGLVca3bmVLKkvDmguZPUwWCjE1rRTcS4LUsTYdaWzKcNAJvPDYgMvpGCuxnhK9ZMA2h/e7Y=
+o72uhqdeuunnhq6f6fn7hsn2eq9qubcr.mil.	10800	IN	NSEC3	1 0 10 adeb  olq5o0irh269bhstfgdmnkg249lq451m NS 

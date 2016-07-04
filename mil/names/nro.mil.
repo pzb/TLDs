@@ -1,0 +1,10 @@
+nro.mil.	21600	IN	NS	ns1.nro.mil.
+nro.mil.	21600	IN	NS	ns2.nro.mil.
+nro.mil.	21600	IN	NS	a11svidzns001.nro.mil.
+nro.mil.	21600	IN	NS	w31svidzns001.nro.mil.
+a11svidzns001.nro.mil.	21600	IN	A	214.3.129.40
+ns1.nro.mil.	21600	IN	A	209.22.180.119
+ns2.nro.mil.	21600	IN	A	214.3.129.39
+w31svidzns001.nro.mil.	21600	IN	A	209.22.180.120
+o6am4bm226a6safnu1atb8qjcq9cc54q.mil.	10800	IN	RRSIG	NSEC3 8 2 10800 20160708161835 20160701161835 16413 mil. NuIdeWKKiCHxv12lhV9rCW3s3oZiWVDhptLRDLMj2jtks6xvGegeA0m552FE7f7tXtE3BC5/Ox5vjggPNAJi4IKurlQGeFmrwLBswf77US5xvk9HnHFobZbi58E8WOWqQsnqNjWCT0NsgmWM0W6ZPjLd43dxLjtdf5ZDDMqX48DqIjI=
+o6am4bm226a6safnu1atb8qjcq9cc54q.mil.	10800	IN	NSEC3	1 0 10 adeb  o6kele4r6rma8tehjjvbkp3skcpl8amf NS 

@@ -1,0 +1,5 @@
+pembroke-ma.gov.	86400	IN	NS	ns1.infotech-maine.com.
+pembroke-ma.gov.	86400	IN	NS	ns2.infotech-maine.com.
+pembroke-ma.gov.	86400	IN	NS	ns3.infotech-maine.com.
+pguvsistjrv9bmmq930hp3hq34qc1f0o.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. U9cf75SSXiy8wa16bn94ELSiTlHQkni+EFmqENAzDiSJxof+UJJX5n6B5vvXt0cV0w54S4ve5Z1wwPM1+TDTA4A/S9WpYCU12O0bvINGSNYnyHsbLIOKt4t69ykiKb3KiulTATYRbP8Zpv5uBdr/Sy1NKtC5SqlOFEk21fXxRkc=
+pguvsistjrv9bmmq930hp3hq34qc1f0o.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ph47v71nnfl1uumavo9he591vfpqerri NS 

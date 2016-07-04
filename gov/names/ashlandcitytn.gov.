@@ -1,0 +1,4 @@
+7jq5fo7ehkfb2coh903qk9loek627ee8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. MGcPl1ys7/SZP2ONJG+YuUZXQV3aX/P+Qx/sJ7spW1Ly1wz3F3DraUQIiZH3P9jOtObFiG2k9U10pzTAErwhsfDAK1rCTJD7yW/HFu+ZEsv9P4uXJACAifOzyv+FxVy135Rb0V8vCbpHDdd/Vn36TtDUC6XNd6SbEJTgbUjb3PE=
+7jq5fo7ehkfb2coh903qk9loek627ee8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7ju2poas8k0vk1r4534hm2igqll01gql NS 
+ashlandcitytn.gov.	86400	IN	NS	dns1.lgdpc.com.
+ashlandcitytn.gov.	86400	IN	NS	dns2.lgdpc.com.

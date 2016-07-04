@@ -1,0 +1,4 @@
+3n4orediub346ae8dhofeqobho5l4v50.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. lRvYaxgoFyDbjveCnaS24Wsull76DxBGxNj0xTHQ4tXeXBxpDh0YAdxWNMXOYUPZpDTwOWaMMn4zms5yhwllH0QcgwIa/P51YODGUlvHTjz04mUdX6W3C6spk0EifjqxcTxyjX9RghMsDq6aBImKmlLn3HIiO242Bx2GF0pzW98=
+3n4orediub346ae8dhofeqobho5l4v50.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3nh0ia43kmg1df3engphedjst5re2bau NS 
+missouricitytexas.gov.	86400	IN	NS	mns1.secureserver.net.
+missouricitytexas.gov.	86400	IN	NS	mns2.secureserver.net.

@@ -1,0 +1,4 @@
+1tvoq7at8rudtrf97tevbdupo0d41k9q.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wkTbeoczBnAx5SpVjXQGvISh/pmKAl/urXkqVTnic5DLHbHyo56wDur9E6XzOufdGmHLsEOtxYM516FRx0yv4FAXry26JLItRQqnPRmOA+T7p0EGGd4vFDxjPHWaTGEmq8L+DAykcCbRRiZs0dxrae6YxHHULBleYdl58mEL5UM=
+1tvoq7at8rudtrf97tevbdupo0d41k9q.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1u1s4q8sdjoil2s8p0630ms9kumurnfv NS 
+coltonca.gov.	86400	IN	NS	ns1.pbi.net.
+coltonca.gov.	86400	IN	NS	ns2.pbi.net.

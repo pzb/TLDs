@@ -1,0 +1,7 @@
+hudgate.hud.gov.	86400	IN	A	170.97.67.16
+hudgater.hud.gov.	86400	IN	A	170.97.167.16
+nationalhousing.gov.	86400	IN	NS	hudgate.hud.gov.
+nationalhousing.gov.	86400	IN	NS	hudgater.hud.gov.
+nationalhousing.gov.	3600	IN	DS	33939 7 1 c5bcc03ef1760bf0dc16c98e9da312ba277a8eb1
+nationalhousing.gov.	3600	IN	DS	33939 7 2 5133f096ab3bcfea3f268c3a8cf8ab6c9447bda3a6bf844561f31a5e65bb16d0
+nationalhousing.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. PggTpneEAviNBH8XCSMQJaOh127ma0AUcE3oZkVWh+51eZ76GPisoPXRGdlhI5sh5mT+aF1s9EhZdJlx12CIXZOkHPykRm+FW08QFRdyO/QIGV5iut8rgBtDT4qBDyFDpkEZhB0VwUMlbGgLEPvr+vK3tZFi28bzNQmO7I+Lh2w=

@@ -1,0 +1,4 @@
+chippewafalls-wi.gov.	86400	IN	NS	dns.uw-mad.wiscnet.net.
+chippewafalls-wi.gov.	86400	IN	NS	dns.uw-mil.wiscnet.net.
+tputfcpmetdr0jtjd2l4cm2vk3747hsp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. XwHIQzkgflLPwQCaKUUdxsewQ3AnE5ugFNlu9JcTwSJcMPnowjDLl3GBgQC7dwTdl+oSJNkENMfyaiXEO3iLjlGZ03pgHBTKzvzI0CypbzrzZ/gM9XiyHn2mOnQ1oqRNtd8rhmRS5bePXBBjwh+21Ufskfci45hRC36xNoAdfLU=
+tputfcpmetdr0jtjd2l4cm2vk3747hsp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  tpvr1la042vnvmeequbk4g53uc0rd2cg NS 

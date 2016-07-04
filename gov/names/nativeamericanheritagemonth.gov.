@@ -1,0 +1,7 @@
+ns21.loc.gov.	86400	IN	A	140.147.32.166
+ns23.loc.gov.	86400	IN	A	140.147.239.150
+nativeamericanheritagemonth.gov.	86400	IN	NS	ns21.loc.gov.
+nativeamericanheritagemonth.gov.	86400	IN	NS	ns23.loc.gov.
+nativeamericanheritagemonth.gov.	3600	IN	DS	61009 8 1 c1be18775c2fb30dc3a6a265a141af54c2aa25dd
+nativeamericanheritagemonth.gov.	3600	IN	DS	61009 8 2 babc86e977a9a15e18fc7999973ec765118fb95ab135d51a2a89482fc1c9d627
+nativeamericanheritagemonth.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. La5Yo25nuSjQRCKI6vbbZo02NQsdK6ggTKYO6xzTexxN6W7LAlISLuzXhK61seQTOiwSaGVBohY0XNQFkPUGYrnoE09cv+EGehvptH98t1IJsp0HGkeTVwoO6Saj9NfrqbVFSTBZ8iouFTathWO1+xU8PdrubLUQ76ZdllxEKHE=

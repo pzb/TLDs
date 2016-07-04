@@ -1,0 +1,4 @@
+alexandercountync.gov.	86400	IN	NS	ns1.state.nc.us.
+alexandercountync.gov.	86400	IN	NS	ns2.state.nc.us.
+bpig6eviot5uhiqn6kvp5iu1dd14k8km.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ksMrOOwtZngao7Hhq4gB0MbOLK2znGkmPSR2MEzyVqsvP3EUBpU+SC5Sg9GeklA1Fr4T7ZExQjc08wt2luaeyLIVA0Yj3PTFRPvPNPR6w2Td/p4JNXP7iGxk9U8JZQvMHehCL+0xiCDBunvHde5wjhrBy0J071tlR2hwMc5COmQ=
+bpig6eviot5uhiqn6kvp5iu1dd14k8km.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bpin8t51cambis3lv8k4kv4uqeoc6oo1 NS 

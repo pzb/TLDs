@@ -1,0 +1,4 @@
+louisiana.gov.	86400	IN	NS	server.brp.la.net.
+louisiana.gov.	86400	IN	NS	server.noc.la.net.
+ocu00apbqnsacmgnpp1bma3h7jk7hc78.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. BFolmKaHBF8S+z5yFnf39B9VmxB9S/ne6zBnZGszan9/NPxTthz+JzMkMZnP310sgG73QHJsHu2bmwThbbX/sPsHG+r/u0UmjlhNVX4Zvaihne0rl0gQIgItbGpxL3Pt4QOANgENJVbP8AZeWBwHUp0cQoRCFRfpQKkp65J+FVk=
+ocu00apbqnsacmgnpp1bma3h7jk7hc78.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  od0pnbh24enf3j3q9fngfrrpmh9lbj4o NS 

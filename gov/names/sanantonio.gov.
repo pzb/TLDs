@@ -1,0 +1,6 @@
+plal92j71iul3d6qmibankvrac0vn1vk.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Ea0wGs/IDcIaU4aeZYE8uKSTahH8+0ykRPYoovSi1zxTcE4uIV0LQ9l+KY/8ztGtzBIeSZSULKlvyS8ohxsZnTmxeFjY28N4M4vbWhUhKfg1ASAVUvpE2wa+Pk46jjUPu1tsIlBsrB9RZagd4Zlt2XlvAqT8hWqlxd/3U20+x2o=
+plal92j71iul3d6qmibankvrac0vn1vk.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  plbl1go84glc71rb8kh9iao5ambnqs6s NS 
+sanantonio.gov.	86400	IN	NS	ns1.sanantonio.gov.
+sanantonio.gov.	86400	IN	NS	ns2.sanantonio.gov.
+ns1.sanantonio.gov.	86400	IN	A	161.226.133.135
+ns2.sanantonio.gov.	86400	IN	A	161.226.134.135

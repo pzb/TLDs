@@ -1,0 +1,6 @@
+daio.mil.	21600	IN	NS	npdadc01.daio.mil.
+daio.mil.	21600	IN	NS	npdadc02.daio.mil.
+npdadc01.daio.mil.	21600	IN	A	214.38.221.114
+npdadc02.daio.mil.	21600	IN	A	214.38.221.115
+rmhnanmhdke4pr4vqu1ouqro59u05n5i.mil.	10800	IN	RRSIG	NSEC3 8 2 10800 20160708161835 20160701161835 16413 mil. g1DeMO4S/hEQeYtWhZ2zNDU51LbL7Gla2ELAdtZ19/7db4HXcUI4Fwmuo5uoOxFgT38Wp6BIQ2kIuQw6hnmAjfgwGQnIHFIRGkvW+1afJtQdjEmYaQSdazk/WE5zv8R/E3W9jnf89YAAsPMwbsBliTddjapxmnIAeHiObTd/EMc07xQ=
+rmhnanmhdke4pr4vqu1ouqro59u05n5i.mil.	10800	IN	NSEC3	1 0 10 adeb  rqufge9eu2djv0nunmothde74d1h26vu NS 

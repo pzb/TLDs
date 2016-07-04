@@ -1,0 +1,7 @@
+hgat54ragtgeo8f57drr2o5kv50p69qe.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. oDmT4ODybzNjkNyzFJqBOOUINtfuSlRr6G8H3+XSIvoAKvDBQyLd3p+mQm+aMWN736X3y7UZ0lG/V61WYkNAc0U/tdgt4k4Vs2Fn0Fd8cb9GZbXfDoqoAYRj8d8k6WiPzlLHUd/x9P6rwLEYqrybAmKS7hnHh2tEYy4K5cLyS40=
+hgat54ragtgeo8f57drr2o5kv50p69qe.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  hgqtg6n6emmsn3gt9f9gsmqjov02mao3 NS 
+ns1.iowa.gov.	86400	IN	A	165.206.254.145
+ns3.iowa.gov.	86400	IN	A	209.56.120.13
+iowatest.gov.	86400	IN	NS	dns.iowaccess.org.
+iowatest.gov.	86400	IN	NS	ns1.iowa.gov.
+iowatest.gov.	86400	IN	NS	ns3.iowa.gov.

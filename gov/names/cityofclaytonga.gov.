@@ -1,0 +1,4 @@
+cityofclaytonga.gov.	86400	IN	NS	pdns07.domaincontrol.com.
+cityofclaytonga.gov.	86400	IN	NS	pdns08.domaincontrol.com.
+hlqlqu980jegehuej3adodufvf0ugjm5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. B0vjacu3Pptm+pjkF8DthRvqpC8+9EnXlQb+vny6csV9/LPHq1itCAtBfMc4+agOC8kRLEbV6gQmHtpEiM/t3igSXYMJc+IzhsmQQ/s/hnChXteR+UsRAVeye99NYJkymKbmE2/sAI4otp+KOiETvE2Q1wGQvg/wro5ccAgtgJ0=
+hlqlqu980jegehuej3adodufvf0ugjm5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  hlqtoh39fhkck83c00eu577h9b0t6tir NS 

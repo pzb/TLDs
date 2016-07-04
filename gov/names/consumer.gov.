@@ -1,0 +1,14 @@
+consumer.gov.	86400	IN	NS	ns1.ftc.gov.
+consumer.gov.	86400	IN	NS	ns2.ftc.gov.
+consumer.gov.	86400	IN	NS	ns3.ftc.gov.
+consumer.gov.	86400	IN	NS	ns4.ftc.gov.
+consumer.gov.	3600	IN	DS	55458 7 1 2add62943459fdd1fd948abba7ea69de7517df78
+consumer.gov.	3600	IN	DS	55458 7 2 84dd82b21006040b3b110ae9d9102e9e2dc6cff7a2683972877815296c314c84
+consumer.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. XpSJaUgmEL7P2x/T5Kqdxk/OH9gGZzMEW0DJvHauKcx/3L4L3U6KLfT7yVfq3onfWHYbCdLBMxb1uAxB9m47ns4O3cVPyUcuq7h2s5ogw6UrPdl2FJMf2G8qNwxZ3xn2TVofddSm4zr5H36mKtnmCquXiZ5h2ugQuHZAGkqMf6w=
+ns1.ftc.gov.	86400	IN	A	164.62.13.2
+ns1.ftc.gov.	86400	IN	AAAA	2620:0:630:4000:164:62:13:2
+ns2.ftc.gov.	86400	IN	A	164.62.13.3
+ns2.ftc.gov.	86400	IN	AAAA	2620:0:630:4000:164:62:13:3
+ns3.ftc.gov.	86400	IN	A	198.77.70.11
+ns3.ftc.gov.	86400	IN	AAAA	2001:1900:2268:770:198:77:70:11
+ns4.ftc.gov.	86400	IN	A	192.28.111.42

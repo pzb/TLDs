@@ -1,0 +1,4 @@
+lgo-vi.gov.	86400	IN	NS	cbru.br.ns.els-gms.att.net.
+lgo-vi.gov.	86400	IN	NS	cmtu.mt.ns.els-gms.att.net.
+ro3s2u0aq89f19le4brfejv2j3b33nbh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. xrHbqhahYf7R3UzqOaDtF7HdQIE+g33nOTN/F0P7a/c+GsHaQrkmaM06U0Nqg0K9k8i0f+fM/J9IS5uYWWNRF2SlfVog29ynnvwxrRX8PfeZ4p91b2t7D2KGruHTAhvpmoVPlEkW2sj68f+jSmWqAjJBjsDjwd1Opp5rBfeaH+4=
+ro3s2u0aq89f19le4brfejv2j3b33nbh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ro44q3e4h9iqbld9hmn67bk6kag686j6 NS 

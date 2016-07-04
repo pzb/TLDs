@@ -1,0 +1,4 @@
+athenstx.gov.	86400	IN	NS	ns1.clevermutt.com.
+athenstx.gov.	86400	IN	NS	ns2.clevermutt.com.
+lva1ndafgtl0vmsd61eki3hqdh9kadgu.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. xC5xwqDq681i8CRckVEbSl7LnAkun7L05JLqDnLmrDt4UfMe7j7CmoNTL2frHHLETIeDf4hMY69J8+DNiTbNTN9ZXPzJ0XIo9ZBwVIEtMVKwspocAhMcibazXxQVhnA8D6ZVYwrP4w6XXEmfkPV3+JQa8GoVUneYRNcaufydZ2Y=
+lva1ndafgtl0vmsd61eki3hqdh9kadgu.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  lvce012uja2h342p898v5lrd849bit9j NS 

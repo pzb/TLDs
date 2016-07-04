@@ -1,0 +1,4 @@
+cherokeecounty-al.gov.	86400	IN	NS	ns1.premisesupport.com.
+cherokeecounty-al.gov.	86400	IN	NS	ns2.premisesupport.com.
+n63jdrfnqqgsbmrag8d1719o61n5n9qe.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. YJ+HRLoDE5pELyAXGd1bzfnXH9XaYr3BVT9wC8lDAu07RYFlCBk1IHUsGELd7/ODtVjH/TBEJ4wGPHVn8hAn2psiLR7fEEbTQYor1lSIemVHs7O2y/JWKNNwsbds9HmnKXSsAmsD0oCtAoqIgA5TMJCLJBLs19A1WCmY2XOdXMQ=
+n63jdrfnqqgsbmrag8d1719o61n5n9qe.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  n63rh022d4dga521khcun5l1pckm5lqv NS 

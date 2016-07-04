@@ -1,0 +1,6 @@
+azcleanelections.gov.	86400	IN	NS	ns-270.awsdns-33.com.
+azcleanelections.gov.	86400	IN	NS	ns-679.awsdns-20.net.
+azcleanelections.gov.	86400	IN	NS	ns-1130.awsdns-13.org.
+azcleanelections.gov.	86400	IN	NS	ns-1933.awsdns-49.co.uk.
+e90b04g9leaujf0p1oeksfdtorutqs48.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. v/zEOn8ejI8qXjNPdub25DG3hIi0CvPWPFxxcc594PnrS0rBsBZY/VVN720AMeZPRhD197ea4B7DM6P1Lhrt27AF1rveowT9tqeXGebU87IUq0+QthS02woj4j0x1P/QO75E8TbOSnJWRH0W/RZjEA4Vasrp9kjCXmHXWG5cDp0=
+e90b04g9leaujf0p1oeksfdtorutqs48.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  e94o9svpddj9i94hpqo0md206m7rovgu NS 

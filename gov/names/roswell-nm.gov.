@@ -1,0 +1,4 @@
+ovj7r84lksvupbsg19dkaso8f3pq6tv1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. JcdDAPmNI+6BVD+4/kqa+dU282Y7K11+b4aSYsQ+j9aT5c2/XEE1jMXrIiI2ZH/6u1U9f3w06eQqeTEa56I0UFgCA9WgKuAlNupMaXBe3Jj9o3EYC3VkJAsKlM1xAd5Wp/EDr+OO37oqGtALUcU2sAm6JfWHhyrh6Wr0JbzMvA8=
+ovj7r84lksvupbsg19dkaso8f3pq6tv1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ovm543g9aps331gd362mpnfbqhasa875 NS 
+roswell-nm.gov.	86400	IN	NS	ns1.sprserver.com.
+roswell-nm.gov.	86400	IN	NS	ns2.sprserver.com.

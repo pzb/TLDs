@@ -1,0 +1,9 @@
+interior.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+interior.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+interior.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+interior.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+interior.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+interior.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+interior.gov.	3600	IN	DS	21696 7 1 8a1aec77768ac26ddba97fb2c3d1504abc25cd77
+interior.gov.	3600	IN	DS	21696 7 2 0fd9b33de1b530c6a7352aa1a6f3faed991380818efbf3cac94bd52aac5422ee
+interior.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. U73FQcBNSVFBjIjHtAYIdr4e1//Juv/blU6ZjeyXKTRfi2S5YRo3VSPhmgeV9HvITDPtwwzaVxSB0nw1llY+tbA/QEkxAelT2nxccjNREnVlaK25DKAyvB3MUpo3iN6zgc9SluK+Sztp8XGoeJlO7SHEMppW7IARC9Hiy2Zm0Cs=

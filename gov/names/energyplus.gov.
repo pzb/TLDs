@@ -1,0 +1,9 @@
+foxbat.doe.gov.	86400	IN	A	205.254.143.110
+foxbat.doe.gov.	86400	IN	AAAA	2607:f368:1000:1000::53
+fulcrum.doe.gov.	86400	IN	A	205.254.144.110
+fulcrum.doe.gov.	86400	IN	AAAA	2607:f368:1000:1100::53
+energyplus.gov.	86400	IN	NS	foxbat.doe.gov.
+energyplus.gov.	86400	IN	NS	fulcrum.doe.gov.
+energyplus.gov.	3600	IN	DS	56659 8 1 833763ec14d41921c09e79b9a14cd3312acc3a67
+energyplus.gov.	3600	IN	DS	56659 8 2 530b287eb970ecbee465b9f27d6aaf14288196c77944eab32d68b0ea3665bbc3
+energyplus.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. m/dXFfJPTJEribuZ+EylvbdM2bVYi3Uyv3rdoN/IferpExkVxKTt1Gkipme7I0f4/RL1rrtzufMlS8kRAFPI+Cmow3Wqin2sUluNlqcjYqRhaALmg3nSmXm2CnRAOqzWAZGcJ7VVCb/IBxrdYTrtkFpJmbLGdi//PoVWM/IrTDw=

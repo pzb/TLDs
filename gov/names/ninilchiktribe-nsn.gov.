@@ -1,0 +1,6 @@
+n05vek58e4hreoo1rmvgbsmtcp1ip5vr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. as2Ve7LIC7RsYaEI2SjU7IA6rogpQEmRdyEP5TMRRRl+IIQLP3v3kXpys9uj8uNl7PZ2XUpL4+7drFJ/GHfBr7c1GuTbpdMg+QDtM84i8bfYtVeWnlQu43d84rW50tpq55nC02ZrSln/TGInxyqvF+VAxSmZ/vh4w+MRKFcbsdg=
+n05vek58e4hreoo1rmvgbsmtcp1ip5vr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  n0hn91gd28jtj54pibpkvm6cuh2looai NS 
+ninilchiktribe-nsn.gov.	86400	IN	NS	ns-450.awsdns-56.com.
+ninilchiktribe-nsn.gov.	86400	IN	NS	ns-531.awsdns-02.net.
+ninilchiktribe-nsn.gov.	86400	IN	NS	ns-1355.awsdns-41.org.
+ninilchiktribe-nsn.gov.	86400	IN	NS	ns-1743.awsdns-25.co.uk.

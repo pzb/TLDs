@@ -1,0 +1,4 @@
+ehk7ta28jvr5pl3qnqf08ur9e8viludp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. bVNgNmOGnvlxmh3jtrIoQm2XCzWnZeJo4nDLeR6JhFI+AvH77aGxCCjWnvNy3n+biuOrTje3NMlj6EZzJVVuNMVfCdITPPIdgbYeDtYhYFBrF62nYXjk9NytlVxZJbIjYeviqozD7NZHcoBJjSDt4Y3+LLUd27C2K39ru3azu50=
+ehk7ta28jvr5pl3qnqf08ur9e8viludp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ehq2dlv7g7oe44h03s34k60ol5p7jm77 NS 
+wvota.gov.	86400	IN	NS	dns.state.wv.us.
+wvota.gov.	86400	IN	NS	dns3.state.wv.us.

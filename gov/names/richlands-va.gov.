@@ -1,0 +1,6 @@
+3cph78f6htt2gg13sufti1gvtg92gcq5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. LKwAECxja05Wh/heMUGzicAKWafAMp3yyLrslSpkWpQD8o/hvSJZLn1rEzqORVj9iFX9Z3qoYL7KM6zkBGLjND83jM8HdyDrCYqPLk5u+Wv4iGMzUI7OZDLaKp3AAOlEC7WMyrOIt6cr/96NDDBMcJtb/HRVSZnE5lD8rJDHpfE=
+3cph78f6htt2gg13sufti1gvtg92gcq5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3df6681gta4bhb9evg76v0vopf1s8e77 NS 
+richlands-va.gov.	86400	IN	NS	police.richlands-va.gov.
+richlands-va.gov.	86400	IN	NS	police2.richlands-va.gov.
+police.richlands-va.gov.	86400	IN	A	69.27.94.70
+police2.richlands-va.gov.	86400	IN	A	69.27.94.71

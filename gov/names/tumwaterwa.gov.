@@ -1,0 +1,4 @@
+quncco0acaef59r8ehmvlgno69ntr5tr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Ace7Eq4uB/NKLbPTN0WbYN+qm8pUk7wbidsowPpbSjO5nVilXaUIr04Aes+9itwmXzkp6fyJWXa3Tf7+I9LFtGKcs8aoyVJJAQ3tEgXgnBK9MyMSyYIiUOHpzyW8IYtKMT39KzasRIfdVjMjS4bRQXFqp/p2AL5tG+NNYdgsFZc=
+quncco0acaef59r8ehmvlgno69ntr5tr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qup7495fat3eeotoojmji40v66u113ss NS 
+tumwaterwa.gov.	86400	IN	NS	dan.ns.cloudflare.com.
+tumwaterwa.gov.	86400	IN	NS	gail.ns.cloudflare.com.

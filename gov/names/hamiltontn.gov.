@@ -1,0 +1,6 @@
+hamiltontn.gov.	86400	IN	NS	ns1.hamiltontn.gov.
+hamiltontn.gov.	86400	IN	NS	ns2.hamiltontn.gov.
+ns1.hamiltontn.gov.	86400	IN	A	12.204.222.241
+ns2.hamiltontn.gov.	86400	IN	A	12.204.222.240
+jvemqbtqjkqf6t8msi5gu0tm1ueolibb.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. o/Ixqi3VCgA/vMXMTWYyVxRONOZymhx4+vegTiaPfl8awyZd5jeDSdHmEYvUrCVW7BaVml/mFpHc038F73rd8zSZO1E8lFXnoSiHnW0+ai+RrlcEdh/uDZLQo4Cbqw0oN/x4Uulf3MhO7H6MfZ+Kdc3CdolVUrksJsKkXH6Oy44=
+jvemqbtqjkqf6t8msi5gu0tm1ueolibb.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jvo6as2bfhj21o4rkn92ajqme2gequul NS 

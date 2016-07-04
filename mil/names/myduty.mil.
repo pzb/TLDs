@@ -1,0 +1,9 @@
+myduty.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+myduty.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+myduty.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+myduty.mil.	10800	IN	DS	42052 8 1 00e86339db2d56ef254018edf7933215463b850d
+myduty.mil.	10800	IN	DS	42052 8 2 12d962d2377ff82d57da3f43ce5e108a1025d2f9d6eaae072c9a41d588501551
+myduty.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. LTxUGb3Us7fGpbaBgxERJQJET/DLf1fSW27olhKek1RudlYkHJ/MpBFbzkO0pcRDTxzIUVpFfZNpvP63SQ6Hf62t1GbA3cKkeqVxRYK0DnN4ynesqx8pUrmnqmA5EEZdAng8dp442k1IQz13/OIszQ+CUF15Jx//l0x4GVfCUn78B9c=
+dns-pub-f1-u.pentagon.mil.	21600	IN	A	199.252.47.11
+dns-pub-f2-u.pentagon.mil.	21600	IN	A	214.14.133.11
+dns-pub-f3-u.pentagon.mil.	21600	IN	A	199.252.47.75

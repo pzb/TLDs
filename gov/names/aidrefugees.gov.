@@ -1,0 +1,8 @@
+aidrefugees.gov.	86400	IN	NS	zc.akam.net.
+aidrefugees.gov.	86400	IN	NS	use6.akam.net.
+aidrefugees.gov.	86400	IN	NS	usw1.akam.net.
+aidrefugees.gov.	86400	IN	NS	asia9.akam.net.
+aidrefugees.gov.	86400	IN	NS	ns1-145.akam.net.
+aidrefugees.gov.	86400	IN	NS	ns1-176.akam.net.
+sij90ntg2khc6tok0qqk2bainqps1or4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. VoShnc+ES3+Zlr40eSQsJ7dw/VS6ssFZX8CDJs788Y61wmaBxQnWlkJe0HEnQZA576cxqRP4e2Mu7eKyvANeiGhlIfFF2/Xil0d/EInHDmPRRMthWD1ElalADPMyzAPnVl+TXUSJ+bU52xG/+Gidq/FQvOBZJ5KDYFgwHbOz/sU=
+sij90ntg2khc6tok0qqk2bainqps1or4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  sisep9ubodi3e4lc8qg88pbsvtpnmb7j NS 

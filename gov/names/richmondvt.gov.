@@ -1,0 +1,4 @@
+pv261rskv648grsin8f5q20459ii9bd8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. KawOKW2CJlypRENT7/041M0V/OnZbzHfd8EsSbV/veHy+mjkgBjtQ8mAziqUPL+7Bd74v6zWG+QZoloM1ms5sbRRVFLFihuB1UDz0BWtYA7BdVJrMbG225wqxbH/DJ6vaSCKvoMw2hYXRBoCEeqIdRuP1DGoccyP4JQRyKr6SM0=
+pv261rskv648grsin8f5q20459ii9bd8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pvc6ekcemi4akab361nb8hl56atem0d1 NS 
+richmondvt.gov.	86400	IN	NS	ns73.domaincontrol.com.
+richmondvt.gov.	86400	IN	NS	ns74.domaincontrol.com.

@@ -1,0 +1,4 @@
+kq5mc3n8r5pu8elhgleodqggl0tj6n34.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. v8djKpqVaZDNGVdfq6HHSrYi1NiAVj783+HdNtRGFMESMgp8EbfJT5Y5QH1O5gqeTZM6Fo+GpfrP160+v9N/9o43JwlvqUttdOLFdPQheZ3iOX1v3lkix7lNjLXEaqkSTJuUwKYxbEK5dBfQZwyBTEMRbgpx6wCDPXcK7EuUVrY=
+kq5mc3n8r5pu8elhgleodqggl0tj6n34.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kqbboviqtsiqt9p72cdtck2j87jq8qnh NS 
+mainequalityforum.gov.	86400	IN	NS	dns.informe.org.
+mainequalityforum.gov.	86400	IN	NS	dns2.informe.org.

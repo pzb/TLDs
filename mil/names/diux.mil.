@@ -1,0 +1,9 @@
+diux.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+diux.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+diux.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+diux.mil.	10800	IN	DS	33835 8 1 7c54bb802b31f56d0f3eb9806db470f596737401
+diux.mil.	10800	IN	DS	33835 8 2 ef1d500469e37ec96f6e3d30ecea325bfbfc72894702041987ea058bfa81efb1
+diux.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. kx357vlRsHJ5J8J9R6XfWMdvzOOVgVf58KaY3gAp2WKZsc8JZyZ2PI+WudmzXz4C+qTaKwJ4z8TGIrHqkFEoVzCoTxPD7NUUHzb+z0lv/TkJ7udDMwoZbiEUARV98/8a8n/rlq6CMjAuyDFzKhCMPQ+Te/TSv7MQ7DrE9eHBqioYfv8=
+dns-pub-f1-u.pentagon.mil.	21600	IN	A	199.252.47.11
+dns-pub-f2-u.pentagon.mil.	21600	IN	A	214.14.133.11
+dns-pub-f3-u.pentagon.mil.	21600	IN	A	199.252.47.75

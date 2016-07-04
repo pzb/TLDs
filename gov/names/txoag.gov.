@@ -1,0 +1,4 @@
+clv1h2sl80abp138t0r17fo1tsndi93j.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. iLZHcp6DeRhxFwUM9PouFvnczzEQmsQtbMfo7hZtniS5zuF+pDx6VKLrDb1DR8u9fc7RJjXx37rY0+ELLr1Nna3gt/5+McRPVMqAPYGLQpXWdDo0S1MA120i3TtuJVoOO/KOYQoJEvc8JhImSbNlz840a4UfX+nZV2D+oUvavrE=
+clv1h2sl80abp138t0r17fo1tsndi93j.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  cm18p0pmdtlqo6kfs0mig731fdpb5ntl NS 
+txoag.gov.	86400	IN	NS	ns.capnet.state.tx.us.
+txoag.gov.	86400	IN	NS	ns5.capnet.state.tx.us.

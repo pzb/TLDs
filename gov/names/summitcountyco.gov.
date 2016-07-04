@@ -1,0 +1,4 @@
+ggtqt36tmhs50d1qa7j0c6fs1ocker3p.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. e6mSrSxg0qlnomNmp3hAPt/zWBlqIWjgxScyXMkd9fKw5asuAJwsyww5ZU8d73LaX1yW5uH56/iGnRnU6NF1MUmB8OFIEVvExSpAQTvtU9KVI2lNP3O+bqpmUZyGrl6tVSMH/g9gaTxz1OXpxcGuBTJMSsEXHjaVpVaNOcqI2RE=
+ggtqt36tmhs50d1qa7j0c6fs1ocker3p.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ghcag9oj84475bfr22gb6ifc75cuuk3c NS 
+summitcountyco.gov.	86400	IN	NS	udns1.ultradns.net.
+summitcountyco.gov.	86400	IN	NS	udns2.ultradns.net.

@@ -1,0 +1,11 @@
+dnsops.gov.	86400	IN	NS	snip1.dnsops.gov.
+dnsops.gov.	86400	IN	NS	snip2.dnsops.gov.
+dnsops.gov.	86400	IN	NS	snip1v6.dnsops.gov.
+dnsops.gov.	86400	IN	NS	snip2v6.dnsops.gov.
+dnsops.gov.	3600	IN	DS	15616 8 1 40040878c442b44ec240b3df4dcee2c7b9e401ae
+dnsops.gov.	3600	IN	DS	15616 8 2 3361662ebd866745344e443b4b83abc6b09ddf391a8044b49c9752e899130ae4
+dnsops.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. EFTAdcnIayRoPO4eaYp7ZByI+y++mZqWYCdwZytY904xBfQhO9W3GaSsY2n7GtEJjK7pIx8XHVsll3CtrV9n6e5Z7mBGIgfd8DmngOmq5aJ1uwPhMGnmGHq7Z940XbGXbjszZEyyRWweNu6u6L4hN17Ws//2fY5LGQ2425qBPO0=
+snip1.dnsops.gov.	86400	IN	A	129.6.100.200
+snip1v6.dnsops.gov.	86400	IN	AAAA	2610:20:6005:100::200
+snip2.dnsops.gov.	86400	IN	A	129.6.100.201
+snip2v6.dnsops.gov.	86400	IN	AAAA	2610:20:6005:100::201

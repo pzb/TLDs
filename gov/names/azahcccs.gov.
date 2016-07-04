@@ -1,0 +1,6 @@
+azahcccs.gov.	86400	IN	NS	gtm1.azahcccs.gov.
+azahcccs.gov.	86400	IN	NS	gtm2.azahcccs.gov.
+gtm1.azahcccs.gov.	86400	IN	A	170.68.81.247
+gtm2.azahcccs.gov.	86400	IN	A	170.68.81.246
+l1rb5btr8lvj0lqij6h2ir9ah3j80p6s.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ss4ROU1ueEZe85Oa9CPvZeXFADqbm5TaxuTLCY+26x2EVfnPeW8bSL9sbEMuJHElc3nw5MgdszNF70n/KG4XcVLa6hLh+TJ/aIf03fqcyDMUjEr/YeF532llkN6VuTQ6sWdMVgU7X9LeC2NEmfXqm9+scwZO8LxZ7gmD5FQU9Gc=
+l1rb5btr8lvj0lqij6h2ir9ah3j80p6s.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  l25ckq82bj3mjpa6blnj107drjnrou1a NS 

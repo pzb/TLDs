@@ -1,0 +1,4 @@
+colrain-ma.gov.	86400	IN	NS	dns-auth3.crocker.com.
+colrain-ma.gov.	86400	IN	NS	dns-auth4.crocker.com.
+pdpc890be0dikr6i4mid6jnmav7008tj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Xd25sZJGz/91x3sq6w+y+X5utJ+N8ZjVkmhFk7K+lPRqvqJZj1/bSQodbs8Y8AR6b0tgO0sqsiGH+L/qexibXkES1CN+Gw1Z+JkVI+4Pk5h2XnDHJcbmOp3dnzYyCk7ZlsC/Ahm7G2UCPorlF3Wek/T6mKU3UluSihFFJRzQXBM=
+pdpc890be0dikr6i4mid6jnmav7008tj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pdsj969eahmhj5ahjpk2ae3vo5ubk1gt NS 

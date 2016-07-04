@@ -1,0 +1,6 @@
+353bgso7ujshiq041ijed7apb18qo5a0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. s4MS9qF8Wqug+PVEgAK0G7mDiGeoMwWX9trjD2PllADYiH+y46VdBtx4FFYchodd53QAbdgiEO8TeRL32YqIJynAZfGHRq0QcF9s0UaIYdi1OsgiJmhBmXAy0KKvUnC2w7ZYzP5kwj5LE8gjQNJb/dGFdmZRQfvhiII7A1y5fHg=
+353bgso7ujshiq041ijed7apb18qo5a0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  354909009u72anfbnnlpsrp44a8r3b4l NS 
+edns1.alabama.gov.	86400	IN	A	216.226.178.11
+edns2.alabama.gov.	86400	IN	A	216.226.178.12
+readyalabama.gov.	86400	IN	NS	edns1.alabama.gov.
+readyalabama.gov.	86400	IN	NS	edns2.alabama.gov.

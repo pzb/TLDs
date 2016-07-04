@@ -1,0 +1,9 @@
+ns1.usda.gov.	86400	IN	A	199.141.126.202
+ns1.usda.gov.	86400	IN	AAAA	2600:12f0:0:ac04::202
+ns2.usda.gov.	86400	IN	A	199.141.126.206
+ns2.usda.gov.	86400	IN	AAAA	2600:12f0:0:ac04::206
+woodsy.gov.	86400	IN	NS	ns1.usda.gov.
+woodsy.gov.	86400	IN	NS	ns2.usda.gov.
+woodsy.gov.	3600	IN	DS	54385 8 1 5e77cecd03ec1221d15fd5d23e97147ce95d7ed4
+woodsy.gov.	3600	IN	DS	54385 8 2 30caec7d198af8a6cfd8c85ba3d09a6e994e9a4c977d1c6fa4f7b67b86eaceef
+woodsy.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. G5dSlTmBq2hhTcTrTn4WpjcOzRpOBZXH7cVL9NXoUFJwVSbMD1CbwZGylIZrQs3dzBLXm82pFTQF2SRYYj+pv2Sw68IM+geshEfU5og8Aqq/kyWtQUP/odQWpWmauwXeUA40+ClELnSxVPwiLE1TixnQSYDG63kP6CwQwYwFWIc=

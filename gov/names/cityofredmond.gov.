@@ -1,0 +1,6 @@
+cityofredmond.gov.	86400	IN	NS	ns-78.awsdns-09.com.
+cityofredmond.gov.	86400	IN	NS	ns-858.awsdns-43.net.
+cityofredmond.gov.	86400	IN	NS	ns-1242.awsdns-27.org.
+cityofredmond.gov.	86400	IN	NS	ns-2019.awsdns-60.co.uk.
+h3s0bl6k4u08h7tc4hruoavkbduj650n.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fZsRM+QhmjMODNX74ViTG2nOyi41GCqQZ+nBfpMb30pQUFtxKrWRUeBvuN1VdLzlnQLoLRwk2g6fpXXznOoQ6OYhjO8etbd6/09+0IC+Jt1XzV6YJXeymJtbiic2916i2NPCCKvIkS4Yej+lAHkfNLvo14GdHx31Hny56R/2uHA=
+h3s0bl6k4u08h7tc4hruoavkbduj650n.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  h3tun9552k5qjq1vn0q2k1rg2js0tvu0 NS 

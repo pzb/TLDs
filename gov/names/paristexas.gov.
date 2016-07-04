@@ -1,0 +1,4 @@
+ofcrf0sos42tpimab0fht2i645lq334a.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. jgPbf9mOfV/NDiNOIG0j/gncqtulYWC8ns/OROfNUaxBUPgPSsOqG5cNaOds55+iV9xQFMMunsEfiBv/6TRh5EZDxZUqCE2rgynnLaYh9Rec8ev7EjEycsSfNC4yGNc3ND0b+PoVg3LZo3Xg6aGnAbt0I9pHvcCukc+4giPU9sQ=
+ofcrf0sos42tpimab0fht2i645lq334a.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ofke88khjfd9hmlem0duilm8lmoop04e NS 
+paristexas.gov.	86400	IN	NS	ns1.mydyndns.org.
+paristexas.gov.	86400	IN	NS	ns2.mydyndns.org.

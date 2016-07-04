@@ -1,0 +1,4 @@
+haralsoncountyga.gov.	86400	IN	NS	ns1.powweb.com.
+haralsoncountyga.gov.	86400	IN	NS	ns2.powweb.com.
+kkm3ne3rm0ucfn413d094qjkjro13bv0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. nHHf5EY5XBw8zuLkABUWzDopcit6Tu1yI8t13qw42LbCNRqWR+bELRHJ3C4MUzHAiCCmkqYfKy8uJRCUm8BPMf457q/mGCzCmfEWVVkv30v8QPAt4hVYz4X3kBaTtDtgyZbZbu9u89nhPM0XP6PMWLk+aM4o5L/GceUzs6U6OGE=
+kkm3ne3rm0ucfn413d094qjkjro13bv0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kknoqhq9jtj8q8qv2bgiqktgpd91o73t NS 

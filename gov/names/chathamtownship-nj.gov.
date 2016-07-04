@@ -1,0 +1,4 @@
+1ahfci3vpf2qmvdk11m1tp3240kj62su.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. q/GlYUWTmXYXXY1zGZSlPbhxOkqBN+esnKGM+dhDFS4hIoPXaAxP6LxzmpZZ1iYZknNrvvUGIwT6LXymZhJmWCdohxO/eQUP1EYrKze0JwAkXjvrDtpx08QUDDsS9BadAHH4LTM/AITGh93dsvyg5GJc004l8fuqZcPbjbhEqM0=
+1ahfci3vpf2qmvdk11m1tp3240kj62su.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1ahtcl6atj0eubmp0g8u2gtc9edkcjdv NS 
+chathamtownship-nj.gov.	86400	IN	NS	ns1.hostmonster.com.
+chathamtownship-nj.gov.	86400	IN	NS	ns2.hostmonster.com.

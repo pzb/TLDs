@@ -1,0 +1,6 @@
+masenate.gov.	86400	IN	NS	internet-dns1.state.ma.us.
+masenate.gov.	86400	IN	NS	internet-dns2.state.ma.us.
+masenate.gov.	86400	IN	NS	internet-dns3.state.ma.us.
+masenate.gov.	3600	IN	DS	50433 7 1 946fb85e57cffd1c6cbd2e1529c712a023ce68f4
+masenate.gov.	3600	IN	DS	50433 7 2 554700bd7a42d9c64ef842ea6a59a09dacb383a1254617bb238b7ea43a8916d4
+masenate.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. gaDAvWsKG21jfQTYKiOVC7/QRRCIGmxHfpziBWP5BCAOTyjN2WVlftSETAB1WY+PIfFeuarHqpsorkFHMgExdHsrAhvcgTXFA310OJDIzQ5+tCfWIOCtB0DrK2q4StxC3rPfLqrd4pOt8U+cgXtYk0H24/lLZz+vPnB7gGU09U4=

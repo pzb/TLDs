@@ -1,0 +1,4 @@
+edmonds-wa.gov.	86400	IN	NS	dns1.edmonds.wa.us.
+edmonds-wa.gov.	86400	IN	NS	dns2.edmonds.wa.us.
+r8d0nfglsoji360cbp2j78df1a4vbljb.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ME6QR1ckXKgPz1NP15aSvEi4X/fMkQJJfKm/pr45nXeiibO61EokF6jJ5JqedXd9eiGGZYP4zvZCia99i3dC63nrNudxotmlTZcS3p692+AdCuUdVvrW5quUovFQiIkhRXhguIqghCzUt9B8lYxlgDgAB4gKKeAgJg4wAmsI6NE=
+r8d0nfglsoji360cbp2j78df1a4vbljb.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  r8jc7iu0v670fnnpqi409c1l1a54ejup NS 

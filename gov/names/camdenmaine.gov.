@@ -1,0 +1,4 @@
+0h70q464tdheh0sj1mcjtrlin7an5bio.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. vnYncLQ7WG9WBFc5ixNq5OhBdLG2GQ6+rgKNaFfNlLc5UoUyIPv1rAuqZDPK40vMLDEKUctmrT2xAbyXOd8hp3FN4ZnZhScwyds9J1Yiv0XmyL5nX9tL0A0p05LwuIp4bh0Fd+9WLZW8ojPVbIC23NBUeZ8afG2omfYr0NvK/kU=
+0h70q464tdheh0sj1mcjtrlin7an5bio.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0h7tum0735a0m2frlh8mkta95crbpbpg NS 
+camdenmaine.gov.	86400	IN	NS	ns1.avenet.net.
+camdenmaine.gov.	86400	IN	NS	ns2.avenet.net.

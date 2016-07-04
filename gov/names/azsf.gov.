@@ -1,0 +1,6 @@
+9gs4fs38l70kc212pb91j0is25rt8l4o.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. JAENayXnT3PrA7R5iIu7RSvEwZMpG5u0kQk8pjFH5px62ld4jnYpZF1e9xdkDQ142E2wif/4BgMK8NQmht+w6YNDpASq8YsNfmUpn7D9CRne7r4gbn1EwIVed7usNanJUWVxzrcT6ZzZ0WVHWIF8QMIkEu7qI0SD+po0vB14BnA=
+9gs4fs38l70kc212pb91j0is25rt8l4o.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9h31d42ufula13p349bitteadjm24o1b NS 
+azsf.gov.	86400	IN	NS	ns-217.awsdns-27.com.
+azsf.gov.	86400	IN	NS	ns-591.awsdns-09.net.
+azsf.gov.	86400	IN	NS	ns-1520.awsdns-62.org.
+azsf.gov.	86400	IN	NS	ns-1907.awsdns-46.co.uk.

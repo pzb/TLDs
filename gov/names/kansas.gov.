@@ -1,0 +1,4 @@
+e4alu2p58mq997nqg6rviekd55t38l8u.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. k4fLCMkhu/rOgYnfwD5uS7mxTp6NiSu7wtaoVYda+xvIRIJsOJdSbr0xgZotqztH1Je7pCuhtODfJ23WMxKQ37eWo+CBYEv9QNPzala2qxhTcaQBV9liACLjWPQgLgH+k3KEPjX+UZrPkiFuuT9xo0JO2y1O+MxkeXh4FVSJ24s=
+e4alu2p58mq997nqg6rviekd55t38l8u.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  e4psfapqikibv15h3b6dkttlsrql2c3d NS 
+kansas.gov.	86400	IN	NS	ks01.state.ks.us.
+kansas.gov.	86400	IN	NS	ks11.state.ks.us.

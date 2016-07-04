@@ -1,0 +1,9 @@
+ttic.gov.	86400	IN	NS	a1-22.akam.net.
+ttic.gov.	86400	IN	NS	a3-64.akam.net.
+ttic.gov.	86400	IN	NS	a12-65.akam.net.
+ttic.gov.	86400	IN	NS	a13-65.akam.net.
+ttic.gov.	86400	IN	NS	a16-67.akam.net.
+ttic.gov.	86400	IN	NS	a22-66.akam.net.
+ttic.gov.	3600	IN	DS	17977 8 1 60298f78061cda739420ea7836752132d00e7a1a
+ttic.gov.	3600	IN	DS	17977 8 2 6b42578896e69d6a92e8f7bfdfe1fcf2472647303dc2cceffcc8cd0075ed4c66
+ttic.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Z9GdtmhA39l7OtlbU5IC0Zc/iW+n8OGwurOHeRoJulO19lQ5i9/obNRBTac1xU5kT1FJ1n7BPYZXS5glxZJJx4fQ63NnQmR+O3ZI06jM6RTel+PBciC765SYhb4c641I0loHJ2C7KoT1iuIy4/6FaMKSU3MoHGc0Ewl2hjNSl/U=

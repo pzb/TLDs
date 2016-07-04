@@ -1,0 +1,4 @@
+jrdpefvhshlecdcifhvjq92v6bl6gm1u.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. eOzJt7/2961GxwPregKB4VDOuehr5mEZSLPn/U0D7z9Rsdq43BeTgzJy4ApCOApsUjOZf6DJldfL6wmfZnQboSgwudgO9BLn/zTl1UEjlJXbzi1ubj2o8AXd6cc4l/V4ifl0e4uEdoq9Q2reBGatvyuTzmzrnvuhzBSEQETqQ4Y=
+jrdpefvhshlecdcifhvjq92v6bl6gm1u.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jrgp9hb174kjhqosv9obnn5vsbnhqna3 NS 
+wvoasis.gov.	86400	IN	NS	dns.state.wv.us.
+wvoasis.gov.	86400	IN	NS	dns3.state.wv.us.

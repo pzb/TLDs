@@ -1,0 +1,4 @@
+mq8pt80p5964res8t23bv8cob063mi4h.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. NzqrxHQVPZvKG6/1gINa75J7aW6Co74LjVWwRfBSTsHE1KHfYex1oHx5HOkpLFY1i0mcF+GjBh5gw/QZfMo9znmuFloyHCeCnWpSVWumh42mfzNeqPVOECzmF4bUKpQtYlQZo4LQR0n6XvEhPM/Nxxup1FwN6SbfPuguX8zvITM=
+mq8pt80p5964res8t23bv8cob063mi4h.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mqc4b0ij2k7ccqgpaenum7n710gssu59 NS 
+njhumantrafficking.gov.	86400	IN	NS	ns1.state.nj.us.
+njhumantrafficking.gov.	86400	IN	NS	ns2.state.nj.us.

@@ -1,0 +1,6 @@
+alabpp.gov.	86400	IN	NS	ns2.alacourt.gov.
+alabpp.gov.	86400	IN	NS	ns3.alacourt.gov.
+ns2.alacourt.gov.	86400	IN	A	72.159.229.134
+ns3.alacourt.gov.	86400	IN	A	72.159.229.132
+ub9ml1rh0hvl4sv0r3dllrr7hd0lguok.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. cwZmqjmK/y8BPXy6e9RmV3wPku/+pqWNKRTWoVoaqOKVB3ovEpfweaNB2ith0+VOYj0tmKt82dCiqY9OcF9eN2Z263H8ZtoSlAiR/E/ybXbDgkSsR7X1B/UnD2UrCF1gzXAKdFS+dgyMBSJHDKo9VeFJ3Gv4zkbo4P0YuBuucLw=
+ub9ml1rh0hvl4sv0r3dllrr7hd0lguok.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ubf4j4eae75lrm268vp4sjac0875sjvl NS 

@@ -1,0 +1,6 @@
+adamscountyoh.gov.	86400	IN	NS	ns1194.dns.dyn.com.
+adamscountyoh.gov.	86400	IN	NS	ns2129.dns.dyn.com.
+adamscountyoh.gov.	86400	IN	NS	ns3138.dns.dyn.com.
+adamscountyoh.gov.	86400	IN	NS	ns4173.dns.dyn.com.
+jqdjej77dln09mheqnhga17ffp4s0mm4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. WIWsM+U1n09f4ylihI3VRwENQqKU/zj3AOCOVBlo9ofC/t/JsOqcbnmgzmqGJsi76LHje2ZEqE80jZoDIomhuRdG10YMv7IMVb3Ut76WiwAzUf+G/WnM5gHKCYcLp4gyGr0LM13ypiYSQgo70mZ/RtcXsjpjy0Ep6ckIx+4EMAc=
+jqdjej77dln09mheqnhga17ffp4s0mm4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jqru8f3ivgo66ateah428a588lfd1ssq NS 

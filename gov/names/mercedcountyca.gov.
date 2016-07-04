@@ -1,0 +1,6 @@
+kebfs45q24c1sbdnois2f98nv7c7qesc.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. jtpq74DEwjOUFIfkJT2Xz3V7pwx+GgrlsrRhMn4qAukpKyewAoEsN2kqVAPS0rzTNWxh/5OOWFO0AeGPYu6NjgKxZiFz5PIT2RHNdPP0VRiFJJE5OMV4N3Zu6eSsYYCQeiyn9IRgR7I00xHImhr0gSlb+jl5MSXRAZu6i1OY3Eo=
+kebfs45q24c1sbdnois2f98nv7c7qesc.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  keu6sbd3333nupg85fhdaoqm8pnp1g70 NS 
+mercedcountyca.gov.	86400	IN	NS	ns1.co.merced.ca.us.
+mercedcountyca.gov.	86400	IN	NS	ns1.hosting.fire2wire.com.
+mercedcountyca.gov.	86400	IN	NS	ns2.co.merced.ca.us.
+mercedcountyca.gov.	86400	IN	NS	ns2.hosting.fire2wire.com.

@@ -1,0 +1,4 @@
+7pq5qu830259mbvk3evb0ubcssvg86n3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. xTB1YqM1p2GxvszHYbO+/Bmocw3UFEViQPhqNgr4bGOadfi6xNNjf380ZnjLUA7bR96SmGq7CMa1YO0Ja8DQJkn/DyB4/zrHSBHB7e5p5UE0GX+4w+Yo33xW684acltHGmZ8kkPM78xANhhwAj6GGJVC8ThF1gxkvh/Qp/EWreg=
+7pq5qu830259mbvk3evb0ubcssvg86n3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7q25t3mabluthufcihn6166eclrbjdpk NS 
+txdmv.gov.	86400	IN	NS	ns.capnet.state.tx.us.
+txdmv.gov.	86400	IN	NS	ns5.capnet.state.tx.us.

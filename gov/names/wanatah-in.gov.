@@ -1,0 +1,4 @@
+ks1al3uq50sei8f1kp8m79tocni946jl.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wT3XDIQ5U4i7BIHhw2GkuzxwvGzezBQKOiNuYbGPxk4w5YBfrNvpAoYsF7xhPcaTrmmVmEH4uWyjVjvdXcP3je2da64l6rbIjL2bCu4oDZbsDTnPIW5QzZ+vL2kuAkR54uGz6UNTgEBrGkZmTF2U4xZ/hEA8IE46k76ytwxq73Q=
+ks1al3uq50sei8f1kp8m79tocni946jl.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ks1mgsqotuif4dk487ajg589gtn9bne4 NS 
+wanatah-in.gov.	86400	IN	NS	ns25.domaincontrol.com.
+wanatah-in.gov.	86400	IN	NS	ns26.domaincontrol.com.

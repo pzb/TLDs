@@ -1,0 +1,7 @@
+jimmycarterlibrary.gov.	86400	IN	NS	sauthns1.qwest.net.
+jimmycarterlibrary.gov.	86400	IN	NS	sauthns2.qwest.net.
+jimmycarterlibrary.gov.	3600	IN	DS	13071 7 1 d68d74b983c6a20965b0b444a30542848ed9f390
+jimmycarterlibrary.gov.	3600	IN	DS	13071 7 2 8609ac91c4811470c8424e3efa1dc036641dba7aa3e36dd46eb19fc78ff5c1fc
+jimmycarterlibrary.gov.	3600	IN	DS	44128 7 1 ef540aebb6908aca5569a797d57bbbe2ad732fdf
+jimmycarterlibrary.gov.	3600	IN	DS	44128 7 2 5eed0e28edfbfa7d7a1008a90b56967d4f632b82fdf0843866aaa973dd38e993
+jimmycarterlibrary.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. iXau0WkH5tcwKzGTI2mT/YYWiPbxnu0Z3I4c6KpS6hIXa+BkthEPq7qS1uqgQ3Ah/h57vGNRtkNlDqL/0s5tl3BTmd8TmLk5EH1ftPKphde5IRVE1ma8r3bu0kGWMK1c6iiMbRDw5G8JALSDbSlC1IVRvaGns6S8FEpYfNfJsTQ=

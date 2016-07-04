@@ -1,0 +1,7 @@
+floridasenate.gov.	86400	IN	NS	ns1.state.fl.us.
+floridasenate.gov.	86400	IN	NS	ns4.state.fl.us.
+floridasenate.gov.	86400	IN	NS	mfnorl-ns2.mfn.myflorida.com.
+floridasenate.gov.	86400	IN	NS	mfntal-ns2.mfn.myflorida.com.
+floridasenate.gov.	86400	IN	NS	mfntex-ns1.mfn.myflorida.com.
+rqtuln25b17ircaj8nqpfoepe90etndj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Q5QWa+Yyea8cy5Stdz/Ramhi5tOwhbPtHx9Nz0eTcnN/l14G+KTL1O8yk5AFux3YxzJEbLkMGOvLYO/ZIiqKW0PMCMbO9OvXEG4lsQknT0wTMEmjFKHCgPVNa0fVRM38v8sQB5Sa1dInRaf0aarg5hMXsHlnldc13BYh3aKdzYU=
+rqtuln25b17ircaj8nqpfoepe90etndj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  rquie7hvh35j6go4gqhlbfa9pjefk1dv NS 

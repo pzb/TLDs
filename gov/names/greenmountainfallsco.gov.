@@ -1,0 +1,4 @@
+6ftm5i6pvi1cibm2f02gjeelc0176d8d.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fHYLwBB0K1IF0tYBJkU7/Ol/rqBHK8AGwWVH4dXtwUkUNRCebTqx9G5eeYLqz9NYaZEcIW6lpg/5rYOkwv+ac99/3Pm5DC+OWe/brXi2xQ/dgRL8Gdxyl4hyVjwVi56pHXm7CMXIudMEYD0uvjbQkm6WjO9IJo9i0CmHNn/KOcg=
+6ftm5i6pvi1cibm2f02gjeelc0176d8d.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6g9up5muu4lcmc33osc1qo5vhglbvh82 NS 
+greenmountainfallsco.gov.	86400	IN	NS	ns1.wendycard.net.
+greenmountainfallsco.gov.	86400	IN	NS	ns2.wendycard.net.

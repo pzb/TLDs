@@ -1,0 +1,6 @@
+icass.gov.	86400	IN	NS	authns1.centurylink.net.
+icass.gov.	86400	IN	NS	authns2.centurylink.net.
+icass.gov.	86400	IN	NS	tpsns11.terrenap.net.
+icass.gov.	86400	IN	NS	tpsns12.terrenap.net.
+icass.gov.	3600	IN	DS	61950 7 1 3db3570cfce6025dce5279b04569d0536ea75885
+icass.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. YuMNl3EHT2L6wTzXSlVbSXp5CGRGMAnlv2H/Qy89L+dKS/LQTnl55mgGBvfFNLwm7BMOaPMCWl5trfSeI4qCja9AjZrWkfRJtrVSAl0OKWBdE5LI+dLLFpIaNf2oCSaxuSdAnZPPxTVOPaXG5DmPVpvkA+2gsk4K/VtEy3LIohM=

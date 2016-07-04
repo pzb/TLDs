@@ -1,0 +1,6 @@
+i1ni5e520ea49rb8ff1ofdbsmtqkkapm.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. jw7YonGhjoXDruXX2S/fbmx0QC9VAIvKf7OIluqwuLlDtGpZ7pXgjpElXvHYPhBM5BFS2YUVGseJ26S66C/sK3dKFyddn3Vyb0fKWtcBrOqVnyU6RXgo/hI0zDVqYcHeiWmIFUI1alIGTY8X89xodPQuMXuGEuAs9BqP0RjAT5Y=
+i1ni5e520ea49rb8ff1ofdbsmtqkkapm.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  i1rjrmadic9v1n9459eaejphbp92sbjs NS 
+ns1.nc.gov.	86400	IN	A	149.168.11.11
+ns2.nc.gov.	86400	IN	A	149.168.138.11
+ncfast.gov.	86400	IN	NS	ns1.nc.gov.
+ncfast.gov.	86400	IN	NS	ns2.nc.gov.

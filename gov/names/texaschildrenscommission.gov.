@@ -1,0 +1,5 @@
+5ta6q30stgobugqvrn81q7t7g7rtnng8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. vUaDLza3iBQUW5iQBueuIb7/oTLbxA6r7K+NzY7+m3gx6ukA81jKPglTEGHmSRu54BaFDZjcDa4mjaAx6VwSzZUx81agDU2zwmoNmzfVntgFYcH0CLe5au30w9ivq8J/JIo+P19AmqEyawddQfOZTwHaZ9L1P6Wvh/POmD/DcFI=
+5ta6q30stgobugqvrn81q7t7g7rtnng8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5tg8vfok53knut341dvk72uosj7icnpn NS 
+texaschildrenscommission.gov.	86400	IN	NS	cns1.courts.state.tx.us.
+texaschildrenscommission.gov.	86400	IN	NS	cns2.courts.state.tx.us.
+texaschildrenscommission.gov.	86400	IN	NS	cnsw.courts.state.tx.us.

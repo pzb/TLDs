@@ -1,0 +1,14 @@
+pbgc.gov.	86400	IN	NS	ns1.pbgc.gov.
+pbgc.gov.	86400	IN	NS	ns2.pbgc.gov.
+pbgc.gov.	86400	IN	NS	ns3.pbgc.gov.
+pbgc.gov.	86400	IN	NS	dnssec9.datamtn.com.
+pbgc.gov.	86400	IN	NS	dnssec11.datamtn.com.
+pbgc.gov.	86400	IN	NS	dnssec12.datamtn.com.
+pbgc.gov.	3600	IN	DS	15872 7 1 da3a59fe02165d4c1d475705f9c46ccbde8d3bb9
+pbgc.gov.	3600	IN	DS	15872 7 2 c2036dd63754d693003a759d20efe09417cbb576bf9a3d55163e1d2fae141a0a
+pbgc.gov.	3600	IN	DS	34805 7 1 7c8cb86b690ce20aabc444b162a3e8b171a87596
+pbgc.gov.	3600	IN	DS	34805 7 2 9971069c9bf11ff19d19cee70e77ca4dd91748abb5d522ec4a357247ffb25f63
+pbgc.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. vf7tNZKIWiN9iimK1V5O+IukaPHL2FkTpg/xzfgtmXH7VOfJR2cF5A8aBhAwKLE/dJ+7aluNpXQXYGu4ynNruqRC9FU6WnYI3V0hOSRrdwzgO2jaPn5BrLLp2jVrbO2iISDXlzrFfAWIcd/kDbVZshNrxHCvflT0fySP34U3S/c=
+ns1.pbgc.gov.	86400	IN	A	204.197.214.3
+ns2.pbgc.gov.	86400	IN	A	65.49.37.203
+ns3.pbgc.gov.	86400	IN	A	108.166.170.104

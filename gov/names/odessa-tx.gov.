@@ -1,0 +1,4 @@
+ls01jbg8f968qfrbcu3n5ofqfid3d43f.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. G8ker4EG1dwtP9gUZZD9H0mvv/Kie68R/ojs4T2y01z4YY3qjXbZKhudetwzR2TD2Bj7EIZ50e2/NavFUjeg6rFQMcjWYmlPtbm5OQWKKkDwu2+woecZVvxGLLiSDKCopsdcMSQ08hpYpxGQQxB+0B97awDmTLWsZGHyjgkDoQA=
+ls01jbg8f968qfrbcu3n5ofqfid3d43f.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ls0n58ungv6blmdsia136jglh603n2jo NS 
+odessa-tx.gov.	86400	IN	NS	ns1.dnspark.com.
+odessa-tx.gov.	86400	IN	NS	ns2.dnspark.net.

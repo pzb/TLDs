@@ -1,0 +1,4 @@
+darecountync.gov.	86400	IN	NS	ns1.darenc.com.
+darecountync.gov.	86400	IN	NS	ns2.darenc.com.
+hm8m04lusqits3619e5763h99at5v59g.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. aTZ04U842RS9/iAS3001n1jLkC2pJ0iThk056jzW1MfrpoV3z3yaBUlBsjMqrxVm05Av46q3RxIQmXp3OJmJeofjlDxcQTUANWYwikzSkrHwm6fXLvzNmh8d8+5jsZlmbthWOMMxdvpTJFCf+Ymn7GhQ6fQ3l+j7Ui0/a6G9Mqo=
+hm8m04lusqits3619e5763h99at5v59g.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  hmf3v3j25c1a4novsmtah0c5o8cle523 NS 

@@ -1,0 +1,7 @@
+jewishheritagemonth.gov.	86400	IN	NS	ns21.loc.gov.
+jewishheritagemonth.gov.	86400	IN	NS	ns23.loc.gov.
+jewishheritagemonth.gov.	3600	IN	DS	17242 8 1 dcabc3f7a6ac847b9cfd785a4fe9028a121fb981
+jewishheritagemonth.gov.	3600	IN	DS	17242 8 2 aa0fbc4f159b41ec610aa6aec38e1702c9364b820eb563321720381be391c80a
+jewishheritagemonth.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Svv7qzc0TUhAXHrwydv38tjZgfG4ZYscWnpWvYJuifYzA1g2rDPplRk0YT/aG3KetudG1jgBQc8WUbnXsfZ2+2H2qfP/SJRmdVp/wCJKN5xoFgqwFXv9oPKGPumkCfcxQAfALT1FA464+a+HSPydHwT3uUBz/IllzsbW03KSp0U=
+ns21.loc.gov.	86400	IN	A	140.147.32.166
+ns23.loc.gov.	86400	IN	A	140.147.239.150

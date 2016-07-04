@@ -1,0 +1,4 @@
+cityofbeloitwi.gov.	86400	IN	NS	ns1.premier-technologies.net.
+cityofbeloitwi.gov.	86400	IN	NS	ns2.premier-technologies.net.
+frljempc44nncl7kklftvi47kthafej2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Kzkqd4i9rn1QQ8h+0kT+zBWa+6Dl6Y7boK/rtlp5XTNQu0uJnknBiX8012A5tDxr0pzFZp5dSHOP8IKtbETFMjn9fFUafb5wc1J+ZPjmvajryt85SZYO25tY8hQBi3StuKBBvTY5MImg6e954afp54ygugjgmw6x9K1xiItZuxo=
+frljempc44nncl7kklftvi47kthafej2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  frqq0lmps2dg2l94n5n1cmsd2r7dbfti NS 

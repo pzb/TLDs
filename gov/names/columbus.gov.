@@ -1,0 +1,4 @@
+columbus.gov.	86400	IN	NS	pdns1.registrar-servers.com.
+columbus.gov.	86400	IN	NS	pdns2.registrar-servers.com.
+kknoqhq9jtj8q8qv2bgiqktgpd91o73t.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. U2jyXF9xGEw9mQGkLhBw7RWFx+vFt0dfTILfSg/599cVOmIe9ekMxEopwEtvlxGKWWlQs8yyMX3vzApKvzGgYTjaqixkz8VCgh0VTynyej425O6du66M9pjluY2eb+mX1Ef4mOpc7Po/7Tu5mz0+maSGIsdCgloratV0gPMBeR0=
+kknoqhq9jtj8q8qv2bgiqktgpd91o73t.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kl9701qlc41nanlb0jirg33snu8ikprg NS 

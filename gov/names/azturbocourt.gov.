@@ -1,0 +1,6 @@
+nsa.azcourts.gov.	86400	IN	A	67.131.23.11
+nsb.azcourts.gov.	86400	IN	A	67.131.23.12
+azturbocourt.gov.	86400	IN	NS	nsa.azcourts.gov.
+azturbocourt.gov.	86400	IN	NS	nsb.azcourts.gov.
+v5mdavsjkm61m2ksrvpjufhc3eurk8tr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. A4yMxec6yC5f1bRQnDDFpvyiUwa5TjYDZjTxNdrSIvY1LdlOh2H2YTGiDyeRCRkihhOtVv5Zh9Ny+UvfUdhTXDqHuAUOamPijiEDhXPfQGm7mRGzp8e3xylCgIEYSXRRsl49bMv4ZMc+WBeMD0ARMzzL4f39dSt4nQl7GDsEW08=
+v5mdavsjkm61m2ksrvpjufhc3eurk8tr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  v5ni2j8iqmc105sg0bkamgc89bhdbbru NS 

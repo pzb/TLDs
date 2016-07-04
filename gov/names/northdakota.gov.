@@ -1,0 +1,4 @@
+5jkicbs05bhr6f3eb7sbc3lb77tm8chd.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Y9ar/JZTwyZeNvvlvF5Nkhd8vKr33y3+oQP9dregm5mn/gwwO8MjM48ZeJubfYlEFolI5HLEwZnI7G1k74AZmGKppIshenO/oSOHA3Q6UZTB3PeBi7CJ/sLAPFzMmLT+j/K7w1Utexs2KKD27RiV8fMyVucU0zeHDkrfVJtqhwU=
+5jkicbs05bhr6f3eb7sbc3lb77tm8chd.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5jphoq2g8fj2eo7bphl1m1grv2ngejd4 NS 
+northdakota.gov.	86400	IN	NS	ns3.ndnic.com.
+northdakota.gov.	86400	IN	NS	ns3.state.nd.us.

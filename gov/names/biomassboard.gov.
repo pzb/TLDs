@@ -1,0 +1,9 @@
+biomassboard.gov.	86400	IN	NS	foxbat.doe.gov.
+biomassboard.gov.	86400	IN	NS	fulcrum.doe.gov.
+biomassboard.gov.	3600	IN	DS	20362 8 1 8f929a2353605e0750f9a7ca975a18ea9e223863
+biomassboard.gov.	3600	IN	DS	20362 8 2 435240ee85164b75e7e759adea46a9eda9afa43b32b1a9f5c8bf788b0557b0be
+biomassboard.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. qkcbCriNL9TlhYehU9rMdSrD89nOI2tLeO5WvdBNypZML9gVyVl40Yj24c+fvFqDrEX46MbWrkSrvTMpy2m5s9q6vfohLDOrZVIBFeJDQXw+Gg8gOMFG0B65r6Y3UVvEG+hQ80/Cg67TcmUavc+fVaveW+kUXZr6XTcHPhv7RO4=
+foxbat.doe.gov.	86400	IN	A	205.254.143.110
+foxbat.doe.gov.	86400	IN	AAAA	2607:f368:1000:1000::53
+fulcrum.doe.gov.	86400	IN	A	205.254.144.110
+fulcrum.doe.gov.	86400	IN	AAAA	2607:f368:1000:1100::53

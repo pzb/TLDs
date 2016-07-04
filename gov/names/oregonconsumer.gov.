@@ -1,0 +1,4 @@
+maktpqgsc4qafigricoacpbs9fvluh21.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. eQXGYMdJ1kpgE0lS+X9fkH7/OjByqx53z4GQg1cbfAVGCI2zf+1zC3T0Do1oFxYLcDBG9N2l0ulP4hQpjqNpKmNKNOdbZSQVWFad2j29M1hYAZdbmDGHkTrXl89Pu+d/lrpw7kq7RLzFsZcbNULlus/eAy+S3jrmEB+F6yKnmQg=
+maktpqgsc4qafigricoacpbs9fvluh21.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  manni2acj19tuo7cjbnuc4rnmp8l8kur NS 
+oregonconsumer.gov.	86400	IN	NS	lion.state.or.us.
+oregonconsumer.gov.	86400	IN	NS	puma.state.or.us.

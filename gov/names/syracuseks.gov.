@@ -1,0 +1,5 @@
+c9b4nmhgmrvf2tdak25r154a4ir93i1h.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fiv8kiXI5XY3t7wlNfl220ASkvzEEI/QeGbhlXlqi4/9MZAP2tVRrfnAwq/+0Zl36+Vmx/1Z1qss5sQt0D406wGM8ce5bDYtLGhoPsabFyeL9jTJWTuqxayKa9Ad5XVx5b4MYgU3iSQ4lP0xflt3+noLyIqzpyo3rvOfoRqzZZU=
+c9b4nmhgmrvf2tdak25r154a4ir93i1h.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  c9bpf883bsasi3jcpkr5n5uf9to848o7 NS 
+syracuseks.gov.	86400	IN	NS	ns1.reflectivedns.net.
+syracuseks.gov.	86400	IN	NS	ns2.reflectivedns.net.
+syracuseks.gov.	86400	IN	NS	ns3.reflectivedns.net.

@@ -1,0 +1,4 @@
+j9u29ruu6kgpsoq24o9lnj22jgjlpa08.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. a5kXTri+5uA9PAuTRf60OLZXsbmap9vxOB+uNzKprLimFsLnZkLNenm5HPSNkY26Bm88Wwfr46JK4Ins9Z0sy6B1q0hdgra+IssDWNLfzdFGn5Jdii/xbS9+HQCHytyS08zGPjsflUm+lOSJKVHYQK1sb4KMzVKtvnteWMTJi1w=
+j9u29ruu6kgpsoq24o9lnj22jgjlpa08.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jab26j7qp2cbmde21gtd65b7a2oq84ee NS 
+sheffieldma.gov.	86400	IN	NS	ns1.infotech-maine.com.
+sheffieldma.gov.	86400	IN	NS	ns2.infotech-maine.com.

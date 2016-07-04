@@ -1,0 +1,9 @@
+drmsc.mil.	21600	IN	NS	drmscex01.drmsc.mil.
+drmsc.mil.	21600	IN	NS	drmscns01.drmsc.mil.
+drmsc.mil.	21600	IN	NS	drmscns02.drmsc.mil.
+drmsc.mil.	10800	IN	DS	26846 5 1 65b736f4a5af0d21a34825ae573d2092a34e82b3
+drmsc.mil.	10800	IN	DS	26846 5 2 b01997b2fb20356bc77a788a86a2f52b46f9e0f665671df4cabd11cae47122da
+drmsc.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. qnk3zjgyzo4g6JN02WX3aThxcEBhXmFb3oSG3H6AoO3UEbyvZh76gOdTLPmGkSm8AJ+K+1juYPh7NIUbuHC5N/LbrtvL28Lz2IYFPo92Z9Nk7dNdsIiUPxs3YNLsG2d9+VMK4m7iVV9OKCTWSRlOGJ0l/eICaky761koESxXxVzYf7U=
+drmscex01.drmsc.mil.	21600	IN	A	214.38.136.13
+drmscns01.drmsc.mil.	21600	IN	A	214.38.136.10
+drmscns02.drmsc.mil.	21600	IN	A	214.38.136.11

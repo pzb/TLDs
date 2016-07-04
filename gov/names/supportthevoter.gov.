@@ -1,0 +1,15 @@
+dns.gsa.gov.	86400	IN	A	159.142.136.198
+dns.gsa.gov.	86400	IN	AAAA	2620:0:150:280f::5
+dns2.gsa.gov.	86400	IN	A	159.142.150.68
+dns3.gsa.gov.	86400	IN	A	52.203.230.235
+dns4.gsa.gov.	86400	IN	A	159.142.69.84
+dns4.gsa.gov.	86400	IN	AAAA	2620:0:150:4013::5
+dns5.gsa.gov.	86400	IN	A	159.142.45.20
+supportthevoter.gov.	86400	IN	NS	dns.gsa.gov.
+supportthevoter.gov.	86400	IN	NS	dns2.gsa.gov.
+supportthevoter.gov.	86400	IN	NS	dns3.gsa.gov.
+supportthevoter.gov.	86400	IN	NS	dns4.gsa.gov.
+supportthevoter.gov.	86400	IN	NS	dns5.gsa.gov.
+supportthevoter.gov.	3600	IN	DS	33467 8 1 0b4bded93be165eb1fe8ba2dc9acbda0102572d7
+supportthevoter.gov.	3600	IN	DS	33467 8 2 9eb9aa9d6535c9bdc1a198e55a5a0c87a715c612ced647d907d9b890e3d0a79e
+supportthevoter.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. tvnmByZVIQXwGohpCLyIsIBCuMnQvdOZdkay3rg3i7Sv52z03WVEsnpw18ppwsN4GK1+u6NXvnnilC4+Sz6wvTQ4+dpo95BoG/RE7TuvCncY8/3azs+D+bi3U7Hfltb4+5scJ2gQqfqOUv26kR8+eLb5mGwCiO3i32y+aR/aB6Q=

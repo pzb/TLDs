@@ -1,0 +1,7 @@
+manufacturing.gov.	86400	IN	NS	bea.nist.gov.
+manufacturing.gov.	86400	IN	NS	gea.nist.gov.
+manufacturing.gov.	3600	IN	DS	16848 7 1 1a36d4ab1134c2ec32383b30e0a56be9191e177c
+manufacturing.gov.	3600	IN	DS	16848 7 2 c80429464bf922908ba9ead7c7a73cd1ee49830dc3d3341322e85ab72b4d1233
+manufacturing.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. WQKoya8+2C0ASY09U1WmeZ5Z4Jq/Fc3E+ZV53B8l8GIRE2/gL002LGdbD9/xz/a58BveL1S/b4OrU089vgOl3BiIYsPFgsVeW2YymIJJPRD0nHmA6cyx7rNyphKVCrr7Wqfciv/qWVVKaQqX7cEZW3jrM1V2s637UMa8BYA3ms8=
+bea.nist.gov.	86400	IN	A	132.163.4.10
+gea.nist.gov.	86400	IN	A	129.6.13.3

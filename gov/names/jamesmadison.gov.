@@ -1,0 +1,8 @@
+jamesmadison.gov.	86400	IN	NS	ns1.scholarshipamerica.org.
+jamesmadison.gov.	86400	IN	NS	ns2.scholarshipamerica.org.
+jamesmadison.gov.	86400	IN	NS	ns3.scholarshipamerica.org.
+jamesmadison.gov.	86400	IN	NS	ns4.scholarshipamerica.org.
+jamesmadison.gov.	86400	IN	NS	ns5.scholarshipamerica.org.
+jamesmadison.gov.	3600	IN	DS	29812 8 1 038593e01c026dad13a1f42fb695352f4f506225
+jamesmadison.gov.	3600	IN	DS	29812 8 2 844f6ac113e6d893000917867503689092471fd996db39fce75c9b8e0b29a5b6
+jamesmadison.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. xsg3cMnN7fFw1eh+M32IkXDMNBs2clh1KCuAAP6MUiUJB3Eqwvu6Tu8o6kGyeoYxNn0zWBlmWic5KqFda3BFzw6DbUJi168T/uZh4hsUkQys26gqVDpDFb1j/XAJPy71zcMPQ5IfCN4wWL4OV8XThRnCYgb0YgdV8k3j3iI8LvE=

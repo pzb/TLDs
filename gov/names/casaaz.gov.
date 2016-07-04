@@ -1,0 +1,6 @@
+ae7o1odl6olog5tjoloef2d9p1li93j9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. MV+8a2LXg5hUIoZVfbZMyclBigyTVtb9oT5+MqFTPqp41vythWEgZwE+SvrPAZFekM8sCXTtw/yHuuwTMHdMUm8MDZBHShQHvaTapfMbnaUGz+ePXNLD65oV9bkC4ZXorwM4JCZ7dvHLbYK056nn8kumdGunj+xfTS/TziGlJEA=
+ae7o1odl6olog5tjoloef2d9p1li93j9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  aeh10pjhf6cvvtv5p9kpcffgsvegqtr5 NS 
+nsa.azcourts.gov.	86400	IN	A	67.131.23.11
+nsb.azcourts.gov.	86400	IN	A	67.131.23.12
+casaaz.gov.	86400	IN	NS	nsa.azcourts.gov.
+casaaz.gov.	86400	IN	NS	nsb.azcourts.gov.

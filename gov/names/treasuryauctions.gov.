@@ -1,0 +1,11 @@
+ns1.treasury.gov.	86400	IN	A	166.123.208.249
+ns1.treasury.gov.	86400	IN	AAAA	2610:108:4000:100a::249
+ns3.treasury.gov.	86400	IN	A	164.95.95.155
+ns3.treasury.gov.	86400	IN	AAAA	2610:108:3000:100a::155
+treasuryauctions.gov.	86400	IN	NS	ns1.treasury.gov.
+treasuryauctions.gov.	86400	IN	NS	ns3.treasury.gov.
+treasuryauctions.gov.	3600	IN	DS	1776 7 1 3d16464ba5c7734a4c118e54b225675b9dc4913c
+treasuryauctions.gov.	3600	IN	DS	1776 7 2 810f289f94093d6d2b1c6fb71949702abd53ec865aafcdec7e45e053a4c0d6f9
+treasuryauctions.gov.	3600	IN	DS	61644 7 1 8b9f18edd8caf3b5680a47f50b852718baef15d4
+treasuryauctions.gov.	3600	IN	DS	61644 7 2 6a05b812d22e6835eff36e5896f4c95825e81881808d6a638604a5b198d5de8a
+treasuryauctions.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Xvz/2TgsPSZkoIH+bI+cT3QoNpG3yYfijJtkm9VsLHZwryerDYYZILoM1hueG77XPCjfdAyyw13yrIiBekrHNH8BH0IncNS1wBFZKlIcv71H7pg5O8cffktOgPBrddIveNOY5NsoxoUgfRmVOGt/MrJRp2qnWoJmvkxGPtYqzVY=

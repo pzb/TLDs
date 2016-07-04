@@ -1,0 +1,9 @@
+lmvsci.gov.	86400	IN	NS	a3-64.akam.net.
+lmvsci.gov.	86400	IN	NS	a6-65.akam.net.
+lmvsci.gov.	86400	IN	NS	a7-66.akam.net.
+lmvsci.gov.	86400	IN	NS	a1-241.akam.net.
+lmvsci.gov.	86400	IN	NS	a10-66.akam.net.
+lmvsci.gov.	86400	IN	NS	a16-67.akam.net.
+lmvsci.gov.	3600	IN	DS	23149 8 1 b32def5b9d2a1a03fc3443c4177958d26ce40b6e
+lmvsci.gov.	3600	IN	DS	23149 8 2 379a573338fb3c27549f4127f981304eebd1303c1649df39e63d61da723adc08
+lmvsci.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. s1I29tlHVFGwVqyrr7zWBusaIp/dITM3mIZyW4/aiq5YlnFdE4rOXiF9vzQwoyOst5ZdoPhy0fi+bn1sKA7HXuoq6PcjwRGCMcbzq/XmbYAK6lUnIwHb1Q0rbVifTeWjgz49lGy90DLImEWDnvhiJwZVlSAQ+BfG//yStuzMNRM=

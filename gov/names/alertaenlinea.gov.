@@ -1,0 +1,14 @@
+alertaenlinea.gov.	86400	IN	NS	ns1.ftc.gov.
+alertaenlinea.gov.	86400	IN	NS	ns2.ftc.gov.
+alertaenlinea.gov.	86400	IN	NS	ns3.ftc.gov.
+alertaenlinea.gov.	86400	IN	NS	ns4.ftc.gov.
+alertaenlinea.gov.	3600	IN	DS	29601 7 1 5c33bfe0bcda7d4ac2ffc26f09561e43594f7903
+alertaenlinea.gov.	3600	IN	DS	29601 7 2 7370c71380036430b2d3a2f8c0d832e14db60b52cf0dede6e592c953caad1b4f
+alertaenlinea.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. M4tCGkEhtJG0l+tqNSUg2z1aEyqnQzbrTeLqFGEuP9xcT0vz8IPyevBTtMRgGALBX9B2JTXUxDOzfuZa1fqG5DNa3/YywlW0didgt0Xgk77lSoUONgTZ1KJ7GY0uO1oxhr4gIOBKJehkncE8BI48iQcPJb8ER/nBG7l4PgEjlVg=
+ns1.ftc.gov.	86400	IN	A	164.62.13.2
+ns1.ftc.gov.	86400	IN	AAAA	2620:0:630:4000:164:62:13:2
+ns2.ftc.gov.	86400	IN	A	164.62.13.3
+ns2.ftc.gov.	86400	IN	AAAA	2620:0:630:4000:164:62:13:3
+ns3.ftc.gov.	86400	IN	A	198.77.70.11
+ns3.ftc.gov.	86400	IN	AAAA	2001:1900:2268:770:198:77:70:11
+ns4.ftc.gov.	86400	IN	A	192.28.111.42

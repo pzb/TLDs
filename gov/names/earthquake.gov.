@@ -1,0 +1,9 @@
+earthquake.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+earthquake.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+earthquake.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+earthquake.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+earthquake.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+earthquake.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+earthquake.gov.	3600	IN	DS	46570 8 1 aa93bfa3b72435df8f4b6d9b97145c8e7b69514c
+earthquake.gov.	3600	IN	DS	46570 8 2 0cf84c4b3b1d270bb6c6256328d187a51f32a696a784c55d6344dc057b41608d
+earthquake.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. PWCxuZF7m4iFWaQ/2oWGJqFiG/Qa4tmsKtKRmeKWfvvAZepWWcx4hHR/PpNx5uKXvrFteW8s4qu2+opP0XC+WPn2ERVi1VvFk4hKWN0n2lsLDCjtsXvKf1j6i7jJSGdxbA7jTy4QxlTVEZ1i/r1yZf8OualiQDt6ORr+ijWjyKg=

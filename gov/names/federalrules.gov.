@@ -1,0 +1,8 @@
+federalrules.gov.	86400	IN	NS	a2-66.akam.net.
+federalrules.gov.	86400	IN	NS	a7-64.akam.net.
+federalrules.gov.	86400	IN	NS	a1-221.akam.net.
+federalrules.gov.	86400	IN	NS	a11-64.akam.net.
+federalrules.gov.	86400	IN	NS	a16-65.akam.net.
+federalrules.gov.	86400	IN	NS	a24-67.akam.net.
+pbstvtnpmealkr4slqet86dvf17t4tfl.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. h0RL3uuUEBeyNUEH8tfb7rhAMGb1NF7wN+l4MbdSNO0sqgZ4aKukIpxtHtaOncqjKWK4fTDwwoTMYMyrx/FEai3cA4YzW1bcmUDPtcVkBqVX1vXK1othh2qJpE/lRpUiHxX41xlL8o6Axgmyz697ipJCXBgKs6cqP5aFXR0DLz8=
+pbstvtnpmealkr4slqet86dvf17t4tfl.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pc0us11tgbeor5b0s1hdm4o0fiuts1pu NS 

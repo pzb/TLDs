@@ -1,0 +1,6 @@
+7tlq76jammi6scnrdsqqj398m4ru4qpf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. yG5nA5nMMOllURn4VKOZ9V7m/IahbLfxrRU3BS2UOzXWaF7PNOd1My4uEteQw92b2CbwkfGA1eM2qzjg365o8g39E4NrHqcI/b3SbQF8FqDNiuPfx164HRZUrNRrJmEo1lqvV3MoBkCsZ0L7jsw8RtBCgtsPInGc49F5ZlzbAAw=
+7tlq76jammi6scnrdsqqj398m4ru4qpf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7tmtrf6rjbm7f3nh1sm5l3uoo1cf28n8 NS 
+vi.gov.	86400	IN	NS	ns1.choice.vi.
+vi.gov.	86400	IN	NS	ns2.choice.vi.
+vi.gov.	86400	IN	NS	ns3.choice.vi.
+vi.gov.	86400	IN	NS	ns4.choice.vi.

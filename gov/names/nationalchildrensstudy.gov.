@@ -1,0 +1,12 @@
+nationalchildrensstudy.gov.	86400	IN	NS	ns.nih.gov.
+nationalchildrensstudy.gov.	86400	IN	NS	ns2.nih.gov.
+nationalchildrensstudy.gov.	86400	IN	NS	ns3.nih.gov.
+nationalchildrensstudy.gov.	3600	IN	DS	22485 7 1 1d9533af30493f275b12a7a4c1951aea1b25471c
+nationalchildrensstudy.gov.	3600	IN	DS	22485 7 2 732471661353703a98addb7f1c0ca55412cdb7229a5b771a742a52be5d5b530e
+nationalchildrensstudy.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. fHmXGJ/vfmLSENTrxFUYw9RFPRQTsy1mvC7EZ4h9TZTcv9/Wd1Tm866uev4Dj2sZi0x9DzA5mN/hEwzfezY9Iwoob9CeRHMznRCSzrFngEawpiz/0UhK/VTuph5ZSxKpVtnKe8ZRL4QALuwg0xdzI0WAdh6k/bENrSKKTVm4sWA=
+ns.nih.gov.	86400	IN	A	128.231.128.251
+ns.nih.gov.	86400	IN	AAAA	2607:f220:404:101::80e7:80fb
+ns2.nih.gov.	86400	IN	A	128.231.64.1
+ns2.nih.gov.	86400	IN	AAAA	2607:f220:418:4101::80e7:401
+ns3.nih.gov.	86400	IN	A	165.112.4.230
+ns3.nih.gov.	86400	IN	AAAA	2607:f220:402:1801::a570:4e6

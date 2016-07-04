@@ -1,0 +1,4 @@
+gug3ojvgq7vfca98l4tsof4hiuabu0nm.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ra/yMJlQ9P2Dcu/36ZTFVfX3RWPDeZV3a+jymPkxLhN7m7RhEskUBymmNp/SudTvI1Xe3E9QEaMbU69tdbgwcXPm3xHtYZrbGCYIU4mEUF79zGpl5kRe5lTYyJzMzM1w2N7ZB7BQR1jG/0vRpc1Nn+NGyyuv1dlU4JbNbzcj7xw=
+gug3ojvgq7vfca98l4tsof4hiuabu0nm.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  gui4s8h2gsatuel662eh60bngtb5a1e4 NS 
+mainedot.gov.	86400	IN	NS	dns.informe.org.
+mainedot.gov.	86400	IN	NS	dns2.informe.org.

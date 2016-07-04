@@ -1,0 +1,10 @@
+brooklinema.gov.	86400	IN	NS	dns.brooklinema.gov.
+brooklinema.gov.	86400	IN	NS	ns1.brooklinema.gov.
+brooklinema.gov.	86400	IN	NS	auth1.dns.rcn.net.
+brooklinema.gov.	86400	IN	NS	auth2.dns.rcn.net.
+brooklinema.gov.	86400	IN	NS	auth3.dns.rcn.net.
+brooklinema.gov.	86400	IN	NS	auth4.dns.rcn.net.
+dns.brooklinema.gov.	86400	IN	A	209.6.162.132
+ns1.brooklinema.gov.	86400	IN	A	209.6.162.162
+efrj8lqgl2fted5fg5ald6bjv35ubhc4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. N0a+XNkkNbp2QkChW2QLBeGU9ji8kaMDTOH35yByoT6T3X/wPHm6wUzub9QdOtVJ00dGSOtqHwl1lBI0rxP+MCTWR0tf8tRly05p1w56P7hW3e1xvO697LyHjx7NiC0xWVjKhMB2YY/xc5RQoG7PY0pUaRZBG1FOTErV4oxZiQU=
+efrj8lqgl2fted5fg5ald6bjv35ubhc4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  eg43tcgcmdh444ia7ku4mcr0no924ce9 NS 

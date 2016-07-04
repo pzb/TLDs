@@ -1,0 +1,4 @@
+outdoornebraska.gov.	86400	IN	NS	dns1.doc.state.ne.us.
+outdoornebraska.gov.	86400	IN	NS	dns2.doc.state.ne.us.
+v17jad9ok0s5ap36n71nlac6h62fj8dd.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. PqerMnF6zV8aO60cP2eHzl/0+syt8Dm8lF+u12dr0zC8DIAI4tWA4jMNyiA/i4bKYtvPsBbGw6GdFqYn3vyks8VrWBjX/4JihyI8/ZiTfzqQfZXj5XgnIYzZVXTKE8qOS10ntvbs+CuEc9jlk9wmsBjSNimkMzUsbEkv2IUxP2g=
+v17jad9ok0s5ap36n71nlac6h62fj8dd.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  v193gj9bhv11m8qlij4pc9h48npl8i0k NS 

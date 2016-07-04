@@ -1,0 +1,9 @@
+dodig.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+dodig.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+dodig.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+dodig.mil.	10800	IN	DS	57766 8 1 4ced777f76c3072b9beac71620fd7f31957e8c53
+dodig.mil.	10800	IN	DS	57766 8 2 7c776984796b77b21967552468652d0cd56f13440787f64239558df27b61a662
+dodig.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. WPIb2fI826loh+P83aDHbC+moTQXKHOjtGOwVtP/5ynM6dMw/QTN5cKrpSOLhhCx791YsiHHYQUE6bZlHgTlXkg1vmjbhW74gl0XBqqed9bzuJcoo+mMbFg5sKBsOIgX9ImL0Xz1Qw7/U55CkWydB43FsAbPOV7o3CR6Jw4pguxWv5Q=
+dns-pub-f1-u.pentagon.mil.	21600	IN	A	199.252.47.11
+dns-pub-f2-u.pentagon.mil.	21600	IN	A	214.14.133.11
+dns-pub-f3-u.pentagon.mil.	21600	IN	A	199.252.47.75

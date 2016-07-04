@@ -1,0 +1,8 @@
+bad79ik2iuktfu3odu3j3gp314ppi16g.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. XCONM13nGWQMYtTV4x3doISIyRm8EQOoVVO38ye9P8ncjwOVkgPc1jgi1mVi9B313Kv92uW67gYU9OfBQyOuCMMug8Y2rKFBYZ+9P6cPEs0iMYtylit549eMyadKNqxGRDR3F/buDXnT7sqFgsGS3gD3TVe35IDwGmvoOrSQBvU=
+bad79ik2iuktfu3odu3j3gp314ppi16g.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  badpa4g4a37hcjbhok6n8d3vtttq5s05 NS 
+ewyoming.gov.	86400	IN	NS	ns10.dnsmadeeasy.com.
+ewyoming.gov.	86400	IN	NS	ns11.dnsmadeeasy.com.
+ewyoming.gov.	86400	IN	NS	ns12.dnsmadeeasy.com.
+ewyoming.gov.	86400	IN	NS	ns13.dnsmadeeasy.com.
+ewyoming.gov.	86400	IN	NS	ns14.dnsmadeeasy.com.
+ewyoming.gov.	86400	IN	NS	ns15.dnsmadeeasy.com.

@@ -1,0 +1,5 @@
+igad.int.	86400	IN	NS	ns1.dnspark.net.
+igad.int.	86400	IN	NS	ns2.dnspark.net.
+igad.int.	86400	IN	NS	ns3.dnspark.net.
+igad.int.	86400	IN	NS	ns4.dnspark.net.
+igad.int.	86400	IN	NS	ns5.dnspark.net.

@@ -1,0 +1,4 @@
+4bm1806av2a5js0ndivjfbk41256lhe6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Iq+Uyp/RzQSDNLV1HuHISDQQew2u3G1OD9qrba7Hoa4P87vqX09UX3ZHNOCLonrtF/KkzuzB/ZYwVQl/rCr4L4HTcaXt7g1oDyQLIgQ8T4UxGjCpQeZBBOinMQVk0g6a7WgW14PMWw2dEIl57tsU6pyeV66BMsf87vQyRR4dUns=
+4bm1806av2a5js0ndivjfbk41256lhe6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4bsgdpg146esa1a5fl9l1neiqivk3dm7 NS 
+bonneytexas.gov.	86400	IN	NS	ns1.farrelldoc.com.
+bonneytexas.gov.	86400	IN	NS	ns2.farrelldoc.com.

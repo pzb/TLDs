@@ -1,0 +1,4 @@
+fmj1dd6ltacbesp24htoi0tdlri53vk3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. YuTufZsh9fbLIQwfDxa9/rN3N/Yb4r1FqugMrSxZlRkgz3mj2wprlR072ctBElVuHGSBswCcHcaONkPe/BigEnpK605TaL6ce+sWhP28CalsX5cA3zhrst/S5bCF8+lfAVjxVf50+2WKf/NEzmV3AASZXyKE/kV8tnBa8G9cp8s=
+fmj1dd6ltacbesp24htoi0tdlri53vk3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fmj4nm4jpjhrniqf6m12nme0h3np03v3 NS 
+villageofphoenix-ny.gov.	86400	IN	NS	cruz.ns.cloudflare.com.
+villageofphoenix-ny.gov.	86400	IN	NS	josh.ns.cloudflare.com.

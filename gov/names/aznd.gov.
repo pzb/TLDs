@@ -1,0 +1,6 @@
+aznd.gov.	86400	IN	NS	ns-415.awsdns-51.com.
+aznd.gov.	86400	IN	NS	ns-642.awsdns-16.net.
+aznd.gov.	86400	IN	NS	ns-1303.awsdns-34.org.
+aznd.gov.	86400	IN	NS	ns-1618.awsdns-10.co.uk.
+d9npt324kaffi724o1p7f319uobqtod6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ZaploWaUCSvDI7LEcJ/gbwyWtm9HX+bMCo5SPDXFQJVN14mpb3vAe9HvB+JZX0kwGbkfivBOoJvvGVfKPHswgz8CrKyLD5gQ/L8+KqDal7VPGvlaHppN8InoAJL7jnNOoBlFRVOdt6wknwW4vTbsw94T7AoAXSy31Tj8NbVkbZg=
+d9npt324kaffi724o1p7f319uobqtod6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  d9s2gj01ti8aglr9jmf4psod7av5froh NS 

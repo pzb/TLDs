@@ -1,0 +1,9 @@
+lookstoogoodtobetrue.gov.	86400	IN	NS	ns1.lookstoogoodtobetrue.gov.
+lookstoogoodtobetrue.gov.	86400	IN	NS	ns2.lookstoogoodtobetrue.gov.
+lookstoogoodtobetrue.gov.	3600	IN	DS	48272 5 1 71d2b1820041bf5f02119f54d124bd353c5c9a1b
+lookstoogoodtobetrue.gov.	3600	IN	DS	48272 5 2 26f2242759b541db517db55c7fc77dd1e8f927d6e70c40cfdba9edf7cfcc8391
+lookstoogoodtobetrue.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. blqLkbcFfz0pfoWugpKEwBHFAVo0EB7lkKEvF+pMRduYoa+H5+NIOd1CytrQO+alcxsK74+3okjyZKecpRWBTmAru1Jl4RjrywKahy3o9JiTh/bwd9JGCdDpUf3Ol4ueWYXE7Z5OhJrh5Q//8JIYIi7VPhAJh8KcRWFr+QZSIPY=
+ns1.lookstoogoodtobetrue.gov.	86400	IN	A	65.201.175.134
+ns1.lookstoogoodtobetrue.gov.	86400	IN	AAAA	2600:803:c20::3:13
+ns2.lookstoogoodtobetrue.gov.	86400	IN	A	65.201.175.160
+ns2.lookstoogoodtobetrue.gov.	86400	IN	AAAA	2600:803:c20::3:14

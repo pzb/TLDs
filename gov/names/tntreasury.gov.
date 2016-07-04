@@ -1,0 +1,6 @@
+pv1l8uripuvj98bso5sjl2pmf56re41m.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wCXEJ43Zx6az630YZvK2vMJlvCl30eUglglBKNq/smJBMAhEuIj6H3y/cnTax2aXzQXjveUBGNIyP7itchmdZkbwF/3Zc87xvBrpVuOev6Ky8DQmr6vOnUJ70tKdWVLyO9/b+kgkT0UxnmWgTwQYVefVmqCfmEJ6fqCvD4RiqRM=
+pv1l8uripuvj98bso5sjl2pmf56re41m.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pv261rskv648grsin8f5q20459ii9bd8 NS 
+dns4.tn.gov.	86400	IN	A	170.142.92.58
+dns5.tn.gov.	86400	IN	A	170.141.168.22
+tntreasury.gov.	86400	IN	NS	dns4.tn.gov.
+tntreasury.gov.	86400	IN	NS	dns5.tn.gov.

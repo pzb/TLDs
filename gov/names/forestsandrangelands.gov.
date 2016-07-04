@@ -1,0 +1,6 @@
+forestsandrangelands.gov.	86400	IN	NS	fsdns1.fs.fed.us.
+forestsandrangelands.gov.	86400	IN	NS	fsdns3.fs.fed.us.
+forestsandrangelands.gov.	86400	IN	NS	fsdns4.fs.fed.us.
+forestsandrangelands.gov.	3600	IN	DS	11920 8 1 b9b6c4e0dc51ca0f9d7c9fa919c7aa6613bc51e0
+forestsandrangelands.gov.	3600	IN	DS	11920 8 2 7535d9ae9d74ce8551c5c15868b1e0cd154bec96b2d247b9e2af09b9d49858a9
+forestsandrangelands.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Vow7NPpfUD+/rwYNRjjQupmGqbLHpxyIzjzLvKiUogLJzoOoYrExw2LRILpqobl5Cq8MmR4zbGz4KhEZPffh3EFe/v5zyECcuKzCQ95fHpcnd+FEqTj6ET6+o0efFmnZ4lglhq1HGDDiEWdEdv2oz23u2/s02Uqvce2F7OoYF+Y=

@@ -1,0 +1,4 @@
+4gv207o81cv01vsb5vfn0she0geauv7l.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hwiJ5UgJ92C1sbe9qtu525F0k5aB/U0atS5j39eB34qQxpW92bJmnGAP62fISD2EBlkm4tgIt5/TM4cXul6IQU7Kyl6lQP3njOJF/iNxTSLXz4HTw/EqxGkVwfrteEKcK30E8uSMUdBeowClT83tOGLnRXrC5BgsiuiwNRK257s=
+4gv207o81cv01vsb5vfn0she0geauv7l.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4hca2t9nnng5953st185mc2cavhnn5ok NS 
+fostoriaohio.gov.	86400	IN	NS	ns77.domaincontrol.com.
+fostoriaohio.gov.	86400	IN	NS	ns78.domaincontrol.com.

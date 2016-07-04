@@ -1,0 +1,5 @@
+1dkrnjv30gnbfb010egj7llm1s22h3nn.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. rThtsR8/wuXawR+D+dBVMBpNoBm5cv41JLYfdR5GDZ0LT5hGrPWOHDB9Lu64YCO0cS9+TQPwQFsa5K8e/OIO084fjazjD6cz7b7ewVpyCWs53RVTIzydiGoktcKPx9FpsjODkcw2ziXdSvnzJLSZp9NpUwUQFsdO5vkjOx7SRwM=
+1dkrnjv30gnbfb010egj7llm1s22h3nn.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1e19cq8f3l003j6os39hn097793rc77q NS 
+nv.gov.	86400	IN	NS	ns1.state.nv.us.
+nv.gov.	86400	IN	NS	ns2.state.nv.us.
+nv.gov.	86400	IN	NS	ns3.state.nv.us.

@@ -1,0 +1,6 @@
+hkck55d0vun52p0landbvt649bvdmaga.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. UYsQD5ZrZAoQw7jsdmuy3oI8u0zdDfx1xNDfiLZrQZttUShR3pN8Dk+eh45QVGlKYWvgcy7DAj2IhhufwRqYCA/65QCUC8b0fyfvMxoPZBA8AnKLgyIrKW8Ak1y1rx8DgEk+eBVKOef2I/LLRn1e8utSceUoqtoJJxOrZPEJ5e8=
+hkck55d0vun52p0landbvt649bvdmaga.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  hl9lv2g75kfhkonis9kqf1prfpef5usj NS 
+ns1.nc.gov.	86400	IN	A	149.168.11.11
+ns2.nc.gov.	86400	IN	A	149.168.138.11
+ncforestproducts.gov.	86400	IN	NS	ns1.nc.gov.
+ncforestproducts.gov.	86400	IN	NS	ns2.nc.gov.

@@ -1,0 +1,9 @@
+safecom.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+safecom.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+safecom.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+safecom.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+safecom.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+safecom.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+safecom.gov.	3600	IN	DS	28911 7 1 8555ba144bdd559f3c950a269a3a09b51f4af7c0
+safecom.gov.	3600	IN	DS	28911 7 2 9b85293491d22904ca4b34e1943f97da78b5457287672c93355c2f0cfc6f3df3
+safecom.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. wuJ4ihLn3LMiXrchyanSovgBtVQIt/bfmDon/875L7JAgAPiKi3IdScvEXqQ0q/Cdz4umG+rn5f0OH9Sa/Z9hqx0gxMGNWMW5coI4ZuVrfTvnpGHlvsYwcTkpwj/ETp0x83jFzK1PgxX52557muNjDyqYMJm0BkS83YurjxbFKo=

@@ -1,0 +1,4 @@
+859e1febbhth8r83v0lu14dvnkucorat.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. oQ5cZJq6WmI7J4vLE8R7hEkgsqwun+6bXIWvUzn7bytNuEWZhoNyd7AxFpdyCt4jdmnac0HYRhTGqYm4eOW7PHI/rcM+Fi/olDCFiz6+HPDSNV8IZ89uvqCkBYFNzKDp/TRkvcJTXH9gi7jlEkfsrS9KrIB5EZluXF0bX59oPHs=
+859e1febbhth8r83v0lu14dvnkucorat.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  85rkt2ud2d4ap9tirohitoqa9hbbp301 NS 
+fruitporttownship-mi.gov.	86400	IN	NS	ns51.domaincontrol.com.
+fruitporttownship-mi.gov.	86400	IN	NS	ns52.domaincontrol.com.

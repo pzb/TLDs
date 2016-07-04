@@ -1,0 +1,4 @@
+2rce3nfmc8kueudohe0ik9kui2egrma1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. RzEuIcfbsk+gGUcc4awCXzEomJvhecBrMnKScscyAfJFyIqrD/wnQgK09+IeLb8+giobE7K1UQOCUsQY8IZ10bu0Yu52CYCO+5ETa5Tb8Oixl1ldawkvd45dja9q760mYXI6hYaE3Toqyqqlx9sfjssaDHgo4Dh+MWPXzrIJ8f0=
+2rce3nfmc8kueudohe0ik9kui2egrma1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  2re9qdnc7ld7v13hjte9oa7nmubt82ih NS 
+ak-chin-nsn.gov.	86400	IN	NS	authns1.qwest.net.
+ak-chin-nsn.gov.	86400	IN	NS	authns2.qwest.net.

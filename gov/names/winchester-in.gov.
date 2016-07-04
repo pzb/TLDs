@@ -1,0 +1,4 @@
+morqbic7ug8citippgdjqvin5k4n0jl2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. PQ4Sg011IID33S0n34DMczPasvoOtr6nUNoQaWjKxK6hjVubWnCnihJ64QiElQ6rItqvXKSRwWn1IiogssQLrgWbznSYKGgXcQ0pQPiUbOkVPPxl5maZkS8Z2ptmBDU5tXtD7rmREIGzfljJQrDDqMoTLzzx1ddiRf1hAUAjyTE=
+morqbic7ug8citippgdjqvin5k4n0jl2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mouu3po7hn568vpq9e0bv7b2vqcj8fnh NS 
+winchester-in.gov.	86400	IN	NS	fns1.dnspark.net.
+winchester-in.gov.	86400	IN	NS	fns2.dnspark.net.

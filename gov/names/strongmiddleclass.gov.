@@ -1,0 +1,8 @@
+strongmiddleclass.gov.	86400	IN	NS	zc.akam.net.
+strongmiddleclass.gov.	86400	IN	NS	use6.akam.net.
+strongmiddleclass.gov.	86400	IN	NS	usw1.akam.net.
+strongmiddleclass.gov.	86400	IN	NS	asia9.akam.net.
+strongmiddleclass.gov.	86400	IN	NS	ns1-145.akam.net.
+strongmiddleclass.gov.	86400	IN	NS	ns1-176.akam.net.
+strongmiddleclass.gov.	3600	IN	DS	59826 7 1 318c64c2f97977e7f4e5f653fe637d85fa4c9421
+strongmiddleclass.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. dM7S/efhMuwiu6O+qbw8q7t/GTjs1NROJKDNp42m/Ssly01Vkooonnuec8uxLxj7UgosjJ6rKMTfTzhZPsVGihNuz5bJWzXDvH6eG4gljandcANt1caMPPGnQV9GL73wUU36lVLQSDRR+CvcBYwgswcyx6aeQQvrDYafbtHtBBs=

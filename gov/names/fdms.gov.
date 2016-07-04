@@ -1,0 +1,15 @@
+folsom.epa.gov.	86400	IN	A	161.80.10.13
+folsom.epa.gov.	86400	IN	AAAA	2620:117:5071:c::f013
+rikers.epa.gov.	86400	IN	A	161.80.10.12
+rikers.epa.gov.	86400	IN	AAAA	2620:117:5071:c::f012
+yang.epa.gov.	86400	IN	A	134.67.12.8
+yang.epa.gov.	86400	IN	AAAA	2620:117:506f:c::f008
+ying.epa.gov.	86400	IN	A	134.67.12.7
+ying.epa.gov.	86400	IN	AAAA	2620:117:506f:c::f007
+fdms.gov.	86400	IN	NS	yang.epa.gov.
+fdms.gov.	86400	IN	NS	ying.epa.gov.
+fdms.gov.	86400	IN	NS	folsom.epa.gov.
+fdms.gov.	86400	IN	NS	rikers.epa.gov.
+fdms.gov.	3600	IN	DS	60150 7 1 ae12281716e478c50aceb0e49827d6af8e765b05
+fdms.gov.	3600	IN	DS	60150 7 2 b01affd0109d1c3840c77944882b2759546e0edafd7f02a5b3d1107796a8215e
+fdms.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. AqkptpWcaqX4QcgeH+t2+1Jw/KZZhaFfYuBJryWCUNVW4tcN4MgmhqLKwin5ZoSQRZjqL1qA9R0Zr1kA+M6XnjCf3yblebus/+DPKIvQHNzsKcB2rkz23SWQcO83IhVASNYFV4U29/1nCP/rhp64gPERlGZA7Aa/6jkTS5adwOM=

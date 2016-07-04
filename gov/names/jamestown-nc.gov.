@@ -1,0 +1,5 @@
+jamestown-nc.gov.	86400	IN	NS	dns1.vc3.com.
+jamestown-nc.gov.	86400	IN	NS	dns2.vc3.com.
+jamestown-nc.gov.	86400	IN	NS	dns3.vc3.com.
+r6o2c18ocucf9j5n7vi9eadf8kh2tkrk.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. rjnRvL8lBaf0ea0qTfD7Uty7/pzOMWsQGgWY6K/06mCjjBW5vHsgaPYaXHUjGslvL/vOJNtNswQ7qZwTk/26EtsnEnO3hKaWmWNRz+p42FyDuV6FMFzB6RzzL4X/Le7rSvXa4KxwTHcDKebNpXTJzipGjDwAF5HRuFJKXM2SlYQ=
+r6o2c18ocucf9j5n7vi9eadf8kh2tkrk.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  r76of2gjnnrpks3e2i1v4j4v891lv3ls NS 

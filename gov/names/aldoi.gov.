@@ -1,0 +1,10 @@
+edns1.alabama.gov.	86400	IN	A	216.226.178.11
+edns2.alabama.gov.	86400	IN	A	216.226.178.12
+edns3.alabama.gov.	86400	IN	A	216.226.184.10
+edns4.alabama.gov.	86400	IN	A	216.226.184.11
+aldoi.gov.	86400	IN	NS	edns1.alabama.gov.
+aldoi.gov.	86400	IN	NS	edns2.alabama.gov.
+aldoi.gov.	86400	IN	NS	edns3.alabama.gov.
+aldoi.gov.	86400	IN	NS	edns4.alabama.gov.
+gesj4mijmecpc6trkl1n1cnfjupsavg6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. RbDW0yj3s/ZOLqRrTapFXRmUDwqD8y4LnD5Gqjxpr/3JyONv3I26kfFNvaYKGXLQc4NbTuW2Fu3trSPe9fjqdhBbXAz/bPhBaeCJ5eNTG82JvptrvPT7Tn/npp4l7AuvUL3VYjn+MNClv93H9QTqKwOUX6sBSVyjsLc5D9JXRmU=
+gesj4mijmecpc6trkl1n1cnfjupsavg6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  gevrt9grvli3tduvrttjmiig2s50p9rl NS 

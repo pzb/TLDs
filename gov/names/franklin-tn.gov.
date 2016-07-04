@@ -1,0 +1,4 @@
+7pmbfv0o68bf5t4mvp17cd7riebkn5ib.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. GxEYv3VzzhiU+YbO6PzGM8NSlWE5Y91OKn9ndP41vcoNdpLjHXbVlDlwnP8rFT2T5PRXrRBdO5zAic5fe+j3om3t2Uad3XKvt9Q72anzo9zRY742VI+YvByv/ZLZk8OLY9zMBsgeK8O0BOza5gvfSGsoUI7iuoYVpm5E9/irtig=
+7pmbfv0o68bf5t4mvp17cd7riebkn5ib.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7pokopf8md6pv05l7ri08sggstjj1hqe NS 
+franklin-tn.gov.	86400	IN	NS	udns1.ultradns.net.
+franklin-tn.gov.	86400	IN	NS	udns2.ultradns.net.

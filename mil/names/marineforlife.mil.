@@ -1,0 +1,9 @@
+marineforlife.mil.	21600	IN	NS	bravo.usmc.mil.
+marineforlife.mil.	21600	IN	NS	usmcdns1.usmc.mil.
+marineforlife.mil.	21600	IN	NS	usmcdns1a.usmc.mil.
+marineforlife.mil.	10800	IN	DS	37912 8 1 f7e2cbc1a193661e1d5ecaf774fd91a876a1d580
+marineforlife.mil.	10800	IN	DS	37912 8 2 70802b96c48895167baa34176ad87b370b97d97d1ddd0fcc22d51109e5d97661
+marineforlife.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. HnyJVQzdpmpbOj0d6FSMYsjA/tJiGmpgJMVppe9qysBuQglIRtkzSfdlMqwjU4lM0tDbiXS7ay0hZYWTIUI4txDD1YQZDuJCXhPcBvFIVxYsg8m0o7uZEqWB6VlApzJzA4HazozfjPaOQjw09MWAkbmlJqQpBTmgaRKLNQqZVEKwmn0=
+bravo.usmc.mil.	21600	IN	A	192.156.37.99
+usmcdns1.usmc.mil.	21600	IN	A	192.156.71.120
+usmcdns1a.usmc.mil.	21600	IN	A	192.156.7.120

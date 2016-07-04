@@ -1,0 +1,7 @@
+epg9emfh1h70knkaqov3gjokt3knpdkh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. IK7MCJ3ZUJqyZ/e/ebToSzgnylvVMHyiLlDgJGgHEL6YD2WUqJ2IOkTGYdkmCy5gVGiuztPVZNELjBTGlnNUx0pnI9PAiGGYqiZKJAotKksBwKFF5bAAUWp8v9ay6mx64RUujTQD/RXEUPdWj4DjNgaY3RKUMFvIpuoEvpZJqeE=
+epg9emfh1h70knkaqov3gjokt3knpdkh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  epghg613a5r2mn8o6cgfcrdu13anb2tr NS 
+ns1.iowa.gov.	86400	IN	A	165.206.254.145
+ns3.iowa.gov.	86400	IN	A	209.56.120.13
+iowagreatplaces.gov.	86400	IN	NS	dns.iowaccess.org.
+iowagreatplaces.gov.	86400	IN	NS	ns1.iowa.gov.
+iowagreatplaces.gov.	86400	IN	NS	ns3.iowa.gov.

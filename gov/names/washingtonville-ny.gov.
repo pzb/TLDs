@@ -1,0 +1,4 @@
+lgu0s52v6n76oq2d8fphbctr9acnqifk.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hnT82a/stSaa29zhB9aMB7CqA1+A9cQp1iSmKFCOKtbCflAY6iPgJvw2ty8UOzF4Yo169F/4lPEYb9rOtWxNXbhJoFCcS+kMK8BB+y7yNNYSQpvJ64KxOG3473/d+MK7nr7LQNqyEZLvr3L4E/aVqOSJn9x+5iI941X41LX9KK4=
+lgu0s52v6n76oq2d8fphbctr9acnqifk.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  lgus03nrfvvacch2amackkn2eijslvjv NS 
+washingtonville-ny.gov.	86400	IN	NS	ns1.hvcomputerguys.com.
+washingtonville-ny.gov.	86400	IN	NS	ns2.hvcomputerguys.com.

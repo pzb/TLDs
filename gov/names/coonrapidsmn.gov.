@@ -1,0 +1,4 @@
+citk9eehe8g9c8t1oaromjqjcfbg46d8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. cLPxFXSDZs+U+pO4mxTpLhUMP9iDuONGklVOn4QaSgWjZfXxg3DgsNnX0Qo0yaTGSUmO4IVui6FHlxVfyAac9cMCBw3DZIlusboeEiVbGHPsu4eeUwLbR0TcbFUqWQKoirZJGEsC4HdNf9nplmZghv1QN8snaLq7cC1PxwNorQU=
+citk9eehe8g9c8t1oaromjqjcfbg46d8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ciu0kbjce64kqan5ple1ukhvvml94kv2 NS 
+coonrapidsmn.gov.	86400	IN	NS	ns1.state.mn.us.
+coonrapidsmn.gov.	86400	IN	NS	ns2.state.mn.us.

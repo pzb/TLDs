@@ -1,0 +1,4 @@
+jds5178j0gndivb050fmpdma4d41bs9n.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. VecTgISUsTqsq30UClwcxa8NQ1hWduzB3yhCuYSj5QAcqygPNsKQmzotwwFxpRfAEdb33yRnN+vBoC0Bd+Zu6vV8aFtSz1YD3I+nrLQCKW4xmq2OmlM6A4o+gkXPL7AzA8qG6svNEtNM/mT/ZC+ON4lntN94FrC7+bsMgY+FYNs=
+jds5178j0gndivb050fmpdma4d41bs9n.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jdurjfehdc2pnvpu6f6sk5v37k8gfvqo NS 
+nyhallofgovernors.gov.	86400	IN	NS	cbru.br.ns.els-gms.att.net.
+nyhallofgovernors.gov.	86400	IN	NS	cmtu.mt.ns.els-gms.att.net.

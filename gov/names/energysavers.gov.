@@ -1,0 +1,7 @@
+energysavers.gov.	86400	IN	NS	helios.nrel.gov.
+energysavers.gov.	86400	IN	NS	phaeton.nrel.gov.
+energysavers.gov.	3600	IN	DS	51873 7 1 4d56b68fd2d58dd4884498683553a0842d652012
+energysavers.gov.	3600	IN	DS	51873 7 2 a064b08919d7f75e373b08ec2f61aa9f8b858000d2e470d3109070ef072dad41
+energysavers.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. F4F1nBMYyrOMh4HN+AeMZsBTwA/jAGHlkD+wwP7Hn1EPbDk1aNcFka979asSIoy7KUIhUA2hcH6JEretwvz7vBc33zHR/rU+Wo2VuSsg5Vc7ujJb+MR8tGgO8JYb/NPMXBQ55/kZT+XKQBEBWPodVPpUZYq56zrUhK7Oe2TqITM=
+helios.nrel.gov.	86400	IN	A	192.174.58.2
+phaeton.nrel.gov.	86400	IN	A	192.174.58.253

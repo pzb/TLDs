@@ -1,0 +1,14 @@
+juvenilecouncil.gov.	86400	IN	NS	ns-jdcd-01.usdoj.gov.
+juvenilecouncil.gov.	86400	IN	NS	ns-jdcd-02.usdoj.gov.
+juvenilecouncil.gov.	86400	IN	NS	ns-jdcw-01.usdoj.gov.
+juvenilecouncil.gov.	86400	IN	NS	ns-jdcw-02.usdoj.gov.
+juvenilecouncil.gov.	3600	IN	DS	27607 8 1 66b5ac42dbb4ce1bc7beb1e8e3d3109e1cf97187
+juvenilecouncil.gov.	3600	IN	DS	27607 8 2 78c80a5db9271033e9b6f693e641ec18ec87a47f644e98b3f5aaf56ae837c7ee
+juvenilecouncil.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. HWQTSfjfzKNlt3t3XbqZGHoml10CJuCySUiZmslhq0ZlgKtgDJQ/C+9DXPQM1KC6mlmyMpwQt0CsdGLrT7l3BYZSiZpwHXnuGsn42YBsq27U1er9QcnuDorELL85nSNLEZqr73VZvP6nAUmCsjX0YmoLznQrusO4525cTn4MhAQ=
+ns-jdcd-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcd-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcd-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcw-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcw-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-02.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::6

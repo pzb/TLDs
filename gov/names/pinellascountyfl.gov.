@@ -1,0 +1,5 @@
+pinellascountyfl.gov.	86400	IN	NS	ns1.chrl.twtelecom.net.
+pinellascountyfl.gov.	86400	IN	NS	ns1.nycl.twtelecom.net.
+pinellascountyfl.gov.	86400	IN	NS	ns1.pinellascounty.org.
+vtbl5atcp9041nlr1cgku77hqg6hjkf4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. IHR+dmYzrxYE00taBemKZ4dtFDxXB7VT6hjLfJTpHicInL3IcKFb0j3bcow6r5pfrgjsuRpvBlW7gxGZIS+5PoZxO4mjfKFGNmqIjt5Kp8Y2Bgn6CCQXSnMJ/wQgYKD4zB7uKt9EhNIJIAWOWMny0VFWXICJKCZOLYe0PyVTMe8=
+vtbl5atcp9041nlr1cgku77hqg6hjkf4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vtj245g4g33f0m0eltqf6cpu4mj4p27j NS 

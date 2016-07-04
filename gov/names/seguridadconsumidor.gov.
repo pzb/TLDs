@@ -1,0 +1,7 @@
+seguridadconsumidor.gov.	86400	IN	NS	auth111.ns.uu.net.
+seguridadconsumidor.gov.	86400	IN	NS	auth120.ns.uu.net.
+seguridadconsumidor.gov.	3600	IN	DS	10953 7 1 8cde8a3ca01c5b99ec61ba35d38332b354e806b1
+seguridadconsumidor.gov.	3600	IN	DS	10953 7 2 2ebe12b1afc5fb2dc780fc92516caa7d681c106d21be03dd8fde70c75686264d
+seguridadconsumidor.gov.	3600	IN	DS	18534 7 1 7f01aae9129a8676288c58b735fe0acd6f23ad63
+seguridadconsumidor.gov.	3600	IN	DS	18534 7 2 7dd835b8384c3ad3e99d9c67661e00f4bab18e4818d6fe5524b0faed9a6492b2
+seguridadconsumidor.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Xt8XSvscLytg/64Qhbqdqkuy/YyRvI3NuVszpe+fe8fIDGA0JyAcmbhy80nDeKMab37bRsH+e639bh2aSuAIEhK9f0/gCLiZ1LE0FoMIfL4UXtB/KuLcoIassAB4tjQYW/Xo6aOgn4i3cYpLoYm/d9Ql6hufsgy0GEdH5tLL0kI=

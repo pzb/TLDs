@@ -1,0 +1,15 @@
+dns.gsa.gov.	86400	IN	A	159.142.136.198
+dns.gsa.gov.	86400	IN	AAAA	2620:0:150:280f::5
+dns2.gsa.gov.	86400	IN	A	159.142.150.68
+dns3.gsa.gov.	86400	IN	A	52.203.230.235
+dns4.gsa.gov.	86400	IN	A	159.142.69.84
+dns4.gsa.gov.	86400	IN	AAAA	2620:0:150:4013::5
+dns5.gsa.gov.	86400	IN	A	159.142.45.20
+sftool.gov.	86400	IN	NS	dns.gsa.gov.
+sftool.gov.	86400	IN	NS	dns2.gsa.gov.
+sftool.gov.	86400	IN	NS	dns3.gsa.gov.
+sftool.gov.	86400	IN	NS	dns4.gsa.gov.
+sftool.gov.	86400	IN	NS	dns5.gsa.gov.
+sftool.gov.	3600	IN	DS	2227 8 1 8c3c494c3180e0f9fffdfc42f8418c9191f561d8
+sftool.gov.	3600	IN	DS	2227 8 2 e94faab296a83b4585cb4ba21fe77531079f832570b3925c025dc2132a0b42c2
+sftool.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. uHme3Sb2szNwCsxdLhqKQwaZisYr+m9+hUTp0Vg3wVzT6s+ioPDlQBK2eVLBXkNconOn7VCT3QJ8XHJ7xkkXilLED2L6YvkrJoP+SO/wd8Bn24HtBLPJ5i3VtkKrywprGUqQi6cC1JIPN+FMdykrp15LTcBpXS6wOsDHNT4Iogw=

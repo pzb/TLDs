@@ -1,0 +1,4 @@
+randolphtownshipohio.gov.	86400	IN	NS	ns1.fatcow.com.
+randolphtownshipohio.gov.	86400	IN	NS	ns2.fatcow.com.
+uf9qtnfq8lg3aij0jim6pp6e13ptd5p0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. cI6IuPvk4T4SDIGolI7fIzOLPMZiGRaSFGlwJDHcL/VnxcjMof2eqinwY/SwD+iuz0nsCvG2pG1/hI0p8KiGvrvVHzr6aL1nOxB4PxsytUipw0tQrAuku0Z/Hrk8S8nK2zD3JthBu2liIH/omRatKc1z6fSbleJaXvwmySjKoB4=
+uf9qtnfq8lg3aij0jim6pp6e13ptd5p0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ufqfb8fa03kmuc5cg9uasssnognt6gb9 NS 

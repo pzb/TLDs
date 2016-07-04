@@ -1,0 +1,4 @@
+cdue3vb2aqu12msip0jfci74aheusp98.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. C5xAbutb8rV2i/TBRYphGF9xoxnD4Ss1jMh6bSI0dp0oDqNt24xcgVUKVxpuPbBvCS7CA8/8LdVgYZfSOGJRNsC23ITcrwHNXCrh5iLajrAhBGz7axwMwDFsSUP4g3pkYxaqC3onc2iPc2Xyc3qsj5k40fw7IoiFbgBEdU5XzYI=
+cdue3vb2aqu12msip0jfci74aheusp98.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ce5eia178424vn8njbollveakad5s2j8 NS 
+txdot.gov.	86400	IN	NS	ns.capnet.state.tx.us.
+txdot.gov.	86400	IN	NS	ns5.capnet.state.tx.us.

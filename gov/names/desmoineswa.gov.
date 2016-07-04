@@ -1,0 +1,6 @@
+1cduqepsd247vbtci9i8t37mlatvs7bv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. JUFtpqobX2tQKIz8/aondJ/8iTfgnJt9lU+1SirArdRKl68npXMRou+0UFiAFX2bx74jWVZCR1PsucP3Noe22JYLj3bnB5dqKVpY3Hd+3iHE8LjRMsXAvJg+DXNe+wEavYHDuEtMr8KREPPm8soSY3BF8wQsau8HAHMXxUM/c6Q=
+1cduqepsd247vbtci9i8t37mlatvs7bv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1cgbj6rb9i4ti8obvq86ia9sq32r9j4c NS 
+desmoineswa.gov.	86400	IN	NS	ns-276.awsdns-34.com.
+desmoineswa.gov.	86400	IN	NS	ns-714.awsdns-25.net.
+desmoineswa.gov.	86400	IN	NS	ns-1435.awsdns-51.org.
+desmoineswa.gov.	86400	IN	NS	ns-1542.awsdns-00.co.uk.

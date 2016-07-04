@@ -1,0 +1,6 @@
+0to7p4tlpvhgvifjpqhsj6e9j03a53v7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. b+VvYpyzP051onvfzVjwo2t4yQbgswvROFolyPHtxVRit+dLbmLYD6c7PrV0Fu5RZIwglYlPN1i0yg9rNTERybqx38aPUiLe1LG5y66iyTB3wenwduwJE4cy4+qI0GwU59L7N5qmBbUPzr00QRDLxvKzomrQ0l/eGILF3+HwjzQ=
+0to7p4tlpvhgvifjpqhsj6e9j03a53v7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0tp0j198ts11sko9tn00meh3eodnvc0g NS 
+ns1.nc.gov.	86400	IN	A	149.168.11.11
+ns2.nc.gov.	86400	IN	A	149.168.138.11
+ncforestservice.gov.	86400	IN	NS	ns1.nc.gov.
+ncforestservice.gov.	86400	IN	NS	ns2.nc.gov.

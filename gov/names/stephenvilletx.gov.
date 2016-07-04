@@ -1,0 +1,4 @@
+9vc97cob3jr22n9u2behnk71lrsg7be9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Eop8Vbq1JjTcrrIeUqHgRODC7DQQn/4YJzKD2pC44p+OLryVDF1eLJRz3ofLzwYa6eqM8CUwM77hg1f8FKKBLxzOEfmydLeFb4O6KurDY0PkLOH8g0qoL2TlF4kcJa8G9lDDiDiKiglcN2Yc2pxx/IVUMtHXup8D8dBUvBbslGc=
+9vc97cob3jr22n9u2behnk71lrsg7be9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9ve0jtfu54u8iaak19qj40ofnhdun9i2 NS 
+stephenvilletx.gov.	86400	IN	NS	ns77.domaincontrol.com.
+stephenvilletx.gov.	86400	IN	NS	ns78.domaincontrol.com.

@@ -1,0 +1,7 @@
+defenseinnovationmarketplace.mil.	21600	IN	NS	nsi1a.dtic.mil.
+defenseinnovationmarketplace.mil.	21600	IN	NS	nsi2a.dtic.mil.
+defenseinnovationmarketplace.mil.	10800	IN	DS	41544 10 1 e61e9caaed04d474afa66d4fe54d9fdaa1e8dc16
+defenseinnovationmarketplace.mil.	10800	IN	DS	41544 10 2 fc67936a0a5fec961b6efd765c4f4370312225dd23b799eb612b5236eb5ae4f3
+defenseinnovationmarketplace.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. vSvMLbPqy9bWNsyV0y8euj2jbCDz4eNPHP/kSR+MagZzf2h9EmxOsUIx7kcQeduSnjPU2eRGyCktoWdHoWB0TJc3aiS3TdgLNGYKt8WubXi6yrsDxBkhTSGucb1eMSFBhEQMXyMq1REWvCuB5I9IlHXLmAt6gteNVQU+6H5+JJJ9F+U=
+nsi1a.dtic.mil.	21600	IN	A	131.84.136.73
+nsi2a.dtic.mil.	21600	IN	A	131.84.136.89

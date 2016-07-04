@@ -1,0 +1,4 @@
+765lj31trridrhqk08i1jnija1emsjo8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. pCgtlJJ3ULy/ZQMD2F9trRKK/6S5kazqxweAsKNRH9n0VU1H7Bu6IdqyMoo/3yjyHThl+ACfonI0rsOQtV9zHUP69eCY6vVfZwUJIOcIOZ8YFOBHRNwYVXxJ4ze6yhOtS98B8e3wgWMpOGznsHmzI+dF3i7iRSHdtAdHdxtArEI=
+765lj31trridrhqk08i1jnija1emsjo8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  768eps09q9hnsj3a4gq28ffh3cluhpvq NS 
+clintontownship-mi.gov.	86400	IN	NS	ns1.ameritech.net.
+clintontownship-mi.gov.	86400	IN	NS	ns2.ameritech.net.

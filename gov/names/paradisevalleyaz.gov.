@@ -1,0 +1,4 @@
+8vubjsr2m4hehpto051vnkufiqnslpa0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. IZU5Pbb54uIj/JhjAzrvuVzjRJKLHMy5Yxm/hnhrzPp4ER6Oprgy6IM8R/+JwUA1x9cBdE/c6PuOQJanoqsSwExepY8NgGFX9WsEonRJ5+eovkm/owZ7smnJpCy949AmpzyKsWjMAmw3rUXFhb9dQds5kIrZsI2I0CKjSIwsra4=
+8vubjsr2m4hehpto051vnkufiqnslpa0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  904aevt907v21adouhqreacsdqflcarq NS 
+paradisevalleyaz.gov.	86400	IN	NS	dns1.civicplus.com.
+paradisevalleyaz.gov.	86400	IN	NS	dns2.civicplus.com.

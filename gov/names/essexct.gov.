@@ -1,0 +1,6 @@
+ns1.cen.ct.gov.	86400	IN	A	67.218.95.9
+ns2.cen.ct.gov.	86400	IN	A	207.210.151.9
+essexct.gov.	86400	IN	NS	ns1.cen.ct.gov.
+essexct.gov.	86400	IN	NS	ns2.cen.ct.gov.
+kkg66ve4a00r2l1d8ttre5rcdqvesq0v.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. N3Tk0zaAUamj0OXHFjp4sfaWxfFvzEEY6JjK/QyaKjfU2LcRK82WJQmrE5idYVhzkag047CbQnSGlzR6bxCLHRF1/Yv444DypeIvEXNT7929J987zj13OcMxRgi8KjfJiKb0ZvYA9O0bfH6GLC2ycSjX4LiPnx6hsESYAY3Q1OQ=
+kkg66ve4a00r2l1d8ttre5rcdqvesq0v.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kkhg40g9p4a1ni05uplkjg6ie0ev52dg NS 

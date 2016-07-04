@@ -1,0 +1,4 @@
+ecmwf.int.	86400	IN	NS	ipam-inet-a.ecmwf.int.
+ecmwf.int.	86400	IN	NS	ipam-inet-b.ecmwf.int.
+ipam-inet-a.ecmwf.int.	86400	IN	A	193.61.196.151
+ipam-inet-b.ecmwf.int.	86400	IN	A	193.61.196.152

@@ -1,0 +1,4 @@
+3iol6345f0sl893mbj1lvmtar2sq6nm8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. eeL2qmjexcsLScIt4IDrrEKrx8i4ElQ4lM+LANnocdpEXvRks+zYLCU9GG1G8mYw6noGnLptgyjNEzQERJo/YvRdXrIYS+SLQ7SUn1yQ+IruXSUjcOWqS69nBjohf53mqlIkxHbv0yfQ55O+VyWf5JmyWutBitq73CdGC2oKAVk=
+3iol6345f0sl893mbj1lvmtar2sq6nm8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3irv01df9mkm8eslv92vp3h6g6na1fri NS 
+sugarlandcity-tx.gov.	86400	IN	NS	ns1.vericenter.com.
+sugarlandcity-tx.gov.	86400	IN	NS	ns2.vericenter.com.

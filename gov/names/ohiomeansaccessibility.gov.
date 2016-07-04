@@ -1,0 +1,4 @@
+jg1lq1s368kgaqhmcse7ms5efu6demdt.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. AI1ckCWSLJC43VmSSAPu3qIcnf8RYVaZFhX5x9GjRm5xV1etLBWeG+Mk0TG8QkLKjRl09t6ZeBXAhdw0ndnCFGBnBdRPMKamM4gs5JKboILsQVO3nJ2Kt2xGGzkvOcbnko6n4FYrZXHj4pMfRwAK7n0zBv77eaBzyND4WDWzMEE=
+jg1lq1s368kgaqhmcse7ms5efu6demdt.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jg3oksbugj6eh0flqspq2db01s5u16t0 NS 
+ohiomeansaccessibility.gov.	86400	IN	NS	ns1.state.oh.us.
+ohiomeansaccessibility.gov.	86400	IN	NS	ns2.state.oh.us.

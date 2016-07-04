@@ -1,0 +1,6 @@
+q9mej5gl7bej5tveepv87v36gqdj5k19.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. WRpZhp58upHHNynDAyjOF8w/XiO6XrDWqJ6TY6Z+TuF2JcVmhc5WNrJolSn7GJBsM3VrNCV2KmTCZykJg7kl/7kBBevrsqI+uGozCYUWm0cn9nGlNYzYiUtZ+s7a9iE0vpeoxE6HdcfRsn0cJp+tkai7eFDfLxbgyfpOsPYHWOg=
+q9mej5gl7bej5tveepv87v36gqdj5k19.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  q9qqk3afoaq0ulqalu240l2lnc3lu21s NS 
+vialert.gov.	86400	IN	NS	albgtm01.vialert.gov.
+vialert.gov.	86400	IN	NS	hawgtm01.vialert.gov.
+albgtm01.vialert.gov.	86400	IN	A	12.184.36.23
+hawgtm01.vialert.gov.	86400	IN	A	12.170.112.23

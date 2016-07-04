@@ -1,0 +1,6 @@
+icbemp.gov.	86400	IN	NS	fsdns1.fs.fed.us.
+icbemp.gov.	86400	IN	NS	fsdns3.fs.fed.us.
+icbemp.gov.	86400	IN	NS	fsdns4.fs.fed.us.
+icbemp.gov.	3600	IN	DS	65011 8 1 e83c86984bd45b58008199b2c036c91db784caee
+icbemp.gov.	3600	IN	DS	65011 8 2 0591721ac0b23d92599df741b2052dd85029d2c3df8f450483ee2ed5b3252ddb
+icbemp.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. JaZpia9ytpzadPvnTP9MYi0XqBVXA8DXPcXQM6YoDSd6Xl3zo+yivf7P4HjilXlyRXy+AcaxebFqlBuSf6SPr2P/AVwJXb0PcIJIjkp1Nt+tTBEGTR7qq8JO85U+dOPw0/8XJvQwaLql+ZT1arybwe70CCiKMMIr4HTespk32q8=

@@ -1,0 +1,6 @@
+azyes.gov.	86400	IN	NS	ns-301.awsdns-37.com.
+azyes.gov.	86400	IN	NS	ns-596.awsdns-10.net.
+azyes.gov.	86400	IN	NS	ns-1248.awsdns-28.org.
+azyes.gov.	86400	IN	NS	ns-1972.awsdns-54.co.uk.
+lb4e7o38qvo8dj02r717420s82u9ju94.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. FsxxF9K3ie6NM3xfyAjmes3navo3V9yAyfUyogyOctB2MD3alYqp4F5Rtr5BDOcAXYm81zv7QqN0VJvHvgfkL82zFb1yC5DiAIEL2lCKfACJtvSGvqovVO4MXFVqBzgCmG/dFyhjL8T75Co79rJXWWLEMpjmdHglf3uOfCGwxpo=
+lb4e7o38qvo8dj02r717420s82u9ju94.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  lbci34g75qkv9hp82scpfmjmja0ruvm5 NS 

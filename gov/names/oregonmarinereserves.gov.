@@ -1,0 +1,4 @@
+7htftc8ng4nup7q5k2mmk4l17fmkfb42.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. tTCtGnuSwB+X5mmCHT5sOEERF6nZ+NY3xaW9kUVPU6+FGIODzncexm7o4X+Vv33b1Du105gRatk2Jnh4KPMfkKcmnnc6oULTTjmyEMNtpdhUtmnhjzjrN9ko/tMckQsGy31RdTYmE/w57rwnm6dSB7OGnldXkPc4z7HzCmEPoZc=
+7htftc8ng4nup7q5k2mmk4l17fmkfb42.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7i0dsth8bp66q3tic4hrdc8i973sbg95 NS 
+oregonmarinereserves.gov.	86400	IN	NS	lion.state.or.us.
+oregonmarinereserves.gov.	86400	IN	NS	puma.state.or.us.

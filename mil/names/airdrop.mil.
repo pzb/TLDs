@@ -1,0 +1,9 @@
+airdrop.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+airdrop.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+airdrop.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+airdrop.mil.	10800	IN	DS	17044 8 1 2d74dcc08592b41c0cd6e94851fcd6b0707dc5ee
+airdrop.mil.	10800	IN	DS	17044 8 2 b6e6680fdc5b8ace6cc9ec822f4eb6d597d0ff0f330ce1fa698f84c4dfaea2a2
+airdrop.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. FHEY7HFfffyd9yQYuYA3a3m14RXtbFksQ1sda/wEV2xGe/0Ap23TOOriKgWSqa62tom3z16mJ47cpIuG1Yn7O/Ytv7Mhq5QsU/XhavZWFCnCykY44Zv81J8pmiabMpKv/6UbqETGAUPDiqi/dlLxefIIrrsSfKh8myOcr15Ugs1iiPE=
+dns-pub-f1-u.pentagon.mil.	21600	IN	A	199.252.47.11
+dns-pub-f2-u.pentagon.mil.	21600	IN	A	214.14.133.11
+dns-pub-f3-u.pentagon.mil.	21600	IN	A	199.252.47.75

@@ -1,0 +1,4 @@
+collegeville-pa.gov.	86400	IN	NS	ns.collegeville.org.
+collegeville-pa.gov.	86400	IN	NS	dns1.zoneedit.com.
+eavpk6917o32vpn6f8f9l1hkd1urk8bc.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. TMjDFSd8WVORUcd+hOfcPbo8X/+7aP7kSiIa0jrueMfKXzarfsEMYxBMEXodtJh8OnrAE+COLz/hkC84UL4AfsTd0RhSoLbTj76DKUuWAyy6Az/66kC6t4kTlcmgseVyUvCHBSsd+kv9T7Qf1ZhxkgwA2fFQsIchEbjKXV/pe8Y=
+eavpk6917o32vpn6f8f9l1hkd1urk8bc.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  eb2cldqami3vmobg6rrvfh7hj0v536mi NS 

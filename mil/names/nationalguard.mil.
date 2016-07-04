@@ -1,0 +1,10 @@
+beast.dma.mil.	21600	IN	A	155.7.145.113
+beauty.dma.mil.	21600	IN	A	155.7.145.112
+kaucher.dma.mil.	21600	IN	A	155.7.208.113
+russell.dma.mil.	21600	IN	A	155.7.208.112
+nationalguard.mil.	21600	IN	NS	beast.dma.mil.
+nationalguard.mil.	21600	IN	NS	beauty.dma.mil.
+nationalguard.mil.	21600	IN	NS	kaucher.dma.mil.
+nationalguard.mil.	21600	IN	NS	russell.dma.mil.
+nationalguard.mil.	10800	IN	DS	13355 8 1 ecf84bc9daaa7de057fb3120d0d9cdb058c5bf0c
+nationalguard.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. XytWZzqelfSKsds4XTPzUZU+CggUUTq32s1KxvMf0pQQO3zA4nJmh5se4NA/Pq0jQmUYwcmEUYqqejHYU0wpG7JYN6O43wE3nr+HHh77xxmct+y9AkcBin9rAFK5RtZavros6H6O7sDL6gGVzh9fCpRpP552ONSbKJEqAQOYPWX/IP8=

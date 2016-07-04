@@ -1,0 +1,4 @@
+homewoodil.gov.	86400	IN	NS	ns1.avenet.net.
+homewoodil.gov.	86400	IN	NS	ns2.avenet.net.
+onrv61k8aj3i3i2ndvuv1rksk96mopqr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. nlBD0HgjqUELbiPfnvz7fn86/jkBAhB6vcKKrcyJpZ5Pcex/Me9pHbeeCqcUWtmYDHaT8dCrxAj0JWTflFMc+2JVh/02Wa7xY7btAMvFcKCDXMY4apZAP1DIgA6s0pQh6Ytrom9NOLswaqUblm9eaVqgbKwn7n0gakqEKwOjFl0=
+onrv61k8aj3i3i2ndvuv1rksk96mopqr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  onu47gcl62n75iau0584oiga53s72o8c NS 

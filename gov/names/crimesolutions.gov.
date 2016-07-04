@@ -1,0 +1,9 @@
+crimesolutions.gov.	86400	IN	NS	ns1.ojp.gov.
+crimesolutions.gov.	86400	IN	NS	ns2.ojp.gov.
+crimesolutions.gov.	3600	IN	DS	15291 7 1 3409cdce8e62f9cb3d785dae19c82d4980468b0a
+crimesolutions.gov.	3600	IN	DS	15291 7 2 576fa5e28ae14591025750281ae6bd657d55095ff7fe8a11f2714811f2acc76e
+crimesolutions.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. GGHoeAVtziqOPivwPoD/WAUDsca94+sDkpHTju0ud+y5zAIGg1kWRbBf3p0YsXcMTYZv86rLIdVz/tNyJDHUdqZsmNkGV6D5V9T5X+VKRtQCVCx8fEoHFOTeeaO7BGl+NnSaJC1I2/wpjvcAzfuAZXbvG73SH90DxAmE9oJN+xg=
+ns1.ojp.gov.	86400	IN	A	149.101.16.8
+ns1.ojp.gov.	86400	IN	AAAA	2607:f330:8400:20f1::8
+ns2.ojp.gov.	86400	IN	A	149.101.216.8
+ns2.ojp.gov.	86400	IN	AAAA	2607:f330:9400:20f1::8

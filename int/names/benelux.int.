@@ -1,0 +1,4 @@
+benelux.int.	86400	IN	NS	ns1.skynet.be.
+benelux.int.	86400	IN	NS	ns2.skynet.be.
+benelux.int.	86400	IN	NS	ns3.skynet.be.
+benelux.int.	86400	IN	NS	ns4.skynet.be.

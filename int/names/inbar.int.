@@ -1,0 +1,8 @@
+inbar.int.	86400	IN	NS	ns2.chinanetcenter.com.
+inbar.int.	86400	IN	NS	ns5.dnsmadeeasy.com.
+inbar.int.	86400	IN	NS	ns6.dnsmadeeasy.com.
+inbar.int.	86400	IN	NS	ns7.dnsmadeeasy.com.
+inbar.int.	86400	IN	NS	dns1.inbar.int.
+inbar.int.	86400	IN	NS	dns2.inbar.int.
+dns1.inbar.int.	86400	IN	A	218.249.14.227
+dns2.inbar.int.	86400	IN	A	218.249.14.228

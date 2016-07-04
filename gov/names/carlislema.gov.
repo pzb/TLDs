@@ -1,0 +1,4 @@
+carlislema.gov.	86400	IN	NS	ns1.infotech-maine.com.
+carlislema.gov.	86400	IN	NS	ns2.infotech-maine.com.
+ks1mgsqotuif4dk487ajg589gtn9bne4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. o75olstoJaHfoPoiyHlDyZXJstyCXwcDeL38Kmp48cFiFxZHMMNso2zP8W1y5KQiedkp3ZkngkCNaTa+m7YkDTx2s7sqJ75FSdCsbG6rsWnREv2kaLXcnIQsX8J9IRwYek68tPmv8CrTLETJHzi2YDko3XMvL8kuXF7Mwy8DFng=
+ks1mgsqotuif4dk487ajg589gtn9bne4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ksdsgt1868n75v9vgldqflumhkf46aeg NS 

@@ -1,0 +1,4 @@
+i0ql3rnroufc1jd6urokkvcobkihpj6n.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. V3Pf60InDCjBuSjT27YAY3a9poK5VVVZ0QlSdY91kLHOwpoykjakulcByOwmepaBmtaa5sjDPDfhykdIC9qQmzZCc1e1jI0P6ZmReCdQHSS2iEmzV4Uh8eFTHGDPCQ0jIpOVK6dnbSniYUouoOUhUNp4PZok+HLVulEd5dWt9bw=
+i0ql3rnroufc1jd6urokkvcobkihpj6n.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  i0vni3b9u93ol4gm1etg4808vd4hl1ve NS 
+thecolonytx.gov.	86400	IN	NS	ns6237.hostgator.com.
+thecolonytx.gov.	86400	IN	NS	ns6238.hostgator.com.

@@ -1,0 +1,4 @@
+gi9hes813v5tjld7ibb7k7si1jvn76vk.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. BjogGqRnakV48wujYaLli5BHRByYVn8n4D/Pwm/Dsn5aTfAoC1Y+CR/hSBc61FJP040WHUqx6GLYuOo1RWHJk6d4wCxycWogABYmKBo4zY6oQa9E66vNmZQk0pCQ1jBvNoYym25az2HxVG1ZYK741txpM4wq8PXGTRZYeDRgbQE=
+gi9hes813v5tjld7ibb7k7si1jvn76vk.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  gibhiiansq8rv9ggv134vrnjgkfi4cud NS 
+saladotx.gov.	86400	IN	NS	ns1.bdm.microsoftonline.com.
+saladotx.gov.	86400	IN	NS	ns2.bdm.microsoftonline.com.

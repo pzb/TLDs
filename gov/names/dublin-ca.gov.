@@ -1,0 +1,8 @@
+dublin-ca.gov.	86400	IN	NS	ns1.dublin-ca.gov.
+dublin-ca.gov.	86400	IN	NS	ns2.dublin-ca.gov.
+dublin-ca.gov.	86400	IN	NS	ns3.dublin-ca.gov.
+ns1.dublin-ca.gov.	86400	IN	A	173.164.236.161
+ns2.dublin-ca.gov.	86400	IN	A	209.172.109.141
+ns3.dublin-ca.gov.	86400	IN	A	67.203.148.206
+t0dc6esr35qcn5luru0oma9o1rbnaidp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. xEabr37gljnKOG4zyMa7QYQEXA1CPQ6VKjocUqqvzJUwV84+vCxNzd4VtqdxKHqGs5/amBwYjOfruKcxFnzDJ9daPAQXeAU+tqR94Q2xQfqH7c9qry6ih8e8aTx9yu8Y/Xau+gLm/Z53C/jmLfvUdajxbO3trP95cFpzQlkuRWw=
+t0dc6esr35qcn5luru0oma9o1rbnaidp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  t0dfkacsotfmabgig4fa9a6c6r2o5a53 NS 

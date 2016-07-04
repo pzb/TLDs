@@ -1,0 +1,4 @@
+gilacountyaz.gov.	86400	IN	NS	mns01.domaincontrol.com.
+gilacountyaz.gov.	86400	IN	NS	mns02.domaincontrol.com.
+ngf30bnsc40kcqolr6mtv3d2ksgjk08m.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. d7N3bFjw7rlhhBM44mt/E6m9hTSukEMHrI+6TnME8dVgdROJoc/wn03TtL6maO7dJ1DtF+uQuYjPVp+N0h2pXVd6Y7zm6a6KJBA8TqmK4XwqaUtquhf24dwgmkbSFywtqdBMUkyKdTMLukyQsntz1zNv+SL755dAlnAIJUk/ADw=
+ngf30bnsc40kcqolr6mtv3d2ksgjk08m.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ngk7ineaqnm9megsgpk4hofrnoer60ru NS 

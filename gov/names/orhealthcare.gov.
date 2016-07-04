@@ -1,0 +1,4 @@
+orhealthcare.gov.	86400	IN	NS	lion.state.or.us.
+orhealthcare.gov.	86400	IN	NS	puma.state.or.us.
+piab6arke1bqnbpc65lrok2gr47r9p2t.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. me5PPNoVEkD54EmBfQqoXCOluwIIoaxCRAuaxzanhvnk62jpHL6r8MwPmwN92nAY8QvmspMiecLFMu3mgMvCoZFVXEweDWNjpTiQMxct8Gi2l8s10BNSG23ZQpYWmmkGrhuH/JG0sw2LM1KMg/kTQh+xr7VH/sqDgrrM2ocrjjA=
+piab6arke1bqnbpc65lrok2gr47r9p2t.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pihdrr5f76pvobj8pkjbbdphgb7eslg7 NS 

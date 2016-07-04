@@ -1,0 +1,7 @@
+americaslibrary.gov.	86400	IN	NS	ns21.loc.gov.
+americaslibrary.gov.	86400	IN	NS	ns23.loc.gov.
+americaslibrary.gov.	3600	IN	DS	33379 8 1 ce23a730a060b9f3950e3901f53b66076169255e
+americaslibrary.gov.	3600	IN	DS	33379 8 2 6f1ad1e04c1b99f09a89929ebfef5db12317d1c728285c109064e0a6e4b4a0b2
+americaslibrary.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. jYiqIauM55tmuOjXBYlIGXM8uRQhTSaZa351jQAs1wNggfRUqsqVjMan1aiD90W4SOCkHXewgBPV3TfIgOKJ9rzdGUz1eDgTbDpy31VS1Hkih+Lvz4yroRPrVYYcnqGRkm73O97Hy3efq66Xw9qCojiPkLhVZKdzGeDm49fyqmI=
+ns21.loc.gov.	86400	IN	A	140.147.32.166
+ns23.loc.gov.	86400	IN	A	140.147.239.150

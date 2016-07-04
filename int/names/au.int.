@@ -1,0 +1,2 @@
+au.int.	86400	IN	NS	ns1.secure.net.
+au.int.	86400	IN	NS	ns2.secure.net.

@@ -1,0 +1,4 @@
+3ba640hve60h1n3tpi2jom7hacdup216.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. pbwKHZIv4WlM8RJq+3o39t6j525gKnQooAvJ+120GKdioXKc0zx1MDecuyEVY0eRilHVxAOfKAN8voNPDcaNPIiBhyBUG0W82I9beLcnAl4iY9GIwe1RyaNTu/KCszpQUEgleoWQKGLgMyPE89JsGZFYy1A8LedJcqTz8NyXgQI=
+3ba640hve60h1n3tpi2jom7hacdup216.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3bcj2u3b2jivhvakc6ju20ds4bnvkgi7 NS 
+frankfort-in.gov.	86400	IN	NS	ns.inmotionhosting.com.
+frankfort-in.gov.	86400	IN	NS	ns2.inmotionhosting.com.

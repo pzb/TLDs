@@ -1,0 +1,4 @@
+dekorra-wi.gov.	86400	IN	NS	ns77.domaincontrol.com.
+dekorra-wi.gov.	86400	IN	NS	ns78.domaincontrol.com.
+lf556l7b5m96k4enml9okltpfmb9usik.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hXZ4TzEBHXj4vU11T4cGPMcfOXgeT4H9ovPp5St+sMLyriRJmEj+xiAuNMgo/ogBt2Lxr951fX54Nu7gmeyQ4HirI/kzuqx8yGWgkh40L2WzvGDeF1QMZFQljk59jlYV7NnDfKPOYCtfz0KM3X+D/hj+35wLbivwNEobm1nK1G8=
+lf556l7b5m96k4enml9okltpfmb9usik.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  lf78nldcjgc1pasp1hjgaiicj2kaqr9e NS 

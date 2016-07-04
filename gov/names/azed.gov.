@@ -1,0 +1,6 @@
+azed.gov.	86400	IN	NS	ns-41.awsdns-05.com.
+azed.gov.	86400	IN	NS	ns-944.awsdns-54.net.
+azed.gov.	86400	IN	NS	ns-1212.awsdns-23.org.
+azed.gov.	86400	IN	NS	ns-1869.awsdns-41.co.uk.
+o2t3g9eo929qfqcrd9rsbnt19d2icook.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. LEAg5y1cQGVxku5KbJrmpJh0j0D2k5MIh74Pl9mg67/Cf9AcQpFrCTXMWOf/UssG+MZTnTa6JNEPFs4cE1WXschQU3J66M0feV6dvr6sbhr4EKfo3/PyoS/Lbv5ng5RXb4u8zUJ4e00BdEMs8qeONieX8DJ7aGujSIM2z3itFAU=
+o2t3g9eo929qfqcrd9rsbnt19d2icook.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  o3a4u8lidf806qsd80nauhdhk1qq252g NS 

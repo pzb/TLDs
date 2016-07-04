@@ -1,0 +1,4 @@
+colchestervt.gov.	86400	IN	NS	mns01.domaincontrol.com.
+colchestervt.gov.	86400	IN	NS	mns02.domaincontrol.com.
+gqeosi3qerl5pjmkojtlr8ud2is81hd6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hDl1oOpZ1OhZMFZ6l/6wu13bAuB6SH6CMOa9s2oEOhwDwkl/r6qgnxb7iZpCaIZVC5znvXK9tGby5Gyy7VIZrIBDJneO78JO1o6531JWWohoZhKSS12wyUtM78nnKk9KESU++9SoQo/+oyYCNqwFlkZcP3q8DXMqJ++Egp8lDdA=
+gqeosi3qerl5pjmkojtlr8ud2is81hd6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  gqfu1ikp8276pp73uhnmfoq0dcfbmf53 NS 

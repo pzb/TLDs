@@ -1,0 +1,4 @@
+chickasawtribe-nsn.gov.	86400	IN	NS	ns5.chickasaw.net.
+chickasawtribe-nsn.gov.	86400	IN	NS	ns6.chickasaw.net.
+vftooj6t3qed92g87ihlcrvt9umcaqas.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. by9ySKnuIDaeidMyqckxfXktyp5Hh0fkf71+VgM6aWWDYb6NyjjUuX1zOrSy8kN9mifDaAo26zSa34XfVHOciX+5GP+mDULXbwbwoEis2dfdOlWPHoc7eowOzWQ2Q7U/A+t5Bde5yCPnDBRO7Mmv31EToaCOKRnl5/DA03fYnLA=
+vftooj6t3qed92g87ihlcrvt9umcaqas.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vg0oraff563i53v8gl2gpn9f157ikqvh NS 

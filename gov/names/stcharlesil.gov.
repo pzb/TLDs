@@ -1,0 +1,5 @@
+9bb9tsiqsj8p3m7j25vjq82rgc4li79m.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. mMptJMSrUXRrvbikidsm1oTBj0tseQYFnN4mTBlKaTjyK2tGzzwfqYPKqU7+8xKbHp0bNB2XacKJx5Nuhb8F1MaLnkrgEcPw6Hhyf82aiVfq0lwfwQXy2eTrqGVcJJnwZ5aQArQbmBTFfMCOiJmiIJp1LyUjL+r4ElxRr5xYlgU=
+9bb9tsiqsj8p3m7j25vjq82rgc4li79m.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9be2hvgj41jrulo4v5p670a0cpgm3mji NS 
+stcharlesil.gov.	86400	IN	NS	dns1.easydns.com.
+stcharlesil.gov.	86400	IN	NS	dns2.easydns.net.
+stcharlesil.gov.	86400	IN	NS	dns3.easydns.ca.

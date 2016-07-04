@@ -1,0 +1,7 @@
+bldrdoc.gov.	86400	IN	NS	bea.nist.gov.
+bldrdoc.gov.	86400	IN	NS	gea.nist.gov.
+bldrdoc.gov.	3600	IN	DS	53493 7 1 5447da2ee5a29f02a7aed587f201592d626e5edd
+bldrdoc.gov.	3600	IN	DS	53493 7 2 dd0764db7fd7a234a770fae25a54322f38f2403138e4fb6a41eba10433aeadca
+bldrdoc.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. YW9X/CBD1ziTHfgmTl5DwghIqURYSm43Tnfh7vXCUMll9tiVRi85CGUcFLvGhO6ZCksFajBBMLrXfH9keh/fRfFdlh80AHnIzRV4tHL0n5OAm0fq9rqPyfTMqLzCz0fwauD3LDuHNlwsPjMo+AM4VuNfcyXePDdfXM1kPvowciA=
+bea.nist.gov.	86400	IN	A	132.163.4.10
+gea.nist.gov.	86400	IN	A	129.6.13.3

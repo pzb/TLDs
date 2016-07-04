@@ -1,0 +1,6 @@
+jg6vgqrd6os4ilnqj0si7j9t2tq4hf3g.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. vb/K4hDmIT5S4qRh/6YTxQ5lLL+iUTt72oXXhYmflRDdkSFcs9YwFjokzDtR6pthwg3KcVjHFXGoZEkOC+Bxy4OImmtvv3Bawhz5pY/2evYSVmwgl8wR682qswY3PX18OakVwSk079e2bJFjM7ALDBlt1lD1VGMlg69FXgZCSrM=
+jg6vgqrd6os4ilnqj0si7j9t2tq4hf3g.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jg7frsmq5qr44l8cprhhr1hidbkran12 NS 
+lasvegasnevada.gov.	86400	IN	NS	dns2.lasvegasnevada.gov.
+lasvegasnevada.gov.	86400	IN	NS	dns3.lasvegasnevada.gov.
+dns2.lasvegasnevada.gov.	86400	IN	A	205.153.115.3
+dns3.lasvegasnevada.gov.	86400	IN	A	192.112.64.27

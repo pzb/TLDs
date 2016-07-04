@@ -1,0 +1,6 @@
+cpars.gov.	86400	IN	NS	ns.jtfgno.mil.
+cpars.gov.	86400	IN	NS	ns.cybercom.mil.
+cpars.gov.	86400	IN	NS	ns1.csd.disa.mil.
+cpars.gov.	3600	IN	DS	57232 8 1 2617b68ea2eb580f31470cc0f7249669f7685387
+cpars.gov.	3600	IN	DS	57232 8 2 38d205ba82e3f2a8e0209c61592db44b16fc6f822ae83ddfc4bc0ee5388fe9bd
+cpars.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. sGr6SQZbJDHLa4LhA6Y1jsYtaThcsyarAAsH7CuOUCgRmDOOti8yLY4ZKxbcenCvQ921/EDjSBLn54IW5fiMLPS/Zy/H0urRJqJYn4u2wJSJLhDrKwfdh/8n2iYlDapErLBCaGBexH0iaVzinH+k2GgFwPDZ7f7JCIBZSvg2r1s=

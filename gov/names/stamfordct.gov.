@@ -1,0 +1,4 @@
+pq2olqn40luuivqjd249g5fsjk609qot.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. TVupoO2oogzgWs13cj8vClzrrCGIFmHz+KpkEIs6uoTyqkuf1ik52a7qpIdxoWI372r6bYbj4beN4JT2pClwNQOgWKbJ2h035X9+WbDxKDF6vRim0InJip9dnpekG01tM/KUnYS/VRKsO14YNJb50sbAd17Vs4UpyZO4CRAI0+c=
+pq2olqn40luuivqjd249g5fsjk609qot.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pqad1fl2bdi6vts7sddmctcafbq60f4d NS 
+stamfordct.gov.	86400	IN	NS	ns1.acnusa.net.
+stamfordct.gov.	86400	IN	NS	ns2.acnusa.net.

@@ -1,0 +1,11 @@
+ns1.treasury.gov.	86400	IN	A	166.123.208.249
+ns1.treasury.gov.	86400	IN	AAAA	2610:108:4000:100a::249
+ns3.treasury.gov.	86400	IN	A	164.95.95.155
+ns3.treasury.gov.	86400	IN	AAAA	2610:108:3000:100a::155
+treasurydirect.gov.	86400	IN	NS	ns1.treasury.gov.
+treasurydirect.gov.	86400	IN	NS	ns3.treasury.gov.
+treasurydirect.gov.	3600	IN	DS	30714 7 1 57cae3f05917f77cb6b5e744e83f1f223cab31b3
+treasurydirect.gov.	3600	IN	DS	30714 7 2 6024d405db688d36515402271ba38398d17a38d144f3a31abed8a8abb18386d0
+treasurydirect.gov.	3600	IN	DS	59433 7 1 6396d7a1ec3526fc0e187c4f8ffa9ef6d449c4d9
+treasurydirect.gov.	3600	IN	DS	59433 7 2 deee293e25458af92dde8c0b2e35167077e6fe83a7f55c4ccc2509f3ea1f5b68
+treasurydirect.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. re4GwGie7fUDSKKiJwoT5rhmoMwYkIflXDKA0FsQcBQ1vYqOD85ZP0xXg4N7k8ih+1V4i2OMAZPejdvN/o704zaS9mppVz/KXyzCGfYRzyn7cvSL3pMuvti1jG40+2odAx2dlDtSipWY6pLuNML/JEgO9NOe63nlqnBj03QhmxY=

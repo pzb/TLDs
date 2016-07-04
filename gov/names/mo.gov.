@@ -1,0 +1,5 @@
+8060eqi93v781coj94oa9qovaqh1daqg.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. m5gNowEsH7iZIKCERTlEldzwsMhwAO1LIXnUnX+8KCCCkeNkFVzRRIdPhRgTen+kNCEof7p7L0gpxhzkuLe/3jg5ELkyacgGKVo1nnAeuKrRuw+/AWbGBBIlTjqnlFDRBu+z7H6/POwv2rN8lPv+zmKnSA9BRqiOqTGU5ccwSos=
+8060eqi93v781coj94oa9qovaqh1daqg.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  806s5g3a2i09s2jhsk763clkm56fgjou NS 
+mo.gov.	86400	IN	NS	a1.verisigndns.com.
+mo.gov.	86400	IN	NS	a2.verisigndns.com.
+mo.gov.	86400	IN	NS	a3.verisigndns.com.

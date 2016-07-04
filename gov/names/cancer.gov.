@@ -1,0 +1,12 @@
+cancer.gov.	86400	IN	NS	ns.nih.gov.
+cancer.gov.	86400	IN	NS	ns2.nih.gov.
+cancer.gov.	86400	IN	NS	ns3.nih.gov.
+cancer.gov.	3600	IN	DS	40746 7 1 f99aa712289714f64f7c00f666a4b05660076196
+cancer.gov.	3600	IN	DS	40746 7 2 b6b98bc8eb2e00bb03fbd4cbdc0d16542034b8d91ac0835cd2f0f8de08497bb3
+cancer.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. j0x+JlH4GoE4katk+st7+brwkUlwe6U9noohE32nMNZ+dTwYhqFepIamrYGhMgQSyVBaP98w+BSR8JwRBbi8XfpoaxmAnjv/ySfP3UtZ+jM28mdGp7b8Bgt/2YNlprU6y7iXl9+zvt0vRzMZOj1YTEgoet5XTpTznnHEOcIsdwQ=
+ns.nih.gov.	86400	IN	A	128.231.128.251
+ns.nih.gov.	86400	IN	AAAA	2607:f220:404:101::80e7:80fb
+ns2.nih.gov.	86400	IN	A	128.231.64.1
+ns2.nih.gov.	86400	IN	AAAA	2607:f220:418:4101::80e7:401
+ns3.nih.gov.	86400	IN	A	165.112.4.230
+ns3.nih.gov.	86400	IN	AAAA	2607:f220:402:1801::a570:4e6

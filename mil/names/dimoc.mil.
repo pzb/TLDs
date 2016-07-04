@@ -1,0 +1,10 @@
+dimoc.mil.	21600	IN	NS	beast.dma.mil.
+dimoc.mil.	21600	IN	NS	beauty.dma.mil.
+dimoc.mil.	21600	IN	NS	kaucher.dma.mil.
+dimoc.mil.	21600	IN	NS	russell.dma.mil.
+dimoc.mil.	10800	IN	DS	57674 8 1 2bec19f143975b64ae61e748818a91b1b3efef62
+dimoc.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. CQiUWyrJYfTLOPJAB9El8CVdxxx6/d2fuoge4NEeYf4N/d/wahF/UvMfgtPBb4vbVyMgohPorY5WvgqjL5s3fnQDuoj5wafPVl1UGr3JJPaVZkqOG7FYxJEVoX66LqfEeWCR4pa1Q3xp8oAgvp+kmdOSVkon/wJcYDK7zA33XkKHAMg=
+beast.dma.mil.	21600	IN	A	155.7.145.113
+beauty.dma.mil.	21600	IN	A	155.7.145.112
+kaucher.dma.mil.	21600	IN	A	155.7.208.113
+russell.dma.mil.	21600	IN	A	155.7.208.112

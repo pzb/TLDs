@@ -1,0 +1,18 @@
+;; ->>HEADER<<- opcode: QUERY, rcode: NOERROR, id: 11529
+;; flags: qr rd ; QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 0 
+;; QUESTION SECTION:
+;; nsap.int.	IN	TYPE255
+
+;; ANSWER SECTION:
+
+;; AUTHORITY SECTION:
+nsap.int.	86400	IN	NS	sec2.authdns.ripe.net.
+nsap.int.	86400	IN	NS	auth03.ns.uu.net.
+
+;; ADDITIONAL SECTION:
+
+;; Query time: 151 msec
+;; EDNS: version 0; flags: do ; udp: 4096
+;; SERVER: 193.63.94.20
+;; WHEN: Mon Jul  4 06:36:26 2016
+;; MSG SIZE  rcvd: 99

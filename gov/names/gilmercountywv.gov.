@@ -1,0 +1,4 @@
+3gkga2r7bia8it23e4b8tdpmd7lj5bdj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. MCWnYD0k1qbN08bCE5NjWzaHzK1a/kknPwhskFVBFMkFFLue0poRbh8ucEOJRvsM0uOBRgVdUs+NvGev8jl5GZdCH2QIL2ARqk4rA9vDku2SBrAYqZytTz82tyJ8rwSQrfl329c/MFvt7sDRnweQSdl8hWzj26QEUlY+0jzo5hk=
+3gkga2r7bia8it23e4b8tdpmd7lj5bdj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3gkitd4gff1kg8rc56dl66jjthqh3q9q NS 
+gilmercountywv.gov.	86400	IN	NS	ns1.gstwv.com.
+gilmercountywv.gov.	86400	IN	NS	ns2.gstwv.com.

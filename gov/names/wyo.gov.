@@ -1,0 +1,8 @@
+11t5g164nkahdlbiitifsacrcoapvr0l.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. DY59WbZg1zwwnx3JhZjRuP+8tWsucq162vf0sqdaTsQtJ/LrjTGOiNwVNyoVs9Kv0HWp+pdNYMAaVL8u/t9TA1oOaoAwhsXLrdTegQUVjrVzddod7EjJLd6323o+sBQPQr/peGWRiLjFz+5+qS/CuHE5+wHeAmLy0nYUtKaLrzI=
+11t5g164nkahdlbiitifsacrcoapvr0l.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  124cc52rd3olm1b1igddinb6lmt02uro NS 
+wyo.gov.	86400	IN	NS	ns10.dnsmadeeasy.com.
+wyo.gov.	86400	IN	NS	ns11.dnsmadeeasy.com.
+wyo.gov.	86400	IN	NS	ns12.dnsmadeeasy.com.
+wyo.gov.	86400	IN	NS	ns13.dnsmadeeasy.com.
+wyo.gov.	86400	IN	NS	ns14.dnsmadeeasy.com.
+wyo.gov.	86400	IN	NS	ns15.dnsmadeeasy.com.

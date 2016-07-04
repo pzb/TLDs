@@ -1,0 +1,5 @@
+npi.int.	86400	IN	NS	ns1.gratisdns.dk.
+npi.int.	86400	IN	NS	ns2.gratisdns.dk.
+npi.int.	86400	IN	NS	ns3.gratisdns.dk.
+npi.int.	86400	IN	NS	ns4.gratisdns.dk.
+npi.int.	86400	IN	NS	ns5.gratisdns.dk.

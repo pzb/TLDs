@@ -1,0 +1,5 @@
+ppejos4e9pnohm2jgkmma9j1v5i8870p.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. l8l7SEisHoaCgkZsdR9t131VtHgU5HEGfelqf5/WbP9nmWMEdoY915396JpzhEcV/i3RTFaUrv/ZjGb2Q2vdqVi8QbpvJN6gGAVUwvm4F5OcQV5G7LqLIS8gcpKVschw68U3/XhY7geFE8zqSJX1BBdFJWi0ez9051FNU2FGOos=
+ppejos4e9pnohm2jgkmma9j1v5i8870p.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ppipust3bhepr86h9ggi74av4r0mgd67 NS 
+sir-nsn.gov.	86400	IN	NS	dns.sir-nsn.gov.
+sir-nsn.gov.	86400	IN	NS	mail.lihc.org.
+dns.sir-nsn.gov.	86400	IN	A	50.39.0.156

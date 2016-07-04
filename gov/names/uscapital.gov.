@@ -1,0 +1,10 @@
+ns1.aoc.gov.	86400	IN	A	161.197.102.14
+ns2.aoc.gov.	86400	IN	A	161.197.100.14
+jctavdfkmn8j6rf5lspfql492lm716f4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. h0Cpc0ix8ozq+0dFRgsJAL02z8WgCNvB7RGhaKhaC0Lrje/TnSSGAB1CQ1graU0zmHVBGHsEKBTe3/hZwyJBAereFh2z4oNbaxAGzW5mvrSLN3E44Kt0EnClfziflzWjP8B3qFuc0jg8LPIvwaIcnQpKCC7vAcKWb94SEn2iz2Q=
+jctavdfkmn8j6rf5lspfql492lm716f4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jd5eq316mlh6muaf3dgbjhkear4erago NS 
+uscapital.gov.	86400	IN	NS	ns1.aoc.gov.
+uscapital.gov.	86400	IN	NS	ns2.aoc.gov.
+uscapital.gov.	86400	IN	NS	auth111.ns.uu.net.
+uscapital.gov.	86400	IN	NS	auth120.ns.uu.net.
+uscapital.gov.	86400	IN	NS	authns1.centurylink.net.
+uscapital.gov.	86400	IN	NS	authns2.centurylink.net.

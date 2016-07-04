@@ -1,0 +1,9 @@
+stopmedicarefraud.gov.	86400	IN	NS	a1-86.akam.net.
+stopmedicarefraud.gov.	86400	IN	NS	a3-66.akam.net.
+stopmedicarefraud.gov.	86400	IN	NS	a8-67.akam.net.
+stopmedicarefraud.gov.	86400	IN	NS	a10-67.akam.net.
+stopmedicarefraud.gov.	86400	IN	NS	a13-64.akam.net.
+stopmedicarefraud.gov.	86400	IN	NS	a24-65.akam.net.
+stopmedicarefraud.gov.	3600	IN	DS	41169 7 1 9f1ff8dec457ed5798fed5f5544a229f7cf447bc
+stopmedicarefraud.gov.	3600	IN	DS	41169 7 2 39aef7731bdb471c7144a38d2b5cadda2378afbd91e1a337a6c241ce059c5212
+stopmedicarefraud.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. j1Ta+ZykBz2hqL6rERdp0XaHfBiY9moSG965I7LpsWnAXEewtuM4418Y414xs2O5OtTurM9KjAn0yiVIlZeoj9XwzZjeuHe8cv5vMeshVWUmZEyAeDMrbw5UE5GesDBjcXruzE3B+hcDGPsHeb2Xm02anVNTrWIXqEvvLOE+iqs=

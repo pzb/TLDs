@@ -1,0 +1,15 @@
+ns.cybercom.mil.	21600	IN	A	131.77.60.235
+ns1.csd.disa.mil.	21600	IN	A	152.229.110.235
+utindo02.csd.disa.mil.	21600	IN	A	152.229.110.236
+guv10m01.mont.disa.mil.	21600	IN	A	214.3.160.20
+guv10m02.mont.disa.mil.	21600	IN	A	214.3.160.21
+ns.jtfgno.mil.	21600	IN	A	214.3.125.231
+whitepages.mil.	21600	IN	NS	ns.jtfgno.mil.
+whitepages.mil.	21600	IN	NS	ns.cybercom.mil.
+whitepages.mil.	21600	IN	NS	ns1.csd.disa.mil.
+whitepages.mil.	21600	IN	NS	guv10m01.mont.disa.mil.
+whitepages.mil.	21600	IN	NS	guv10m02.mont.disa.mil.
+whitepages.mil.	21600	IN	NS	utindo02.csd.disa.mil.
+whitepages.mil.	10800	IN	DS	33232 8 1 547cdb07daea60a4602d38a2b713b22a875222e8
+whitepages.mil.	10800	IN	DS	33232 8 2 bf0d6c1751486e90e67545ca3512379360c2038ba7ed9a71f6550969a506bc0d
+whitepages.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. gUD/CtKWk1D4ntYT++Nkij4LByqEwrPqUHmYpB8SlaORl1L4HQ5d953TnP1XckXElQh11SfxQ3MniugBF9CGMfjrBCJiOcEMAhyKvd64F7bTVktqm2DnLtEQm81qlMjEAOGqoTUIuo+Fd4U6S0piMm5Qv8bHhx0pd+o2jy/QzIpsepo=

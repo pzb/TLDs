@@ -1,0 +1,6 @@
+azcc.gov.	86400	IN	NS	dns1.azcc.gov.
+azcc.gov.	86400	IN	NS	dns3.azcc.gov.
+dns1.azcc.gov.	86400	IN	A	159.87.68.163
+dns3.azcc.gov.	86400	IN	A	159.87.68.163
+pm3uvn79tqsp99d99v7t7cloulou4lnv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. EY0IlNQHnMi7R/Ab4icTHqg0la1AZvVcHcsUpRDFJEBj8/TTbYQcR0OSSvPlKjI3O3/T0Clzg/kjRnU14AL3UjuaBanBnBl6XiVtSjBCqn3vpdn9zR9BDMJhUHHx0JuUPXgRbfg+F910LBWTFjv1P1YPHLxoe7UtlrQgMKawuLg=
+pm3uvn79tqsp99d99v7t7cloulou4lnv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pmdm5lauc8osde5d2vqph6epsjv5s33c NS 

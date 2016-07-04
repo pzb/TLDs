@@ -1,0 +1,4 @@
+57kr3fs9q3hocih2h12kv7t8kf539ff1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. GdydasTjnNPVy+oCvGzErrKIMcavpPA7SzgJJrTr2hnWHeB4n39rndKvivKMnSjZ+WCb20WXWZTycgliF3R1Mveh7cr73+nFP0+WHOYwOavnsCixTlY3MraJ04wbpGGIuN6eS9qV577klsbNup9ILPPvPafeIcvwuhB+NFwKex4=
+57kr3fs9q3hocih2h12kv7t8kf539ff1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  580t61u31iosr298gh440ggn6f837fjj NS 
+sugarcityidaho.gov.	86400	IN	NS	ns1.avenet.net.
+sugarcityidaho.gov.	86400	IN	NS	ns2.avenet.net.

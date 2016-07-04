@@ -1,0 +1,5 @@
+kq16gs3jalpa0jtqae0a7jtq2btrie2h.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. DH8wAqFby1bWTHsCdKXAE88+KhkKVRdt1L2NYpbEH50ZjpP9uxaM4z7iPBEQBSKWccsHtoXBII8iab12Y8pcNzaDNUu4hfjtLMqp2tJpz5v9O03rLnw3KKt0ZQTRbXuSnZ0Y+WF2MaUB6I6mn1bkXXnquM/OxosrJtuSvnG8kSY=
+kq16gs3jalpa0jtqae0a7jtq2btrie2h.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kq1m4bqnc98op33gg6butjmlpq4sqpmn NS 
+utcourts.gov.	86400	IN	NS	ns.uen.net.
+utcourts.gov.	86400	IN	NS	ns.utcourts.gov.
+ns.utcourts.gov.	86400	IN	A	65.100.238.13

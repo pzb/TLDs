@@ -1,0 +1,4 @@
+7956vrok3g1oief4mvrv5rg3mv9l8is6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. O81hwM/4wIKARQJaTX2Kp3EPiIxgdOTRahaer7oVIjL3IrIT9LFpMfLrOTpd3QtF9gDm9QdIvqBkhYWKLsYN52aQAuUKa1RX0xj48IPG6kXf6s6r3Kg2bx5DflXOafnEd5+IEQjStUC8gULSyqVaFgQUBM3Bu8MzkZuPpHKDCso=
+7956vrok3g1oief4mvrv5rg3mv9l8is6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  797qnbmdhr5bpaan4ouvi9gko5qjakm4 NS 
+lindaletx.gov.	86400	IN	NS	dns1.civicplus.com.
+lindaletx.gov.	86400	IN	NS	dns2.civicplus.com.

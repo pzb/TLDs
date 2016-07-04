@@ -1,0 +1,20 @@
+ns1.irs.gov.	86400	IN	A	152.216.7.164
+ns1.irs.gov.	86400	IN	AAAA	2610:30:4000:53::90
+ns2.irs.gov.	86400	IN	A	152.216.7.165
+ns2.irs.gov.	86400	IN	AAAA	2610:30:4000:53::91
+ns3.irs.gov.	86400	IN	A	152.216.11.132
+ns3.irs.gov.	86400	IN	AAAA	2610:30:2000:53::90
+ns4.irs.gov.	86400	IN	A	152.216.11.133
+ns4.irs.gov.	86400	IN	AAAA	2610:30:2000:53::91
+ns5.irs.gov.	86400	IN	A	152.216.13.164
+ns5.irs.gov.	86400	IN	AAAA	2610:30:0:13::164
+ns6.irs.gov.	86400	IN	A	152.216.13.165
+ns6.irs.gov.	86400	IN	AAAA	2610:30:0:13::165
+irsnet.gov.	86400	IN	NS	ns1.irs.gov.
+irsnet.gov.	86400	IN	NS	ns2.irs.gov.
+irsnet.gov.	86400	IN	NS	ns3.irs.gov.
+irsnet.gov.	86400	IN	NS	ns4.irs.gov.
+irsnet.gov.	86400	IN	NS	ns5.irs.gov.
+irsnet.gov.	86400	IN	NS	ns6.irs.gov.
+irsnet.gov.	3600	IN	DS	10791 7 2 cb314ebe8c401ac4e3786e42cbaafdd7bf4e6d246da585b3c379500a4dce3288
+irsnet.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. xpqqY9m4P8+udcBD2TardnWVJxZo3DD3zIudsy/gW8BDaFjr8H9I9Ok4rDEw/TZku8QMxMRGXpXKfsmx4ZX2MTTHdDKJf2qisMzSg+5SXfQal1KGdi2wcXp6FxR7y3llet7AFSTcCYcUkmn3yTrBRjYG8PCdelwRaP6D/39ZdIU=

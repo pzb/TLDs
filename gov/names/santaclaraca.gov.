@@ -1,0 +1,4 @@
+6pdqe1hrv9s0clvphsimn83adhbvrkik.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. F4x52g3KOexvapUmxSvLJA91us0y4qrWMjOhM88q5WUMPbt3B1mM23pUL4f7HoyZugI2qRUSMxR9KKLzomJ+OaAzkQVXiFFNr1SK3dl10hB5mQTBUJfqI3L3AJjG/7FxIv8EJ29uRg0kfZevCuLU67m8mHYORelTq+o40nBjUqw=
+6pdqe1hrv9s0clvphsimn83adhbvrkik.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6pif4c9ahvuos0nd6671l68jflvedfia NS 
+santaclaraca.gov.	86400	IN	NS	auth1.dns.cogentco.com.
+santaclaraca.gov.	86400	IN	NS	auth2.dns.cogentco.com.

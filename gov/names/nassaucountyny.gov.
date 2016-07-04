@@ -1,0 +1,4 @@
+hi8d3a1tql59j4o99mr9tamvbabitoik.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. O7sEozqieWMj7KzQlex9JKEqoCEDKsWhm8XQyLxqmsCtOq/QWDAtYrV/yKJr/YevR+sDzebY0Wh4YcWDUGQtMChYc/goUzlMhMdlZ21gN/ulBrdtP1mlbodGk3yZCssg1JSpAOhHPo99HTO2P000z3pzaHP8TrA3jSxZHRd+GWo=
+hi8d3a1tql59j4o99mr9tamvbabitoik.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  higc6ftj2smqke4098difnfm76cp2i06 NS 
+nassaucountyny.gov.	86400	IN	NS	cbru.br.ns.els-gms.att.net.
+nassaucountyny.gov.	86400	IN	NS	cmtu.mt.ns.els-gms.att.net.

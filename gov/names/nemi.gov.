@@ -1,0 +1,9 @@
+nemi.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+nemi.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+nemi.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+nemi.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+nemi.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+nemi.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+nemi.gov.	3600	IN	DS	44171 8 1 3321fc6ce3df9dc41bbfb21b1a7e73b39fcb3c93
+nemi.gov.	3600	IN	DS	44171 8 2 913fe89b05ae3c61d6879c966f2a391ab676bbd18679ccbb201dc11c44650124
+nemi.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. xBEVT60YDytoT7tVBk+B8psrvaNhXoAnQX//i+zguqwvMyGX94ccn/7wh33B47wcEkvsz7mJ4+6st1nIS6IwmcJXzfvbAT++0Ghtxra4S6SFVRqv4kyv7/QVTSr468nbF+FQkVQWoKp0r3tJcpYTdxOm25OZiHgne+vC5BNaWkA=

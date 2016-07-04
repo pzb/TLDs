@@ -1,0 +1,4 @@
+1c40gv05k4n41q3uceaqqjk4ldnv8imi.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. WCnyDtmVVvlAEFVnuHhIPb7ShIx+LUD7sQCgWluxL5GhWW+X49rN6f610bvDt/d6kg+JWNUnFu8RPD9/sKHgWixknDaxQ9B4oIPbEMZ3uww5GvnveXJBO2hi+A3N+xmvzrkDBnS+nCNdr1njBprSoumWhu2ReJUVvuimOzouIZI=
+1c40gv05k4n41q3uceaqqjk4ldnv8imi.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1c819c2javnfab109ria9f91t5qm5je5 NS 
+alabamahousephotos.gov.	86400	IN	NS	ns3.asc.edu.
+alabamahousephotos.gov.	86400	IN	NS	asnsvr.asc.edu.

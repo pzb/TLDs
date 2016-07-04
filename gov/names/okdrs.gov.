@@ -1,0 +1,6 @@
+4aa8oqa6799i233b01skdaq9u1ru36ik.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ghQmRpDIzk8fUlbAutQaygEnLt2usz81hLqDiOd/1qEUJUbAI7CRE4jsK6WJga0qJJofsaxGQDbf4Xv+tbWZTOc/QjqfjXZm9b2N38LEQ+KAwQtHf72HsT8YA/3LhAlvBeaCzBeU5tnLWdRPOIE2jAKx7XLoxBDxYFUN2LIJfXk=
+4aa8oqa6799i233b01skdaq9u1ru36ik.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4aefnhs8id9v3st32a1farv74he6u2l8 NS 
+okdrs.gov.	86400	IN	NS	dns1.okdrs.gov.
+okdrs.gov.	86400	IN	NS	okdrs-ns1.okdrs.gov.
+dns1.okdrs.gov.	86400	IN	A	66.210.177.244
+okdrs-ns1.okdrs.gov.	86400	IN	A	66.210.177.245

@@ -1,0 +1,8 @@
+7fsesfs9fln5k57ifrmoua0amjkrrufc.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ZgOwM5F2QVeA/92/0sdp7AcooDc55anpVNxqpecZ1JQAoQ9aygNqTklnMDj4DY+VA90tZ1cWuKBPtwcmP+5K/X839ksmES9FdAVYmSqF5UJeQlR0JxXL1S46sCOKzsTd8XMLXg/TzRM7cvuRtItfRJOkT5EjZdplDX5pCS6mGq4=
+7fsesfs9fln5k57ifrmoua0amjkrrufc.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7ga6qciba4j5g3bmli2i2c9thbie25dj NS 
+mi.gov.	86400	IN	NS	a1-35.akam.net.
+mi.gov.	86400	IN	NS	a5-65.akam.net.
+mi.gov.	86400	IN	NS	a11-66.akam.net.
+mi.gov.	86400	IN	NS	a12-67.akam.net.
+mi.gov.	86400	IN	NS	a18-64.akam.net.
+mi.gov.	86400	IN	NS	a24-65.akam.net.

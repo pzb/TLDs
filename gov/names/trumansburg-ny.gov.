@@ -1,0 +1,4 @@
+61uo59uorq6tjcb1gtpj8n5nmod1l0h2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. uR53PF4wlv8j3bhBz6m14DAoG0CFmhJRjCCfQAg6DU2b+yQf+L3I9Ok2IMc4pRSFPNblFeVqAbUDpqx9c3GG3rYVbDt/FyaDPM001rG2Z+twDsqiFDAjnnSJomWxAOxIGfyoP0LJYhBnBaozTX4q1CM3uhqf0R1iW00sDAkEgis=
+61uo59uorq6tjcb1gtpj8n5nmod1l0h2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  62a11aqgvtje66ad7874uuidkm4v1rkf NS 
+trumansburg-ny.gov.	86400	IN	NS	ns1.odyssey.net.
+trumansburg-ny.gov.	86400	IN	NS	ns2.odyssey.net.

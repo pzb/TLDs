@@ -1,0 +1,5 @@
+efiletexas.gov.	86400	IN	NS	cns1.courts.state.tx.us.
+efiletexas.gov.	86400	IN	NS	cns2.courts.state.tx.us.
+efiletexas.gov.	86400	IN	NS	cnsw.courts.state.tx.us.
+t87n3jtn7q918c0m1evh17unqiiahn7o.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. oxlS+sfaQ+Pg9/5FTcqG/ixkd/Sa7OOMDo4U5vd1HAk8FOY+eNunHBH/pS33nRF0tRGPl9zFbEtk9l6x4/L09R1Ojm8OsH9gFLXin8xlkFFkRnOeE3pAD8MSzqHmarL5WHoT4OtaflK7+j9L5NDZXINwihu5a8OFTJF/UqOKggQ=
+t87n3jtn7q918c0m1evh17unqiiahn7o.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  t8g0p7hg57lnjcfcag9u1449cpbqm74r NS 

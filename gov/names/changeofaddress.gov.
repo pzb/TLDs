@@ -1,0 +1,5 @@
+changeofaddress.gov.	86400	IN	NS	dns082.usps.com.
+changeofaddress.gov.	86400	IN	NS	dns141.usps.com.
+changeofaddress.gov.	3600	IN	DS	37971 7 1 7d93ee2f0acce48422a7c5461b8697c4e9303963
+changeofaddress.gov.	3600	IN	DS	37971 7 2 1dfc3827dbcdd2310502505fd6ef98b99dfc7ab25983ef1073067fdbea924944
+changeofaddress.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. qy/BOB4YWYo83bGZa5cfAAoJUTVf4VsqRyqVXY5f2Trm4Pv/cWFNlz8xo2JY7Ay8DXQI9qaT9FCu31CaTCPz1Rx+7L+AVLuAjj1ySU20FUclHQDBcCh2fiu8qcg7UwoyGPEWs6F204IWY1M5hziMyA02wiYYKxfXTbpdXl0Fkls=

@@ -1,0 +1,6 @@
+dns4.tn.gov.	86400	IN	A	170.142.92.58
+dns5.tn.gov.	86400	IN	A	170.141.168.22
+tnpromise.gov.	86400	IN	NS	dns4.tn.gov.
+tnpromise.gov.	86400	IN	NS	dns5.tn.gov.
+uucokealu5m7bihtlahr75gtu9m02ddl.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. e4YzFCGOhF3zhlDeKv0RjbSfoVmpO17kVIh8RiJFJqnkZHPuJn7rVNyBhtV3qGGS9H8Tf3WBcny7GICbWajZBKZKK4TdBQN+sIzVVEQe/vv16H5RkHUDCEoZb+Ksv0+OTbpRw6sH+43U3U6Hre/c9CwkYtU9H+2utAuySFiwaTU=
+uucokealu5m7bihtlahr75gtu9m02ddl.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  uucs1invggjd8a7v564jsa7h9g9mmhto NS 

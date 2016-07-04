@@ -1,0 +1,4 @@
+5gcb1sc3ctauvkkss6rhrdiik9nn8p5m.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ejx3wACgHcrgn71VAjBCFYGqHyCcdrgqQruJqihV0czAUghu1mPy7miX7kCzSB1YzeW1Cq/EcA/J8Qk7zigDOB8m6ul45akhRuHpbXjYcqgNBBiLlA/13a+DMABle2bY3IQg70oqknTh6xFDkBs9FuRVbf9FMd4sqkQhnjS2w6A=
+5gcb1sc3ctauvkkss6rhrdiik9nn8p5m.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5gdajih8u9gnvsef2rt3qc9i6mhe8pdt NS 
+jacksontownship-pa.gov.	86400	IN	NS	ns23.domaincontrol.com.
+jacksontownship-pa.gov.	86400	IN	NS	ns24.domaincontrol.com.

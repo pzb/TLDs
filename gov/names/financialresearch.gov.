@@ -1,0 +1,9 @@
+financialresearch.gov.	86400	IN	NS	ns1.treasury.gov.
+financialresearch.gov.	86400	IN	NS	ns3.treasury.gov.
+financialresearch.gov.	3600	IN	DS	8610 7 1 9550d7594e93b25fe2841da1b3a76456a652a05b
+financialresearch.gov.	3600	IN	DS	8610 7 2 94b677714541b03deb0717599a908f1b7cf72cccd6efd7696bca59901f0e8c0d
+financialresearch.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ur/UiTVgoP+c9GQLymESiDByBVvhejyjuLJlHosOcq4CNDFh9P2ncSZX4M9lewaR10U6cThhPbrqYPsL/GXAl8JKWSHH382fj13frFT/ASxkGUL0y4Xf0Cx3hfP/pVg9/xV1zcx342IS0MwNJJVbrgf5LeSpI7DeJS2ThP+hn78=
+ns1.treasury.gov.	86400	IN	A	166.123.208.249
+ns1.treasury.gov.	86400	IN	AAAA	2610:108:4000:100a::249
+ns3.treasury.gov.	86400	IN	A	164.95.95.155
+ns3.treasury.gov.	86400	IN	AAAA	2610:108:3000:100a::155

@@ -1,0 +1,8 @@
+maricopa.gov.	86400	IN	NS	a3-67.akam.net.
+maricopa.gov.	86400	IN	NS	a5-64.akam.net.
+maricopa.gov.	86400	IN	NS	a6-65.akam.net.
+maricopa.gov.	86400	IN	NS	a8-66.akam.net.
+maricopa.gov.	86400	IN	NS	a1-249.akam.net.
+maricopa.gov.	86400	IN	NS	a28-66.akam.net.
+peqb2fomm0pg07g61fvc8lq96ucl6e10.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. JhhfCVFbKu+ctLZx1Nqjw552H0i+u3Bi7pg4dHW9vl0hcn0JtaUaVk5eRhZ41XAS2fD9C4kzCmzUarJqb8z3ROFffLAMStbrHJ6tfR5ROTjzVeguE993fGje/Xf8NGPCj2lHKDXbwg/SJQpnrsfSl02kPl69JiuVhkdVmgIqUTc=
+peqb2fomm0pg07g61fvc8lq96ucl6e10.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pf178v4ba4e752a4fjphjgthe1mbn77a NS 

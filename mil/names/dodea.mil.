@@ -1,0 +1,6 @@
+dodea.mil.	21600	IN	NS	ns1.dodea.mil.
+dodea.mil.	21600	IN	NS	ns2.dodea.mil.
+dodea.mil.	10800	IN	DS	51598 5 1 df326b9b85c23bff55408fa05a501643d20794bb
+dodea.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. EmV5qpp4rjvMH/rUgAtK5lzENi8YGXOnXJM8llLzdX/8hE47fDclw6LvFXg//Xtp8zVYtRxiRFSSt1uzVaQvWRbYg6E+7/Xp73ZDE6KY/98/Idf9caooCDTDAOWiaRgWWkqI4R3UoRo1a+7m9dtOtClf23nrk1JVJRtYGZ+uc8jVejw=
+ns1.dodea.mil.	21600	IN	A	155.19.91.5
+ns2.dodea.mil.	21600	IN	A	155.19.91.6

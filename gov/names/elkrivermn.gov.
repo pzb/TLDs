@@ -1,0 +1,4 @@
+6sogq2vmfc3kpp2trqakaf99pl20j3j3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Rh/UTqHKGIYKzmmxxe+zyBEOYaZjK0f/fmKUJ+Nv9i4G5A2CX+Bq+2LPo6P9QAAlauVHMLWTePPXyODoXOSCoHKb7xafvrgl2PyGX6bjcraYlx17XSjktA8geM5jKehHDddsa1AsPbGV2S7raJH3HO5ezKh1oAthCv6+PEOr9aY=
+6sogq2vmfc3kpp2trqakaf99pl20j3j3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6sqtq6esuucosk599osv5dq25gh6n7ro NS 
+elkrivermn.gov.	86400	IN	NS	mns01.domaincontrol.com.
+elkrivermn.gov.	86400	IN	NS	mns02.domaincontrol.com.

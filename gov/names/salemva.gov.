@@ -1,0 +1,11 @@
+5mgjgcijaimlklk8j04o1h6bf3vl4qte.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. HOAnTOjY7thEaFwwWOT65E6UmYzGg+1R3p9veQZfap7EHFMNXIhLUckgylmYSSAUZBEFZw4VGwO7spEe77d6T6XCnF6WI/YsAkE20Yc1DUWomSAt8mBMpDkSQpo+PkbCLHTuHkYJP4/32um/obsiARKdVCLHTqEwi4y1Wf9P2kg=
+5mgjgcijaimlklk8j04o1h6bf3vl4qte.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5mscq5vt6gruho8hrqaseqvctt9oem9u NS 
+salemva.gov.	86400	IN	NS	ns0.dnsmadeeasy.com.
+salemva.gov.	86400	IN	NS	ns1.dnsmadeeasy.com.
+salemva.gov.	86400	IN	NS	ns2.dnsmadeeasy.com.
+salemva.gov.	86400	IN	NS	ns3.dnsmadeeasy.com.
+salemva.gov.	86400	IN	NS	ns4.dnsmadeeasy.com.
+salemva.gov.	86400	IN	NS	dns3.salemva.gov.
+salemva.gov.	86400	IN	NS	dns4.salemva.gov.
+dns3.salemva.gov.	86400	IN	A	67.221.119.153
+dns4.salemva.gov.	86400	IN	A	67.221.119.154

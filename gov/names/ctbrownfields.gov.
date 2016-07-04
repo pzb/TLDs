@@ -1,0 +1,4 @@
+ctbrownfields.gov.	86400	IN	NS	info.das.state.ct.us.
+ctbrownfields.gov.	86400	IN	NS	auth02.ns.uu.net.
+rshuj1jeiku9t1gslf4dqddp9om1babn.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Y/7exWbQJwqiHWl4worNWRJBZV2CNe3LUvLNyuft5ElYQH7DCDrsIMMRIJTQiN14koOiSGckpXwVwVwrqKQYfLf56aguG4lkoCp8AzmefYgPei9OI6w51nKgAXxHxv0bm0s3nfzzZAj7F3uy1tZwyFxfDL7swiEoxqdj9A9iO0c=
+rshuj1jeiku9t1gslf4dqddp9om1babn.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  rsn5qqk7musl884j0hmrisvct6mjtnnf NS 

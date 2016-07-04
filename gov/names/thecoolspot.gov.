@@ -1,0 +1,12 @@
+ns.nih.gov.	86400	IN	A	128.231.128.251
+ns.nih.gov.	86400	IN	AAAA	2607:f220:404:101::80e7:80fb
+ns2.nih.gov.	86400	IN	A	128.231.64.1
+ns2.nih.gov.	86400	IN	AAAA	2607:f220:418:4101::80e7:401
+ns3.nih.gov.	86400	IN	A	165.112.4.230
+ns3.nih.gov.	86400	IN	AAAA	2607:f220:402:1801::a570:4e6
+thecoolspot.gov.	86400	IN	NS	ns.nih.gov.
+thecoolspot.gov.	86400	IN	NS	ns2.nih.gov.
+thecoolspot.gov.	86400	IN	NS	ns3.nih.gov.
+thecoolspot.gov.	3600	IN	DS	58671 7 1 472130cd8fe0947bfa54f3c6601f667965545f53
+thecoolspot.gov.	3600	IN	DS	58671 7 2 7d62735cf263aa6c8caf0f32ebf6fa96f6e44fd8501b88e4d2b305ffdf1783d7
+thecoolspot.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. kCZGrIqu/YuX4I8mbHAXbcJRlP4aP7U9pv9Q4L7KTOnjQtzGDbLpfLrwmuWN+I68nS8Q/LeKQuhQ6Gip0Vf8WY/zboRzM0OOx2AtzMtSlGDqVymNBTWL8jvG+91M0XSH9+J3Djkb5KaVzsw08gH5qS90m42u/13rhDqqRViqYyw=

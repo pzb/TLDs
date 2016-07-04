@@ -1,0 +1,5 @@
+ed5miblho0q0481ad9ogd4drpn11c7r0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. xPR0nHWkG4H9CKr/QbQulSb5qrNWGobGMuUrZ1UAQUqe2JbvdEEMtBSU3mUeYz4gMPbwp7vX3zp/5omkeRMykbUabLwtkvFiBRm3EsbkaBgCSfO54o6toIBcEs+h4rUtPk5Rg428+T15kBJ1OCf3WOUg4F0ltz43btbxQd2mSjA=
+ed5miblho0q0481ad9ogd4drpn11c7r0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ed6eum7d202p6suful71sbb7seag5ro4 NS 
+somersettx.gov.	86400	IN	NS	ns1.cira.state.tx.us.
+somersettx.gov.	86400	IN	NS	ns2.cira.state.tx.us.
+somersettx.gov.	86400	IN	NS	ns3.cira.state.tx.us.

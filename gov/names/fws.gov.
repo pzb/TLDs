@@ -1,0 +1,9 @@
+fws.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+fws.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+fws.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+fws.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+fws.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+fws.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+fws.gov.	3600	IN	DS	53836 8 1 45d7a8a1ce8c9e76d70f0ed2e26a85ac70c5845e
+fws.gov.	3600	IN	DS	53836 8 2 b0f450ad5a7f71d13419650b08a289d8a1364678fcd437ad6eec2fd546eef296
+fws.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. scBBnJRGb9+5juEJ6rZAPGMJzgGZ7+KVdPc+pyXWZjyAJM88uCsUFNVRvptXR+DVHdvOj39C+QeqjgDVRyK+HK7mvYce7OxNMjzn9rPKIwoZaFxqbfKsbv6Py6jGb3GtfAWtAvjYjqVETqVKmI8t9neBt8JkzaaDTJbWVi9eWSM=

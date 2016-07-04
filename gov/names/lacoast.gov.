@@ -1,0 +1,9 @@
+lacoast.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+lacoast.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+lacoast.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+lacoast.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+lacoast.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+lacoast.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+lacoast.gov.	3600	IN	DS	20399 8 1 abf94acf304e4ee1430ad95510a90b9583e53bf2
+lacoast.gov.	3600	IN	DS	20399 8 2 fa2dae1114dca37920f07c8e8cc1549f753a0cf2f0566662e74181ea981e06fc
+lacoast.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. GsVkVkJbLN8zlhOguv3nDdbjpMGPCdD82m1/iMeJPDbeUKgNa3GpVPeOtxAU9zLGk1Ot5v8jvtaiHYX4VI7dNx4WqR/H846S4H2tkT2IEpsF/aE0sE8eyL9H6u/98tYkXln/XirlskQsWUIe4y7j+xo6CcS14KcZRCXctbVuyBI=

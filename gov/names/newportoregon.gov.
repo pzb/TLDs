@@ -1,0 +1,4 @@
+kh91pmk4hgutgi94iliqb4m729ckoitc.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hX+81TKXcT0zkXNCS7SnV8zCqupdaPY0NkE7BgyjkW5YsadAb0Cnee6AtLUQmE+32MEEebymvDFWQPUDEBfAnfFT0OhF4rxclhlycRSV/hhqdu7IK05hPkGbLvXSi22wMRc/3mgpKdDHXgGy67UWBdHA7VL99vCjsKoAGkPUqDc=
+kh91pmk4hgutgi94iliqb4m729ckoitc.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  khhlsq3ms2euoolgb1jm9b2t0lnpu7ji NS 
+newportoregon.gov.	86400	IN	NS	dns1.actionnet.net.
+newportoregon.gov.	86400	IN	NS	dns2.actionnet.net.

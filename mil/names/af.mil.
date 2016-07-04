@@ -1,0 +1,15 @@
+af.mil.	21600	IN	NS	osan-ns10.afnoc.af.mil.
+af.mil.	21600	IN	NS	beale-ns10.afnoc.af.mil.
+af.mil.	21600	IN	NS	langley-ns10.afnoc.af.mil.
+af.mil.	21600	IN	NS	lackland-ns10.afnoc.af.mil.
+af.mil.	21600	IN	NS	peterson-ns10.afnoc.af.mil.
+af.mil.	21600	IN	NS	ramstein-ns10.afnoc.af.mil.
+af.mil.	10800	IN	DS	40030 8 1 dd341629f45e6308d04c15bacc1c8d2b3892a36d
+af.mil.	10800	IN	DS	40030 8 2 348de1542e340a9e874be71a0f9b9e048a6b796ef4e629c08b020206a49f98fc
+af.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. NFOE+10R+RL8pv46Q7H/Yrt1ZQtLzBPyYqpAm3P/cYL7NjltJJ3y7ePn4meYrYYvWSTGcLnFaq5yA87DlZuteEK0Q6LpSjvWJTkmU+vlaZhhxEneVGce88yPTVGgTvDgj1xSvwO4Txkiu/hs2MTXshvOTVYI+Kl3qvayJ7oufLtEMH8=
+beale-ns10.afnoc.af.mil.	21600	IN	A	132.3.65.10
+lackland-ns10.afnoc.af.mil.	21600	IN	A	132.3.45.10
+langley-ns10.afnoc.af.mil.	21600	IN	A	132.3.29.10
+osan-ns10.afnoc.af.mil.	21600	IN	A	132.3.13.10
+peterson-ns10.afnoc.af.mil.	21600	IN	A	132.3.57.10
+ramstein-ns10.afnoc.af.mil.	21600	IN	A	132.3.25.10

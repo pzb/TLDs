@@ -1,0 +1,6 @@
+ddo1ssbnkm7kg6t0gceij0pmp8tu1mvi.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Gc3BWpN/UTUiW2exquHehMCTetwc1TxetUjRym0Ds8KZCsx+hf1aMNGLizduMk2TvQ7LG9cJ41R9ZC3M2R81/Yyyis8aasBH4MGyLGCG/cZyMP2idxd+9YqiVQhONY6TT4XUZpYH5pOFMNmWWpotJ58qNvTme5CvhdvfzGwmw5o=
+ddo1ssbnkm7kg6t0gceij0pmp8tu1mvi.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  de1sa76rmjqdb9compqhm73p7a15sop6 NS 
+westbendwi.gov.	86400	IN	NS	ns.westbendwi.gov.
+westbendwi.gov.	86400	IN	NS	cbru.br.ns.els-gms.att.net.
+westbendwi.gov.	86400	IN	NS	cmtu.mt.ns.els-gms.att.net.
+ns.westbendwi.gov.	86400	IN	A	12.145.174.36

@@ -1,0 +1,7 @@
+usitc.gov.	86400	IN	NS	sauthns1.qwest.net.
+usitc.gov.	86400	IN	NS	sauthns2.qwest.net.
+usitc.gov.	3600	IN	DS	15430 7 1 debea9d3aedb34ea16ba865aab1caaa9bd6fdd0d
+usitc.gov.	3600	IN	DS	15430 7 2 8e5e2d00fbbaf77fba17c454dd64010fd7ac307066e1063481a78eea57220e8d
+usitc.gov.	3600	IN	DS	38631 7 1 943bc4b8e946d46ffa51928d1572f5e42e77a3ee
+usitc.gov.	3600	IN	DS	38631 7 2 a5b8fc8c7116956625e0b516e9fd63fd2fcd7c84612c5fa6493bbd888df8c563
+usitc.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. P3fJUVc6Kp14kTUaHyS6O5CPb8MuyV92uBz7mlFO1xc8z66vR7kxtvgVBgIDfFesSJYpXZMmHrTcAr8IuUUvJvwJW3rmp4fohDRbssWzgjY+MKCRB5eUzgjXLoUA/+Qsw5haxQhPYouHos8KaSOm9a7z9db/m40zXal2ov5mQAg=

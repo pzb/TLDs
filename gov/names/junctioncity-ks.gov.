@@ -1,0 +1,4 @@
+junctioncity-ks.gov.	86400	IN	NS	mns01.domaincontrol.com.
+junctioncity-ks.gov.	86400	IN	NS	mns02.domaincontrol.com.
+r8tlf2sg7clhdfcagi4uotqob2fr673d.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. maZD2e5fDizUGqY6mybenoqxCrc511u9yQpzcb5WgWCGsTWknbql5uENRdYRYJgp6ATXTtF+QBDBCm3Ak9za1cat8Zz+ktUba3qtPeYlVQvgowVHrKSTQw2WGNp/Fhh1Xc16IF/bK/7DknSTg3NdEhLOL7JzH5m+aVayHLS1bkA=
+r8tlf2sg7clhdfcagi4uotqob2fr673d.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  r986h13ono0k0h9a33rmmfg0gnt8odr2 NS 

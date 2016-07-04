@@ -1,0 +1,6 @@
+ratonnm.gov.	86400	IN	NS	ns1.webfaction.com.
+ratonnm.gov.	86400	IN	NS	ns2.webfaction.com.
+ratonnm.gov.	86400	IN	NS	ns3.webfaction.com.
+ratonnm.gov.	86400	IN	NS	ns4.webfaction.com.
+sqmeln6g7r82dr7r5f26fdmlvpq46st5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. pw49AMvWeQhZMALAPU8ElzDTYYZlf/fiIM1mKnua8J5xw2ePLmfHq+qs2uOHD5SkWjsTeluzybn50j4W+fqS+/Ga1/83xnhpn0hCHHOijQlA/dhYp70OBCgwUMy6ESe/VyPXxD2VL39yX7/uAS9JylRcm8U5l308FSuPQXRwjKM=
+sqmeln6g7r82dr7r5f26fdmlvpq46st5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  sqruop0m3kp00qsb2gjvnb6csk9ajgq6 NS 

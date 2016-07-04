@@ -1,0 +1,10 @@
+je0nnlddpmss1gkgspftqe4ift9hu8lf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Y7/z3BHYrdwS89GyGj11GV6sWJHJYSnhftbZ20GB0aSVeXvM6eLGwBNoeixkDi65Sy4pJEsU5vOb4vjIUQVZ5v1JCLgq/MolIzrVeKhkGX9arhnzlGgCH7E9IHEv7wfCf//mMym1ZeozhSr9sJ8OI+pRRw9QQPZu/vfriyH9jrQ=
+je0nnlddpmss1gkgspftqe4ift9hu8lf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  je2sgv0av9d4uihlicj3p00kojquqrmj NS 
+dns2.pa.gov.	86400	IN	A	164.156.185.10
+dns3.pa.gov.	86400	IN	A	164.156.16.200
+dns4.pa.gov.	86400	IN	A	207.218.103.250
+dns5.pa.gov.	86400	IN	A	164.156.16.201
+paopenforbusiness.gov.	86400	IN	NS	dns2.pa.gov.
+paopenforbusiness.gov.	86400	IN	NS	dns3.pa.gov.
+paopenforbusiness.gov.	86400	IN	NS	dns4.pa.gov.
+paopenforbusiness.gov.	86400	IN	NS	dns5.pa.gov.

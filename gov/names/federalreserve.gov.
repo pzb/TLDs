@@ -1,0 +1,9 @@
+federalreserve.gov.	86400	IN	NS	a5-65.akam.net.
+federalreserve.gov.	86400	IN	NS	a1-166.akam.net.
+federalreserve.gov.	86400	IN	NS	a10-65.akam.net.
+federalreserve.gov.	86400	IN	NS	a11-66.akam.net.
+federalreserve.gov.	86400	IN	NS	a16-67.akam.net.
+federalreserve.gov.	86400	IN	NS	a28-64.akam.net.
+federalreserve.gov.	3600	IN	DS	17122 8 1 f9ba3023dfea35b945009493f0e86bde0215b146
+federalreserve.gov.	3600	IN	DS	17122 8 2 b16789f163907b171419c61fc4a232fbca192aa0d44b4165dc2244d3d697be89
+federalreserve.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. XiixPQNjiWE4MwuG9Uwewcjx3Kh/dnnfOfelY4yKPsosJCKLhbL+Oe+GQuyOwUDv/OgfAI6EybMWo+uGlDqSg7ZKkGcjnnTEvIcZKRU8PNpPbElzVaJjDT4N/H6CHF+gVJQDTUjq5btwpPilzwwyiwSFKZQ+synWRDp6s9rIWwc=

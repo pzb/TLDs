@@ -1,0 +1,4 @@
+2rg9gql5mvrpsg6o1phl31c26v4nfb1b.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. NILddjfYD/GuWSoZCFvSoij6L267sEt9/CfrKDJX1utDg9jRHuoPSHO9hPxEo8ZqNQBu9SxvBQZv8PBZP6CnhRXwA2BlodAj4qS+Gx3+iHI7dZEpRyaWx2stixenDktPVzJOQlQvdDQ1WR51XasC8boAPqifyz0SyJAaiQNVPSw=
+2rg9gql5mvrpsg6o1phl31c26v4nfb1b.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  2rk7odv3jnk17bkufutklsssqbn9vpb6 NS 
+ferristexas.gov.	86400	IN	NS	ns1.ferristx.us.
+ferristexas.gov.	86400	IN	NS	ns2.ferristx.us.

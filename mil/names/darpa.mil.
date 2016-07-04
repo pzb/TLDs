@@ -1,0 +1,9 @@
+darpa.mil.	21600	IN	NS	ns1.darpa.mil.
+darpa.mil.	21600	IN	NS	ns2.darpa.mil.
+darpa.mil.	21600	IN	NS	ns3.darpa.mil.
+darpa.mil.	10800	IN	DS	11029 8 1 f1264779490f6564a80e6446c52b597125a4fa1a
+darpa.mil.	10800	IN	DS	11029 8 2 c5d5cba5ed4552d5646e3a2923b5c69bfecec25ae8f36f5e2150fe622b1f45c2
+darpa.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. ZknL5dd3nRi63oM9P3Obj3yZOt68vk/9dEWNuIJyVlMRShprmzCSvBEemuA0j/D95w3j+xn+Zfl6gCnuFYigIzf4C2yyyFcgQYh/lFLC0oicra13aea+cV2Myhc4nJGVDyOm0EOfnbUUuuTCXICKmT+4FpyXUr2cyWVZ6oBhSj4POEg=
+ns1.darpa.mil.	21600	IN	A	192.5.18.195
+ns2.darpa.mil.	21600	IN	A	192.5.18.70
+ns3.darpa.mil.	21600	IN	A	158.63.250.6

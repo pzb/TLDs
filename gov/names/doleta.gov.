@@ -1,0 +1,15 @@
+ns05.dol.gov.	86400	IN	A	152.180.11.239
+ns06.dol.gov.	86400	IN	A	152.180.11.238
+ns1.dol.gov.	86400	IN	A	63.106.133.211
+ns2.dol.gov.	86400	IN	A	63.106.133.212
+ns4.dol.gov.	86400	IN	A	65.218.16.21
+doleta.gov.	86400	IN	NS	ns1.dol.gov.
+doleta.gov.	86400	IN	NS	ns2.dol.gov.
+doleta.gov.	86400	IN	NS	ns4.dol.gov.
+doleta.gov.	86400	IN	NS	dino.doleta.gov.
+doleta.gov.	86400	IN	NS	ns05.dol.gov.
+doleta.gov.	86400	IN	NS	ns06.dol.gov.
+doleta.gov.	3600	IN	DS	48575 8 1 8fb38f71576d8c426635ffbcb46ae020b38404a2
+doleta.gov.	3600	IN	DS	48575 8 2 25be3cf86e3061119d74dcb7370878ca5d9e84dab753d1a0bc9d7b4f5afda927
+doleta.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. LxnchQel/NzC6qTzYMYRzd4lG2Jv4IhFnVpmkPF+NjbuRUuWdgWdeTmxsB+KjpoHOhLz+6gBjqgOzhiAV2HaI11A4GZJUc2ikE1QkDXEKLEo51n6iZMoWpxSJIFhIqt4pHY7iw4RFGDQuyL/qk0UQJ5y5zMU4M+Z52J7F0DoHxg=
+dino.doleta.gov.	86400	IN	A	63.88.32.6

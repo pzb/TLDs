@@ -1,0 +1,6 @@
+e2s2hg9csar1r1u768fkn792ikpu85hc.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. HLtTYGPOm0xO+r8KNVptpZCPawj6Z5+t+OzCLNvLjAKsSd+iWJ1d3ZBun7Pu5lWnbfHrVQ6NTX2KsnHDdj5Ol3wv2Y4bcTd4G2PVrTVby33ECizFgrd72z7BDjtRFZsHeda2febO5d7R/C30ZpecYhdLTA8Hb9D3Z3Co9zNbLXg=
+e2s2hg9csar1r1u768fkn792ikpu85hc.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  e2vb9vqcon4s3584m437ronh9bat7p8b NS 
+fultoncountyny.gov.	86400	IN	NS	auth.lkv.mn.frontiernet.net.
+fultoncountyny.gov.	86400	IN	NS	auth01.roc.ny.frontiernet.net.
+fultoncountyny.gov.	86400	IN	NS	resolve01.leol.pa.frontiernet.net.
+fultoncountyny.gov.	86400	IN	NS	resolve01.mdtw.ny.frontiernet.net.

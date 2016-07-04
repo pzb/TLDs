@@ -1,0 +1,15 @@
+childstats.gov.	86400	IN	NS	eduftcdnsp01.ed.gov.
+childstats.gov.	86400	IN	NS	eduftcdnsp02.ed.gov.
+childstats.gov.	86400	IN	NS	eduptcdnsp01.ed.gov.
+childstats.gov.	86400	IN	NS	eduptcdnsp02.ed.gov.
+childstats.gov.	3600	IN	DS	58153 7 1 a173deb33d398f2d95d3a9acff0f425cd64d11c3
+childstats.gov.	3600	IN	DS	58153 7 2 4e00afbb6e629d5fe6f150cf8452d79fc786bce4ed359d58cf3fc1bac6146b6d
+childstats.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. cZRQGYmmC0EvhEFoKob3aOqTvD4Lv5MGorIjx22zvYCDaX9W14yGb9Lj0aKA2222f9P7JLsZMHb+buOmRl6kBokHjZXvIMUfN7kZzM0C7uDsAmtkt8TySj2q+U/QCSbs2WvMUWxLOdavyytEleoPDLG2tSnnsc3dYrp6s4mXJUs=
+eduftcdnsp01.ed.gov.	86400	IN	A	165.224.21.6
+eduftcdnsp01.ed.gov.	86400	IN	AAAA	2610:e8:907f:1:cd99:4fb7:bb7:2213
+eduftcdnsp02.ed.gov.	86400	IN	A	165.224.21.5
+eduftcdnsp02.ed.gov.	86400	IN	AAAA	2610:e8:907f:1:d093:1118:adf3:7473
+eduptcdnsp01.ed.gov.	86400	IN	A	165.224.212.6
+eduptcdnsp01.ed.gov.	86400	IN	AAAA	2610:e8:9080:1:88dc:90ef:b68:490
+eduptcdnsp02.ed.gov.	86400	IN	A	165.224.212.5
+eduptcdnsp02.ed.gov.	86400	IN	AAAA	2610:e8:9080:1:8c49:4c6a:b596:f07b

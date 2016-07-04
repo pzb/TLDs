@@ -1,0 +1,6 @@
+58cvfnk38suts9cfej5p9i4lia2i3reh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. BCoZZjIR5/DyYqP7Cyke+4zQVWnl7EPwsZeMKrUMxBpw/b1C1mK+/Ks4/LfRIKnjv+EzVbnNy9leZObxYOYj63SAXvKc9RPRkVOPBc5MIXaxNaE9fukP0Y539H+4wVF7CHoesQHf/3eo+XfnaYbLVx+JX8PKK5jLcot94z5xGIo=
+58cvfnk38suts9cfej5p9i4lia2i3reh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  590p48gj34vma4isifnl7r5q3ddt21kg NS 
+scrantonpa.gov.	86400	IN	NS	ns1.scrantonpa.gov.
+scrantonpa.gov.	86400	IN	NS	ns2.scrantonpa.gov.
+ns1.scrantonpa.gov.	86400	IN	A	216.37.196.70
+ns2.scrantonpa.gov.	86400	IN	A	216.37.196.78

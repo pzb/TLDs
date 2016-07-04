@@ -1,0 +1,6 @@
+kdn46o7cs9o0nim338q88se6ee6ao7ee.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. twiIKZ8SArc7oo88+TRRAXADtGOM6B6nCi+jkFSPS/GE1/hR0yYUZR13W0W6fzbd1goU9lB1kubVnZpr6Ow6bAGdi5O5J+EwjVb9cEmZak3q8sp6LG6bXQDabQGitIBY/yaAgumAKym4u9OLFhzengeVFBMgWJ6UIFv1Vv8Mqvw=
+kdn46o7cs9o0nim338q88se6ee6ao7ee.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kdpvoeho08qn3lsfur0p63fn7im5i3jk NS 
+kingsburyny.gov.	86400	IN	NS	ns-us.1and1-dns.de.
+kingsburyny.gov.	86400	IN	NS	ns-us.1and1-dns.us.
+kingsburyny.gov.	86400	IN	NS	ns-us.1and1-dns.com.
+kingsburyny.gov.	86400	IN	NS	ns-us.1and1-dns.org.

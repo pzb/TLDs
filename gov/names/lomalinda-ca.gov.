@@ -1,0 +1,7 @@
+lomalinda-ca.gov.	86400	IN	NS	ns1.iplt.twtelecom.net.
+lomalinda-ca.gov.	86400	IN	NS	ns1.milw.twtelecom.net.
+lomalinda-ca.gov.	86400	IN	NS	ns1.orng.twtelecom.net.
+lomalinda-ca.gov.	86400	IN	NS	ns1.ptld.twtelecom.net.
+lomalinda-ca.gov.	86400	IN	NS	ns1.snan.twtelecom.net.
+r5hm35d2cspds08lv2s0sg1sjalk1efo.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. NMx464aSdRGNJgMyPYYgbViMpAIDMTWwzF5ePVhxnu301VZ6KZx+dQwqK0bOm4MMOmOsyjOMjTotfXXQdEq29oU7Yvwqz7NDOSX1k8jGMZmztSxRff+ou9JwYF61XCYQiv1g02mQ2bp5vUbdyRe8Aq1uOBE7TQpNkjEfsAqWBOY=
+r5hm35d2cspds08lv2s0sg1sjalk1efo.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  r5ib4paqrjqu3pgq6kpan4333m8im7m1 NS 

@@ -1,0 +1,4 @@
+2b9mpr3te95c9rbi63dglm3f4t307h4c.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. eUyAbb6yMHuOqF50VyhZtJCrP5d2FGKuTZqbEDeeZlDTVS9NJQsTDwy1GyOoRUBWp+fiE9Prf7RX2wOUbYkT88ZjFRTbQgxiOs2YLD2OAf4T9YUjqtNAHrU61Y4zoto1C5o9rlHBZ6HwuL49OxZafLPdkZiIt6fKWXL9RrBqSsA=
+2b9mpr3te95c9rbi63dglm3f4t307h4c.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  2b9nl5c35v7i0sf5gm3c1oeliajv1pm1 NS 
+lott-tx.gov.	86400	IN	NS	ns1.bdm.microsoftonline.com.
+lott-tx.gov.	86400	IN	NS	ns2.bdm.microsoftonline.com.

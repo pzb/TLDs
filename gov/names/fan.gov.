@@ -1,0 +1,6 @@
+fan.gov.	86400	IN	NS	authns1.centurylink.net.
+fan.gov.	86400	IN	NS	authns2.centurylink.net.
+fan.gov.	86400	IN	NS	tpsns11.terrenap.net.
+fan.gov.	86400	IN	NS	tpsns12.terrenap.net.
+fan.gov.	3600	IN	DS	40440 7 1 a3d4be3867eb8250df45b9abe163d522d5ee4032
+fan.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Y+ocakcww9K6YjlQ5ZAF7MLndeJYYUkVlZMZVnd5E8Wg/9a01ZQkSi/K2lcN1b4AAJPIzjpZfvyYpyabqpmBlju3+Tj7sgs5q0UAdoZUGxFBaZj+mlyuqEA1sWDfxKRxLNTq9mYS6ave361ZYcNUxjoKr+3Y/yoqGmJLIXWrj7M=

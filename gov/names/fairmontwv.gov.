@@ -1,0 +1,4 @@
+fairmontwv.gov.	86400	IN	NS	dns1.civicplus.com.
+fairmontwv.gov.	86400	IN	NS	dns2.civicplus.com.
+h5m3qvp6tj1e01e7d1cdabq6ru4dkm9p.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. dDi/LCnjYl7ohAr1vkzuQkkOLnP2XKzbGeF1Q/9IqRkSeNSXqE68SdwFHCdhNsk8wKgUQF8tDaTsDC7NbYq5HRioJakJH+pxuDH3oas6FapHGBrwuMaCxDOzlmtWNrPkZvTSuGc0ZfNWXC23ZFge2DU8hBnl/hxniY5GzT9gt0o=
+h5m3qvp6tj1e01e7d1cdabq6ru4dkm9p.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  h5q4e6g9lts1tsvjb0672rk9fbtkmns7 NS 

@@ -1,0 +1,4 @@
+9qq9f9hmogdc1o3ktbkrclf3e09ktmv4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. STblur2YLDxXsg2JT4VYNXSQjIdH8doHaZYCiMhqEFzsvLWBgB3TRPvpdTqCqwEeOP7j2kc0YIGwyi5XdnO2j9GCaGDSOYaw8PvMeUYqgXxxktis9mYa0NRhmJRszdYqQvm1dDCY4RqROmm1bBys8M1Ty+k1K7N5NikCmcAF0G0=
+9qq9f9hmogdc1o3ktbkrclf3e09ktmv4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9qr1d2gv7mdmftskfrk036ujoqobvugq NS 
+floridasacupuncture.gov.	86400	IN	NS	ns1.mqawebteam.com.
+floridasacupuncture.gov.	86400	IN	NS	ns2.mqawebteam.com.

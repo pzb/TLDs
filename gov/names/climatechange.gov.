@@ -1,0 +1,8 @@
+climatechange.gov.	86400	IN	NS	ns0.ornl.gov.
+climatechange.gov.	86400	IN	NS	ns1.es.net.
+climatechange.gov.	86400	IN	NS	ns-aoa.es.net.
+climatechange.gov.	86400	IN	NS	ns-lvk.es.net.
+climatechange.gov.	3600	IN	DS	722 7 1 ac66a1caf95148f9995462ecd2f40751841a88a2
+climatechange.gov.	3600	IN	DS	722 7 2 f0ce25f7148c341b0e54413fb4650ff4b26839abbd506a3eb0cae8379ae32653
+climatechange.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. nw1jJB3MfOCQYJkJthc5cg260jhbOFpDzFirmUFFnUZoLybBtTlqLRZ8Gjdr6gmmcxfct323KNl7EpX/IrUPrJkZmUJF1FkaYfQFdO1vAjYDXzmY58AnDgH3tzD40bAEtjg2ZSKYsoJinv2M1lL5LqJZdBarjPYQafuY54S4Bfg=
+ns0.ornl.gov.	86400	IN	A	128.219.177.244

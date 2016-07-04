@@ -1,0 +1,4 @@
+6rpahlu54485aa6lpfo5pvmdkaql0tp9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. xvrcrhXSUtWap/LpwJ1NTOeeVLnWB8L44rlwORYRFB8Nv3uyp+oxe1V0jgnp2JFZr0/UYLC1UrPfgMbWvdv3pHSE0ubUXkQzYhtXY2HKSxuYFLPk+tOV81q2sg2H3C9iKkpaV2RLhT2bpey29wE0aYb0ROHKCVv1fD23xiMaHbQ=
+6rpahlu54485aa6lpfo5pvmdkaql0tp9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6rvh8r61h1k3tk8es5aqp78egmotaag0 NS 
+kshousingcorp.gov.	86400	IN	NS	ink.ink.org.
+kshousingcorp.gov.	86400	IN	NS	ink6.ink.org.

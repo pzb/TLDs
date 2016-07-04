@@ -1,0 +1,7 @@
+tvaoig.gov.	86400	IN	NS	ns2.tvaoig.gov.
+tvaoig.gov.	86400	IN	NS	ns3.tvaoig.gov.
+tvaoig.gov.	3600	IN	DS	23469 7 1 6cd655ed500c21866117fa7fe2e6eea688dfe156
+tvaoig.gov.	3600	IN	DS	23469 7 2 6189a18de3745d8754115db7c01c5cb3733b379c11a5b7fc9dd2bac730816f74
+tvaoig.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. VsCNn8/w42xMiQaVtImmVKainRhJyzGAizfx0yXI4/Acup/Qmgo5z/Fo6KfpeQtxQ5Y9aE46bH4vRGJn2Fhfbvldc3BU8GksCpEmb5ZMReqjsMwXuhs+H8b02MMuIIXLp1RZk2sT8m8LG9ZMXpKGK89Ki2YULdfGkdIG39BGTQs=
+ns2.tvaoig.gov.	86400	IN	A	12.49.8.4
+ns3.tvaoig.gov.	86400	IN	A	12.49.8.3

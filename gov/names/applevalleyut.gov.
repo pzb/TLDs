@@ -1,0 +1,6 @@
+applevalleyut.gov.	86400	IN	NS	ns-480.awsdns-60.com.
+applevalleyut.gov.	86400	IN	NS	ns-556.awsdns-05.net.
+applevalleyut.gov.	86400	IN	NS	ns-1181.awsdns-19.org.
+applevalleyut.gov.	86400	IN	NS	ns-1910.awsdns-46.co.uk.
+ljl2vmsq49781upkk65tctsc1epfam4c.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. RmJtx1tDDSfcnz4q4Gwv6y5gLFDGVckaXQWfpaHZZuYBKW+bP6Px0KfJKE5L6aoiM/sAZZ35B9HovMdQZpZ52BzSLJGr6Tv7BL1ZiZj1X1pRVUf27cT9fqoClK+6lic0dFno2H1GRDVx9MrYYyy3phzkaFhbH6IEqIvO2lUCGkQ=
+ljl2vmsq49781upkk65tctsc1epfam4c.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ljsq21sbbfvimur7encb07cl50h70ekg NS 

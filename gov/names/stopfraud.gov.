@@ -1,0 +1,14 @@
+stopfraud.gov.	86400	IN	NS	ns-jdcd-01.usdoj.gov.
+stopfraud.gov.	86400	IN	NS	ns-jdcd-02.usdoj.gov.
+stopfraud.gov.	86400	IN	NS	ns-jdcw-01.usdoj.gov.
+stopfraud.gov.	86400	IN	NS	ns-jdcw-02.usdoj.gov.
+stopfraud.gov.	3600	IN	DS	16486 8 1 36cb64bb0e1fae1ef8da67d83183c3593b0f66b7
+stopfraud.gov.	3600	IN	DS	16486 8 2 9ef6dbefe4fbba0a751ade77461b6a38c351657196e99d366c1b45bdee45d6de
+stopfraud.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. R3+aqe7beA8GUrjPhVTvx4X8AuACE58U1zbyjTYVZEeLaf+ZhctYbrSvmtINqbfRH9SWGxOXNa2fvrclVvMAWAheU9IrW8ZwX4WV78mna5c0nC7II5IcVxeEerj0iwEyVDhNH/OISO0MSRp4DW4BkgZGks5nktjA4Pyu9U9Pj84=
+ns-jdcd-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcd-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcd-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcw-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcw-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-02.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::6

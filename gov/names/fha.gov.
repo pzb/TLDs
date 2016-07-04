@@ -1,0 +1,7 @@
+fha.gov.	86400	IN	NS	hudgate.hud.gov.
+fha.gov.	86400	IN	NS	hudgater.hud.gov.
+fha.gov.	3600	IN	DS	4989 7 1 564739d0a2307f4040d0530428b8e2a6557caa09
+fha.gov.	3600	IN	DS	4989 7 2 eba1c149607c8132b0e7bf9056bb9ddc8b7d4ecc9b38aa7c3bb208579c524abe
+fha.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. tap7gcvT07hTghgeTUjFCa0JkyAWKf2YnimQU0D++kNdDCn1embJeqbYHe5niDPHehstPjpOBNK6K+0/pnwVGEh2xeeIg4YQr45xPH3TuENhM81MdRiDQrBbtO2siFwIKcr3SSZB3aXi/LVU/cKIq+gCtwnZi4V8dDw66eRn8QA=
+hudgate.hud.gov.	86400	IN	A	170.97.67.16
+hudgater.hud.gov.	86400	IN	A	170.97.167.16

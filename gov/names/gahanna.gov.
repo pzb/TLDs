@@ -1,0 +1,8 @@
+3a4g2nir0l8eujnlkl0inuu1g750naeh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. lPXGaWfaDrNUjbuRNCUdH1h0l6IMgbnraq/lo2RL5VtmwOCOqGf1AEdgWYFUY/dn1b+VXzt5oCzz0U2g1HI906RrkHG3cyJ/FUDFLdYFnIYIchrclHRXN6aqh1dRVKlwO3HJ5DnVY5/ZUCO1Zslq4TYMJUYGSqmCDYRn3VAAf2Q=
+3a4g2nir0l8eujnlkl0inuu1g750naeh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3ac9a67obku0sb6ik0ne2bb9qroh9itm NS 
+gahanna.gov.	86400	IN	NS	ns1.gahanna.gov.
+gahanna.gov.	86400	IN	NS	ns3.gahanna.gov.
+gahanna.gov.	86400	IN	NS	ns4.gahanna.gov.
+ns1.gahanna.gov.	86400	IN	A	198.30.9.30
+ns3.gahanna.gov.	86400	IN	A	76.10.208.66
+ns4.gahanna.gov.	86400	IN	A	76.10.208.67

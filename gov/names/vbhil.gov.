@@ -1,0 +1,5 @@
+qa9baai2j2ru45dl71ran6qs8urs5mtv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. BklFrm154jVEiaWfhI5BatsyBn2PZwHh2nLqwLCEQuXkAzuCrmK9BFxy0Ur71wTnRVdjTXNyKaavdbsKZKYcnwn8Yw7IMP939Nlw2+F91/DeoGkqu4REeefcVId+ne/GjS2Yws+ZIvsOmg4Df2jT9cYQy8EmyxrQqNywloCn/Uc=
+qa9baai2j2ru45dl71ran6qs8urs5mtv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qadkamb41n844c6g4v6des1neo4921o4 NS 
+vbhil.gov.	86400	IN	NS	ns1.dreamhost.com.
+vbhil.gov.	86400	IN	NS	ns2.dreamhost.com.
+vbhil.gov.	86400	IN	NS	ns3.dreamhost.com.

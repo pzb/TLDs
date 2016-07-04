@@ -1,0 +1,7 @@
+bdsrlluspasdc5hrshhpl01g0qaesabg.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. X1uEkRufhg0+Cfpe2zLaXqdVdcW/7y9xJdeCzDm/NmdEFFR6LVEl89bfSdf4QLndKybmbij2+PHvim7wYkRN7os688dWPiwW9DdSuRgNRLERtBWDS0Hol2z3+gD7QzAEPxXArzLeX8q2JVS0MPLxGTKeplcBtYqxVMOOBlHAqJg=
+bdsrlluspasdc5hrshhpl01g0qaesabg.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bdvfv9hn0b930cp7snc9fnglejgqvbru NS 
+seattle.gov.	86400	IN	NS	a1.verisigndns.com.
+seattle.gov.	86400	IN	NS	a2.verisigndns.com.
+seattle.gov.	86400	IN	NS	a3.verisigndns.com.
+seattle.gov.	86400	IN	NS	norton.ci.seattle.wa.us.
+seattle.gov.	86400	IN	NS	cramden.ci.seattle.wa.us.

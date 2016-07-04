@@ -1,0 +1,6 @@
+jmt2cu9ellkrrsvng92kjhqb8km1busn.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. XnBrbwQbLfZ49c0iHycRLoKkDnuR8vxQosXO6Y13SeZkyYJHmwzjy2sWaHOpUXCxXQ4nZ3FtPN0bEjoXI4SLWNchba73MJXbk7TvzPsaDQVhXY98xzkjK7HNse4Uz/SpydplEzxEOs0peDPiySQp3XwIfYJDy8o9iVWCf8HE4kY=
+jmt2cu9ellkrrsvng92kjhqb8km1busn.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jmuebjomr64jl4e6sv0l2kn6huvjolt1 NS 
+philipsburgmt.gov.	86400	IN	NS	ns.philipsburgmt.gov.
+philipsburgmt.gov.	86400	IN	NS	ns2.philipsburgmt.gov.
+ns.philipsburgmt.gov.	86400	IN	A	74.208.250.87
+ns2.philipsburgmt.gov.	86400	IN	A	74.208.250.87

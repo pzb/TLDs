@@ -1,0 +1,4 @@
+atrisco-nm.gov.	86400	IN	NS	ns1.ipage.com.
+atrisco-nm.gov.	86400	IN	NS	ns2.ipage.com.
+pvsmqh323c7oshuqtvrtks5g7nkmm8ps.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. c/EKW0eFOnIFrfMdyGMpmcCXoRmaEegTKSeYfA5S3ia628rISz5lIJldFC/Ja0qzq15AtYY0dTa4OqMDJt6k+LZnn2jxSuqVdvvPRVmFI/yC4yKNL1HFnID6EOxCGX1Mlzxo23VRTaK43M02mdRq0Kmc7kdXDG3BECR/u2GwqxI=
+pvsmqh323c7oshuqtvrtks5g7nkmm8ps.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  q0bqop8el77oqcbc12f248gj1vlgk2v0 NS 

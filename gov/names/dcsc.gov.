@@ -1,0 +1,4 @@
+dcsc.gov.	86400	IN	NS	ns.above.net.
+dcsc.gov.	86400	IN	NS	ns3.above.net.
+majrt1kbea1beocj14c0pfb6dpfvd7f6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. JLbGkV6nFJc5cApzq36hDQ7hfW8NEJsN3qQ1ZQOwi8rAF+IM1jy0LZo0sAjW4tXniZkd6PjhjmJ0c4tR/KdWu8IOAUppeeBCx6P8tdOiWzCUl32hCpcBNNKIuqVr1HBjnnHGifKGCljUeM65CwU7tkgFWw/sexwrq7gnX4hqbJM=
+majrt1kbea1beocj14c0pfb6dpfvd7f6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mak4anbm7dqu0skb19tq4hfp7ndlnc6o NS 

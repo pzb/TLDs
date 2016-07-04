@@ -1,0 +1,9 @@
+pacom.mil.	21600	IN	NS	dns1.pacom.mil.
+pacom.mil.	21600	IN	NS	dns2.pacom.mil.
+pacom.mil.	21600	IN	NS	dns01.usfj.mil.
+pacom.mil.	10800	IN	DS	64324 8 1 f4091a8cf70ef912ce671e299a87fce32b87f6a0
+pacom.mil.	10800	IN	DS	64324 8 2 021aa38e1e333bcc2f6d9745f1ceff823b758ee9e17eaaa7dd3b4e280c39efbb
+pacom.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. HE3smFSjmdXr4KuMzKbhE6cIDBijW4YJDEzEZvloOERm7VgV/sb5UnCowwklUwCYrYpFPy2yKq+pXkMoIBE9De/VxgbaA5so4pg6wXtlB9jjKvpifEE7OYc25dPOIxrIAF14gEB7v3Qyycw6fE0U2lu/uZ8rf+525UXT6IvpS69QNbI=
+dns1.pacom.mil.	21600	IN	A	199.211.150.66
+dns2.pacom.mil.	21600	IN	A	199.211.150.67
+dns01.usfj.mil.	21600	IN	A	215.1.46.29

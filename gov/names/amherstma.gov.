@@ -1,0 +1,4 @@
+amherstma.gov.	86400	IN	NS	dns1.civicplus.com.
+amherstma.gov.	86400	IN	NS	dns2.civicplus.com.
+k47n3gm6j01m6gi8n74qra1stm4e5qr2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. RanRltjJbin8RtcDxCQYqF0WTRYSfmkltaySGq2+9JyzsGW2dtR1XbnwZjpk0bQto++YByTAqCY80IkPSje7zYnbqx9QHEgifEI34ywOB2uZKDEBBqsrhIr7kZgxELEuT3asW9i+NDTHX9wVco93ytIBzTS2rv+bj0AyYb/62Fw=
+k47n3gm6j01m6gi8n74qra1stm4e5qr2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  k4ai3eubdnjtcn4otd6jtlu736qepsu7 NS 

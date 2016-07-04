@@ -1,0 +1,4 @@
+6upmjkbqfggqigofkrhbhbb6p2sn51vv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. UcslB9wz7ZTMYA0mTEfFT1bTLZKvw2Gwp/1QrmB3ftBaY8WEK00jIMEoLIL6ZRUTdMGVaUeyireLMoT2kqHMswwaM2QZhRr5FHczTPRXmyHj7rBWd4sMbDSfUeHI36SPSsys53WD+VUg8CEbz77iqPKzvF6D7lxB71S+JEPIJw4=
+6upmjkbqfggqigofkrhbhbb6p2sn51vv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6uvgsg6bs97mahui7vg9jejuhoomim6l NS 
+vernontx.gov.	86400	IN	NS	dns1.civicplus.com.
+vernontx.gov.	86400	IN	NS	dns2.civicplus.com.

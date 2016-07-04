@@ -1,0 +1,8 @@
+6ojmvck4n715cao5gubmju5igdn0tr96.mil.	10800	IN	RRSIG	NSEC3 8 2 10800 20160708161835 20160701161835 16413 mil. b3Wav1mTSPjjomc2de4kpAwh1xeW0leKjTSjjmkJ6K1cDp8D560oAuAET8zURtWFAgNT3b8dSPkv3wEeTFJe2kKD8AdTq5HTtIp6xWN0GjvNbTsSngS9Of1R1Bxt0UhP5SsGIJD8uOvBPRqr8uL0dAccXOgg7/tzkDM9qJKYLnBIKE0=
+6ojmvck4n715cao5gubmju5igdn0tr96.mil.	10800	IN	NSEC3	1 0 10 adeb  6pg1dhi96t4uqsovr0g3gb1r7u88m4lg NS 
+ns01.army.mil.	21600	IN	A	140.153.43.44
+ns02.army.mil.	21600	IN	A	192.82.113.7
+ns03.army.mil.	21600	IN	A	130.114.200.6
+milsuite.mil.	21600	IN	NS	ns01.army.mil.
+milsuite.mil.	21600	IN	NS	ns02.army.mil.
+milsuite.mil.	21600	IN	NS	ns03.army.mil.

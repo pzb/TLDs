@@ -1,0 +1,12 @@
+fnal.gov.	86400	IN	NS	ns1.es.net.
+fnal.gov.	86400	IN	NS	ns1.fnal.gov.
+fnal.gov.	86400	IN	NS	ns2.fnal.gov.
+fnal.gov.	86400	IN	NS	ns-aoa.es.net.
+fnal.gov.	86400	IN	NS	ns-lvk.es.net.
+fnal.gov.	3600	IN	DS	57063 7 1 f0e6d929188b4242207f2fb98629c2f9e1a29062
+fnal.gov.	3600	IN	DS	64545 7 1 9bc63bfd05954b907018fab48bb706b16e37f0ca
+fnal.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. SNpX1VOcS7CfWDd9bOMtWf5LkYAmkkBqLc9ND8WLs9nvYgDMHitfGH3do/tJ+ZDBxffKW/iyQ0bHGadVnDqRfRyZae+APCJULI+DCFT+9mxcBjw7R7et1T3BZ1WYJN2J5Oo5K2w2IU7S8kVeTU+sk83YfQWuo+V9yHAqOaBsBQk=
+ns1.fnal.gov.	86400	IN	A	198.49.208.71
+ns1.fnal.gov.	86400	IN	AAAA	2620:6a:0:1203::208:71
+ns2.fnal.gov.	86400	IN	A	198.49.208.70
+ns2.fnal.gov.	86400	IN	AAAA	2620:6a:0:1203::208:70

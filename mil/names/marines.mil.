@@ -1,0 +1,9 @@
+marines.mil.	21600	IN	NS	bravo.usmc.mil.
+marines.mil.	21600	IN	NS	usmcdns1.usmc.mil.
+marines.mil.	21600	IN	NS	usmcdns1a.usmc.mil.
+marines.mil.	10800	IN	DS	12412 8 1 689474cae83ced828de38c752aed84020ff6b528
+marines.mil.	10800	IN	DS	12412 8 2 ec16ce561e69fe481ed2056d19e28ace3ddbe03b41d1eb226980ae89b5af641f
+marines.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. Z/xCePjL7Rz16bPnCfwPmm8EHqK87T61e3XhqUnyknck3XtOtKT9VM2PzSuWEBNwf1k8A4pu19BWuKRwQ96ofJrUIfTvOD5O5Nkti+sLXX1dzjdWKlJdyphfFddrJcEBeU7W/LK90S05W+4Q0UWrIdGg8fkUvaOlBE03DdUtA+tex6I=
+bravo.usmc.mil.	21600	IN	A	192.156.37.99
+usmcdns1.usmc.mil.	21600	IN	A	192.156.71.120
+usmcdns1a.usmc.mil.	21600	IN	A	192.156.7.120

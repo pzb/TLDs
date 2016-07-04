@@ -1,0 +1,9 @@
+avatar.esc.gov.	86400	IN	A	162.58.35.104
+avatar.esc.gov.	86400	IN	AAAA	2001:19e8:8041:23::11
+emns1.faa.gov.	86400	IN	A	155.178.206.21
+emns1.faa.gov.	86400	IN	AAAA	2001:19e8:8001:3060::21
+plainlanguage.gov.	86400	IN	NS	emns1.faa.gov.
+plainlanguage.gov.	86400	IN	NS	avatar.esc.gov.
+plainlanguage.gov.	3600	IN	DS	47630 8 1 a7da64b619555f44fcfcc54a203e4a2d9a5aa9b0
+plainlanguage.gov.	3600	IN	DS	47630 8 2 e5971a4a6f383cd84efee7589940154e0a85b7eabdca1ba0c9cec93270272878
+plainlanguage.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. m6S7pivDafpLXCT3ppuPE+FfVOGCHmJiFgUJ/1jdw3KMwlqPwIFcaNIrQ9RsdG2B5iUwoun/rYL/krDn4D0WUVx27d04pRzpu8bznOXarvt5Wj+f444s8vd92+IlRIh/TYjaD6Z/QcjHhkQQ4bfLMQ59ECMYgQIEwcUIb30BR5c=

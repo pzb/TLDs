@@ -1,0 +1,9 @@
+mha.gov.	86400	IN	NS	ns1.treasury.gov.
+mha.gov.	86400	IN	NS	ns3.treasury.gov.
+mha.gov.	3600	IN	DS	45159 7 1 2d434be23d1dd1549c9fcd1f500c446a447b83c5
+mha.gov.	3600	IN	DS	45159 7 2 d0a9c4c3bd2360a05a890c550c2571c9d070597ab11cff86dc448b515e107afe
+mha.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. XHu4E+WrxDx1qQw9/96hPksKQ8Ib3d18IIW6uPoaCSOBnoG6vfBDEw2s2Ute6l1kfLaRSjxxpObLJe+ju9pYGCip5tXOOyg+3KVx8J5TIUkka4bS0S/knV45S/hzc32jzOagoJqkcknNfypB/hmj2B9UzqVXQpuahRJeUAns8Fk=
+ns1.treasury.gov.	86400	IN	A	166.123.208.249
+ns1.treasury.gov.	86400	IN	AAAA	2610:108:4000:100a::249
+ns3.treasury.gov.	86400	IN	A	164.95.95.155
+ns3.treasury.gov.	86400	IN	AAAA	2610:108:3000:100a::155

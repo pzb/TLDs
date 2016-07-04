@@ -1,0 +1,6 @@
+i50ma79p3kbobuf8q9kbs40rpbadr0ee.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. CpuygAaEEni038/EesM8YXfjhyTi6aCv1JTKbOx4W7wcj688Is5XgB0TnViz71DvkTkb/sNVqKBVVDo4taL9Ds1NeT6DTWPMMmGEjpRpurLLX9bGUM7fJjRvqLzIRMGyfnru0VgkTn8QzOVTejie59z0vpVpBc9QW0ysRcRf4z0=
+i50ma79p3kbobuf8q9kbs40rpbadr0ee.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  i56pqf0ncp121gpt4kmknq5b1ml61inm NS 
+villageofmamaroneckny.gov.	86400	IN	NS	ns1.afraid.org.
+villageofmamaroneckny.gov.	86400	IN	NS	ns2.afraid.org.
+villageofmamaroneckny.gov.	86400	IN	NS	ns3.afraid.org.
+villageofmamaroneckny.gov.	86400	IN	NS	ns4.afraid.org.

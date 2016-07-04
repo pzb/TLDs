@@ -1,0 +1,7 @@
+a71t5dho23pghsvclj6dbp6rpbmmp7km.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Cv4A+okDNP/ThlcQYdetpPIHZ8CcZ23OdGWDkQYVaevty1d0L5HiriFCebT2JhLGERreV7LrpKpbZKiotiJeSkfpvrZpdu2BJ1oIhfh+D/qW9VElKYJvg+Z1vUfLX0Zqe4UIuanQk/x3LdbyyCRTmxwZEqpgulEfKkXDAHGo1A0=
+a71t5dho23pghsvclj6dbp6rpbmmp7km.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  a7m4nj6o1k3auus70p6epdrm014scar9 NS 
+golfmanoroh.gov.	86400	IN	NS	ns0.dnsmadeeasy.com.
+golfmanoroh.gov.	86400	IN	NS	ns1.dnsmadeeasy.com.
+golfmanoroh.gov.	86400	IN	NS	ns2.dnsmadeeasy.com.
+golfmanoroh.gov.	86400	IN	NS	ns3.dnsmadeeasy.com.
+golfmanoroh.gov.	86400	IN	NS	ns4.dnsmadeeasy.com.

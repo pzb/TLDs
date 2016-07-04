@@ -1,0 +1,4 @@
+16iosn3e31vj3rjf0pglmt8lb4hkct50.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fRiPGQDzbvKUJHs8Kl13we6yuL1ByDNm0WmTs4EXN/59cICByv+g9oFBcYm44kS27ObKz74auLL/M9BLvjymK6iFngDpLuazyybrDW6CmYUVMMe5cJ4g3fMo7Z2O9yHwsTdRCAqj7IVKb7xgN6N7Ll0jTDULGRV2rOx6HQoXuSg=
+16iosn3e31vj3rjf0pglmt8lb4hkct50.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  16jdnn8mv67ebs5os17r9vceoekeg0kp NS 
+nebraskacorn.gov.	86400	IN	NS	dns1.doc.state.ne.us.
+nebraskacorn.gov.	86400	IN	NS	dns2.doc.state.ne.us.

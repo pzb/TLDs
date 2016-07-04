@@ -1,0 +1,9 @@
+fca.gov.	86400	IN	NS	dnssec7.datamtn.com.
+fca.gov.	86400	IN	NS	dnssec9.datamtn.com.
+fca.gov.	86400	IN	NS	dnssec10.datamtn.com.
+fca.gov.	86400	IN	NS	dnssec11.datamtn.com.
+fca.gov.	86400	IN	NS	dnssec12.datamtn.com.
+fca.gov.	86400	IN	NS	dnssec14.datamtn.com.
+fca.gov.	3600	IN	DS	29948 7 1 18ab6152abedc899f0fdcf86b08ab2e80ba38469
+fca.gov.	3600	IN	DS	29948 7 2 33aca86a5d6c80e9be75a3d6bbc6b51ea17e91920fb1fd29830ea60bd83b8f25
+fca.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. EjzVcDm5wRio1yn8An4aLFwbbUxg62/1UTNrVmYBOfdsTUpU4VFcG6IgUak1y9crG67IMXgUh99FbNeFUZD0AVCR9HYerq9qhJFsSr35EjwzQWvfUvb8FFDZWVROWEYQpFogvXqbTjGAY7kfiCBoAkp6w04jCEQ0eD0RNqkJ9yk=

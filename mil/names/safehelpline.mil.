@@ -1,0 +1,9 @@
+dns-pub-f1-u.pentagon.mil.	21600	IN	A	199.252.47.11
+dns-pub-f2-u.pentagon.mil.	21600	IN	A	214.14.133.11
+dns-pub-f3-u.pentagon.mil.	21600	IN	A	199.252.47.75
+safehelpline.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+safehelpline.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+safehelpline.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+safehelpline.mil.	10800	IN	DS	1795 8 1 3109870a8750c2f207dfede4889554db4c4574c6
+safehelpline.mil.	10800	IN	DS	1795 8 2 6d3530955fc0d9925a51911aaa08d2619c1cd4980fd5b8c59fd14d7569efeaa8
+safehelpline.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. I/bURHYeHoVD42FhA57fl0ehSw7y81NO4jAELghkcwvbGWhGtLqTAdYnpDYB7ZL5xDAp3zy1/b/qTJHxafa/lvJH6aTBGYBZAkGYsCHMqQX4HtMabCDRO1dOFPI1XqEA9Zn8YLH8USzFjnXm+zdX+9b7V+XivsXfzCOMJeTcPj1QzK8=

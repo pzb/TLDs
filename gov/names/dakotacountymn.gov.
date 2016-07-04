@@ -1,0 +1,4 @@
+dakotacountymn.gov.	86400	IN	NS	ns1.state.mn.us.
+dakotacountymn.gov.	86400	IN	NS	ns2.state.mn.us.
+n66bacvbekcn72p7r18aekvdmeokfatb.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. lm3s1HcA8KAbxWnQX3GdzWdglwCdzYL1WhSseIXPYeEkT4BFDzeBcIFQ73f2I02DuhYRVTMcMA2ihMKpNzPS+l21tSevp7JTz573ULFoekMNtXXLvzc3mn8KlrANZK8UByFnkIsGDjsMKbR/pI0Mx91xWNWIkw4oZzCsBV9vnD4=
+n66bacvbekcn72p7r18aekvdmeokfatb.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  n68gh6ntbfutqvanlc2bdvcrddtdoe1v NS 

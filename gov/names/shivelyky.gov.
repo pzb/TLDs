@@ -1,0 +1,5 @@
+i3be9e64lma4cgi751qpben0kvih62oj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hLLxWqOLAxJ+auFdpEMVEhgmk6SA8b49wJu7fmWXiF+ACBLbVAJgMX3KSycNChwW12+cx9+6t0k8ByDiXx4DXoH/20QgumqhbY31zqp88nEKKyA5ZGfoGK9xvcTUsEzKsL9ZcA8CGzPYC6b4V2Zwsqds/jkpFny2gZy6CYjwhD4=
+i3be9e64lma4cgi751qpben0kvih62oj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  i3bpddh89pjjjffr1vr2iv5nei50je0n NS 
+shivelyky.gov.	86400	IN	NS	freedns1.registrar-servers.com.
+shivelyky.gov.	86400	IN	NS	freedns3.registrar-servers.com.
+shivelyky.gov.	86400	IN	NS	freedns5.registrar-servers.com.

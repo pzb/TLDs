@@ -1,0 +1,5 @@
+3m5r1uniaqe4kuea42bf7o0h430ngjk7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. MxnaCV61EqUQ5T221iX1+4RcptCkdC5mA0XEG1Dw11UI+Eci+4P0Y4whIUQEjk0uKRGsyGmed2hRhUgUAt127wwCZpGDE1kLoUk2en8v3gtQQvEsM7V2DiWaFmStgJu93LsHeaTZSnYhqjxtPj5hNKbqFsnmIuQOhWiE8xrm0RA=
+3m5r1uniaqe4kuea42bf7o0h430ngjk7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3m6qll856268qrr1gjqbofbllebui7ip NS 
+polkcityia.gov.	86400	IN	NS	ns1.winhost.com.
+polkcityia.gov.	86400	IN	NS	ns2.winhost.com.
+polkcityia.gov.	86400	IN	NS	ns3.winhost.com.

@@ -1,0 +1,9 @@
+edns1.dot.gov.	86400	IN	A	204.68.194.100
+edns2.dot.gov.	86400	IN	A	204.68.194.200
+edns3.dot.gov.	86400	IN	A	204.68.195.200
+trafficsafetymarketing.gov.	86400	IN	NS	edns1.dot.gov.
+trafficsafetymarketing.gov.	86400	IN	NS	edns2.dot.gov.
+trafficsafetymarketing.gov.	86400	IN	NS	edns3.dot.gov.
+trafficsafetymarketing.gov.	3600	IN	DS	3142 8 1 4dac8169f5363101b46f3f28290271fdf964df58
+trafficsafetymarketing.gov.	3600	IN	DS	3142 8 2 39f487cdf3ffd09b5abbcbe60aaa0609616c5e90617511d9b66ef7d55280a67e
+trafficsafetymarketing.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. O1x9iBRnDAtcqQZsc/jfYqWY2D/8itOP6cdpdZS7mYjtZf1gfbn9TC/KAdr3f3RvJyLel2W+GRWSaBtBiAX7g15x0w3W/6HXpQuJBD1CGhn1Iotg/pjPIE7aZdh/LnemPvOBZ8kVsXdCOzgrbgYZobwrUWjoIMZC2RhwvA1ci7I=

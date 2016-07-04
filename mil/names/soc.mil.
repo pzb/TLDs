@@ -1,0 +1,11 @@
+soc.mil.	21600	IN	NS	ns1.socom.mil.
+soc.mil.	21600	IN	NS	ns11.socom.mil.
+soc.mil.	21600	IN	NS	ns21.socom.mil.
+soc.mil.	21600	IN	NS	sentry.soc.mil.
+soc.mil.	10800	IN	DS	63606 10 1 8654aa151672ae7e4b8d8d5b0df0df5272edb7cb
+soc.mil.	10800	IN	DS	63606 10 2 1f81cbed64ce711e9e23bb1f57489b98dd935c767680eeec31205645826f7ef3
+soc.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. hlyDDn3SVKKOICMKSpCattfo0GK3ESHl279+soPVzmg382r7jJkIb0u/nVNRblvaGsxzMxXI2uhF78SWJHcbllKasERP8svWh9hH+FnbbtNnUil3Klgqk0BmpuEWBjC6l34UlLXRwd5YcQrTK8R/IFDx5RfHGf93+tjup9YClnxS0UE=
+sentry.soc.mil.	21600	IN	A	204.34.247.254
+ns1.socom.mil.	21600	IN	A	209.22.221.53
+ns11.socom.mil.	21600	IN	A	209.22.230.152
+ns21.socom.mil.	21600	IN	A	209.22.227.52

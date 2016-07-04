@@ -1,0 +1,4 @@
+3pvv0npd7ktl235a4458nros64g08ski.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ajVQbR6zSp0M7zFzV7azX1CkFrAIxVSer2e9uNxaAtRuKYdDScjMTNLlyeRQngL9cfANcYMqd51Zeq//4aozIVv1Xjcj7w1wk4F4k1YkbANGm5NmfM2NY5HkwRXLhhOgyiQUZHXLZdcbEXeplm/6UU5s6bgaEclP9PJag8Qdlfo=
+3pvv0npd7ktl235a4458nros64g08ski.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3qa3vfmulerj5oju7rqtbqcr87ol6ehh NS 
+northfieldmi.gov.	86400	IN	NS	ns1.bdm.microsoftonline.com.
+northfieldmi.gov.	86400	IN	NS	ns2.bdm.microsoftonline.com.

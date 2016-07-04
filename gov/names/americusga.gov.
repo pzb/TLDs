@@ -1,0 +1,4 @@
+americusga.gov.	86400	IN	NS	ns1.wix.com.
+americusga.gov.	86400	IN	NS	ns2.wix.com.
+mh7eqr2ve95likrtatcdfpkfvirej6t5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. WV7DckK+uZ6fjTuPXPkiLbxV1RmzUS4MbGQHS4GE2pVr3yGuq1UKQodySm4uj8+Y+KUGr/qSMkALLf6scVmF3x2v+gc3NOB5aPdVjXLn4CIHOTCsDICrqBk+GmpkxgzwV32MbK1NxmoCgmKb1lT9DMvZ5OXZcFxfw8v2IRxzW8A=
+mh7eqr2ve95likrtatcdfpkfvirej6t5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mh8dmeorp6gr2ffaglm1pnasp01hhnd7 NS 

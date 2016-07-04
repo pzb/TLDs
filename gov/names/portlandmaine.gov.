@@ -1,0 +1,4 @@
+portlandmaine.gov.	86400	IN	NS	ns1.biz.rr.com.
+portlandmaine.gov.	86400	IN	NS	ns2.biz.rr.com.
+uihtsat0fp5n0gsmm2s9l5sugcg0krcd.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. BlToKCh7ddK2yHwU9fHqkKwLERIkN4u08sb6rarn19w5xfpKptvm921pevKva2Fy+1UqAOO8DbPUjb756EiDEtXwFjv+nKNTrIiPRDJeYxYFCs9aCP/5mjyyaSvW3G1EjFEHb2MRb+u9glzvwuPCfSNCTDmTgojSoi5gWPUSH5g=
+uihtsat0fp5n0gsmm2s9l5sugcg0krcd.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  uij92vltc2q6pqafsr7d73fpve4hf759 NS 

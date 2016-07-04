@@ -1,0 +1,15 @@
+firstgov.gov.	86400	IN	NS	dns.gsa.gov.
+firstgov.gov.	86400	IN	NS	dns2.gsa.gov.
+firstgov.gov.	86400	IN	NS	dns3.gsa.gov.
+firstgov.gov.	86400	IN	NS	dns4.gsa.gov.
+firstgov.gov.	86400	IN	NS	dns5.gsa.gov.
+firstgov.gov.	3600	IN	DS	64891 8 1 3e94b4c72400177973e5701bf47d022085228857
+firstgov.gov.	3600	IN	DS	64891 8 2 e887775c135e50b16cf13313c4e0f4bd6774101f7ff81e08ba66243f4a4e7baf
+firstgov.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Z9UrcP5AKg/GGs8rTfYptnN6wAuZDJviYraUYjykKnBGYrAXuTtEUvRBlvTMfzYZWFkIqunyexIwG/QqZm5yyyOCmWRNEoXYa40HAQIYsRVrAG5y3JI7hFpNnR1QHLQMF8lf6HDtO5NmWqhO73u4K2Yg/yWZjxpILBimOpbt+94=
+dns.gsa.gov.	86400	IN	A	159.142.136.198
+dns.gsa.gov.	86400	IN	AAAA	2620:0:150:280f::5
+dns2.gsa.gov.	86400	IN	A	159.142.150.68
+dns3.gsa.gov.	86400	IN	A	52.203.230.235
+dns4.gsa.gov.	86400	IN	A	159.142.69.84
+dns4.gsa.gov.	86400	IN	AAAA	2620:0:150:4013::5
+dns5.gsa.gov.	86400	IN	A	159.142.45.20

@@ -1,0 +1,8 @@
+d4i8es69i4nv1ubpcopvteh2418n61cc.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. KeywCSSSNL7y7HqlLrEntKy6nM2/s/+Ysbvj86gefpmiepfBifLoNW4lgdGdhi8PMVkQ8nfowAOfrrqicaeROv7PKDAPNlcfLEIEsUMfSxS4pu224hbtmF6LLDL4PCbXvvXPSlsvXjkmecJPuDWCff4+7TnpYRjNypT+TEo2uSE=
+d4i8es69i4nv1ubpcopvteh2418n61cc.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  d4p4vn3b56rgpf28rn6t656u4q6sm222 NS 
+legmt.gov.	86400	IN	NS	mtdnspri.mt.gov.
+legmt.gov.	86400	IN	NS	mtdnssec.mt.gov.
+legmt.gov.	86400	IN	NS	mtdnstri.mt.gov.
+mtdnspri.mt.gov.	86400	IN	A	161.7.38.10
+mtdnssec.mt.gov.	86400	IN	A	161.7.38.11
+mtdnstri.mt.gov.	86400	IN	A	161.7.129.10

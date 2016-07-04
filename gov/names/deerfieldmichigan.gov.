@@ -1,0 +1,4 @@
+deerfieldmichigan.gov.	86400	IN	NS	ns07.domaincontrol.com.
+deerfieldmichigan.gov.	86400	IN	NS	ns08.domaincontrol.com.
+v0nghnil86gpej3lobn36a9jjp5u3mv0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. iSa8yN8O8pgqMHg+uuzs8FrijOGklc0zgyY4yHDNo5XedHXn1LX6mdOjNlb5XTP/WYxp7q0ubxm6DZNj/0rr4KLMAz1ryh9ZA1xOpP5ViWbD3R1oJAY+vx1NUTCpdxZPRGPK/hQJRq3HAXsATIrtfueQR9c5P00h4crqh2bQsMk=
+v0nghnil86gpej3lobn36a9jjp5u3mv0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  v0ogco7tqan5vn2n6p36gg1m4fp8d9ip NS 

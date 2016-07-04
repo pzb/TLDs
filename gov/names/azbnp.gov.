@@ -1,0 +1,6 @@
+azbnp.gov.	86400	IN	NS	ns-153.awsdns-19.com.
+azbnp.gov.	86400	IN	NS	ns-883.awsdns-46.net.
+azbnp.gov.	86400	IN	NS	ns-1494.awsdns-58.org.
+azbnp.gov.	86400	IN	NS	ns-1541.awsdns-00.co.uk.
+e842s3rci91b8qan09d7a6i523cm8a4n.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. nwBADjksVFGKgN4ydDPGWDlDOCTnBCgSaG0qb/nPBSDa5Nm3bbAhR8PXl/XuqCJGLg9wSjNaaVcMQV7sTLMfKxsHanhk9E2aO2kB1gVPjPNH+R+eQmP5DHuk6LB/y94rnNmDqr4E29wuXihoGDmxezP+uxsDaxfR6z8zjJ7b1DQ=
+e842s3rci91b8qan09d7a6i523cm8a4n.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  e8fbfes21sikl7tt8b6veisr0usk5v9a NS 

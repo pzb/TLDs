@@ -1,0 +1,10 @@
+floodsmart.gov.	86400	IN	NS	eur2.akam.net.
+floodsmart.gov.	86400	IN	NS	eur5.akam.net.
+floodsmart.gov.	86400	IN	NS	use2.akam.net.
+floodsmart.gov.	86400	IN	NS	use5.akam.net.
+floodsmart.gov.	86400	IN	NS	usw4.akam.net.
+floodsmart.gov.	86400	IN	NS	ns1-46.akam.net.
+floodsmart.gov.	86400	IN	NS	ns1-96.akam.net.
+floodsmart.gov.	3600	IN	DS	4457 8 1 d85f8afef867a99b53994c49ca84f4e75f1bbe16
+floodsmart.gov.	3600	IN	DS	4457 8 2 861e3440d41e9c03e92d1d3eefa8f334a1166cc84d0233a418ba70388a7d32a8
+floodsmart.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. cF16dNII9+dWslMIzTandk2uZ2w8JZUOhWLhmYmP2kICIVjm8coGbyg2aZioADqdxSjHbIIHM8QPeg/gYYKwiGBpAZ6Luczc7PGJNP2wvql1wdGegtvw/iuhV1Ppg7NO+XhNVgVAEwLQFNiOyhoAXCkYvBXWrpuDG/9KsKkqwWE=

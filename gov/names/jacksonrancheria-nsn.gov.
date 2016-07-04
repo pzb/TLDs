@@ -1,0 +1,4 @@
+jacksonrancheria-nsn.gov.	86400	IN	NS	ns1-auth.sprintlink.net.
+jacksonrancheria-nsn.gov.	86400	IN	NS	ns2-auth.sprintlink.net.
+sfb2hqmg0kj9angti8mve1q7ep3fnpth.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. v7/9LaFzxrTiHZbOPsCq6R9cFmh5ecNuBJDvWctBBRf3X0R5DBg8USfTD19avFCi+5LVtajcabNkeHCztdl5AQyA3xWFxKjesQkXuL5EdcGXiRkhOh0qr0TaBKEeN78nofnftRePNnt7XQCxLQsaBaf803FvuCIN73fLCJS6bXo=
+sfb2hqmg0kj9angti8mve1q7ep3fnpth.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  sfig1nngs3023havt5t2l926no15on0c NS 

@@ -1,0 +1,6 @@
+ohioresponds.gov.	86400	IN	NS	ns1.state.oh.us.
+ohioresponds.gov.	86400	IN	NS	ns2.state.oh.us.
+ohioresponds.gov.	86400	IN	NS	ns3.state.oh.us.
+ohioresponds.gov.	86400	IN	NS	ns4.state.oh.us.
+s1vjtb7g9t1a1r4vsasfevj2vko0bahf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. XsUq0gyGhndzCZ/3+V+k9e8wGBk8RVnjGO0ZmgIFlMZO/HSCfVhQ1qVljhyNKz5HZFlUqpAE23SK6gQMogwAqrnLDQmDMnFZz++xYRfGaEbhSITkpTNKtlgr+FxsQUimdH3pj+FjSKKQpMixS3lb4XXP6RXlKiU9uWeall5OFik=
+s1vjtb7g9t1a1r4vsasfevj2vko0bahf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  s24vrdi6jvgm0r2ajp8ji3m7esks96i6 NS 

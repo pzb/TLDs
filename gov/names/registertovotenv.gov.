@@ -1,0 +1,4 @@
+registertovotenv.gov.	86400	IN	NS	ns1.state.nv.us.
+registertovotenv.gov.	86400	IN	NS	ns2.state.nv.us.
+v8if9fjreovj45du4o7mmfpan2gjeii2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. QueFc/BRESAItaaj7QnbhaL9vawROr7KSDulKWNEceDuMjML88qO2uzLAF3+xDaa9YEokqKmRS2ZExJVSApVStz+e7pXIAl82RUwUAZt4yq6jmsyKI2wOtIVLGQIExeCYJGUjEcECPQsML+FyC8bnT9Ag6T/p03RKK9arwskW88=
+v8if9fjreovj45du4o7mmfpan2gjeii2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  v8jf3676bupgkmuoiflo7te2kjsfq8kl NS 

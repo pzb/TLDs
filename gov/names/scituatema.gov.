@@ -1,0 +1,5 @@
+diprqk8jb0u033sfr1dmq53ajjvdd90p.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. pu+5x1pu0KAqtdFeNJAqmtVBzRyY53NYIRCik0IwsNpRbz8mQw+bsAeD5dzC0HHY7bixY50nAFTFrF6NDuJE2pHfGwa9QtQV5E1sSIXYb2En3cIPlMQVkJdyMiBfKyWeMiuKIicy4z3GGAISd0qYVbDtFbCVg4BgEDFsPt22nBQ=
+diprqk8jb0u033sfr1dmq53ajjvdd90p.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  diucta3p2o43eq4v2ath7trpmnale8n2 NS 
+scituatema.gov.	86400	IN	NS	ns1.infotech-maine.com.
+scituatema.gov.	86400	IN	NS	ns2.infotech-maine.com.
+scituatema.gov.	86400	IN	NS	ns3.infotech-maine.com.

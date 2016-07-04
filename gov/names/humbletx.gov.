@@ -1,0 +1,4 @@
+humbletx.gov.	86400	IN	NS	ns11.domaincontrol.com.
+humbletx.gov.	86400	IN	NS	ns12.domaincontrol.com.
+t973qj3b3es89iqsnr97u5o4b7og1v7q.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. NZhGPJ3Cow9Nx8ATiYM1Zf+CiydQvZRMKLXEThjXWL/+fqO6vMvbNWWdCD+v6GocU7B3xYuafsaFKKY9jUmSwlXjhhQgnLmUqhOv8hhLe7yLGjaensSuBM9ljneriPNgEtDY7j0EnQfYoQcr2e3KjH2+RK+qLnjtlRfQTxn4Zls=
+t973qj3b3es89iqsnr97u5o4b7og1v7q.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  t9o07gc812m5rdb5tg3ks0sbd96abq0q NS 

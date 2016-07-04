@@ -1,0 +1,11 @@
+ns05.dol.gov.	86400	IN	A	152.180.11.239
+ns06.dol.gov.	86400	IN	A	152.180.11.238
+ns1.dol.gov.	86400	IN	A	63.106.133.211
+ns2.dol.gov.	86400	IN	A	63.106.133.212
+veterans.gov.	86400	IN	NS	ns1.dol.gov.
+veterans.gov.	86400	IN	NS	ns2.dol.gov.
+veterans.gov.	86400	IN	NS	ns05.dol.gov.
+veterans.gov.	86400	IN	NS	ns06.dol.gov.
+veterans.gov.	3600	IN	DS	26390 8 1 d494045fdbb4c51076caa3e8787c51b7bee73667
+veterans.gov.	3600	IN	DS	26390 8 2 e484d073e5866d208945eddb7c2e9906fa77afdae1a558556e4ef1ac73d3be0e
+veterans.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. UlVRshdSpl2t/s81pLBrAjnmpccTDkfgE2XlYnwG1fN9CdaBsr6KSSbZiv1R+SFkImFAlT/tBTqqS01YD+/gAvnPrnlPfpyAC8+p36E10ZyBLKCwM2/PluTSmk9qYSEV76HK6Iq0T01p4z4Z3kZBQfjQzhiqNlSynNvQGYfoqWE=

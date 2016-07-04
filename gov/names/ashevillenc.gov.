@@ -1,0 +1,4 @@
+ashevillenc.gov.	86400	IN	NS	ns1.ercbroadband.org.
+ashevillenc.gov.	86400	IN	NS	ns2.ercbroadband.org.
+mbq6j7k63qpcdbfk3b7qpgu3hdq748ug.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. VjpA5QvBdr0b3GCXCO4g7FnptyDXvjIzH/xqhNi3B/seBVzSZ4KKZsL1yqtmpbUS7P4SBAp8YwEqnpBZLllTI4NhDy44WjUT9DbolcvGgZdDTpkam1em9WSjs4+Csq2WnRSUVIQsW2K9OxNtjB1PcT/0ebnD2km3W3ort4Mu+hI=
+mbq6j7k63qpcdbfk3b7qpgu3hdq748ug.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mbqo00gjtkrfkl7h7knnscja0r5m7lj3 NS 

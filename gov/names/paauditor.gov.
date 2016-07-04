@@ -1,0 +1,10 @@
+o56ts4b4kpbmbmv88ul0alk9dskc50lb.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. DO1dIT0mtmg8L7nyN5K5Mnljp1lrqx0iFR0fVGnZFt93Z1Pmj+Tx5EIgQh38NO/qPEfb9sb3q5mCt4vDwz1XNAil8scT2/JMBzHBsoLq+24Z5PSlvC6xDQ/UdbsEdWJzvA7c2fg6F589SPE968DmPzsHA3xv0przjqgyCIHF1l4=
+o56ts4b4kpbmbmv88ul0alk9dskc50lb.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  o5d0ad04e70et7g2tvisuhg6ss0nmkbk NS 
+dns2.pa.gov.	86400	IN	A	164.156.185.10
+dns3.pa.gov.	86400	IN	A	164.156.16.200
+dns4.pa.gov.	86400	IN	A	207.218.103.250
+dns5.pa.gov.	86400	IN	A	164.156.16.201
+paauditor.gov.	86400	IN	NS	dns2.pa.gov.
+paauditor.gov.	86400	IN	NS	dns3.pa.gov.
+paauditor.gov.	86400	IN	NS	dns4.pa.gov.
+paauditor.gov.	86400	IN	NS	dns5.pa.gov.

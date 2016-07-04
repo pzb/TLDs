@@ -1,0 +1,4 @@
+cityofbowiemd.gov.	86400	IN	NS	dns1.uslec.net.
+cityofbowiemd.gov.	86400	IN	NS	dns2.uslec.net.
+eaashd6kjq2qlpj9fqht2nhbd50d8aum.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fkQ1Xm819DDB+C4xY9SgcUOZ7Pz1YF4RNWrfZgF9NHusAUUg9IxOop3i8gfdrmA8VcvPbkqv/clZUSkmC9Uzkq1ZLAB8BiyBMjksK/yjlF7vCcyRZVOL9pPWFelg9FVAqas18PMHF+ATO+BlcoEV71WA5qtjRboW0ZuDLH7HM5Y=
+eaashd6kjq2qlpj9fqht2nhbd50d8aum.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ease5av67vurj28dh7jjc3jusbe3s2sg NS 

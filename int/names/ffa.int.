@@ -1,0 +1,5 @@
+ffa.int.	86400	IN	NS	rip.psg.com.
+ffa.int.	86400	IN	NS	warrane.connect.com.au.
+ffa.int.	86400	IN	NS	yarrina.connect.com.au.
+ffa.int.	86400	IN	NS	albacore.ffa.int.
+albacore.ffa.int.	86400	IN	A	202.63.254.1

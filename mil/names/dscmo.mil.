@@ -1,0 +1,6 @@
+cu81hbd7cs0a880rfpbv5qr9g48jlp02.mil.	10800	IN	RRSIG	NSEC3 8 2 10800 20160708161835 20160701161835 16413 mil. Zh3LLr0JDZ492+kMOTNliRUtZCTHRUbaQEUeFY3XDXzREOl8FnuBhC5uV7UqECpRPgeJEYXVEXzIfwFsNA2MrLCvKlSnrSpyo6ySoBFae161mLJ3PDiDmngCAl1ij0mRw+C8fIa97hitrhomVto2LD7eDdQ5CStzJAgG7d75Y4wCdPU=
+cu81hbd7cs0a880rfpbv5qr9g48jlp02.mil.	10800	IN	NSEC3	1 0 10 adeb  d73gefe7q2fb8qqhlt0gmqqbba1angah NS 
+dscmo.mil.	21600	IN	NS	dscmo-dc01.dscmo.mil.
+dscmo.mil.	21600	IN	NS	dscmo-dc02.dscmo.mil.
+dscmo-dc01.dscmo.mil.	21600	IN	A	214.27.191.50
+dscmo-dc02.dscmo.mil.	21600	IN	A	214.27.191.51

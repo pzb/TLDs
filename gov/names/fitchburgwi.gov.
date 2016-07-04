@@ -1,0 +1,6 @@
+4vuh3c97vh8k57vn9bsd26sbgle0n66i.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. nFEHikG5R/qvGe9nNJTIasX0k/hO/mNES5OtYSrLbsQ7MSSLs6PYqDlVN7TsKcynHLitchObsyNETt/xGTob6Kk5NUyulF+Wjj5GXWJGxZ49lj4etdbLp6DhvLomZ79T1nreh54pJ2CGXuW4ycErimO4RaZyYxZEwdUb3sN8Z0g=
+4vuh3c97vh8k57vn9bsd26sbgle0n66i.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  502vn12igu9ecq6g1ntrvj1pejv6p920 NS 
+fitchburgwi.gov.	86400	IN	NS	ns1.binc.net.
+fitchburgwi.gov.	86400	IN	NS	ns2.binc.net.
+fitchburgwi.gov.	86400	IN	NS	ns3.binc.net.
+fitchburgwi.gov.	86400	IN	NS	ns4.binc.net.

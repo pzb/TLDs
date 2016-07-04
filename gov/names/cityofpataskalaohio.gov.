@@ -1,0 +1,3 @@
+cityofpataskalaohio.gov.	86400	IN	NS	ns1.dnsimple.com.
+sknhj9rgm95lmaodr4t3kt6nakt70sk8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. AK2SJWypUQB+6pLAmIh7Sk/aINXfF1WyVMccNF7kNbTQZ3JveE0kaW7Q8ke7jWW7nnpA2lW57sDWiJL8oGPiYpug+XKpxJu+G7Fs2+a8DpeCRZpl5KvJ7RSNSRTyNOWml/9rhI19McpdfN8czZ6dV8zo7z6jswLMdiUfcTYY/b0=
+sknhj9rgm95lmaodr4t3kt6nakt70sk8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  sks3j3hg3ns27833dlngsi79kidte427 NS 

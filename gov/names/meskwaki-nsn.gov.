@@ -1,0 +1,6 @@
+9b1keo7c95rons6fdvn155og94388nva.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hQ5Hhx5dsSg10pq5/q3IjQ44oLdg4ht6svVuXmM1fBDqDa0YXS+uOtZ6DAQb8sFc/lv3zaEYawjz8j1OWVkSIHQxBEgGj1QdaFstU2r5OhkONJ7BG+SscogNeCbEGlxwiFwbv5zA+4RsTbIcuxo/IfoT+x0Wn+b4FSrNr8sgOUA=
+9b1keo7c95rons6fdvn155og94388nva.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9ban0ct78nof3v48kr32n2q99b83n04v NS 
+meskwaki-nsn.gov.	86400	IN	NS	ns1.windstreamhosting.biz.
+meskwaki-nsn.gov.	86400	IN	NS	ns2.windstreamhosting.biz.
+meskwaki-nsn.gov.	86400	IN	NS	ns3.windstreamhosting.biz.
+meskwaki-nsn.gov.	86400	IN	NS	ns4.windstreamhosting.biz.

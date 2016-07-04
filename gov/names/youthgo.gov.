@@ -1,0 +1,9 @@
+youthgo.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+youthgo.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+youthgo.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+youthgo.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+youthgo.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+youthgo.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+youthgo.gov.	3600	IN	DS	34963 7 1 bfbdf02b2f4f22ae4bd68894cacafcd0e0549847
+youthgo.gov.	3600	IN	DS	34963 7 2 00dcc7da643990dd1cd1a16a325fb0c828cdb803781eebc76fd8106ecd85a6ef
+youthgo.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. TS5nRJfmIUIGN9fRH01fIEvKJFb1SHMBG3h4BzWjt+cggRNF10wa5wcndDSBW8jYWp3nilkpysTyqJX1HCvymC6ldC2i3CoAq9WvC8hJ3LdqO22YWrN+JZUbPc01VKALSI90w/lNERQkazhKKGrSC22w3McwQ0EB5UgxepWTSG4=

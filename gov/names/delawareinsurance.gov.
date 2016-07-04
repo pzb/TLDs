@@ -1,0 +1,6 @@
+cormna0b2beb1cusdhpaggfauht2jtek.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. q7qX6ekNvzHXxs5TzGqGRcVCL0zkQixpB7ltv+DFXx/m3fHns9A/xSThno6Q7+dbfeoq5j0za2nhJ7kbiCo/4IXOOXoj6T5sDwMFLIF+zU6FYAZD9pouG51z1qukqTY8kYS1I0lHeDTAAzQ42tryEr0vEjTvu/QXUKBxBxHfOVE=
+cormna0b2beb1cusdhpaggfauht2jtek.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  cp0t0olku0vtguir98c1qbiii3vi91kn NS 
+ns01.delaware.gov.	86400	IN	A	167.21.64.10
+ns02.delaware.gov.	86400	IN	A	167.21.96.10
+delawareinsurance.gov.	86400	IN	NS	ns01.delaware.gov.
+delawareinsurance.gov.	86400	IN	NS	ns02.delaware.gov.

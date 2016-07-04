@@ -1,0 +1,14 @@
+rh202ns1.355.dhhs.gov.	86400	IN	A	158.74.30.98
+rh202ns1.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2a
+rh202ns2.355.dhhs.gov.	86400	IN	A	158.74.30.99
+rh202ns2.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2b
+rh120ns1.368.dhhs.gov.	86400	IN	A	158.74.30.102
+rh120ns1.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2c
+rh120ns2.368.dhhs.gov.	86400	IN	A	158.74.30.103
+rh120ns2.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2d
+knowthefactsfirst.gov.	86400	IN	NS	rh120ns1.368.dhhs.gov.
+knowthefactsfirst.gov.	86400	IN	NS	rh120ns2.368.dhhs.gov.
+knowthefactsfirst.gov.	86400	IN	NS	rh202ns1.355.dhhs.gov.
+knowthefactsfirst.gov.	86400	IN	NS	rh202ns2.355.dhhs.gov.
+knowthefactsfirst.gov.	3600	IN	DS	38910 8 2 a16e783a4e84bdcae2f472dc41181c8f7a5bf92b1109ee3fab6652963cc68281
+knowthefactsfirst.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. VXntFZycZhBGqXoXzIm6gXYISZDff2zNtL0XxQIwcN9PWc2VgUfr1Q7tOvxfkj1CTSYIgCqIy+z1A7A3YromOglTMr7AQIaAfnqK2HgYq2v57WxqdoDfmEfOJseXLVTO+Vf6Z1dPnUB6vdn7+03Jb/9KHHGUNQ51W8HAsjaskiE=

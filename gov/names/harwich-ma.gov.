@@ -1,0 +1,5 @@
+egdjsrvldibco7et8ib4l7oc2sl02d29.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. TyoA2ySvEO8OmjYnECzXQZzL8GEXrTGE4XZChIrKrwwpHCPC0RWSFA+LJ3CJPqAx1F8xJpJzsygrwmYxWRX+9WGWfLHkTCxPQCATg7UtdPXN9J/WUnKAOUZQBWhmGkgMfWLp+zRbi4xQvqJ5vYByVYDgwO0/Dz6MxOURIiQnOmU=
+egdjsrvldibco7et8ib4l7oc2sl02d29.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  egl55jhdfmil3jvtngrj8fhftrfqbq8b NS 
+harwich-ma.gov.	86400	IN	NS	ns1.infotech-maine.com.
+harwich-ma.gov.	86400	IN	NS	ns2.infotech-maine.com.
+harwich-ma.gov.	86400	IN	NS	ns3.infotech-maine.com.

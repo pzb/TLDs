@@ -1,0 +1,8 @@
+6nv3o6i9cvajvkvtbtqn3dlo2e9a583f.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. oCxjNfe4wkQz/oeIQvr9Y0icJ4FgEkQNoAdC2s/W49ToVadEEQR7gUPkI/u1L2Dx6aqLr6gKxgwbJVJ5Lr4dTu+Mp4r/9SczbzV3aX5jtPZBbbJj7m/283ORR/jSHYerUCzpglAUoVrBUyQBufhNVQsbNKuyQplD2YNpOYtAqxk=
+6nv3o6i9cvajvkvtbtqn3dlo2e9a583f.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6o4vmhbhaebrtgsmrtdirnrohhca0i23 NS 
+texasonline.gov.	86400	IN	NS	ns.capnet.state.tx.us.
+texasonline.gov.	86400	IN	NS	ns5.capnet.state.tx.us.
+texasonline.gov.	86400	IN	NS	ns8.capnet.state.tx.us.
+texasonline.gov.	86400	IN	NS	ns9.tex-an.net.
+texasonline.gov.	86400	IN	NS	ns10.tex-an.net.
+texasonline.gov.	86400	IN	NS	ns11.tsus.edu.

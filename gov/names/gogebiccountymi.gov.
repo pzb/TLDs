@@ -1,0 +1,5 @@
+gogebiccountymi.gov.	86400	IN	NS	dns1.merit.net.
+gogebiccountymi.gov.	86400	IN	NS	dns2.merit.net.
+gogebiccountymi.gov.	86400	IN	NS	dns3.merit.net.
+pr31nb8aehomo5bvap07hmec8f568itm.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. dck1ZqT8bS8D6MIz+GOEa8cWtfSbe0Lov6zMSEvmy8tq7/2l2yp+vLUNCdLyca5iZqXE/PwVjLoAEMu16LnQwhTQQCT4aRElOQevh2qSSkNZdGq2LNahkQNkS18pcEI/AGDcF0AHvJLDjgMThbBHJNvgRupX495JrqeZ8fykbQ0=
+pr31nb8aehomo5bvap07hmec8f568itm.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  prdfg7p58p9jc10dof5or1or53iv6e3t NS 

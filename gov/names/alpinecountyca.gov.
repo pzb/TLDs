@@ -1,0 +1,4 @@
+alpinecountyca.gov.	86400	IN	NS	mns01.domaincontrol.com.
+alpinecountyca.gov.	86400	IN	NS	mns02.domaincontrol.com.
+ng8rg3d7hsh2qhm3hlup11lpuihdruka.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. o7ZiETFWe5qW6mIhjL22AbCYgiEi84WQ/jB7349N/FsGFKYH/2rCAGiuLQZz1vL8f7oMmyOOw4zhKRHFe5tYV8zPxM6M59Pj4WqmULMVzFYvQmrTUr3LpHHBXtnLHdLD/hpDD04nLUWzxNoinQV6hVI+mNl+pI1oPGVUvgudhRg=
+ng8rg3d7hsh2qhm3hlup11lpuihdruka.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ngf30bnsc40kcqolr6mtv3d2ksgjk08m NS 

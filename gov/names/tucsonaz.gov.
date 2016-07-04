@@ -1,0 +1,6 @@
+ogniofdrfh0f7vlr5fpcki68i0gmrpm0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. k5HL7Sg0xcBgpfGRSp0Cx+XDG1CRRhM1NFODIGwbUAAXEfTya+hMo5szGHhrsRy3EpjHgypGN5Q3kfl5POBWAepytvOd4s5aMJyFvu3kFGSLMVJxNBLrlkPx66mW0wj74+rhgftMmD8roslJlWfot5lFpqan3kaImXrqlxcDC6s=
+ogniofdrfh0f7vlr5fpcki68i0gmrpm0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ohetqfri3uagrlftkjfi462stjpo7lsr NS 
+tucsonaz.gov.	86400	IN	NS	ns1.tucsonaz.gov.
+tucsonaz.gov.	86400	IN	NS	ns2.tucsonaz.gov.
+ns1.tucsonaz.gov.	86400	IN	A	166.89.66.50
+ns2.tucsonaz.gov.	86400	IN	A	166.89.66.51

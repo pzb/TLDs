@@ -1,0 +1,12 @@
+usss.gov.	86400	IN	NS	eur2.akam.net.
+usss.gov.	86400	IN	NS	eur5.akam.net.
+usss.gov.	86400	IN	NS	use2.akam.net.
+usss.gov.	86400	IN	NS	use5.akam.net.
+usss.gov.	86400	IN	NS	usw4.akam.net.
+usss.gov.	86400	IN	NS	ns1-46.akam.net.
+usss.gov.	86400	IN	NS	ns1-96.akam.net.
+usss.gov.	3600	IN	DS	3085 8 1 9a584ca0894e0201b1109f3ddbdc9cd68b4b2c30
+usss.gov.	3600	IN	DS	3085 8 2 714f5719a6a39baea40d5583d7b640de9f2f06ee98583c28e04889cb30c7f5f3
+usss.gov.	3600	IN	DS	27865 8 1 ddcb5065bc20ba247bd7613450e7ead27cb7ce3b
+usss.gov.	3600	IN	DS	27865 8 2 ba53e48662301b16bdb6cc7097bbd716f1938b9aa4f203f9186c6e82b45b55bf
+usss.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. WUOb4MFf8RMyPkxp+7JNgJSdkdlYmEsWzIR5PYxZg+GTMWrtqnkvfH9e81WCyj0adPKl99KHEVZ1es0B6e62baYyThHzHtSvFaNVopb/l1uYJ7gF3a4kPL/9Hl/8TK1QwduSeZNc6wagh96rkJO5nq8C1DWR687I6Rt7ONkdtzc=

@@ -1,0 +1,4 @@
+ldkjguki3fu4stja6ldqc7qvoad0p7qf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. t1e5/IvAy5PiGJAbcWRuhmHzQO69y6/AcDDidYEvuzv5g+1JAkd8zEXSIF5p7teG86nGQi0C6iBucER2PirbAKiq9bnnZRFQr/qnNXonUYfzYzXL4cy1V5eaCadYWekKR2rlBS50SrMPd1KzekpTIT1oOjuFespbl9idNEhjpOk=
+ldkjguki3fu4stja6ldqc7qvoad0p7qf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ldpcujhr0f54vd53isjihsm9gqirnput NS 
+uvaldetx.gov.	86400	IN	NS	ns6537.hostgator.com.
+uvaldetx.gov.	86400	IN	NS	ns6538.hostgator.com.

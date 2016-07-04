@@ -1,0 +1,4 @@
+1e3vassber50aii7r41c43b7d82ahbim.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. foUYQfdUKD/4jgLl2MOgdfOHTsnaJljmDXEI39JRE2YeNMpMNVjT/3wRy/U1jf2zWHEpka634CLhQCk+MMLpbo1RUwTlYBPFhuIf5bPKdPk/xGmnEkHS60Q3optl3fn8CsgRyTIy5JnxOtEWTkc79AhozQCn5jGxvP95es0W5J4=
+1e3vassber50aii7r41c43b7d82ahbim.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1eecvbaopiicqfahttrtdh3o69pdta7f NS 
+njshc.gov.	86400	IN	NS	ns1.state.nj.us.
+njshc.gov.	86400	IN	NS	ns2.state.nj.us.

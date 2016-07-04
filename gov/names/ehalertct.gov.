@@ -1,0 +1,6 @@
+3pbvq47vaj9vbhb6pej4bago2fmq06ua.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hDSgOcug0G0l9PNZprcZJ+Pd+tk0Jxxft+ly4M3mZwMyxtZjvKgE131dt3hkwSQv9nFIRvIjlDWaMZvaH2Z2qrpafJn5/7eIJP4JzcmvaajaQaKcYhcsUcDjp5R6ocxkS2Q9U63qC59xPDdOIr0nyga2AG19Xfdr6aPdSjWGxnI=
+3pbvq47vaj9vbhb6pej4bago2fmq06ua.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3pef3rr7u039rvedpq0gggjv5osjmi3u NS 
+ns1.cen.ct.gov.	86400	IN	A	67.218.95.9
+ns2.cen.ct.gov.	86400	IN	A	207.210.151.9
+ehalertct.gov.	86400	IN	NS	ns1.cen.ct.gov.
+ehalertct.gov.	86400	IN	NS	ns2.cen.ct.gov.

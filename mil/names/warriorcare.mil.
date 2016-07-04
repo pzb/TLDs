@@ -1,0 +1,10 @@
+beast.dma.mil.	21600	IN	A	155.7.145.113
+beauty.dma.mil.	21600	IN	A	155.7.145.112
+kaucher.dma.mil.	21600	IN	A	155.7.208.113
+russell.dma.mil.	21600	IN	A	155.7.208.112
+warriorcare.mil.	21600	IN	NS	beast.dma.mil.
+warriorcare.mil.	21600	IN	NS	beauty.dma.mil.
+warriorcare.mil.	21600	IN	NS	kaucher.dma.mil.
+warriorcare.mil.	21600	IN	NS	russell.dma.mil.
+warriorcare.mil.	10800	IN	DS	19159 8 1 8ec071afe065e52c14256fbf060830b97b3b7f50
+warriorcare.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. f+BqAJeqFWZ+dZaOeGaIFDX0eKlYO9BvQtmNnYzIeseRuXWR1vyeiP0peE4mPe24KGU1ZugGvMm3gWV/Ulg+dWIqq4mzJiJavax1raG2/yI7bx+bU4IiQtv4V5sMJ/vx3EiXYuj+DqLO7ShYs4PZ/EfXnmYAIuxxR6wAfY2Z6wHcOC4=

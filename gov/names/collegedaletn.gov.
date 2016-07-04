@@ -1,0 +1,4 @@
+collegedaletn.gov.	86400	IN	NS	ns1.networksonline.net.
+collegedaletn.gov.	86400	IN	NS	ns2.networksonline.net.
+qvoelf5253ua2f0aqbujhtl1u84iemj2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Zv0r28V/q6A4bcLu8FAt1NQx88xiV3+0VujuNXZpxDgNj733vJ9Cf27r7iN52XG46NEj0g98dbW0oIidW8j/AbvQAqDcin4HpzEuMvgcInqu0ouKuFu171cLU1+0pZACTQp3IohK/A4jdq6FHlOQ9/K33wvR26E4snjwWFOjrYM=
+qvoelf5253ua2f0aqbujhtl1u84iemj2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qvpem933jbrl0vhsosm6mt6dsd8934d2 NS 

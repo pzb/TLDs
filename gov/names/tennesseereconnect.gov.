@@ -1,0 +1,6 @@
+71dlf02aj4pa74fnicqrvpljordd27el.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. kXf+nWVOxbwHNFcqlVEg5QGb47g6dVIFxdP68GCZhPnyWqwpMo41wuWNkm4iU9ccZU2k85/XDcipAinVCeDQWYkhczu0pV+Uz31tFTDbsl9RQkidBFx5Vx80Eo4XVqW60KUXhVH1DLOgU1VA1VVaxjXucMbV69fCkD3f0H2C78A=
+71dlf02aj4pa74fnicqrvpljordd27el.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  71f1dslfhsil1o1tb2gq7hka18rpgedi NS 
+tennesseereconnect.gov.	86400	IN	NS	dns4.tn.gov.
+tennesseereconnect.gov.	86400	IN	NS	dns5.tn.gov.
+dns4.tn.gov.	86400	IN	A	170.142.92.58
+dns5.tn.gov.	86400	IN	A	170.141.168.22

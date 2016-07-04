@@ -1,0 +1,6 @@
+3m6qll856268qrr1gjqbofbllebui7ip.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. gWO7MFQ33dcD1llK3zUesDNb+kdi7Mse12Bs5KUWq1l/dWKwnjZ6nwVL36XWkuE82CclkBsQbRhoop9Kb6GiwZKSVWSulbIYR6O0WRGPq3t2s/YaxeWzaekPBFIQOFniPCXz1c7mUZ7W9A2Y5TcBPPGlmuKyUfeulO8h4IKnns8=
+3m6qll856268qrr1gjqbofbllebui7ip.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3mfp8ku8m40dkn97r4ci9jen4vei5nf2 NS 
+currituckcountync.gov.	86400	IN	NS	ns1.nc.gov.
+currituckcountync.gov.	86400	IN	NS	ns2.nc.gov.
+ns1.nc.gov.	86400	IN	A	149.168.11.11
+ns2.nc.gov.	86400	IN	A	149.168.138.11

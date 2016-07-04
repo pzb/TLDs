@@ -1,0 +1,7 @@
+iarsn10oushpplupeljop42lvteuu1fd.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. h63uJ4PNotcMStUrvho63w/eLS7ASw3OwRbBidK8hZDx7+jWxTFQjtEeCXPEjFYaJSWJRQJVJkhjT9kYa54vYT6RCXfgZ1pjuA8GqFxqGgWXnhBaXncoG+iZnuwU5agZwHmUMBL8WCBA1GZKeNKio6yeEW9Epw/4oWbM2KbM9do=
+iarsn10oushpplupeljop42lvteuu1fd.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  iavjrhoh351fqdvcregjv9kses18pk46 NS 
+ns1.iowa.gov.	86400	IN	A	165.206.254.145
+ns3.iowa.gov.	86400	IN	A	209.56.120.13
+iowacollegeaid.gov.	86400	IN	NS	dns.iowaccess.org.
+iowacollegeaid.gov.	86400	IN	NS	ns1.iowa.gov.
+iowacollegeaid.gov.	86400	IN	NS	ns3.iowa.gov.

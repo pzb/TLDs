@@ -1,0 +1,7 @@
+9ban0ct78nof3v48kr32n2q99b83n04v.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. DEzBRQkucl8UMfKuT5Wx4v4qxHRaYD2rDrQgPOxxdZFRo+SkYKeFlxDGK8YI+PqaHinndQMY656GlNPBRQyFW6laoUZWTM/LdqI/r/eznJpvuUkdNHxarUZCMccvBXdWO01tVV3cAVxkD62kTjQTfGLD0QvZynVpqX4dWOtjAmQ=
+9ban0ct78nof3v48kr32n2q99b83n04v.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9bb9tsiqsj8p3m7j25vjq82rgc4li79m NS 
+madera-ca.gov.	86400	IN	NS	ns1.comcastbusiness.net.
+madera-ca.gov.	86400	IN	NS	ns2.comcastbusiness.net.
+madera-ca.gov.	86400	IN	NS	ns3.comcastbusiness.net.
+madera-ca.gov.	86400	IN	NS	ns4.comcastbusiness.net.
+madera-ca.gov.	86400	IN	NS	ns5.comcastbusiness.net.

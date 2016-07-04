@@ -1,0 +1,4 @@
+2aen9ejn4ijbtjriutknqsne9mdga8ee.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. o4iZmqPdVDB+iPHDOA3uzKQK3OO9gPLHhUq+8o+hKJXNM49rVwFznstY4rLsS8KDKxadBOfmAesC4gbULqDK4rCZdi/tCMVzaaVH7onXM2fvD5N2cyjVYT8tL8yT13EzvQZG2uBAGP7LKZgER5RZ9wnaO4sIsehvKTkm6pfZ1+o=
+2aen9ejn4ijbtjriutknqsne9mdga8ee.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  2ancek2g7ga1o49vam9i5sn95bafh8c3 NS 
+kansastag.gov.	86400	IN	NS	ns1.ksdoim.com.
+kansastag.gov.	86400	IN	NS	ns2.ksdoim.com.

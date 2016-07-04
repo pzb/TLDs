@@ -1,0 +1,8 @@
+0g4bce50249086lui1fp9bt2k6il1ovl.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. RBoKksNEfBw/+AEywnsLkeO9JwR7owBIoFFK5AlPC8/sw9sc6jqHLfcN3N7IPJT/EXh/s4lnldrvZl3U8Rcg5/N3H44Z2Hv1KupzK/MjOwVoT1K/xJyN4vABys8jd8zwJ7NzgeWPfMCgGWSiXoKkPRIfMrg/ESwfP4ZWfwgEr8c=
+0g4bce50249086lui1fp9bt2k6il1ovl.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0g60hlibnehp30rs7n59m2rq94150t9m NS 
+fresno.gov.	86400	IN	NS	cins3.fresno.gov.
+fresno.gov.	86400	IN	NS	lithium.fresno.gov.
+fresno.gov.	86400	IN	NS	chromium.fresno.gov.
+chromium.fresno.gov.	86400	IN	A	198.200.238.222
+cins3.fresno.gov.	86400	IN	A	173.226.102.221
+lithium.fresno.gov.	86400	IN	A	198.200.238.221

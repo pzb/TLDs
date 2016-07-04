@@ -1,0 +1,14 @@
+rh202ns1.355.dhhs.gov.	86400	IN	A	158.74.30.98
+rh202ns1.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2a
+rh202ns2.355.dhhs.gov.	86400	IN	A	158.74.30.99
+rh202ns2.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2b
+rh120ns1.368.dhhs.gov.	86400	IN	A	158.74.30.102
+rh120ns1.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2c
+rh120ns2.368.dhhs.gov.	86400	IN	A	158.74.30.103
+rh120ns2.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2d
+pandemicflu.gov.	86400	IN	NS	rh120ns1.368.dhhs.gov.
+pandemicflu.gov.	86400	IN	NS	rh120ns2.368.dhhs.gov.
+pandemicflu.gov.	86400	IN	NS	rh202ns1.355.dhhs.gov.
+pandemicflu.gov.	86400	IN	NS	rh202ns2.355.dhhs.gov.
+pandemicflu.gov.	3600	IN	DS	10398 8 2 f70b48d8a31564802f0317da04a01ab54a2ce255c44a61d80d61bb68532b0df2
+pandemicflu.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. go9Re2XoWrTwG/6lzKzaa5AuigmX1mHLX06CnSXkqitwt/7MYMqua2f8UjGt6SzgbzQM0VjcmWA/sIYY7l/ATuz4zOVcA2nQKiRqQXsShcxUrobReURD27l6pD46WqJwq71NoMSvu3eumcYw7U3tmmmXOeeoHmLKOvz700DkK5w=

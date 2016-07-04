@@ -1,0 +1,4 @@
+3m3c4bjc5mc8nq01hl1qjrkg8mt7l4vl.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Z5xgc/KRd+f2sO64Ixud8AAZ1tUD+KJOQUTKo/+iCN9nQ0GwYAxLqxYFFBiUPH12NSacCVHdXEP+J8PuOwN+gsMU6yOhEx8ajE43oQnuAtqEi4XDy7fDzpcq0fb9MvzElMubBXfGuWYKk+DqbVV8V6n6brKG5Skl0pi/WQmeZhc=
+3m3c4bjc5mc8nq01hl1qjrkg8mt7l4vl.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3m5r1uniaqe4kuea42bf7o0h430ngjk7 NS 
+greenislandny.gov.	86400	IN	NS	ns1.biz.rr.com.
+greenislandny.gov.	86400	IN	NS	ns2.biz.rr.com.

@@ -1,0 +1,4 @@
+scat-nsn.gov.	86400	IN	NS	ns1.scatui.net.
+scat-nsn.gov.	86400	IN	NS	ns2.scatui.net.
+vs56tioi8sv5m6jb53tml527vf06auk6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. VLM70fHPvhnxeA91PdD24B8rO8nKDInQWSO3bvZIKLM+4OB5O0/rlDtXkXftSP/VSg9Umhv0TJwEYVSEr0quUxs/bCHJqIi0mjwJZuktmpKDLesWo7o92clwZWK7/6i4u/FNjXnHZ6/Kqqxr9fWQ18YS6yoTqCv/sebumZOmWyA=
+vs56tioi8sv5m6jb53tml527vf06auk6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vs5d39jf07ad3nd3bvvngjmcne1t1q1a NS 

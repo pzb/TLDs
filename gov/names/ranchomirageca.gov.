@@ -1,0 +1,4 @@
+nk8pa3v38b6dlvmqjpo9pi6bmg8ql1vp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. W+0aofoRjlbfEHS6b/JYDipKsSWKZrMqW3V1IYmmDm/+S/1a6PNtonshX7kCD/gBSE4a4oOy+S8OQ/LSbFC6MQPyhG9uqiMkzWLq3LoXy6mf2RhPVLepqxfAK73FeRTQCoszGciLbTBwYQKRByYyDuP1rzPN2drycs9HONvNsEw=
+nk8pa3v38b6dlvmqjpo9pi6bmg8ql1vp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  nkbf9q5o0codn49blufq28ubo6bi6nig NS 
+ranchomirageca.gov.	86400	IN	NS	pdns03.domaincontrol.com.
+ranchomirageca.gov.	86400	IN	NS	pdns04.domaincontrol.com.

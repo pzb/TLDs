@@ -1,0 +1,12 @@
+fleta.gov.	86400	IN	NS	eur2.akam.net.
+fleta.gov.	86400	IN	NS	eur5.akam.net.
+fleta.gov.	86400	IN	NS	use2.akam.net.
+fleta.gov.	86400	IN	NS	use5.akam.net.
+fleta.gov.	86400	IN	NS	usw4.akam.net.
+fleta.gov.	86400	IN	NS	ns1-46.akam.net.
+fleta.gov.	86400	IN	NS	ns1-96.akam.net.
+fleta.gov.	3600	IN	DS	33064 8 1 808ef0ad1dcdd191b4e322fe20648176b2bab5da
+fleta.gov.	3600	IN	DS	33064 8 2 c3c0d71565b8a1f9d446a2bab58ab600001a008d094209d1bb6b383761d6c97e
+fleta.gov.	3600	IN	DS	59089 8 1 84ad7edfaa0be09a9130c8fef9c7cec354be5687
+fleta.gov.	3600	IN	DS	59089 8 2 9d32f2a5f4e6a262b6614d71e0c1a304b841e1d7302ed0f67cc527a93d3ea200
+fleta.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. YMyH/slpiXfJkWsf044puFWuggeDW82HaToDEMmvjhQTu077EmBgBHkyz53Fvg86+GLpb6SCip284iVV7WJwCB+Lv5Qez6hUYcmMI0nS+wqrf3xtYl2uj5Aypu3y58V7AveWmhmyddBSlVUcIDCklXbGGQc0GAAw0lC6CRf5aY4=

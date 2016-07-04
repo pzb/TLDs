@@ -1,0 +1,4 @@
+iaca.int.	86400	IN	NS	ns0.iaca.int.
+iaca.int.	86400	IN	NS	ns1.iaca.int.
+ns0.iaca.int.	86400	IN	A	178.189.79.34
+ns1.iaca.int.	86400	IN	A	213.229.22.153

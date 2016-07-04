@@ -1,0 +1,4 @@
+bentoncountytn.gov.	86400	IN	NS	ns47.worldnic.com.
+bentoncountytn.gov.	86400	IN	NS	ns48.worldnic.com.
+l25ckq82bj3mjpa6blnj107drjnrou1a.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. eFI3wMllDXCojJA7wnvh25UO8OH50h1InJCYaNyjcfcKeHZPWxE68pZjHb2aeVmda4BzDHVSOK/2ln7vi3kvV3567ceyoiBRWAYI5PqH5yV44yuasw7uce0yonYDdzJoar1nMN7im/net+zUHRdr2unGHp34nEP7oBNLiTVnyU4=
+l25ckq82bj3mjpa6blnj107drjnrou1a.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  l290geecn66mm5vqstc2n0js4fcdb6jg NS 

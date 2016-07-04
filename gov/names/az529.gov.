@@ -1,0 +1,4 @@
+az529.gov.	86400	IN	NS	ns2.intermedia.net.
+az529.gov.	86400	IN	NS	ns3.intermedia.net.
+ol7bv3qdt2ongii2gd77ghf0cjs56l5g.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. PHVirN4nOppnOtf5V5Xe5sEjUXHTdgQITG5vOKlm4HzJucS3RC/MAjIrE3LiI/4TLcspq8ccB2G/sPBViK42TcCHNCH0HRPvACNDtqJii72ZvIEPLibdcr2/43O9RL5B7xDsWwanbzyd3OfV86fK0kzzIowUttvNZmfiDbQ5ysA=
+ol7bv3qdt2ongii2gd77ghf0cjs56l5g.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  olkvr2dea5cqr6rnobbjtau9mr2j68r0 NS 

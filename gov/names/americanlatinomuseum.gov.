@@ -1,0 +1,9 @@
+americanlatinomuseum.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+americanlatinomuseum.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+americanlatinomuseum.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+americanlatinomuseum.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+americanlatinomuseum.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+americanlatinomuseum.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+americanlatinomuseum.gov.	3600	IN	DS	48163 7 1 c0dab4096bfa2249719de8e8c4738c9dcd69a33a
+americanlatinomuseum.gov.	3600	IN	DS	48163 7 2 2d07411a4c803c197ba7a2c07f1c91ec26bbb8e88ac50275df7d1ef6da3c68b0
+americanlatinomuseum.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. wM5R/sO4rpsPsbql6aYGR2P+12xBcQVaB/BMOQ0R2laK+gMTmPbaOVbNQAsIg4PE5PW0cZ6cqRJRDIRYDbfHVM6oEAcUF0WYjDdMAopdljG12xXTlr1JnpPEpMJ8/MqBJzdXsAwvIJwuamjwzQGbUH1WI0GuKqRDwUQ7zHYORLw=

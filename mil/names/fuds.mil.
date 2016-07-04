@@ -1,0 +1,8 @@
+966pet983uc2ua5g4cf3utml6eev26kv.mil.	10800	IN	RRSIG	NSEC3 8 2 10800 20160708161835 20160701161835 16413 mil. aiZKyoxQLhj2ZCTheOUvEsqrrSgBMokCz+sl57Iqx4b+D8UVVTXO8aBN+7ePlOQL5HVE0PAk6pZbmK/R+hxa/RD95qpYUe4Wxdbcsj8PVm0EsE9mTPWClDwu5kQIPodry3S6TZJGOuTn2kWB16ntwBZuI0QonDQCrqHgg6c4paHIzgY=
+966pet983uc2ua5g4cf3utml6eev26kv.mil.	10800	IN	NSEC3	1 0 10 adeb  998s1kls81moq7rgukt77dk8pu57c1ra NS 
+ns01.army.mil.	21600	IN	A	140.153.43.44
+ns02.army.mil.	21600	IN	A	192.82.113.7
+ns03.army.mil.	21600	IN	A	130.114.200.6
+fuds.mil.	21600	IN	NS	ns01.army.mil.
+fuds.mil.	21600	IN	NS	ns02.army.mil.
+fuds.mil.	21600	IN	NS	ns03.army.mil.

@@ -1,0 +1,15 @@
+hqnxdn01.centcom.mil.	21600	IN	A	214.26.69.26
+hqnxdn02.centcom.mil.	21600	IN	A	214.26.69.27
+ns4.centcom.mil.	21600	IN	A	214.27.97.51
+ns5.centcom.mil.	21600	IN	A	214.27.97.52
+sxnvdn01.centcom.mil.	21600	IN	A	214.26.164.155
+sxnvdn02.centcom.mil.	21600	IN	A	214.26.164.156
+inherentresolve.mil.	21600	IN	NS	ns4.centcom.mil.
+inherentresolve.mil.	21600	IN	NS	ns5.centcom.mil.
+inherentresolve.mil.	21600	IN	NS	hqnxdn01.centcom.mil.
+inherentresolve.mil.	21600	IN	NS	hqnxdn02.centcom.mil.
+inherentresolve.mil.	21600	IN	NS	sxnvdn01.centcom.mil.
+inherentresolve.mil.	21600	IN	NS	sxnvdn02.centcom.mil.
+inherentresolve.mil.	10800	IN	DS	43519 8 1 22e16c20b6a16d9d4412d7db536346a1e2d1b1d7
+inherentresolve.mil.	10800	IN	DS	43519 8 2 ad46d01614dae79af977817bd9bb82c75cee859c6ac36a3e3cdc613ecd900b9e
+inherentresolve.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. P7QFIEADIcczd9wf9ZKkZZML2bbhof92nL9QajU/rZV5bZ/BaGEh0F6pci55ysZPQ5E73J1Itht5LWmcMe68KsO3ZyzKRU4obzO6fRg+TbDLLyvdCPNPKOjU9m+r2VtiH/Y8i3W0zeY6CfhkapgwHPoKFVwkwwef/SLy9QH2BFV0Oi8=

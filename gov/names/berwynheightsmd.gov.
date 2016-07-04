@@ -1,0 +1,4 @@
+berwynheightsmd.gov.	86400	IN	NS	ns.vectordatasystems.com.
+berwynheightsmd.gov.	86400	IN	NS	ns2.vectordatasystems.com.
+oarodk4tkpcejqabqoj4cg8k3ahj7c3t.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. myenckBnU/g+zYa1A+6jnq1StnzcNOHf/Jr4nAh/pZVvK8gMw2P2MGai2plTH6Z73IaDakCCDtlcP+eieY1e1Ki4Qc8Mp3+S9AWoLi8HU6/mNy6gcxbT+4VR/5RfUGJC+eolh3tqYUMv3xha20P85OI+UrzgVP+M4ow6SsaqtfA=
+oarodk4tkpcejqabqoj4cg8k3ahj7c3t.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  obedc2k809e5j7v0e27vvbus2t195u82 NS 

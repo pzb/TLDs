@@ -1,0 +1,6 @@
+ns1.acton-ma.gov.	86400	IN	A	74.94.150.194
+ns2.acton-ma.gov.	86400	IN	A	72.93.205.227
+actonma.gov.	86400	IN	NS	ns1.acton-ma.gov.
+actonma.gov.	86400	IN	NS	ns2.acton-ma.gov.
+s933c1qjl00jcg2f984m9s9je79brik2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. thgZe5H2ooI5OAMpapkDIpqMFLsw/gM+rr2K4vuw7wUVSyE61QYzXFKKHpL4COuMB3AUSSMW5rK90JBrguoAlsrUSlmkSzb5KpLhRN9y8YPL8rCzAY1+WONOpkygGvmIIxYcdCvxZXtNE2OWIy7ByTh0oxHuqvbnazn9uqVz9A4=
+s933c1qjl00jcg2f984m9s9je79brik2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  s940h6fannpuaio60ltp8kijbba0d5vj NS 

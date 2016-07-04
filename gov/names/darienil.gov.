@@ -1,0 +1,7 @@
+d11urgcf5goahk5c9n78di5sgq90g571.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. mFOCgo/ku9sfwfHqSWhn3jw/Qo0KhNX+gxJJx+ec+vg/NtyHWY5tHZCXBHu4e80QsVNHBYgCuaQH/oHWrct7xI1TxXUDnGeetmL2JIh2cZpDGuC4Ne2cGo+ds8i+DnKxLTMAIYethxC5Gon6FR55JuVMhJoC0JGD0jcWGoZ9H5U=
+d11urgcf5goahk5c9n78di5sgq90g571.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  d1ekr5vk58ot7cbbj74vt0hol97003nu NS 
+darienil.gov.	86400	IN	NS	dns1.name-services.com.
+darienil.gov.	86400	IN	NS	dns2.name-services.com.
+darienil.gov.	86400	IN	NS	dns3.name-services.com.
+darienil.gov.	86400	IN	NS	dns4.name-services.com.
+darienil.gov.	86400	IN	NS	dns5.name-services.com.

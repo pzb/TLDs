@@ -1,0 +1,6 @@
+80p7up4htd470dfiov704iv7e201ha9t.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. pgr87rsw6NEaex/It8OmNoeYzcxA8YFU1exQcx/8vTBoI4wh7GUhDy0Y8IvOm0OgJDMj3QSUN9jGIxeOGMK5kREbnygq7ADA+wM++HRaho9PSip19mXMDBQI6KzMsLbJrk1dq0gyLIqBqCURh0pMb9c1KShDgp+qR7q1nzNkc4c=
+80p7up4htd470dfiov704iv7e201ha9t.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  81mbh76rse8l76u0fm3nm4g9c7id3rkr NS 
+gtm1.azahcccs.gov.	86400	IN	A	170.68.81.247
+gtm2.azahcccs.gov.	86400	IN	A	170.68.81.246
+azhc.gov.	86400	IN	NS	gtm1.azahcccs.gov.
+azhc.gov.	86400	IN	NS	gtm2.azahcccs.gov.

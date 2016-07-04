@@ -1,0 +1,13 @@
+afpims.mil.	21600	IN	NS	lyra.dma.mil.
+afpims.mil.	21600	IN	NS	rigel.dma.mil.
+afpims.mil.	21600	IN	NS	altair.dma.mil.
+afpims.mil.	21600	IN	NS	castor.dodmedia.osd.mil.
+afpims.mil.	21600	IN	NS	luyten.dma.mil.
+afpims.mil.	10800	IN	DS	9520 8 1 44f46a495ff167407f5955f3bac615d7eba16e93
+afpims.mil.	10800	IN	DS	9520 8 2 cf71bc65f941f306ae9bee2a20bb7340b1bdd66fc39530f42a0e219b6cc9b230
+afpims.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. Q6MFwSQU2n8mOlGUaP87egg3qevqZNp2MZxc2+26AsasHJZcr26NelYgyR7uEV+gio77QWzaklslYuXcOPo6y9DOlDezxSfaq2T6G8jcdErbTaxY/Gb3ZlrOhQ13IQA05PDbcBMwN1z78EfWyJx+3YKgPVcMn5MJnI4JckoEk7RZqDs=
+altair.dma.mil.	21600	IN	A	155.7.208.22
+luyten.dma.mil.	21600	IN	A	155.7.145.77
+lyra.dma.mil.	21600	IN	A	155.7.208.11
+rigel.dma.mil.	21600	IN	A	155.7.208.33
+castor.dodmedia.osd.mil.	21600	IN	A	155.7.145.66

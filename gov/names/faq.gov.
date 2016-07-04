@@ -1,0 +1,15 @@
+faq.gov.	86400	IN	NS	dns.gsa.gov.
+faq.gov.	86400	IN	NS	dns2.gsa.gov.
+faq.gov.	86400	IN	NS	dns3.gsa.gov.
+faq.gov.	86400	IN	NS	dns4.gsa.gov.
+faq.gov.	86400	IN	NS	dns5.gsa.gov.
+faq.gov.	3600	IN	DS	16516 8 1 7afb4291dd043bc700c6726c62c91681ea45b00e
+faq.gov.	3600	IN	DS	16516 8 2 2841f554ef7c56210768b14aba8a74e5ddae8dc877f7705dc8d06c69c38a2664
+faq.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. FLGYii9mXJ4wSPSVD7AaW7+Jqx/g7il86iyfYZ3Y7Od32Y/NTEO9S9xx+dWrsosEGIceHX/HUL8P4w0nxGiA5znURrVveOJFuy1OFAI5zSGzbhlm+978XX7c7j6auFeg/BkrecYkWhypAA/jvsbjBsq74H5hQUCBIrzh4DoksYI=
+dns.gsa.gov.	86400	IN	A	159.142.136.198
+dns.gsa.gov.	86400	IN	AAAA	2620:0:150:280f::5
+dns2.gsa.gov.	86400	IN	A	159.142.150.68
+dns3.gsa.gov.	86400	IN	A	52.203.230.235
+dns4.gsa.gov.	86400	IN	A	159.142.69.84
+dns4.gsa.gov.	86400	IN	AAAA	2620:0:150:4013::5
+dns5.gsa.gov.	86400	IN	A	159.142.45.20

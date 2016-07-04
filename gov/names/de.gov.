@@ -1,0 +1,6 @@
+196pg432tahvcfceh4a9rmh19gkae5ad.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. e6sFRTbCG2cq/TzhS7dwaqbTLXkWupR+OIa+PELP9zAUjy02AviHY0yPfK5koRmosERU0mu5wXQkv/6apS1vsow3wgzVxXMR0BAgXqaR5WyTZoCBaNn4qp0SHGFljEfanwOllAhyi5m1wuk4/7vokCOgO3jE3wBew/F/UpafceY=
+196pg432tahvcfceh4a9rmh19gkae5ad.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  196uda4ck07dqg0b1vl0ho0lgajt3nps NS 
+de.gov.	86400	IN	NS	ns01.delaware.gov.
+de.gov.	86400	IN	NS	ns02.delaware.gov.
+ns01.delaware.gov.	86400	IN	A	167.21.64.10
+ns02.delaware.gov.	86400	IN	A	167.21.96.10

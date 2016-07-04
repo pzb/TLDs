@@ -1,0 +1,4 @@
+ibuhppksi4d2fhpmdbei2bqmro6p1i6l.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. GBQvkuqP/qRSKwmlbfDKWKsRNn1Mk4khpPkMzolQBalqAmwF51OX6ylfiuzYIyCli3pxipTGt5PmgK87DPy1bWrLWLEG3CtZLTBd/EITfxIq1ILZadBpayWi1KUt6Doi7NjYo1k2yCoZFhdjTefdUAuxS0qGlkFKSlyymvwf7UE=
+ibuhppksi4d2fhpmdbei2bqmro6p1i6l.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  icab1vbhit0s1dvsvheotv6gb6nn8n11 NS 
+jerichovt.gov.	86400	IN	NS	ns1.avenet.net.
+jerichovt.gov.	86400	IN	NS	ns2.avenet.net.

@@ -1,0 +1,9 @@
+ns.cybercom.mil.	21600	IN	A	131.77.60.235
+ns1.csd.disa.mil.	21600	IN	A	152.229.110.235
+gvs.mil.	21600	IN	NS	ns.jtfgno.mil.
+gvs.mil.	21600	IN	NS	ns.cybercom.mil.
+gvs.mil.	21600	IN	NS	ns1.csd.disa.mil.
+gvs.mil.	10800	IN	DS	42097 8 1 ade3d54599fbaabf82725b36da1edabda1602dd7
+gvs.mil.	10800	IN	DS	42097 8 2 104217161f719433ed38ba76ae0f7bd20b3637873dd6767d7c5730d94ad088d9
+gvs.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. JDnuqRMCzB//3AX+TOLHHuyh7rjwUP+6wfis3KcpwRB0g3zfRL2Nh3TH69ForCRRCiF4tbgigIrb1emtsDeIskSFPQ0mmMzVIbR2l5mnrK9dYNuOdFKIUt0Tj9BSJm1fe6SzkFigYt9oYtYGzQAPWWngwcbNKspg7fSoesk+EHkOLTE=
+ns.jtfgno.mil.	21600	IN	A	214.3.125.231

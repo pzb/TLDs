@@ -1,0 +1,5 @@
+oxford-ct.gov.	86400	IN	NS	ns1.infotech-maine.com.
+oxford-ct.gov.	86400	IN	NS	ns2.infotech-maine.com.
+oxford-ct.gov.	86400	IN	NS	ns3.infotech-maine.com.
+s1gqla319k6imjkrd6smmrqc1am8r787.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. pOzsveqBVbVSxyV5S/8HHDB+einS/udlUZpxyN9tmBFAsVrGRmY7ydvSR1IHSTWTTvMqucOhXdu2ruLgvvMh2pSSIkIHiWmPkSy2Us5APr5uixzZr6yzoKoubbXzQJw2iAdCjfVxJaLXuY18JNFppqAoQnnKL6lucGXecU8CF+g=
+s1gqla319k6imjkrd6smmrqc1am8r787.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  s1vjtb7g9t1a1r4vsasfevj2vko0bahf NS 

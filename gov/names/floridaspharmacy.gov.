@@ -1,0 +1,4 @@
+floridaspharmacy.gov.	86400	IN	NS	ns1.mqawebteam.com.
+floridaspharmacy.gov.	86400	IN	NS	ns2.mqawebteam.com.
+h5cv36b99eokcn7hcd6tb39c74ls8sj0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. EeZU0qkmgNJ/0gO708R8sy6RQ+CND87lensti4AjWzawo3+lT3HGxSK8bFLwcyuB3gjclkaIhbbozCzjQ5YHBlFJDZ6p/2OnAYZArMnICQsGJd9fYu8G2Jm+XbPZBGD7SOeOkCELMjzCoD/STo0IP2kfUpMtq0PW/xE+sSeJ6M0=
+h5cv36b99eokcn7hcd6tb39c74ls8sj0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  h5d45dmo5bbr42f66csc085ho2e9rran NS 

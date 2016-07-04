@@ -1,0 +1,6 @@
+helpingamericasyouth.gov.	86400	IN	NS	a1.verisigndns.com.
+helpingamericasyouth.gov.	86400	IN	NS	a2.verisigndns.com.
+helpingamericasyouth.gov.	86400	IN	NS	a3.verisigndns.com.
+helpingamericasyouth.gov.	3600	IN	DS	62793 8 1 ddfd90df221fbaebfe38fdceefe58ed5d3dc223d
+helpingamericasyouth.gov.	3600	IN	DS	62793 8 2 75a423c1959809648416633b052559221e0e436fd8ee86580ec489bf1f96ca8a
+helpingamericasyouth.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. XY+kEgKoB+jmkxiO5tNFkv1gMpXKxn9WsvnrLcus8fkxj7Fd5sI1/ZP0Q94Mb6UbUJ+OLSAavbk4jLD+HqFHs6lyWBwKGRUZFdIFp5sHEul2EQfajtrrpadNlGqBbcl/kUOifmgsFkq6VapdSy1g8RXF/hKQBUgx6JYxiBQ0USY=

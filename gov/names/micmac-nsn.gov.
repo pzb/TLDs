@@ -1,0 +1,5 @@
+lc1aujceo320b0gk4li79t6hter6krmk.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. m4Ftx1Rq5oExPbLqZHFqEF6SoHb52kFfU1tCVleq5IFMHFperEcM7vrORr0r/n7oGmRwl/cPNYmHXs8x0XWDdkpxgodu7J1PTKNRy0cWqHmXsmJwvFYndIfbV72a/2WwBaBQGQz1mgjrTQOVBnggrDnw6pMh0UGTeYAAYlx8sx0=
+lc1aujceo320b0gk4li79t6hter6krmk.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  lc31pgj9rd5spceaqudi2a8osrp13hfa NS 
+micmac-nsn.gov.	86400	IN	NS	ns1.lnhi.net.
+micmac-nsn.gov.	86400	IN	NS	ns2.lnhi.net.
+micmac-nsn.gov.	86400	IN	NS	ns3.lnhi.net.

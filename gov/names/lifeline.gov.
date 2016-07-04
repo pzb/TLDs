@@ -1,0 +1,9 @@
+lifeline.gov.	86400	IN	NS	a7-67.akam.net.
+lifeline.gov.	86400	IN	NS	a1-166.akam.net.
+lifeline.gov.	86400	IN	NS	a13-67.akam.net.
+lifeline.gov.	86400	IN	NS	a20-64.akam.net.
+lifeline.gov.	86400	IN	NS	a22-65.akam.net.
+lifeline.gov.	86400	IN	NS	a24-66.akam.net.
+lifeline.gov.	3600	IN	DS	55006 8 1 2e10985dab276fb641180f6200d1afceb670781c
+lifeline.gov.	3600	IN	DS	55006 8 2 055cc4cb517a35bca3361678f24d128dcb91e53341690e3f0b31dd32f94beec4
+lifeline.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. HQ/lbJp6deGO6V4yNhm/HIZMlOqKvRR/T5rfKZDW+v3T8cx7klx7Bv6+e1CYcbLBiw1IdzG12DjCzz0ZSivMdUKMDuJjLUIjWD2UKtPmOxjA2ClKsvGy9WlgcnPgIcrht7wnzVChktRnZcBLa53EAzB3KtMuB3p+fF7EWcSvDuw=

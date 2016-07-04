@@ -1,0 +1,6 @@
+usconsulate.gov.	86400	IN	NS	authns1.centurylink.net.
+usconsulate.gov.	86400	IN	NS	authns2.centurylink.net.
+usconsulate.gov.	86400	IN	NS	tpsns11.terrenap.net.
+usconsulate.gov.	86400	IN	NS	tpsns12.terrenap.net.
+usconsulate.gov.	3600	IN	DS	16368 7 1 ad8034c0403cf2b6cb91e9a9fa61ddf4b2d6dc80
+usconsulate.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ILIs1PV1SnzSjcxazpds7AAIZaauiQ/jxQzEcFIhfdMmFTeVOYovWHvjg4AI/t61wUAFkSa7AmdMMNciQzzlne4Q5LAoy8FoESNO0oqalMDUwiA5SYx7Geedk8m1F56ZB3+ALH/EqzMzeI94t0XFlweQLFNDAl6cjt5dttExpgc=

@@ -1,0 +1,4 @@
+hertfordcountync.gov.	86400	IN	NS	ns1.gotricounty.biz.
+hertfordcountync.gov.	86400	IN	NS	ns2.gotricounty.biz.
+r28ec9l121agsf7h5elr4auqfss7guii.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. vs8QEuai7gu/BfLcsiu3QsGMNxrorID50qykxYp0vIUwz/J3Zk6nN+P9NijucAiSwz3m99yRQKndei7E6C/C+A0kbq2v3LI1emdIBVMw0+9yFHp4TgDjSIC+NoOSPHUr3WHohena8/9bEc5Zg0wkoFvHLRmH9LimL1xuO6gfOY4=
+r28ec9l121agsf7h5elr4auqfss7guii.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  r2jm25hfjjtus19503akms5p1i46241c NS 

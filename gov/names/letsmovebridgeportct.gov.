@@ -1,0 +1,4 @@
+letsmovebridgeportct.gov.	86400	IN	NS	ns1.startlogic.com.
+letsmovebridgeportct.gov.	86400	IN	NS	ns2.startlogic.com.
+sjmq0ik18se50bga1ldqs586tk41hf5p.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. I58QkVnhoHsuQDMcYyJdud0Np2itCH+xyGZVn0uC80jmR/8mheD0YznET2mP6oEFEhDX0VtFMIbpXRFnYWpWDNEgftXCSmw0UC1InsfhvP2NwfxTKKbiuf+0ZE97AagqPMaq8kEoQgIrbCKVWeokmh6KpShEuXC5JVnfF1gEdn8=
+sjmq0ik18se50bga1ldqs586tk41hf5p.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  sk5gh38826tknu0p6r0idb4iuhcseead NS 

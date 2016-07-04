@@ -1,0 +1,9 @@
+dns-pub-f1-u.pentagon.mil.	21600	IN	A	199.252.47.11
+dns-pub-f2-u.pentagon.mil.	21600	IN	A	214.14.133.11
+dns-pub-f3-u.pentagon.mil.	21600	IN	A	199.252.47.75
+secdef.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+secdef.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+secdef.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+secdef.mil.	10800	IN	DS	56044 8 1 a33e7adaa646cddbb015f4b5eb369d93f19729c6
+secdef.mil.	10800	IN	DS	56044 8 2 3540ba62330c18262fd337ae633940508b02f5f3683ebcbbfe406c6efe3ddd3f
+secdef.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. d6Alzq6/cJWZlgemOy5/LFFXjXVuDnx5ykg5KJdyQJogFt3SZhtnCWUbpTb7PSH2ryL8I3YFGXPAOEjh7ixA1/vAiYa3bQxVYST3h897VH0rs1s9CJaPI8+D7P428yioqS761+aff1HXSLIzlC2tWtInRZj06QzX6F8/k5b4Oufq150=

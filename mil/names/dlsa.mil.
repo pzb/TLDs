@@ -1,0 +1,6 @@
+35o2gpm6i7acgml84224pulrap3mah1h.mil.	10800	IN	RRSIG	NSEC3 8 2 10800 20160708161835 20160701161835 16413 mil. VTaRvpPf9tWYZYEHBJbZ5HWF04VQLDDB1g/sBLe2UlUnUAMWgKqNq5EXU+Ws9Qym2AMw8ZUjTMer0ESzWjjUTK+89qMCBz/3oD3dr8JsrsdqBw/7QtPudipcaoF9DsC+Bq7Tq2zuK9YrZbmvONuElpNSsZwFfzd/VAcZ2KTxxF5Ka/U=
+35o2gpm6i7acgml84224pulrap3mah1h.mil.	10800	IN	NSEC3	1 0 10 adeb  3bgdrcrgc6qipd5k0c4b4v75ftiihebh NS 
+dlsa.mil.	21600	IN	NS	lambeau.doha.dlsa.mil.
+dlsa.mil.	21600	IN	NS	megatron.doha.dlsa.mil.
+lambeau.doha.dlsa.mil.	21600	IN	A	140.185.129.17
+megatron.doha.dlsa.mil.	21600	IN	A	140.185.129.16

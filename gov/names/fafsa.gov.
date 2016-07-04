@@ -1,0 +1,15 @@
+eduftcdnsp01.ed.gov.	86400	IN	A	165.224.21.6
+eduftcdnsp01.ed.gov.	86400	IN	AAAA	2610:e8:907f:1:cd99:4fb7:bb7:2213
+eduftcdnsp02.ed.gov.	86400	IN	A	165.224.21.5
+eduftcdnsp02.ed.gov.	86400	IN	AAAA	2610:e8:907f:1:d093:1118:adf3:7473
+eduptcdnsp01.ed.gov.	86400	IN	A	165.224.212.6
+eduptcdnsp01.ed.gov.	86400	IN	AAAA	2610:e8:9080:1:88dc:90ef:b68:490
+eduptcdnsp02.ed.gov.	86400	IN	A	165.224.212.5
+eduptcdnsp02.ed.gov.	86400	IN	AAAA	2610:e8:9080:1:8c49:4c6a:b596:f07b
+fafsa.gov.	86400	IN	NS	eduftcdnsp01.ed.gov.
+fafsa.gov.	86400	IN	NS	eduftcdnsp02.ed.gov.
+fafsa.gov.	86400	IN	NS	eduptcdnsp01.ed.gov.
+fafsa.gov.	86400	IN	NS	eduptcdnsp02.ed.gov.
+fafsa.gov.	3600	IN	DS	45960 7 1 2e98ff02336213e0fdfd6a8f40e5d68078291a66
+fafsa.gov.	3600	IN	DS	45960 7 2 3fcfbc13d3ece2c811b05ccd95ec226a3bc191f3a325ab422c1cc12fd6f480a5
+fafsa.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. OlQcknRaQDphIQEmUOlvzSGarnPVGH/fi5ACvdJsgugatupyNz/WC2OMucdL2V/q275oVqGfJVeu4nESTqCFCnv4A+BZrIjIAVLu8pBXJGN2j5/PQe0qEoxMdppu1vIjNgJhR/LB3F1c9gV2NbajAwq7nW3CQ2hbVUDGINwWvP8=

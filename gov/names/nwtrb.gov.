@@ -1,0 +1,7 @@
+nwtrb.gov.	86400	IN	NS	ns2.nwtrb.gov.
+nwtrb.gov.	86400	IN	NS	ns3.nwtrb.gov.
+nwtrb.gov.	3600	IN	DS	14002 5 1 8565f95f000168edba83b3311b357c24c0e9b6aa
+nwtrb.gov.	3600	IN	DS	14002 5 2 1b919dc7b09e9ec77a25ada37c96eb6195cf0c47ea84e903ce9ffef92eb36905
+nwtrb.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ODi0TKdBhas2DyRzc4c/BeRnFzHb5KPcoYgNBzgJWYxSukMz9ML8hjyvVZG9cVN20QQqeiq859uYavXD6zljji5mryZlt7WO2jEqa8mPJ0dlmdy3TXEpcPjV50WXny+a/nmzxY8ycRjc2eJbGlNw15SMjLsWVf0Ig4pUJiVsZhc=
+ns2.nwtrb.gov.	86400	IN	A	12.14.15.13
+ns3.nwtrb.gov.	86400	IN	A	71.171.102.213

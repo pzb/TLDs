@@ -1,0 +1,6 @@
+azdcs.gov.	86400	IN	NS	ns-181.awsdns-22.com.
+azdcs.gov.	86400	IN	NS	ns-603.awsdns-11.net.
+azdcs.gov.	86400	IN	NS	ns-1505.awsdns-60.org.
+azdcs.gov.	86400	IN	NS	ns-1819.awsdns-35.co.uk.
+lthrm04mve1pbje3n93hh39k26d96taj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fWb8A51MZHOaBmqtYkyMqGuepX8OEPP8aVd7NrNaI57dcemVGUnXtcsCKBjek+ZYSq8YNHkylHeZG+GdLJH6YO/E9YQ0CfVluts6TytLVoGenbirpD+LH8YAfiKhHuLzeR7z7VXUj8CrS9kLlXW8OVEj5+uNANOROFh55ytIoPg=
+lthrm04mve1pbje3n93hh39k26d96taj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ltmo0fevck3fptemuj2gag7iai4ga08s NS 

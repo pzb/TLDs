@@ -1,0 +1,4 @@
+3ba2usk89q5n5rfosko3u655a2sm391u.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. snDcxP+k+p85czE/s0tSgQ+s/vHk0yBF7Ff4b1jEu8xSSWuskbYMdKv39wIkNRIPOu5fwAU95b/zbd+uwGPCiK70lj5UHd66eqLvG2VXH6U1BiXa30YC72rIDDPwJjjcxaSm5CmuyzqkT3bpR+/xN3alVHlEjD78BiORMDSYY/A=
+3ba2usk89q5n5rfosko3u655a2sm391u.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3ba640hve60h1n3tpi2jom7hacdup216 NS 
+chilkoot-nsn.gov.	86400	IN	NS	ns51.domaincontrol.com.
+chilkoot-nsn.gov.	86400	IN	NS	ns52.domaincontrol.com.

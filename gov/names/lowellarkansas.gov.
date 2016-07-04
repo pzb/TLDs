@@ -1,0 +1,6 @@
+b08smu1f6s61ok8snh4qvhch51eans8g.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. DDQew1Cef52CDiyjhOyrjvSvG7tjDEQw0bF611PWRL0e5pIqvGuGaRxGjleeUPGzw75W7skgerCrBkaTw0XKmIDxakI9KJxhA1Ze/2KTicY90Uc2IdgPz/1RRT7OWX45fFpf/P69m9u+ssn0mhS3UjPAohAbXMlpkqXbnmMbPPg=
+b08smu1f6s61ok8snh4qvhch51eans8g.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  b0fgs3ke1e1nhqb80ekq9cbmg3sapiv5 NS 
+lowellarkansas.gov.	86400	IN	NS	ns1.lowellarkansas.gov.
+lowellarkansas.gov.	86400	IN	NS	ns2.lowellarkansas.gov.
+ns1.lowellarkansas.gov.	86400	IN	A	24.248.211.101
+ns2.lowellarkansas.gov.	86400	IN	A	24.248.211.102

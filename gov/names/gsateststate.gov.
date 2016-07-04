@@ -1,0 +1,8 @@
+1h1qogk519hktafboqho6eoa3mchfp84.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. JsponzqIyic58lXBjn0LMAFXXc0i4mtVwjHU+CmKt8N2DXPR1Hao+bmj4IUhPVUvgiekiBRaMuHevvi8NbOtl5Pv1AVxMNSxSodFxZY+7wNF+oZdMvjeVSk+Niok4rZc5PJi71IvFGuLw0CxpqRz73fCaJerZ1Eex7xudKBW5Eg=
+1h1qogk519hktafboqho6eoa3mchfp84.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1hk9vape8u22hu8vkeujgdtnu6lfg8ok NS 
+gsateststate.gov.	86400	IN	NS	a1.verisigndns.com.
+gsateststate.gov.	86400	IN	NS	a2.verisigndns.com.
+gsateststate.gov.	86400	IN	NS	a3.verisigndns.com.
+gsateststate.gov.	86400	IN	NS	u1.verisigndns.com.
+gsateststate.gov.	86400	IN	NS	u2.verisigndns.com.
+gsateststate.gov.	86400	IN	NS	u3.verisigndns.com.

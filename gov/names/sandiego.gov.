@@ -1,0 +1,8 @@
+ataaj1o93ggu8knbga86f32dfcqks1m9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ABiu5M6W/9VCVqXKduSvqE7pAWuE4WwoStRC6CtKgzD5COjFsg/U4epf8wuJclokBy1NDeUoykQhlFIvr4kfnNtwUqBY7uQl6u9eDz/VCL15Ubn1BLxX/Zdd4PEdEgiKMuGvIYWhn7mYPbkqRBxLM0guHnd9BfypmTwLab38+pQ=
+ataaj1o93ggu8knbga86f32dfcqks1m9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  atd2lhad69efdjjkklqmbdps65grk6tn NS 
+sandiego.gov.	86400	IN	NS	ns1.sddpc.org.
+sandiego.gov.	86400	IN	NS	ns2.sddpc.org.
+sandiego.gov.	86400	IN	NS	cbru.br.ns.els-gms.att.net.
+sandiego.gov.	86400	IN	NS	cmtu.mt.ns.els-gms.att.net.
+sandiego.gov.	86400	IN	NS	dbru.br.ns.els-gms.att.net.
+sandiego.gov.	86400	IN	NS	dmtu.mt.ns.els-gms.att.net.

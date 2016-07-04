@@ -1,0 +1,4 @@
+44q5oueua99imlvfrm9i1sa363rvvrl8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. sZNrsp+T1V4oxqyLWFggzmDTb8O1XenQNeGQC37MOtl3QNzfSTxY2YaRjgGG+x9DxXwYu9hkRwywZje04vFEquRiy/qA0eFqaXa+OkiNAvrPvuV7SbiIEk+Kfbd2vxQCLMhEY6NQUqWSKGKvRXC1YeL92SfITUNfnW++4T6Lzws=
+44q5oueua99imlvfrm9i1sa363rvvrl8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  44u7b492n0dhn1b4mtd3hgplhvg4np9u NS 
+columbiasc.gov.	86400	IN	NS	karina.ns.cloudflare.com.
+columbiasc.gov.	86400	IN	NS	oswald.ns.cloudflare.com.

@@ -1,0 +1,4 @@
+alamoheightstx.gov.	86400	IN	NS	ns1.att-websites.com.
+alamoheightstx.gov.	86400	IN	NS	ns2.att-websites.com.
+p10gck8fdj17e07bsdkvvsijdcns75sq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. TBAoFpLdtt0i117VdV4WGs+MuSHQR4l+ElYfl1+73Yi+6z+3772E/qRoRFZyKNndk8WjJk/chi+kRmvMLyQTuMAqeTbITT5ZSJ2j/l3BDFUM0UKwV+2gV02mskCzE8WXE5wVtvzYr1NIh4230x7vabnzV3g012WjlOPoqHK1jBE=
+p10gck8fdj17e07bsdkvvsijdcns75sq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  p1mt372bqe4c70pqbkrqeehd4jd7bqoe NS 

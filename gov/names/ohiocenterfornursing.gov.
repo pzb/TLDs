@@ -1,0 +1,6 @@
+2oe89me57m7tva8164u1ucb55jub7nt6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. cySW1agFbiC4OjQBgHCxtL+hcrc/clBuiiLAykBczbm3J4W9XIjY7Ro9vWsnhY/rJCy/bCd2c1OQJNIsiJ5JKUBELAofkKH9tzyP1/SMYfcbWc/og/Ditb0keMVkGDVq8d3LzwNd1v5w4vmcQkj4iIgHnqepSfEzRu/8AwFq8mg=
+2oe89me57m7tva8164u1ucb55jub7nt6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  2ohlkn5jtir6cj70tgr646m52un232cm NS 
+ohiocenterfornursing.gov.	86400	IN	NS	ns1.state.oh.us.
+ohiocenterfornursing.gov.	86400	IN	NS	ns2.state.oh.us.
+ohiocenterfornursing.gov.	86400	IN	NS	ns3.state.oh.us.
+ohiocenterfornursing.gov.	86400	IN	NS	ns4.state.oh.us.

@@ -1,0 +1,6 @@
+azmag.gov.	86400	IN	NS	ns1.azmag.gov.
+azmag.gov.	86400	IN	NS	ns2.azmag.gov.
+ns1.azmag.gov.	86400	IN	A	24.252.218.173
+ns2.azmag.gov.	86400	IN	A	67.136.37.158
+dup5chcbhn1pip2pi18l1if7rp3hqc3q.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. SOUpBx8GT5xa7fUAbbCjHOmdpMVmdrUnPym8wmiA76tTC4zXHtgASukHYksb2sVzVm9gfWuCc19aIf8x2L2GO7e/5LykOZXbA5lDHhEchcHSt4qnxSXB8VyDuo1kGO/xhsfDZOpElf+tn9Upk3i9AbwAMK3i73QfDXcCq9IJU8I=
+dup5chcbhn1pip2pi18l1if7rp3hqc3q.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dut0supum98c2vu0sgskhb56s90cup4n NS 

@@ -1,0 +1,4 @@
+5kujrv9jlcnaatrcagl8g3cjqslb8oje.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. kf2B2/B/3vrbenfb3LOo1rbc3q6tHmRrgMPTgpM6au05O2UK6CFv8DursKu2wf/bAKJVGF9u5Fo3nOOektTW8B1oANGCSXB7owNt4NN8f4cuSEyQzT0EwVRsRiZvs/fNlrWl4LrpjYNyf07vrvT0gg/BViQhpQqwpYipNFDvNIs=
+5kujrv9jlcnaatrcagl8g3cjqslb8oje.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5l5t2aka1apruci08ms9vtf5bb9hkvcs NS 
+ohiovets.gov.	86400	IN	NS	ns1.state.oh.us.
+ohiovets.gov.	86400	IN	NS	ns2.state.oh.us.

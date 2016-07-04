@@ -1,0 +1,4 @@
+shirley-ma.gov.	86400	IN	NS	ns1.c-i-s.com.
+shirley-ma.gov.	86400	IN	NS	ns2.c-i-s.com.
+smj790utltnsqtbg0ek6v7r6t9i15o6d.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. aGwQiMnl6iQXTVgzAY4R1du4tO1hl8AAPv2MRFZUuno/AQ2ctLU+T7Un21cnc8VGXpwQ8xmfHb4+q6poCsMsGrs3DJPSTe7AcvYfcuL/9IA+Cq8zsslJ+iybKmmnFpnvZlKmQD4gCgq8dZ2s4Hrw79a1QnPS4cbKvNcdOjHkNAc=
+smj790utltnsqtbg0ek6v7r6t9i15o6d.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  sn6ik90s8q2sdudsq62afu6bv5ish5s9 NS 

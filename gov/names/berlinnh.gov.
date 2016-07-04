@@ -1,0 +1,6 @@
+berlinnh.gov.	86400	IN	NS	ns1129.dns.dyn.com.
+berlinnh.gov.	86400	IN	NS	ns2181.dns.dyn.com.
+berlinnh.gov.	86400	IN	NS	ns3177.dns.dyn.com.
+berlinnh.gov.	86400	IN	NS	ns4185.dns.dyn.com.
+mkniiguoejkk8rdt2k93n679bnob7sua.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Rd+V/V69eT9j/LOcp6HUK74tLIm6kIfk/7/ld7wpsXnJQGOu5wzL9ZkvEbjIhWUZSKhOntWGz1bk6oKWDZTomK8glNX9l5R0sK6Z66LmDBiF/oveEXRQAR7tWmRwsS95I/QHtJiNUiJ0motbM7muMyMSWuBXEfCfCg8YhObJSfM=
+mkniiguoejkk8rdt2k93n679bnob7sua.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mkr1m4glk80i22mccj482jqi134n9ejv NS 

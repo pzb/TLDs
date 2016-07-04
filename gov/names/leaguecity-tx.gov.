@@ -1,0 +1,4 @@
+ahp86aqonnoo1q0ucpi727l3uumb2a27.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. cQBOnNaCkmsomjpwiCSehXpGVtj21pLMZhgewzRbuqiaVLzLCR5gmectAVG4rR5DoP2Bi4D7+GGdlT8xd2+MlN1DWeJZJkcon0HLksW93lHWekrkzsvLDx6JgcodPLxl7703qqlBxUUgB1u8EhLe9fQ4zaAWcGrsIx91/EXrsCQ=
+ahp86aqonnoo1q0ucpi727l3uumb2a27.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ahv9fn1c32bbobqo99f16cc5d0qfukqb NS 
+leaguecity-tx.gov.	86400	IN	NS	ns1.pslightwave.com.
+leaguecity-tx.gov.	86400	IN	NS	ns2.pslightwave.com.

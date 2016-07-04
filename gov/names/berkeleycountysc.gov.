@@ -1,0 +1,6 @@
+berkeleycountysc.gov.	86400	IN	NS	ns1.homexpressway.com.
+berkeleycountysc.gov.	86400	IN	NS	ns2.homexpressway.com.
+berkeleycountysc.gov.	86400	IN	NS	ns3.homexpressway.com.
+berkeleycountysc.gov.	86400	IN	NS	ns4.homexpressway.com.
+jfqgvpul5uvq4q2dbkudp0h94d5v6p4p.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. BnRV3BVgsGXvLeQo8AEfXOCR599rK51LEHYw2NSFeVSkLfe19cuiTFy/3U/aVRTfA3PjmIzDvXGCMpccq4JB2XfxjJObe7syeVQIJJE9YBZZez7DWe4EUsXOnyyyLpq4nFsvjIdhhpPbs+XKqoXDoRPcCcn2FbFb3+ICMbrfctE=
+jfqgvpul5uvq4q2dbkudp0h94d5v6p4p.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jg1lq1s368kgaqhmcse7ms5efu6demdt NS 

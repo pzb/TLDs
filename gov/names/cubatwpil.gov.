@@ -1,0 +1,5 @@
+bsv6uaost75h6t99l5c2fqd8undhn0s1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. d80vSTKbvU2YPMjDd+gntJ+zX3Wep8WQ5qjD+bPRJ8hV2yl/BBlW/hDRqcQ+ssi43cKIIutL6mHQunyyj9j2/MJiFcHOw1okJU2yfwUJ5GlCBKtRn7RFBhnD8X2H9bc2fdfFs6TiKcTfLYzoFSkkmvtvB/QmeIafKsp7XcSZy9g=
+bsv6uaost75h6t99l5c2fqd8undhn0s1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bt3b2tf900cjj9pckbr7j2tk7tuggpc0 NS 
+cubatwpil.gov.	86400	IN	NS	ns1.dnspark.com.
+cubatwpil.gov.	86400	IN	NS	ns2.dnspark.net.
+cubatwpil.gov.	86400	IN	NS	ns3.dnspark.net.

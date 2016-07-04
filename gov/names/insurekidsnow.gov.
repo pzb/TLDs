@@ -1,0 +1,9 @@
+insurekidsnow.gov.	86400	IN	NS	a1-86.akam.net.
+insurekidsnow.gov.	86400	IN	NS	a3-66.akam.net.
+insurekidsnow.gov.	86400	IN	NS	a8-67.akam.net.
+insurekidsnow.gov.	86400	IN	NS	a10-67.akam.net.
+insurekidsnow.gov.	86400	IN	NS	a13-64.akam.net.
+insurekidsnow.gov.	86400	IN	NS	a24-65.akam.net.
+insurekidsnow.gov.	3600	IN	DS	26805 7 1 2e4f7119f541df66504dc7604544162442bafabd
+insurekidsnow.gov.	3600	IN	DS	26805 7 2 cd8383dc7be96bf8445de580f0ac13b3757f0e55d0fd9b3f38b9a6dd62a493cf
+insurekidsnow.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. q/9M7x6uYzTWOhLw0vdTHQHXk8kUaqT90dCzJN0pk8c/QhW8/lqFJ1FpqutbLMcmjU/wS9W0fZqYNBFLagHiNCDSnjnexgcqecZ8zYf4tqpfA4ob5FBCR39pvWecRvgeeJ7KPH7Oj0bh7fDdhKoYMBc9Q5EEyEz32DHbKgYpHaE=

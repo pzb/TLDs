@@ -1,0 +1,9 @@
+acwi.gov.	86400	IN	NS	a3-64.akam.net.
+acwi.gov.	86400	IN	NS	a6-65.akam.net.
+acwi.gov.	86400	IN	NS	a7-66.akam.net.
+acwi.gov.	86400	IN	NS	a1-241.akam.net.
+acwi.gov.	86400	IN	NS	a10-66.akam.net.
+acwi.gov.	86400	IN	NS	a16-67.akam.net.
+acwi.gov.	3600	IN	DS	45049 8 1 40e04e6aa4c3beb2c8c730106f99edcc3c2be5a0
+acwi.gov.	3600	IN	DS	45049 8 2 d14497cbb358531905755ed61a0ceb60f944d19ba71d389e3ed6e4a9a75f673f
+acwi.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. a7v4EPza3EHO8/GJXudqTp0u4wDHYoQOFv9iPINrCfkCxzF1GgkSR00LaWRz7+A39nlTdAqpiD8DZ7T2IR4mWX2eWwDR0q7V55MqeBZP+JwdtwAlLypBtBz62WJIoeXtdo/uNkqDDsdhkHd6T0QSwd+Lvg6YSt2hS+F83g1T/9A=

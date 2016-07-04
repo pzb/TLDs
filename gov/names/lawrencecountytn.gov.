@@ -1,0 +1,8 @@
+lawrencecountytn.gov.	86400	IN	NS	dns.lawrencecountytn.gov.
+lawrencecountytn.gov.	86400	IN	NS	dns2.lawrencecountytn.gov.
+lawrencecountytn.gov.	86400	IN	NS	dns3.lawrencecountytn.gov.
+dns.lawrencecountytn.gov.	86400	IN	A	74.220.195.31
+dns2.lawrencecountytn.gov.	86400	IN	A	69.89.16.4
+dns3.lawrencecountytn.gov.	86400	IN	A	96.38.39.210
+so66c93hsagl4ainj00o3kl0sheslqfo.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ABsyqMdiqgYO/Lb5ZcSk0HKKuXX03eUeR3/dYETJGVrJDD61Tl42MkE6XfbUyJoUdd2ZhYuzjLiIFMypw1wDRxqS8gncU0A9Efrly6nV0LY5J6XY4LUTlrvh8AwY6FX+7eI2PKwKM+hba36xJ7ZA+QavxLTIvzznAkI3jqTzBHA=
+so66c93hsagl4ainj00o3kl0sheslqfo.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  sofj3orapqq1o66pser8muga83fdqvcr NS 

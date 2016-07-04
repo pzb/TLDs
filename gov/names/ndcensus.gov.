@@ -1,0 +1,4 @@
+ndcensus.gov.	86400	IN	NS	ns3.ndnic.com.
+ndcensus.gov.	86400	IN	NS	ns3.state.nd.us.
+op48nq0ru6fg67norrghf0ppopshbmlc.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. vx9qqGH6bOsHjvS6LY+nKQF5agP/SLBEA5w5qKMyzSukH4frOFRvGgVPhptASdh3sHtrfpZngP27wSio3m2LIukEzwOYvIxBR+vK26so/CxlaudaViJtjvLHZRT8I1dmV0J1ZEeNcajWFmPFaSecRWHhsCnQp6bTJ3M9WlPJyQs=
+op48nq0ru6fg67norrghf0ppopshbmlc.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  oph1sco3q7962okj33ovomir4dre8hec NS 

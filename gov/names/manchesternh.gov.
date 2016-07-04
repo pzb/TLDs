@@ -1,0 +1,6 @@
+g8n4m27m0epp0iide4cfk6amj0avstdm.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. tJUvlHd9paKlQ3STGsUWzm5Jfd/b8riN+yUN/SNrKHui5dm9e060CArmdzexbyAjXVn4JYnx6CJjMa09AXqs9sb+pB4U/MGEEuS5GTvsHR1VLWY67xm/d0VB10ZeWMgounC7ZI/wcdcU2CrCXwbERnHrNjslFJPKftV+LZ/Y0zg=
+g8n4m27m0epp0iide4cfk6amj0avstdm.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  g8qb1vic4k5drvpdknkp7jd700iq79f3 NS 
+manchesternh.gov.	86400	IN	NS	ns1.p11.dynect.net.
+manchesternh.gov.	86400	IN	NS	ns2.p11.dynect.net.
+manchesternh.gov.	86400	IN	NS	ns3.p11.dynect.net.
+manchesternh.gov.	86400	IN	NS	ns4.p11.dynect.net.

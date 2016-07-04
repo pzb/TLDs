@@ -1,0 +1,6 @@
+azdeq.gov.	86400	IN	NS	dns1.azdeq.gov.
+azdeq.gov.	86400	IN	NS	dns2.azdeq.gov.
+dns1.azdeq.gov.	86400	IN	A	159.87.10.130
+dns2.azdeq.gov.	86400	IN	A	159.87.13.2
+i8itom13oahaqo2lsn5jg9cbdudr28pq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. aEKovpiiRoImbuaV83y70PEWkcfqwe9CmwfzDT+lyLehwQrGle68+2mz0d3NnP0Sf/I4aO0B6akRcOmu7bQQUqVVmepdD90M6Y2otG9w1cA9gRiHywFP1vouVg2BH9BsJGrBFNVxXxcojKU+aObUC/oEO7VdvBfjMZkz+9cKhuM=
+i8itom13oahaqo2lsn5jg9cbdudr28pq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  i8l9raf9c5a8ld668hgbvbh3bar3jo48 NS 

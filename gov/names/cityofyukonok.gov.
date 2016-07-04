@@ -1,0 +1,4 @@
+cityofyukonok.gov.	86400	IN	NS	reza.ns.cloudflare.com.
+cityofyukonok.gov.	86400	IN	NS	theo.ns.cloudflare.com.
+fgcpr3v2d12rgtqrid282s8nturkr6i9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Cb/16WQaqMsGQksN6ZSqZpHtgob4JRBlQtJ/q96VIDBO5BxnP1hYW/cujJOjwxs+obRru1Fpr7kyNT8qO+cf66GyUpTAGs2TczAbZ1l6iy7KMUXvq894QovFnkCqZOrzGsp1vY6Dtsx/Ib6eOAILy4Lxnfn6z3PKjzajOHdMGJM=
+fgcpr3v2d12rgtqrid282s8nturkr6i9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fgig868nt9pe32ujq69qsl5s446dmf9b NS 

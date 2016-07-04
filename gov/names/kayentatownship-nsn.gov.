@@ -1,0 +1,4 @@
+epif8lsn5456odpl5a10jgbsf3lc9tib.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. PrN5MA+nUJVYKzJH7kgpc4RraZnCMHYlXm08bPX+SINsiernQkyveTCfbcqEkel3q323KISW1qJh+EO8zgA5EHMpO6tvWL9jE/o2TVGSDvsxsVRkoQkzxuOziqumyvXI8jv0yVqfObSYd+5T37ULQYGWhJ7i5vR1hjRbSgJCOPg=
+epif8lsn5456odpl5a10jgbsf3lc9tib.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  epl8k2k6okm4p3m0ofamsh8np4umo9bn NS 
+kayentatownship-nsn.gov.	86400	IN	NS	ns1.panelboxmanager.com.
+kayentatownship-nsn.gov.	86400	IN	NS	ns2.panelboxmanager.com.

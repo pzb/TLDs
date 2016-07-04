@@ -1,0 +1,7 @@
+eds.mil.	21600	IN	NS	tsddns.fedsun.navy.mil.
+eds.mil.	21600	IN	NS	tsddns4.fedsun.hpc.mil.
+eds.mil.	10800	IN	DS	31384 8 1 f6a1e04360cffdbefe2b4f9886d67a5adeb0e07e
+eds.mil.	10800	IN	DS	31384 8 2 75ae4309c48f3439c7f295dc19b6f0d7b8de20853fa59d277a3bb381724c162c
+eds.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. lOxWJoeFTHNrt5HR2j3ZvSS96LkzMdNoQQd5m2vrKH29HHcq8/H3snNTaUaKMPV0yE+UtndB1eDwhfche86OuhSOYP12KFa4m/KnyuUbYrnUX1z2oDXKXsNOjI5BgxXgRMzG1g4xNs37kLO4IaA54iGXgBVo3CnLbwqZsvAxns6upPk=
+tsddns4.fedsun.hpc.mil.	21600	IN	A	140.32.23.2
+tsddns.fedsun.navy.mil.	21600	IN	A	140.32.24.2

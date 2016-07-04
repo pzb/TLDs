@@ -1,0 +1,8 @@
+golearn.gov.	86400	IN	NS	a1-12.akam.net.
+golearn.gov.	86400	IN	NS	a5-67.akam.net.
+golearn.gov.	86400	IN	NS	a11-67.akam.net.
+golearn.gov.	86400	IN	NS	a14-64.akam.net.
+golearn.gov.	86400	IN	NS	a18-65.akam.net.
+golearn.gov.	86400	IN	NS	a20-66.akam.net.
+golearn.gov.	3600	IN	DS	23365 8 1 77e862240c4d5f3f10199f837d21b71d6cede48f
+golearn.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. IXjZiq6Qa/acwv9Ysy9LPq6jywippfjaN0Ofb6IxHsmyAITaQrtCvGobo3WkUbQ8JDFS6i4H2T0U+ayVlOH9dpJySOXU5Tt10pQ6qhNjyt8+jICH1j+YtyrlrH4pO3KFWSsv5Kp971PdXpGFDUDBEwm5SzwT6eK5J6kUR36v1Qc=

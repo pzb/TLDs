@@ -1,0 +1,4 @@
+b66o7ddugjr50egsp2rcau972805have.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wE7kkkjzF3KDVoQP3c9epD5PODN5CVVxfp0tLDtvF7N1QZVX8VU+fAFFKi+Zod492YSSCKUtNwu06L8q4URsgTzioa2vgOXCMgVhJ91YG3mthE/8WrvCoEhO+uBHeH29ja4ePy0mNM66MvGTIffS9+OcrlCujVtYOL0VWP9r5zk=
+b66o7ddugjr50egsp2rcau972805have.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  b6a6mhsqhv2gloo74e5vdvt5d2lh01ok NS 
+saintpetermn.gov.	86400	IN	NS	ns1.internet-connections.net.
+saintpetermn.gov.	86400	IN	NS	ns2.internet-connections.net.

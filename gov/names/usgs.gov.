@@ -1,0 +1,9 @@
+usgs.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+usgs.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+usgs.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+usgs.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+usgs.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+usgs.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+usgs.gov.	3600	IN	DS	42941 8 1 d8b079aae7dcf05598723630055fa08211921a7c
+usgs.gov.	3600	IN	DS	42941 8 2 8e65a34a7f17d3e4e066c1f373593ef2bf403ba9d8aee5bb2851a3203c15d557
+usgs.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. kmdfWBpAjDrZbsmYte105/1NnUKsZKurIg/KrPFuAsAYjIUKHg3BQYUdAiSJd/qxTXwetLUDiG3gALaLmPUQKj5ARYD+ZH5bxkIDElS6wA0U36XzBqwZNlUlX1xeTLjNSdmXVWjxI+vf0KnpsvH+4pV4LkMij+RTMcdez4cjgfs=

@@ -1,0 +1,4 @@
+bowersde.gov.	86400	IN	NS	ns29.domaincontrol.com.
+bowersde.gov.	86400	IN	NS	ns30.domaincontrol.com.
+tj8d436mou937p0bmdk5nvv5srgdcjr6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. nlef467Hei9T9XdzjYyDtCPEBGEVqQI4NHCsC4tMFuNUliQg/4PBv8FpoxGWVI+oX4nQZoq+gxNqsp0ySMGnIZ10+HSKdkA604c6WDD9NpXgJglhSpq0giAJOvftvlsKJVXvsp2HP6hZeKJMs+dND3EpoVC50r6O7HwCIXWBfGA=
+tj8d436mou937p0bmdk5nvv5srgdcjr6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  tjfuj87d7sbqfbnarsd2j1r9po95h8sh NS 

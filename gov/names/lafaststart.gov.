@@ -1,0 +1,4 @@
+5bku4ugua0tfmj79b080cfa7gvjpvav5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. RMwBAcROBtRRc6YcUoduzP+SO+aqdS5Oa2BP2YOVlEx90ny+ShMdg91ZM6xYYp8c5+uLWgp4p+iLYnuWK+6TxKq4vjVoVD+oGgau3SbaeprCrvp9wIH1X8S8wJPsenPnkgM94mQDItYsJGxNN3JhWYuFBquOo7lo/sexU8RnB/w=
+5bku4ugua0tfmj79b080cfa7gvjpvav5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5bmm69g44hiqapk0lavvkql6nlmb7lau NS 
+lafaststart.gov.	86400	IN	NS	ns1.lded.state.la.us.
+lafaststart.gov.	86400	IN	NS	ns2.lded.state.la.us.

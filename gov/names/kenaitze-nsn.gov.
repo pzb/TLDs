@@ -1,0 +1,4 @@
+kenaitze-nsn.gov.	86400	IN	NS	ns51.domaincontrol.com.
+kenaitze-nsn.gov.	86400	IN	NS	ns52.domaincontrol.com.
+v7653phva0gg0tgvscmikc6modrbe8t8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. sUq5y5s3D7NlYaUY4ziwchWt1RY8/tnveLk+N5/sBogNp34x7+8ZCIkejb770F1/8fS0gSFFCNxMMpmKHZpiaAhY7Oim1UusK2sxIx5EXwgDFpQsly4lEOO8s/pFapB9ZyivzvFF0CrqhJrCl3VfuUZY9b0H9DkqACrFqGV1zbI=
+v7653phva0gg0tgvscmikc6modrbe8t8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  v7788lfbntde3u5irma1d1cput9gv1m2 NS 

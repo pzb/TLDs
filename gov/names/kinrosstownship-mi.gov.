@@ -1,0 +1,4 @@
+8j52881fakqbmh89dov6pss1mn7a2tkb.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. NCfqTm34TlTsMvUICAC1alLi5H2lE56k6H3OKkDsa4yzt0NJMkt3eQUkNTFw33RC+frSXQBLkFGy4Zz1b/NjWvE8PyhRJuhzKFUqe9VDcZVD7NL47e7s5z8MqbR7R0o4nQBguVju2LeeRogmvT1Dkn/UnLPJdIM8Q/HrtbpblcA=
+8j52881fakqbmh89dov6pss1mn7a2tkb.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8jslcer4i2dgsotnv2d0sa7f6reu2fgn NS 
+kinrosstownship-mi.gov.	86400	IN	NS	ns1.lighthouse.net.
+kinrosstownship-mi.gov.	86400	IN	NS	ns2.lighthouse.net.

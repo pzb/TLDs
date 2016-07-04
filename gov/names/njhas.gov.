@@ -1,0 +1,4 @@
+09k5ep6bs724hqv1dub1b9rhd5hj7k0q.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. IUbxIdPMLIEikV7cSK8VKKJWTEngNc+bo7ab3cc3PCZisqisZbP9adoSuoKazmB+WvPzZE+7La+OYmxrtKsdvrBTFaW5JKSRlyeGZdeMbdNsDOPdzpzYyh1OmYb2SlNT6MgaLF+6W6m2/3Imu4LqW4JMsZ748moYGCIhTu9PoGE=
+09k5ep6bs724hqv1dub1b9rhd5hj7k0q.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  09lqpki4hqn4hitd49n8e6jab8u712g2 NS 
+njhas.gov.	86400	IN	NS	ns1.state.nj.us.
+njhas.gov.	86400	IN	NS	ns2.state.nj.us.

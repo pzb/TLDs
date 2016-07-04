@@ -1,0 +1,4 @@
+covinaca.gov.	86400	IN	NS	mns01.domaincontrol.com.
+covinaca.gov.	86400	IN	NS	mns02.domaincontrol.com.
+pfausp02vm7fprvcelgln5r60pusfp87.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. d+Qib5i0N/yVJWAVuZ2w/0AcQ8YLhKK6FpUE7/S/thvIVUAulGOTrmA5kmodFsIQHgObXA8Z7s3HtvKaV2E97ZMts53myISqYYdwSTDv0DCJZVHifF95SXakgnmxYssWwiJlls35YxLbCaRggK5osg68bcTKexwlWFMjFoqVHlc=
+pfausp02vm7fprvcelgln5r60pusfp87.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pfi6kdmq6ikgkspp9lk5qggu1ovulcsq NS 

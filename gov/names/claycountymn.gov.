@@ -1,0 +1,5 @@
+6n3cto87jfbhcthbmuj1n5uc5sjttdul.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. eULwF0Kswcbt9wjVJqUW1YGhKT66ip6DP5ycirLlYnXF6cy0KD03DCF45iJRi+0X2OQOp52IyXXieUPdYET6Hqv2WVtvRaHBpULDzAJw4gLzOaj4e9MvCkezhj4B7DudvyXq/XOflZQhr/1GtGtJHdyjDvGXz2C8tYs1nTthsW0=
+6n3cto87jfbhcthbmuj1n5uc5sjttdul.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6n769t8t9652ptdlqsdludf6kopl7cbd NS 
+claycountymn.gov.	86400	IN	NS	ns1.state.mn.us.
+claycountymn.gov.	86400	IN	NS	ns2.state.mn.us.
+claycountymn.gov.	86400	IN	NS	ns3.state.mn.us.

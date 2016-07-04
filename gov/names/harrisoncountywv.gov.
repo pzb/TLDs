@@ -1,0 +1,4 @@
+d6579gkkt24hofv97gefljmqighat059.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. GaM4ETpSb6ZkVI8CND/PwpJcGZUR4ZK/odV+cjjUvGYvHCsE7aGAjhstsRXvK/1/PUjyTYC8aEiMppC+U5/ntlHlWNakFn0JgwzKtLqnv42sXNZScDmPYFruvJQuHkqb2fB8JbNr+HUJkxRnZO3bxOyFTOxvCQAEQqiNIIASC4c=
+d6579gkkt24hofv97gefljmqighat059.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  d688sr84in8i9vh9978lh5ttlbfa3uno NS 
+harrisoncountywv.gov.	86400	IN	NS	ns1.harrisoncountywv.com.
+harrisoncountywv.gov.	86400	IN	NS	ns2.harrisoncountywv.com.

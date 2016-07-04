@@ -1,0 +1,7 @@
+southcom.mil.	21600	IN	NS	scucer02-09dns01.southcom.mil.
+southcom.mil.	21600	IN	NS	scusatbq-g13dns03.southcom.mil.
+southcom.mil.	10800	IN	DS	13324 8 1 7dd42ac2a503c3d47041ebb2a88e40dedce8d7b2
+southcom.mil.	10800	IN	DS	13324 8 2 0a6719b384dd76ff5906205a1cf1b2149907a8303ebcb900a4cc60807a09a631
+southcom.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. fy+Asc/i4umKmdliii7+EEV+h+k3iwo8YjMmVUUgsRZP+WwmchJuSRkwU3HwQyXFbkjqCOO7IGA7RP1E78l8unc6iN57PWqHiN0xcbqiG/ilWGmOEQbPz0Ic2H0Lwv04EOgplSH3wEECS8w9lTCaStC5pT/BQYgaUJpxnfrrDQ+jzxE=
+scucer02-09dns01.southcom.mil.	21600	IN	A	130.22.36.4
+scusatbq-g13dns03.southcom.mil.	21600	IN	A	130.22.177.211

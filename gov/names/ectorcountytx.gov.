@@ -1,0 +1,7 @@
+ectorcountytx.gov.	86400	IN	NS	ns1.cira.state.tx.us.
+ectorcountytx.gov.	86400	IN	NS	ns2.cira.state.tx.us.
+ectorcountytx.gov.	86400	IN	NS	ns3.cira.state.tx.us.
+ectorcountytx.gov.	86400	IN	NS	ns4.cira.state.tx.us.
+ectorcountytx.gov.	86400	IN	NS	ns5.cira.state.tx.us.
+kbss662sd4o5ui2kk2sqqa7u4231a09s.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. kCuUJX5UR2bzPWLjKcK7jhBIIPSpGsoai+2N22A/gLKXxFQV+hI6PAXVfZTOaeSnAdnvIUVuzmmsSHx7NTcw55pYDZV4ZiqfmuxRAxXsMnwtHqV5XRiQytx9BamwJ5yEP/mry8+f+ZX6FKAEzR99rGaE3zFoiDHlyzlQseNfr0c=
+kbss662sd4o5ui2kk2sqqa7u4231a09s.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kc0lmmvb4um8gnlcol7mk817t5qlgl1e NS 

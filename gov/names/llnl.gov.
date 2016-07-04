@@ -1,0 +1,9 @@
+llnl.gov.	86400	IN	NS	ns1.llnl.gov.
+llnl.gov.	86400	IN	NS	ns2.llnl.gov.
+llnl.gov.	86400	IN	NS	adns1.es.net.
+llnl.gov.	86400	IN	NS	adns2.es.net.
+llnl.gov.	3600	IN	DS	21150 7 1 84a457d0aa0d5342c9c9bd992ff08112d75e84b5
+llnl.gov.	3600	IN	DS	21150 7 2 7de1b56e9c8b497ec8b5d0aca4db0253cbd4bf4ead8eea307df8112f8b0394a9
+llnl.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. GGQ7je1CMYa2s36augFEdVaQtSNOzVRlhtC7X+Ja2YZ7Sg5HwMG9v/XdGYL+OwIgu1SCMfhl29TkiUVwOlTuM5ys3zZQyfT5Y1Fvj98AleVp1Y2UpHitX8q8bGT0oSvQiPLi/iQSSh3PX/osEQUxvYKi0a5AWLaQg1QSQCgl7kA=
+ns1.llnl.gov.	86400	IN	A	128.115.249.51
+ns2.llnl.gov.	86400	IN	A	128.115.249.52

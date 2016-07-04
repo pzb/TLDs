@@ -1,0 +1,9 @@
+distribute.mil.	21600	IN	NS	adns1.ustranscom.mil.
+distribute.mil.	21600	IN	NS	adns2.ustranscom.mil.
+distribute.mil.	21600	IN	NS	adns3.ustranscom.mil.
+distribute.mil.	10800	IN	DS	52132 8 1 8497496f66ea24d65d8a330b0a3850d45eb00555
+distribute.mil.	10800	IN	DS	52132 8 2 5a36b934753ad710a36b26b91a86601abb7d2e4482fb365136117ad543a2fcc5
+distribute.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. NoBRh+HhPQvNmyj3wKkwO6Ig+a8m+xc0QExfWZPIh27IExB00o86kk19Jm1R7/B+NyYsFTyg08JHWw/XGBEnkIX5e4PDECs1KM+ipakdBHAmcJEuxZ4vmPbdTTFi+xUc43FPefrV6U2hazUInqV1CY9kpjG3KcQZAG7hyb1CjUWbGeU=
+adns1.ustranscom.mil.	21600	IN	A	214.3.17.232
+adns2.ustranscom.mil.	21600	IN	A	214.3.16.232
+adns3.ustranscom.mil.	21600	IN	A	214.4.156.232

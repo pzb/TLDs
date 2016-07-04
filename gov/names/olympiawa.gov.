@@ -1,0 +1,5 @@
+ok73o41dfehgi99v2k0icvjltbbngk0d.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. aZk3n27OcwTF0ARP2lM0+Ev60Yy1O41er+BV0ilIMwJybMcXWTq0txwACtCnVjjETDdK2yPkvQ3Oq0pCqM4uB/bBY59LDY2H9Lftmftlm/K9tJE+yzd618Aek1qiyTqygcD4NQzji1rkzZDrVw3qgqSwuiAUqBRBx5Z4J0C0OW8=
+ok73o41dfehgi99v2k0icvjltbbngk0d.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  okbbtdi8n3mkt498mii2a5err89413ck NS 
+olympiawa.gov.	86400	IN	NS	ns1.worldwidedns.net.
+olympiawa.gov.	86400	IN	NS	ns2.worldwidedns.net.
+olympiawa.gov.	86400	IN	NS	ns3.worldwidedns.net.

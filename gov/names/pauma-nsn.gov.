@@ -1,0 +1,4 @@
+cut7vbodos284qnuql0fc7thbf3edrva.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. No5bksyyjrwUFRvot8JSbfTFo8T/ztzlZd9USJZga77t4VMAcraIBpOL7bYmNVjd9c8A4WEvdF1TdP6FCX+0Ixf8uDW87/YC8pc2NKp04nN1vRSiOcwgwq7BdSY3Xl15O+ZG16tZM3097YSwOQHizy9k/RtGWIDMBv1t0+NX5Ys=
+cut7vbodos284qnuql0fc7thbf3edrva.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  cuvlld788rjf8m8cnisrkp9m9r505p8f NS 
+pauma-nsn.gov.	86400	IN	NS	dbru.br.ns.els-gms.att.net.
+pauma-nsn.gov.	86400	IN	NS	dmtu.mt.ns.els-gms.att.net.

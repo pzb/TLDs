@@ -1,0 +1,6 @@
+ru95m7ielj6s5082m1gd026q6fv01ah0.mil.	10800	IN	RRSIG	NSEC3 8 2 10800 20160708161835 20160701161835 16413 mil. ftw/E7K7Q7HPI+q21ZSfryVrkN4i25bubAHJTHyjCcgdUmXbIny9eVNFC3vogU4XzzH95Iaukb+ZA0sXpfHcL/oIBrEyTq5Xtwhn6HFtlPu5wO3Wi5I39upzR23ZX/foZwiwwq/TmEr2k2VJESeIt2uhmEGpmTjfGRjrh93BvVykPHA=
+ru95m7ielj6s5082m1gd026q6fv01ah0.mil.	10800	IN	NSEC3	1 0 10 adeb  s1bsip39p7ue856gblfnldl6kana4umi NS 
+whmo.mil.	21600	IN	NS	ns1.whmo.mil.
+whmo.mil.	21600	IN	NS	ns3.whmo.mil.
+ns1.whmo.mil.	21600	IN	A	214.3.140.2
+ns3.whmo.mil.	21600	IN	A	214.3.115.13

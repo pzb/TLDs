@@ -1,0 +1,6 @@
+tpc.int.	86400	IN	NS	ns1.tpc.int.
+tpc.int.	86400	IN	NS	ns1.simkin.ca.
+tpc.int.	86400	IN	NS	ns1.covalent.net.
+tpc.int.	86400	IN	NS	ns2.simkin.ca.
+tpc.int.	86400	IN	NS	auth02.ns.uu.net.
+ns1.tpc.int.	86400	IN	A	216.152.192.130

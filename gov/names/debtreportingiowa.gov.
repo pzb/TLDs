@@ -1,0 +1,7 @@
+9dvrco4r1cb5u57sjdtkdcab0gbjc262.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. JOT/VxHFc9rZYL1mcNfzE2e7wudfOXUTRFCIpnNxtX1HuDRO8ZFAw6u45qxKecgHtk8dq7bOq0nd9cnBpZTXL7Q2p0QrN+DjpDTO6qH1gGRiQMJGoJuD/DuAINJlK8DxPtzQNYnUUD83HFYawYzRk9du9IehOjocNMnJzlp/hJM=
+9dvrco4r1cb5u57sjdtkdcab0gbjc262.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9e6aid07r4rptfk1dub1hbis6ah269nv NS 
+debtreportingiowa.gov.	86400	IN	NS	dns.iowaccess.org.
+debtreportingiowa.gov.	86400	IN	NS	ns1.iowa.gov.
+debtreportingiowa.gov.	86400	IN	NS	ns3.iowa.gov.
+ns1.iowa.gov.	86400	IN	A	165.206.254.145
+ns3.iowa.gov.	86400	IN	A	209.56.120.13

@@ -1,0 +1,6 @@
+41u5nj8ees50kca8aut3o01vutr4kno1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. WFtTl6ce5PTD20h4E6rzshiR3RTwmwl8Un5yfnZ5S2YcUVuVbONojntPy1hYu8m1V3uFVKFD0SgwphJ1IxoWCB4pRLhawHyo+IyPSglydx8ghS8pecGnY1SAjCXtkU6vsph/maoWtMOjLLI7/Zm5QBE5S+jFjvF7Uf7zyhQa3vs=
+41u5nj8ees50kca8aut3o01vutr4kno1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  423qqkudfhrloocctvabppt235c5k88t NS 
+bighorncountymt.gov.	86400	IN	NS	ns-7.awsdns-00.com.
+bighorncountymt.gov.	86400	IN	NS	ns-1016.awsdns-63.net.
+bighorncountymt.gov.	86400	IN	NS	ns-1272.awsdns-31.org.
+bighorncountymt.gov.	86400	IN	NS	ns-1811.awsdns-34.co.uk.

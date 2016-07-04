@@ -1,0 +1,6 @@
+h8denlb83egpi93mmvq9j7vh1f1gm91c.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. FbXy9zp3kPssmUehVUhuvNt0UxT+2SA3n4UOkUO9sGUhgrcXSahEn2lk2G9HKIGlbldUkpRNZyLwPHqck7W/wjdmLxyBR/zEW40GGGl92wP/t7NtT2q4j0eTtQHolBMlJ2eXBoP3Pv6wDpGIJcAiEbwTmW7s4ocMy3BqDvNq0J0=
+h8denlb83egpi93mmvq9j7vh1f1gm91c.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  h8pu1a2es1ij3vbftk3aq9a40i2ciole NS 
+winnebagocountyiowa.gov.	86400	IN	NS	ns1185.dns.dyn.com.
+winnebagocountyiowa.gov.	86400	IN	NS	ns2164.dns.dyn.com.
+winnebagocountyiowa.gov.	86400	IN	NS	ns3140.dns.dyn.com.
+winnebagocountyiowa.gov.	86400	IN	NS	ns4183.dns.dyn.com.

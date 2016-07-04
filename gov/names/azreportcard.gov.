@@ -1,0 +1,5 @@
+azreportcard.gov.	86400	IN	NS	ns1.lnhi.net.
+azreportcard.gov.	86400	IN	NS	ns2.lnhi.net.
+azreportcard.gov.	86400	IN	NS	ns3.lnhi.net.
+pd4mtqf2pat6vfn2ht5hlprese0gpfsm.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. VdrK1bjBlYgVeZT/HWPC10tzhxH+g6ofzr04cKbgU+l/Ot7qFAufAg07pVtYJAZuFRq/irgxNWW+bagymwNQJOum9Vfu0iEWP+NIb1x97/ggD3MBhzEgg+V1u47TC0fn7bhLJrfsCKZ/sYSg+wSGl/c9RHekGVgMm8t2ofjDgUQ=
+pd4mtqf2pat6vfn2ht5hlprese0gpfsm.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pd5km5qtao2q5kp1sbq1i7rdaqc5nr87 NS 

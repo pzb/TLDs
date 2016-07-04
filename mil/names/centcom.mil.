@@ -1,0 +1,15 @@
+centcom.mil.	21600	IN	NS	ns4.centcom.mil.
+centcom.mil.	21600	IN	NS	ns5.centcom.mil.
+centcom.mil.	21600	IN	NS	hqnxdn01.centcom.mil.
+centcom.mil.	21600	IN	NS	hqnxdn02.centcom.mil.
+centcom.mil.	21600	IN	NS	sxnvdn01.centcom.mil.
+centcom.mil.	21600	IN	NS	sxnvdn02.centcom.mil.
+centcom.mil.	10800	IN	DS	55477 8 1 61da8bea5872f3b22bb13848f5c8bab043784574
+centcom.mil.	10800	IN	DS	55477 8 2 da97c9aa3295f1152c233c2c3c3d2683ad97ee15fbfebba6d85f14fe6e53186d
+centcom.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. Rizra/sExqZhDbToe84qE5necP9noM7xFmEBv4bSJDTUlFLjHSBVDcgmMy4WEPpt7iJoS2nSIG/F2R14o0TgsF3FOydyGZs27AAmBpBv6J+l+NA3H7BjG8w4zW5U8ceSY/lS0P270WUMk+4B4UzzcykFvAPF3qXymioJTLd10WlMTsI=
+hqnxdn01.centcom.mil.	21600	IN	A	214.26.69.26
+hqnxdn02.centcom.mil.	21600	IN	A	214.26.69.27
+ns4.centcom.mil.	21600	IN	A	214.27.97.51
+ns5.centcom.mil.	21600	IN	A	214.27.97.52
+sxnvdn01.centcom.mil.	21600	IN	A	214.26.164.155
+sxnvdn02.centcom.mil.	21600	IN	A	214.26.164.156

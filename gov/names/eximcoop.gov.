@@ -1,0 +1,8 @@
+eximcoop.gov.	86400	IN	NS	ns1-auth.sprintlink.net.
+eximcoop.gov.	86400	IN	NS	ns2-auth.sprintlink.net.
+eximcoop.gov.	86400	IN	NS	ns3-auth.sprintlink.net.
+eximcoop.gov.	3600	IN	DS	41103 7 1 f8ce7e21bd0a5825f0fc06035610ef123c96321a
+eximcoop.gov.	3600	IN	DS	41103 7 2 b122e3a83afd5146f0d2c039ff36dc0e64bdb5d29f9596d9c8becb6855bc8f9e
+eximcoop.gov.	3600	IN	DS	64713 7 1 065b00a93fae24704c17b3de429dc31e73cdc157
+eximcoop.gov.	3600	IN	DS	64713 7 2 e548b92a5a2b0d56318979d87816cdc015403bf15c6be609d74486e051f0bfe0
+eximcoop.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. soFh228kE2uL1fRG4nJXEaqZWrZTyhTlBGYKEepPlja1k5XjtZN+cTPhICPVpyFo7I3pmFgfzt0rJLaZL9ZMi50RxVJYpVRydV4VLkAfGs83z5JeOI6acCv1VjoQOAFrlUZ6LLHYiKz6UIjfVbo6zAynsXgrPRrz1PDtc5nf3tE=

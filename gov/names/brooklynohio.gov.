@@ -1,0 +1,4 @@
+brooklynohio.gov.	86400	IN	NS	pdns01.domaincontrol.com.
+brooklynohio.gov.	86400	IN	NS	pdns02.domaincontrol.com.
+p34ni69rmveac8e1a5nvumf1dpa167lu.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. OzsVqbXZjNAoC9z7H7RmPyDb1CyExbQQHD7FWM3S3D+qJQED7haQTwdQQ/Qhadch6jtKNBAr+ln2gHhGc9MzgKrmkYWTiLblLUptyrSa2vBl1gr5jfhyIIkiTlmenVAWDo6SojK1Swez08VUma7t618PMuUuoxfSXy1YF/5WyKQ=
+p34ni69rmveac8e1a5nvumf1dpa167lu.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  p39j1pacipph8nmnl3f0b6gqu40std3s NS 

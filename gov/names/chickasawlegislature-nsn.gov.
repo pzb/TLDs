@@ -1,0 +1,4 @@
+chickasawlegislature-nsn.gov.	86400	IN	NS	ns5.chickasaw.net.
+chickasawlegislature-nsn.gov.	86400	IN	NS	ns6.chickasaw.net.
+lcvslfhtqh930ofpnf05qpvt6svqusd3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. agO0c65u7iATa0TNWFTMqUgQUkrlBEE7+od0MQIsi/ea6Pi/f4BmiTyo6phtl5Dg4/n5RV176OU30GcOiXR70ty9IUFGPQHCfB5Tyy+rRmJKrGVFpF8PrhQUxmgOvk6wyhkC/SS2IPIb9BE3k7L6yf924RFHiiSJz+GrLv9701s=
+lcvslfhtqh930ofpnf05qpvt6svqusd3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ld5j0kmac30dp9hb3qt9u951tsilr7q0 NS 

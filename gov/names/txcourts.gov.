@@ -1,0 +1,5 @@
+t9o07gc812m5rdb5tg3ks0sbd96abq0q.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. BO8n030v/bX685HpQhkZ6LCUm7TZq7GuqBeyyIjwZGGHc+YGOyYLtFXXx3m0+iFffs2uAfu4y3Ef2Z2k4a0MHOgsCmB/HnS7pzDOJXWW9HTYMuJnq1AJuSxYYVVYMLHS3GAT9fwyjJ/3MmkOYRupzLu4alSX6n2CRnvIfIARj/c=
+t9o07gc812m5rdb5tg3ks0sbd96abq0q.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ta0fsagbp87tiff9cm5b46ocnpb53guh NS 
+txcourts.gov.	86400	IN	NS	cns1.courts.state.tx.us.
+txcourts.gov.	86400	IN	NS	cns2.courts.state.tx.us.
+txcourts.gov.	86400	IN	NS	cnsw.courts.state.tx.us.

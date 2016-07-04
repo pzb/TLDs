@@ -1,0 +1,4 @@
+0l21iuejbhg6gj3893ku1argmgvs2vrh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. LBhPzsenkRiDPxNDUP2TqKERfmX1TXPcgvwjHO5FCGDm4aKOHmvkGQ/wPCFg/P1ybiyOZNiPmxJv/kY0rpMhMOeiHAOXs7ecZAmX1IcCB2p2fs0EV/Cs9tDsguy54PwLEBVw+K5iqyTsnjfrycDE8kOdfBD/En6OwJpPolmCTqw=
+0l21iuejbhg6gj3893ku1argmgvs2vrh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0l9vq3evhsfvktudt95rqedmu2qi50bp NS 
+hopedale-ma.gov.	86400	IN	NS	ns1.infotech-maine.com.
+hopedale-ma.gov.	86400	IN	NS	ns2.infotech-maine.com.

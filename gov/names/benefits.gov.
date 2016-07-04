@@ -1,0 +1,11 @@
+benefits.gov.	86400	IN	NS	ns1.dol.gov.
+benefits.gov.	86400	IN	NS	ns2.dol.gov.
+benefits.gov.	86400	IN	NS	ns05.dol.gov.
+benefits.gov.	86400	IN	NS	ns06.dol.gov.
+benefits.gov.	3600	IN	DS	18685 8 1 eb407675976ae34f5ad0647a2d927e24dd9a2983
+benefits.gov.	3600	IN	DS	18685 8 2 a2c8c83d5251742223de2fe605ae29652570edc163077480ba3e6c4444c5e597
+benefits.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. rxFv/E5ea1IMI9gM1f5ctOXNcaVVKXIhraC4Ruhak0GDy7NPtZbfbvTOjYvuJzlEy/N/sHIPssXwXOqh79JV7mZQxZyaCdQQoCm0pByYNAIP14l8o3biVHuzF+71Jrqf3i8oyTthMLBKtGBuSa0vPq2SOq3t1XiTB9FEeKl1G54=
+ns05.dol.gov.	86400	IN	A	152.180.11.239
+ns06.dol.gov.	86400	IN	A	152.180.11.238
+ns1.dol.gov.	86400	IN	A	63.106.133.211
+ns2.dol.gov.	86400	IN	A	63.106.133.212

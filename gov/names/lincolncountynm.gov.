@@ -1,0 +1,4 @@
+lincolncountynm.gov.	86400	IN	NS	pdns03.domaincontrol.com.
+lincolncountynm.gov.	86400	IN	NS	pdns04.domaincontrol.com.
+rnokca2s8vackjkb95r5reeb0vlr9pbq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. BGfSAFhtAl9BXLHanwx+NQcNnK0NKVH6y09Tt6NVzN9dX+IXFVK5C2ECH7v0U5vK9E3aWanWmOybn/Y3kl9fhFLD0Z0Q8K6XlzYjs7zp0l/lLXtcu8DSkM2NEwBTgxslcfDpn++nqcYz4uXZlFVUMp/8cvsJNbtawSeynBjCLfQ=
+rnokca2s8vackjkb95r5reeb0vlr9pbq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ro3s2u0aq89f19le4brfejv2j3b33nbh NS 

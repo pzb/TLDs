@@ -1,0 +1,4 @@
+fbk2oitu9djhjuk36pbnbc84u8851shg.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. lQRjtJ6aiYFQ9bvnNSSTrEg+lDsTJkKcb6K1AAstYx6l8LDyokV+g9HscBakH9nRT5mawjCJiZLeGP4+vy4uj5qbPGeddSvPMMEHpAfdkkUWGRYgxFsyJVqmwt/oBj8RzYA3UwHbwJc7CZa/yELAyUgwatABhRmX6VGd7fakTOc=
+fbk2oitu9djhjuk36pbnbc84u8851shg.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fbs23ptt4vdjdsr4eqoignetnocb6qa4 NS 
+longbeachny.gov.	86400	IN	NS	ns1.avenet.net.
+longbeachny.gov.	86400	IN	NS	ns2.avenet.net.

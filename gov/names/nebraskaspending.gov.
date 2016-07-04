@@ -1,0 +1,4 @@
+drod5ti8rg703kn61bfi6tetpufu2587.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. WninF/a4U9U1U89A3kfGJClxyeosvVbvJguYgsUHz9RR5fHZirfopKDMaGVG2vEZS4hvnoK5Rz5xn8eXNmSwNkWSW4ytrvHe6+1mGkca3CdCe/Giae0377mE6CUvmiDVgJWB9tcqAOMVJDMS+19mRR7yClnol2IAnjK9O8y/rWA=
+drod5ti8rg703kn61bfi6tetpufu2587.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dsf3l2ah1apjgea9vbro3p91iikfbra9 NS 
+nebraskaspending.gov.	86400	IN	NS	dns1.doc.state.ne.us.
+nebraskaspending.gov.	86400	IN	NS	dns2.doc.state.ne.us.

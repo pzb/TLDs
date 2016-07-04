@@ -1,0 +1,5 @@
+0qes7dbn457qv4drdns34pcvkc6tjue7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Z+HTjy6V1lSQjZQDJJl394bEvDY0za9KsAnS02uAExWDeoXMyQWvGHV4ILBGWrr8vXt0npeRZpuKzx9Z9NihT41NGXVUSjQhfDcr7XPbWjj0A8KxQVghuTbcTODqkPoTKaPM4Xu/w9yH79+kfwpiTbfwy1HU5SUUuKMI6Tr2W+k=
+0qes7dbn457qv4drdns34pcvkc6tjue7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0qjtqeca7len6houfb73aobnvo26k4e6 NS 
+badriver-nsn.gov.	86400	IN	NS	dns1.merit.net.
+badriver-nsn.gov.	86400	IN	NS	dns2.merit.net.
+badriver-nsn.gov.	86400	IN	NS	dns3.merit.net.

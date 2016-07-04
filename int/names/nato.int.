@@ -1,0 +1,13 @@
+nato.int.	3600	IN	NS	ns.namsa.nato.int.
+nato.int.	3600	IN	NS	ns.saclantc.nato.int.
+nato.int.	3600	IN	NS	ns1.cs.ucl.ac.uk.
+nato.int.	3600	IN	NS	ns1.nra.nato.int.
+nato.int.	3600	IN	NS	ns1.drenet.dnd.ca.
+nato.int.	3600	IN	NS	ns2.nra.nato.int.
+nato.int.	3600	IN	NS	globe.nc3a.nato.int.
+ns.namsa.nato.int.	3600	IN	A	193.168.11.15
+ns.namsa.nato.int.	3600	IN	A	193.168.15.15
+globe.nc3a.nato.int.	3600	IN	A	192.41.140.178
+ns1.nra.nato.int.	3600	IN	A	185.45.52.28
+ns2.nra.nato.int.	3600	IN	A	185.45.53.28
+ns.saclantc.nato.int.	3600	IN	A	192.106.197.1

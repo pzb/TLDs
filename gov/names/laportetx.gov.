@@ -1,0 +1,4 @@
+7a7mln0kjgtm5llsmc9temc68o2jt2cp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. qvgBSuJyRtsFml4rvz91c9tc1Jeia7qXsaX4wd9ABkCYrNSrgjD2Vc+UFhIxKrRpMS1wJ+A0Ew0ngFPX1cP6Jut2L+cRzYgo1ZCxL5CWWh2VNXvI9V0H45w9uZ+EELxQ0udTqqJAskXprimH8wj/wYx+M1Nz5q8YOH0rmn4Yjr0=
+7a7mln0kjgtm5llsmc9temc68o2jt2cp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7acc6bgt3ci9fknfbpcklk439ve1i7s8 NS 
+laportetx.gov.	86400	IN	NS	ns1.sbcglobal.net.
+laportetx.gov.	86400	IN	NS	ns2.sbcglobal.net.

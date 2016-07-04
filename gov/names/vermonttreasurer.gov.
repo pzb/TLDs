@@ -1,0 +1,5 @@
+vermonttreasurer.gov.	86400	IN	NS	ns1.state.vt.us.
+vermonttreasurer.gov.	86400	IN	NS	ns2.state.vt.us.
+vermonttreasurer.gov.	3600	IN	DS	58261 8 1 1558d7eeb9d4e6852fe83f058e193455fd8ed6b6
+vermonttreasurer.gov.	3600	IN	DS	58261 8 2 ed029bd6914ca1b7d4656dfa5947639743f4d4fdad3cb233e05d847ff908e0fa
+vermonttreasurer.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. mStGtwcZCfrFM62R1I6F0vpzblbAwPFJpDbkJ8vcMwWMOBuQm1rvi/xp1ss8IxahSckHG0XEGcRx4pOtCPeD1KZlXnfVaLXMgEFEB4+Doq3ltO7Wg2ROTdv0mdBPajyX0UHApblJ+jsw0nUjOUSSSW2At4lMLDWbSVUhKTewxpA=

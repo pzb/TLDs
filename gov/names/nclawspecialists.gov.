@@ -1,0 +1,5 @@
+7phedu6pvmblpd55sq53q6nf3ri23gd3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. L/pFzjBM5YhEfW8B6Vilq7Bda9tBXaVsI+ILbZZEHtZ7b9f+6oymMjjD5MnWHlv1MHKL2T+gMDZF7Md9i4WnjTPa2FxL2GohCtY4mPC2zt1dL9oFBtkTPmV82OjIaN/M6UJMZI/5S6lBR4AvtKHOd/wH69Gp7TncCxSkLEliBjw=
+7phedu6pvmblpd55sq53q6nf3ri23gd3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7pio5i6vr5tgp2m8s4sreg1cjn1nqs31 NS 
+nclawspecialists.gov.	86400	IN	NS	ns1.biz.rr.com.
+nclawspecialists.gov.	86400	IN	NS	ns2.biz.rr.com.
+nclawspecialists.gov.	86400	IN	NS	dns4.rr.com.

@@ -1,0 +1,4 @@
+buiqeap20stsjnuhvh008qr7428abo8n.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. XKb7d9wp+YtH6gspb9YnJGo3E5hE4q14rIRv/8koUqrHMlHw/ClnFPzVtZNTLsH57eIl2Wu0d0pfjreUdnniBqGNg/IpPSYpvsZYxeaBxIGNPtPlPXORyCYi5Qv0ECAdvwB7s1toPJiXzwiY9u/5IF44Qf5wDoWeZcjQ69omJW0=
+buiqeap20stsjnuhvh008qr7428abo8n.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  buo98585m9bolp3ee0enit7adjausma9 NS 
+sandpointidaho.gov.	86400	IN	NS	wilbur.ponderay.com.
+sandpointidaho.gov.	86400	IN	NS	charlotte.sandpoint.com.

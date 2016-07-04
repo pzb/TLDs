@@ -1,0 +1,4 @@
+cd5qdurq8v1iq9554lp64887s0jge759.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ZsPqUUuOSOfQw1n9LUFU3jS71WQ7NwWzGdqBvKjIQ8WyrSrE48nmv4X3tiJN6r+xlmCgvHDl/a9uJz1+qlyzI0vKqQyyqkFadUxYFbKaTScI968EPbGprtqfeQdItpzPVH+xFk8RS0n6q4yji5hZlbl3YShOumytg1OMvWe8MlI=
+cd5qdurq8v1iq9554lp64887s0jge759.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  cdd7ajp9tg0sq461va0ukaetdoncmipm NS 
+mcminncountytn.gov.	86400	IN	NS	dns1.lgdpc.com.
+mcminncountytn.gov.	86400	IN	NS	dns2.lgdpc.com.

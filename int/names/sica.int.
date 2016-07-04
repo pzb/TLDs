@@ -1,0 +1,4 @@
+sica.int.	86400	IN	NS	ns1.sica.int.
+sica.int.	86400	IN	NS	ns2.sica.int.
+ns1.sica.int.	86400	IN	A	201.247.105.177
+ns2.sica.int.	86400	IN	A	201.247.105.193

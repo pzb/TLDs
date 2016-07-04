@@ -1,0 +1,7 @@
+andover-nh.gov.	86400	IN	NS	dns1.name-services.com.
+andover-nh.gov.	86400	IN	NS	dns2.name-services.com.
+andover-nh.gov.	86400	IN	NS	dns3.name-services.com.
+andover-nh.gov.	86400	IN	NS	dns4.name-services.com.
+andover-nh.gov.	86400	IN	NS	dns5.name-services.com.
+cccnhb4mhecm28eeaaclhblmi8ah8sm1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Ed+Hqt4RTIqoknCQgqunHz5RWGixghBM/VSct0hQFim121R3t2F8IR5I+DuMEcR5XaN0/gv4ZEOV412IuGVCoTWBxj9s65gCIUSXpY0mS+sCuAT0QbkptRK0mHIr1RfDf+f/rRSea1mZK4kHqONA+WxEU9q0O4gKHs/6FOsG7vk=
+cccnhb4mhecm28eeaaclhblmi8ah8sm1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  cce4mcgdjmle4b671i01ku6il87a0cl3 NS 

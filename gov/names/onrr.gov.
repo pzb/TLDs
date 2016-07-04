@@ -1,0 +1,9 @@
+onrr.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+onrr.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+onrr.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+onrr.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+onrr.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+onrr.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+onrr.gov.	3600	IN	DS	3977 8 1 d60edf8ce13d64899d4d87120d2ba6765c312b09
+onrr.gov.	3600	IN	DS	3977 8 2 6a73cb7dedf9aad64cf876bcc3434fb65944ced2c2cfb21eb64870ba38f79c22
+onrr.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. JjVfyoPrC4itEKeHMr5R0LZ4hCx0WzSnzLS8hytjW2cXCnz4C+UawOHftB1PaRmNKvRBaF+uuj0t3QsPjPFIaEc+x+qnkfnLmX/In6LW74wnMAX1sTqxMkFlquMnPZcQZ8wdWviChoBfnG/pUZpcpW1ooL3tZemADzntmVnnVKU=

@@ -1,0 +1,4 @@
+m4sr1l8fdu2gr0jaebr1apua1r8fs6bu.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ky03BQMrqpxclbQt2zN9TPGeSL+6OgOsDYitnkGknWCA2p4wWXe2mIJhkvuTiBi+lEp0MVx294SDF54p3JAilf/wPQ7QJGfdysgjIu3fSxduIm1EdKnY9DVUHkw4e6LV/xN+zyEJgrIW7dagjcOhyIUFyc+HDCMWT/Ay4F77fpU=
+m4sr1l8fdu2gr0jaebr1apua1r8fs6bu.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  m50q58q1ipkq71gcm8k4b6mi8jkpaicj NS 
+speedwayin.gov.	86400	IN	NS	dns1.sbsindy.com.
+speedwayin.gov.	86400	IN	NS	dns2.sbsindy.com.

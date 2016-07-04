@@ -1,0 +1,4 @@
+berkeleyheightstwpnj.gov.	86400	IN	NS	ns.liquidweb.com.
+berkeleyheightstwpnj.gov.	86400	IN	NS	ns1.liquidweb.com.
+p5elj7etb52srqkotb57lgt2vc8eilh8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. XsIU/LDs6yOqncUt9/cCq7jablSfBBMcRWU31w0kseIJB1uqyNXdbu+kccEczQlCTIHJXAlQm1oVVQy6jadb1QgbJnvspictxwJiS7x493svmNPyLicaYWLiFzTiBMzC7j2fZbjJJTbYrxqxgiZIEpLjOUe60ieWCpQugxNdcWc=
+p5elj7etb52srqkotb57lgt2vc8eilh8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  p5npiun42r561vmd0e5d5te7ib0a57i8 NS 

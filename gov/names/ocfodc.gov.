@@ -1,0 +1,6 @@
+76u7lsh5aogq7c821k8qk9oakvmuhidh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. I1qu0zZRi9lw+C4P06iZu6Bp9vzJkHYFEUqzh/kQQsXVrF5Lo/4VPHs8u8DcxJ0sdJXNp7KBR1Uq5/9Bo0G3y+Rwv2nkrAmJaYSZ7DbSOL2wsGuIBrzlNtjMyAoQJfeXPLWyBzHIoipn2v7KAEWjUmQ8jXCwems33yw/oIsO7SI=
+76u7lsh5aogq7c821k8qk9oakvmuhidh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  77gniclf9dr9iosee0d13h702q58v7pi NS 
+ns6.dc.gov.	86400	IN	A	164.82.8.15
+ns7.dc.gov.	86400	IN	A	164.82.41.160
+ocfodc.gov.	86400	IN	NS	ns6.dc.gov.
+ocfodc.gov.	86400	IN	NS	ns7.dc.gov.

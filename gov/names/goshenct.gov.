@@ -1,0 +1,6 @@
+94oon8v24tjf2aeuvu9skus99gj1jgsi.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. CylmXmzVXYt8k5QOjXFNcr3MevzPgPN0B/aN2jDswPZvvZkOmbauaZ/11f+WimVycq7bzGmr3NGC8olp9JXl2Du7nSbMdkr85dhmNMVcMj7j3gVvejrAkDE4/0uevpIWHZH3ANFT4pMNluRbrB3AptbcjJ2wK4V0FcyQQKb4mpk=
+94oon8v24tjf2aeuvu9skus99gj1jgsi.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  94th2sfd75e9cclkkec7ulhfveiv41ht NS 
+goshenct.gov.	86400	IN	NS	ns.infotch-maine.com.
+goshenct.gov.	86400	IN	NS	ns1.infotech-maine.com.
+goshenct.gov.	86400	IN	NS	mail.goshenct.gov.
+mail.goshenct.gov.	86400	IN	A	69.177.100.118

@@ -1,0 +1,4 @@
+13h57puvo9jqef7s0m03rql9pqjqfqae.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Xw9HX/+HHX3JivYHqS8rfI+wyIZsfgJ0B8pNRB5ayUtFxqpKXvoBQkcvFaCASozIP+Aw7YwJ7JrQcNL4KbYDnJOuRVuHFVLri+oEcwJcYk3WsipKpMmnjs7YjkTiutZ7UXO3FsLd1oY8yZXXZdfmdHDzI0asiRfiHk7rjV70C5E=
+13h57puvo9jqef7s0m03rql9pqjqfqae.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  13kstntvg4v0j7np3il0p1vf8v08e71v NS 
+pharr-tx.gov.	86400	IN	NS	drew.ns.cloudflare.com.
+pharr-tx.gov.	86400	IN	NS	ines.ns.cloudflare.com.

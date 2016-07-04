@@ -1,0 +1,6 @@
+sieca.int.	86400	IN	NS	ns1.sieca.int.
+sieca.int.	86400	IN	NS	ns2.sieca.int.
+sieca.int.	86400	IN	NS	ns3.sieca.int.
+ns1.sieca.int.	86400	IN	A	216.230.140.100
+ns2.sieca.int.	86400	IN	A	200.30.159.228
+ns3.sieca.int.	86400	IN	A	168.234.48.163

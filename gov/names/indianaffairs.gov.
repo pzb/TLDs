@@ -1,0 +1,9 @@
+indianaffairs.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+indianaffairs.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+indianaffairs.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+indianaffairs.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+indianaffairs.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+indianaffairs.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+indianaffairs.gov.	3600	IN	DS	35028 7 1 42cb3a239fb47aca05abf46a70344bbe3dc9814c
+indianaffairs.gov.	3600	IN	DS	35028 7 2 46ff0ebb05b113923c8b9ebbd58f8c964eaad98d9f0e80f1c4807f14eb37dc81
+indianaffairs.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. DgIyTwLc4lnJhpT/TJDk5/zu/IQOL2p9uXk9ACO9LuRg3RJt82NsfLA4Y6wjv0xVnabtDbXV34qd40yOX3zrQVM05AwxCBU3REZeo8RKL9mpp/YwSaS+SFGjGfo1ctcGUWXK95+0vFREHy3fK2G6mLWhUo54shhDkriyKft1okI=

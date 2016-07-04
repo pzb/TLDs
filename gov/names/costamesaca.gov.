@@ -1,0 +1,4 @@
+b7q796990eek143tgn4779bova2kttab.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. TqYeacKM7rAATFMm/J9X1NhmFCMGFmhbGNSbfLTPwgYCh+feL7+79AxiTIlLYTe/sunwIe1rjECSYKC7Hca1rfmbMLIRFEFhs0vSEU5nl1+hk8+mf274ARs3adxFYZ3Zq3szScGDkiFzAY+lIcF+y8fI/MU43n6EsT4okJCfl+o=
+b7q796990eek143tgn4779bova2kttab.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  b8b0khaua37ep6dkje6j49mcqg8onoh1 NS 
+costamesaca.gov.	86400	IN	NS	dbru.br.ns.els-gms.att.net.
+costamesaca.gov.	86400	IN	NS	dmtu.mt.ns.els-gms.att.net.

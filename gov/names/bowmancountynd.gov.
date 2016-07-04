@@ -1,0 +1,4 @@
+bowmancountynd.gov.	86400	IN	NS	ns3.ndnic.com.
+bowmancountynd.gov.	86400	IN	NS	ns3.state.nd.us.
+qdnc9ebmjb8qb8vjt3e40p9gidnlrl9h.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. WVErvOsf4Bs6bOh7O1LXBXVfBrs33hs6vxykbmU+nHyW0PnmRrBFeujReQzxOmde81dxFMT77Hul2eQx0INEFqzoI23LPb9Kmy3YUDgKYeBTWwRu/r9ABXv/Pu8Exx53/pZB0un5rRgIE/TwSkFgK0xnWuKZlADf7JX+mzQCR+c=
+qdnc9ebmjb8qb8vjt3e40p9gidnlrl9h.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qe03cva572d92mpplt7juu4l6kolt0t1 NS 

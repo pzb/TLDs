@@ -1,0 +1,4 @@
+f1v98adhhjfdpvpafcjvjhu7ghl4q36v.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Q4X1ZSxWLiG1652vm1ZWeVospK2zbG4Uf6FR+uP+GVpfiiMcUnRpA1un5uNJfwcn+hsmoDuOnpNTbyaocSTwkcfNRoB4oVR7vB5Tqd5ucyBHEq3Lkc4Jo4vanNAubKOohkORhTg2q4tl1bCn0yw71F9SX0Aq17Gzt04BosslIj0=
+f1v98adhhjfdpvpafcjvjhu7ghl4q36v.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  f2cqqcim7qt9tktu1tlleb26nsjifv17 NS 
+transparencywv.gov.	86400	IN	NS	dns.state.wv.us.
+transparencywv.gov.	86400	IN	NS	dns3.state.wv.us.

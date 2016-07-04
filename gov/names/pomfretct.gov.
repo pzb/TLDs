@@ -1,0 +1,5 @@
+pomfretct.gov.	86400	IN	NS	ns1.infotech-maine.com.
+pomfretct.gov.	86400	IN	NS	ns2.infotech-maine.com.
+pomfretct.gov.	86400	IN	NS	ns3.infotech-maine.com.
+vr0ne2rfvq9rf2gmrfj352qrpqsi4mfu.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. pXRTF3xXI5O/fzP/yf31NuIH+bvTPW3Mqk7OPXbSNiBXWpjLuoRKdHzWh6pU2kdZ0DH18qbhnhlj+0xySezDHAELA7qklbXLXp5uY0jUH9ZOuEAACkgv6y/bE8oFaAQkGWJSrgpTgPWOSPJUOlaLLbJKrY8j/eiD7qu14qV7xyM=
+vr0ne2rfvq9rf2gmrfj352qrpqsi4mfu.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vr6abbj3j7gqknrjm0c5cpvp3frp1hfr NS 

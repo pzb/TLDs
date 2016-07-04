@@ -1,0 +1,4 @@
+cityofgalenapark-tx.gov.	86400	IN	NS	ns43.domaincontrol.com.
+cityofgalenapark-tx.gov.	86400	IN	NS	ns44.domaincontrol.com.
+dbp97v7louov0tbde2jhtpd9kkaa7fko.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. dC9PsRSt+bdV0izs4VGCMSsxsGUh5GBMH7aY5W0TBTCeoYvDmWH981/+67aEhp+LfFF40agjHviP5Ad1P4T/6B7I6MgYWuZ3frnorJg4NRuQDUQJ8mt/Zu08Bsy44nEk9lQDx15Q0fpisxnUSbkejFAZuNQpZ9eP6Jks3TBfw9E=
+dbp97v7louov0tbde2jhtpd9kkaa7fko.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dbqdhfefpmgn6ot5otqq5emv1grdc573 NS 

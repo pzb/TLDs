@@ -1,0 +1,4 @@
+i1bnliidadnlesu2rqn2ipuu8bbofhft.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. F81v7lnALc6AKV8Smhl7Y4J53rV3JFBuL8ZKzzgYmU2OrfX6RV2froNAEz7LOvOimUGgDrgHskpa/TiebiHnRmvB+zcQNY4hKhViYuH0/7MqO4sS1V0s3hIE/+1j7FV7gYNmAso24sJlfdxQ/8S9N11ZVkZDOUD26lX78VLxLjg=
+i1bnliidadnlesu2rqn2ipuu8bbofhft.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  i1e1ahmni7fd0ai1ki7s8eo1oq9tvulf NS 
+piercecountywa.gov.	86400	IN	NS	ns1.co.pierce.wa.us.
+piercecountywa.gov.	86400	IN	NS	ns2.co.pierce.wa.us.

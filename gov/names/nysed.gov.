@@ -1,0 +1,6 @@
+nysed.gov.	86400	IN	NS	dbru.br.ns.els-gms.att.net.
+nysed.gov.	86400	IN	NS	dmtu.mt.ns.els-gms.att.net.
+nysed.gov.	86400	IN	NS	srv21.nysed.gov.
+srv21.nysed.gov.	86400	IN	A	149.10.221.48
+oerl72649022vfgm0e2jb9eg9mqk3eub.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. eJQT0xtxYvVrZhTkDV6o4+pm7eJjU2vWPmHPsorSLZ/0ooCiOc4wggvx+L9XftYbIZTGNh+C1+ti5dCIqN4BUbq9JDgiQolPTnogomwDnuzs0ZqJWkmIoZMikRqmsatC+PhVqTdbKwvb1ZFZcKU9EmTLjlkvGAXHnzJfitTy4Ck=
+oerl72649022vfgm0e2jb9eg9mqk3eub.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  oerv80kq1hn5b7so234b8rfhirac4bsi NS 

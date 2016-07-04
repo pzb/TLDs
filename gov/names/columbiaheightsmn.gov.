@@ -1,0 +1,4 @@
+columbiaheightsmn.gov.	86400	IN	NS	dns1.civicplus.com.
+columbiaheightsmn.gov.	86400	IN	NS	dns2.civicplus.com.
+djc7s43cq428jdrkmh37n80t5ho3c3uq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. KZhc6/AhpFk4jAbMheIcpaHjJwgx9JB+QBtfUkDRKoltQVttw4CizpQdNLYvnR9VIYOS4oF4d/tXl+68FMRW+qmpNENk900AjBWE3ogCm8bgDFueSgfiu1OugP1TaCLq9wPuX0YprHkX4LKYbRjNcFG9gfazJKDovU9aHGpvyrg=
+djc7s43cq428jdrkmh37n80t5ho3c3uq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  djdvgkl8k7sbkrpdr4oie7361sp0on21 NS 

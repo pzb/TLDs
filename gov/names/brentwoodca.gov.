@@ -1,0 +1,8 @@
+brentwoodca.gov.	86400	IN	NS	ns1.brentwoodca.gov.
+brentwoodca.gov.	86400	IN	NS	ns2.brentwoodca.gov.
+brentwoodca.gov.	86400	IN	NS	ns3.brentwoodca.gov.
+ns1.brentwoodca.gov.	86400	IN	A	209.77.217.2
+ns2.brentwoodca.gov.	86400	IN	A	50.78.101.76
+ns3.brentwoodca.gov.	86400	IN	A	184.23.239.18
+s1f3u44gctmfanqj065bc5qu4ethq5qe.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Xi1w3SzIY6LqKwsVu448SVAr5Dbe4/gC2KKBc29Dpg8sEkB+3MvEiTIs3J2ZisCTyj8ehuAa757H/uQLBZeIRKNQgNX9AlbqppVWjSRyCIifmTQicKLR05Qjz7S8z6hhs0WHZKhJo902w3dbg4zdm+Qgh7A/Cg/jpX57wwPyw24=
+s1f3u44gctmfanqj065bc5qu4ethq5qe.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  s1gqla319k6imjkrd6smmrqc1am8r787 NS 

@@ -1,0 +1,6 @@
+burlingtonvt.gov.	86400	IN	NS	ns1.burlingtonvt.gov.
+burlingtonvt.gov.	86400	IN	NS	ns2.burlingtonvt.gov.
+ns1.burlingtonvt.gov.	86400	IN	A	204.13.40.11
+ns2.burlingtonvt.gov.	86400	IN	A	204.13.40.12
+qvf9m1go7vgqvo4ftmbt9e3ajop9b01o.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. CUWc35gYhs0LwwIVVD6IyHa34tcv3EYMBPrX/C93xnwt4RnuVQxhKOVpnuRe29pgYcjmwJ0qkUzXd2b7EruVSE5tqjKZiqN2H1PEnhsR1NrW43Mw2/OE6hfzBZrn2tPZWW0oO/ZpYEHlu8+E4jwDA9tSiTPLpJx/hJkJaaht46Q=
+qvf9m1go7vgqvo4ftmbt9e3ajop9b01o.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qvoelf5253ua2f0aqbujhtl1u84iemj2 NS 

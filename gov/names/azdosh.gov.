@@ -1,0 +1,6 @@
+4sea5onnbqmgq5envkgf469v67dhbvm1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. bVU0bJ/RGRNbsRyfp+ucQaxE6hZ/eQAlX7Z5pu0crwbla5xA/DB+ox9p/Hpekapa4ZoysYiJUId+d3FDWZjUS7h0DmoGh4JBU+AX0pE8ZbkLWAuQMReuvejsJWG96ABFut1Fw/Y1kNR6OPZosbTNUcPOBcAs331JeoOL7NJui98=
+4sea5onnbqmgq5envkgf469v67dhbvm1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4slf87kj2b0gdto9q29qqvsnm7coktd5 NS 
+azdosh.gov.	86400	IN	NS	ns-385.awsdns-48.com.
+azdosh.gov.	86400	IN	NS	ns-752.awsdns-30.net.
+azdosh.gov.	86400	IN	NS	ns-1100.awsdns-09.org.
+azdosh.gov.	86400	IN	NS	ns-1885.awsdns-43.co.uk.

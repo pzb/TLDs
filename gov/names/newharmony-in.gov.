@@ -1,0 +1,6 @@
+2ntvv616jjo1ks90oldbomuk56kdmeai.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. oqGqy+Rgl72fDnNAegTIK7oOsETox92/UbOj2yL09xyBbhkaHE0+YWz0ozr5KyWLrbBZjdlCwkTIX6m5QDhQDpQFAQabxsUQA4rAgDH73ZybvImffn5lYh4lboir1zcGDlgceyDM9U5zDVl8lLRVfCw0drZvK619QVqBSuxeQ+Y=
+2ntvv616jjo1ks90oldbomuk56kdmeai.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  2nvjhgk4db2muv2sg4kb8fps1qedrppv NS 
+newharmony-in.gov.	86400	IN	NS	ns1.katswebdesigns.com.
+newharmony-in.gov.	86400	IN	NS	ns2.katswebdesigns.com.
+newharmony-in.gov.	86400	IN	NS	ns1059.websitewelcome.com.
+newharmony-in.gov.	86400	IN	NS	ns1060.websitewelcome.com.

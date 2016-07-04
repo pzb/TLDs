@@ -1,0 +1,6 @@
+45osf38sjlhdtengijj850ed3tik8uie.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. MLo0RoJ88s8Cp6HTs39YkN8tJOZjsVPZev87PgkvxVUh8Q3KX9ZT1+qHaYN1yq61QwoOzRfCvs6T7JlRN3zKd/a94p+h4j2E+DwvOBgSJyWgnaDiF9kfqj2zlZCwdceNEEZ+uzLqN2t4H9d3w4paUQgZFgaelmuVcRV1MPUZg5k=
+45osf38sjlhdtengijj850ed3tik8uie.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  45q6gbki4or9t9ev36172fook7jj9c6h NS 
+azgovernor.gov.	86400	IN	NS	ns-34.awsdns-04.com.
+azgovernor.gov.	86400	IN	NS	ns-715.awsdns-25.net.
+azgovernor.gov.	86400	IN	NS	ns-1513.awsdns-61.org.
+azgovernor.gov.	86400	IN	NS	ns-1825.awsdns-36.co.uk.

@@ -1,0 +1,10 @@
+listo.gov.	86400	IN	NS	eur2.akam.net.
+listo.gov.	86400	IN	NS	eur5.akam.net.
+listo.gov.	86400	IN	NS	use2.akam.net.
+listo.gov.	86400	IN	NS	use5.akam.net.
+listo.gov.	86400	IN	NS	usw4.akam.net.
+listo.gov.	86400	IN	NS	ns1-46.akam.net.
+listo.gov.	86400	IN	NS	ns1-96.akam.net.
+listo.gov.	3600	IN	DS	11806 8 1 fa6a4bb1a71fcb827bd652fa8e2d71e0a0195dac
+listo.gov.	3600	IN	DS	11806 8 2 992c60b2bbbd68d560c824c631c97ad9fc7068351a8502a3ad26d7a3783b40be
+listo.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. dtQJ7ct1+vSVZRByE+cl5bRofkXbu4LZG6PFXAGPIlTYrXot/TCd/wVn2xYSMsmFZqs1KlzGe3aqQ5x+jCndYvuGO08XKxtEUVtThXFrjE7NG7nyFYojbCb5muP8nd7JU6hiKtw2/pAUY58nhPjdgaXU1TbEgOCNjAmjg2WH3Eg=

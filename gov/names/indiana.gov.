@@ -1,0 +1,5 @@
+b9qhcet3tctbk0ofm9pdjhsiertbbpsi.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. IkDAR3CQ3uOdpQlvg86f66Hqrdy7l8GUlFkuK0RZac0YOH9rAaOupzV8LInft4Isf1V0RZ+kqxDu/+hF10R7CwvqFk9BsxJ3ZUtw/ugjcu4LZkYrE6n0a6GvmXY26GDZQTw8xbvNg70q2BAgGtRb9gRHCW612enfSeOEQQVYDdo=
+b9qhcet3tctbk0ofm9pdjhsiertbbpsi.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  b9rmavd43ibp7ppmd5rtq0djl5j3puf0 NS 
+indiana.gov.	86400	IN	NS	ns1.ai.org.
+indiana.gov.	86400	IN	NS	ns1.state.in.us.
+indiana.gov.	86400	IN	NS	ns2.ai.org.

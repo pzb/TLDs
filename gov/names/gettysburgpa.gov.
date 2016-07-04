@@ -1,0 +1,5 @@
+9kbd3rjj5va8c1rfpks3lv24i3stl06e.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ik9rJNOnJc4qHhJO1QSPBSN4TDDKsXYSiccC6c32xzgUk2ce9ybUOfBk0Po5gnZJ8wn9SHTl97LrKZpCuaefB8ZyaldqHSPI7ZO8eRkZ/GZZAE0eluvCI7oLP6lSfTl35GmnmeMhjc4oO+9yuW4g/n62Wg9wzhri5Dgswn7LEwE=
+9kbd3rjj5va8c1rfpks3lv24i3stl06e.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9kdgfl7a5c1di4np6ii326hv8ndgemiq NS 
+gettysburgpa.gov.	86400	IN	NS	ns1.infotech-maine.com.
+gettysburgpa.gov.	86400	IN	NS	ns2.infotech-maine.com.
+gettysburgpa.gov.	86400	IN	NS	ns3.infotech-maine.com.

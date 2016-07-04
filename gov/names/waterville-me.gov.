@@ -1,0 +1,6 @@
+kvslb1qau1tr2cepu6ngq50tuij8vmgl.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. pR4D+nOc+d8ufEfBcVPemiVAjjPtc85UuZAIJnDHcE0aBErg19pDVsSMDQ2/rqAyYT/G6RZjqRkPkzawkCXwwY2ffqPpq1hdeHsXF60k74mlQy1TUsBGb/zHvNKNIotw3P3YRPm4LNQ7QI1qYFMsyMKHqxN/ulX/vxyMUKw4+rc=
+kvslb1qau1tr2cepu6ngq50tuij8vmgl.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kvuvlinrgm6a0i3sovp3d7i9qh31m8j1 NS 
+waterville-me.gov.	86400	IN	NS	ns1.waterville-me.gov.
+waterville-me.gov.	86400	IN	NS	ns2.waterville-me.gov.
+ns1.waterville-me.gov.	86400	IN	A	72.12.68.67
+ns2.waterville-me.gov.	86400	IN	A	72.12.68.68

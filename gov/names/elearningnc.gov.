@@ -1,0 +1,6 @@
+06gqaku89auh772l71g31tf6golib0i8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. eQsHqKkqN6Q2IbQUP2+yzBbQhUZAWsSH6D++CfjP/odBnsYKqxrGeetFg4WSg84hYQ8bKofqDDIv/7uV9Ja6m/NSgW2Ylx9srWoxnc2aKeU4lf4N4NlhGrs5YIgupI4oyhWjKxjgTuUMOR4FxHI9Q/kno/ZKRAFWm9V25lHIXxo=
+06gqaku89auh772l71g31tf6golib0i8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  06i1fgaogfhuea238ko9rnb9cn8csfqa NS 
+elearningnc.gov.	86400	IN	NS	ns1.nc.gov.
+elearningnc.gov.	86400	IN	NS	ns2.nc.gov.
+ns1.nc.gov.	86400	IN	A	149.168.11.11
+ns2.nc.gov.	86400	IN	A	149.168.138.11

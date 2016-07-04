@@ -1,0 +1,5 @@
+gknucg99b71m8f715f3vhr29u63uspa3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. k7EOBMjMRHRsxDZnz3gQ0UcHwYmbdAGHrTuUdZhkKS0Ec+sc5cTCkO2VBkP4AGAF6YTp2Ho32+AsvsKOt4v/P9XqSH0n22p4OSXPHGiCFCGW4gFYhYuOP8tCRt8AE41n0IsFlE7fTs6P7CtY58qaMiWctjuFZC8vXeLvXFI+KiI=
+gknucg99b71m8f715f3vhr29u63uspa3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  gkpcq842ei6nhg4ari9osmo2vdsclte4 NS 
+orangecountyvt.gov.	86400	IN	NS	ns1.dreamhost.com.
+orangecountyvt.gov.	86400	IN	NS	ns2.dreamhost.com.
+orangecountyvt.gov.	86400	IN	NS	ns3.dreamhost.com.

@@ -1,0 +1,6 @@
+rirh5augn39iied5tutdlk6dhhkgijn9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. dFo/F04exzpDuABvvGLyqUl1pNLGusyiUqJAy/fJ4rkfMhDfIzwH8kzGr9iw7f5yXRtxD64Y6OhlRodVaDuc5/++krYfeIHz2nJxVFpQjevc4r0aYk47I9v0ipWdW++PgZHkBg94OcyfqcDbldT3/v+i8Hdyv9JE+WIqWJ9lUNM=
+rirh5augn39iied5tutdlk6dhhkgijn9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  riv5jgjevc7pjae6khas2oh1ibqhsf49 NS 
+tennesseepromise.gov.	86400	IN	NS	dns4.tn.gov.
+tennesseepromise.gov.	86400	IN	NS	dns5.tn.gov.
+dns4.tn.gov.	86400	IN	A	170.142.92.58
+dns5.tn.gov.	86400	IN	A	170.141.168.22

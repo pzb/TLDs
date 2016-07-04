@@ -1,0 +1,7 @@
+ns1.iowa.gov.	86400	IN	A	165.206.254.145
+ns3.iowa.gov.	86400	IN	A	209.56.120.13
+iowamortgagehelp.gov.	86400	IN	NS	dns.iowaccess.org.
+iowamortgagehelp.gov.	86400	IN	NS	ns1.iowa.gov.
+iowamortgagehelp.gov.	86400	IN	NS	ns3.iowa.gov.
+ktt3u5f9giks5p6uvlvon4htikj583nn.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fbOlCB5dWWBDV1IB2yZMRnIxfNzgj0xbihUkTCvW3cLsfNIkfAfYAoXagCmRD9ekkwrrpHWEOXH0GoSFwXMeIy4JaKBqiO/vTgR5YhZerb5bo77zZHgvD/0moez8+Ycml5xRjyjrdqNyBBZc+lC4xu6AFDi5EULtWWJ25K83F0s=
+ktt3u5f9giks5p6uvlvon4htikj583nn.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ku374fj78rhaitsofblg5hu8jaal0ugh NS 

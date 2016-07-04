@@ -1,0 +1,8 @@
+mspb.gov.	86400	IN	NS	ns1-auth.sprintlink.net.
+mspb.gov.	86400	IN	NS	ns2-auth.sprintlink.net.
+mspb.gov.	86400	IN	NS	ns3-auth.sprintlink.net.
+mspb.gov.	3600	IN	DS	12285 7 1 b03ab5178c4e73676a92f300ff5f79a57fcefffa
+mspb.gov.	3600	IN	DS	12285 7 2 edb9774fe1382f13cedd66f82b5cde392ca067d0466a85064ea42250b1954507
+mspb.gov.	3600	IN	DS	25714 7 1 d585a420f8568cd58bd2073fdca381fff9dab9d3
+mspb.gov.	3600	IN	DS	25714 7 2 96800809733f954b34b73f547abd7d700a101c0cbe2634a0914b2549d5b97ffb
+mspb.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Vw/kOjU8bCVxuJOKd3Vo/thhB7VXrcJ2u8/8thPBaYcvz5tkU6VkSkl2ogF5bsgc18bXzfGv3VdBk4pdSfPfu8dRtzc/sVWUXMuY29A7feLaXgNaO9psgsB656zfe9Orv7aS1JhkCmGSaBNRWxE/kuerNnZsZY2dOX6CUjymNyw=

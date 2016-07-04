@@ -1,0 +1,5 @@
+01bkt6k11htjjeqm3ut3mrk66svgkg2b.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. qKRrJ9fHDbjs3VI+bemv4jTq/qAF5BXDYmRONiVzGVolrFv3X4I3n6xEaPwIvEpvHM4dVHJu4h5rj4rbtCDB9Ax73m5WlY2gQFR/m7XhlZRAjvK42Fi1zog0USn9HO9ioOCKM9Ys7EqvG/tPQ2qa3ORVEOwPnRjUnJucQC+xZAs=
+01bkt6k11htjjeqm3ut3mrk66svgkg2b.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  01evr4gfdca7gi4doid8k9e43a9umqsh NS 
+fultoncountyga.gov.	86400	IN	NS	ns1.cl.bellsouth.net.
+fultoncountyga.gov.	86400	IN	NS	ns2.cl.bellsouth.net.
+fultoncountyga.gov.	86400	IN	NS	ns3.cl.bellsouth.net.

@@ -1,0 +1,6 @@
+4heedf86c970bbgblftg1qhkp6gnllf6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. xf0kImPtYYI8phcUO4hmcyBzFlWZS1wOuSht1cY9tV8uwnu1AEYb79XU+St9Dr9XzFI5Sa8CJxTPRMb1HGInfmo3BqZcNhWoP3MzaN1+2i9dd9Omxw2FJnQK9VimKUpwtDVi3Qjnus2FO/jY/ehxRUNDG0o17u4x+9967I1HcTk=
+4heedf86c970bbgblftg1qhkp6gnllf6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4hkb9ttddrm3d44qr6s60384jpqqoj59 NS 
+bernco.gov.	86400	IN	NS	sticks.bernco.gov.
+bernco.gov.	86400	IN	NS	stones.bernco.gov.
+sticks.bernco.gov.	86400	IN	A	160.230.252.200
+stones.bernco.gov.	86400	IN	A	160.230.252.201

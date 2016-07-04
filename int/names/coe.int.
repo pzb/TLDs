@@ -1,0 +1,4 @@
+coe.int.	86400	IN	NS	neon.coe.int.
+coe.int.	86400	IN	NS	cuivre.coe.int.
+cuivre.coe.int.	86400	IN	A	193.164.229.94
+neon.coe.int.	86400	IN	A	193.164.229.99

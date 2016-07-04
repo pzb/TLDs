@@ -1,0 +1,4 @@
+c921ev2b5s3h58vlub1gf6thsvgjfa2f.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. irt5jMT6s5W96sJ8PhR+94yUUIu/ewg7DxtSha+N8ZBMigPNpLKE3CQskYPwb8nebC7Lg16NHUCOIQCtCJrku1/A0nqp3/Xxsh2xKZ/BdyxPYZGMOVfVsEZUlwHweNKaNzkaw217OTgQS00QnWD/rBL9Abbvx+LamUHcsbgMxY4=
+c921ev2b5s3h58vlub1gf6thsvgjfa2f.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  c9b4nmhgmrvf2tdak25r154a4ir93i1h NS 
+cityofhomer-ak.gov.	86400	IN	NS	dns.ci.homer.ak.us.
+cityofhomer-ak.gov.	86400	IN	NS	dns2.ci.homer.ak.us.

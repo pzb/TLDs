@@ -1,0 +1,10 @@
+beast.dma.mil.	21600	IN	A	155.7.145.113
+beauty.dma.mil.	21600	IN	A	155.7.145.112
+kaucher.dma.mil.	21600	IN	A	155.7.208.113
+russell.dma.mil.	21600	IN	A	155.7.208.112
+dodimages.mil.	21600	IN	NS	beast.dma.mil.
+dodimages.mil.	21600	IN	NS	beauty.dma.mil.
+dodimages.mil.	21600	IN	NS	kaucher.dma.mil.
+dodimages.mil.	21600	IN	NS	russell.dma.mil.
+dodimages.mil.	10800	IN	DS	7214 8 1 a88a4097e58351f1851206405bc09d106605c6df
+dodimages.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. aNUpz2KNS838WCR5ctRc1EilkoN/ALpcS3XcKjrOtlie9uXYUsoHMOqcZaPhdjHenEzUpln+BX+kYfAWpJacbsQr+JEB2Ql0fQ9kSRYUkMIV2gvzVgieacUYZQYDAwfbExaBYS9SX4ZIaVoepPxmKxQVzfWXIvXcC5ICzGsHqa20IaQ=

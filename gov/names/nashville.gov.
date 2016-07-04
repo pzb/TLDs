@@ -1,0 +1,6 @@
+hqj8il3sa3gpgrmu166ijrl2jvb1vbr5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. C7T9RXTRO5sXIjgivaafohJKlN649xcIENo3Uup+2UfAA8Hv+wQ+l6CPV393petinxzyiGCdFYTZhty2DWJqNVfeUY6+iXaazD4Xid4/26m1Y3GEZfCpL53Fkr/enQBDiTy/72cC0A4+Zt5hTdAwSEJSp9h/tLyq7ca7iAW/5lY=
+hqj8il3sa3gpgrmu166ijrl2jvb1vbr5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  hqqj2ks09rjhpksor7f7fjmbhqv01cb8 NS 
+nashville.gov.	86400	IN	NS	ns1.nashville.gov.
+nashville.gov.	86400	IN	NS	ns2.nashville.gov.
+ns1.nashville.gov.	86400	IN	A	170.190.30.5
+ns2.nashville.gov.	86400	IN	A	170.190.43.254

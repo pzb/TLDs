@@ -1,0 +1,4 @@
+idb.int.	86400	IN	NS	ns1.sprintlink.net.
+idb.int.	86400	IN	NS	ns2.sprintlink.net.
+idb.int.	86400	IN	NS	ns3.sprintlink.net.
+idb.int.	86400	IN	NS	gate.iadb.org.

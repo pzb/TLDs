@@ -1,0 +1,8 @@
+badpa4g4a37hcjbhok6n8d3vtttq5s05.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. BcLvewOjF1WiSwXpvhn1ZCjM131Nhzgt2zFc2+Xscu76ZIFRyDdAqow1WTgG37zB/mulOyNB73Klh4BaIp0U4e7UO2fBwpk/SS0/AmhGAB5z7cvfLKoGSfTRnugPh7ozqi+x5vv63potkgfiu2Ejd/wKg1AXaYE3ukxP3QUSEVc=
+badpa4g4a37hcjbhok6n8d3vtttq5s05.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bar2kp6ccuiji00eq0rvt42q4ufpjjvt NS 
+intelligencecareers.gov.	86400	IN	NS	a2-64.akam.net.
+intelligencecareers.gov.	86400	IN	NS	a5-66.akam.net.
+intelligencecareers.gov.	86400	IN	NS	a1-107.akam.net.
+intelligencecareers.gov.	86400	IN	NS	a11-66.akam.net.
+intelligencecareers.gov.	86400	IN	NS	a12-67.akam.net.
+intelligencecareers.gov.	86400	IN	NS	a24-65.akam.net.

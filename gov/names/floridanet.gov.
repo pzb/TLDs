@@ -1,0 +1,7 @@
+floridanet.gov.	86400	IN	NS	ns1.state.fl.us.
+floridanet.gov.	86400	IN	NS	ns4.state.fl.us.
+floridanet.gov.	86400	IN	NS	mfnorl-ns2.mfn.myflorida.com.
+floridanet.gov.	86400	IN	NS	mfntal-ns2.mfn.myflorida.com.
+floridanet.gov.	86400	IN	NS	mfntex-ns1.mfn.myflorida.com.
+vn0ju2uvnr5c9ma04db2b7co4h5dh181.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. N2lXKXlbni/JkeOje0YSKSArHw8Bpc8JmT+MvsyEbSWmKCkD6GRV3qE/h79EfjZM46cNccXyqDlyIVT7JXv6WWaSmR/5SFvOTTo73sJFnuk5r6EsyGMpl+gm2VYFxTGYTVBXQWelaaO9Oke+T2dfmZPVVLq9hee30I95diiAtho=
+vn0ju2uvnr5c9ma04db2b7co4h5dh181.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vn84s5f3sghp5165jmputn0l3vc4n6h6 NS 

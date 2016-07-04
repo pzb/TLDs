@@ -1,0 +1,6 @@
+azospb.gov.	86400	IN	NS	ns-382.awsdns-47.com.
+azospb.gov.	86400	IN	NS	ns-971.awsdns-57.net.
+azospb.gov.	86400	IN	NS	ns-1276.awsdns-31.org.
+azospb.gov.	86400	IN	NS	ns-1603.awsdns-08.co.uk.
+mcdodqkg9iqmar3efi14iumrirpao0f3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. OuiobKAOV6WFxVuv+30V95bQiVGd1B1bc6i+GuUExSwFfhv+EhRMOQcRkhLfBlV8l+CHAFZutRfmHGR2Oez5xnCDWC0RJFbrqoTsNqNumEIEx47i5unqKNHveGrwp8vsgoft0MOuIhI9fy6H58QjsT6ExKrtmaEsk5nI/MuHn9s=
+mcdodqkg9iqmar3efi14iumrirpao0f3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mcek3jvq54at2851j30a08jc82tf99dm NS 

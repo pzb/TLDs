@@ -1,0 +1,7 @@
+a3ibd7eqi9eu4a2qsrc35djb80mols1h.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. EYW8T4HrIvtyvr5e0DP8ePuzYH4MbpOzqNGL2aFfct5afE9YOfO5eKN9VBi/okvzhGwn1d1krMdBO8yOM0mGhE/vZKZMLPTL7FJbNirTXllnfpfjepZuHHNtYK/obGYo8eCFG5GjLW4zhzg5ijG3hwQrL2qEi2oVcVMAIZMsbEE=
+a3ibd7eqi9eu4a2qsrc35djb80mols1h.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  a3teukcmgeofsa6jku3mm1pj3sn9gsc4 NS 
+sciencehill-ky.gov.	86400	IN	NS	ns1.mydyndns.org.
+sciencehill-ky.gov.	86400	IN	NS	ns2.mydyndns.org.
+sciencehill-ky.gov.	86400	IN	NS	ns3.mydyndns.org.
+sciencehill-ky.gov.	86400	IN	NS	ns4.mydyndns.org.
+sciencehill-ky.gov.	86400	IN	NS	ns5.mydyndns.org.

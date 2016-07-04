@@ -1,0 +1,5 @@
+p7tktn7f3atavk61ppjq9p2pomi274dk.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. RZZIZOGrQ4Vnwk29tnzxQehCbFJRziwBOy3jtIBDAnTfN9Jf0RpsFl0/DFFLF+Rk7V1UjYNhPePBo3WKLQr6HxT+kJqwFM/IMUQnK8z2cJzIqaTGcOeNXQTsqk1yC4mFpl/dOD1KGJ1+PWbCYJ9JGum8bdP4/oA4ubI2Seugu+w=
+p7tktn7f3atavk61ppjq9p2pomi274dk.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  p82kt56apl18qgtea6i8vikp18d0qprc NS 
+villageofbabylonny.gov.	86400	IN	NS	ns1.worldsecuresystems.com.
+villageofbabylonny.gov.	86400	IN	NS	ns2.worldsecuresystems.com.
+villageofbabylonny.gov.	86400	IN	NS	ns3.worldsecuresystems.com.

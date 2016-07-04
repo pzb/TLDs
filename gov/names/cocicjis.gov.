@@ -1,0 +1,4 @@
+31mdtqk2ktilsp4pe3758vltcuorkjd4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. nifowXW5d3K7JAGsoBDKzaWrJGkcO+9TIKVUt3+V2njYu3VkJDARebbPH6EIF0jZNi47GREQ3YS5nYfKr0qK/itcN8LLvyUSjtp5bgqsDkHtdQzxiVwwT6uxF0J3/hiAd+xV2HA6Sili3tV0MbPDXTNa/v+x0Q3FNRXyyBvfXkI=
+31mdtqk2ktilsp4pe3758vltcuorkjd4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  329nqm21d8elnjoc79obbssdictcs75b NS 
+cocicjis.gov.	86400	IN	NS	dns1.state.co.us.
+cocicjis.gov.	86400	IN	NS	dns2.state.co.us.

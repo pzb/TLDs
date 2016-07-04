@@ -1,0 +1,9 @@
+export.gov.	86400	IN	NS	a4-64.akam.net.
+export.gov.	86400	IN	NS	a5-65.akam.net.
+export.gov.	86400	IN	NS	a8-66.akam.net.
+export.gov.	86400	IN	NS	a1-109.akam.net.
+export.gov.	86400	IN	NS	a12-66.akam.net.
+export.gov.	86400	IN	NS	a13-67.akam.net.
+export.gov.	3600	IN	DS	11661 7 1 b9576fc540ea5a26cb58bb3da292e0264ac203d1
+export.gov.	3600	IN	DS	11661 7 2 bf32be622d334f4dfa590f31d8fe84d612bf9787e5f1caaf835c448a5e7b3801
+export.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Ie/j8sxHK6cFEcprTLdIP0inHXZgRBVYiVLX/kUw+S0Jflu2IVgXojSiQXR0Iiy/zYHe/06jDgW/ehacnEIlZGsAUY2RcwtI+uwNrFNdg3WtnjBtLmqdwBFp7nmdAwg9qM1waOhUW0dLrBlPrGDsDUPHORzWMpy091YUJVXbTvY=

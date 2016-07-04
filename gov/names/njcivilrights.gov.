@@ -1,0 +1,4 @@
+98o07q889iump78ili7rj4dhvkmckrtp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. e2WXTTRT0V7bQHvY1K2PgFaLEgyavjPVxO0r0hVOnMPpNn9tX92Ce1AeEpjCaWVfj8s75PEvHd7SerGUtIeurwQ3HQgHLV8dMI3MGbh+VWRSYV/1dsXl7XY5LIHWX59Sm4aAOdVUp7EmX9W/3q0xw8E2rEE4kTCE2o/TNxLy8LM=
+98o07q889iump78ili7rj4dhvkmckrtp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  99a8amqf59kq83ag0bsfdqr5ehk4u7rr NS 
+njcivilrights.gov.	86400	IN	NS	ns1.state.nj.us.
+njcivilrights.gov.	86400	IN	NS	ns2.state.nj.us.

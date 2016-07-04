@@ -1,0 +1,4 @@
+sqfesa8nm1gnins72oth48pobgjg6dpd.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. V279/KnZ/XxK4zpj3cR2JAuGHBu0Dku65kysuSuzRkp8bFLbiIy8ayvAY6iXJ90hE/NI3TN85qeC0bJL4Kp2YnWToo88r2dbmo007j9zxnoDyS/cLxW/7382iB9bYtA+Up+IMyTjb+y2Aaa0/yuHvHP5SkeFZZwGIH2aeNLxCMA=
+sqfesa8nm1gnins72oth48pobgjg6dpd.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  sqmeln6g7r82dr7r5f26fdmlvpq46st5 NS 
+wethersfieldct.gov.	86400	IN	NS	ns1.acnusa.net.
+wethersfieldct.gov.	86400	IN	NS	ns2.acnusa.net.

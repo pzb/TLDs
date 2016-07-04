@@ -1,0 +1,5 @@
+dsu1r3vt6f6a3ha9pah8070obbeff772.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. obbtX4VYPMRgvsLkIDZZ4W7vbOwoDtA9vCiUxN5Qfa0smj8eQKXYTV6eIWRQ1vtE8F6PsIafuLi64d+/zhlRTFB/zTgMGukSmcoBu5f5mxhqvL3NAV+yr348VQIXSoEp17+xFr4p0x3nU2X/8nQLDbEoxrEaY1VY7jdxs+trHF8=
+dsu1r3vt6f6a3ha9pah8070obbeff772.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dt0lt07iul7ckmrfn2n3t9q0juqlrcr0 NS 
+fortlauderdale.gov.	86400	IN	NS	ns1.cl.bellsouth.net.
+fortlauderdale.gov.	86400	IN	NS	ns2.cl.bellsouth.net.
+fortlauderdale.gov.	86400	IN	NS	ns3.cl.bellsouth.net.

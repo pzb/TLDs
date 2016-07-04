@@ -1,0 +1,4 @@
+beavertonoregon.gov.	86400	IN	NS	dns2.the-bug.org.
+beavertonoregon.gov.	86400	IN	NS	sunny2.ci.hillsboro.or.us.
+iacvjafmbuejhkrh3a3rbqjulgckj1rp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. TAPGYrpJ/ZuXQIoouKzjyOFP8Or8pw9rTdpJnxKW6emrU3ChsLv//wM4IX/qASb+l0b3RBSsmnEoAOGkl20xSCet3ku9B9x1LN67cBQpu23ywwqH2lgj0yrUuIX7FKhg14KmOleGM2qnf5X2l11qMAPoT72XOW3aRlXuxgRpVk8=
+iacvjafmbuejhkrh3a3rbqjulgckj1rp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  iain2p89705iqmkokh5ug9913f748r5l NS 

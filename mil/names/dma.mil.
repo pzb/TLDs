@@ -1,0 +1,13 @@
+dma.mil.	21600	IN	NS	lyra.dma.mil.
+dma.mil.	21600	IN	NS	rigel.dma.mil.
+dma.mil.	21600	IN	NS	altair.dma.mil.
+dma.mil.	21600	IN	NS	castor.dodmedia.osd.mil.
+dma.mil.	21600	IN	NS	luyten.dma.mil.
+dma.mil.	10800	IN	DS	8980 8 1 284e7f74a3a9f9b2fac1b0237bc78f8562a7e07d
+dma.mil.	10800	IN	DS	8980 8 2 44c2711b43ee8b6198d21e7d9646cb7f95c0995cc1ce7036a9e4a9584f28b80e
+dma.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. QaPC5/qS1tki7p0h0YEvajNmdqHnpe9B9zKQWfy4ZEIvIBTiIl7weJ/XPtJXl4ulweTVuN+gUHT9647HhevYtldR4pxlYMbpmGCYVVa3O/2a3+zjIY8OOtOu3w24GzCY8o3wXGdoH1U/yI+AzTy+Yq6RUki1jo4SOL9yQrHImBypmhk=
+altair.dma.mil.	21600	IN	A	155.7.208.22
+luyten.dma.mil.	21600	IN	A	155.7.145.77
+lyra.dma.mil.	21600	IN	A	155.7.208.11
+rigel.dma.mil.	21600	IN	A	155.7.208.33
+castor.dodmedia.osd.mil.	21600	IN	A	155.7.145.66

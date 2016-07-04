@@ -1,0 +1,4 @@
+42iifsvi9h1fde5s01ki4b8qq3d23tj8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. dsuJ5bGwsgevVeWnLKDWzolEV7ImRHGfll8qXjV8VKsmyQECFfuA95Pedit1Ks2J05ylT/zbfwQP6azJWQYh9M4dWMsUJfmaw1Ti9oSRGTwprkZ1JIVaW1z/1iZSAC4oVh8aoum7LItqiWC8+2RC+Ef90XPlGsey7shwJrt7buA=
+42iifsvi9h1fde5s01ki4b8qq3d23tj8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  42k0nbbmpcje7pf0ch20gl3rgk0mn0ai NS 
+prattville-al.gov.	86400	IN	NS	dns1.knology.net.
+prattville-al.gov.	86400	IN	NS	dns2.knology.net.

@@ -1,0 +1,4 @@
+21q54li4av2v32aod6ll583tbjic3dq9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. HEwgHroD+OnD3+cAOGVFFKO38REClWAeMD9h+XRIIrETr6aiRZ/zkDgnodhtcsSmb43VrGSMTnRJvQT/ylMPvMJ77mj5wwc8BYosh8Ubbu4KFItmKoZymoShqXbtAbabzfP4mEoK99CyciSJvcMKthd3/UKKGArWFECnC5kxqC8=
+21q54li4av2v32aod6ll583tbjic3dq9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  21sksp3bb0746hia3s96bh1oh74csb0q NS 
+colfax-ca.gov.	86400	IN	NS	ns29.domaincontrol.com.
+colfax-ca.gov.	86400	IN	NS	ns30.domaincontrol.com.

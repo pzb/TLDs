@@ -1,0 +1,4 @@
+dqjphihhvf05p8tcmqgg0oe93shhaphh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wclNyzszEsOxV9W+b5s/p6p9suT77fK7UOGAIpqIcXAgKAij7NddzCOxgVyU63JpHuMy8d/PB17BFGcuHgv0POhi9+MoLhBbQXoB2m70Ioki75K3lEP4OnCPNZF5P+smVc00q+qR22XsfeVmTlfsVk6KacLozYHWATUDy90yQXo=
+dqjphihhvf05p8tcmqgg0oe93shhaphh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dqngeqi779lvteu6nm861d2kkh1109gn NS 
+waitehilloh.gov.	86400	IN	NS	ns1.startlogic.com.
+waitehilloh.gov.	86400	IN	NS	ns2.startlogic.com.

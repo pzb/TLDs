@@ -1,0 +1,4 @@
+f5d55ndcl6e7qf2qbucmsrbjrr609viv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. a4PY/vQRMY+BaOpTDcQ3x5hjPe62SNb0BeEsHHqDgroGewP2scBoT48h+r4GFS20qwCADXZemHwM0Q3h0SfgY1haKu3kK7BkOlWlvzsluWcxFWzq7KV8KmRni5TNjMDHTzbN5gTfRAav3qD2P2jVixTUreF0ue+ifal+wh6QSWk=
+f5d55ndcl6e7qf2qbucmsrbjrr609viv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  f5gie81qcuo0b7dijub74eqikohtsv1o NS 
+okc.gov.	86400	IN	NS	ns.brightok.net.
+okc.gov.	86400	IN	NS	ns2.brightok.net.

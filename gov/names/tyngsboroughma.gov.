@@ -1,0 +1,4 @@
+0fjqft0pf2uu3v313sclt7g47h15uk5f.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. pwnTYmS/l94Yx7h6ppCtWJ0+CX8mCVEd6RQpJptTCAi8dsbppRkVY5ED5un9+kJyZz29PDOofUXCJYbtrm88S1h/woViv1zUVfgb4OMObwfPVYiFl4JOB6BM7lTqC9zhohS+NtNosGNOVB+614KMpAWrsFJ/iuPsePTsDMg22ok=
+0fjqft0pf2uu3v313sclt7g47h15uk5f.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0fqooe4p64ci4kese2ia33d09a31rmr3 NS 
+tyngsboroughma.gov.	86400	IN	NS	ns1.mediatemple.net.
+tyngsboroughma.gov.	86400	IN	NS	ns2.mediatemple.net.

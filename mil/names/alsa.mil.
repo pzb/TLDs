@@ -1,0 +1,15 @@
+beale-ns10.afnoc.af.mil.	21600	IN	A	132.3.65.10
+lackland-ns10.afnoc.af.mil.	21600	IN	A	132.3.45.10
+langley-ns10.afnoc.af.mil.	21600	IN	A	132.3.29.10
+osan-ns10.afnoc.af.mil.	21600	IN	A	132.3.13.10
+peterson-ns10.afnoc.af.mil.	21600	IN	A	132.3.57.10
+ramstein-ns10.afnoc.af.mil.	21600	IN	A	132.3.25.10
+alsa.mil.	21600	IN	NS	osan-ns10.afnoc.af.mil.
+alsa.mil.	21600	IN	NS	beale-ns10.afnoc.af.mil.
+alsa.mil.	21600	IN	NS	langley-ns10.afnoc.af.mil.
+alsa.mil.	21600	IN	NS	lackland-ns10.afnoc.af.mil.
+alsa.mil.	21600	IN	NS	peterson-ns10.afnoc.af.mil.
+alsa.mil.	21600	IN	NS	ramstein-ns10.afnoc.af.mil.
+alsa.mil.	10800	IN	DS	41221 8 1 9700d82aad79c60f5574efbf02c80cb893686943
+alsa.mil.	10800	IN	DS	41221 8 2 b6c18b30ed139b27997ada4008f63cef58805f32c094ba6f8a7ec4c740640136
+alsa.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. eAvhpgfNZ3cl9lBuB2sQUHoskG8dM74Q8haHlocmrmTWttgiMH1VDs1dzLrJyWkAsvWDCZw3wHdMRM8dVWddZjrTA0+zvXcImgLTW2fARAorQ+L5UiVpXcHgbnfoVje922uCdmQkAG/hwj35u0rQsvaT/ZHzwXh04aGqV5rKwu4cYNc=

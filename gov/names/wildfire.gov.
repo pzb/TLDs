@@ -1,0 +1,8 @@
+wildfire.gov.	86400	IN	NS	fsdns1.fs.fed.us.
+wildfire.gov.	86400	IN	NS	fsdns3.fs.fed.us.
+wildfire.gov.	86400	IN	NS	fsdns4.fs.fed.us.
+wildfire.gov.	3600	IN	DS	10471 8 1 16f637b2c2f8e4acc3510c9ce1cfe12788fa07b1
+wildfire.gov.	3600	IN	DS	10471 8 2 b7742c725f05674bab6cf9bb3e9463a239a041a88728aac955b962b4c7865b3c
+wildfire.gov.	3600	IN	DS	59239 8 1 136cb5ccf0b000e990bdabecc4f487113fdc19e0
+wildfire.gov.	3600	IN	DS	59239 8 2 62ffde58ee464319dccb042551d354b7aac00a600b8459d621de22cc8658e900
+wildfire.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. nf7LyCHl1vsQ/Tpuq5d/ngYptF5xIRdMmurCmqQ8TZmCd8GJ0nGIp0sm0dvOCYLC5lIar65vOn8P7jwyOYp2/jRQTrTb8ElxQowaB8Cbui4sHMy46CyvRY6dK/+gGY6/7hrUWB8tFSCog+q4Ir1qnF64ADyU3jAxUkGBuykk2hA=

@@ -1,0 +1,4 @@
+b3l1qj06aonun8pj7oe32oajdv3fl7bv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. dN4BRWlpVzYhCfQmq4PZfPvQ8AwXnDAfAwDXzDpPUzkRd6zD6iXu9X8b7V67XeUUIp2YPG7KNy1NS1TVuwvhHbI/OshMicwhNU6qnm2YPMTNUDn/+Bd2qCLH+lpWqkiTWxG96fwzd9G92GUJ3BOb7ydsC6T9dg2yFSqBQbIuuuU=
+b3l1qj06aonun8pj7oe32oajdv3fl7bv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  b3oimpa2k7763bv8j2opn0juc6h4dk00 NS 
+blueearthcountymn.gov.	86400	IN	NS	dns1.civicplus.com.
+blueearthcountymn.gov.	86400	IN	NS	dns2.civicplus.com.

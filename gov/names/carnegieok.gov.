@@ -1,0 +1,5 @@
+2khneno5pr4v9n7l1s97va23mhgio9eo.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Zwi5M2Tj14p+6a1Pu9bUmDIk+piy2jDgFiwgm0Hzj8s+UTKDtwyioHsIV2UPEvFa7qFK9SqCTCD5huU0eak7UmVMpov14Pp4S2DFz4Dcdmw9nJJLdpo1DEqfygBgkbT3c/l7q+4watoeVGJGxQnmqk4HSY+Txz1VHXA3SglATDw=
+2khneno5pr4v9n7l1s97va23mhgio9eo.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  2ko4uspfoe042n4lmmrlj7bo1r9dp9jk NS 
+carnegieok.gov.	86400	IN	NS	ns1.easydns.com.
+carnegieok.gov.	86400	IN	NS	ns2.easydns.com.
+carnegieok.gov.	86400	IN	NS	ns3.easydns.org.

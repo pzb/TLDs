@@ -1,0 +1,7 @@
+business.gov.	86400	IN	NS	scotch.sba.gov.
+business.gov.	86400	IN	NS	newganges.sba.gov.
+business.gov.	3600	IN	DS	7729 8 1 8bc3abf2f82bcd87170633bbc68169e3c1ee0012
+business.gov.	3600	IN	DS	7729 8 2 7cad7bd997042cb360789ae4932e01011db934d1f269de90b2d9691c987f3b7e
+business.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. tqh+bySTm42SVBZDojre+P4tpA35JvniTyWM/j7lk7Ete9mketxMG7HmhIPyJ3dU8kJ4ybmCfaJAtcK5CXzDLCUFHRVtp3u8dHA5UHOMC43nat4I55bkGOw4+BQZYVy0I756rbkGO8paxljxC7g2kgYUBNUZ//FZyAL27QQO6aw=
+newganges.sba.gov.	86400	IN	A	165.110.249.32
+scotch.sba.gov.	86400	IN	A	165.110.249.30

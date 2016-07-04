@@ -1,0 +1,6 @@
+1m168rvtd7ufv4tgdu3s1ec2no60djcu.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. TycHEuqxlD9Om5l0dQkv6WC67Vm8OhDZPHPJDTLl7PhbQ2v3MMI8SoH0Gq+QVBso8BpOks0+Mhrsac357lFAIHMzvbJcikt6+BQ5L1WOcomNAFEEqbkA1eV4OkgjvK0ZZuAfIFYoVZV94g9fI1Yuk5M28IP2jpnY58mnDW9k+IA=
+1m168rvtd7ufv4tgdu3s1ec2no60djcu.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1m9c17iu5qs3euggeaen2er0cgq2gghb NS 
+centralpointoregon.gov.	86400	IN	NS	ns-254.awsdns-31.com.
+centralpointoregon.gov.	86400	IN	NS	ns-783.awsdns-33.net.
+centralpointoregon.gov.	86400	IN	NS	ns-1033.awsdns-01.org.
+centralpointoregon.gov.	86400	IN	NS	ns-1921.awsdns-48.co.uk.

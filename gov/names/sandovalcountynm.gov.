@@ -1,0 +1,4 @@
+0en0etree8ba2plajf9fn6vsmu1svhb2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ttTT2/BM3n2b2rZfrZ1mXdFLSOYXfTYzng5qhspgsFADzUyrJQT+lDPeRw09rdiQS93kUg76WXhg1LUf1N4qSBJRF/5zIUbtT7q5Zl3NQn8WK427JitqHWfZksQK4MrvhpJTkDnFIuJrI3tfepgnK15xlNDUN7myoYG+dcGqNLU=
+0en0etree8ba2plajf9fn6vsmu1svhb2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0eo64o3h1aq3ej96hgd259b22chpsffg NS 
+sandovalcountynm.gov.	86400	IN	NS	ns1.twtelecom.net.
+sandovalcountynm.gov.	86400	IN	NS	ns2.twtelecom.net.

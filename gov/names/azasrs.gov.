@@ -1,0 +1,4 @@
+azasrs.gov.	86400	IN	NS	ns1.twtelecom.net.
+azasrs.gov.	86400	IN	NS	ns2.twtelecom.net.
+tj2sqnh0rqsc0jrsj5spj0gtm893o48o.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. uqlLQ5/1GiIt0wdqBNTTyY+LMOWlFIBxJBKLNjOdwfLh5vKZ9BmDre7p5nArdNVnBQJpukg0A9XTVSI8ByGnS9qos90hotnoztfhW1Wne7dYJCswJwtiBbrflmv+P83FgMOi1sp81z8pMC9BGxEZIgJvtuB70aWlH22uIIUkUiA=
+tj2sqnh0rqsc0jrsj5spj0gtm893o48o.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  tj4ebh8ggk0kgg47npag9clek3t390nn NS 

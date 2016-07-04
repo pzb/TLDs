@@ -1,0 +1,9 @@
+edns1.dot.gov.	86400	IN	A	204.68.194.100
+edns2.dot.gov.	86400	IN	A	204.68.194.200
+edns3.dot.gov.	86400	IN	A	204.68.195.200
+dottrafficrecords.gov.	86400	IN	NS	edns1.dot.gov.
+dottrafficrecords.gov.	86400	IN	NS	edns2.dot.gov.
+dottrafficrecords.gov.	86400	IN	NS	edns3.dot.gov.
+dottrafficrecords.gov.	3600	IN	DS	64774 8 1 56a1071194db066933f82f5ccc9773bbd59e1569
+dottrafficrecords.gov.	3600	IN	DS	64774 8 2 d7831af63ac72883ae49defd9355988dfd4472a13d6d186ccd8a1bce2b480c89
+dottrafficrecords.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Oi0sPgaxdH4qx/eRH5oYOhxHYEhVGAy2Z70dyLcHZrvEBcRHThgcp8NB4AkavvTDkombraDMutn206gQdLDeGGdWZ7McGlK3IaSzlHeDahB5/kzAijDnXEAKfEqkj76WSlEjWb/BkNNN1eRxzlfyhdeX7ejmNkNSnRYBu+m5wKM=

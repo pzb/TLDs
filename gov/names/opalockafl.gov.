@@ -1,0 +1,5 @@
+opalockafl.gov.	86400	IN	NS	ns1.cl.bellsouth.net.
+opalockafl.gov.	86400	IN	NS	ns2.cl.bellsouth.net.
+opalockafl.gov.	86400	IN	NS	ns3.cl.bellsouth.net.
+ph65ifaqqhi4de26o6mmfqad9lti4kni.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. osbAOBC/Tl337hrhuEjBqD6LIBk8FcjRRGT4hS7os2EDf7H8LYkL5WTvJ9vnSUEDuru1EF9Kfzs5nb6Ux82P/6qA36mOXQ+nj4xIInMYGyVucWGoBgxmi2nqtg2p2xSACz/OOzzTDyxJmcXbYkIOf+qzBdGlEhEwNgDgGCCojCM=
+ph65ifaqqhi4de26o6mmfqad9lti4kni.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  phsuc5ocg5vepod9dhlg8kk6em0nld36 NS 

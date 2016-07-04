@@ -1,0 +1,8 @@
+3jqptmrd6aic88rhspkijfavktcihh03.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. tAMoUOJf0KSsRjcweaXJJ0J5O4aJARbmGZe59cSgnjuGMZvxwkI/BNoBaYFp5IzQ8ZTzDk0WsSCmn3M2ieao/a5oXS9/TzVM9c7SUJbaHCr7KC6wWMPOuQZBl3S0QNbEVHWgBMSdOQwjDFKk++DXOL6RDFbNmzXcfRxInfJtrcw=
+3jqptmrd6aic88rhspkijfavktcihh03.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3kfqbpcfsrfnnuh4gpojh5acl463t9pg NS 
+mundytwp-mi.gov.	86400	IN	NS	ns1.easydns.com.
+mundytwp-mi.gov.	86400	IN	NS	ns2.easydns.com.
+mundytwp-mi.gov.	86400	IN	NS	ns3.easydns.org.
+mundytwp-mi.gov.	86400	IN	NS	ns6.easydns.net.
+mundytwp-mi.gov.	86400	IN	NS	remote1.easydns.com.
+mundytwp-mi.gov.	86400	IN	NS	remote2.easydns.com.

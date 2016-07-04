@@ -1,0 +1,9 @@
+fsoc.gov.	86400	IN	NS	ns1.treasury.gov.
+fsoc.gov.	86400	IN	NS	ns3.treasury.gov.
+fsoc.gov.	3600	IN	DS	21346 7 1 91aa13edad8eeb36a2148650e94e47a74f68684e
+fsoc.gov.	3600	IN	DS	21346 7 2 2e541ed4d5f0dcc42d604f0f803fdb431f0f9c3aac785514df824e5767aceb5f
+fsoc.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. LiLeZ/s6JaLPIjgw1lE4vx1MsawQh7/qiVNqBPACzC1jphjliEJIvBKPU7QkO3mzUyr8DCqSZaJc0n/b3NSsrW7Onzg/3sDUKNj/TkNKaraB0l8X5RjGycPelyqy9tAy/4pRcDPa7t+kE5JE5sP63s6MAZa75AFRipkAAS7uB0s=
+ns1.treasury.gov.	86400	IN	A	166.123.208.249
+ns1.treasury.gov.	86400	IN	AAAA	2610:108:4000:100a::249
+ns3.treasury.gov.	86400	IN	A	164.95.95.155
+ns3.treasury.gov.	86400	IN	AAAA	2610:108:3000:100a::155

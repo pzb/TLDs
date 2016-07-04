@@ -1,0 +1,10 @@
+5ahjmasriuudoongpe3bq6sje2h478aa.mil.	10800	IN	RRSIG	NSEC3 8 2 10800 20160708161835 20160701161835 16413 mil. PEzF15/xnQI0EPAlrlHCbKPX9x2UKtG6pHD9pjXL2bgLjIWzEaaVBgNmUK42k5dObF05MBpEYth/fpP+rjcb6nfiVXxzeHUJ0/VagcA2ewBaPHFm7LOL1aJ+2touk4v/KHbQUuyEJnLjliWkk/Wva6JFA19UMBQwD/AULi3+dcKxoHM=
+5ahjmasriuudoongpe3bq6sje2h478aa.mil.	10800	IN	NSEC3	1 0 10 adeb  5mbeimn1i779vvinjepcb8tpu79lbton NS 
+jalis.mil.	21600	IN	NS	dnsnola01.ncdc.navy.mil.
+jalis.mil.	21600	IN	NS	dnsnola02.ncdc.navy.mil.
+jalis.mil.	21600	IN	NS	dnssdca01.ncdc.navy.mil.
+jalis.mil.	21600	IN	NS	dnssdca02.ncdc.navy.mil.
+dnsnola01.ncdc.navy.mil.	21600	IN	A	205.85.24.34
+dnsnola02.ncdc.navy.mil.	21600	IN	A	205.85.24.36
+dnssdca01.ncdc.navy.mil.	21600	IN	A	205.85.8.132
+dnssdca02.ncdc.navy.mil.	21600	IN	A	205.85.8.133

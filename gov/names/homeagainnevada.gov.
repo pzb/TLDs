@@ -1,0 +1,4 @@
+homeagainnevada.gov.	86400	IN	NS	ns1.mediatemple.net.
+homeagainnevada.gov.	86400	IN	NS	ns2.mediatemple.net.
+ir2n5v4ofa4a3cte699tmqd8rvcs192n.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. GULimFijHZhTeEDSgQhQ27hUZUihjfZrFvGhIXA4JT0gbSHzzZpSwQN2QC7Y7CAewqi44H5OjT0boxYYEYmYNaahlAzsHtwQlIt9Il8frjz2YfVzGSP7olSA5mdlFPq0Fd/A93pFEFAkITdQnXKhMJdnibZ8DtE0kQJaTK8f3ik=
+ir2n5v4ofa4a3cte699tmqd8rvcs192n.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ir32b81v9csa40ovs1jn17bckk32so4o NS 

@@ -1,0 +1,7 @@
+1i9rpen0vq8vv6ttjg6k4e14a28mfm3s.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. TojToZysDm9H5DsV/eqJWArVKVTmk5TwQUglXnTPD7XnkyMapXMMlG4EiOG6RD2a0nF/3SJylRvw/DwWbvHXvPP2iLGP/HsvLYctBKMO9eR3oGafxhZQ45dOVrlN/GKycbhiUKQoIi2Af81KiI2CNmpAutNpDBh3sbO5QnebroM=
+1i9rpen0vq8vv6ttjg6k4e14a28mfm3s.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1il5322efkmnc82mrihujc0f3foj5tct NS 
+ns1.iowa.gov.	86400	IN	A	165.206.254.145
+ns3.iowa.gov.	86400	IN	A	209.56.120.13
+iowafraudfighters.gov.	86400	IN	NS	dns.iowaccess.org.
+iowafraudfighters.gov.	86400	IN	NS	ns1.iowa.gov.
+iowafraudfighters.gov.	86400	IN	NS	ns3.iowa.gov.

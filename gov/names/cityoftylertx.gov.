@@ -1,0 +1,4 @@
+cityoftylertx.gov.	86400	IN	NS	ns1.netsam.net.
+cityoftylertx.gov.	86400	IN	NS	ns2.netsam.net.
+ql0miajioph202odsc7478g1jss89vo1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. gZp5Sb+wvK3W8veFb1zC++45fXtPE7yLg3Tr+MoJ0+IFR//gtVhk5+M0XHg9v7DKCVb9R2mv/zc/KetOfkT/iCtUWnuOd1QZPuPfpRrNUM5M0TYNtulypR4fl4teuWf+zsHranN/k/ZI6tRr4oM+7MJHQ7QfYF3mWl2O9MJZhgU=
+ql0miajioph202odsc7478g1jss89vo1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ql36sfafssmu3vmp0lop82f87m499ul1 NS 

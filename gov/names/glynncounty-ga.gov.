@@ -1,0 +1,4 @@
+4705j295cfrlsqg61m9i7n5ihvuioovh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ghD9LgqBgud7puvYZ8HcvdbftaEaZ2fifvL4NqFOKpvddVoO/X533RDWIvmi+pAEC5zC61Lp5w+hhTRnRj0Ksl0kIyZOarsqfPlVSyGMEHwuHOCkqroIoDCqxge27RgQxNVP5uzhwHspAqmBF9sus8s8xhfDdkkXtsfPF3LAAsI=
+4705j295cfrlsqg61m9i7n5ihvuioovh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  473tv2j8qlc427i3284vr2k477arp6ce NS 
+glynncounty-ga.gov.	86400	IN	NS	cbru.br.ns.els-gms.att.net.
+glynncounty-ga.gov.	86400	IN	NS	cmtu.mt.ns.els-gms.att.net.

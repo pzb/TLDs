@@ -1,0 +1,6 @@
+directoasucuenta.gov.	86400	IN	NS	ns1.federalreserve.org.
+directoasucuenta.gov.	86400	IN	NS	ns2.federalreserve.org.
+directoasucuenta.gov.	86400	IN	NS	ns3.federalreserve.org.
+directoasucuenta.gov.	3600	IN	DS	65325 7 1 91a8b5e2af1458e3a7d4d50c77ffc306f61c64b5
+directoasucuenta.gov.	3600	IN	DS	65325 7 2 05e565102980c0645daa0844abdf3b005d74fe96c7da33d538cb1e8ef6be6414
+directoasucuenta.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Tyj+tAn92ttzTuH5bR6tYnK6z5wjUM1CWQd8kD9GCFzxOXjqxLjTEGkWg+CT0WJOmDmWN/m/RNpPLFg3bjFqCCa00i1CUlCt2lw0Kx0rvSWBQEemtLzTNRZlupS4JSB3HiVgad5ih52N44YW/nCkT+Xi9/huOcJeN2x55Hc/eeg=

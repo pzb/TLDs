@@ -1,0 +1,5 @@
+cs2bifnep68jhdprq7e65pn40v3kiorp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. VB4QS9+i5n5HaztmDiuQL/UJzpzEj8jbH7zlbI/0teAgkkdl/6XqnwLwTXrkR228lIxltOyxy/du16RqNtc22EUI5VJL7cHFGehHaHnRBE89zOd5kz1BKAeCSxrDpuIGUEAULjgmsRLxrxCyS7CyP1paWcpU6/xICXqMpeLkC7c=
+cs2bifnep68jhdprq7e65pn40v3kiorp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  cs6mjvht8ribnhrf9u78ndfl8f190nlc NS 
+eaclearinghouse.gov.	86400	IN	NS	dns-pub-f1-u.pentagon.mil.
+eaclearinghouse.gov.	86400	IN	NS	dns-pub-f2-u.pentagon.mil.
+eaclearinghouse.gov.	86400	IN	NS	dns-pub-f3-u.pentagon.mil.

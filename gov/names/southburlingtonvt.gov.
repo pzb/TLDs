@@ -1,0 +1,4 @@
+l8e4vekl3gd0msnk2mjj2r53age5ar1v.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. aZ1uuWNFzNKmmhqMeJnlWgMzbze1T24LJkxR+E5JvdH2kULDRPBB8RY9mHTmI+FNiz1g98kJl3v3erUVgQANJrEpew749onJqz5OgIUknbjyDcRp6UFeLDbS3PQ0rSWTTzfogAiJPkqTNOr4GbChwwxYx7grC8cY79qLcYjsaTA=
+l8e4vekl3gd0msnk2mjj2r53age5ar1v.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  l8i50jmaj18kir21p45d0tfishtcp0pp NS 
+southburlingtonvt.gov.	86400	IN	NS	pdns07.domaincontrol.com.
+southburlingtonvt.gov.	86400	IN	NS	pdns08.domaincontrol.com.

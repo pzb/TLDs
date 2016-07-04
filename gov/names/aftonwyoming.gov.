@@ -1,0 +1,4 @@
+aftonwyoming.gov.	86400	IN	NS	ns6087.hostgator.com.
+aftonwyoming.gov.	86400	IN	NS	ns6088.hostgator.com.
+furptp8invvcrklrrp63kgk9anq5s1hr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. uOoi4V0dZVQ3edrFDm1AWkkWNHNDvBLePK5uYOr+p2CqNKaQgxCjLumJG34UltvML0u4Q/SnfUXKcCRLzWK2fwWqWecYxU+4QOfVyz8V4jVrIKxWe+DPR2fJ+Aibzyex4xVIZk21ouDMXSBBd8Hd6TAhnEkJ/PSDY/MnJiRk1wI=
+furptp8invvcrklrrp63kgk9anq5s1hr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fus8lqachepikni1ob23as4pmen0al4s NS 

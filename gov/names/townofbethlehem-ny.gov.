@@ -1,0 +1,4 @@
+dpucnk5iudvs94st0tvtnu6hdeiqpfbn.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fgVOa1IbxGEZXNHiC59CdaQv5BiuLGmnS7z3n16IpmemZyddIDn6w2YJf3axtz3ZA2htbZGC2gS2YtUKd9RI1xQC62MS6YKCkyw/hVwoFSn1TTnzrgS1i4OTqs/vaFFgR33qFXi+Za9nJxe9i7Xjgy/VvwJaUVSjKbMBlQk0dYY=
+dpucnk5iudvs94st0tvtnu6hdeiqpfbn.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dq54t22l15f9didng9rpocpqp63o4p1q NS 
+townofbethlehem-ny.gov.	86400	IN	NS	auth-ns1.tvc-ip.com.
+townofbethlehem-ny.gov.	86400	IN	NS	auth-ns2.tvc-ip.com.

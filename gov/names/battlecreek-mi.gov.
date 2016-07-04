@@ -1,0 +1,4 @@
+b6at760jio8japld0agqj3os9e72lgr0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. MmNDmchViuLhHzIV6NKIkNx7soYviFh6gACffFbEyBb6PKWwUAxLqjISUwIIcUGpi+sTCBXh1654id4PKWyAdiDLAOMlKJi+yZKwJp9jk25ugMN+/IERy43z8DMzN20h6xG9mngGm7l2teEnOOxX6mGPnqAe1wH3n1nzIkp/3+U=
+b6at760jio8japld0agqj3os9e72lgr0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  b6n0msdt6sf77e588eg2rigqd6ea033n NS 
+battlecreek-mi.gov.	86400	IN	NS	ns1.ctstelecom.com.
+battlecreek-mi.gov.	86400	IN	NS	ns2.ctstelecom.com.

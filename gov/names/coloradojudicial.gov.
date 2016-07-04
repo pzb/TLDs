@@ -1,0 +1,4 @@
+1abvl6esqc8ku43saami9of8ofv2942v.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fnimXeYltvhe++yXxNN9DTufCcER2qPjqQgMMsmIhTGXRQjTdnuYn4fDjHgYSEp1S9EPR49KHxBHFM8Cs1fT5a4JpCwhujBKwQRXgGyubfMQvWNqA7R+qwqY+m2LUm+5erYlK/luj77oMVqqGXo5ajiHdIHmedcIsNfu6mo+0Yc=
+1abvl6esqc8ku43saami9of8ofv2942v.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1ahfci3vpf2qmvdk11m1tp3240kj62su NS 
+coloradojudicial.gov.	86400	IN	NS	dns1.state.co.us.
+coloradojudicial.gov.	86400	IN	NS	dns2.state.co.us.

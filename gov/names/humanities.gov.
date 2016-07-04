@@ -1,0 +1,4 @@
+humanities.gov.	86400	IN	NS	cbru.br.ns.els-gms.att.net.
+humanities.gov.	86400	IN	NS	cmtu.mt.ns.els-gms.att.net.
+mgii59glttrj7886aq8qd33l52hsgev8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. jV1Rm10v6k10ufDLRFUdr8jeHPdKBnR+2BDXOZetzNWIa8RehfCXfroPhqe760IvlAU2hgWo0QB3izRgIVGUG57T3Kr3a7y9ExmPNNwx+U/D4yCYmFDFuAIvujVKizBx18KVumgXtziI+JG7nBoWwaoipfgcyVpaDQp50cbRn/c=
+mgii59glttrj7886aq8qd33l52hsgev8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mgset7kl751a0obad1i93scfcouubooc NS 

@@ -1,0 +1,7 @@
+marfo.mil.	21600	IN	NS	marfons01.marfo.mil.
+marfo.mil.	21600	IN	NS	marfons02.marfo.mil.
+marfo.mil.	10800	IN	DS	38302 5 1 a551e6cb232e3baadf5ce4e976c470bfb0e8598f
+marfo.mil.	10800	IN	DS	44968 5 1 06d87a11bff49d86181d8beeae979e8468934c02
+marfo.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. Ma4wkLtVh6XlCb13J0C89WLA5bq3doQDLvX241k4GNxXEVF8HNZTuks2GNYewMpOd4mvRXw1VHLI0ZurxlDpZ5NN9o8SY/Rl80yqXSBF0uc4tYpiSF+sJIvGslvZOqx47EwufAyP3RnUgVCjfVSuFhmhzvTkN0i29vTdOiionuveKbE=
+marfons01.marfo.mil.	21600	IN	A	214.25.107.4
+marfons02.marfo.mil.	21600	IN	A	214.25.107.5

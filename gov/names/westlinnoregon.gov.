@@ -1,0 +1,6 @@
+dca7kp035r6k4eaf1r67k5hcb0hja10v.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. cWxMy+HS9HA+xPZXGOtvbXnOCaRjAmQCHeqfb+WhNKVDhnxk67orataNflPR5NNS/K3Now0kD8noyqy0VdtkoKn9zvD8ZfgUVUEC9MoBVG/I+6Gp02jEg7Mh9t6uCvsPHrkENvjKfZ5ApPEsWPfu/w0cYEetPC4A90j1xNKkzpI=
+dca7kp035r6k4eaf1r67k5hcb0hja10v.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dcai2inhc4n1g1pb9s4upadmimuumsji NS 
+westlinnoregon.gov.	86400	IN	NS	ns1.polarsystems.com.
+westlinnoregon.gov.	86400	IN	NS	ns2.polarsystems.com.
+westlinnoregon.gov.	86400	IN	NS	ns3.zoneedit.com.
+westlinnoregon.gov.	86400	IN	NS	ns13.zoneedit.com.

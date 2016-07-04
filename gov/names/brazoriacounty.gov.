@@ -1,0 +1,4 @@
+brazoriacounty.gov.	86400	IN	NS	ns1.brazoria-county.com.
+brazoriacounty.gov.	86400	IN	NS	ns2.brazoria-county.com.
+qeen8r82i7cvtcd85qrf863okkum92qv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. brEzuliN+aBW6DRu1tz+YRFAhWGo/X4TvPDa5J0sFv0AxSMfIUWWOZOWZT45MuuGe1QGzdI6T89wxS8HfdWxkDrY0lyFlb+SmIncdS5PNhLS+vSl+4UgVrEoxSauKMbwfi3ta6HYHofh8y+kHytGiLO3LygQvoVukQm71+Em8VY=
+qeen8r82i7cvtcd85qrf863okkum92qv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qem6963h6s33g24rm4lhth944pdemven NS 

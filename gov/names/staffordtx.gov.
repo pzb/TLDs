@@ -1,0 +1,4 @@
+n2g0oev7ldqpqmnu81e54sn2g97krahr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. vRPdXEywsU7cvgxXTzEFI2W6il81aTOW8W0rS+WV2GpRmJ9cntHbPLKSCCNdMb9MixMGgbQpi00QN7msenGsdBQS0vKvO4KjbLAmQuyt3g6Jh3Cm8uJ6cpu++/XwgJsWU/ackc52LkeQQC4eW+b6t2EkOGMb8vZNknPRBD6lKSU=
+n2g0oev7ldqpqmnu81e54sn2g97krahr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  n2nhfvfmam1j83q0kss391d68f2uckem NS 
+staffordtx.gov.	86400	IN	NS	ns6531.hostgator.com.
+staffordtx.gov.	86400	IN	NS	ns6532.hostgator.com.

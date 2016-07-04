@@ -1,0 +1,6 @@
+9ee2dc2229thh726j25hdnouad63hcj2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. kVE3innPafhI8sN7uaJjDe5q/warNlN4hSLFbSyRV8r8T7xMK2wmUB/l1QjcTw+EJUmiueX+A2PC0nzcxlv6qJ3xirEQY9wNoUvTrKdeKEbdQB2wrtSKS2lyqUzOpT9nPXCok245FlKMS9MKm7qWm/I8gxMnRMJjvCnujr7T/Sw=
+9ee2dc2229thh726j25hdnouad63hcj2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9ee42chlseg6qsfsfjbk15qqsb8m3lht NS 
+bedfordva.gov.	86400	IN	NS	dagda.bedfordva.gov.
+bedfordva.gov.	86400	IN	NS	lagertha.bedfordva.gov.
+dagda.bedfordva.gov.	86400	IN	A	67.221.119.78
+lagertha.bedfordva.gov.	86400	IN	A	67.221.116.214

@@ -1,0 +1,5 @@
+en44eenrg2qilom42852mc7p3brs3862.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. r11ComEHL1rryu3sFNzIS8UfLe1epxzGz5GBj9o1X3SzSuq2vU68+vY2VjKoga+f1PUbtKDMr4ED2fgT7RtH2C/ofb66vcQCnzAlybDCw7Jy06yBX7QYRKrg30XKqD2Rc1QyEC2kuUUkL7Oj3SkUwHG26viOJFMB6Ut7vKNGIlU=
+en44eenrg2qilom42852mc7p3brs3862.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  en9hk1jglhvdmsh4sm6c8rp6u25vulfv NS 
+scottcountymn.gov.	86400	IN	NS	ns1.state.mn.us.
+scottcountymn.gov.	86400	IN	NS	ns2.state.mn.us.
+scottcountymn.gov.	86400	IN	NS	ns3.state.mn.us.

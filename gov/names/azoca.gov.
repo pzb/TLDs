@@ -1,0 +1,6 @@
+azoca.gov.	86400	IN	NS	ns2.serverdata.net.
+azoca.gov.	86400	IN	NS	ns3.serverdata.net.
+azoca.gov.	86400	IN	NS	ns4.serverdata.net.
+azoca.gov.	86400	IN	NS	ns5.serverdata.net.
+ustibdj9nu1lu4s3rq2pheecuchvr72l.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. LDRXMbAPeN31b0gCTEe+c6Jm5ofjNwGCh939a0ntGI7yurYD1aZPChswBsaLCoMmlFitT6KaHcEcSyRjcn3dunQIV1v2GeypoAXSIZ8k+bLZASEuQpvxPNsz0jbNpwmYalmCWHHJHOl4Y76IOVeGO9MAx6E+iwS3Mke3ngfkGvU=
+ustibdj9nu1lu4s3rq2pheecuchvr72l.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ut7p4adi9hamoi56k6oap5kg49l769ud NS 

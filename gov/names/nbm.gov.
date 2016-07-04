@@ -1,0 +1,9 @@
+nbm.gov.	86400	IN	NS	a7-67.akam.net.
+nbm.gov.	86400	IN	NS	a1-166.akam.net.
+nbm.gov.	86400	IN	NS	a13-67.akam.net.
+nbm.gov.	86400	IN	NS	a20-64.akam.net.
+nbm.gov.	86400	IN	NS	a22-65.akam.net.
+nbm.gov.	86400	IN	NS	a24-66.akam.net.
+nbm.gov.	3600	IN	DS	1522 8 1 e1962c41fc715174b79793f61083a3e75416b3bc
+nbm.gov.	3600	IN	DS	1522 8 2 817341c0e73efc8182eedc72d950c20f2020da2cdb3f03a216b9cb47654465a7
+nbm.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. SSARjsIFeP2pEf0gp1t9L+x76LkShq4pG/6j1zF5/bShzmDGc0/cW9DYflwiwCxx1aZG20dYg3nS9gEe2P8PIGxQ/3cVJzP39ml9a8e6t1Ggq54eRjvToLrDdwP+1xMM8QkGdttGIocQ9QorD/SLNQjjByK5NEfS8wq8b95MqS0=

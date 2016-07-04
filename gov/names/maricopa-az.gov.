@@ -1,0 +1,4 @@
+8hlfq6rgq6vgocnnnm0oaku038jjgstq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. OcK+x8nr2znKYRWMnEdg+9bD7FU4jdsIqhvs2gY+UU522KM8uJ9RAXkppLje2rEY1BtYMmtWvzbEANKQdDYPivzRDHTI1FzB7/FFMbhmHpBcEgcks77NrzVJzbDQcgUbv9eWCqulDRLDg8oQ6V/xMPRCdxydCzZnmHD1ir49Yuo=
+8hlfq6rgq6vgocnnnm0oaku038jjgstq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8hog00mbde27kdq99iamh2j37b89ahor NS 
+maricopa-az.gov.	86400	IN	NS	ns1.maricopacity.net.
+maricopa-az.gov.	86400	IN	NS	ns2.maricopacity.net.

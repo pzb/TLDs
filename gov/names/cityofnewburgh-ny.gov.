@@ -1,0 +1,6 @@
+cityofnewburgh-ny.gov.	86400	IN	NS	ns1.cityofnewburgh-ny.gov.
+cityofnewburgh-ny.gov.	86400	IN	NS	ns2.cityofnewburgh-ny.gov.
+ns1.cityofnewburgh-ny.gov.	86400	IN	A	69.24.67.111
+ns2.cityofnewburgh-ny.gov.	86400	IN	A	69.24.67.112
+tkb2fpe199fe7kjqoipdmf3m5eqt35vk.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. sYJmvYMEsuzaGmCWBwC2T5ye7jvJ9SAQY/+j9IVFw32R6e/brc7F2DN5/uO1jf6Dz8Hj8U6Q5K3UC0aY2VjDr7bEbOjPZ8NJFKhJ4YZmpZ8nTQU93SDXgieha4xNsPcT+KRR0GjEgG+Snn2WseFzJ2A1Vf4YdHBtoD9A2cFH82M=
+tkb2fpe199fe7kjqoipdmf3m5eqt35vk.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  tkcabp43nju3pphri48qa962uvj6u06h NS 

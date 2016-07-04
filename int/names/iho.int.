@@ -1,0 +1,4 @@
+iho.int.	86400	IN	NS	ns06.webstore.fr.
+iho.int.	86400	IN	NS	ns10.webstore.fr.
+iho.int.	86400	IN	NS	nice00-main.webstore.fr.
+iho.int.	86400	IN	NS	nice10-main.webstore.fr.

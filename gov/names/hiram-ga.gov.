@@ -1,0 +1,5 @@
+hiram-ga.gov.	86400	IN	NS	dns1.vc3.com.
+hiram-ga.gov.	86400	IN	NS	dns2.vc3.com.
+hiram-ga.gov.	86400	IN	NS	dns3.vc3.com.
+miqdplr6a7rqdkk8snp0l0ogfvjc915v.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. NYgPMEE4iLbrJSnypJG8OQ/wK8TAsWMUAZR1ardrJ5gBi9E/E8MA3oxll667dxBNKP4xaE3rWGJNvjt3MfFWiH/g+yoVKPjA3PGd/FTZLMBCUYAVi2XDHasKJYJ7bo3ey7gAItvEccUrVdf8BJDrKBgKLl0GsgKOln4nzo9gFfw=
+miqdplr6a7rqdkk8snp0l0ogfvjc915v.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mj1c6u50l1tnj8lt7ohsvtpd13kdtj2c NS 

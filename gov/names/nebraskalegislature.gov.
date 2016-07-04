@@ -1,0 +1,4 @@
+09o84jpl9kpqadt8239kaohnqi45atb8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. nKStOBHKw4hryaXgtUs0kuTahgGGt8iIwL+BXGW1QpK45dTkLZLDAwxJCxGavK/09b11xxTvEbzxuLGFo93cHItyw2sHSCfr8kwPnOtdgyjPfmgMkFpgfcBA8rK7GBi3nParXJcr69x5XDym5rFbZi6TF5Il1hAzCC3TPd05JjY=
+09o84jpl9kpqadt8239kaohnqi45atb8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  09sqlgd0ukv6dfct0sevkfnms2o3sdfo NS 
+nebraskalegislature.gov.	86400	IN	NS	dns1.doc.state.ne.us.
+nebraskalegislature.gov.	86400	IN	NS	dns2.doc.state.ne.us.

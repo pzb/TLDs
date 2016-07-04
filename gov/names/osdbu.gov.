@@ -1,0 +1,6 @@
+egl55jhdfmil3jvtngrj8fhftrfqbq8b.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. BxypYqhboozjsgd9P+X74pKP9dWcIyVfBAKWLoMJVnTLSss1r8Of71B4oPHZGBrdScrJuYOWKi5jcFz9wveia4p/TaGmUI366dXGIltkrITKls01evYqW5h4m/yaoVM+IRS2cPsVFFBJiCIorsDuNMfztbtYjLV29ty2BZJI3UI=
+egl55jhdfmil3jvtngrj8fhftrfqbq8b.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  egvff0bgenkt7b4ueecc3cdu2mo0n161 NS 
+osdbu.gov.	86400	IN	NS	ns1.osdbu.gov.
+osdbu.gov.	86400	IN	NS	ns2.osdbu.gov.
+ns1.osdbu.gov.	86400	IN	A	173.201.16.59
+ns2.osdbu.gov.	86400	IN	A	173.201.17.192

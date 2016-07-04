@@ -1,0 +1,4 @@
+3p1o4nalmc47uine5ocjg02aghsrra36.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. sw1jekyZObFRVgCSbyFHTUe5Ln2/h7zgusFHee6vaan641X0xPm4sHmeixQD04lw0+jR0vjOOIPbEO9+D7WNb6xQY9R/g5OirdL5yIZhWhIOQIQFjJnjLtDqyUVJdKbreLsUJjUHAuzo9Kyf0OgqoOWeAcsPoOJ22ZOD8MzKyiQ=
+3p1o4nalmc47uine5ocjg02aghsrra36.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3pbvq47vaj9vbhb6pej4bago2fmq06ua NS 
+tallapoosaga.gov.	86400	IN	NS	ns1.lnhi.net.
+tallapoosaga.gov.	86400	IN	NS	ns2.lnhi.net.

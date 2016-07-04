@@ -1,0 +1,8 @@
+canopus.afis.osd.mil.	21600	IN	A	155.7.40.88
+vega.afis.osd.mil.	21600	IN	A	155.7.40.44
+castor.dodmedia.osd.mil.	21600	IN	A	155.7.145.66
+pmhjm13pgl5ev09rf9aqao47earrk056.mil.	10800	IN	RRSIG	NSEC3 8 2 10800 20160708161835 20160701161835 16413 mil. CBgwRsGuUcEnAKqS5JEPvpNGwMOyn/rQOf0NH+JETYO4eAhmsEFkXQUqC5P+fVYdgRkJHqYRlYB6xAbva+cgHlxccXNjJewka8h/I1XTs1yM4nSICLD739XeU/0RGuvbUJs0zEmA4JjYZXCpU+jumLFVGq+oN95p8n4i6ZCAyc20bos=
+pmhjm13pgl5ev09rf9aqao47earrk056.mil.	10800	IN	NSEC3	1 0 10 adeb  pn5t0pkss26vfquoc3ip4p7ri4s0locv NS 
+wartimedetention.mil.	21600	IN	NS	vega.afis.osd.mil.
+wartimedetention.mil.	21600	IN	NS	castor.dodmedia.osd.mil.
+wartimedetention.mil.	21600	IN	NS	canopus.afis.osd.mil.

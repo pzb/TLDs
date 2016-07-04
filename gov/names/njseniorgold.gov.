@@ -1,0 +1,4 @@
+dut0supum98c2vu0sgskhb56s90cup4n.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. K3CSHK1MBAEmhf+Rihi/Bi5zUkvSb+u2vdfqOUkxZBcIfVG5awCPjp7BoguB+XiVPTrxzyMOnu16BOIpx1XcbsAD2XBNHPOWwYb+7/u3OtYtihN3epoxN33l//5+4vlGrYMuRG3dpmdWX6xyGGihZgMtphnfd+0nfgtVsxJ95zM=
+dut0supum98c2vu0sgskhb56s90cup4n.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dv4t1bhbjql09f5sq5r70p0bva3faim2 NS 
+njseniorgold.gov.	86400	IN	NS	ns1.state.nj.us.
+njseniorgold.gov.	86400	IN	NS	ns2.state.nj.us.

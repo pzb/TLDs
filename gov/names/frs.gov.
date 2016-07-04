@@ -1,0 +1,6 @@
+ns3.frb.gov.	86400	IN	A	132.200.32.112
+ns4.frb.gov.	86400	IN	A	132.200.32.113
+frs.gov.	86400	IN	NS	ns3.frb.gov.
+frs.gov.	86400	IN	NS	ns4.frb.gov.
+th4mjiscclaj03agrsfdaveua6ia759d.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ivSQddLIo7jI7ce2Kf0O9bey80lEpFbYv7syh1DLGIHXicCRT6Y+pcBdjzemUWWmCahWLXpUSrIAgPNh2GJyzIOxmJF769L1FaYZgsADv5r0iUO8hkh0W/4TXtQiig/SaP3ij9+UxsrtSiCtZ4CLEvBoHGyZF2iK9CYlXjDf4ao=
+th4mjiscclaj03agrsfdaveua6ia759d.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  thc376q42r0a24pbh3f1528bs2psiql1 NS 

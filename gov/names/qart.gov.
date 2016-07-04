@@ -1,0 +1,7 @@
+qart.gov.	86400	IN	NS	ns1.nitc.usda.gov.
+qart.gov.	86400	IN	NS	ns3.han.nitc.usda.gov.
+qart.gov.	3600	IN	DS	27897 10 1 841d05c9abd58f508c93efc1b9c9efc7cdc9ab94
+qart.gov.	3600	IN	DS	27897 10 2 3ffd843a91a50b9cf2b05c08601f36070026058b0b8665dc644a59e80e6f7b0a
+qart.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. MPY7vjxHp0brVf4RjCyQ5l0hOFwdSpw20hiuVJLGxmTEWrx6qtSWz/JCLVoYCiwTWQPEjkejyl8o49JdTZLNeP1DT0569HUfTb8K+ZzYQ1eauChSHXcxiNha1cohP6kYXRc495ZoEbXRo0wOfTXID0dM8wluBc5atlbmpSYhnSE=
+ns3.han.nitc.usda.gov.	86400	IN	A	199.134.208.70
+ns1.nitc.usda.gov.	86400	IN	A	199.134.227.5

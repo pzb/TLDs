@@ -1,0 +1,4 @@
+5q7kkge0oe43q85pls37o18b4l58j43e.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. V56vpSa4CHFbt9vYEvvsaa2OA0qYG0PrkTS8vu/XHXd3NtZVVoswCjIpL6urV2XgmbryMk02h1VjvSGtxB5RiuYTY+As1hM4+ZDL8U7HZoum41/1BYPMd9T28Sbih2sEJcpi5+sAOf6xrShukPdY547/n0JHJtbvezAOEo4nS1k=
+5q7kkge0oe43q85pls37o18b4l58j43e.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5qffs29ko9fuk3aknlssmn1o5quhlusj NS 
+sturgis-sd.gov.	86400	IN	NS	dns1.civicplus.com.
+sturgis-sd.gov.	86400	IN	NS	dns2.civicplus.com.

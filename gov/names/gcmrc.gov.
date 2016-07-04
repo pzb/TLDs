@@ -1,0 +1,9 @@
+gcmrc.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+gcmrc.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+gcmrc.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+gcmrc.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+gcmrc.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+gcmrc.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+gcmrc.gov.	3600	IN	DS	10042 8 1 c518b80d0e7b0ccde4677c71ce2df42ebdb29ceb
+gcmrc.gov.	3600	IN	DS	10042 8 2 43998534180046dfdb35d367082e69ab6aec176f6a51b1a0b902c47b0adfca5f
+gcmrc.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. X+YVg4+pQ12+1999bxMe+d8ecwCuUHtbfCe+yHSOdCyR0MMNIzlqWcYEgqBZIlv13IsdhsHKmv+88pjeMwnzMFs8Oa4QiS4n8Eqh6MknYtqsrXLYz0o80NCewLqFVP49H5mjPZ/3v2hHY0brDOok8wnEjCiIX+piEPiVlUc9Z2A=

@@ -1,0 +1,4 @@
+north-dakota.gov.	86400	IN	NS	ns3.ndnic.com.
+north-dakota.gov.	86400	IN	NS	ns3.state.nd.us.
+vq6rv5jilemhr4m1klo2stcl73l7hq0c.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. xEhDHum125SN135AiVXGYmKubdBxVO1cTa0WK45PIjutdUan0nNLUZKh8vPB4HXJZXkOv28jHCQptwwFDSqV+57HCKIjxbtNEKs4BXpTSiBNRH1uPU4taSXDZKx7pbEyWBIgnTI+q1ZyD+GAaUfOO4qrxkKQ4ekgPLhvaqDn5s0=
+vq6rv5jilemhr4m1klo2stcl73l7hq0c.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vq74njigrdr9gp7jl0b661lhahm1sbaa NS 

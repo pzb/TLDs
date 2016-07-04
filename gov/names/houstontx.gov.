@@ -1,0 +1,12 @@
+6qvckkuo9on12ehf9favnlmdrj90539j.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. dXMHeEgJDZuf42vSIUcjFaqrHUdxhSOd1SXCpEzhreGRoPqoelBRHUSljTbWQCTx2P0I8AuLcEFXBluGSDnyJGQZ4l4XGLrfQUvJcSIVFfYarZxv/7RxvoEstBVeYzpH5dquw8Tat5RQZd6Azg9y8SO4o27n0gUQ+ncxHEtFv5Q=
+6qvckkuo9on12ehf9favnlmdrj90539j.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6r0jfq25s1fmfsdauategdjr7129ag7s NS 
+houstontx.gov.	86400	IN	NS	dns.houstontx.gov.
+houstontx.gov.	86400	IN	NS	dns3.houstontx.gov.
+houstontx.gov.	86400	IN	NS	dns4.houstontx.gov.
+houstontx.gov.	86400	IN	NS	ns01.houstontx.gov.
+houstontx.gov.	86400	IN	NS	ns02.houstontx.gov.
+dns.houstontx.gov.	86400	IN	A	204.235.224.5
+dns3.houstontx.gov.	86400	IN	A	204.235.236.43
+dns4.houstontx.gov.	86400	IN	A	204.235.232.5
+ns01.houstontx.gov.	86400	IN	A	204.235.235.81
+ns02.houstontx.gov.	86400	IN	A	204.235.229.57

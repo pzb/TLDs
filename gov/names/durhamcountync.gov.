@@ -1,0 +1,6 @@
+3kfqbpcfsrfnnuh4gpojh5acl463t9pg.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. q87ggchI92coi9DYtDZnLXDpvQUGTscr/m+9S4MlYom68jedkXRpbF/rhfx6oKuRp/6iMAx26jN886mhxEOU7B+2Jou1tVNUx9EFbx5wZsgJR/KMRpf3AHpjQMHkpdBjTg1onBkzWZ4dZwH7YpoUgCjTKk+nfSs+ICsfmFe8VUY=
+3kfqbpcfsrfnnuh4gpojh5acl463t9pg.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3kq79skuh2hrd7fbat77ln8tbam4je3n NS 
+durhamcountync.gov.	86400	IN	NS	ns4.durhamcountync.gov.
+durhamcountync.gov.	86400	IN	NS	ns5.durhamcountync.gov.
+ns4.durhamcountync.gov.	86400	IN	A	168.215.112.166
+ns5.durhamcountync.gov.	86400	IN	A	24.199.169.126

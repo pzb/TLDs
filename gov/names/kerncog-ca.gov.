@@ -1,0 +1,4 @@
+910sm5bt4k7suh25jaifu2rmkjite91e.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. EonWyKtM/JoKVoocV66lNlTGExygSKxbnQtlNV3Uc3aDf6bpRNxvpBKfhOgumYVH/03rHbNahXc+IPvnt19U2HQ2xrhlT598xbRPJkGt284fotejIrSh/ks1s5/OLMGCm2I4XJDmaQc7AkOOp9TuRcgurc8rlWEJbxij8CzNStA=
+910sm5bt4k7suh25jaifu2rmkjite91e.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  913e1h26k6v38j43ikr8i9ofct5g8kh2 NS 
+kerncog-ca.gov.	86400	IN	NS	ns2.fluxar.net.
+kerncog-ca.gov.	86400	IN	NS	ns3.fluxar.net.

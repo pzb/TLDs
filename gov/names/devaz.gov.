@@ -1,0 +1,6 @@
+devaz.gov.	86400	IN	NS	ns-279.awsdns-34.com.
+devaz.gov.	86400	IN	NS	ns-636.awsdns-15.net.
+devaz.gov.	86400	IN	NS	ns-1464.awsdns-55.org.
+devaz.gov.	86400	IN	NS	ns-1686.awsdns-18.co.uk.
+h9v3nddkfhlrotsg52ikhu94kl943lls.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Uhwee3sJAOGZlQYif8luXmF9W8MoEq2okqUbRzvC860p9gc2GQn5lbmqQy/VDMmg3C60zY3DbQTT2F54VRFdspGsiZ1T7swKZCSO7PANuY7UQCVojSNO0XxObJDIQYMJf9BHeIn0rhhSO26dHKr5n7ai4Kip7SJOt0XbsOmpTiA=
+h9v3nddkfhlrotsg52ikhu94kl943lls.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ha4atcpm8csjfidbnfqg19jefsaihdd8 NS 

@@ -1,0 +1,6 @@
+35qbskqu1j629pjopm6a8osmn35t1qee.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. QwUGMZ8ajOKCRpdD7T1ObYnVMBx3T+Y8zFP19eFVF/U7SF0Y/+p/dfNTDQ60Znh0qqXDu/vWzjcQQ3lzFiAZnM1c1J+VyYOsdmKZRwDBnyNpHfsMoolCmeDQWIb1DbBd9N671k3gdOk+VC+n6Oc/VVfXxFOXuVoUjsL+yVf/dDk=
+35qbskqu1j629pjopm6a8osmn35t1qee.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  35uhehgcndorcfhrr986tk385pfl7rlc NS 
+bereadyutah.gov.	86400	IN	NS	ns1.utah.gov.
+bereadyutah.gov.	86400	IN	NS	ns2.utah.gov.
+ns1.utah.gov.	86400	IN	A	204.113.19.5
+ns2.utah.gov.	86400	IN	A	204.113.4.5

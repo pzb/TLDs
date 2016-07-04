@@ -1,0 +1,4 @@
+decaturtx.gov.	86400	IN	NS	ns1.cmgparking.com.
+decaturtx.gov.	86400	IN	NS	ns2.cmgparking.com.
+f6b8jmrrntj1k36ralc5bgesohm6jek9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. lJ7xF6Ce+myIx6TfcmP4WwlKtLt1O+Vece58CiyYlu5IFZ4cojtQ9NnFYSrrMR6guGXpd7brUSfKZao/GU9uhOhhRB9dzETMVBlp1J4E4WVcCJrCw1q5IkvvsrsLOvGFLvn9BW8vnTYhlkor82mVNse2G1eDl/j5RCS8ZZgtXz8=
+f6b8jmrrntj1k36ralc5bgesohm6jek9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  f6grq636p6tltrjer42jush33frhb500 NS 

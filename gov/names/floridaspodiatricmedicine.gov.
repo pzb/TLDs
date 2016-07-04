@@ -1,0 +1,4 @@
+32k8b871uor7utqmogb2setevisrldsa.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. QTHngN090JvdAPCxqxLDhw3dhzLjRQVtJ7oF9bTqwpn6Bwkjn6WWSKvIxTekcKFp/JCOtmOBoAt/9V8ONzC9nWy67Q/mN6g3r81jRjg304KlhOeUfEkXf2bRVG4SZ+fu6eLAyOxdh6eRq68AdkoCug5w+Fni8bW/LOr4bOq1mVU=
+32k8b871uor7utqmogb2setevisrldsa.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  32kn2p0auukihk6rkckqm37lrbpnuabu NS 
+floridaspodiatricmedicine.gov.	86400	IN	NS	ns1.mqawebteam.com.
+floridaspodiatricmedicine.gov.	86400	IN	NS	ns2.mqawebteam.com.

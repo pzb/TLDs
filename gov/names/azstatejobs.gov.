@@ -1,0 +1,6 @@
+azstatejobs.gov.	86400	IN	NS	ns-383.awsdns-47.com.
+azstatejobs.gov.	86400	IN	NS	ns-1003.awsdns-61.net.
+azstatejobs.gov.	86400	IN	NS	ns-1251.awsdns-28.org.
+azstatejobs.gov.	86400	IN	NS	ns-1569.awsdns-04.co.uk.
+qebb3eb8teuv5n32fjb6nib4i66so64h.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. UluPjBQ1jlIVa4l5T4nup/4S6R3tFBa7UZTwKWmTxYlwv65qpfU+535Mj+Z3M8NmV0GpB6HMCKnPeDbZKXUeYlW3qIzmDEsMrgSD1bn3qnhMzcO7tt09j6W7qzFEoI4+ZVaPGYIuyis8a0aTELRyIAUJHPrfzORvOcUPgyjQmyg=
+qebb3eb8teuv5n32fjb6nib4i66so64h.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qeen8r82i7cvtcd85qrf863okkum92qv NS 

@@ -1,0 +1,10 @@
+budget.mil.	21600	IN	NS	beast.dma.mil.
+budget.mil.	21600	IN	NS	beauty.dma.mil.
+budget.mil.	21600	IN	NS	kaucher.dma.mil.
+budget.mil.	21600	IN	NS	russell.dma.mil.
+budget.mil.	10800	IN	DS	62122 8 1 d3d397d5f57418f8e4ee0d2a924c2f69359a8967
+budget.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. NBVn11vIDSibwuXYCV4UwcorHSB7guHVU3HaxujLLJRcvXOu4NeDlgTj77NsW3UhG77xFtyTAr43rZzUSLw7Bj3+8P4vgprce2YVaxtWzSU/MSIQgajAEfURBklR2c/G/nsbk8tCwg2hs7jrVS94hOWUEh+b7PnLlXkIsQJxhR1p9DM=
+beast.dma.mil.	21600	IN	A	155.7.145.113
+beauty.dma.mil.	21600	IN	A	155.7.145.112
+kaucher.dma.mil.	21600	IN	A	155.7.208.113
+russell.dma.mil.	21600	IN	A	155.7.208.112

@@ -1,0 +1,7 @@
+en2i63u6ifo4d99dl7qkh30m58bnn5nj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. MYcEIFOoUlNWJXWGeB2Cob4C72IyaiXluNrT83Up+QBr7yJDkmcAVb640sgObq8QnrU+34XZvJpJgqkABkNPGXtNzQKCt/KfZsOO58W5rvSgNyhHDE5u0+nujKfyuaJE6+X8C4/J3mjryW3yxdBHhXTXNULQ7ZGbhBFr4v4bQ0c=
+en2i63u6ifo4d99dl7qkh30m58bnn5nj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  en44eenrg2qilom42852mc7p3brs3862 NS 
+ns1.iowa.gov.	86400	IN	A	165.206.254.145
+ns3.iowa.gov.	86400	IN	A	209.56.120.13
+iowastem.gov.	86400	IN	NS	dns.iowaccess.org.
+iowastem.gov.	86400	IN	NS	ns1.iowa.gov.
+iowastem.gov.	86400	IN	NS	ns3.iowa.gov.

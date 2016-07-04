@@ -1,0 +1,6 @@
+azqualityfirst.gov.	86400	IN	NS	ns-92.awsdns-11.com.
+azqualityfirst.gov.	86400	IN	NS	ns-818.awsdns-38.net.
+azqualityfirst.gov.	86400	IN	NS	ns-1207.awsdns-22.org.
+azqualityfirst.gov.	86400	IN	NS	ns-1960.awsdns-53.co.uk.
+noch14ic121emg3q5602mtntj7godo7c.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. aMx2D5N0kRNFooloN3yhmtZaFYeZxyZ9p7truyRp4OOqcjraI8UFLUVlwrCraVonwyFVo5XqLtWKgRsxtVkhPj8vaii0nfhVg/cAUa07pmZV3Ow0DiyX4tlyGpcnofKBGB/aajpWhem+O66LK6YggVwxS8INufy0Sl5Vobmq4XA=
+noch14ic121emg3q5602mtntj7godo7c.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  nog93vhnlmt5fvg9gbio3bc431vpddh6 NS 

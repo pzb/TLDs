@@ -1,0 +1,13 @@
+firstresponder.gov.	86400	IN	NS	eur2.akam.net.
+firstresponder.gov.	86400	IN	NS	usc2.akam.net.
+firstresponder.gov.	86400	IN	NS	use1.akam.net.
+firstresponder.gov.	86400	IN	NS	use3.akam.net.
+firstresponder.gov.	86400	IN	NS	usw3.akam.net.
+firstresponder.gov.	86400	IN	NS	usw4.akam.net.
+firstresponder.gov.	86400	IN	NS	asia2.akam.net.
+firstresponder.gov.	86400	IN	NS	asia3.akam.net.
+firstresponder.gov.	3600	IN	DS	896 8 1 13a43ec30c85c86a5e62503ec303e21392f0bbd6
+firstresponder.gov.	3600	IN	DS	896 8 2 011b4eec4b1091088af086410d8719b62c9e694d9b039d899020de66c51d8ed2
+firstresponder.gov.	3600	IN	DS	48715 8 1 fef43f33739e9348610dc2142999fd62cb0b9c61
+firstresponder.gov.	3600	IN	DS	48715 8 2 def84f87ee3a7b101dba321cbaff8463e71ac64f3333ca3c192075378414b57a
+firstresponder.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. vrawGQiHV/W/fKzzFIZ/pv4EerFGi1hi+cdJBTfQLtvAq/EfMocabEsmDiRAk51agFLYcwVjJuekG/p9jssjnE57DZPEuI4Z9PjtmsE8PJhiVYX1ytEZtya/lrivCBZuzPW5u5otf0Xx13rM1KRM7sV/LwXh/0WZpDKRPfv9mO0=

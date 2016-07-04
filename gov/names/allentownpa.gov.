@@ -1,0 +1,6 @@
+allentownpa.gov.	86400	IN	NS	ns1.p30.dynect.net.
+allentownpa.gov.	86400	IN	NS	ns2.p30.dynect.net.
+allentownpa.gov.	86400	IN	NS	ns3.p30.dynect.net.
+allentownpa.gov.	86400	IN	NS	ns4.p30.dynect.net.
+idhmb9vf1e0qnf51h40li3f40qk8tjmf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. AgeYJGxmub/oiyh3a3YKMr036S4LuuIdLIex04TzgHB83FCXLmRMNj+69gWJ/XvNkjxH/qQ5h279dPtNxdQRBczNKISExKtG9C9KhRdEMN4zcsqvdbzSI/UF5OWXf2J+Z1sKKA7Y3fJoFqadzOIn3Mp9LPFDpJ9YcNIfN/nekBk=
+idhmb9vf1e0qnf51h40li3f40qk8tjmf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  idn3k7r9j5n54q3pctd20qs8li6mrma5 NS 

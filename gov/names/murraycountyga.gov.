@@ -1,0 +1,6 @@
+murraycountyga.gov.	86400	IN	NS	ns1.windstreamhosting.biz.
+murraycountyga.gov.	86400	IN	NS	ns2.windstreamhosting.biz.
+murraycountyga.gov.	86400	IN	NS	ns3.windstreamhosting.biz.
+murraycountyga.gov.	86400	IN	NS	ns4.windstreamhosting.biz.
+p4ast0mitse6m5hl1v11fb5hud8htdc5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. s58T+qKKixR9xZ7yZqSvAT2OLKZjfv6Dd9lAGeSKcAw2uw+f243kPvx4Qa8zXHRTgxSRnTDiDDTGLpVvlzk+wHQN6eSKYkzEFTVMUx2Zkx6MMZ14yBKw2J7aH2a30T4F3bwmyRFG9L7xuI63JqjUqOg/5JKI+meWgIARAMFtN/o=
+p4ast0mitse6m5hl1v11fb5hud8htdc5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  p4c2amv928p4r3uebjh4opbfor4k1t15 NS 

@@ -1,0 +1,4 @@
+2tpe3s0o2usafvutd5lqcim9iherpn6b.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. W7TJLdBQhXUBJuXxdunTOAitO4zB8jjOBQo2iIB+GOnKxlJYmHOzCl8TU5VA5e3sAu6AcnEm/B8AGtlyTeZxSlkaRSf1V9KxaUCZ5fnpTzCjpjS0JLZhiCHfnDgGj2ffVr0uIzT2oVidM+8d8ZR6PJcsRKx0q+FGNDyiys1f9n4=
+2tpe3s0o2usafvutd5lqcim9iherpn6b.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  2tvuurv4flqhperhr97hgvi2ghjife69 NS 
+girardkansas.gov.	86400	IN	NS	ns.ckt.net.
+girardkansas.gov.	86400	IN	NS	ns2.ckt.net.

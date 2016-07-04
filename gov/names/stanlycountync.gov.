@@ -1,0 +1,6 @@
+1a1njvqn38sn54g4gnve801epas8876s.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. QuXLi4sTx+/I35oaL/p1BGhgSLXyC8nY0oh1pAFfKTwm77f+Ypmd3VyklRnLkx27aLl385dHU2jsCpASL79cFrCgDUwtvp6kikcDBVejGfCY9tP1Zp0Kzssu/Tf8rrgpR2CHhtS98KbDfnis8dfA/Ne9F5EK1vL/U3nqMiviUJM=
+1a1njvqn38sn54g4gnve801epas8876s.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1a5jkcem1mm37jdu0adihbljqs3kpgkm NS 
+stanlycountync.gov.	86400	IN	NS	ns1.stanlycountync.gov.
+stanlycountync.gov.	86400	IN	NS	ns2.stanlycountync.gov.
+ns1.stanlycountync.gov.	86400	IN	A	166.82.105.39
+ns2.stanlycountync.gov.	86400	IN	A	166.82.13.70

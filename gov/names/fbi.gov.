@@ -1,0 +1,12 @@
+fbi.gov.	86400	IN	NS	a1.fbi.gov.
+fbi.gov.	86400	IN	NS	a2.fbi.gov.
+fbi.gov.	86400	IN	NS	a3.fbi.gov.
+fbi.gov.	3600	IN	DS	5781 8 1 ce02007ed5b0ea1e820867fcf22b2fe593a7284a
+fbi.gov.	3600	IN	DS	5781 8 2 1dbd876e6ffeb59ae50f4c94e1e50ed14ee0f85a9e5f9b2d651f8e9ddccd426a
+fbi.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. YCNDPigR8JhXl1moGBiIHpXmT1qwilTtN2oy0N/yAfwMsCSLZYrO/1Wm6IrYp/ogjcbOr7KjGI543RRr2ZmnxEyUlB4JdyNqxpfxRnYVhy6ijoxmYQw+sBKLqitaY05vmj79v5Li0DggxvneMpYnlSK2p3sJkfYSp5FCeVOc//k=
+a1.fbi.gov.	86400	IN	A	209.112.113.33
+a1.fbi.gov.	86400	IN	AAAA	2001:500:7967::2:33
+a2.fbi.gov.	86400	IN	A	209.112.114.33
+a2.fbi.gov.	86400	IN	AAAA	2620:74:19::33
+a3.fbi.gov.	86400	IN	A	69.36.145.33
+a3.fbi.gov.	86400	IN	AAAA	2001:502:cbe4::33

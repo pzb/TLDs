@@ -1,0 +1,8 @@
+jq1vj7me9n6glu0oq736rv7paecv03bd.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. He1lErrkP2ekRLK3qHPrKruh+RCvmeswIK2hFw9r10XDg/+bBP4n2iKr/HVsOm1aHfIZrBU4h1Nz5wQbFiUWNBHa0DrGQ5Sbm0NIPMOj3m/cs8n4Vlp/Gom4IvcQsVb1jv1C7EJeb0YVAdRe5Kkm8OfIstyn1y6tA6yAbTn1NvM=
+jq1vj7me9n6glu0oq736rv7paecv03bd.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jq2iio2dj8j2rs32p1fj1gk8uapb95t1 NS 
+wy.gov.	86400	IN	NS	ns10.dnsmadeeasy.com.
+wy.gov.	86400	IN	NS	ns11.dnsmadeeasy.com.
+wy.gov.	86400	IN	NS	ns12.dnsmadeeasy.com.
+wy.gov.	86400	IN	NS	ns13.dnsmadeeasy.com.
+wy.gov.	86400	IN	NS	ns14.dnsmadeeasy.com.
+wy.gov.	86400	IN	NS	ns15.dnsmadeeasy.com.

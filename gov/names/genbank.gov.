@@ -1,0 +1,16 @@
+genbank.gov.	86400	IN	NS	ns.nih.gov.
+genbank.gov.	86400	IN	NS	ns2.nih.gov.
+genbank.gov.	86400	IN	NS	ns3.nih.gov.
+genbank.gov.	86400	IN	NS	dns1-ncbi.ncbi.nlm.nih.gov.
+genbank.gov.	86400	IN	NS	dns2-ncbi.ncbi.nlm.nih.gov.
+genbank.gov.	3600	IN	DS	38391 7 1 3118a8b4d577a658260fbc2bd09bae4dc3655a23
+genbank.gov.	3600	IN	DS	38391 7 2 d648d11f816622020217089548703ce130cb0d4db2d3d349d50ecaa9edde4c36
+genbank.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. AjSiyQ7pbCYveOdiCWrLK45F/qJDUmWwS4jGy4cHZ9HKO6v7lx7Boq2cwJk5eFyav0u6VcR1ZlpQ9l/b42TCcyTNB+aA2i1FW5+JDltHFnHAnYysPJpg+yzAPeVchT1ugZd1iRUakNj6GaInZmQbXSWfyLYouTL5IB9sol+pOuo=
+dns1-ncbi.ncbi.nlm.nih.gov.	86400	IN	A	130.14.29.31
+dns2-ncbi.ncbi.nlm.nih.gov.	86400	IN	A	130.14.29.32
+ns.nih.gov.	86400	IN	A	128.231.128.251
+ns.nih.gov.	86400	IN	AAAA	2607:f220:404:101::80e7:80fb
+ns2.nih.gov.	86400	IN	A	128.231.64.1
+ns2.nih.gov.	86400	IN	AAAA	2607:f220:418:4101::80e7:401
+ns3.nih.gov.	86400	IN	A	165.112.4.230
+ns3.nih.gov.	86400	IN	AAAA	2607:f220:402:1801::a570:4e6

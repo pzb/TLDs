@@ -1,0 +1,15 @@
+eac.gov.	86400	IN	NS	dns.gsa.gov.
+eac.gov.	86400	IN	NS	dns2.gsa.gov.
+eac.gov.	86400	IN	NS	dns3.gsa.gov.
+eac.gov.	86400	IN	NS	dns4.gsa.gov.
+eac.gov.	86400	IN	NS	dns5.gsa.gov.
+eac.gov.	3600	IN	DS	62494 8 1 8794321dade921fcf192fc05c324488e4fcd6344
+eac.gov.	3600	IN	DS	62494 8 2 7aa77aba4d23c38a6e72270472e7dba9dd058629896acc3e7b332a31084b3e81
+eac.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. JtvubHknWvahkDN3bwuIV2z0tgvsScjoAkrQWyAE0yi94rCcQ0tI5I5rFAHNrz7HZg9x2CYL2wU7cb9D83hTq7isH5fvM19xHCcIYQu+j6P6+otwV4ZeFoWx98tjFLfEyJA7Va7IvdnCtnsh1qUnkgvoW5bGRhtrylJZVgE2UcI=
+dns.gsa.gov.	86400	IN	A	159.142.136.198
+dns.gsa.gov.	86400	IN	AAAA	2620:0:150:280f::5
+dns2.gsa.gov.	86400	IN	A	159.142.150.68
+dns3.gsa.gov.	86400	IN	A	52.203.230.235
+dns4.gsa.gov.	86400	IN	A	159.142.69.84
+dns4.gsa.gov.	86400	IN	AAAA	2620:0:150:4013::5
+dns5.gsa.gov.	86400	IN	A	159.142.45.20

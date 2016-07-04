@@ -1,0 +1,5 @@
+3iuakmqqtkjed473o35stl094bloklef.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. HR5Z1bHq/pHZ4qvffXskEMbmHbbXOKEf5UB7/+OLHi6uO35sdx51EFv4niz7ApxbkHxbyjwqW5MnBDpxSicUTlakmcDuDI149VdDNLNO6o8NyT4dUVw+bHYt4rXExZTSdpI4ED5yD6dirfmVgwzFVPWUwNA9u5c92dpFehQu6F8=
+3iuakmqqtkjed473o35stl094bloklef.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3jkt8q1pvf64bf1r8gprni9jms9laf5g NS 
+texasattorneygeneral.gov.	86400	IN	NS	ns.tx.net.
+texasattorneygeneral.gov.	86400	IN	NS	ns.capnet.state.tx.us.
+texasattorneygeneral.gov.	86400	IN	NS	ns5.capnet.state.tx.us.

@@ -1,0 +1,11 @@
+t1dns1.anl.gov.	86400	IN	A	130.202.101.6
+t1dns2.anl.gov.	86400	IN	A	130.202.101.37
+arm.gov.	86400	IN	NS	nsx.lbl.gov.
+arm.gov.	86400	IN	NS	adns1.es.net.
+arm.gov.	86400	IN	NS	adns2.es.net.
+arm.gov.	86400	IN	NS	t1dns1.anl.gov.
+arm.gov.	86400	IN	NS	t1dns2.anl.gov.
+nsx.lbl.gov.	86400	IN	A	131.243.64.3
+nsx.lbl.gov.	86400	IN	AAAA	2620:83:8000:140::3
+pi4e39nfsbmoo82e92qpjrmn9kkbtts4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. LfTjrMtgpkdo2l/KjQusrfOLrUkdKLoJJvsqWNaBe9yZpdOsV9FNdAG185IIkqyOk3Qwubem24zfIVSkp+FuG+RbFMCAG2eYrBL2W1RNJ7voWzFEJ7wiBNBUdF2pbG4O6ki1d5no6uo61oajQf2YxlEJ/gK1oDgkwrTXidioRY0=
+pi4e39nfsbmoo82e92qpjrmn9kkbtts4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pi9h5fsguqsue50pndk2qrgtam6d9fts NS 

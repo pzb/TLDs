@@ -1,0 +1,6 @@
+azaccountancy.gov.	86400	IN	NS	ns-469.awsdns-58.com.
+azaccountancy.gov.	86400	IN	NS	ns-678.awsdns-20.net.
+azaccountancy.gov.	86400	IN	NS	ns-1070.awsdns-05.org.
+azaccountancy.gov.	86400	IN	NS	ns-1899.awsdns-45.co.uk.
+klmug4ft0qensja7hottnca8b9dfto0m.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ZMHg2rAbrpx6ikjoNZ+EdWVMsi2DeH+38yplc7QHbbUpBdQQpKhrErDIwJvW4a+5LyBokYyKWzDy8ojXtm1wmc50KupqwUgrG1DhV/zkzqHQwvFFEmWO36dSNbhCUtbH4j+XyQqZPquqXtJKl0C8bSKzq/SovVeIM5d8vBoF8Ws=
+klmug4ft0qensja7hottnca8b9dfto0m.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  klpcqo1oua14o0urrm6c7s4jrn7s1gno NS 

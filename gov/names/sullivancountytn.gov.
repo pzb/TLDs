@@ -1,0 +1,5 @@
+sullivancountytn.gov.	86400	IN	NS	ns2.bisonline.com.
+sullivancountytn.gov.	86400	IN	NS	ns3.bisonline.com.
+sullivancountytn.gov.	3600	IN	DS	23584 5 1 9e91b202794c9e39e1876f7fcaee78d015681d6d
+sullivancountytn.gov.	3600	IN	DS	23584 5 2 44403f067f9caa977c8820de9b8f246e4a8dd5b717312d2690c6b890d99316bf
+sullivancountytn.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. tMXNWCscSguNSYPGvQ0CZcIALOmEEiWzJkD5bHf9S2YLijavXSYYJjventv/1oN0ugkX9hBEeTmipV4gp9RjxoEWTgfsGtUCeldkzTBcyqyhrHmZ8QqJUxIAu8kxN4mefahL+tYAeuUyzz3jHCvgNG8PSeck0hrsYIAG+purGG0=

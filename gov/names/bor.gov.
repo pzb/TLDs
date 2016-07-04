@@ -1,0 +1,9 @@
+bor.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+bor.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+bor.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+bor.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+bor.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+bor.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+bor.gov.	3600	IN	DS	46246 8 1 a823542de3eb77061daf2cbacbe8458e7d0a12d8
+bor.gov.	3600	IN	DS	46246 8 2 19180521021e0a972125cc3c5906a0aeb37c66ccc496d69a2c60e62927b56c97
+bor.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. JugoFf73Yt2n96YSoretNlHx/zbeD8MXo8PUYYqTgMM8miwFX9HvHLnEZUzIL7lbLOXOeEDlD6aDYYfWf3tNOuBuyT5gPM6ZNrzdLxwCG+L+D0Nkl0gLnSLwTOFtiuGwDp1oUTiW/WXEat/bsolqNl7YaN3JGP1ukDF/nSt4/V8=

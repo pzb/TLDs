@@ -1,0 +1,12 @@
+ns-e.noaa.gov.	86400	IN	A	140.90.33.237
+ns-e.noaa.gov.	86400	IN	AAAA	2610:20:8000:8c00::237
+ns-mw.noaa.gov.	86400	IN	A	140.172.17.237
+ns-mw.noaa.gov.	86400	IN	AAAA	2610:20:8800:8c00::237
+ns-nw.noaa.gov.	86400	IN	A	161.55.32.2
+ns-nw.noaa.gov.	86400	IN	AAAA	2610:20:8c00:8c00::2
+ofcm.gov.	86400	IN	NS	ns-e.noaa.gov.
+ofcm.gov.	86400	IN	NS	ns-mw.noaa.gov.
+ofcm.gov.	86400	IN	NS	ns-nw.noaa.gov.
+ofcm.gov.	3600	IN	DS	31126 5 1 aaca7d682c6adac63e7832b29a651ef5b7523112
+ofcm.gov.	3600	IN	DS	31126 5 2 0d827d883b0311dccd0d34d7e78933c45b1bea3acd9ffe5b36dbadd267d717e3
+ofcm.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Riz1YgQlyOKAdj4btNdtL3Vp+J7SEw9GXUBz49UlU5xZnEU83PEeA+NNOCwf/Py+g8rfgcsjJC6ihGBvW0vuK3UUF+X4hHiZTaEpCIGY6MaAVNo8UIz/36cM5S3VzlVX9oe44xCtp89Sbqq+UH7jRzrdcIZDtca15b9o8rZBjwo=

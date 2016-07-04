@@ -1,0 +1,4 @@
+kgiauvjbfre4duo831ngtdrh6ldanl4c.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Zliu3IShYSqv/2GGj2Tti6kTW7EQN/ASzLBiNvY0V2LfTK6h6sWqPpE5c3wamz9jn7CRC7ZbHHOPPkP1J6OkuTA18qa7Bk/knt2jupEkEa/U/LAaane6yhDxXh5HmdSO9SPSuWSalWItWdNMyxDZauoomrKCPYW4jYdM5Wubke0=
+kgiauvjbfre4duo831ngtdrh6ldanl4c.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kgnb6hginnaam29id4lhncaqnl3uj1mt NS 
+memphistn.gov.	86400	IN	NS	ns1.cityofmemphis.org.
+memphistn.gov.	86400	IN	NS	ns2.cityofmemphis.org.

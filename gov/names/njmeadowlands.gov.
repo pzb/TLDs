@@ -1,0 +1,4 @@
+dt3juuqrueimo0in6bqmcsni3sf5vmkq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. k3WLhT9bUweYbZR03w6W/4uK5rBuJL9SqGrE2YRup5LSo1TFVpWmPmDpIxHWVEhA/ZHOQWrwZJzT/EwKcl/Dw96nJ7MuvAS/g6GjUh5wdpJki2f65TVXfwgkoYR2jH4VwXr4yDyPhEBbhJcqyP8lVubanaU2uIouFW/mfXtrJ9U=
+dt3juuqrueimo0in6bqmcsni3sf5vmkq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dt6hdu6sq9csd6j3tq8o6071hcpalnp1 NS 
+njmeadowlands.gov.	86400	IN	NS	a.ns.broadviewnet.net.
+njmeadowlands.gov.	86400	IN	NS	b.ns.broadviewnet.net.

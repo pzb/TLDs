@@ -1,0 +1,5 @@
+f6grq636p6tltrjer42jush33frhb500.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. CuAUDB2U1KK/lsWA/YDQQp7zsUdHdLAcIOdnJFejqr9LrLpw5Re2XbZ8VkdewYvp+DbLt4nW89w6fAZ0v8b9LSDuBKeAzBP/x1NdoeH/1Qsx2E3jh2a2pX7zFeahATWmpE6Es85/YJaLHyVRNGw/aZ79evRVO83ECqfq116Bv4Y=
+f6grq636p6tltrjer42jush33frhb500.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  f6img9c9a9rcqba783jgtlqgc4jqr5rn NS 
+ns1.nc.gov.	86400	IN	A	149.168.11.11
+ncicac.gov.	86400	IN	NS	ns.jus.state.nc.us.
+ncicac.gov.	86400	IN	NS	ns1.nc.gov.

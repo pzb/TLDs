@@ -1,0 +1,6 @@
+lkmji1t8edu1a717mkro8m03h0235q3b.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Ra0scOpXLkUVZBEZKOBXz1OiKRK2dEHSNky1JNzQD8VzLtl4cOhSyJs/+kjg5/Bcqg+PWX850YOfQy2fydtLgvBdFsN7IS/PnpJOSE5VD4fo+Zm2zx7zM7alG5dNgDqEUFakMpW/KVLaWdw2ADjHsgchGN8JzhfrUrBCTRod+EY=
+lkmji1t8edu1a717mkro8m03h0235q3b.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  lktuo30t6hpf55utisbilualmbod3r96 NS 
+dns4.tn.gov.	86400	IN	A	170.142.92.58
+dns5.tn.gov.	86400	IN	A	170.141.168.22
+tncollateralmanagement.gov.	86400	IN	NS	dns4.tn.gov.
+tncollateralmanagement.gov.	86400	IN	NS	dns5.tn.gov.

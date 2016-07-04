@@ -1,0 +1,11 @@
+lbl.gov.	86400	IN	NS	nsd.lbl.gov.
+lbl.gov.	86400	IN	NS	nsx.lbl.gov.
+lbl.gov.	86400	IN	NS	adns1.es.net.
+lbl.gov.	86400	IN	NS	adns2.es.net.
+lbl.gov.	3600	IN	DS	33234 7 1 539882422782ac81cb9bec8478ec716ae13414a2
+lbl.gov.	3600	IN	DS	33234 7 2 ee709a53d80a59959e6a37770a51293fc986f8441bf1dc10e0dee628e9be24f4
+lbl.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. VYBU3aF8pri23zX5Wa0H86ylP2/DkWmc8KOr9qova5zyvnVQG1Ybi0BXiKR2v8wZfn7whCwZb7NrFkApRZpttMN7ygPi7wuj36jgUuDAWdFvMAaq3Wy0tguDysqwAWf/VdN0P9gkmhrmxvLAM2e92duTP2Q/jjtzpGxnB6GuNvM=
+nsd.lbl.gov.	86400	IN	A	162.217.113.14
+nsd.lbl.gov.	86400	IN	AAAA	2607:fc50:1:9c00::2
+nsx.lbl.gov.	86400	IN	A	131.243.64.3
+nsx.lbl.gov.	86400	IN	AAAA	2620:83:8000:140::3

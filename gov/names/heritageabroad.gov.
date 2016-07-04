@@ -1,0 +1,5 @@
+heritageabroad.gov.	86400	IN	NS	ns3.madwolf.com.
+heritageabroad.gov.	86400	IN	NS	ns4.madwolf.com.
+heritageabroad.gov.	3600	IN	DS	20325 7 1 f2617fdc2dfeff960b46c82f494ffc6f86dc52a9
+heritageabroad.gov.	3600	IN	DS	20325 7 2 f081e37a0a2e253e5c4211da8da060d8938cc3aa4e50635f3e2eb661061ed495
+heritageabroad.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ovY2562vzx2HFIz66yeXyK1DfC0FkA5BAN4cycpKkcODmNlsy04PS7wu45lYFlGXTyYqqXVmVC3XhxsvV82C0pnP4Jyzf/0rbJoSZw/yTcvw5Y4QqErBmXenHKdI9/IdPKDktG9bl2+X/kcMnfECFxZ+HPyIWKiHXqptphByGx8=

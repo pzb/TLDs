@@ -1,0 +1,9 @@
+ns1.cdc.gov.	86400	IN	A	198.246.96.61
+ns2.cdc.gov.	86400	IN	A	198.246.96.92
+ns3.cdc.gov.	86400	IN	A	198.246.125.10
+selectagents.gov.	86400	IN	NS	ns1.cdc.gov.
+selectagents.gov.	86400	IN	NS	ns2.cdc.gov.
+selectagents.gov.	86400	IN	NS	ns3.cdc.gov.
+selectagents.gov.	3600	IN	DS	38653 7 1 d00982ba6f2d893e81090ba51a0bfa5b5d419bc1
+selectagents.gov.	3600	IN	DS	38653 7 2 f1686715cecdc2916dc0394f479981708517fd6668ef6ab397aa9a8f6bfb8ec9
+selectagents.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. EXLMb3+Cwky7Kx/8QcAa87EWqEWIEqXGILORPLy70zdFdaIZrjzqwmNXaqt7/6PywqBZPSz3VGUYlOIKOfaFbPSS9Gl0YjcxEoJC2KYKMVJ1CL1QwgGiXLHLsbjIrjk6GzcXVmpRQD5aqLkGnf7gfgMoHOFhf7nS0Z0aUs9DceI=

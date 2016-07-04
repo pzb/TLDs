@@ -1,0 +1,4 @@
+u3anajfmb2ghb9s0lip37t95vecbtie3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. qwu9z8wM5qYDeHUHfoWHiQyVncu6QuDK6kTLqv5Upx2mLliUBnpf6UFya7Cp4FB05vZ7I/8+0awvHAI8UxpP89PWhv8OQvQxw9+ZEqP5RUeS9x1QbT8kJx2j1Z21AZ1U6C9FfNmfRPbAxvTak5r8vR7X+fwfP69voy31pCW6LEI=
+u3anajfmb2ghb9s0lip37t95vecbtie3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  u3o3k4lgqg2c7ch4pqmus4dp7vt3hk4q NS 
+weatherfordtx.gov.	86400	IN	NS	dns1.civicplus.com.
+weatherfordtx.gov.	86400	IN	NS	dns2.civicplus.com.

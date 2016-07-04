@@ -1,0 +1,8 @@
+methresources.gov.	86400	IN	NS	nsauth1.lmbps.com.
+methresources.gov.	86400	IN	NS	dnsauth2.lmbps.com.
+methresources.gov.	86400	IN	NS	dnsauth3.lmbps.com.
+methresources.gov.	86400	IN	NS	dnsauth4.lmbps.com.
+methresources.gov.	3600	IN	DS	3984 7 2 94da2199f287a27dc4dc18d2ace568ca8a0f17ce3f8925a6b332d80acbd1613f
+methresources.gov.	3600	IN	DS	31143 7 1 8046dc01a5c54f98beda67cd4e7f4c24a4918c2b
+methresources.gov.	3600	IN	DS	31143 7 2 cd8b36e6d56a16687d5dda9fd623dafb73f30f43ffefc7b72b1c228688a36c81
+methresources.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. DmeD2ANXxoP51DtC1ku/SQ4j3jAdunqRvZ0b0QxxfNFbLWZwaCRYd5pUT2XbjxZmihC7tPr+odRzbD+peKA7lQ3tzVOyl+Ijd5QnDBK6XwPy6YeNGXYMCzt+r1Ig8wT3wFSrd+Lurnaz5Q54qR3khGPVWA/2wFOGJ4uoD40+FfI=

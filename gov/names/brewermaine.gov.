@@ -1,0 +1,4 @@
+7vrjht7vllvtok3n0f5a20bsd9pfpqtr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. D/r96cKo3bbSI7wJBXXtspvPcFbZ1WWShgkRo0hPKmm1v3QY2bDvQ57b+P58M5GCmONL7HSNXmavfo/m8WcjgktNgImPWXocZ1CA0H9D44fp5dhgvpaV+PUvAJVNI1Cko/KhymwBVLx9icq+1yRVIuz6bzLH0E4PmkB0XD1obm8=
+7vrjht7vllvtok3n0f5a20bsd9pfpqtr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8060eqi93v781coj94oa9qovaqh1daqg NS 
+brewermaine.gov.	86400	IN	NS	ns1.mydyndns.org.
+brewermaine.gov.	86400	IN	NS	ns2.mydyndns.org.

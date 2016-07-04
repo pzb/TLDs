@@ -1,0 +1,14 @@
+deals.gov.	86400	IN	NS	ns-jdcd-01.usdoj.gov.
+deals.gov.	86400	IN	NS	ns-jdcd-02.usdoj.gov.
+deals.gov.	86400	IN	NS	ns-jdcw-01.usdoj.gov.
+deals.gov.	86400	IN	NS	ns-jdcw-02.usdoj.gov.
+deals.gov.	3600	IN	DS	39004 8 1 ba88468c28c9e42a0ce95bab6e5d01bbf4964e4f
+deals.gov.	3600	IN	DS	39004 8 2 b43265927dc8c3996c128b3b3c73f7c012a4c723bbcbba16b2e0f47ca65985a7
+deals.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. iCJhyIs6Fep+LN+n6geGne6IEUJW/MjAlmtBzOif3tLQ/Q1UNPLjT5TRx70kfPQ0yTNfnI4jIcKNvNsL8ysqXq4DYsJkRwLHicepIdFww5cZURRHAwVEkjElvH428LTZFHmvwHT9gksq69V1yBx4oN8V9kv1uVV4uAQnFtxNSH4=
+ns-jdcd-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcd-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcd-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcw-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcw-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-02.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::6

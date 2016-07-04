@@ -1,0 +1,4 @@
+iki3cae885belrg7bvuqjtgsoqqgauu0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. XIX30repLiuys+98ATVH9xcSGuqbHoA5LjMDZp206qWdO4u2SFaJMNdduwYOOxPu+WbHkye2M0RbR8mf0tYi+EE4BIDWqOtO2MIwlDaU6C5M/s1lQ6E3DVeOw+FOwauQA2f7e5JYeKVsTT+GLKXN94KnsJw2gfRzQiIlKyeoX7k=
+iki3cae885belrg7bvuqjtgsoqqgauu0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ikq512u9vulqg5tm796c6tlbv2evo5ia NS 
+mountpocono-pa.gov.	86400	IN	NS	ns17.domaincontrol.com.
+mountpocono-pa.gov.	86400	IN	NS	ns18.domaincontrol.com.

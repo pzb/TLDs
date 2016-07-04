@@ -1,0 +1,6 @@
+blr4kv2rlj75b99lhvi0m21jf21duj53.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. o+aDnJy6udyjGVKIIcZJCNI06R44wd+mAC9Qtqq91byPltapYpITxI4shN64mgF3UD+NHRkSQZPN3sMNcgp67UYgbc2y0p7vYluO7j7EUGRV4Q0GVCQW7xkfqO+3Fb5NqEMc5+EG53CaSPxO5xsfHi17YcJwb5KXUjxjWAsDR2E=
+blr4kv2rlj75b99lhvi0m21jf21duj53.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  blta5u6kt2fdje0kmakc42r62jci6itm NS 
+idahofallsidaho.gov.	86400	IN	NS	ns1.idahofallsidaho.gov.
+idahofallsidaho.gov.	86400	IN	NS	ns2.idahofallsidaho.gov.
+ns1.idahofallsidaho.gov.	86400	IN	A	198.60.226.44
+ns2.idahofallsidaho.gov.	86400	IN	A	198.60.226.45

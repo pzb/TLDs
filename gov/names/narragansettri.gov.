@@ -1,0 +1,4 @@
+a56ursptosfm4q4a7p648ndqme0dlb67.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. i/k39BdxNQopyZwOgfKYfKBjSeXbXxVQli9wqb7QsStWoRMViFSzUerMPTJGPihrFb9sQaUBPc8Gd8xTTL/2RCP5xTh7T6ZlJTAQkCYT0iTQJDAc2Xue4//UYo/jIeL4yevHXw8VYG4rE9fBD+zZYFHy5HyuwaHwvGSdGuaC9PI=
+a56ursptosfm4q4a7p648ndqme0dlb67.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  a580kcn74coer9nkd12fivevovurtskh NS 
+narragansettri.gov.	86400	IN	NS	dns1.civicplus.com.
+narragansettri.gov.	86400	IN	NS	dns2.civicplus.com.

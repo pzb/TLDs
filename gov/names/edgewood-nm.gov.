@@ -1,0 +1,5 @@
+edgewood-nm.gov.	86400	IN	NS	ns1.bhinc.com.
+edgewood-nm.gov.	86400	IN	NS	ns1.twtelecom.net.
+edgewood-nm.gov.	86400	IN	NS	ns2.twtelecom.net.
+tmu1b98hcs6t3etgqeogv4h00hums48b.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. x1Vr+S0CgQaFA0cYoog6epxWn5niKzb1otBO1MlWtwZTdiUk8vPc9HaPCOecctT0jRA4xCro9j8yiMJXcHz6GLHhEy5u5et0BvCEoEB8DJoNwFhomn1WmPwGB3IZRdVqOouiiTN3F9gPbJAGWlyTdFgd12MbPfAYcoN5QrrGJ5k=
+tmu1b98hcs6t3etgqeogv4h00hums48b.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  tn16qib522sfbtnbiesh8729a89dg968 NS 

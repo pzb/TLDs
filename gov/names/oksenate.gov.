@@ -1,0 +1,4 @@
+oksenate.gov.	86400	IN	NS	lsbsvr.lsb.state.ok.us.
+oksenate.gov.	86400	IN	NS	mainsys.lsb.state.ok.us.
+rd41v2judmvs2jsoju8m7ue0tie8ko8j.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Tyf09RyJqiQbvsXMKEscMOqXQ2U13EzdNFSObGS4uRzAMKlMbsthsyzwh10ysQz9S7jkuO/3YKABcIXDoxXydsVGYf2sjz5/oEavWvQBQPPlqn2r3bcW+/RTEVA5tuFuPLo/xrAEIbhbAptKGENwV22+JEIaHiBPnVYPyJoxfJ0=
+rd41v2judmvs2jsoju8m7ue0tie8ko8j.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  rdguce7pj3scsocknf7gdm0pt2sqo1av NS 

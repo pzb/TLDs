@@ -1,0 +1,15 @@
+dns.gsa.gov.	86400	IN	A	159.142.136.198
+dns.gsa.gov.	86400	IN	AAAA	2620:0:150:280f::5
+dns2.gsa.gov.	86400	IN	A	159.142.150.68
+dns3.gsa.gov.	86400	IN	A	52.203.230.235
+dns4.gsa.gov.	86400	IN	A	159.142.69.84
+dns4.gsa.gov.	86400	IN	AAAA	2620:0:150:4013::5
+dns5.gsa.gov.	86400	IN	A	159.142.45.20
+howto.gov.	86400	IN	NS	dns.gsa.gov.
+howto.gov.	86400	IN	NS	dns2.gsa.gov.
+howto.gov.	86400	IN	NS	dns3.gsa.gov.
+howto.gov.	86400	IN	NS	dns4.gsa.gov.
+howto.gov.	86400	IN	NS	dns5.gsa.gov.
+howto.gov.	3600	IN	DS	49829 8 1 51292f9945ab692ff0afb1af14bab3e5f912a37a
+howto.gov.	3600	IN	DS	49829 8 2 8f3bb6d430dc1396fbb26ee17a6112dc70a9de951260e7cdc8ba3650ac2f5c82
+howto.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. eyxDCjPw5G9rWr8ckPrhbxgLd+5ZnmXWg6Fe70huU2EX/gMUUSIwpLfx1Ss14pcILRyxvAAUdxTxxXvfcoXv86YoDZ8aW3efsOx98Ho3UH37lSQqGiFY2nFcxQDegbUBxEWoevdhu+3ZWSDjw+ZR2LPyOEUT+5HbYXlXFPdfG4o=

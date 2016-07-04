@@ -1,0 +1,7 @@
+educateiowa.gov.	86400	IN	NS	dns.iowaccess.org.
+educateiowa.gov.	86400	IN	NS	ns1.iowa.gov.
+educateiowa.gov.	86400	IN	NS	ns3.iowa.gov.
+ns1.iowa.gov.	86400	IN	A	165.206.254.145
+ns3.iowa.gov.	86400	IN	A	209.56.120.13
+sjfuou8n8ogkvp8ivm4u5ovam2po8ng5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. MPGLunhnlxHlY1P1sxkcJLxQ8GOOWujlylX7Kkmi2rkBPF1/rB2UeqoEytz8k7QSy2vUFU6+HS7r2W2FB0bGPvd/NipZDFuB7bgbCAHqpF16Z1k/jlvpi82muvIaFtnG7BLjvW6f70zrZQuZtozRJL8f66Qc5i+u73C+nm0dgNo=
+sjfuou8n8ogkvp8ivm4u5ovam2po8ng5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  sjmq0ik18se50bga1ldqs586tk41hf5p NS 

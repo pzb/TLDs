@@ -1,0 +1,4 @@
+bellairetx.gov.	86400	IN	NS	dns1.civicplus.com.
+bellairetx.gov.	86400	IN	NS	dns2.civicplus.com.
+r56857q9b74u0ad5o7361colkb348cl3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. l0mNIlH20187iRai6vhQ+8rp400dR5WrGx4u97e3nw5P26cCYWzfRq5bxrC1oWxmAvaIfUAovUjNhSj871rOGsn48/k6ugJYQQcAmcKb74N4ikt9BcuaLtYmIzC2sdZGzF/SGqR+Rs5/htQcBt0Rc8p7El7MIOBCBuDyaoJrn8M=
+r56857q9b74u0ad5o7361colkb348cl3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  r56d3pfss17bh8hfav0ohvrf9e0a3p26 NS 

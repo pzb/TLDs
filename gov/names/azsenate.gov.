@@ -1,0 +1,4 @@
+2fsd4e2skkudliodla7kb4qdktf9tgdr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Au9Hu5ER+m15dPdxfndeKNI4Sq1BaFfJqXu7hW7UkLogNWaf8qZgmzp+RkLzK5fhU+GsujHHLb7pAEW4To2wo1cKydW8KzmoMCkQQt1b1JCOGeJa4/QZrGAa4bpfFvmSdM+Z1cnWNISDtRFE+AttnDN6rNYDtbZ4GhauGZ+Nc78=
+2fsd4e2skkudliodla7kb4qdktf9tgdr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  2g847efojuvr8j078retkb0u4l37f1on NS 
+azsenate.gov.	86400	IN	NS	ns1.coxmail.com.
+azsenate.gov.	86400	IN	NS	ns2.coxmail.com.

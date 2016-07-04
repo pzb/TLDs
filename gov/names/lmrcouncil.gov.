@@ -1,0 +1,8 @@
+lmrcouncil.gov.	86400	IN	NS	a1-12.akam.net.
+lmrcouncil.gov.	86400	IN	NS	a5-67.akam.net.
+lmrcouncil.gov.	86400	IN	NS	a11-67.akam.net.
+lmrcouncil.gov.	86400	IN	NS	a14-64.akam.net.
+lmrcouncil.gov.	86400	IN	NS	a18-65.akam.net.
+lmrcouncil.gov.	86400	IN	NS	a20-66.akam.net.
+lmrcouncil.gov.	3600	IN	DS	18961 8 1 a8416bce1b94c27c9403b2260baaa9b1d2a51ae0
+lmrcouncil.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Uy1qqNNqRRbPKJnj0BW0nQghYieNYzmTzeczJvoYPWS2HTFXwyBu8+q6UEDV/dIfXkbWyZqBsv9nPZqRc0/B9mh2h0VGSnspluk4pFgIYHD/mSZrdEBWr2CE6SQjdz/uCxzAwcifrq4Z4/7rd1+jINJp7QUYIPk/rQvDpk4oje8=

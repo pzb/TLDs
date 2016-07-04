@@ -1,0 +1,4 @@
+6rfphlld92a2tsrn30blndtefgvvrisp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. dc6/+ww3CNR8M+Yqcf22Rtf4EVlP0wPahcorZpr+U7xvMYPiJW1k7YHRgLdZGQEek/ilICA5WzEITaGXoeUXvKNYq6NRqhiQzhMtPaoMVNUsCTpEsxdE8eDGinscBQPxQj4Ug75yTL2OyG9bzzsVG4XFirI9lfcYZVh8p78hslk=
+6rfphlld92a2tsrn30blndtefgvvrisp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6rlql3l49nsn2dl89ijopb1hrisl5p20 NS 
+lebanonnh.gov.	86400	IN	NS	ns39.domaincontrol.com.
+lebanonnh.gov.	86400	IN	NS	ns40.domaincontrol.com.

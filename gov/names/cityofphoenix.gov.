@@ -1,0 +1,6 @@
+cityofphoenix.gov.	86400	IN	NS	copns3.phoenix.gov.
+cityofphoenix.gov.	86400	IN	NS	copns4.phoenix.gov.
+copns3.phoenix.gov.	86400	IN	A	23.97.25.229
+copns4.phoenix.gov.	86400	IN	A	23.97.11.198
+rhipgf36u3lcgnt2bbkc69b4c16rns7k.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. e3ZBtyBJH/ZFB3m1wm0IOqBsqO2KnifMPPsjWawVuHGFdxiiKXL+xeFJDhJ1gO3kFnWlzl8y5PC2VG5ymYyzoxi2Ct1Q/9joYfpwp5XBjrVRtCrcvVIVSxv1PY3YNSKACm9/99TsSdckaoWusX5j9vuDand8tYkvFfc4f8NsLXY=
+rhipgf36u3lcgnt2bbkc69b4c16rns7k.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  rhkqvdnm7b3jfgl3sbp0kj5r4cecpet4 NS 

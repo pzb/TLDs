@@ -1,0 +1,6 @@
+azda.gov.	86400	IN	NS	ns-182.awsdns-22.com.
+azda.gov.	86400	IN	NS	ns-580.awsdns-08.net.
+azda.gov.	86400	IN	NS	ns-1373.awsdns-43.org.
+azda.gov.	86400	IN	NS	ns-2026.awsdns-61.co.uk.
+j5jua4k9o9anrffbvk3t7lj3rrtph142.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ulCH/5LbKeB2jI3zccSsMalE6YLpryiB1xnft04hWBNb21aptR/bUwtFogq3dsTWRBPACiwf2Wq2Yzyl+BLVafDwwfHddzLNIFay7Swvorc6vZ9MhejvCh74toYpBnjpHwNbmz9K4rSJrzVp6klRoBLwrIXnaKmfG63Kn+wkvYg=
+j5jua4k9o9anrffbvk3t7lj3rrtph142.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  j5kqrti1gdqgv88konuq2qsuhshv60io NS 

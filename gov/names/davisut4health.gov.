@@ -1,0 +1,6 @@
+dc-dhcp.daviscountyutah.gov.	86400	IN	A	168.180.225.92
+dc-dns.daviscountyutah.gov.	86400	IN	A	168.180.200.18
+davisut4health.gov.	86400	IN	NS	dc-dns.daviscountyutah.gov.
+davisut4health.gov.	86400	IN	NS	dc-dhcp.daviscountyutah.gov.
+obtgm4be450qpl6jihem4sbggh3c80to.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. COwLFgPGRfThWp6FfPn0xtlwhYeHk5zr9lavlkTRGCZXuCDFRQKj8QLfR9jz9NZnxP+mw+rsGMeQmZ274coDBvpfuSw5aizn87NohvZklgNFkH0KNWegDvbxPomGEJwbjkeufJrhaAnZG3kf0nlyAfuIzdtLYVB5Tg0/1axcjsI=
+obtgm4be450qpl6jihem4sbggh3c80to.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ochadkvgsqluleom2f9n3ltn83coqj55 NS 

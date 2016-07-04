@@ -1,0 +1,5 @@
+aransaspasstx.gov.	86400	IN	NS	ns1.dreamhost.com.
+aransaspasstx.gov.	86400	IN	NS	ns2.dreamhost.com.
+aransaspasstx.gov.	86400	IN	NS	ns3.dreamhost.com.
+fgog0itt1ju23kag28gbef9qt5lov6is.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. RGcBG3DNW+7inDpzeBdNayqGknkSLOkLdtGsi2dMdtALdTaZWpPB8C2+GH8ZtYeZB50BIKhe+XcVdIaYKposOcyRRYaD/0igrEL9PGmAcZyV410bvzV228CQhlUVNdE0n8RpNUJXjkxO44iqM/bDupUtoewG8tAddlv2nLqnzp8=
+fgog0itt1ju23kag28gbef9qt5lov6is.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fgq6gqao6p9kglalk4dgj6nfp8lg3tia NS 

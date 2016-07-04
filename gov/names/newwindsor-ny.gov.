@@ -1,0 +1,4 @@
+8m363b61nin9ifu73qadhn9t59p4cg1t.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. QcY7bRwXidEglTdrKDKSOO6Y34QxXDZ3iNa3+eC2+h/JwTCHBf1qgDoH/GgE/nzu76PHlaDGatmfjRsbJQ5UIqeQJfqJrD1v9qFq1UrY/K0vGgpiJYGct1AbIAwmZaBiBYSBOGAXxvXGA/46Gsh4+FqWHqyiocahMi7A1+bHZjI=
+8m363b61nin9ifu73qadhn9t59p4cg1t.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8m4sm89kql9fo9vvqojmjlv61m6shg6r NS 
+newwindsor-ny.gov.	86400	IN	NS	ns1.gear.host.
+newwindsor-ny.gov.	86400	IN	NS	ns2.gear.host.

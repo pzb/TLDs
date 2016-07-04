@@ -1,0 +1,5 @@
+24dcodaitjjmql4kkb422s978rdal887.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. pu1tEOQ7KqFmRKjtyZXHArPIQPY1JMagQJqj+Q8mMQ070qY1PxK2vaJHKyV/R/m8aND3KsusV/msS2v2zaOuwlVhjdS3InJUctPZlv2t0ov6cOZ9TzJyHPvKWVXH4q5Ea0ub8KEKbcYq5x/IU+Z7/w293W4Y9RMqt1UnRY4qFAg=
+24dcodaitjjmql4kkb422s978rdal887.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  24fbuv44e4pf76f67c2vb8157i3dom0t NS 
+hallandalebeachfl.gov.	86400	IN	NS	ns1.cl.bellsouth.net.
+hallandalebeachfl.gov.	86400	IN	NS	ns2.cl.bellsouth.net.
+hallandalebeachfl.gov.	86400	IN	NS	ns3.cl.bellsouth.net.

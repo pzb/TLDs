@@ -1,0 +1,9 @@
+esi.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+esi.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+esi.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+esi.mil.	10800	IN	DS	56335 8 1 263d253855f77dd92285a68616e092c60dda3b22
+esi.mil.	10800	IN	DS	56335 8 2 c30b40a9bd28236c5c493c4b2598930ad6ca37e9964a1c322ea22c036eca7e69
+esi.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. R+AIzmRc5vIE+qKXSgE1cUgLjPyoaKFVpyhrX19lAxeL3C/UXBeWb1y5l3D//uTnaWf0yS2ti9SfGJF8aVVkfbZvdZ0sZsb1YWkbe734NFDKYunVuziZpxC1KSKoF1nh9JozXz5qL05pBazmqiu3BbNKjiNAhNU8ibqFXLHI0m07Wvc=
+dns-pub-f1-u.pentagon.mil.	21600	IN	A	199.252.47.11
+dns-pub-f2-u.pentagon.mil.	21600	IN	A	214.14.133.11
+dns-pub-f3-u.pentagon.mil.	21600	IN	A	199.252.47.75

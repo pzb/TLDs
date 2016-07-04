@@ -1,0 +1,8 @@
+1938k44palg9uc7c7u0v084cs0acm4qa.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fjRWXLBTy23M3o0bQhlR4hdaRYeMEiAPXtHF1gl49nNdf+j1bXp4GHfFcgQXsqTukxSnBawPG623nOPXdNw2dQuAmG9vnG/2y/RkWMTurJsAwOT5gMqg7Lh9PPLF+1YuPJ6Y33YOuHuADfIUu4vCpRlb6gbvhkN9V8ww9RR/DiU=
+1938k44palg9uc7c7u0v084cs0acm4qa.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  195q8dlv43n2csuo528a0rnsvc7bqlai NS 
+sfwmd.gov.	86400	IN	NS	ns1.sfwmd.gov.
+sfwmd.gov.	86400	IN	NS	ns2.sfwmd.gov.
+sfwmd.gov.	86400	IN	NS	ns3.sfwmd.gov.
+ns1.sfwmd.gov.	86400	IN	A	141.232.1.43
+ns2.sfwmd.gov.	86400	IN	A	141.232.1.44
+ns3.sfwmd.gov.	86400	IN	A	141.232.0.7

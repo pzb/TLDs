@@ -1,0 +1,4 @@
+l50fmto2hdrho6hsmbt8doc0v8dshv0p.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. aEA+rrJ0qJLi5yabjCbsGRXsd0Bbu4v8KCz0pQrWA5zQKP7y3ZUGaBSREm/4+F4UyQQKk07zDY3LKIXM+6extcAZ+ZPPfa+RULCWO1IbuYWx96gddF+/J7ivYgvb0MiWRLmxBa+1UJo0WDHFuq+fAr5iGyh1FLMI/699ghpJ87o=
+l50fmto2hdrho6hsmbt8doc0v8dshv0p.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  l55t3am6jt4lalf9am9317b7qkvci5v0 NS 
+westamptonnj.gov.	86400	IN	NS	ns1.hostmonster.com.
+westamptonnj.gov.	86400	IN	NS	ns2.hostmonster.com.

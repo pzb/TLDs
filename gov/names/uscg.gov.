@@ -1,0 +1,17 @@
+uscg.gov.	86400	IN	NS	eur2.akam.net.
+uscg.gov.	86400	IN	NS	eur5.akam.net.
+uscg.gov.	86400	IN	NS	use2.akam.net.
+uscg.gov.	86400	IN	NS	use5.akam.net.
+uscg.gov.	86400	IN	NS	usw4.akam.net.
+uscg.gov.	86400	IN	NS	asia4.akam.net.
+uscg.gov.	86400	IN	NS	cgns1.uscg.gov.
+uscg.gov.	86400	IN	NS	cgns4.uscg.gov.
+uscg.gov.	86400	IN	NS	cgns5.uscg.gov.
+uscg.gov.	86400	IN	NS	ns1-46.akam.net.
+uscg.gov.	86400	IN	NS	ns1-96.akam.net.
+uscg.gov.	3600	IN	DS	20304 7 1 d0265a6c28a4f670de8831d7924e08776a5a03a9
+uscg.gov.	3600	IN	DS	20304 7 2 7af7237d356bc9fc0813d0cfa0b22419ff43cb2f0540295442c7e08ba3cbbdde
+uscg.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Xklx8avKzpwmaG6QQsVYaJwXoe/uBpnbQtO/eog8AaW3fdoPqlYkqpKddZ3EbvMLaZcytjzB8yJvwnX2wcRo26HYwyNMIhFDYLF6p9IfuX74+vuxweGzMauBP2VxRqpwq+IbtfPmfdvCE91lezGdYuTIFs/frGkHxzUnh5+7xko=
+cgns1.uscg.gov.	86400	IN	A	152.121.2.19
+cgns4.uscg.gov.	86400	IN	A	152.121.33.3
+cgns5.uscg.gov.	86400	IN	A	152.121.50.3

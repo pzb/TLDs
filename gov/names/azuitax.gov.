@@ -1,0 +1,6 @@
+dns1.azdes.gov.	86400	IN	A	207.108.136.98
+azuitax.gov.	86400	IN	NS	dns1.azdes.gov.
+azuitax.gov.	86400	IN	NS	pdns05.domaincontrol.com.
+azuitax.gov.	86400	IN	NS	pdns06.domaincontrol.com.
+d7vbh74p1iecjqfs7l86u5l21bt35866.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. V5sWMyDPgR01Idt1yJ8SlO2X+7uJp9fB2wyB8FQvg8TXrRCgrZAmp2qq6YiBAqIa9GMgGgtQtH2uOcwzrx6CiDOw8wUvAfav8HYNBfzdBeNQLLPWOzTP1eOuuJrUSd9bBu2nE3dlKq3Y6nzmQ6iLEWwuPQqFX3sOCQxOkzVyjM4=
+d7vbh74p1iecjqfs7l86u5l21bt35866.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  d80chaklqtt3jil9bbha8f6s9duuj6jb NS 

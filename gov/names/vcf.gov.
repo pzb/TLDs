@@ -1,0 +1,14 @@
+ns-jdcd-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcd-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcd-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcw-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcw-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-02.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::6
+vcf.gov.	86400	IN	NS	ns-jdcd-01.usdoj.gov.
+vcf.gov.	86400	IN	NS	ns-jdcd-02.usdoj.gov.
+vcf.gov.	86400	IN	NS	ns-jdcw-01.usdoj.gov.
+vcf.gov.	86400	IN	NS	ns-jdcw-02.usdoj.gov.
+vcf.gov.	3600	IN	DS	39040 8 1 261edf2d0843517d4c7b4f4b76be4a344872292c
+vcf.gov.	3600	IN	DS	39040 8 2 3c42a6ac78f49f1622ac5c133457f2715e91a49580196cf6a01b09877f5b2f0a
+vcf.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. DYu0ys+I2CSrQhTXW++VhvK4kYWw3le5BA3e5BWRuu1GMM2/MKyRfY4YwnnCOJ0OQoH3Z+fGuIRsKDfK/9rjkrPHPMAq869J/j+xFVEiFhwH69CPqr9kBTGmseZfbQRK1lRJ2tjq7PfwtI+Wl4zRTlFYU+I1WEovtIaugvk0nw0=

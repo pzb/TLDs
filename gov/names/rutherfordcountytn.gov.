@@ -1,0 +1,6 @@
+4tegv578dsjscutd6aqrth3c720ij7a6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. kTJrTQLTbPTq3lLTmOriQUM0Pq+6+KuJumMy72jW7hPX/AwhLPbRMWvzcdl3BWPOYY6jz/QdoT9K+sOSQ572wByQ1cB5cNgQX6ThNN0JrL6bI7LfSUyEhHdE5ECVFVLL507Dr0vXMOSSYhrQi0w5e84I6VtxFuNoJJHjnxs6GIc=
+4tegv578dsjscutd6aqrth3c720ij7a6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4tr8vhhheamnhvt1p0rdrtidlt0jgfvi NS 
+rutherfordcountytn.gov.	86400	IN	NS	dns1.rutherfordcountytn.gov.
+rutherfordcountytn.gov.	86400	IN	NS	dns2.rutherfordcountytn.gov.
+dns1.rutherfordcountytn.gov.	86400	IN	A	12.204.217.21
+dns2.rutherfordcountytn.gov.	86400	IN	A	12.204.217.22

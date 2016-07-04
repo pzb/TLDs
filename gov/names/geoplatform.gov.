@@ -1,0 +1,9 @@
+geoplatform.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+geoplatform.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+geoplatform.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+geoplatform.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+geoplatform.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+geoplatform.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+geoplatform.gov.	3600	IN	DS	47110 8 1 d90068a2d6ed295903e701434e718b229a1a5d31
+geoplatform.gov.	3600	IN	DS	47110 8 2 66b4fad5f7b0734052ab501750689da5d52df3a8dc128208687a2816892c90b0
+geoplatform.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ws/lzASevw8fEqEWmhPP28IJPxutOejc1iAbXlOi83rKxUVQTtnPTyuSgxy/ojkmtQpCCTdmKnVLQQkw/6jFzJWUyjZuz6feMairBMeK4I82+mR5Oy7bDI2nH/aAWqUZunw6RANZSXcPT9wUtkUGM0vc2GEcLmeCiFC2Nuc992s=

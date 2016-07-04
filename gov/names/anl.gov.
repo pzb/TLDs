@@ -1,0 +1,12 @@
+anl.gov.	86400	IN	NS	ns1.es.net.
+anl.gov.	86400	IN	NS	nsx.lbl.gov.
+anl.gov.	86400	IN	NS	ns-aoa.es.net.
+anl.gov.	86400	IN	NS	ns-lvk.es.net.
+anl.gov.	86400	IN	NS	t1dns1.anl.gov.
+anl.gov.	86400	IN	NS	t1dns2.anl.gov.
+t1dns1.anl.gov.	86400	IN	A	130.202.101.6
+t1dns2.anl.gov.	86400	IN	A	130.202.101.37
+nsx.lbl.gov.	86400	IN	A	131.243.64.3
+nsx.lbl.gov.	86400	IN	AAAA	2620:83:8000:140::3
+tb1skttrqk2e8qnnhr770t04hiodabrl.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. bz0yGZMcRCwW2z0nFBQ9KZjq2lj57rZ6knTRpNeDslRs0ZWzcuIOHcF8Eyytu4AB5e+O3qLuml3d4ni0aZqEI4aTTGUZGe7xsYsUOlL0mRMuRxZz+1qQgVK9FT3BMG48PBoc+6xH2Saykxv6z5qFHefEbrGwabPSROzwtcqjLGI=
+tb1skttrqk2e8qnnhr770t04hiodabrl.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  tb1sreqnee3udhdd66nokcl6i3nivkjn NS 

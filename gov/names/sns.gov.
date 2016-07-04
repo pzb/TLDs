@@ -1,0 +1,9 @@
+ns0.ornl.gov.	86400	IN	A	128.219.177.244
+ns0-alt.ornl.gov.	86400	IN	A	128.219.177.246
+sns.gov.	86400	IN	NS	ns0.ornl.gov.
+sns.gov.	86400	IN	NS	adns1.es.net.
+sns.gov.	86400	IN	NS	adns2.es.net.
+sns.gov.	86400	IN	NS	ns0-alt.ornl.gov.
+sns.gov.	3600	IN	DS	42212 7 1 b6472df3be95d8ad0adf7702ce95a1999cf061c9
+sns.gov.	3600	IN	DS	42212 7 2 cf615e534ea36ed8a4ae284900f524021ced154502d50d087d1a21f88c1e137f
+sns.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. UCEonzgGhOwIxZyBceCA1S8LTwOUVYjmPbaLeNkBSZi91KtCjBGJiXGkRaca715nzn5Zi9SVEoi2ZGiojccqGjqAk4RNJ1StdAwNIpTwZkCv8l7lL2cGjRT52+UC1lxO1tHc+/7A/t0RbFDaoQ17bLbd7Kw31Ycp1d/t6XPbjt4=

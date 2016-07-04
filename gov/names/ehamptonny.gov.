@@ -1,0 +1,4 @@
+ehamptonny.gov.	86400	IN	NS	ns25.domaincontrol.com.
+ehamptonny.gov.	86400	IN	NS	ns26.domaincontrol.com.
+v0orgh3v3ii185kkn44rt1nhq22aiab9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. dOAC93CaaShUFppt4B9ldEM594XGHbS7RXmozfDvofCJ7jKhi+Y6csqP3YohZ+859TUTG4x6lPUMtsb9cV5NAYnNllaEY0TuE3FetWwRAwpMlqDn/reL/nMzdfytDEZAjuk73Ijtg1ZqI+jwj93uv/nH78Ermg1SMnxUOm9z/b8=
+v0orgh3v3ii185kkn44rt1nhq22aiab9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  v16lp7djnv07s8155oe3od3go633f59o NS 

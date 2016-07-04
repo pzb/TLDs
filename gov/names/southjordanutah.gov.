@@ -1,0 +1,4 @@
+f39upu4ikltofsj5t0a5vmi7p62eg0ro.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. nfXBGt0kTnACkJBepz07LGPXbbInBWkHe2Y/I04IhehUmyXKkGIsPfF4bL1CgjXD1jQ01ix4vUXGa2eREPauwiDLS4eLVcr4nTslZBNp61DokBX/QPdRUjweeLScfKcD7YkAlwQ+SI3DQx5NSY6g2oeacLuZIq7EqEvZolmUQ+o=
+f39upu4ikltofsj5t0a5vmi7p62eg0ro.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  f3eo2grkkeaqtnhidfggvjonivuav9s3 NS 
+southjordanutah.gov.	86400	IN	NS	ns1.southjordancity.org.
+southjordanutah.gov.	86400	IN	NS	ns2.southjordancity.org.

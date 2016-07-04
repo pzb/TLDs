@@ -1,0 +1,4 @@
+lagunapueblo-nsn.gov.	86400	IN	NS	enesone.sks.com.
+lagunapueblo-nsn.gov.	86400	IN	NS	enesthree.sks.com.
+qnl71limsgnbk1po94godhip5qsd2kql.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. v/LbxOe+Ju4kkaWlFenHQQ8A4nR34ePrM5m/KjPVMrs8ITnA7WnAaUXjLxzluWCceg1G7r2KT939kdGqAVs+Y51JPHJehQ2q2tv/PjjhOUTXH86Of5WnaZKNHZsfV/HyFl+0pGJ6hD0qygv5B2YPCDwFb9xVscRPIL+aQdlfyV8=
+qnl71limsgnbk1po94godhip5qsd2kql.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qnnjgo4mk41ssgjt8n1ortkr014nvnr9 NS 

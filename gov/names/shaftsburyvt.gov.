@@ -1,0 +1,6 @@
+8c6qbdepgordagku80aa8ef983vd146e.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. TUzGTJus9EjRxgpNX0yQ8/p1H7xBXXt4f/KnznAWASSvzag7bYdFBvefbyGN7akiDUyw8mTndua32gHpQThjttQtkXLNABZMYOuWAqcjucq+PY876AroZlTaiPJRN6Ibb9/HlMwSRof9H1B/R7JZjnillNzohUVa2/twrYowWGg=
+8c6qbdepgordagku80aa8ef983vd146e.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8cjftsrq7083fkobra94a4qd4pm15a7v NS 
+shaftsburyvt.gov.	86400	IN	NS	ns1.rcsconsulting.com.
+shaftsburyvt.gov.	86400	IN	NS	ns2.rcsconsulting.com.
+shaftsburyvt.gov.	86400	IN	NS	ns3.rcsconsulting.com.
+shaftsburyvt.gov.	86400	IN	NS	ns4.rcsconsulting.com.

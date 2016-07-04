@@ -1,0 +1,4 @@
+82a8vh8d42ibq9ogf487fmelivj0a7i5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. iFTwukFKwmavzbU4HmSC739hvCYA1GkxSv637xonZoMjSE/jgN36NvLCy5wFWzFTsovmKwIypUT9SRFVNZ9I20sL5zvJm0SfXpLcGjT0kqGiPsgdMT4sB0Qcz/EC6IRpsrNaLZ8PxOCRsQq5ZRMevjMIfPo7pXGwcpgTdCo2yUw=
+82a8vh8d42ibq9ogf487fmelivj0a7i5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  82j6sksvhsdkprruuu1stkmbetg8e663 NS 
+northhempsteadny.gov.	86400	IN	NS	ns1.hvdata.net.
+northhempsteadny.gov.	86400	IN	NS	ns2.hvdata.net.

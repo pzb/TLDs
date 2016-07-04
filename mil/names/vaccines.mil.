@@ -1,0 +1,9 @@
+dns-pub-f1-u.pentagon.mil.	21600	IN	A	199.252.47.11
+dns-pub-f2-u.pentagon.mil.	21600	IN	A	214.14.133.11
+dns-pub-f3-u.pentagon.mil.	21600	IN	A	199.252.47.75
+vaccines.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+vaccines.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+vaccines.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+vaccines.mil.	10800	IN	DS	62686 8 1 994f42284b521fd43582e9208ec0b6cf278c3178
+vaccines.mil.	10800	IN	DS	62686 8 2 eff8c848c7674141aab2456a192ddff1f904591702bf22da809f193f19a0afc5
+vaccines.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. BHBEqDmQ6CqiOhjVxP6dhgb27nFvGTkQpL77WII3PFQId6A1tf6v8RunpYR21g3xODmGXrpzX4MieKOFCSfT23qpQAdWBiNhhKuH7l9zJE6BEoyla618+tb5TBY3mYd4f21iFMtcDVaDamvAgTZjpDoPI84tvkRd2cWjj+zDHy97hbI=

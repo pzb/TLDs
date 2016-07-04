@@ -1,0 +1,4 @@
+ncsbi.gov.	86400	IN	NS	ns.jus.state.nc.us.
+ncsbi.gov.	86400	IN	NS	ns2.state.nc.us.
+tme6pcam1uohqgacbgtkqf8uj79ohu9h.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wq/IGYlu/ZhhwUK58rncPdHqT+oRdu98XouQ/06YKo+KVdakTbqOKZV5rznpLyeGwbGFyduDBEISQg/vsr4LD6scgNRji3PSZtuRFR5GpGgFtbapz7Ng/gLxbu35RDhN0u61WeKgWr4hV1SJx4Dp/f1pbKfS3SB598qxRsQHfd0=
+tme6pcam1uohqgacbgtkqf8uj79ohu9h.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  tmepbo11ogjp5jm6ctb8odh2f58cjuc9 NS 

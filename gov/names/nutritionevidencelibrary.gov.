@@ -1,0 +1,9 @@
+nutritionevidencelibrary.gov.	86400	IN	NS	ns1.usda.gov.
+nutritionevidencelibrary.gov.	86400	IN	NS	ns2.usda.gov.
+nutritionevidencelibrary.gov.	3600	IN	DS	5005 8 1 e690873408983d1b07cb321c585bda68f3b0f1b7
+nutritionevidencelibrary.gov.	3600	IN	DS	5005 8 2 0636e75466678ef83ea3fe38205246a52e8d2651c1f482bc69ee2c061ff47f98
+nutritionevidencelibrary.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Xk8onL49g126eAMFqx/+jI4vBMvrofDJeKUUee7hRBcgTHPG06Evm76iQ2fjoTcSNTlU+/23rAYKGqG6IuwD1oVym9O82VoJhSD02JN3156f3c8623oIRPZteQPGfh0PmN6Nn9oFtp6/i4rGn5IW4ryRM68hwdHYKFTn+IviZJA=
+ns1.usda.gov.	86400	IN	A	199.141.126.202
+ns1.usda.gov.	86400	IN	AAAA	2600:12f0:0:ac04::202
+ns2.usda.gov.	86400	IN	A	199.141.126.206
+ns2.usda.gov.	86400	IN	AAAA	2600:12f0:0:ac04::206

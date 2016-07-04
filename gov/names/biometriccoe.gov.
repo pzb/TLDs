@@ -1,0 +1,12 @@
+biometriccoe.gov.	86400	IN	NS	a1.fbi.gov.
+biometriccoe.gov.	86400	IN	NS	a2.fbi.gov.
+biometriccoe.gov.	86400	IN	NS	a3.fbi.gov.
+biometriccoe.gov.	3600	IN	DS	13389 8 1 cfef8100cdb9c9f10b4a007a6f56259d81dc4e54
+biometriccoe.gov.	3600	IN	DS	13389 8 2 b691865dca3195276dcf1523a055a078de16508f7c1cac8b909a4f4bcc9922b3
+biometriccoe.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. u2QebT7ksrTBhMcjpOFDjowB0iGWrtv1fkzQ849fYrz4Epi/TtvXVD1NGWG0hPjoFM9+5+YT7fbJtVLgUcnFT1SjAlPnCAei8BhSDNAf0FMyvrX1QsdPMI4VfZJhgyN9c2nCjtVC4IBoCU9N98dRHWqp1IVAq8aRgipIoSpNZBQ=
+a1.fbi.gov.	86400	IN	A	209.112.113.33
+a1.fbi.gov.	86400	IN	AAAA	2001:500:7967::2:33
+a2.fbi.gov.	86400	IN	A	209.112.114.33
+a2.fbi.gov.	86400	IN	AAAA	2620:74:19::33
+a3.fbi.gov.	86400	IN	A	69.36.145.33
+a3.fbi.gov.	86400	IN	AAAA	2001:502:cbe4::33

@@ -1,0 +1,15 @@
+ns.cybercom.mil.	21600	IN	A	131.77.60.235
+dimhrs.mil.	21600	IN	NS	ns.jtfgno.mil.
+dimhrs.mil.	21600	IN	NS	ns.cybercom.mil.
+dimhrs.mil.	21600	IN	NS	ns1.csd.disa.mil.
+dimhrs.mil.	21600	IN	NS	guv10m01.mont.disa.mil.
+dimhrs.mil.	21600	IN	NS	guv10m02.mont.disa.mil.
+dimhrs.mil.	21600	IN	NS	utindo02.csd.disa.mil.
+dimhrs.mil.	10800	IN	DS	20392 8 1 3f8a071f4c5b4f45d0e59e3379f765bf08a6cdf8
+dimhrs.mil.	10800	IN	DS	20392 8 2 10b84cc41fd9f67914a7f7830044df7185d1550d272510c852c8ca255fef8139
+dimhrs.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. TsLJNPvROLTIqY1/l9cNugf3XK7I+wC1foFcC4elvHjDr5LVDIhcDgv1Xw/XhZXrARqgAG/SV+Qwyw5bSFVKbhYFB1vEOlgjqa4Qvn3SYh4Snp4LPKQs8eJTOKqU8jUTfpXDup4UXgo7WUfaFSy3w0yjbSroQrsgrLJMMG1Vocjmq5A=
+ns1.csd.disa.mil.	21600	IN	A	152.229.110.235
+utindo02.csd.disa.mil.	21600	IN	A	152.229.110.236
+guv10m01.mont.disa.mil.	21600	IN	A	214.3.160.20
+guv10m02.mont.disa.mil.	21600	IN	A	214.3.160.21
+ns.jtfgno.mil.	21600	IN	A	214.3.125.231

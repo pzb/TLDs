@@ -1,0 +1,4 @@
+northfield-vt.gov.	86400	IN	NS	ns01.trans-video.net.
+northfield-vt.gov.	86400	IN	NS	ns02.trans-video.net.
+t3q66cmlabd3hne9g06b654a73huugml.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. NAy5ec6akZNS1WUxOqjF6Zl14JmbcRbQ0SPeOMWM5SOeHTYtESNai7L/dcYQ7ROFqKVTUPw2ZPgjYUqHq+sC4JlGzdPD8+Jmt2wqvTcdmXtx6FdRscJ6SJ6RFw/6hsbYFisKFI9RTiitMOoIX8eFpHmIi0daZIjHlIn7XgHCWYg=
+t3q66cmlabd3hne9g06b654a73huugml.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  t40kolc6n37u6s1q24c8gp20qd3vkp9d NS 

@@ -1,0 +1,16 @@
+lep.gov.	86400	IN	NS	ns-jdcd-01.usdoj.gov.
+lep.gov.	86400	IN	NS	ns-jdcd-02.usdoj.gov.
+lep.gov.	86400	IN	NS	ns-jdcw-01.usdoj.gov.
+lep.gov.	86400	IN	NS	ns-jdcw-02.usdoj.gov.
+lep.gov.	3600	IN	DS	20434 8 1 a9c3b4eae8512c1c5070aa0a23ed2f061b75b3a2
+lep.gov.	3600	IN	DS	20434 8 2 c7409b759d8a8fa135ce33a5d03e1e23be12b6b7dc01e0c1dc7a0407ee4ba012
+lep.gov.	3600	IN	DS	31762 8 1 fd1eda32d8cfbc9e751cbe507debe8f2acb4b64e
+lep.gov.	3600	IN	DS	31762 8 2 83cccb3328fb5605c390c1e8e45de34ea9225cc9088983b797048385f8e02555
+lep.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ru2vP2+JFHS1Lfvt3Qb4f1uycop/1OYVz2/0CPrm9sY8ELjkxWmxwOrblv1rlHo74iBU6HeguVHcQu4QuqcrNpZVqS8m3YEBQNXcTSAxIoqPQudo1ZcWQ68NqJgTGovFpcUoyCr1FZsX8WK1V4tWHg3CKuKVe1bcMsPHz4khrgY=
+ns-jdcd-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcd-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcd-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcw-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcw-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-02.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::6

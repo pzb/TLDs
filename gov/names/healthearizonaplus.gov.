@@ -1,0 +1,6 @@
+healthearizonaplus.gov.	86400	IN	NS	ns1.healthearizonaplus.gov.
+healthearizonaplus.gov.	86400	IN	NS	ns2.healthearizonaplus.gov.
+healthearizonaplus.gov.	3600	IN	DS	49309 8 2 48b0c007b2ff833b873ccaaeace1c9f2eb1c2a069bf58a30d27282f492829b8d
+healthearizonaplus.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. lRjNPW0JrE7u96n4rIaf2CiM4TyemR0eiOxrfkcgqfVY2DEmLarDDvTnW7VYxwxht6oD7BR3WqsouAH2TNg6vUVS6A1BNGV/FdbHqO52c8VFEM7A0rZN8TYs/bGqyET5O0HFLhEdoxq1+yZZqiqYNOlrDD+hXlf5Mr5Joyzf6ZE=
+ns1.healthearizonaplus.gov.	86400	IN	A	65.74.152.239
+ns2.healthearizonaplus.gov.	86400	IN	A	63.76.3.239

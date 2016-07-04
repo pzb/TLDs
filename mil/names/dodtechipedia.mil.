@@ -1,0 +1,7 @@
+dodtechipedia.mil.	21600	IN	NS	nsi1a.dtic.mil.
+dodtechipedia.mil.	21600	IN	NS	nsi2a.dtic.mil.
+dodtechipedia.mil.	10800	IN	DS	7401 10 1 5c48db0aa7e807ce0283c21ae50e1dbecbb6c9c4
+dodtechipedia.mil.	10800	IN	DS	7401 10 2 5db068504f8f02bfe5c7d9a6d8944d048a0f3ca7814b44a13baefd1169f31cdb
+dodtechipedia.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. VNBrpka/yUv/yX/NWQFtdSbk74bNTQqwHPd3kFTYXBI93jApVWBO6Z71sJT7dgyJl9jkb+8dWsKnlrt/ssm2CGN1ZTsfyxoPLLvr1id1tG1JbTtdVtwkFBxeOTXI1Z8az61aIt2A+oyWJbwVaaaIOELT5JPDITkqaomSSfkdcaIDXN0=
+nsi1a.dtic.mil.	21600	IN	A	131.84.136.73
+nsi2a.dtic.mil.	21600	IN	A	131.84.136.89

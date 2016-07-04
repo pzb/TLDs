@@ -1,0 +1,5 @@
+ifse524j7oarrk8amnm9f7fapiv49g18.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. mXVW2gPz2Xcofv+2UGNWbOLOYSG1rvq1F7la8XksP8iIKE4V6KT3LgX2fDW0Wx+5vQQa6W6xoRP/VjBbLzI4SZ8J3Exj1C/X6egFYpnyEWyfA9eOupuC1GtytCJBkt6wU4RM3a7rzySGEuTYud1reJZAEQ/b/HVQ6rp1v9mVV7Q=
+ifse524j7oarrk8amnm9f7fapiv49g18.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  igbukrr89q9uov6gmc4h3tpsefda6ldh NS 
+readingma.gov.	86400	IN	NS	ns1.infotech-maine.com.
+readingma.gov.	86400	IN	NS	ns2.infotech-maine.com.
+readingma.gov.	86400	IN	NS	ns3.infotech-maine.com.

@@ -1,0 +1,9 @@
+comptrollerofthecurrency.gov.	86400	IN	NS	ns1.treasury.gov.
+comptrollerofthecurrency.gov.	86400	IN	NS	ns3.treasury.gov.
+comptrollerofthecurrency.gov.	3600	IN	DS	18024 7 1 1317b67e6fcc68543b40469dd9db802c003f543e
+comptrollerofthecurrency.gov.	3600	IN	DS	18024 7 2 e2808a9451519dbe9512301588390ffa355547f9ab73a9359ecd825baa38f91f
+comptrollerofthecurrency.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. faEatNYPR21+oXXJBaVMLLISEBccHCItZ6NsK3/EQzpkJ9tFnPFFKF5xgCdCWZU3usaHHCtTt9DU26a9ujHrp/DCEnk7t39wU1fHhTsoh48aB0i7KxBvrDjRdrDYnJ+osBXS9fzBHVGdcuYlwpdwLZ+oUEl8gX8qOT18AM9/13Y=
+ns1.treasury.gov.	86400	IN	A	166.123.208.249
+ns1.treasury.gov.	86400	IN	AAAA	2610:108:4000:100a::249
+ns3.treasury.gov.	86400	IN	A	164.95.95.155
+ns3.treasury.gov.	86400	IN	AAAA	2610:108:3000:100a::155

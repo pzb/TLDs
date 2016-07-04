@@ -1,0 +1,8 @@
+pu4a3jmsnkcoamoj8jl4gru5mtso64pp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. s2vE01Yac/kgk/NhaCQsotO6BP0dTKYeu6XSIUhUUnQgAK9cKZ8S8+VuvxqhOByFuLjGfR5gI8uIRvr5vD5gCyvRQXBnz3rd6mt9OEgWvFPp9ffgsNMGF2v4+znEMcQ/u+1qM2c/aRXEIK+6n7zRQd+Jy9RO8TV0Tocrd04PXL8=
+pu4a3jmsnkcoamoj8jl4gru5mtso64pp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pua2vl2au9m20brjmh7b1sqj1m2f3av1 NS 
+wyoreg.gov.	86400	IN	NS	ns10.dnsmadeeasy.com.
+wyoreg.gov.	86400	IN	NS	ns11.dnsmadeeasy.com.
+wyoreg.gov.	86400	IN	NS	ns12.dnsmadeeasy.com.
+wyoreg.gov.	86400	IN	NS	ns13.dnsmadeeasy.com.
+wyoreg.gov.	86400	IN	NS	ns14.dnsmadeeasy.com.
+wyoreg.gov.	86400	IN	NS	ns15.dnsmadeeasy.com.

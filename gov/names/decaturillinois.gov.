@@ -1,0 +1,4 @@
+6ga6bb9sb1snsmrdj0i6uhc4lt4mffi7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. tFohxBJ3GpNiERh9IH1gnnB9/1Xv/k220xTTBHamKsGrbYHa4FyHRmsr7yRH927I+cq6FJxqLzbHcim+OilqfL/InNvA81u6AAAZZt0PMPzml7QSyhCvfo41aPzvOyk2rifvcx73Y7j2vmQWEm8UhIsilXAwz6IhfeHYmG42w9k=
+6ga6bb9sb1snsmrdj0i6uhc4lt4mffi7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6gg2rmaeho2fivjna3dop4gae8lptpvh NS 
+decaturillinois.gov.	86400	IN	NS	ns1.illinois.net.
+decaturillinois.gov.	86400	IN	NS	ns2.illinois.net.

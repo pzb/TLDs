@@ -1,0 +1,6 @@
+o1g1anlhrrn945g5kfe6vhvuo4oathjh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. p+06y9MqritCHq6IJ2HBU5+dgSUOGR7b5OeWSGWMvJk95Pcr/ZwfmcunOhUx5qgpEMAAYsE2+FbMbl1zK6gC+2jx/zjLY3KEAB9z1W87CoCgdkZDqfq8mAPu6c+9185qEF/qmFFTtLFbEYCN35Mf7y4cqGsyxJnlqPCiaPLuBLg=
+o1g1anlhrrn945g5kfe6vhvuo4oathjh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  o214n4e6m7htbvmh05lrb5d8ba7qv05d NS 
+pima.gov.	86400	IN	NS	ns.pima.gov.
+pima.gov.	86400	IN	NS	tophat.dot1.pima.gov.
+tophat.dot1.pima.gov.	86400	IN	A	159.233.156.10
+ns.pima.gov.	86400	IN	A	159.233.1.2

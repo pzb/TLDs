@@ -1,0 +1,4 @@
+9eb9u6g99gh8oghqck9s1mukqap058br.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. YqhfoD7vTbNJqfRQWaJTOsUx1PY4CpxlzN6kSjMTNhTBe0+NKKmNkpo7uTjreGdeEhez83IYUkpS/VEupp8zKMsmMjMkAONJVU1NyhWotcFsK6vjr4S/5tjUj8BqX5g7auesDNJXmfawFbzZCnq3vm6rgxQYVXveNxsQ71MGqQs=
+9eb9u6g99gh8oghqck9s1mukqap058br.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9ee2dc2229thh726j25hdnouad63hcj2 NS 
+denverco.gov.	86400	IN	NS	ns1.p13.dynect.net.
+denverco.gov.	86400	IN	NS	ns2.p13.dynect.net.

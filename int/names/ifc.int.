@@ -1,0 +1,4 @@
+ifc.int.	86400	IN	NS	ifcdns1.ifc.int.
+ifc.int.	86400	IN	NS	ifcdns2.ifc.int.
+ifcdns1.ifc.int.	86400	IN	A	164.114.1.7
+ifcdns2.ifc.int.	86400	IN	A	164.114.250.1

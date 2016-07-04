@@ -1,0 +1,5 @@
+1k3m4u39hdhjr06rgfu2en5v97rjed6o.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. K8vp9b5E6rlepoK0JKURsChnuIQ1XFePNp8EDErBjjg6TCOWvH4tk8y8kr5zNMivC4yBxCOFdHGlnQMKOt6tEQ+BnMa52em4jbCjzGbGq6jpTozP2LV4ArFRv4R8puCoWtSII3VRG+MUHK7DWtwxfS/dfkgKhryiwBPpZpFU3i8=
+1k3m4u39hdhjr06rgfu2en5v97rjed6o.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1k4u103eosbfggcd9kdnedad5tahv6b9 NS 
+aztreasurer.gov.	86400	IN	NS	authns1.mpls.qwest.net.
+aztreasurer.gov.	86400	IN	NS	authns2.dnvr.qwest.net.
+aztreasurer.gov.	86400	IN	NS	authns3.sttl.qwest.net.

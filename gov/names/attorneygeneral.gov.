@@ -1,0 +1,6 @@
+attorneygeneral.gov.	86400	IN	NS	dns1.attorneygeneral.gov.
+attorneygeneral.gov.	86400	IN	NS	dns2.attorneygeneral.gov.
+dns1.attorneygeneral.gov.	86400	IN	A	207.218.103.189
+dns2.attorneygeneral.gov.	86400	IN	A	207.218.103.187
+isro623pjcg6ro4512t17ofuo9lr1rmh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. cFYHa9ZkOpY49tNe6bOcBsRnNSTbMZkNQsu0DahOXtT+PJ8mefcQyswSrtKtowe1Qv+TF9ZNXEXeqOH97oE826JOXl0k+Qki8FGEB2d8K3+Gr+t01QN3DecjOzFoODsYsE8QL8u8Y125kg1u3kd2iryVAYYstnDPuEPWYsQNVbw=
+isro623pjcg6ro4512t17ofuo9lr1rmh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  it6stguqht0psrdea5l48a4394mfu98d NS 

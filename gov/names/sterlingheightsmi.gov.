@@ -1,0 +1,4 @@
+bkorl47kqehilr1otd4bbjjo1f12lnh6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. CuNOqB3SRQCJru7OGIVofTHYAioz5OMrR+9OdCPITby74H8FY/lSBknJTHE5ZFr5ogEBPrno5VvR9h2N78nVS6vXDYcQGzEf9Tx/OwxgWyN8m6QwLWcTfOPwrFt9WrWI/do3xADOqeebwZvKu50QMTXs7HqmPKggvlcqjPeFyFk=
+bkorl47kqehilr1otd4bbjjo1f12lnh6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bksc406pervn5m63fm6uutp0ntm9grpj NS 
+sterlingheightsmi.gov.	86400	IN	NS	cbru.br.ns.els-gms.att.net.
+sterlingheightsmi.gov.	86400	IN	NS	cmtu.mt.ns.els-gms.att.net.

@@ -1,0 +1,4 @@
+greenfield-nh.gov.	86400	IN	NS	ns1.infotech-maine.com.
+greenfield-nh.gov.	86400	IN	NS	ns2.infotech-maine.com.
+r9g2jm5r6u0p91dnpnu8hi8q2hg47i6d.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. xPBM6tOmguLOnzebCwX3YaFb2v7dLE0oDPlRsy7KaLJ3kzkDJR6iV/EeKsg+uq2dhYKEgG7wh1c3L/xEOlVXoVmV3OTWbR3wD2tybe8atFVLivPC0rx8h4FaTWjvmF7opZobSdXs9yFUk/z5HZYdjPrrZtJ2tlkGmiCw5emYTDQ=
+r9g2jm5r6u0p91dnpnu8hi8q2hg47i6d.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ra0roqdcoldpirnej66dsmib3pc0bj77 NS 

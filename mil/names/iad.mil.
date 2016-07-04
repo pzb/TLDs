@@ -1,0 +1,6 @@
+b3iors697n1svup29fucn3p592gf0bod.mil.	10800	IN	RRSIG	NSEC3 8 2 10800 20160708161835 20160701161835 16413 mil. J9XFCUuej7G1E8vaT5sWEZjC+Yw9u4Oa6E76C5bRSy/4O6kYyAEb5fxZR2/I6me8qbCm1C/lHA5QKc9iD0y1358crN8+lE5tUskRGRV3xOTXZHIZf/vqWKwTIdRflUWnFuAgGhID/N24zLRBDWLSxJfPi4MRfmkULOpeoI5ssemehd0=
+b3iors697n1svup29fucn3p592gf0bod.mil.	10800	IN	NSEC3	1 0 10 adeb  b6tb1hchvsak002kavo9h2k6p1abhncb NS 
+iad.mil.	21600	IN	NS	ncmd-daisy.aztec.ncsc.mil.
+iad.mil.	21600	IN	NS	ncmd-buttercup.aztec.ncsc.mil.
+ncmd-buttercup.aztec.ncsc.mil.	21600	IN	A	144.51.170.34
+ncmd-daisy.aztec.ncsc.mil.	21600	IN	A	144.51.170.33

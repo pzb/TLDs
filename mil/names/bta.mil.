@@ -1,0 +1,9 @@
+bta.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+bta.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+bta.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+bta.mil.	10800	IN	DS	4006 8 1 5b257f140a4f76c12d65c764f9842cd8d28294fb
+bta.mil.	10800	IN	DS	4006 8 2 f3851c182df78f80fa7282b77954241800fc09455c120cff6aeb734552fff24a
+bta.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. wFKqJrBvnH5YmAtBDANsO6f0gf2dqoI5htDlRXuAzipO8PhL+LL1uyUO3I8BRWF5gcIl6HlR2RlaUe2dzO0TT2gAC3Mf8TuXhcIWgjMbG++/Y+a1DxaavFuL0tzZqMmspNxjv5/do0GB/OrOwBdTkr4lp/gNNAW4u62ARUpvDxUy4Xg=
+dns-pub-f1-u.pentagon.mil.	21600	IN	A	199.252.47.11
+dns-pub-f2-u.pentagon.mil.	21600	IN	A	214.14.133.11
+dns-pub-f3-u.pentagon.mil.	21600	IN	A	199.252.47.75

@@ -1,0 +1,4 @@
+5objf2o9cir2q26s0e992kodlpq15h4f.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. qcumYcs43exc4MCjJl5gw+QzCTFaBff3YZcXf/GSySl7SrndHDirkT7B4KsQTEvXDciNMlOAf05Jmf7/NmqEdfdHqTPlI7aVlPPRNG4uPgBZ3DZvYwSZKr5OwTDj9h/nThMRJPS78dvPV0TtlfJO7qq/DtNA6RpVK0sV38VMILc=
+5objf2o9cir2q26s0e992kodlpq15h4f.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5og38aum0admmfll84fka8tp0jr11cup NS 
+covingtonky.gov.	86400	IN	NS	ns1.systemsinsight.com.
+covingtonky.gov.	86400	IN	NS	ns2.systemsinsight.com.

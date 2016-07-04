@@ -1,0 +1,6 @@
+kentucky.gov.	86400	IN	NS	ns3.ky.gov.
+kentucky.gov.	86400	IN	NS	azure.state.ky.us.
+kentucky.gov.	86400	IN	NS	midnight.state.ky.us.
+ns3.ky.gov.	86400	IN	A	199.120.154.21
+rs3tphu40piijorchp778cocrqlei7bn.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. A9b5WV750PULydhMD5b+oHAVb5k03VLtIu2eWNkXTxhNlOvOowpheMpsd0e1SaaYoFfpTPxRDA9ci2MtdRlskjexpM+nT8L6HFujG0tHeCOwN1T2SnmFBuBvo7+c/pdr0vBuqZh3Q2/+Z/iQzAc1aXCfQQspz3uns18viqCYkAM=
+rs3tphu40piijorchp778cocrqlei7bn.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  rs87q0k3v54kooei6domcjinelcd6mpq NS 

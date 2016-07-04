@@ -1,0 +1,4 @@
+bbj44k5nd0ojer5ter8vbnisrkpu0pp4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. SGMYCPP/G/Ivp1pC6REUqCFGYyotV/ZpmKAZZt15JsHoOpwxEm2FlfLgfIOnG1vV02ay1W7BkGOLmmUyFOMQaeW8VoS0TsTh84RckbJDIXiFcF1911K0alRZNrzafKTIw2pn2VFoDi1szC44oTzDsxXN4UEg+fAi+TcARbOk/go=
+bbj44k5nd0ojer5ter8vbnisrkpu0pp4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bbmpq9dg7htmi1rrvrdu9ukcu7gsdvdv NS 
+navasotatx.gov.	86400	IN	NS	ns1.bonfirehosting.com.
+navasotatx.gov.	86400	IN	NS	ns2.bonfirehosting.com.

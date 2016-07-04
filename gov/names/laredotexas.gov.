@@ -1,0 +1,4 @@
+a56odllg44hjqsu6q13r2f34tlu37us1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. uzzRvF+spEXDQmWRdnoFQzIFIAztTs3QFVxCdITNL5oSocXuMhlEtL+7/UBo0foMVhsHJSwvDOjfB9n61KCFb8I3BkeVKxXPqsCz58hhwFCJNnIfM/JlP6xHQbVGs+xdTGBklYErrEXEnd7pnY9j0TT8M/obv4DRlZXhtH0Rt7c=
+a56odllg44hjqsu6q13r2f34tlu37us1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  a56ursptosfm4q4a7p648ndqme0dlb67 NS 
+laredotexas.gov.	86400	IN	NS	ns.ci.laredo.tx.us.
+laredotexas.gov.	86400	IN	NS	auth111.ns.uu.net.

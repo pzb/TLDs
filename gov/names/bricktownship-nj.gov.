@@ -1,0 +1,4 @@
+434m8sopabhfasf6hb4g0jcncu4ak00g.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. d4YAJ2tc/WQBuBiR7GaTnJrwLu7pN+816MtvIR/COoB4txU9Xz9Csa9IVkP0ODtsDBNDoGv+W65cTmeDN9U03N5V1/qNo4YIsizB6ieA4oDopr7fMJZy7Wh5QrmiFnvLKTiFHKIhfZb9TlzYCusholBOrJRDUI6GgwIplEYzn4w=
+434m8sopabhfasf6hb4g0jcncu4ak00g.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4380g0k1lce8dapm8pckmk0bs6vpsng1 NS 
+bricktownship-nj.gov.	86400	IN	NS	ns1.bricktownship.net.
+bricktownship-nj.gov.	86400	IN	NS	ns2.bricktownship.net.

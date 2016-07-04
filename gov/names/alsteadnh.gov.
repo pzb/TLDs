@@ -1,0 +1,4 @@
+70u12eki42l3ijs015r2s4p93btkl7u3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. giJsD2Xi3nd7yOFgFC+Vux5zIgk/tX2BPtHGnfLl5fZFsmlbgMcVqL8+OvYzgQPrFXQJL3h9PSkMUov/JRIAWT8Qf7jbUMwqwRVWSQU4WEczTrSRHoIIQgERQfvMezAl1/6uOKVzqDNs3uqFqDaCJPIQhp4vlf7or1WRP2onfIM=
+70u12eki42l3ijs015r2s4p93btkl7u3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  71dlf02aj4pa74fnicqrvpljordd27el NS 
+alsteadnh.gov.	86400	IN	NS	ns1.greengeeks.com.
+alsteadnh.gov.	86400	IN	NS	ns2.greengeeks.com.

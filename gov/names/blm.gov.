@@ -1,0 +1,9 @@
+blm.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+blm.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+blm.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+blm.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+blm.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+blm.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+blm.gov.	3600	IN	DS	1375 7 1 ddf99bcfb3a79dbf544ca1aad7b220f59957a127
+blm.gov.	3600	IN	DS	1375 7 2 cea62a31158e9cfd1d95bef44a3b9bf414d558aee93cd829aee4fe4ec74bb3e6
+blm.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Is56ldYdspxwLMSvteo/CX2K+Tupbl0koVm9vWVoN5N6LbPFxPNrW0z8Dfc/2I5VFGtHbrnV5hCoysF+MC+260dZ9nRLG4PnNzQz61lU5qsQLcFfcA4O/YiiLy0wR12NIwBWYoIedOxfIUsvldvgdgH3Zgg2hz8ZcQr3yHcC3eQ=

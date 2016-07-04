@@ -1,0 +1,6 @@
+dia.mil.	21600	IN	NS	nediacd003u.dodiis.mil.
+dia.mil.	21600	IN	NS	nediacd004u.dodiis.mil.
+nediacd003u.dodiis.mil.	21600	IN	A	214.3.138.10
+nediacd004u.dodiis.mil.	21600	IN	A	214.3.138.13
+evqmjkag8qakvhsadf4k3otboshecpi7.mil.	10800	IN	RRSIG	NSEC3 8 2 10800 20160708161835 20160701161835 16413 mil. bzbMlJT6chy+etaJ1aBxQbTZRfFvQXvvYkhEP4BnZaBnzzDszri5yeqkJzrBkjbdW+mAG+Limr5e205zMiI190TtjUzAutCSvHhQ0n59P7WP/Rc2GLNNj4Ko5Uxy1Ry9UUveJfPN4AiZwc9I8uHRmmOjoX88gSfKSDOqpsgHWeRvVRk=
+evqmjkag8qakvhsadf4k3otboshecpi7.mil.	10800	IN	NSEC3	1 0 10 adeb  fcuj549b604dkkucp0jgucjs3cn71hab NS 

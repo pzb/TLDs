@@ -1,0 +1,14 @@
+ns1.ftc.gov.	86400	IN	A	164.62.13.2
+ns1.ftc.gov.	86400	IN	AAAA	2620:0:630:4000:164:62:13:2
+ns2.ftc.gov.	86400	IN	A	164.62.13.3
+ns2.ftc.gov.	86400	IN	AAAA	2620:0:630:4000:164:62:13:3
+ns3.ftc.gov.	86400	IN	A	198.77.70.11
+ns3.ftc.gov.	86400	IN	AAAA	2001:1900:2268:770:198:77:70:11
+ns4.ftc.gov.	86400	IN	A	192.28.111.42
+usicn.gov.	86400	IN	NS	ns1.ftc.gov.
+usicn.gov.	86400	IN	NS	ns2.ftc.gov.
+usicn.gov.	86400	IN	NS	ns3.ftc.gov.
+usicn.gov.	86400	IN	NS	ns4.ftc.gov.
+usicn.gov.	3600	IN	DS	22320 7 1 ccb009eb6c090aaf89ee5f7b4c3ddf3c97c2cd12
+usicn.gov.	3600	IN	DS	22320 7 2 687559d5e2bbc8bfb109e57a1e742ea0262339356eab99807c6563c1b2c53ca1
+usicn.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. oXAz9+sdeczNXESpRgTLF5In6DnJ9A2RneYntEVaKM4oAanLJjzNXXeu8N/nAiEbfljF6jlDR1yS+wMt5nG9jDA4hG+EnCpat1vfLeuOvdaex8VJnB9WOAo70ynz/3QufyneYgpGXDZk9CfgFmf0IswNOhGnlwboh8A9nRLMt0Y=

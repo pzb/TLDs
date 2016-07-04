@@ -1,0 +1,4 @@
+azrra.gov.	86400	IN	NS	pdns07.domaincontrol.com.
+azrra.gov.	86400	IN	NS	pdns08.domaincontrol.com.
+tudfl3rnb1ah8t2hhehv4e256eh2dmhu.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. nEhE64JQRZ8Hv1PUDB+X6raunMaJvxWq8IDkC0QcO961XXU9Tt82HII9stpQcViChLvfo70i4WRnCh/BMq53t/rpetozzdI7ktC72vPc18v0QACvUrHitcO1BrJyvPZL6zwC1wrltWPXJ8DIeTgXLKe4TNNAFee8oysV2vV9Quw=
+tudfl3rnb1ah8t2hhehv4e256eh2dmhu.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  tuhoal7h1inp2qj1fvu4olea9k511cso NS 

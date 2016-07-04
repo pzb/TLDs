@@ -1,0 +1,6 @@
+chyron.house.gov.	86400	IN	A	143.228.129.38
+mercury.house.gov.	86400	IN	A	143.231.1.67
+houselive.gov.	86400	IN	NS	chyron.house.gov.
+houselive.gov.	86400	IN	NS	mercury.house.gov.
+u0tvd9a6ut3m5mhtjs6snd1ij823ocp4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. QDFbz2EJ9X937JVJIAX5a7mkSd7RJSGbNJAbIJ19I0iU5Ak1Ip/HOTuZQZTl8WgtwdaqfJ/boiB8M5ec2UGyevhpAKFCDrBM/XvtJizUBQpXmecBacN6GVy0kJyi8L6rfp65B5kW5uCI92it2ZYCszvnX2YYVHlNPW7zbD3SWrQ=
+u0tvd9a6ut3m5mhtjs6snd1ij823ocp4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  u131bra2uvojg6mkqc8mtcc6to61ot72 NS 

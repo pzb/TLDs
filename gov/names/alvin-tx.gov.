@@ -1,0 +1,4 @@
+alvin-tx.gov.	86400	IN	NS	ns1.eztask.com.
+alvin-tx.gov.	86400	IN	NS	ns2.eztask.com.
+k73tim15gdtj26culmigpaau7tcfgdlb.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. me3rGHWp/y8ZQr7hB1acnqDHondyFT+hKpXvZfVazz/pK6Ti7RawdY/PB7VxfYXWPMKWGN0B1yXQ3CK67y4zkZIHjYMov0K5aswUVI2YRNlekUJWBu3Vzp7Hpywg4zzUG1YejJA60fn9CoYu625FtHd2ssRmtDFYyQfxKckacR4=
+k73tim15gdtj26culmigpaau7tcfgdlb.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  k781mkjgn9dv15a50fllt243tr57g8ub NS 

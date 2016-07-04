@@ -1,0 +1,7 @@
+doublecheckiowa.gov.	86400	IN	NS	dns.iowaccess.org.
+doublecheckiowa.gov.	86400	IN	NS	ns1.iowa.gov.
+doublecheckiowa.gov.	86400	IN	NS	ns3.iowa.gov.
+ns1.iowa.gov.	86400	IN	A	165.206.254.145
+ns3.iowa.gov.	86400	IN	A	209.56.120.13
+m71hndis8iiqbbuea4ug1vejeh1bd4tj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. YRDKgifxKqlF+3tBHvRHGkGSyjGKRPf0Bt4Bk5VMiJrE1sU8LO9LiV/ntqwCJvui6YPUfTbM3jhnCxOKvQXgXd33FAUsHIMdtimNLMfV9QMYsgUO5XZaeROtESABDtGybC7uJXvn9ERqbDmehQ7ae0MMG7LY0fJz4TGShUdGUrE=
+m71hndis8iiqbbuea4ug1vejeh1bd4tj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  m73u33rbqpmocp2njg6jugehk9n92a13 NS 

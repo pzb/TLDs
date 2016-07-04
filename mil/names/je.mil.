@@ -1,0 +1,11 @@
+2f3k79duvas2ehu8co4lm69nip5q2s15.mil.	10800	IN	RRSIG	NSEC3 8 2 10800 20160708161835 20160701161835 16413 mil. rv8+S28wG5U7ujueAhXjR5sjFZvugZegJIgKu9vrpD7UMNQY+2H2TRgm13NSfHAU345wdGJHwBblmrCYWQ7+KrYSDC8yfQvMfjIPi87130yv64lOW6CVNNlZNIHFwjgU+CuRLmQQS0+41AmYkC1mfsIMsvpcrA6VGqBKfAIRtyTGwvE=
+2f3k79duvas2ehu8co4lm69nip5q2s15.mil.	10800	IN	NSEC3	1 0 10 adeb  2i2u5l0moae3vga9u610cpid3dgcbdh8 NS 
+ns1.mhpcc.hpc.mil.	21600	IN	A	140.31.199.226
+je.mil.	21600	IN	NS	ns1.je.mil.
+je.mil.	21600	IN	NS	ns1.nosc.mil.
+je.mil.	21600	IN	NS	ns1.mhpcc.hpc.mil.
+je.mil.	21600	IN	NS	ns2.je.mil.
+ns1.je.mil.	21600	IN	A	140.32.76.28
+ns2.je.mil.	21600	IN	A	140.32.76.129
+ns1.nosc.mil.	21600	IN	A	198.253.48.7
+ns1.nosc.mil.	21600	IN	AAAA	2001:480:10:1048::7

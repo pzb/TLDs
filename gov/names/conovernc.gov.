@@ -1,0 +1,4 @@
+conovernc.gov.	86400	IN	NS	dbru.br.ns.els-gms.att.net.
+conovernc.gov.	86400	IN	NS	dmtu.mt.ns.els-gms.att.net.
+h3b97s45m1b6646273edoakq17a4gqlp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. rhUzYr0MPLXyrp6fGE0iktqm64PhqNReZ6OePgiJMzDzf12ZDq315iYKYr+4YKMxFiMe5x6IV96tBtygwN6nRe9wYh67CgxQeiIE+s5l0XlAd5OVIgKpVpiiw0KnpDyKQXauXb6bLSBc5NK+RI3igXGGIK6urYak02HFf5dNLPY=
+h3b97s45m1b6646273edoakq17a4gqlp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  h3ffn6lq9eo8205h2fib28unlqum4nnd NS 

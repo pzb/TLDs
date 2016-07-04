@@ -1,0 +1,4 @@
+azarts.gov.	86400	IN	NS	ns1.mythichosting.com.
+azarts.gov.	86400	IN	NS	ns2.mythichosting.com.
+hbrqdu24b51pnp5sk41giect82or1s1v.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. jui4zVgtdXtr6L7qcMO/hx3yHzOQNyM//+ib2DZ6ecwK+qy1iu3UjZiXwq15ei0MwkhUpGglNrMHdnmmjFOFPrlYgQqjZRJgfT2d15vpAvQEYHTLpWYf7xuZNweYeNcBNPIwcGHkL7UYBJvMKAO2Xvuu2WgD6p871Lc0Z6u4Ba8=
+hbrqdu24b51pnp5sk41giect82or1s1v.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  hbvl1erc85fdr1f0as042cune1hl308m NS 

@@ -1,0 +1,9 @@
+bia.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+bia.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+bia.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+bia.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+bia.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+bia.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+bia.gov.	3600	IN	DS	4873 7 1 22675d6d06e5009e7ff5f788a332ae7232dc7c34
+bia.gov.	3600	IN	DS	4873 7 2 0ea52926bf9b0a4e4b8b31a86e265ba330107fa0dfccc9bed482d7d9f8e81b62
+bia.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. SOGTqkJHUT+8+zP+B6B9F3iRO13sK7gqiIwkmFh4h26BjdC6i7tA2pIL7CCIsRuJf0m5bCAHSBrzn8vMfeW97EHqtcmhn9nACbQg6QXorwNhG2lrqFsQ94ZviywgwJ71bBY0irKFXlFcsEXkgeU10hwM5lgVU5LYWAfQ6qEhKlw=

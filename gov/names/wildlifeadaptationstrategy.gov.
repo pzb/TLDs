@@ -1,0 +1,9 @@
+wildlifeadaptationstrategy.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+wildlifeadaptationstrategy.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+wildlifeadaptationstrategy.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+wildlifeadaptationstrategy.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+wildlifeadaptationstrategy.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+wildlifeadaptationstrategy.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+wildlifeadaptationstrategy.gov.	3600	IN	DS	59956 8 1 9408ac70f776ce75b5be96ad947036a7e03452eb
+wildlifeadaptationstrategy.gov.	3600	IN	DS	59956 8 2 72ed6dc9022abf7a38458944bf5a6ccd79d49b81bfb1ad60400fc7e88ac433e3
+wildlifeadaptationstrategy.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. bSVfHck8yfRs4xbeQLTd6WoYBAmFwgRY13hj0wfhqvkdGK+ll1CDOrorWUsPM/+fV819o88jJanTTYYgjpmF0UOW9REb+gBzNNTSesBoZVqBPbxU8de7QLFyDEjhhH+jkFPcbrDtHdldmqt8mjCk05yF1v1ua/HmayrMvv0hXek=

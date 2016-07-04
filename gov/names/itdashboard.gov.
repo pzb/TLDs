@@ -1,0 +1,10 @@
+itdashboard.gov.	86400	IN	NS	zc.akam.net.
+itdashboard.gov.	86400	IN	NS	use6.akam.net.
+itdashboard.gov.	86400	IN	NS	usw1.akam.net.
+itdashboard.gov.	86400	IN	NS	usw5.akam.net.
+itdashboard.gov.	86400	IN	NS	usw6.akam.net.
+itdashboard.gov.	86400	IN	NS	asia9.akam.net.
+itdashboard.gov.	86400	IN	NS	ns1-145.akam.net.
+itdashboard.gov.	86400	IN	NS	ns1-176.akam.net.
+itdashboard.gov.	3600	IN	DS	4902 7 1 fdf36c91b9c2d4d7e70f7731a06d976b270a439f
+itdashboard.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. cP/jozC7v9E9C22HFmgvgERZtgMTLgf773naF9phT/UgkyHY2bgIK4a4nbowGaX8b+KXILdo63LnG/qjxBLHTXgf+GiVQTp0nDW8Q45G4AO2OIXELdlpDp2O2b/oimVagvNwLwIIE12+KGis1n3VE0EfHs7i7Zjebl6Leb73goc=

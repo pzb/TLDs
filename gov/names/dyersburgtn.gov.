@@ -1,0 +1,4 @@
+dyersburgtn.gov.	86400	IN	NS	dns1.lgdpc.com.
+dyersburgtn.gov.	86400	IN	NS	dns2.lgdpc.com.
+fpjhj99c7ett7nbt0l4bauipe48bhtjj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. EZrK5Reaame1kUMPt7I3KD9iWp1C9e+JokGAqUyNawstnvs3iZHr1zd5B0g6J1rgL528GxRAHU8jVpXh5AvpL5unb6kr/8HOBC3VCP2laDxEEIwO2YnlPITWHxbbYbNHX8S3H5ATM3sCpapnU2KFK5vQFqfR9a1xlIuh4Ty3s/w=
+fpjhj99c7ett7nbt0l4bauipe48bhtjj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fpuaqb9j6rd3tk8enfej15077ga869j8 NS 

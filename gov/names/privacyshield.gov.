@@ -1,0 +1,9 @@
+privacyshield.gov.	86400	IN	NS	a4-64.akam.net.
+privacyshield.gov.	86400	IN	NS	a5-65.akam.net.
+privacyshield.gov.	86400	IN	NS	a8-66.akam.net.
+privacyshield.gov.	86400	IN	NS	a1-109.akam.net.
+privacyshield.gov.	86400	IN	NS	a12-66.akam.net.
+privacyshield.gov.	86400	IN	NS	a13-67.akam.net.
+privacyshield.gov.	3600	IN	DS	43792 8 1 142b48027c772073ab97bce01fc19419a4b6715e
+privacyshield.gov.	3600	IN	DS	43792 8 2 b7dc018821b373039fe00ab9439ada088465ad21ace6c784c8beb2dbba18b09a
+privacyshield.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. r88mXUeZpuE6KFP7ks5b+KTcxg40reooIk0RB39M5xUAijCmv+ouXHGf+lY7+Mtkz5dZMoAt+7VJD8a5JWInd9D8TVly4HVjPnLXi8JD8Job/eSliGJTscbrl6wYhHvz3tFRlyVFnGYnlvo/4hTpmR/3T37U5bE+4gttYa+IyRk=

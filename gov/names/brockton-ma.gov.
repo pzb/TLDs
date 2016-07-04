@@ -1,0 +1,4 @@
+brockton-ma.gov.	86400	IN	NS	ns1.sapin.arvixe.com.
+brockton-ma.gov.	86400	IN	NS	ns2.sapin.arvixe.com.
+m9jp3v1rtp5lqs0lvchc3g5o76r5tv0j.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hFVDqxwcQEc4bhjRhjhr16FxjJzSUHmKjRODda8bnCkn8eEwF93JR3q0MiT8raAiAdJmF9IaJQUIEimz0xYvE4+5v/iWKks3CPTZglPy3dYDukz+eIFgblUOsazwAR3UHMK+2YWfUECeLmtdfH3wx2wTF5PHvgDHPVY15NKc/Cc=
+m9jp3v1rtp5lqs0lvchc3g5o76r5tv0j.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  m9nv3dj1gsbrmqgb8a13232hp8i18e3u NS 

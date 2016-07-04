@@ -1,0 +1,4 @@
+175973lgd80li3fnb9v8k58385ktsjqj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. RGAETjL5qnNf/+P3KempV5wf3ZuU88Ks9y+N1ESH48QskK+QrzAIGie6sm5TP0YFCPvQm58SiWLJygoOoj3ba9l+c+GWuu14rgdnyOQiYy3w5kaH/0HBcN4hZn1qDy05peBSn2iHvq+orkcYX19o6VVq+ahIUcQBy1Dd/4KcJ8w=
+175973lgd80li3fnb9v8k58385ktsjqj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  178hevm56gind2drjbkjuk4389e3sl6f NS 
+jacksontwp-pa.gov.	86400	IN	NS	ns1.secure.net.
+jacksontwp-pa.gov.	86400	IN	NS	ns2.secure.net.

@@ -1,0 +1,7 @@
+89605vgsigrqoudl5fcc9m1kd2sahgc9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. uilhrN9KqjXaOKK9iUrW+kaxxqUQF/KrhmkqhY4gYweTp8ReIMVrtSWRHF8t1NDwJu7wE793p50AomCdu/Syw+iZ3jwwqgXxhOxc9luDqBjDRs7oUCjrqCPbLDzcr0k//UXLv/YtETs5169eDXJCYlr70ScMResvJ1n7IVbYipc=
+89605vgsigrqoudl5fcc9m1kd2sahgc9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8976n4dp3ajo3qf58fsf9e0qo9uf4u9h NS 
+darienct.gov.	86400	IN	NS	ns0.dnsmadeeasy.com.
+darienct.gov.	86400	IN	NS	ns1.dnsmadeeasy.com.
+darienct.gov.	86400	IN	NS	ns2.dnsmadeeasy.com.
+darienct.gov.	86400	IN	NS	ns3.dnsmadeeasy.com.
+darienct.gov.	86400	IN	NS	ns4.dnsmadeeasy.com.

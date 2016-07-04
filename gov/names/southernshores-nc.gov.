@@ -1,0 +1,7 @@
+78p1m0ctbmbqas8glrujktou1mhflnqa.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ufuJI8na3hzZRJInSHRO+YrH+jln9BUYNXimyCSic+DhU8Xpuij/BQVBhJ8SsUGQoqh4U72tsC7OTJ7lQq2yJI1lLKFcrOJTbzNjqXtlzLgd60Qa+nzKziKLbPTJsPiDVwTaDq681HHuSV4T5TcfkPwl3a5YtcaBnVZw8pFe47U=
+78p1m0ctbmbqas8glrujktou1mhflnqa.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  78soapkj39fj48a3amikf8005isj0gbr NS 
+southernshores-nc.gov.	86400	IN	NS	dns1.name-services.com.
+southernshores-nc.gov.	86400	IN	NS	dns2.name-services.com.
+southernshores-nc.gov.	86400	IN	NS	dns3.name-services.com.
+southernshores-nc.gov.	86400	IN	NS	dns4.name-services.com.
+southernshores-nc.gov.	86400	IN	NS	dns5.name-services.com.

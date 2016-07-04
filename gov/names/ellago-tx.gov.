@@ -1,0 +1,4 @@
+ellago-tx.gov.	86400	IN	NS	ns51.1and1.com.
+ellago-tx.gov.	86400	IN	NS	ns52.1and1.com.
+kn3jmveo7jv12ok8i1upoms1rn6iel5v.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. EEW3xOkoEkFWxB4M4KUjC6Cvp+kFo8tn3UHO/8Ry4yQq4cxl0MsTEHiI2IYe9GBnWM0q6qfNO3fTqH8LzkDNIBcSwhsZypspfD1njWUjeVqGbzIysLvRl0ls4Lq1UssZQA2EppEWQdIyQfVPA1PgL/Jos1cQ8HyINsxuC5hEMks=
+kn3jmveo7jv12ok8i1upoms1rn6iel5v.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kn7tb55o4gkpopq483vf27fcbfc7iop8 NS 

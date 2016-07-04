@@ -1,0 +1,7 @@
+iashp.gov.	86400	IN	NS	dns.iowaccess.org.
+iashp.gov.	86400	IN	NS	ns1.iowa.gov.
+iashp.gov.	86400	IN	NS	ns3.iowa.gov.
+ns1.iowa.gov.	86400	IN	A	165.206.254.145
+ns3.iowa.gov.	86400	IN	A	209.56.120.13
+jv0kq9efdutbn60d4j05f71q4jvr9ooo.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. W038U8u8ktu+AUcFzcYBavzxSvFaY5e8LAotPJTHNeoPFo7HykCnLOkz4x3GffbJfAfYI/Vw2yi8hK3f49g3iv1bf0Vgsf9V+LcyIxo5Sz3LqMOWSSz+oVyZX8Gm6GD+fKoSh5pcCe6HIgfR3b4O9lfhLdjv0+jNqt3D47YSlBA=
+jv0kq9efdutbn60d4j05f71q4jvr9ooo.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jveefkedj6ktmgjv8de364ofla5i0181 NS 

@@ -1,0 +1,9 @@
+lowermississippivalleyscience.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+lowermississippivalleyscience.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+lowermississippivalleyscience.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+lowermississippivalleyscience.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+lowermississippivalleyscience.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+lowermississippivalleyscience.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+lowermississippivalleyscience.gov.	3600	IN	DS	24376 8 1 d25a95c23f7bfaf467cbfeca53014f0e00e57f56
+lowermississippivalleyscience.gov.	3600	IN	DS	24376 8 2 a5ae13bfc29545a461b1397e7cfb9ca19ffc7f0190ed7e5006f376df581c8888
+lowermississippivalleyscience.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. OcC48mvjYhOwn7G32qwDkPTTP9dZctklG+/F5YvCc+Kk3zqmrpkokewM9DQF1UQvf6xcEUE5o1yp+GkAZRSjPRQLLPDoYw2NJL7kx3FzyJ7lxRvKXIuaRcBmi+rSvIIe7l2FkvM/BnlHcNkHsvqD560ZftHVFw+a/j6sEvvO+U0=

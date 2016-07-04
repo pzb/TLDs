@@ -1,0 +1,4 @@
+cn6v8golv0f8ke993ajequqsmhq0vehl.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hbC5HqgXz11zNyF02+kj1QnLEj/uy/AXfiql1zqGhHTz9imI4g4zA5rzSIm1frI5LXH137B+KOpFEQX5dJZS8BO3tUWDZs5JAJYNWHuAHRmjZxwAxESVKq8CmR0/d1n6n82hh004xKciZZqJqoREFSLBhaDgVBRRqnUIdiK281o=
+cn6v8golv0f8ke993ajequqsmhq0vehl.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  cnatkqqupq2m79hbp9fr6f9a3nu6o870 NS 
+nmcourts.gov.	86400	IN	NS	ns1.nmcourts.com.
+nmcourts.gov.	86400	IN	NS	ns2.nmcourts.com.

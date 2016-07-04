@@ -1,0 +1,15 @@
+hud.gov.	86400	IN	NS	ns1.hud.gov.
+hud.gov.	86400	IN	NS	ns2.hud.gov.
+hud.gov.	86400	IN	NS	ns3.hud.gov.
+hud.gov.	86400	IN	NS	ns4.hud.gov.
+hud.gov.	86400	IN	NS	hudgate.hud.gov.
+hud.gov.	86400	IN	NS	hudgater.hud.gov.
+hud.gov.	3600	IN	DS	1593 7 1 45609d6560a7cc19f8f384386da155369278984c
+hud.gov.	3600	IN	DS	1593 7 2 d9a9d824fc6f67981d194370a949322170e303b555bf5655529fd9f6a7d271aa
+hud.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. AuNuWz84LW6hOuPkfHsARPSjcU+0elTHG9ZmybAgT0VcDTExMIZwTzoq/PC5LAs+f89hpWI85DbqpohHmHtEr7ksZqmZY7UrKmmvJGwp8ml+QdygLttiaWHkQVQHxQv7nojK9qIek1xrFlPrRN2zvtMJ0nsQO4wwXLHMaEPomcQ=
+hudgate.hud.gov.	86400	IN	A	170.97.67.16
+hudgater.hud.gov.	86400	IN	A	170.97.167.16
+ns1.hud.gov.	86400	IN	A	170.97.67.250
+ns2.hud.gov.	86400	IN	A	170.97.67.251
+ns3.hud.gov.	86400	IN	A	170.97.167.45
+ns4.hud.gov.	86400	IN	A	170.97.167.91

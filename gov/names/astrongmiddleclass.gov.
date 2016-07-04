@@ -1,0 +1,8 @@
+astrongmiddleclass.gov.	86400	IN	NS	zc.akam.net.
+astrongmiddleclass.gov.	86400	IN	NS	use6.akam.net.
+astrongmiddleclass.gov.	86400	IN	NS	usw1.akam.net.
+astrongmiddleclass.gov.	86400	IN	NS	asia9.akam.net.
+astrongmiddleclass.gov.	86400	IN	NS	ns1-145.akam.net.
+astrongmiddleclass.gov.	86400	IN	NS	ns1-176.akam.net.
+astrongmiddleclass.gov.	3600	IN	DS	6054 7 1 5ad95b38e3932bfa41cbe0cb5c127d9934051b8c
+astrongmiddleclass.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. YBx2N/s3f0aKme3IeH65LjeVDbeaDpLSHMTJaXBylkQFeqN334Cn/WmZflJb+L2EoMhPQHp+LuXtGD9ibDBk0zPshu35lLPOO/Ar0KKVpnvPWEMFf8FvDg8V3Qdq/qQ4NZWFOnikQdiTuOhD6QGJsDGGhaZegYCnsod/eNo8Bo8=

@@ -1,0 +1,5 @@
+guam.gov.	86400	IN	NS	dns2.teleguam.net.
+guam.gov.	86400	IN	NS	naan.guam.gov.
+naan.guam.gov.	86400	IN	A	67.98.163.5
+tu80hq6t08u4fj2uh76djkv121q9ovf6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. NldKztW/B/RqK7+mvpE7rDfvyy9D+fZG/AkWbgHMpR3kr4aASIvikFVBNVxqwV7nzzVxQjOkM+BuneiKGKZ3GAvr2Qp5xsjAyw9Mwu1t2kOLHKigOf9pp2qzRRQLQyRNcU7tHnnHu5s31iHw/ddXZprzVUThJ/T6SBWf7EfpPDY=
+tu80hq6t08u4fj2uh76djkv121q9ovf6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  tudfl3rnb1ah8t2hhehv4e256eh2dmhu NS 

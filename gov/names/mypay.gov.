@@ -1,0 +1,8 @@
+7q4b83ivht6rei0qr063ih43pn8q2cm0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. TbLzyzH/W0FkYeWDKKdXXbZt7vM5Oj9MX5Ib7wDIxt2GPjjNzls4ErJJiHBe/QckRev7hl/BdpMv147IHXpem0iqRhfikjnAmvKoHUKzt3rlcDd8oIky6LJp/V5BtyQSbKcW66Lr7I97ie0T+AG9zoP1ZiRxyl0ThY3jwg/uARc=
+7q4b83ivht6rei0qr063ih43pn8q2cm0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7q4jnbivffjkqngkqj7cjd71bem1ip5f NS 
+mypay.gov.	86400	IN	NS	dns1.dfas.mil.
+mypay.gov.	86400	IN	NS	dns2.dfas.mil.
+mypay.gov.	86400	IN	NS	dns19.dfas.mil.
+mypay.gov.	86400	IN	NS	dns22.dfas.mil.
+mypay.gov.	86400	IN	NS	dns23.dfas.mil.
+mypay.gov.	86400	IN	NS	dns24.dfas.mil.

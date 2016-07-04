@@ -1,0 +1,7 @@
+fqkvarib1repv064mgv041vo3jnrijpr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. W5ODyuPpmb8Jg5V2CeUJFG69jzr4LvOmpGaFaN3rrNzWqyOnAiRq2YExNreEZo0zNXZYhd7vO5tlhD/s7LUZTLMIZLLENheNGseZEZU9EpV2R6mZym5ksS/wRrTc4JyzMl2LjXKuBhq5gF7X3dPv82WW56RBBSyVjkpHW9tKRmc=
+fqkvarib1repv064mgv041vo3jnrijpr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fql2pfkah8hlbej1vnvmnelkmet6gjh4 NS 
+springdalear.gov.	86400	IN	NS	ns0.dnsmadeeasy.com.
+springdalear.gov.	86400	IN	NS	ns1.dnsmadeeasy.com.
+springdalear.gov.	86400	IN	NS	ns2.dnsmadeeasy.com.
+springdalear.gov.	86400	IN	NS	ns3.dnsmadeeasy.com.
+springdalear.gov.	86400	IN	NS	ns4.dnsmadeeasy.com.

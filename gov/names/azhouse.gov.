@@ -1,0 +1,4 @@
+azhouse.gov.	86400	IN	NS	ns1.coxmail.com.
+azhouse.gov.	86400	IN	NS	ns2.coxmail.com.
+h4c3hvh1reajfptgr38orn8ju1obcv6e.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. WYXZNKAWQGAfga1MkpDh9xrv6lYU0hX0y11Iftd9QxqbMLltYL8v3tlqauN6RoU88q1tG8Ce9nsxn6GKKLxqTRPRXY/bF8g7wkRhUuF2nZMJukmfuMhNaRVlZPPZqmjQDNhr8kDzZEVG5AMKabocf7k1RkNKPqZWNuzAbpfLSms=
+h4c3hvh1reajfptgr38orn8ju1obcv6e.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  h4dki9htehiqp7v4pr03plt0c58dieu0 NS 

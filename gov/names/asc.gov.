@@ -1,0 +1,6 @@
+asc.gov.	86400	IN	NS	a4.nstld.com.
+asc.gov.	86400	IN	NS	f4.nstld.com.
+asc.gov.	86400	IN	NS	g4.nstld.com.
+asc.gov.	86400	IN	NS	l4.nstld.com.
+asc.gov.	3600	IN	DS	22884 8 2 366290292c981c1019f3bf224f6a94cdcfc8c7d714e59d59df074fe2db575cd3
+asc.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. VT7qeqV8FFt7856ckaLUZ+oY/eNJY/VjNog6l4TtjwKjENODQAe8JYdfj8BsArfLtPeFI6PEfoXN1SimvcjPbdoAJqboyOTeix5bIihsx28XYng4YqjV0n/f3PtyeTbKcXp+nmVpdZgKPVfcBj74OskSeXxfEBn82uQ46lSWZI8=

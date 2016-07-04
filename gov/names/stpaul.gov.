@@ -1,0 +1,5 @@
+bd9ic5vn6vpbf516di34sr11uspm9ii9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. qMNgbyeVfl7YDB60SZU3CLhMWlxhBxWriZGoP9MF4OBjGfyOBskCRnaPH8GyAva0X1UDU99094IuI1cJCv7NreWa1qknznrh5NfmzRiMPY+VRG9C9XgI5krlDmlTJx6MdQORppVhLO1b/frL3Cx+iYZK23rwcGr96xjeKbdNpN0=
+bd9ic5vn6vpbf516di34sr11uspm9ii9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bdi9mre40h6uu9i9de7n0k0s50hrgpof NS 
+stpaul.gov.	86400	IN	NS	ns1.state.mn.us.
+stpaul.gov.	86400	IN	NS	ns2.state.mn.us.
+stpaul.gov.	86400	IN	NS	ns3.state.mn.us.

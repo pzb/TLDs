@@ -1,0 +1,4 @@
+scottcounty-tn.gov.	86400	IN	NS	ns1.scottcounty.net.
+scottcounty-tn.gov.	86400	IN	NS	ns2.scottcounty.net.
+vgb9a4ec3cf3c1ic9kbsa4155m0ua0nc.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. lObRxitUkM4uCY6LoZBk3N/si6XQPBIkJzMHOLPc2w2sfzuZ6OVKMcJxbr0vvMnQZgBvHnon/FcP1R9/+Nl9bQwBnVbpZIUYe2pMCv+Al+s0L6wlmgM5n/d4ENFtkvTZkdBX49Xb7lni5xJIA40/BFDhKuStw5H1XvF/UAizMzw=
+vgb9a4ec3cf3c1ic9kbsa4155m0ua0nc.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vgspfp015c398d28hdo6ufrhubu70e5u NS 

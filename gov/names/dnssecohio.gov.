@@ -1,0 +1,4 @@
+dnssecohio.gov.	86400	IN	NS	ns1.state.oh.us.
+dnssecohio.gov.	86400	IN	NS	ns2.state.oh.us.
+ptu1t503jelm4asfemjf8a1skdr1op86.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. NR1OMdG266BKjl799u/HldfgHGfx3/Wp+zMJfonpGjPjzrlE3LQNY7zo9aYDh0IKpVuOmFXvtnQNkILUfJ/tWEpkbpcThYDrDK78vIBtvS69VlLMDlElB7+wTi4BoaXABPypad07gBKvAdsqGmnbhFut+VdAcwXXUXsjI7maIvc=
+ptu1t503jelm4asfemjf8a1skdr1op86.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pu4a3jmsnkcoamoj8jl4gru5mtso64pp NS 

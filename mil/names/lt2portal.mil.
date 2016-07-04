@@ -1,0 +1,7 @@
+tsddns4.fedsun.hpc.mil.	21600	IN	A	140.32.23.2
+lt2portal.mil.	21600	IN	NS	tsddns.fedsun.navy.mil.
+lt2portal.mil.	21600	IN	NS	tsddns4.fedsun.hpc.mil.
+lt2portal.mil.	10800	IN	DS	21709 8 1 2d0a6e0a7569826d38e4b7867b068c8756e93802
+lt2portal.mil.	10800	IN	DS	21709 8 2 993faa67c79f8e9d9ea6bdf94baa898c0d3e262b8e2c741b4236d761be16275f
+lt2portal.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. BcrfzE1XHdNvwknFJjyb7HGo50mwltqpQftXHYR8in01gXlsKXUTxwtX8JmITHKsEtt9ChXWeq7T4C7YbRyoy4/biYbp5P4XWhQJQczeZcFxPntmdYr3drqP3TKxiBRjRjdzwOqmEDXiF4U3w2HjmYcBciw+mi/LWJ+jJriGmfL6dpA=
+tsddns.fedsun.navy.mil.	21600	IN	A	140.32.24.2

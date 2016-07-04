@@ -1,0 +1,4 @@
+14kjdg1pe0qalc3l4faudcihk4s6nnd1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. UKBMyPvwBMn5Z6H4u4kH1+TctxiNryMi+KWPCt5qHq6sbZZY7Lb2d+1KX6nBcUmDwr8XYodX+s3IuYL6Z6wFr6PEjVcx7zasiP57qyEoS28OZbrHP87GIsgv3+B4eXFi2noTCfn7sGvXMbjnnDUOCYXHq3tWLvoi4mrYekNiVmI=
+14kjdg1pe0qalc3l4faudcihk4s6nnd1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  151j0iq92fu6ivlleb2o1uvlm15o9q8a NS 
+lagrangega.gov.	86400	IN	NS	ns1.gapublicweb.net.
+lagrangega.gov.	86400	IN	NS	ns2.gapublicweb.net.

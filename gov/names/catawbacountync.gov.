@@ -1,0 +1,4 @@
+6hjaokirlve23n26351uejrjde42qose.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. qNOCDzdsRfoGj4RJHJJ48g2LlFQz7XQPVAIfQk2R3uYYOK5A4fXMQ4ldnnAeceatn4i7w1irb9lMysWr0ZbhH30A70cOBExEzd9h9qXaKgcq6eOG6QllrrBvsaPOsl2su+UxCX0Q1JYXVxajX73BO9X4KB6lsmx8bQQU0QUwJG8=
+6hjaokirlve23n26351uejrjde42qose.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6hkjmvqog1jns0o0le4d7savc31523k4 NS 
+catawbacountync.gov.	86400	IN	NS	dbru.br.ns.els-gms.att.net.
+catawbacountync.gov.	86400	IN	NS	dmtu.mt.ns.els-gms.att.net.

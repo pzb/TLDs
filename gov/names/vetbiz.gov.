@@ -1,0 +1,14 @@
+ns1x.va.gov.	86400	IN	A	152.130.16.7
+ns1x.va.gov.	86400	IN	AAAA	2600:8000:0:5::151
+ns2x.va.gov.	86400	IN	A	152.131.16.7
+ns2x.va.gov.	86400	IN	AAAA	2600:8010:0:5::151
+ns3x.va.gov.	86400	IN	A	152.132.16.7
+ns3x.va.gov.	86400	IN	AAAA	2600:8020:0:5::151
+ns4x.va.gov.	86400	IN	A	152.133.16.7
+ns4x.va.gov.	86400	IN	AAAA	2600:8030:0:5::151
+vetbiz.gov.	86400	IN	NS	ns1x.va.gov.
+vetbiz.gov.	86400	IN	NS	ns2x.va.gov.
+vetbiz.gov.	86400	IN	NS	ns3x.va.gov.
+vetbiz.gov.	86400	IN	NS	ns4x.va.gov.
+vetbiz.gov.	3600	IN	DS	35314 7 1 f62443a7d02e3019c70e9bf4d3c259a74fa5ca7a
+vetbiz.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. r2DJigLVsLCPRI1l6eI/wTHDcKDGVOHFIOvzxfK3lxlKTzxku4aIJ1TZjaX3HzMe+Z7Q4iVGW8MVXC+zq6T/OFMPnxd+h2izpo5JYiEZb3hFMOnqrsxvICWnU8GaOSOXRH2tO/worznVHXOVVSpVjd+TZh7uVc0al2gu5+MxRHM=

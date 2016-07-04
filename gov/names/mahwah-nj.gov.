@@ -1,0 +1,5 @@
+2dpkdbo598iab9tvk3aeg9alvt8k376k.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. bfXbM4ltpnD+RI1JWET2CM/caSjV3UB27OVkIsskhdNB/OtABK166PTJvFimsNufsnRPzrSedLLa8vGNRE535IyJBDMTgVfxNO4DmTcqvyo8onmjPyMo7CmEhnc1nJpBlrNE6urtGhQ4h7n0DNg9cF1eDJ6L6TdYYrqCDPl/lH0=
+2dpkdbo598iab9tvk3aeg9alvt8k376k.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  2dv61t7jfdf96bcnmffib9ubp3nb4f4c NS 
+mahwah-nj.gov.	86400	IN	NS	ns1.virtualforum.com.
+mahwah-nj.gov.	86400	IN	NS	ns2.virtualforum.com.
+mahwah-nj.gov.	86400	IN	NS	ns3.virtualforum.com.

@@ -1,0 +1,4 @@
+cheshire-ma.gov.	86400	IN	NS	ns344.pair.com.
+cheshire-ma.gov.	86400	IN	NS	ns0000.ns0.com.
+ev0cv4qpet6plh1idkgu9shrfdrvg7sm.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. atz43sNa9qCTeY/Dp+2b17wbu3JKSOAkOvKKaf8eTA0C/o/2hQpNzJT7cD+ZVNF36QTlB0eDKnkF38VV52klG7Mh2NLKFItPtdshZyHxybWbzUjAKBC232NQRWTreA2Ki2aoMLs2qcyUrxiJZ72GrrDsbZT53/G+oSlrA1zFNeo=
+ev0cv4qpet6plh1idkgu9shrfdrvg7sm.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ev8ke0a2csdieh61e2800j4al09nulfa NS 

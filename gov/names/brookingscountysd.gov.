@@ -1,0 +1,4 @@
+brookingscountysd.gov.	86400	IN	NS	dns1.civicplus.com.
+brookingscountysd.gov.	86400	IN	NS	dns2.civicplus.com.
+sn6ik90s8q2sdudsq62afu6bv5ish5s9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. PMZOoTa/eVe8BFXHb+rSGYKeCNA+9VdJukd5/Vmal+5+xYpNh5fU5Dg+m//DYlAZOd8nkbgDMtdwE7bfGC2CS8xsygX/Xd8NV7RtmWF4tYFBCCpa7FQmLM61q+4YgfM+q1unk198ychZkTrDtoOJ0Z3Mi7keGhOzgCtjPES/nXY=
+sn6ik90s8q2sdudsq62afu6bv5ish5s9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  sn7n41bqvkeb2891fd6toconrvu1sj0b NS 

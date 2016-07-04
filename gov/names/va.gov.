@@ -1,0 +1,14 @@
+va.gov.	86400	IN	NS	ns1x.va.gov.
+va.gov.	86400	IN	NS	ns2x.va.gov.
+va.gov.	86400	IN	NS	ns3x.va.gov.
+va.gov.	86400	IN	NS	ns4x.va.gov.
+va.gov.	3600	IN	DS	58813 7 1 f1ef45b10199108d92c31a736db3ccc150d5a7bf
+va.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. rkB1fZ/JubLb01tv0KX2cE255pq8tTIv+ABUPerAaoufjaICuISRJDnmr6c0HwtHkc8AtVaQeijXeJxwhimVo020qyIyYc0qZ/J0/pK5ZfT0rx+i0xd1hzDYNRcxtNQDDOfBCehvwd2tMnt0V6pE0E9EPthMRRtvhQsfQlwmtQk=
+ns1x.va.gov.	86400	IN	A	152.130.16.7
+ns1x.va.gov.	86400	IN	AAAA	2600:8000:0:5::151
+ns2x.va.gov.	86400	IN	A	152.131.16.7
+ns2x.va.gov.	86400	IN	AAAA	2600:8010:0:5::151
+ns3x.va.gov.	86400	IN	A	152.132.16.7
+ns3x.va.gov.	86400	IN	AAAA	2600:8020:0:5::151
+ns4x.va.gov.	86400	IN	A	152.133.16.7
+ns4x.va.gov.	86400	IN	AAAA	2600:8030:0:5::151

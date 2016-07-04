@@ -1,0 +1,6 @@
+5mscq5vt6gruho8hrqaseqvctt9oem9u.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. CbB+AV2g7igwHkqTdP2RnTUbiF3ha/pr/C/0mX8PUXVEwDuBEf5TUa+Bas4CcKNLNvNS4Mpb/OBrNW47aAoT04Fmsq1QafWMgJldT/Qb/Kx7dOBwX1apkiYLzZPqO6pauZc3wF/VfuI/Ckx3T8o+qkO5Zzn9EkVqNpn05C/WADw=
+5mscq5vt6gruho8hrqaseqvctt9oem9u.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5mu652i3a82d28cool0fdubi590t9g35 NS 
+glastonbury-ct.gov.	86400	IN	NS	ns2.glastonbury-ct.gov.
+glastonbury-ct.gov.	86400	IN	NS	ns3.glastonbury-ct.gov.
+ns2.glastonbury-ct.gov.	86400	IN	A	207.210.153.2
+ns3.glastonbury-ct.gov.	86400	IN	A	104.226.6.226

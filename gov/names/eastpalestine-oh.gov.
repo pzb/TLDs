@@ -1,0 +1,4 @@
+eastpalestine-oh.gov.	86400	IN	NS	ns1.s468.sureserver.com.
+eastpalestine-oh.gov.	86400	IN	NS	ns2.s468.sureserver.com.
+qg3lqg52tghuchb13b1lldopaf8osuav.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. QTbtuEPxPkksD3HWJV3sAfm8wG/jZF9pv5QNmRUmgU33hgVrAsYpNQ01dIq2nHP/zg4Qf9motvr32hwlcc/uvJDyCQoVJbuEThDJxnBS7glTreuzXPpuc6zK0V0o+Vhuq6jwuqNlvmNhuSZiihoz/1e5EB1Crr/qgJdLWoDECSI=
+qg3lqg52tghuchb13b1lldopaf8osuav.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qg8nb78i58ps62dhiutrlme90gpekjf8 NS 

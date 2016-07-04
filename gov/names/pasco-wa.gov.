@@ -1,0 +1,4 @@
+l4tfj0eu3csdf9ejv6jansme7vtlgufn.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. FbjdTnmZJVTkS+qdRtJ91s24uqmY2JTosLqU78QCwco7DcT8eyxAvMwuA+wc8THDEz7gqe1wi+Ys/mf7SrUYf49ygixD8x16HaV2u+jj6bicF/qtt46Tw4wmY5/bnNgVEK0gQu/jAhaFfuXaCKZJUf9HTh/pxwCdFczm4TLSxfc=
+l4tfj0eu3csdf9ejv6jansme7vtlgufn.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  l50fmto2hdrho6hsmbt8doc0v8dshv0p NS 
+pasco-wa.gov.	86400	IN	NS	simon.ns.cloudflare.com.
+pasco-wa.gov.	86400	IN	NS	cortney.ns.cloudflare.com.

@@ -1,0 +1,9 @@
+ns01.fdic.gov.	86400	IN	A	167.176.6.78
+ns02.fdic.gov.	86400	IN	A	167.176.16.77
+ns03.fdic.gov.	86400	IN	A	167.176.26.77
+fdicsales.gov.	86400	IN	NS	ns01.fdic.gov.
+fdicsales.gov.	86400	IN	NS	ns02.fdic.gov.
+fdicsales.gov.	86400	IN	NS	ns03.fdic.gov.
+fdicsales.gov.	3600	IN	DS	55216 8 1 7db63877a1618655fd32e5d6e083f855955e4b2a
+fdicsales.gov.	3600	IN	DS	55216 8 2 70f92edd9e85a17eb444b0a52e842cfdee2fe51996e30ff162f6860e52b2f920
+fdicsales.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. lihEKMozfF87DUHfZxVcwpCgtvIzawnFdBrDJCl87XihpvtplwWkGGLqGZnRY1h/kqKuN6gOmYQCaWVt+ShFmXHliTTai8TIRchyPXuYw0sJqLwNoylvoWYFz+++AEGfR0tnNVrSXlob7BrgamME5I6TXPDSYfu/VBcsJuZUblg=

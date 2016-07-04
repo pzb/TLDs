@@ -1,0 +1,9 @@
+fueleconomy.gov.	86400	IN	NS	ns0.ornl.gov.
+fueleconomy.gov.	86400	IN	NS	adns1.es.net.
+fueleconomy.gov.	86400	IN	NS	adns2.es.net.
+fueleconomy.gov.	86400	IN	NS	ns0-alt.ornl.gov.
+fueleconomy.gov.	3600	IN	DS	38855 7 1 3c48d9fb222a200757b8d79fcdb6cbf36e9b5b2d
+fueleconomy.gov.	3600	IN	DS	38855 7 2 b5cd3b9064b448b078d60c0a49cddf6e487bf12997c80f45914db44a2135981a
+fueleconomy.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. F9cMrfki/2+lcrfc8s4YIPtfqPZG/DTyl5nuwrTSDW3XYex3PuHhw4t0WnMB5mIq5E8Zv2+BHBdJpEXZvOyHTdclO1VEPNSPaW2xwy6JljOBT9y8LLbtsbcEnJIFukpBVmjN+vY8Oo95wqGxmymVJgHpmBKt6EWN90F61vSwNw8=
+ns0.ornl.gov.	86400	IN	A	128.219.177.244
+ns0-alt.ornl.gov.	86400	IN	A	128.219.177.246

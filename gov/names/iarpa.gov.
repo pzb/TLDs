@@ -1,0 +1,8 @@
+iarpa.gov.	86400	IN	NS	a1-22.akam.net.
+iarpa.gov.	86400	IN	NS	a3-64.akam.net.
+iarpa.gov.	86400	IN	NS	a12-65.akam.net.
+iarpa.gov.	86400	IN	NS	a13-65.akam.net.
+iarpa.gov.	86400	IN	NS	a16-67.akam.net.
+iarpa.gov.	86400	IN	NS	a22-66.akam.net.
+iarpa.gov.	3600	IN	DS	30565 8 1 a6b935ea45008f46493f9ada8e78ac3e81fc43f2
+iarpa.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. HSBERNXhSVAsy36fUM+hz5HXHslYwtoP+rR96tR1kw7ruh4c5Xzqi414Rrp7a/rhNzvy1TD1vqZyDJf+ikXBlRbxIEnAXoj3Mc76VRzkRUH9AENJ8y6Tdlr5QhBRkoSdmC6j/aQhHLTDcFplOVRFGKBt8AbqumKwEC68kT3AyU0=

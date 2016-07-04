@@ -1,0 +1,6 @@
+1nffqi33jj1g2f0861legs9v7vbijatt.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. YijtzIHakrB9jDwc8btHexvVb33TFUUdZfzbjlYcMIh9KrNhtvP0djc08Kkt62NCgw8QY0uZMohdPzT/OpcrrOgDpz0Rj2Xp3Lagfv1RsI27h+8OYPrVCIN4RE0A+odfGFo0NakBFK0bOlkKsO8cNiUxwc3XYO8JXoa0GG/wFko=
+1nffqi33jj1g2f0861legs9v7vbijatt.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1ni9i1ei7r7o0a41umomaf8436oh961v NS 
+menominee-nsn.gov.	86400	IN	NS	ns1.mydomain.com.
+menominee-nsn.gov.	86400	IN	NS	ns2.mydomain.com.
+menominee-nsn.gov.	86400	IN	NS	ns3.mydomain.com.
+menominee-nsn.gov.	86400	IN	NS	ns4.mydomain.com.

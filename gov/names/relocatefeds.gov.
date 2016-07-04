@@ -1,0 +1,11 @@
+yang.epa.gov.	86400	IN	A	134.67.12.8
+yang.epa.gov.	86400	IN	AAAA	2620:117:506f:c::f008
+ying.epa.gov.	86400	IN	A	134.67.12.7
+ying.epa.gov.	86400	IN	AAAA	2620:117:506f:c::f007
+relocatefeds.gov.	86400	IN	NS	yang.epa.gov.
+relocatefeds.gov.	86400	IN	NS	ying.epa.gov.
+relocatefeds.gov.	3600	IN	DS	9525 7 1 c3236d4305f997a2262d289fd1d325c3e12b0c41
+relocatefeds.gov.	3600	IN	DS	9525 7 2 b2fb5d330707b7d69d6e07a19f198c3ea1ef126fb3788fadddc6215e9bf79948
+relocatefeds.gov.	3600	IN	DS	49554 7 1 45b3e9be6e3c688e7f7c486d9c47b264fa58e101
+relocatefeds.gov.	3600	IN	DS	49554 7 2 f14c84e37c2f7d4bad4e84ac412ee57e2ba4a08913ce891198d4df0ed48fc8be
+relocatefeds.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ENZtPE70lmRB5YnbqAidnEoXtukBNY8n06a1Wex7mzh9QFLDVuC+M97GpskQeic9Gbnz07fNs5Q6kMS2/F+tK2cjgowq1IZfnHql1451mGtjCXxmSGke7aHsj5e77hQPOKR92m93YH4BbfoFNMJnsW5FNHYZiMqRoApVeUw5/LA=

@@ -1,0 +1,11 @@
+ns05.dol.gov.	86400	IN	A	152.180.11.239
+ns06.dol.gov.	86400	IN	A	152.180.11.238
+ns1.dol.gov.	86400	IN	A	63.106.133.211
+ns2.dol.gov.	86400	IN	A	63.106.133.212
+mynextmove.gov.	86400	IN	NS	ns1.dol.gov.
+mynextmove.gov.	86400	IN	NS	ns2.dol.gov.
+mynextmove.gov.	86400	IN	NS	ns05.dol.gov.
+mynextmove.gov.	86400	IN	NS	ns06.dol.gov.
+mynextmove.gov.	3600	IN	DS	38692 8 1 7535d34008b065ec4d3fc05bc8c79c8a29e1b5fe
+mynextmove.gov.	3600	IN	DS	38692 8 2 f9c73373279d928d04528aa2a90ce2f5c9a0a7955177ab0f64915c95f0298e3e
+mynextmove.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. V3LTHKxWiU07LVNZg8LnsKtj5hgpbe8l8ZqEZFNcjQ5Qb9vA/xSI8PYffIFkr7nQrPq3CeqgpJYj5OwQALoMjLZLjFirRKSuWKy9lpdqn2d72XuN9de5/lsiwBGUbEPlSrJUFSgADnwFVgkTlV2jcnBH4xtTq2eLVJ8mQVqVVjY=

@@ -1,0 +1,6 @@
+baaqmd.gov.	86400	IN	NS	nusparc2.baaqmd.gov.
+baaqmd.gov.	86400	IN	NS	nusparc3.baaqmd.gov.
+nusparc2.baaqmd.gov.	86400	IN	A	192.137.109.4
+nusparc3.baaqmd.gov.	86400	IN	A	192.137.109.5
+n7qf88fj2p28nqqrlp2qsc9nfg90brfr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. chr4QMqOZbUlPcTRl5qC3JI50KqAuVxwqcN5cyBrTkhJzd8ZN8ScRdObSG3kWmtosw4K+oJP5lfWYwxJzK3V45OKjowcqNDHOprITOfJgPer140nt2TmjO5U8iAlR1uQZuUMw5F+inwRrLvxNoFAdgrzbi65jTya8LVGlEgNtiE=
+n7qf88fj2p28nqqrlp2qsc9nfg90brfr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  n7qk035ap5f5b0fd7rikthfbl8t2gukd NS 

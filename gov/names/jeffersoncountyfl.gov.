@@ -1,0 +1,5 @@
+jeffersoncountyfl.gov.	86400	IN	NS	ns1.2kwebgroup.com.
+jeffersoncountyfl.gov.	86400	IN	NS	ns2.2kwebgroup.com.
+jeffersoncountyfl.gov.	86400	IN	NS	ns3.2kwebgroup.com.
+qfldov6hurrja8556l0mdg1geup5j2np.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. J1pREsDPXTtNkNv1mLfUmfi+E9NPNvw4Zy/Wrc28QnljSKDoVelNmH+3WUn1UkEFVDgOViZFIRaKkfTuGi2WMeaYv/FiquXCjgfW+xk98iMmxro8yo+ScQMNo8uisTqDnlZKwxBo8zk2g7JJPzgOYSTm9qentaExp0Q3c+saVfg=
+qfldov6hurrja8556l0mdg1geup5j2np.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qg3lqg52tghuchb13b1lldopaf8osuav NS 

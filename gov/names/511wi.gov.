@@ -1,0 +1,5 @@
+511wi.gov.	86400	IN	NS	bigred.state.wi.us.
+511wi.gov.	86400	IN	NS	bigred3.wi.gov.
+7cpd8d976mrkhi3r23kiobg0dtjol10v.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. CqNhOgAGTkQLIbyINpuccB0rz/VwLI0/ljS2MJ0822PBT7hGv06L9l8rxY90abB71/CzkPMR24wZA1E7lQI0zDXCT5Xvtjo4vdfAW3918TOV7rrpa4TVydrX4ElZnXPEwSMi1fhC/eRpP7AeaXerPhXSVTPNMK9cdI2URJ4hNlg=
+7cpd8d976mrkhi3r23kiobg0dtjol10v.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7crgamrdcbdv94njdcl2e4msei6kgdej NS 
+bigred3.wi.gov.	86400	IN	A	165.189.56.3

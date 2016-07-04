@@ -1,0 +1,8 @@
+dts8hgffho7av00u6ov3v56h4gu7ol6g.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ibCyPupS6x1iUP4uwDZ7h+xwLKig10UstWrsDPwQjsxU+ik1TRVa/Tk7FijcUzvvIhWuhsBH3eP1OWSgkuuiAWZBw34AzawFzRR/OdT0C46ZBTYpzHI7VeTYZSdTf7qWJPptD1qA/XCLgQk1ZnxwMSjwDjMhMoC2k8zrKIbYaoU=
+dts8hgffho7av00u6ov3v56h4gu7ol6g.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dtsqgk1oq3cfvfuupc1s1ei8ms50rs8p NS 
+siouxfallssd.gov.	86400	IN	NS	ns10.dnsmadeeasy.com.
+siouxfallssd.gov.	86400	IN	NS	ns11.dnsmadeeasy.com.
+siouxfallssd.gov.	86400	IN	NS	ns12.dnsmadeeasy.com.
+siouxfallssd.gov.	86400	IN	NS	ns13.dnsmadeeasy.com.
+siouxfallssd.gov.	86400	IN	NS	ns14.dnsmadeeasy.com.
+siouxfallssd.gov.	86400	IN	NS	ns15.dnsmadeeasy.com.

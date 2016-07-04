@@ -1,0 +1,6 @@
+56llit55mopih2s8k25caf1vtulviq43.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. C1c4fSRKYZ4nB3qj2rPQYiNMgsfbs4b2/wZLrC7N8ndEyTpLbGle3tuqDSebYVU5PGMvcfbnxhwIg/wB8W5/7xk8NEkJGzocn5aMI+x7LK2EZsMgaex/e2rQIfexxIjp2ZA6EUNk5SO7tDjADNUhnv4HmulZLlf22WhB5KUckHo=
+56llit55mopih2s8k25caf1vtulviq43.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  56m415lr8vi16hh5m7rm7ff29se3r3u8 NS 
+hopkintonma.gov.	86400	IN	NS	ns-cloud-d1.googledomains.com.
+hopkintonma.gov.	86400	IN	NS	ns-cloud-d2.googledomains.com.
+hopkintonma.gov.	86400	IN	NS	ns-cloud-d3.googledomains.com.
+hopkintonma.gov.	86400	IN	NS	ns-cloud-d4.googledomains.com.

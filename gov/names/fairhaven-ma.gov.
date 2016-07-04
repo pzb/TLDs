@@ -1,0 +1,5 @@
+av83smfj8l9n0rnccn9p03keoc373col.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. M2ojHOJp7MShmJhNIPfFqJIlWHoAWf430P36SBhB0EEd/zFRObXYvrLHSyKLiUSNInRnxdFOVMJxqCECNlNMb8XbJUNPvLo4TIWzhkyTSQ5AqEZvwIkYe1sbaL0oe8kh9iubBh2VqAtMo8sBb9haxMY0bEkuQakJO/BvkNs0j8w=
+av83smfj8l9n0rnccn9p03keoc373col.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  av8og16mcvc9fmt0r5hvfkb7ocm1mgp4 NS 
+fairhaven-ma.gov.	86400	IN	NS	ns1.infotech-maine.com.
+fairhaven-ma.gov.	86400	IN	NS	ns2.infotech-maine.com.
+fairhaven-ma.gov.	86400	IN	NS	ns3.infotech-maine.com.

@@ -1,0 +1,7 @@
+0mvkfvrvi58j1og2g3ki29sib367sgkp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hGQw1GnHDZWbytvogKKTg6YrSwZVeRjae3xa3pe+oUeYuc7J7rEghIWTH1sduw30wKCYO5UjKifYfxGko1yQ3vTDjG/6qpmZXm0mpWeCqQ4p3kKGfZdtDpa7BgKGz/B8/c+zLiVkUtMWOPIkMUQLVjyUlFoW4R631PuOxdeYG3Y=
+0mvkfvrvi58j1og2g3ki29sib367sgkp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0n177j6se5u811g273hlvhna10357b92 NS 
+salisburync.gov.	86400	IN	NS	ns0.dnsmadeeasy.com.
+salisburync.gov.	86400	IN	NS	ns1.dnsmadeeasy.com.
+salisburync.gov.	86400	IN	NS	ns2.dnsmadeeasy.com.
+salisburync.gov.	86400	IN	NS	ns3.dnsmadeeasy.com.
+salisburync.gov.	86400	IN	NS	ns4.dnsmadeeasy.com.

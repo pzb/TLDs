@@ -1,0 +1,7 @@
+pasen.gov.	86400	IN	NS	ns2.legis.state.pa.us.
+pasen.gov.	86400	IN	NS	sengate.pasen.gov.
+pasen.gov.	86400	IN	NS	sengate2.pasen.gov.
+sengate.pasen.gov.	86400	IN	A	170.47.1.2
+sengate2.pasen.gov.	86400	IN	A	170.47.1.5
+unst1erqitdqq1q2pgc8p196a2neh22o.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. DK6qsJH3U+RWjEKn8Cfi7CWBEJ5FrIEN6rlTNEBmGZrXxPsHaVOUJUd8H7WgCVpJog0DiQaeRA9tNJpT1AAEQK4JTExSYN+o+FRVh3AowdmgBTWlih8WNqq6uVCsBZzIdqLqjpbzJdndlu2+CKc4Aj7xkJviOroKqXXLvrvsbzI=
+unst1erqitdqq1q2pgc8p196a2neh22o.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  unvo7p9n1v9v4g0l7h080cq3u39i232l NS 

@@ -1,0 +1,6 @@
+azdjc.gov.	86400	IN	NS	ns-364.awsdns-45.com.
+azdjc.gov.	86400	IN	NS	ns-540.awsdns-03.net.
+azdjc.gov.	86400	IN	NS	ns-1210.awsdns-23.org.
+azdjc.gov.	86400	IN	NS	ns-1929.awsdns-49.co.uk.
+hi296fih5d2ajh1n8e7pbvdgd78nn7ce.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. dOOsQ1CZZzKMHGDYw1wcBLtRA1aQM1o4EL+q1mFwfQ4WYc6dal/Aaoj9yksFeVItj+USmsB0crHye+4lftKuVA8CuR4LuWUyslL1VCXOTJyipyqzJ5MdE7+kUbGWn94lwA+EFG0bjYydlxxDlHnuAknl3GR9NcaxmysLqp25FsQ=
+hi296fih5d2ajh1n8e7pbvdgd78nn7ce.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  hi3ovb6o7c4h262r0v1kjh15a282j0ss NS 

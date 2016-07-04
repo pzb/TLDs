@@ -1,0 +1,4 @@
+9hbfktnkltu4br0ho0pf9rhnppkj3ila.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. EOymA8TJY24ACzYcQ4d98DZcTDGWplVCrOWPoOQIrSc+B9K83U8tKJwskRvVDLPtVqddIY2N2I1j775N0k2yP77GCHCj6dE5r/kNO5KDAt/UqMU+5s4dK/jAL11NzUAB+JVlDdTCB9xT7SMMAEN7b4e2aQZ22SNq0KvR9tOjfwg=
+9hbfktnkltu4br0ho0pf9rhnppkj3ila.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9hc9bqcih9caluego6g960ge18sfmbjf NS 
+moorparkca.gov.	86400	IN	NS	dns1.civicplus.com.
+moorparkca.gov.	86400	IN	NS	dns2.civicplus.com.

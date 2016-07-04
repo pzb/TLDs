@@ -1,0 +1,11 @@
+doc.gov.	86400	IN	NS	dnssec7.datamtn.com.
+doc.gov.	86400	IN	NS	dnssec9.datamtn.com.
+doc.gov.	86400	IN	NS	gpaens2.doc.gov.
+doc.gov.	86400	IN	NS	dnssec10.datamtn.com.
+doc.gov.	86400	IN	NS	dnssec11.datamtn.com.
+doc.gov.	86400	IN	NS	hchbens1.doc.gov.
+doc.gov.	3600	IN	DS	40531 8 1 c96edecf54a9c5137a6844998b83704f82d70e33
+doc.gov.	3600	IN	DS	40531 8 2 2ac71c0dd0f13e0572b25213c80db0ff79845906622abbb61bfeff173215b68d
+doc.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. nTqKmsdGxdGzZk3IBNdNx5EToPk2pZRb38xPrKhiuP2gtfmaK7kzjUfkVm2QuzORGZ9jcmeEKvoajA2I9ktE3xx+5ZmcFNLQGeNP1uurqNcdFzC6sx2XjOt8K++KWdXaxJSvZMnFPboU1S62p+fzyNvWeu4dSZLA5dMtOzGHpZ8=
+gpaens2.doc.gov.	86400	IN	A	170.110.225.13
+hchbens1.doc.gov.	86400	IN	A	170.110.225.11

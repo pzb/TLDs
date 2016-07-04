@@ -1,0 +1,4 @@
+5pcut48156fh0jn90bch7dnrl1p84255.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Ze/d8aDBcISVJB7EGurrHPr00dGFCIj39ZB98DiXZUywFm8b/sA2mQl0hjFjegBZZLjcVvyRIoiw3uumiSJE59YmnOgSgdz8qEIlUmCH95TCBXR7vRNTtUibkM2EiquMx6N906Zbkt5ktdOgmwxp7lj03wzxzYBHNSzTHXXe7pY=
+5pcut48156fh0jn90bch7dnrl1p84255.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5pfhr5o4t717bcp2d4l4h29hcnp1c9ot NS 
+eauclairevillage-mi.gov.	86400	IN	NS	ns1.itright.com.
+eauclairevillage-mi.gov.	86400	IN	NS	ns2.itright.com.

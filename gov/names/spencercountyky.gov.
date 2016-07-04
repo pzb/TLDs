@@ -1,0 +1,4 @@
+as90ku36d8k2qp6qfjsfef5hcim02g4c.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. JajFO70XFTNxX9bYXlLTeCKAYWQQy9qlZjW4PVEgP3n4ndQ+Iy7bRNBQ4HREJT+EeTMmoI+8MCiao1Yr5CX/YoG+RMQj7OuLC72Ph+rHYH1fgwvOUa6QvHf2aocVqBokYRTVSXge6jM2VyPgO/E1qMT9MLi56qQ8ntQ+i6qQCPs=
+as90ku36d8k2qp6qfjsfef5hcim02g4c.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  asb47qp6881pnioa2lctqmipr0du3sjj NS 
+spencercountyky.gov.	86400	IN	NS	ns1.win.net.
+spencercountyky.gov.	86400	IN	NS	ns2.win.net.

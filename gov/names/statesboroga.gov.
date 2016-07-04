@@ -1,0 +1,4 @@
+def15587bmse99mddgif1j0ok7btbeh0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. NtYD+e8L9V2ehXsETe7wAdEltCysDX70pr8oLP0LNiIIvb+14h6JADs46cmd/7ZJ50YAAOBkpXUeTvXp5V4X0s0Vus8aZE39iAamJpSUlGif4JOwaUHiNLUYJtn4nsZwCnyuThcmB7WBM/3la+dhMIe02A6dZeY0uu3TZje9wN0=
+def15587bmse99mddgif1j0ok7btbeh0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  der53s2cp5gr70phcrgt9o1p4uiffnts NS 
+statesboroga.gov.	86400	IN	NS	ns2.zoneedit.com.
+statesboroga.gov.	86400	IN	NS	ns4.zoneedit.com.

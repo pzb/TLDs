@@ -1,0 +1,12 @@
+swirl.nsf.gov.	86400	IN	A	198.181.231.15
+swirl.nsf.gov.	86400	IN	AAAA	2620:10f:6012:1::15
+twister.nsf.gov.	86400	IN	A	198.181.231.17
+twister.nsf.gov.	86400	IN	AAAA	2620:10f:6012:1::17
+whirl.nsf.gov.	86400	IN	A	198.181.231.16
+whirl.nsf.gov.	86400	IN	AAAA	2620:10f:6012:1::16
+sac.gov.	86400	IN	NS	swirl.nsf.gov.
+sac.gov.	86400	IN	NS	whirl.nsf.gov.
+sac.gov.	86400	IN	NS	twister.nsf.gov.
+sac.gov.	3600	IN	DS	39450 7 1 1e0cde8d9c064354b5318e03cbb5dc772d1522ed
+sac.gov.	3600	IN	DS	39450 7 2 635baa3f4c84cba5ab5e6563a509ca030b813afd22007350dd9e5df04bd7b919
+sac.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. NkD1OXfWDGSng8nHIxBye35qu4Q6w5RxZQqVX8crJHrdC+HwK1ktS+zbVQWS7J7U6nunzrYATL/wZ3Dhei264jBiCU9Z6KH3ypbRRYvmFWHhSmTlUQQ9P+V09KLe64no8VNP30POa2MXpqniCJUhIwysVJFcdhstapFZdn362Cw=

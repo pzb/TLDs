@@ -1,0 +1,7 @@
+foreignassistance.gov.	86400	IN	NS	authns1.centurylink.net.
+foreignassistance.gov.	86400	IN	NS	authns2.centurylink.net.
+foreignassistance.gov.	86400	IN	NS	tpsns11.terrenap.net.
+foreignassistance.gov.	86400	IN	NS	tpsns12.terrenap.net.
+foreignassistance.gov.	3600	IN	DS	16428 7 1 0d1c44031d344e4b03c188e7bedb0ddb1296cf61
+foreignassistance.gov.	3600	IN	DS	16428 7 2 3f94ce88ded1f6179d1b1ead3a9e9c0a8e47fc125cbdb63476518aaaa3ed4af6
+foreignassistance.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ET+b6YuaOcpWQp75KafWj3PbZAMYcZxx0mn2Fmm2h9pqLevNWUmAmVGkkZKIXLvzcuupVMt/TdIwypqzi7Tm0e+p8StjAT3LmEsqymZKLEm013K06UbcfRQtfsKoGDQYuHW0FaiwNgFT4JGmLmXBwFu6ld8MZgdHQEfyx1mptGM=

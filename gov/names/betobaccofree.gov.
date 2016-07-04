@@ -1,0 +1,14 @@
+betobaccofree.gov.	86400	IN	NS	rh120ns1.368.dhhs.gov.
+betobaccofree.gov.	86400	IN	NS	rh120ns2.368.dhhs.gov.
+betobaccofree.gov.	86400	IN	NS	rh202ns1.355.dhhs.gov.
+betobaccofree.gov.	86400	IN	NS	rh202ns2.355.dhhs.gov.
+betobaccofree.gov.	3600	IN	DS	11325 8 2 386ce9bc15ed7d9e2fd9f2d74698c9c3a367dbfcd2953e94ffda3ba218ea8366
+betobaccofree.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. tXupAUESc7dsNx110y5xlLfoE0i33LmL4Jdqw/xnHftzneAR7/pgZrO+YHVLv40PJsSlKo1PZizi1OjP8Cw8AMX97eussOsRCH63FnYBjFTtVdrh84ZKyOIduuiZZVZ1OKOEkASCN2u0Xijl1TUkfHa8voczPgovYuEKFpAkyRo=
+rh202ns1.355.dhhs.gov.	86400	IN	A	158.74.30.98
+rh202ns1.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2a
+rh202ns2.355.dhhs.gov.	86400	IN	A	158.74.30.99
+rh202ns2.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2b
+rh120ns1.368.dhhs.gov.	86400	IN	A	158.74.30.102
+rh120ns1.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2c
+rh120ns2.368.dhhs.gov.	86400	IN	A	158.74.30.103
+rh120ns2.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2d

@@ -1,0 +1,8 @@
+5lj9pvl6sd1anmq0i29de88e1orh22u6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. EtEx2PjLB6kYpK6TeS6Jn7Hp1Bi1eQtMg5au6ZDXn7bH/bGpV5Lj2I0i6IBZjN1NaaLJDflXD2lcdsMf1sto4ZQ3DOUYTDC/fE8mTmiIAC5fIF125XmuNOfGrd+LP2d4gVzR1yN3/K7GnVS7EvR5bjPM0mCOcxDSn1Iv1TYPv0Y=
+5lj9pvl6sd1anmq0i29de88e1orh22u6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5llatiarte95fhrrknao0jt8npdcoa0b NS 
+westvalleycity-ut.gov.	86400	IN	NS	ns1.wvc-ut.gov.
+westvalleycity-ut.gov.	86400	IN	NS	ns2.wvc-ut.gov.
+westvalleycity-ut.gov.	86400	IN	NS	ns9.zoneedit.com.
+westvalleycity-ut.gov.	86400	IN	NS	ns13.zoneedit.com.
+ns1.wvc-ut.gov.	86400	IN	A	166.70.44.216
+ns2.wvc-ut.gov.	86400	IN	A	166.70.44.211

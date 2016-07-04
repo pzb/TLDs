@@ -1,0 +1,7 @@
+opic.gov.	86400	IN	NS	ns1.p19.dynect.net.
+opic.gov.	86400	IN	NS	ns2.p19.dynect.net.
+opic.gov.	86400	IN	NS	ns3.p19.dynect.net.
+opic.gov.	86400	IN	NS	ns4.p19.dynect.net.
+opic.gov.	3600	IN	DS	12247 5 1 6241a52ba0627fec34727e8a9b95aa86824a64c7
+opic.gov.	3600	IN	DS	12247 5 2 6ad9ef18f0b9386500accb3594f41ee37bbb50650d3bffa8911ee3c27bcd3385
+opic.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. lXw0GsvbK/PhST+LQsortLwhwIoTQgdPalJkR4u+V1TUty1gN/35NtOOqAdzJW3PTtcWyhUitCSAHzocG1Lorj3d36MqKeOcUJbNq/CCpapy03Z0BQqibUaWaqFFNL81nsT8eqf4IurBgxukQWVmXH1rqCy8fWrxTn86CSQJcmY=

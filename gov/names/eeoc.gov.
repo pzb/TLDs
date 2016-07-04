@@ -1,0 +1,9 @@
+eeoc.gov.	86400	IN	NS	dnssec7.datamtn.com.
+eeoc.gov.	86400	IN	NS	dnssec9.datamtn.com.
+eeoc.gov.	86400	IN	NS	dnssec10.datamtn.com.
+eeoc.gov.	86400	IN	NS	dnssec11.datamtn.com.
+eeoc.gov.	86400	IN	NS	dnssec12.datamtn.com.
+eeoc.gov.	86400	IN	NS	dnssec14.datamtn.com.
+eeoc.gov.	3600	IN	DS	51633 7 1 9118b075fff998016ec1a3cbbdcc7442b7d9414d
+eeoc.gov.	3600	IN	DS	51633 7 2 d1ddc10ded82379b4548ca12014fa2b2b185ac90f3d223ee2c5a897fa07b9207
+eeoc.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. b8DkL+n92/VfUq3nzRPmMVjIDFC3yPDMHVEQVesbq7K/a+2g3CYbT1i/DNb3nCmSb2/ANj59I5OhyDrd4MomE6bIlS1lI5TNUUnL6rj/IMChTT59yfj4oFp4w4LYcHdqO78VVdfchwpnGHRIiYzc8ykcmKSUABHJ+tOL9SiTy7E=

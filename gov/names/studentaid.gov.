@@ -1,0 +1,17 @@
+eduftcdnsp01.ed.gov.	86400	IN	A	165.224.21.6
+eduftcdnsp01.ed.gov.	86400	IN	AAAA	2610:e8:907f:1:cd99:4fb7:bb7:2213
+eduftcdnsp02.ed.gov.	86400	IN	A	165.224.21.5
+eduftcdnsp02.ed.gov.	86400	IN	AAAA	2610:e8:907f:1:d093:1118:adf3:7473
+eduptcdnsp01.ed.gov.	86400	IN	A	165.224.212.6
+eduptcdnsp01.ed.gov.	86400	IN	AAAA	2610:e8:9080:1:88dc:90ef:b68:490
+eduptcdnsp02.ed.gov.	86400	IN	A	165.224.212.5
+eduptcdnsp02.ed.gov.	86400	IN	AAAA	2610:e8:9080:1:8c49:4c6a:b596:f07b
+studentaid.gov.	86400	IN	NS	eduftcdnsp01.ed.gov.
+studentaid.gov.	86400	IN	NS	eduftcdnsp02.ed.gov.
+studentaid.gov.	86400	IN	NS	eduptcdnsp01.ed.gov.
+studentaid.gov.	86400	IN	NS	eduptcdnsp02.ed.gov.
+studentaid.gov.	3600	IN	DS	17239 7 1 f662018dcac60c94e42a5c34bc3c9057ea6ab584
+studentaid.gov.	3600	IN	DS	17239 7 2 d26a465dc425cbd2591a9aab880e2a9f471e80c46908b628b2e12b8f60be2391
+studentaid.gov.	3600	IN	DS	64878 7 1 8ab59269560369be2e2482a5bc4984371ab2a21d
+studentaid.gov.	3600	IN	DS	64878 7 2 5876eb4bf1c3f5605304c918bb1a5da97621cbc2453169c733ace70439ab3c6c
+studentaid.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. pKN9w64L+vmBnXqtkwgVfxFlP/VuVcBzNPLHLFsSOPxudywDQ8SxjFSEwrr+zOX1nZ9wxJDwz2O9MNt/6I5O5deaZm5PId2w0CkcTXW5YWhI12hj9psT8EZuHpSaSmlXSghrOhZjEmIjlifzwKX1PmwYM2CaaJrD+ZKAoLlNnVU=

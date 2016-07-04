@@ -1,0 +1,6 @@
+02emsi7ockl609uut76s3jc2ma9jhnb3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. esWDC4TU44mbirf4ngQkgLANUpnIKWGo5ZkTlDfKVO9YNI1MR+HeXfjUy/8E1S0mmBIRviBwEjJ9FDyuQ6e8pM2QxKp4oV4u85bN8S8C2BEcZzEWwVG7mfDcFJzMoaAd7slv3m7p3ntAqVHBFKtTvm/NpS21F5Gc66GdA6lM4hk=
+02emsi7ockl609uut76s3jc2ma9jhnb3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  02hhe0i59ut0os5o28mqqocvcjp5136u NS 
+strathamnh.gov.	86400	IN	NS	ns1.infotech-maine.com.
+strathamnh.gov.	86400	IN	NS	ns2.infotech-maine.com.
+strathamnh.gov.	86400	IN	NS	ns3.infotech-maine.com.
+strathamnh.gov.	86400	IN	NS	ns4.infotech-maine.com.

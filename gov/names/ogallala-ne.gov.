@@ -1,0 +1,4 @@
+ko72lui2e4pf411jb331m3ep1572a7vp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. k2ahEcUooG76ub1RKNzJIsO14vqt56W4+2cKCFklMv+pZ5th7y9lahUiPwa7v7rWvyN5ZaXqq0JsEsmoNqLLH3aJabHYw/zQOhg9y3tY7KrVDZofeBGUi3GlVt5QpzDoltkbcQKHXp+MEXI2uTtn6u2NW8+WKqnzAYEvw/GxKAk=
+ko72lui2e4pf411jb331m3ep1572a7vp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  koa2iji7dn7nnsp74ua799so5gojmo8v NS 
+ogallala-ne.gov.	86400	IN	NS	ns3.webcontrolcenter.com.
+ogallala-ne.gov.	86400	IN	NS	ns4.webcontrolcenter.com.

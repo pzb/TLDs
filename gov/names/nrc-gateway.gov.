@@ -1,0 +1,7 @@
+nrc-gateway.gov.	86400	IN	NS	dnssec9.datamtn.com.
+nrc-gateway.gov.	86400	IN	NS	dnssec10.datamtn.com.
+nrc-gateway.gov.	86400	IN	NS	dnssec11.datamtn.com.
+nrc-gateway.gov.	86400	IN	NS	dnssec14.datamtn.com.
+nrc-gateway.gov.	3600	IN	DS	35958 7 1 1e8f1f0a2c16f8cdbbe2d4d02f855b8836ef8ef4
+nrc-gateway.gov.	3600	IN	DS	35958 7 2 3829d0857753505535a611e02a1eea2a89e610b0eb940574b3e07a69a57a4331
+nrc-gateway.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. odmwc8bN66BfNn2MZ9UP/PjPn1bhrl3hKIpnC2/zhUuSlZ499ilSKyRwHfF4x5esaJJEDzenbS76B3i+/UtHT/I0zBuSSyDAxP02bTdVeMw35rMVyUDz/UIZWey4+XaMbYu9oRqOkGxAK765KWHgSlwXCOBXLtTSdfanhfojOcM=

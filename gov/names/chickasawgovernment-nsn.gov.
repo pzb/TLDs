@@ -1,0 +1,4 @@
+8ktj3j9t18se2ob40kjvqagugqaisinl.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. p+4mWpxF9Z0xOrcEeV0rx+cIskvZu90HAY2+74KSz4V1surNme2321ZYUWX046qHy3juDLJ0SiBxVdHWd9Y2nyUGoa1CpCeqvXlKGaEQrnlNY68qlY7KuZoVdq9//M0tnnFSJWjo/j0PAx+fGBBmMLy2w54SjsseQ8ED1JMta2Y=
+8ktj3j9t18se2ob40kjvqagugqaisinl.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8kv6cruri7hb31dvt5leecdvi06drl8h NS 
+chickasawgovernment-nsn.gov.	86400	IN	NS	ns5.chickasaw.net.
+chickasawgovernment-nsn.gov.	86400	IN	NS	ns6.chickasaw.net.

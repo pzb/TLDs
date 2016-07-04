@@ -1,0 +1,6 @@
+4s3a6gg91jm1it2crsh0eqkt67nvqfva.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. gR1GXJCLOr+MgJvOgnNQdbHXnwmDhA1Fh6rXl99OaRDhJ6KL97e1f2Y6GNbmN1/V8wLPs3BrCy1jgsyLi9Cy1+uqmqiD/elqKCLWQpZdedkpr48QZFrG2gQ84V/nwrzt4/6lMuyCD9vc/+rwiM4BCVJSybQsc9+kZwY9zTof3r0=
+4s3a6gg91jm1it2crsh0eqkt67nvqfva.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4sea5onnbqmgq5envkgf469v67dhbvm1 NS 
+china-commission.gov.	86400	IN	NS	chyron.house.gov.
+china-commission.gov.	86400	IN	NS	mercury.house.gov.
+chyron.house.gov.	86400	IN	A	143.228.129.38
+mercury.house.gov.	86400	IN	A	143.231.1.67

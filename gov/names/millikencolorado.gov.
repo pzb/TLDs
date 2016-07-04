@@ -1,0 +1,5 @@
+3t3pq6pm41iqhee9thrin95eagoa6ghf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. SFl/ogYR78N80XPU/iiEjGouFfs6qmR8UWN/Xh2IYwz6z2HcUZ5G/B5HKgQ7B9UqnMq4b2NFyZ+lvkN3X0HFCJSdAJm/GrAXYAgl5LyBvDb7Xjp7Fc5dzFKZxKoXIVDy0szX0Q+hGSPiAq6cv/iTl97u1Sh02BTZEDRoe20QGVM=
+3t3pq6pm41iqhee9thrin95eagoa6ghf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3t9ev5597qrtj78avqg9lq9s3sku9osc NS 
+millikencolorado.gov.	86400	IN	NS	ns1.slicehost.net.
+millikencolorado.gov.	86400	IN	NS	ns2.slicehost.net.
+millikencolorado.gov.	86400	IN	NS	ns3.slicehost.net.

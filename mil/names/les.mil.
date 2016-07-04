@@ -1,0 +1,11 @@
+les.mil.	21600	IN	NS	les-dc03.les.mil.
+les.mil.	21600	IN	NS	les-dc04.les.mil.
+les.mil.	21600	IN	NS	les-dc07.les.mil.
+les.mil.	21600	IN	NS	les-dc08.les.mil.
+les.mil.	10800	IN	DS	38767 8 1 8366f3bb6814882c74866d33139a2ca834609233
+les.mil.	10800	IN	DS	38767 8 2 4a870e0a0053bf744b853ef16fca71f0d3078e3d957ad58d145aa7506d38fd7e
+les.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. RC1AKcRkQ0DNAAN+KB9fvokN5MBcHUdnQHuG9Rtt662zUhkEhdN/inUDurvw/2UHlLpXJbW69CUy2FoyjCWGWjKjjWQJzx2ilYHAxvhygf9KWxUqfkG42jHekSQL3RcTYU9tng0EkDVlI7R46dWh05G3ZEypXwi5nvG3yiL9v9zqkgw=
+les-dc03.les.mil.	21600	IN	A	214.29.56.72
+les-dc04.les.mil.	21600	IN	A	214.29.56.73
+les-dc07.les.mil.	21600	IN	A	214.29.56.70
+les-dc08.les.mil.	21600	IN	A	214.29.56.76

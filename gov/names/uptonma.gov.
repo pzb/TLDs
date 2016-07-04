@@ -1,0 +1,4 @@
+84hddundlrdp31haipktvrqbptimu6ge.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. A+hiMOvC9lmVFU5okzg/mL8mN5Gnm52e2x/b60/TH9zd1SYPMHOck2DaOGnFq2PO4u8vctiTtFYJeieJtDy45uyJGQs97WZVSX3fJIMRTnsh/szDZ8Zl1ygpYOxTZMznbtG93g1bJIro7rsiIHw8fpQkyr+TKkdiCerh9Ro2fPY=
+84hddundlrdp31haipktvrqbptimu6ge.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  84imbb66gi5li636o8ug2on1j1ku0ttr NS 
+uptonma.gov.	86400	IN	NS	ns1.infotech-maine.com.
+uptonma.gov.	86400	IN	NS	ns2.infotech-maine.com.

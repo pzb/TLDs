@@ -1,0 +1,6 @@
+cityofplattsburgh-ny.gov.	86400	IN	NS	ns1171.dns.dyn.com.
+cityofplattsburgh-ny.gov.	86400	IN	NS	ns2164.dns.dyn.com.
+cityofplattsburgh-ny.gov.	86400	IN	NS	ns3150.dns.dyn.com.
+cityofplattsburgh-ny.gov.	86400	IN	NS	ns4180.dns.dyn.com.
+vsl4abjuviodch09q0pvpcucu6jihqn8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. t63ntltEzE0feqfUcXgZwykQbfF0IZ30pNdYJVK18qtRiLKQuvkgdY+/ulKezmFju68LSR9UgioGPlE6PSNNAxpGlQze8aPCt96Dx+uMnKD1hUeLlDYGq7IGASedSK6bF9F+DTheL4YdaHiE4IPbGN+HdYzOXJzimOghs1N1c+E=
+vsl4abjuviodch09q0pvpcucu6jihqn8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vspk30p1s1kcfmlhmst5t1vpgc19hkjg NS 

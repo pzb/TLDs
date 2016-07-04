@@ -1,0 +1,6 @@
+040q15um8pcdegcq9sllicl37r653kkl.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. aJYyNn9DvxFDoLNHEy24/g+VT4ef4KWRtKGcwsy3ggp84dUhIIJW72mQ8QE5FuZAfYBj4PmqTmA7Ezv+LZ1oqFGyzHxaEiwQ/sHUg7uSEavxNH0Z6Ju57H7S9ZqJzbEo9obTotQMAFNtUup4usix5qaocn7VC8w2kD8fx+x+aY0=
+040q15um8pcdegcq9sllicl37r653kkl.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  04amossaiblem5lt2i4uhverv048dcjl NS 
+haywoodcountync.gov.	86400	IN	NS	ns1.haywoodcountync.gov.
+haywoodcountync.gov.	86400	IN	NS	ns2.haywoodcountync.gov.
+ns1.haywoodcountync.gov.	86400	IN	A	66.191.210.181
+ns2.haywoodcountync.gov.	86400	IN	A	66.191.210.182

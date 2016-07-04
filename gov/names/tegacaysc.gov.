@@ -1,0 +1,4 @@
+tegacaysc.gov.	86400	IN	NS	a3.uberns.com.
+tegacaysc.gov.	86400	IN	NS	a3.uberns.net.
+v4dm892i6citkvsecnavfgmhs2ojsk7r.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. htFBgn+3M0mmLIxhUc3gSyadXw0nONCtzimYgVFpCs1kQMmQbx2ctjJciz/6VXfO227Q6H4zya4EcIlfT2Wj6vKtd/oHjYmrkcBPZoAoyBd5tdr83RcOa9/mIrX0GO0u2pJHgy/2H3oT26ATxHEM28Tql3ZOsJ6L6Vl0+3jh0wQ=
+v4dm892i6citkvsecnavfgmhs2ojsk7r.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  v4kjp0g0e7oi63lgnerfm27fg5fu9kgl NS 

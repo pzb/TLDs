@@ -1,0 +1,4 @@
+4utc2glrfiqtbtqpafaqafcp118lguhi.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. iLRWQEFa+tbnv+OTzr0usfq/qIT1u+qGgUQ8NoVFxBWIcEft/jfyNHyfUTQ9FYax/NChqX6D4uWDRQujkymWgaYyQh0GV6EA+RNAmWGJSnpEMPZuBJMQSXgCevpZ/6LgC6mD8YU15sYdtr8CiLrqu24S+cq5UV1CEL7KolZSY0M=
+4utc2glrfiqtbtqpafaqafcp118lguhi.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4vh000mnpnf2n19emge2njrnkrjr12k5 NS 
+fredenbergtwp-mn.gov.	86400	IN	NS	ns.cpinternet.com.
+fredenbergtwp-mn.gov.	86400	IN	NS	ns2.cpinternet.com.

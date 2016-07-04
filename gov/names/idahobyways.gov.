@@ -1,0 +1,11 @@
+adm-dns2.idaho.gov.	86400	IN	A	192.102.16.252
+admdns.idaho.gov.	86400	IN	A	192.102.16.251
+soa1.idaho.gov.	86400	IN	A	164.165.252.15
+soa2.idaho.gov.	86400	IN	A	164.165.252.16
+idahobyways.gov.	86400	IN	NS	soa1.idaho.gov.
+idahobyways.gov.	86400	IN	NS	soa2.idaho.gov.
+idahobyways.gov.	86400	IN	NS	admdns.idaho.gov.
+idahobyways.gov.	86400	IN	NS	adm-dns2.idaho.gov.
+idahobyways.gov.	3600	IN	DS	43099 8 1 f4f77100065034c2fe587522d81e096395e3eadd
+idahobyways.gov.	3600	IN	DS	43099 8 2 0470af2d5d92cca3bfd821f8a06ed71b429ab3b26164d225c697766418e3410b
+idahobyways.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. LZfkJ+6sqtvx/56lVtMeTyuE7xeRUrZBFnrRyqLRHnJW6nCuV2CFtE8GQX3zRLTpgCRg9ElTCmPKKEZ5FR17xDVosXgW0OD4EYvaDQufIarvKDlD/B4+L9/TSsPsLRg1W8J2TWGlbU7slG24ttncxvyLelCWyHSGKh9nyNwsi+I=

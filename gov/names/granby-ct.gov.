@@ -1,0 +1,4 @@
+6qln7q05mmdq08vij9aqj91n40f5vvjd.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. R3QU6rwMNhVz6TcgZrBKOxnw9b/rQwwKt/iaD1tTOCveRJo9fBNTiAmbBdLTKJLbkeoyl9xjxqpV1sYq0S7EfzSE/c5iPuCJE3CMfMt3JJC528STm2UWTCYDzsYzQrZXv3jupaY1dONl25ACDgslIbyZLXQgKf9qaV7RFZ4C8l4=
+6qln7q05mmdq08vij9aqj91n40f5vvjd.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6qvckkuo9on12ehf9favnlmdrj90539j NS 
+granby-ct.gov.	86400	IN	NS	ns1.infotech-maine.com.
+granby-ct.gov.	86400	IN	NS	ns2.infotech-maine.com.

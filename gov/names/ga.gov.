@@ -1,0 +1,8 @@
+dmc5mq7hrniipfetvrdmpnjuce6ogln8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Pzy0W2NoUHlImJVbfCJea0+GKfyMOAuWbRSTd6dufyr0fVWOumFZqcETik+R1jddLY9JB4pTaMoDGxcxm5MemCpy1FRHKPn2PS79KPBLMfVXdMpJ72g41ZddbHZxbizwJwGWcwqK8maVQkPa04zVbccn8i1YLgEbdQhbsRyCNYE=
+dmc5mq7hrniipfetvrdmpnjuce6ogln8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dmd9bjpekrorvc3r3v1i9gi4kvhdgd37 NS 
+ga.gov.	86400	IN	NS	ns1.state.ga.us.
+ga.gov.	86400	IN	NS	ns2.state.ga.us.
+ga.gov.	86400	IN	NS	ns3.state.ga.us.
+ga.gov.	86400	IN	NS	sogns1.state.ga.us.
+ga.gov.	86400	IN	NS	sogns2.state.ga.us.
+ga.gov.	86400	IN	NS	statens1.state.ga.us.

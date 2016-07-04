@@ -1,0 +1,4 @@
+mtf5143orqvvl7sfrklchfc64gm5glks.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. s1y3yvFgOcbkeIDxfDgzulXAvOWD+nWR21GEzHnNlca4J7gdYhob5CMacuiXoK/XHWRgi4O4L3KmWA/NUO/Y2pLXWLSsad8a2nQRZUAYLCs5RVHQQ4qXmX03wrT1x8SyXsfmW/hCHoLYVLbizhqhBQiPNgpL4vRCrgSrOIuFBSU=
+mtf5143orqvvl7sfrklchfc64gm5glks.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mtgrl5c5c6raggdfv78m4q4q0ojd8vqk NS 
+teanecknj.gov.	86400	IN	NS	ns51.domaincontrol.com.
+teanecknj.gov.	86400	IN	NS	ns52.domaincontrol.com.

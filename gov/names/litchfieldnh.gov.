@@ -1,0 +1,8 @@
+1mqh8luk30vvn5hr92pvutadjb4muc0h.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. V7SDzu57jyLVV39tLZ8XfqcAjAr1YuE6BlgPvf9sxQW8sQ/Ochb+bqA0xc4gRZ8VQ9TT6OitzGATYtO50KMTC3WKk9Tyc5PrXSMpcp/cIG2iI/YUA4wGIT+l/fA28QdnnPKq9tvEn07AlIkXPtMmVY0A2be2v/aQ9SLZVuCkFfg=
+1mqh8luk30vvn5hr92pvutadjb4muc0h.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1n0m61h6it5d9h0111da0s2t1ad41lfu NS 
+litchfieldnh.gov.	86400	IN	NS	ns1.litchfieldnh.net.
+litchfieldnh.gov.	86400	IN	NS	ns2.litchfieldnh.net.
+litchfieldnh.gov.	86400	IN	NS	ns3.litchfieldnh.net.
+litchfieldnh.gov.	86400	IN	NS	ns4.litchfieldnh.net.
+litchfieldnh.gov.	86400	IN	NS	ns5.litchfieldnh.net.
+litchfieldnh.gov.	86400	IN	NS	ns6.litchfieldnh.net.

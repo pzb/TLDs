@@ -1,0 +1,4 @@
+70gqkdlvp0vl70in73d9k0hqkb28q6r5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Fqn8JErOWi+uS2bTeGpdmFBD2aCknOg2LW2LibacI1mMetMcmbWglq0RznqvRLAKKY+bp9BHTYE8k5dhYXGodkEvAunWW5e8wzr7HHodoTU8B+mqpdktblyLfhb9cJtFEuz+HMMhxHSFBZZ6RjjJY2gHlFW0aJf9LfQnuuydYBg=
+70gqkdlvp0vl70in73d9k0hqkb28q6r5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  70ise0l464a6tb5k81edqd6pbtu4gks8 NS 
+borgertx.gov.	86400	IN	NS	ns65.domaincontrol.com.
+borgertx.gov.	86400	IN	NS	ns66.domaincontrol.com.

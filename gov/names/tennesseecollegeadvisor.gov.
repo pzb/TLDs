@@ -1,0 +1,6 @@
+l80pbprg2ilr5doo2g9o53oftpjtgp65.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. gU26T0EsB4bgCMwabeWhpHcGLFAjxmdkCVXyKinI3wWABXJw6pt+UEYyO97FG1W8fDRRlrprVosvZIiErh7s3yxSgeqIXVsyAJSuVZV0t55fUWDg8za+sC7AB7eaoBjY3nO5iP8oa3d+UjMJqPAafHwDjjRvoYbdHkXDSg1g7C4=
+l80pbprg2ilr5doo2g9o53oftpjtgp65.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  l84v79jerbr78inle3ggs00qlahq8psn NS 
+tennesseecollegeadvisor.gov.	86400	IN	NS	dns4.tn.gov.
+tennesseecollegeadvisor.gov.	86400	IN	NS	dns5.tn.gov.
+dns4.tn.gov.	86400	IN	A	170.142.92.58
+dns5.tn.gov.	86400	IN	A	170.141.168.22

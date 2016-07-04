@@ -1,0 +1,9 @@
+nationalmap.gov.	86400	IN	NS	a3-64.akam.net.
+nationalmap.gov.	86400	IN	NS	a6-65.akam.net.
+nationalmap.gov.	86400	IN	NS	a7-66.akam.net.
+nationalmap.gov.	86400	IN	NS	a1-241.akam.net.
+nationalmap.gov.	86400	IN	NS	a10-66.akam.net.
+nationalmap.gov.	86400	IN	NS	a16-67.akam.net.
+nationalmap.gov.	3600	IN	DS	16294 8 1 a064b45f27bbc038a1ec54ffa0faa32154b366cf
+nationalmap.gov.	3600	IN	DS	16294 8 2 f6ceb587cebf785932011de2bb684104cd5be16d13da275f579bb09c57e79d37
+nationalmap.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. dGDxQQNG2fAAoyWx4DCfipc4xw5JhkFCGLPKe6AtfO/uSa0gOgXjIWALN1xZVVXYhsbiHA/o2F92NoUnZjIzbQTfAfCdG0SnT1ULMvmbQzVONJElLh/pfDP3ElhBgjNPRMIfktD850Bgdi9WtVX11+TdCUvYCATNsbS8NVXs49I=

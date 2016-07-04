@@ -1,0 +1,6 @@
+ddto.mil.	21600	IN	NS	ddtodc01.ddto.mil.
+ddto.mil.	21600	IN	NS	ddtodc02.ddto.mil.
+ddto.mil.	10800	IN	DS	7469 5 1 93085e1299e8aa78d4265cb7218122beb173c164
+ddto.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. I1jVHmoUg5ZIU3T0DeqEHV6IeFULruWg/48wMKJwyCI1SG7sQ9vI7/RglauxsrlCJAnHgHJn+01m3fXSS/7/JxwEa6d+sM/zV2K7XaEgnEzrC6Hpvg5YdxTEa+8djHMPA5cVh//dD81I6x/w9fjn+lhFmgjlTQFca+hyxX6SgSYiHIA=
+ddtodc01.ddto.mil.	21600	IN	A	214.25.107.10
+ddtodc02.ddto.mil.	21600	IN	A	214.25.107.11

@@ -1,0 +1,4 @@
+ifmkbb3r47cs7j15gtp0p2qb0vb5l6co.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. vXuF2R3ob4UhQuGBaES+Xx6FVmhj3jnEBmIPz6DLHKF2L6vdYtwN38T1NDepnsfWHorLZ+ArtugWy5umxn8BkkXPKLiHT59GLENDDRMWk3sKhrVdAYI82sRpSxn39LYMAgvH7x6ABpvd5UbfPbnOu5NQR5h+u2Njicen6J9Z8sk=
+ifmkbb3r47cs7j15gtp0p2qb0vb5l6co.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ifpgojg2qnj6plmo3didksfdhqnnlk66 NS 
+iowasmokefreeair.gov.	86400	IN	NS	hawkeye.idph.state.ia.us.
+iowasmokefreeair.gov.	86400	IN	NS	panther.idph.state.ia.us.

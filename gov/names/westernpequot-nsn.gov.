@@ -1,0 +1,4 @@
+n7qk035ap5f5b0fd7rikthfbl8t2gukd.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. S7DhTp039Wc6NeACla3os3CfgTAXHNctbGKZNc/4s2SaB8UlnE+9R0pAStxtPzHFuh8y/xe6ANULbXC6tjEwSHdPkV2BB9PQVwfdqwDZFnZM8DbPeQz1di0nBuczn63p0GWTOHH5sQv+8roiUyliZAEmGhyvBeBvXhtrnfSJPGI=
+n7qk035ap5f5b0fd7rikthfbl8t2gukd.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  n7t05tfr5cb7mj59snvb6sp3abmcoi24 NS 
+westernpequot-nsn.gov.	86400	IN	NS	ns1.mptn.org.
+westernpequot-nsn.gov.	86400	IN	NS	ns2.mptn.org.

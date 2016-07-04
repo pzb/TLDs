@@ -1,0 +1,4 @@
+hinsdalema.gov.	86400	IN	NS	ns1.coolsites.bz.
+hinsdalema.gov.	86400	IN	NS	ns2.coolsites.bz.
+q6a84rjod9pl1so92phvhh1rir7c3c2a.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. x0bQOQP+dec8dl1M3aYDePQjCUxf6Vv84c8X0jZ1YUuzdXHT4rSUZ47YnboE5SqPgIi76KIVFuySuYAO0lyuirYG4gLTzesGmMeBz2T1gtvIZVvtCXF7BMCp7vvLYVw3/ujQHVNFbQX5erT9Z7Zoe5sDdP/mHooQRzvojKBZRAY=
+q6a84rjod9pl1so92phvhh1rir7c3c2a.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  q6hgf7hecahvmu2n9tqoim8s20jck8d1 NS 

@@ -1,0 +1,4 @@
+9ojrk1377qfupse36o0a6akf7pbcbr70.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Srwgpvd9ds5riKquhKbREK4bPGs5Pp+9TYNZN3zyiGpn2TZijDUJ7SE7lWi9AmLqNKyjrwLA520rr5Rf8GO9CD+5NSKlF1TjhDEIUgvqgkv+CCpKANFBw6gV4YZ1HvXW4RTadjbzt6NeseUs6whl8X1O3/xla3bjUlZkQ2b1YNw=
+9ojrk1377qfupse36o0a6akf7pbcbr70.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9ok0qmfbhq0hutf6h7344ske4efqvkoa NS 
+coloradoattorneygeneral.gov.	86400	IN	NS	ns1.frii.net.
+coloradoattorneygeneral.gov.	86400	IN	NS	ns2.frii.net.

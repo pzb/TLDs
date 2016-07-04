@@ -1,0 +1,4 @@
+bp6qkqt84ks20egt96l6cop4u4tdfsfc.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. gBLpmLlZIHM4tOvQnV7xotWc9LDNLg92CxcwXVj/aomyl+ipks7uSwmnM6J/8ddlSAlqk8fnCoSg2tfE8lHlCsk/6zAIagWNNb7Pd6E9oTm0EuyXQrZm/jqxD6RnzEg8cgc7FWBhRT7LnEFVF1HbwKpj7pbYxi02GLjpFeMhQC8=
+bp6qkqt84ks20egt96l6cop4u4tdfsfc.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bp9co8k4j13k0d69gspnnno97tkuhq6o NS 
+newrussiatownship-oh.gov.	86400	IN	NS	ns1.binaryorganic-dev.com.
+newrussiatownship-oh.gov.	86400	IN	NS	ns2.binaryorganic-dev.com.

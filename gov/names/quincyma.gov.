@@ -1,0 +1,5 @@
+pj49009svont5c9kp0f01ek6urkoqbl7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. tXSrBxinxqmFR9D5g+mERN8qVZUYNQDz/GhH3g3VYPoY5jqqUGea8TzJL/BKy8HdmXCOOp5UXsTAYOjxo4yqhbxyXUQbtpkxIkbAXgB3V5YgmzKWYsIm9P0XGYAMvRguXxgxgzZukEhgZ6hvbpYVzdkb6XXBzob1Oe+xQIeau18=
+pj49009svont5c9kp0f01ek6urkoqbl7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pjatfmfem2l6hsaj2ee71u4adsttinia NS 
+quincyma.gov.	86400	IN	NS	ns1.quincyma.gov.
+quincyma.gov.	86400	IN	NS	ns1.hightechnique.com.
+ns1.quincyma.gov.	86400	IN	A	209.104.245.130

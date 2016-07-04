@@ -1,0 +1,4 @@
+5llatiarte95fhrrknao0jt8npdcoa0b.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. WO7+ImXIRoVtDdB1a0gk52kos0dCIwCnIpXatO2FPoJHJ7ET3MLnGBeWG4na8i6cc2mSFxMfwJYshalrpU0xGAMCEeWgcTJnA/X7AWbh8pwHlMmDrFOoKjmzKtJdOhm79mP5qvhidt/A7kh/UvCnQJ+mdDXE5gKloNpPUeBODlo=
+5llatiarte95fhrrknao0jt8npdcoa0b.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5lr7k4juuosidhuo257m7bdj15ccsbi5 NS 
+wv.gov.	86400	IN	NS	dns.state.wv.us.
+wv.gov.	86400	IN	NS	dns3.state.wv.us.

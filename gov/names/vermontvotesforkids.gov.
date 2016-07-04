@@ -1,0 +1,5 @@
+vermontvotesforkids.gov.	86400	IN	NS	ns1.state.vt.us.
+vermontvotesforkids.gov.	86400	IN	NS	ns2.state.vt.us.
+vermontvotesforkids.gov.	3600	IN	DS	55732 8 1 d929d9c9b2c71f26c2e7115b1c2ae7738f3e5995
+vermontvotesforkids.gov.	3600	IN	DS	55732 8 2 3e04e4c043efde2afd923cca419a8ae4da454ae36bce809698a001b7cee636dc
+vermontvotesforkids.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. EIluHQq1vx7VVO/82Z1HN5ucyl/OOmt/yvNgGEtqZWdqLL5MTFMKBYL8Br8l/2KHdAyXWaB2e2cKU/u6FNrNMIZiTyjxa7fV1KSV3TSBklCW39QvgijdEApfkoQKxoxWe2hifJJ2+yKABawtDt+BUtvMZsaWS5cK7XFi/UAFxas=

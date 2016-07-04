@@ -1,0 +1,8 @@
+omb.gov.	86400	IN	NS	zc.akam.net.
+omb.gov.	86400	IN	NS	use6.akam.net.
+omb.gov.	86400	IN	NS	usw1.akam.net.
+omb.gov.	86400	IN	NS	asia9.akam.net.
+omb.gov.	86400	IN	NS	ns1-145.akam.net.
+omb.gov.	86400	IN	NS	ns1-176.akam.net.
+omb.gov.	3600	IN	DS	786 7 1 aca8ab363e016b321e4bfd432273d55e972a9b11
+omb.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. psqipRn7JMyazrE0TuP8sJQ/PBnO4uMvGkuWAN9JPd8vVQEHFxrI08tn4R3oQnAdnClu9UI12asNuveC5MyvflhqLCdFYwZG6dZW+xqC+DfD6ADh4FPCRUnyxsjsV+CJOAaLHA0IYx2YqOZtIWzs1IieoOn3mf7F1KHxr/hg00g=

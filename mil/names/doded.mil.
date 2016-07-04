@@ -1,0 +1,7 @@
+doded.mil.	21600	IN	NS	dns-grl.cnet.navy.mil.
+doded.mil.	21600	IN	NS	dns-pen.cnet.navy.mil.
+doded.mil.	10800	IN	DS	15757 8 1 8027e5294a335b3362a1b55d8fe1ef69eb980cac
+doded.mil.	10800	IN	DS	15757 8 2 51a20561c4eceb0d4c1ed43971b16f62a15f83afb196ba1a52ff03cd5ee63aff
+doded.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. ADL+GppPIvFGAI1YUZojY47GhWskDNCL6oCwyRTcA1dVdi+fBr1rTTLH9hRse8LE+kxjLb5s5ArX82YuXj5uiJCvqYzyqe1armF4w6DgGW+U/koFFEFqVFw3SFgvWLJXNrBCKBVvm8p3FBJPMlbwePcnKBd9TW1KDEHQww5z9jbWIHE=
+dns-grl.cnet.navy.mil.	21600	IN	A	206.37.212.72
+dns-pen.cnet.navy.mil.	21600	IN	A	199.211.210.104

@@ -1,0 +1,4 @@
+asepa.gov.	86400	IN	NS	ns6.zi-server.com.
+asepa.gov.	86400	IN	NS	ns7.zi-server.com.
+qbiuq5b5bbmvkqs31il4bn9b51lahcdr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. DmdwqbxfIPFB3xDcOnv5TxIUsZTct2eWgvCtotb4n/5vQQWTGw7UAU1MLsk+aio2nWUd0hFXp/s5OW8kbUs+LHtwfiAPCplEUN46aE4zAWbtRW6GqIpxug/0bf3YPMqcYpV8V8d8kEpPBzT4nY56qFhGNk4FvJJIsLw4kdpCwgo=
+qbiuq5b5bbmvkqs31il4bn9b51lahcdr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qbn894lubnr6gvve46ge7un2k151p4ed NS 

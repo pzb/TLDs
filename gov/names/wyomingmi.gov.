@@ -1,0 +1,4 @@
+mj1vbc83nggdjkt4aa29sqfqsfu8cr9i.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. XXqDdkLWu2MA5f0j0ppu17Dlamtphqtw2uJ/tvWjMw5TXW1h4BxMrqbl3BjQCuY6rWTmOJB0U5GeUN8F4Lg5uD5OyR1OM0+JoYROWiuzBZ0nsBlGT9/LOyYrq5UZ2pIe8Ua/U1HrCdP9W3XtUOxwV4fgXegVkzNgWFG0PZCinvw=
+mj1vbc83nggdjkt4aa29sqfqsfu8cr9i.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mj4qd3v0nvjlsvuhuspno359ji6qm0gj NS 
+wyomingmi.gov.	86400	IN	NS	dbru.br.ns.els-gms.att.net.
+wyomingmi.gov.	86400	IN	NS	dmtu.mt.ns.els-gms.att.net.

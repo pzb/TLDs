@@ -1,0 +1,8 @@
+afirm.mil.	21600	IN	NS	ns01.army.mil.
+afirm.mil.	21600	IN	NS	ns02.army.mil.
+afirm.mil.	21600	IN	NS	ns03.army.mil.
+ns01.army.mil.	21600	IN	A	140.153.43.44
+ns02.army.mil.	21600	IN	A	192.82.113.7
+ns03.army.mil.	21600	IN	A	130.114.200.6
+hp599tukl1ljtrejdtiq08cnv7osur7b.mil.	10800	IN	RRSIG	NSEC3 8 2 10800 20160708161835 20160701161835 16413 mil. MM1vAxsj3beTOnqabv1RjqGQaW6hUGkzC4Gcosewl6VIjdQ+twrFHXouNumhb/b17ps+F7IMYrFQlRGXsbiwv0C7Tr032umdHL/5bL4lM+2A0Ca8bhNS83L7eTETeNCjU0xySZEcYqx2GF2SJBfF8g6Spy0ASbS4TCq16D7NTwjsNJc=
+hp599tukl1ljtrejdtiq08cnv7osur7b.mil.	10800	IN	NSEC3	1 0 10 adeb  hp83pf8uq1792m8817odrgh4htqkp2ks NS 

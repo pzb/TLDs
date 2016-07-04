@@ -1,0 +1,4 @@
+bgple5thejsll9mc4q230cj42m860pjo.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. BELMBA9uFp+8UfAsNhzH06qnmZgFmCWinTE7wjjX8D72G71/wT/ii/xnMTjY7pQNjRNU4j9YDzNyi9gDwHzHmDomTFJERl1Ge4QbC4AmbATNiL3yb9t2HOCcKFMogXtyw2+tIkjbNZLzrF2fLbigGx4Rb1lNAiEorKZUPtqVQAY=
+bgple5thejsll9mc4q230cj42m860pjo.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bgquvir6l81tgbjm7r7d4l0i8s4t7o07 NS 
+txmap.gov.	86400	IN	NS	ns.capnet.state.tx.us.
+txmap.gov.	86400	IN	NS	ns5.capnet.state.tx.us.

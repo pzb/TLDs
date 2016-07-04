@@ -1,0 +1,4 @@
+nv58efe9midslkfq9fj0k57bdfccql7u.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. EVs3KDEEoWIPnNUq7Kwt8wRmdfnS/OryLuJRzrpNOJHhG6eyZvPnsi2U2krQJ35QL3RGK57VdpoekEtz02NoBXGo32OHBVq74kK8zuLcevBe72b4WL5aNczUXxTKzlasrCTCAk4NQufutTcVtQisHeRkJhs3MHKScI0QMSW4IgI=
+nv58efe9midslkfq9fj0k57bdfccql7u.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  nveiphts4ls8d1nkvocdm84e6v527gnd NS 
+townshipoftabernacle-nj.gov.	86400	IN	NS	ns1.lnhi.net.
+townshipoftabernacle-nj.gov.	86400	IN	NS	ns2.lnhi.net.

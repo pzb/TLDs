@@ -1,0 +1,9 @@
+foxbat.doe.gov.	86400	IN	A	205.254.143.110
+foxbat.doe.gov.	86400	IN	AAAA	2607:f368:1000:1000::53
+fulcrum.doe.gov.	86400	IN	A	205.254.144.110
+fulcrum.doe.gov.	86400	IN	AAAA	2607:f368:1000:1100::53
+wapa.gov.	86400	IN	NS	foxbat.doe.gov.
+wapa.gov.	86400	IN	NS	fulcrum.doe.gov.
+wapa.gov.	3600	IN	DS	20869 8 1 652d3541eeff1a55b79b96d880ab4373e93725fb
+wapa.gov.	3600	IN	DS	20869 8 2 9af8a87a7ea253be2efd06d4c70296c49c9d4259552d0efb56680f211fc4a3ea
+wapa.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. EuN96+hgGhKxwZ5hgY8wa2JpDJSZJndGLyso7UL0ZoJkuWQYbIIZbb6I1oeC+eQ6g528zcztvemWblh3FAjPQ8nY0Ol9iOPjhq2lcDagn0WiQINeE7xaDdFvNa8gGCOdK4qDzG6Zvt9uoeX/wmgNEYNZeho/+wzrA21ojVFElAU=

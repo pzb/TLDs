@@ -1,0 +1,4 @@
+0aosjvrv2dtjddqu1hanfgj550hk1g09.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. JvIAZa8zzJK8KnPSWCzHbneHifHpDWWI20fU773UD5uzc7fmWLmRjS6X9+Y28yKmdH0l6ne732jpVt/s20tBdtN9EgOnnywnooVOSSij+ASVg2KOSAcmvNVBigBimmubOmlZsbS+eRIe4j5oHrxqmpaetC8Haxz8tjwXpjtT35M=
+0aosjvrv2dtjddqu1hanfgj550hk1g09.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0atmtkr5mjj9bplfolfak63hf3kga5l1 NS 
+chukchansi-nsn.gov.	86400	IN	NS	ns47.domaincontrol.com.
+chukchansi-nsn.gov.	86400	IN	NS	ns48.domaincontrol.com.

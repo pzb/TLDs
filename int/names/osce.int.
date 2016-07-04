@@ -1,0 +1,3 @@
+osce.int.	86400	IN	NS	ns1.dns.interoute.net.
+osce.int.	86400	IN	NS	ns2.dns.interoute.net.
+osce.int.	86400	IN	NS	ns3.dns.interoute.net.

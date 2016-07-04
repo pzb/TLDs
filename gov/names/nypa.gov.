@@ -1,0 +1,8 @@
+3qa3vfmulerj5oju7rqtbqcr87ol6ehh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. JDJlnQt6kHpd4ZUhN9GdA26UyiZLF8iTifhMEtU1jItnEReXXFV1jrfqI2GNI2gO2sbBegJYeJcHIBbftar3zYu/JNB/zaUHfxEXrk62AMwOhmpFXTFCG4WuiBFte+yNDNRqm1SEfTwz2Pe+n6NpgLU6vBkM50kuQEO30uTnzko=
+3qa3vfmulerj5oju7rqtbqcr87ol6ehh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3qieoj8tplgabr16knes7feta56ki8kb NS 
+nypa.gov.	86400	IN	NS	ns1.nypa.gov.
+nypa.gov.	86400	IN	NS	ns2.nypa.gov.
+nypa.gov.	86400	IN	NS	ns6.nypa.gov.
+ns1.nypa.gov.	86400	IN	A	148.144.9.200
+ns2.nypa.gov.	86400	IN	A	148.144.9.201
+ns6.nypa.gov.	86400	IN	A	148.144.29.200

@@ -1,0 +1,4 @@
+goldenvalleymn.gov.	86400	IN	NS	ns1.state.mn.us.
+goldenvalleymn.gov.	86400	IN	NS	ns2.state.mn.us.
+ogj74b56hlnhjjngd17vddnjjgqib143.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. DA5B8xfFlB08UXAg+wUj2dgvPnn/jr3SByiE3DOaMtvfQR4/fmsXm9DNL0hRxfyr5Gr/SYS3ndjHYFvNcSgTq76wtzUZtTb6qtQXNb1tGQ4KMYyWFxPp4aY+/g5ctIofaFYklGIGLsawdCZRGm+ENeLG8KyZQ7nlNZqVFkeRMvU=
+ogj74b56hlnhjjngd17vddnjjgqib143.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ogniofdrfh0f7vlr5fpcki68i0gmrpm0 NS 

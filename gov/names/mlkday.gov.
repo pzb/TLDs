@@ -1,0 +1,7 @@
+dns01.cns.gov.	86400	IN	A	152.180.8.143
+dns02.cns.gov.	86400	IN	A	152.180.134.207
+mlkday.gov.	86400	IN	NS	dns01.cns.gov.
+mlkday.gov.	86400	IN	NS	dns02.cns.gov.
+mlkday.gov.	3600	IN	DS	13368 7 1 e179db0deb5da8bbe8ad824f5e7f0056add82857
+mlkday.gov.	3600	IN	DS	13368 7 2 0732cb2b2e43d9235b8c21ac855eefc1d0b58b48c26dc112c4b222654ef4e53e
+mlkday.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. M/LeCAArYHPYlJZssHsRgVZqnxldxf2Me9fz0ffIAg901wWEeowj7wmFQevqStt+Z+QYDe7Y9Lftanp33GMTYoKnu3y8S+HdJ5WGBlnCLV6rqI82lBHiPm6Pns4rJVVExynrABjpKDLzI60th5J2WKWsdmBM5gpN+VTx/PqnrsI=

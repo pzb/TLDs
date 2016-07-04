@@ -1,0 +1,6 @@
+firstthingsfirstaz.gov.	86400	IN	NS	ns-432.awsdns-54.com.
+firstthingsfirstaz.gov.	86400	IN	NS	ns-702.awsdns-23.net.
+firstthingsfirstaz.gov.	86400	IN	NS	ns-1283.awsdns-32.org.
+firstthingsfirstaz.gov.	86400	IN	NS	ns-1646.awsdns-13.co.uk.
+mjv1vq0e4ditehdpsb5bbnna3sad66th.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. gCvbZ5Z+h/vM7rqDf44ZQyfb69vHyVyePogbS/WzlgtNLQnPSsmHDzoHAbOm3qUlSDIhZ0Pc4pAfGAiIWMAmyh0OXcdq1lDlw0zxKV0DcCpwj9c1kHBRImD1c+cDcfhH7cTQPINTD4yfu5WuMInH+q7NJ5LOpVdlNLJlHBzCrwY=
+mjv1vq0e4ditehdpsb5bbnna3sad66th.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mjvm3cr0i3e8qpo1rqbrug7u4lcgtj28 NS 

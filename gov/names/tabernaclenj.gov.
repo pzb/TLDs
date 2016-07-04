@@ -1,0 +1,4 @@
+tabernaclenj.gov.	86400	IN	NS	mns01.domaincontrol.com.
+tabernaclenj.gov.	86400	IN	NS	mns02.domaincontrol.com.
+togbm3vt0ug2m9r8rs1o055dau7uhrqi.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. scq1YiFiqAPcGfEuE7A8C9otOIRcM2dPZR/wqR8G5bpHEUsSwbt2naKwK68ch2dIJV+HQUaLbwSRje/vSIyk7iLaHw0C99dwojury1MtITK2tdovWtk5vYS9iD7NFZUg/fIMcQ5iynT+RpzxoyTsnqN7CIA8RHS1px/cJBupdRk=
+togbm3vt0ug2m9r8rs1o055dau7uhrqi.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  tp7kpfg8huliqn84m07vnc7tb0s4usmb NS 

@@ -1,0 +1,4 @@
+6r8oslb4t6h48pbcf8rnimedgjj6fo2i.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. lET071NpDw0AHNytD6ult0VmY3SDS9l9HySCQS0VH4qX4BBbzjDgTPIENMa6AweuJbH1ER33F6CvkgWoecvJOpf1TdbGiQLneeEmBClAOVRVbAjMQa8reSFqsWDRRjtLGZd3BsLRSWyF3tfbIFaYBV+CDA7UacQxv6Si80/3ajY=
+6r8oslb4t6h48pbcf8rnimedgjj6fo2i.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6rfphlld92a2tsrn30blndtefgvvrisp NS 
+amitecountyms.gov.	86400	IN	NS	mace.netdoor.com.
+amitecountyms.gov.	86400	IN	NS	pike.netdoor.com.

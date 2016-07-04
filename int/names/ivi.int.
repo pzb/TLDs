@@ -1,0 +1,6 @@
+ivi.int.	86400	IN	NS	ns.ivi.int.
+ivi.int.	86400	IN	NS	pdvi01.ivi.int.
+ivi.int.	86400	IN	NS	ivinmssrv.ivi.int.
+ivinmssrv.ivi.int.	86400	IN	A	220.93.120.73
+ns.ivi.int.	86400	IN	A	220.93.120.79
+pdvi01.ivi.int.	86400	IN	A	220.93.120.201

@@ -1,0 +1,6 @@
+c0uvr5pfvnq3quc4ivhr18ldm5mhjsuu.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hFN2fWt8qN1r9WKrOGYPkLbehYkcAnazih4t8vt/B76XbmGMGPwRonPDebuc8+Lvr3Ybt3IZRDRxPNX1b3pBrDI3hRZ3Yxaq///rIwUm34t5pTEd3+A7SUap2vWvrmCCErjWPQBudZw9VRqYp/yoeDkvMLcKsOd66xjL5UdsVjs=
+c0uvr5pfvnq3quc4ivhr18ldm5mhjsuu.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  c17u9ko1b6evri4baccjvjfe2uled09t NS 
+newtonma.gov.	86400	IN	NS	ns1.newtonma.gov.
+newtonma.gov.	86400	IN	NS	ns2.newtonma.gov.
+ns1.newtonma.gov.	86400	IN	A	209.6.175.194
+ns2.newtonma.gov.	86400	IN	A	50.203.150.158

@@ -1,0 +1,4 @@
+f01bgrom8epm4t1uoo5rmuovte02pjuk.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. D5vIoNg9x+NaI6nCbxqejJ3Gy8wB5JJMLB0UH7RlqJUYOV6Kofp4Lt7+2zaMHJs3REYGEDoOlHEpLO8td4mnYvZjq1Ot0XnXE1eh8y6LQpXqjqIaWwiSKM3IrxDC5SKWPYNWgxqdoCo8IaSlNKff/Xr2mhOoZnRbMQuyPOQBYJk=
+f01bgrom8epm4t1uoo5rmuovte02pjuk.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  f02mb3f8ccujavt74abiug9iqte8tiv6 NS 
+shapingnewjersey.gov.	86400	IN	NS	ns1.state.nj.us.
+shapingnewjersey.gov.	86400	IN	NS	ns2.state.nj.us.

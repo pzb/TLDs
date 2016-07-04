@@ -1,0 +1,6 @@
+gunlaketribe-nsn.gov.	86400	IN	NS	ns-40.awsdns-05.com.
+gunlaketribe-nsn.gov.	86400	IN	NS	ns-816.awsdns-38.net.
+gunlaketribe-nsn.gov.	86400	IN	NS	ns-1438.awsdns-51.org.
+gunlaketribe-nsn.gov.	86400	IN	NS	ns-1747.awsdns-26.co.uk.
+ov22nqvec1umpcurusivqv4585cdhfiq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. gk3POCDM/Z3T6Yrjt5fPpRFuawHY1QiylVxuzASldNvYG1moGtgGQGAs1vS+/w1GsLfOR0RJFBPmAbqwRtzjdI2v3ESridcwYlMmMgAHoot594TxRnyFos74GWVmKT+eBxcaVB1YUmc5niijdVAvyzB+f7cBP3bVB7w7FLzgGQI=
+ov22nqvec1umpcurusivqv4585cdhfiq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ov3eocbqsatkdihco2em2sjpfsb361bg NS 

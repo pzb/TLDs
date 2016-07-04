@@ -1,0 +1,4 @@
+crawfordcountymo.gov.	86400	IN	NS	ns1.misn.com.
+crawfordcountymo.gov.	86400	IN	NS	ns2.misn.com.
+ir32b81v9csa40ovs1jn17bckk32so4o.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ayzzN4QW9UaI3rid6r0rbl+gtbRKT57PDGvx+eaIQQ9wP2tqW6US1+T6E5wreLozOAioWXzHAWbZ7qfkpBGfjLMhp81tZbHYBgF0oGgBsILClbQelE4QT1YCWJU0PVZ1YySk0Jv44XC7CMghMRc0ODtzldDvI6FwYodTrblzrMs=
+ir32b81v9csa40ovs1jn17bckk32so4o.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ir9bsj76n09b1vtq5qtc7h2fmtk4pq95 NS 

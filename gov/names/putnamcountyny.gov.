@@ -1,0 +1,4 @@
+gep0r0a1qu40otvrgpnksjlo7o60793g.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. aAz28VLoi5Z03/3tY1Xxe9wP8Fzz4FeVgClXrJA8p80U9Yer0LODtAMqU8/HqbiCj0QC/6wqiTSMxdnVIroEX10rOxvs23ddaASsnyRvrUFyDCbaf5y/Jo3Oxlj5qxkwIbIFDJ41kexlZgGNiRsB/RilBwwhn5lE52dUV43gSk8=
+gep0r0a1qu40otvrgpnksjlo7o60793g.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  gesj4mijmecpc6trkl1n1cnfjupsavg6 NS 
+putnamcountyny.gov.	86400	IN	NS	mns1.secureserver.net.
+putnamcountyny.gov.	86400	IN	NS	mns2.secureserver.net.

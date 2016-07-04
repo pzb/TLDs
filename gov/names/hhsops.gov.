@@ -1,0 +1,15 @@
+rh202ns1.355.dhhs.gov.	86400	IN	A	158.74.30.98
+rh202ns1.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2a
+rh202ns2.355.dhhs.gov.	86400	IN	A	158.74.30.99
+rh202ns2.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2b
+rh120ns1.368.dhhs.gov.	86400	IN	A	158.74.30.102
+rh120ns1.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2c
+rh120ns2.368.dhhs.gov.	86400	IN	A	158.74.30.103
+rh120ns2.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2d
+hhsops.gov.	86400	IN	NS	rh120ns1.368.dhhs.gov.
+hhsops.gov.	86400	IN	NS	rh120ns2.368.dhhs.gov.
+hhsops.gov.	86400	IN	NS	rh202ns1.355.dhhs.gov.
+hhsops.gov.	86400	IN	NS	rh202ns2.355.dhhs.gov.
+hhsops.gov.	3600	IN	DS	31590 8 1 e55112a59a3ced8864d980ad7307737738495fd4
+hhsops.gov.	3600	IN	DS	31590 8 2 03a55334cd8edea19ebd1106c12911feade93e6590952bd33460b9322536afe2
+hhsops.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. F4bv9o5N1G6F0oP/lKCRT5eYNTpyVfOuQXmaN+J/ccXaqDUmI3wwAhd5Rl2WEIPdZG/Hil0jXp2Vr3j6I5rJmtyJCPq+T3YUXlkkr2pvP83sCiZ8lXArJuRkrWr+CDbPa5IPdPuzcswU0X5G2bG/snP1debIjWSZFULvwFril5c=

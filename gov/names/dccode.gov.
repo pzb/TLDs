@@ -1,0 +1,6 @@
+1113oejfcrgjphlrd7f9q9g91r7qb2ho.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Mx8CPbTQD0Wpyn1KZ6OVZHwZ/zRAPBYy+lKHYkuJB1vMFFeHrWzoBOF48nvTIOX8Q6I2bjCpdRHnFPh/ppMikBCkNSHy7QqjJt1pK8lPAZ1VEWJJGmGR6Mmj6w2TemgAwBjlAZncQvNh7ZfM87an+7igyHNy5Rmd8W77/qwltEw=
+1113oejfcrgjphlrd7f9q9g91r7qb2ho.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  11b4vhi2hv5bqb8pmseapr5uirdf6hdp NS 
+ns6.dc.gov.	86400	IN	A	164.82.8.15
+ns7.dc.gov.	86400	IN	A	164.82.41.160
+dccode.gov.	86400	IN	NS	ns6.dc.gov.
+dccode.gov.	86400	IN	NS	ns7.dc.gov.

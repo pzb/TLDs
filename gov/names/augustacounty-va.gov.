@@ -1,0 +1,4 @@
+augustacounty-va.gov.	86400	IN	NS	ns1.lumos.net.
+augustacounty-va.gov.	86400	IN	NS	ns2.lumos.net.
+e9sr8pqpio9niq73ehni93bgl2ls9ik7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. vDi59evHmw7zMMLfeK92dwMxZ57TRVs0dW+c1oddDFJe0MY5a2uvvgtioVagXvnLagg1GsEKbxRkC6kI5cK4spt/oQuZpwThGzm63yhVjLS0BX9I9SOlOBVPCvWInGzRwtAfhXwlMmicW8cj8/oBORr/++/yoWUjjSo4KaVe97c=
+e9sr8pqpio9niq73ehni93bgl2ls9ik7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ea7pbdd5quuq2p1v7gmmcesl0e6nlsec NS 

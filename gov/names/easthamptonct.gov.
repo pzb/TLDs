@@ -1,0 +1,5 @@
+74uirgck02vrmfa0sb06eil85l6141i6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. tLFuZCs2IOxrO4dHvlTPuDBQHh94Lw74puz8tU4Nxrx6O+s4XO5eSgHYivnclWr/9n3uNy8L+bWAiaLHtevumETrkhB5y1ztQaa2SBzwzJ9tLxfBAKy+x7WutNjCsqfz9QiQsto+QEINI02TuzhtVF2qoq6ZwU8evCvEgcXnluY=
+74uirgck02vrmfa0sb06eil85l6141i6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  74v7t2oii4prr8hipvb0jqlv3dji90qe NS 
+easthamptonct.gov.	86400	IN	NS	ns1.infotech-maine.com.
+easthamptonct.gov.	86400	IN	NS	ns2.infotech-maine.com.
+easthamptonct.gov.	86400	IN	NS	ns3.infotech-maine.com.

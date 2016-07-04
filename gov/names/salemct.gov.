@@ -1,0 +1,4 @@
+i8st30tnl3hhr57q7ikl3clslukel1gs.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. bxO++Excg4bzYMbucXswcrMecOV7pOa8xW+wxELdfqLrBgjbUUL1zY2sCACRzyVlOXooVBr+sq0bgAR3z45Ti4Jpc0xSMSNFQAjRj/wnFStVTBWK2G+aj1WKOOviwuewonaUxGwh86KB7gT32YwSMF4PmtcqYU6MYZbt8bExcQk=
+i8st30tnl3hhr57q7ikl3clslukel1gs.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  i95dnpm6kntoh04m1if7b3ujd2tckr69 NS 
+salemct.gov.	86400	IN	NS	ns1.infotech-maine.com.
+salemct.gov.	86400	IN	NS	ns2.infotech-maine.com.

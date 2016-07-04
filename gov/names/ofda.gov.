@@ -1,0 +1,9 @@
+ofda.gov.	86400	IN	NS	ofdans01.ofda.gov.
+ofda.gov.	86400	IN	NS	ofdans02.ofda.gov.
+ofda.gov.	86400	IN	NS	ofdans03.ofda.gov.
+ofda.gov.	3600	IN	DS	26938 5 1 27a88a1110d715bc223531496c83513dc243e332
+ofda.gov.	3600	IN	DS	26938 5 2 f72c39070b4f4aea225a0009614cd259a0926eb78eaa666493688f9238dbb180
+ofda.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. xHfEKaUE5uhkTo0wtH3k0Yn5S/ehxfYzmPM7lMfkTlc0NG2yUtV0kmgtkNWUYYWe1qiAhepsngXpy5ULW4EgkERQoF+CgmTR+Y0sb4FvHZ0cFa3nq1/93xEvpNZCLlCUwIkQ6RwMOKrqtGWgryC4LkbH1KgbwiZzG0H2ra3ll3E=
+ofdans01.ofda.gov.	86400	IN	A	96.47.160.200
+ofdans02.ofda.gov.	86400	IN	A	96.47.160.201
+ofdans03.ofda.gov.	86400	IN	A	96.47.170.202

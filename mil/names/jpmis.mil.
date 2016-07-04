@@ -1,0 +1,10 @@
+jpmis.mil.	21600	IN	NS	ns1.nosc.mil.
+jpmis.mil.	21600	IN	NS	ns2.nosc.mil.
+jpmis.mil.	21600	IN	NS	ns3.nosc.mil.
+jpmis.mil.	10800	IN	DS	31822 8 1 b1803e61ba892f1e7a377e1d09ae3077020b11b4
+jpmis.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. badOukcEwSkaSXMEXfa0PJAOL8vyyIS+Z/n9BGDLQe1zciar2kaOgS6dHctE3rPdfyAN0tYbBTcRCqd/1HfNMPJVFeJmAjHfCOZV9yqa3BriNFYIuEps/G1Wl8ethbXhs9RmaDKjKGrJdLE8d8LcIbvjps2aDs5JdL0wbJkrPg6s6qU=
+ns1.nosc.mil.	21600	IN	A	198.253.48.7
+ns1.nosc.mil.	21600	IN	AAAA	2001:480:10:1048::7
+ns2.nosc.mil.	21600	IN	A	163.240.3.10
+ns2.nosc.mil.	21600	IN	AAAA	2001:480:610:1003::10
+ns3.nosc.mil.	21600	IN	A	198.253.252.3

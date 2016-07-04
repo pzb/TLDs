@@ -1,0 +1,5 @@
+02kgjddsp800b6agdk6lqeo44ved6sc4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fakBTtmjqg7qVv3d5XdD5SoJ3b3RFMG1ecQcXP8tt6K4Vll0T68MuH5ABmreIYVB7LoT4I/RQduJzsJta5SAyeAyhTWynSNYkUh4UZV97SnO8UNtdbNIx2yzLETMXMXR9dF9Fy09M7JNS69cf/0GUnUDQKPsYtcnDzjiQTUEPUY=
+02kgjddsp800b6agdk6lqeo44ved6sc4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  02psk50su6rrq37hmv8tin6qn2bje9g7 NS 
+lubbocktx.gov.	86400	IN	NS	wasp.ci.lubbock.tx.us.
+lubbocktx.gov.	86400	IN	NS	spider.ci.lubbock.tx.us.
+lubbocktx.gov.	86400	IN	NS	ladybug.ci.lubbock.tx.us.

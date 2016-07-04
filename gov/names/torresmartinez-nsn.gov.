@@ -1,0 +1,6 @@
+1mhge6dn69b853rckakd12megbdpf61k.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. SlwRGSq/gxTTiRki3XLpdh7G6Gu+SAUnQJLMNgiZkyjjofd4v01Yh9TcIW+e3f+5ykBUjyZzRM92macKuKjiSzY1SUwdHcarIqhsdKsgLM16h5GHdrVYhe4p/wGwMVHKdQB6FslsQPY0mKRIB1/RgE1cx2T5n+OI5/yRtAvy/bY=
+1mhge6dn69b853rckakd12megbdpf61k.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1mjpu5r1kb4vvohodjuetcdd4n398kpn NS 
+torresmartinez-nsn.gov.	86400	IN	NS	ns1.torresmartinez-nsn.gov.
+torresmartinez-nsn.gov.	86400	IN	NS	ns2.torresmartinez-nsn.gov.
+ns1.torresmartinez-nsn.gov.	86400	IN	A	76.79.103.135
+ns2.torresmartinez-nsn.gov.	86400	IN	A	64.60.44.210

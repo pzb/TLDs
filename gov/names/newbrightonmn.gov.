@@ -1,0 +1,5 @@
+9sip90a03lio2m3pq3h7uv64mnmojk9q.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. XnBjweZJCx9dLLcFRVj4CXpjYfg7rPhjgquu+TOAESqBgEuFhvsAzHP7zJUZAOFfEQ9HXGrR3Jyaa0QIpunRASw6ooUEsdhWBCR3BmG0ewKcXrgQGE6pHfVpFvh+VRcMak6rq9k62sM7NuOfbh6YzcAOLeJldsICnHp11ot/dbc=
+9sip90a03lio2m3pq3h7uv64mnmojk9q.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9snhppa3jf2bncacq7rlucq0m8jjv57r NS 
+newbrightonmn.gov.	86400	IN	NS	dns1.easydns.com.
+newbrightonmn.gov.	86400	IN	NS	dns2.easydns.net.
+newbrightonmn.gov.	86400	IN	NS	dns3.easydns.org.

@@ -1,0 +1,6 @@
+paducahky.gov.	86400	IN	NS	ns1.paducahky.gov.
+paducahky.gov.	86400	IN	NS	ns2.paducahky.gov.
+ns1.paducahky.gov.	86400	IN	A	143.95.44.67
+ns2.paducahky.gov.	86400	IN	A	129.121.8.183
+tg6lmsriis54ge5plkofmgitev9ioe8u.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. FryALHqohL7FWRhKJ0Kg93zfyDsgr27LrilLFrsmKmTOMFw7Wzl9x336M7dOVdB02K4+GuL2NNVat7gx17q3jPUtq2cy9kWGZrajKtj9bvw3r7rn0cAtBvovkD+ICTC2cwyMpPhOSmbu9VpFXrz1i9TOOOB9uyXyOQRDA9wh++o=
+tg6lmsriis54ge5plkofmgitev9ioe8u.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  tgbll85pbb9qus2g2520in7uomvav92e NS 

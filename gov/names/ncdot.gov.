@@ -1,0 +1,6 @@
+hphjg2d2vcevbcmpnmvtl4gknhfjed7g.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. G61olvg3PtjW7mWdSNQTrh8/NU7g7pTg3piEwpIUen3sm+6e4gHWW1SpdBxoh9N1Otd3k9kfd9v48qK03/qHOPtklsdbNT9IT4hToyO4M0kR8a3+UMxsLQS624lW66xhBZ6n/6afvdGiRGXgdlGSbtJ7tRx8eno3SQ7KVegznXk=
+hphjg2d2vcevbcmpnmvtl4gknhfjed7g.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  hq76a41qmmtdn8tk0pj77u519po3epmd NS 
+ns1.nc.gov.	86400	IN	A	149.168.11.11
+ns2.nc.gov.	86400	IN	A	149.168.138.11
+ncdot.gov.	86400	IN	NS	ns1.nc.gov.
+ncdot.gov.	86400	IN	NS	ns2.nc.gov.

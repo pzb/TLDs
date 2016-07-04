@@ -1,0 +1,4 @@
+lymansc.gov.	86400	IN	NS	ns05.domaincontrol.com.
+lymansc.gov.	86400	IN	NS	ns06.domaincontrol.com.
+tlmdt9iuk4qesrjpmir3aulbu5lhs979.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. YajB5mLqUqWyS7+ieLs7Q+UqbeUyIaCTpqmPEyXjpDDQH4k5oRJG+l75srHiHjFf9bWIuzIWbKmaHxQikD2c51AO7cFJkFwz28QIeLravONa3Kc3Rp376EHGROOXKSpe55PfTXtTxaZZ2/KQf8MBHXMO6xkTdhwv9B4nMTuVm+M=
+tlmdt9iuk4qesrjpmir3aulbu5lhs979.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  tlmu66ca1tshmju8iem5jems4etkgp31 NS 

@@ -1,0 +1,6 @@
+hp83pf8uq1792m8817odrgh4htqkp2ks.mil.	10800	IN	RRSIG	NSEC3 8 2 10800 20160708161835 20160701161835 16413 mil. IOHMlrPvpMp1bdWjLRzrBE8LQ1ZF1+1D9M2gXCyfD5VE0SbRXtc4327QXufaLWL1KCXhqcSKnaK0lMvnxAEGkmr2PPiQXkAmzWLMjr1pF7P3/jV0oRPJ6ijEAFb4RIv0vpeJFLALUzw9DNPpf/dCQIk0e9sbM5azXnbFws2kY5TlTvI=
+hp83pf8uq1792m8817odrgh4htqkp2ks.mil.	10800	IN	NSEC3	1 0 10 adeb  hrjiubcr19tah6a8l21oso75keamgf5p NS 
+ns1.hqda.pentagon.mil.	21600	IN	A	141.116.37.110
+ns2.hqda.pentagon.mil.	21600	IN	A	141.116.125.110
+sigir.mil.	21600	IN	NS	ns1.hqda.pentagon.mil.
+sigir.mil.	21600	IN	NS	ns2.hqda.pentagon.mil.

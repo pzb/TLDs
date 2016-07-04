@@ -1,0 +1,6 @@
+int.	86400	IN	NS	ns.uu.net.
+int.	86400	IN	NS	ns.icann.org.
+int.	86400	IN	NS	ns0.ja.net.
+int.	86400	IN	NS	ns1.cs.ucl.ac.uk.
+int.	86400	IN	NS	sec2.authdns.ripe.net.
+www.uit.int.	86400	IN	CNAME	www.itu.int.

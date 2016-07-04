@@ -1,0 +1,4 @@
+bristolct.gov.	86400	IN	NS	dns1.ci.bristol.ct.us.
+bristolct.gov.	86400	IN	NS	dns2.ci.bristol.ct.us.
+q1vgamarask9cb1v78bj5espq9trront.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. M1z7BFHO4sOJDwvEF5Z65buaiL5Z0UjFBYhIzNdV844+AcvfuXM46RBfoWR990IoVaA6eavmLqklirXRLYORbYFjLMq6Zz/WHa+8f+XqihItHk4K87rzVtZWQV1bTTLGx/XTaNrKs5BOjKSHUi0qGXiFk0n+GYxSbzOL3GSaezs=
+q1vgamarask9cb1v78bj5espq9trront.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  q20p8u979t1ud9qbd0i4hq595vaa6a5t NS 

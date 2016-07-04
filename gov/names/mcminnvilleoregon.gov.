@@ -1,0 +1,4 @@
+0fc2hqphcqplt1709vm549ln7abhr1i7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Sw/30kZxNetraRbVV59RYW6/8Cw++PwH9VsR6/eJyDZfDb+AJ4Bw05He3Y6AnH3lH1TWd3l+0xHzQUiXKhGJ4xGthbee26Xz67zDThSKHJRk/kwm5RReQaCIesyKkYedZt2KYHyPxHdvWNmKCPm1rETZqnnvoqDJxvfSTpPSJcE=
+0fc2hqphcqplt1709vm549ln7abhr1i7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0fd7hicnoo3jmd3mr7c8l9vaim756muh NS 
+mcminnvilleoregon.gov.	86400	IN	NS	dns1.onlinenw.com.
+mcminnvilleoregon.gov.	86400	IN	NS	dns2.onlinenw.com.

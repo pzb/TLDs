@@ -1,0 +1,4 @@
+32tqs76tos8siephnvk7ncpj74eqbuac.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. qdNPgMVBOSHwaRiHDJOYdmgKxSo/XeVJ4NnLYpEHEw+ZXcOhjsE4lebDMp7bk6GLg30M4ZzO+L8X0Z7iNBJ7b+FNFgfs4AJeWPjxR+Tja9E4Qe4pkCORdi1NfwGJErhHLYwv5FyEimJ5wzYpvSddNfkVpqew8ncQ5kQO1KEUQg8=
+32tqs76tos8siephnvk7ncpj74eqbuac.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  333o8elmrh99r09lclpn0cq7aeguc0ad NS 
+decaturcountyga.gov.	86400	IN	NS	ns14.qth.com.
+decaturcountyga.gov.	86400	IN	NS	ns15.qth.com.

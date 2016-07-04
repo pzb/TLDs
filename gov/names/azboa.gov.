@@ -1,0 +1,6 @@
+azboa.gov.	86400	IN	NS	ns-127.awsdns-15.com.
+azboa.gov.	86400	IN	NS	ns-787.awsdns-34.net.
+azboa.gov.	86400	IN	NS	ns-1208.awsdns-23.org.
+azboa.gov.	86400	IN	NS	ns-1921.awsdns-48.co.uk.
+e33n2s1sm3eksmimhipsqmltfqas8qal.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. NemlGu3KigxORF017a+zZc7TY09sAeGZss9ugBna6YaAzo+LSxGLj40nbhe6vR66tXaZD0XOh3pnzjeSe1RQQXSg5kVZEQbDeXwM8xXmpXrYEasw8kU5QhIH6kRK07VHWzvZXPMdM3JOh1OZg81cn8PWPdpcYhHv85b7pMYsyn0=
+e33n2s1sm3eksmimhipsqmltfqas8qal.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  e37sh75705ruke8f992uo0mp8hunk3d4 NS 

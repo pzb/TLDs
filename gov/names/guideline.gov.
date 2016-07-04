@@ -1,0 +1,14 @@
+rh202ns1.355.dhhs.gov.	86400	IN	A	158.74.30.98
+rh202ns1.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2a
+rh202ns2.355.dhhs.gov.	86400	IN	A	158.74.30.99
+rh202ns2.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2b
+rh120ns1.368.dhhs.gov.	86400	IN	A	158.74.30.102
+rh120ns1.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2c
+rh120ns2.368.dhhs.gov.	86400	IN	A	158.74.30.103
+rh120ns2.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2d
+guideline.gov.	86400	IN	NS	rh120ns1.368.dhhs.gov.
+guideline.gov.	86400	IN	NS	rh120ns2.368.dhhs.gov.
+guideline.gov.	86400	IN	NS	rh202ns1.355.dhhs.gov.
+guideline.gov.	86400	IN	NS	rh202ns2.355.dhhs.gov.
+guideline.gov.	3600	IN	DS	22329 8 2 78d996924eda4c688d9a377c0ae6931d63feea4c68123cec1827fffe72fb69d4
+guideline.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. YlXwX34wA2CMMcKswG7rZHp/VXbRNHsx4H5G23pJ0kfZDPqZn9twWvuuxK8ESvhnRiGaEXd5c5wSSN/O4hwByCVmmUYVKMSPr6r5Ysi8uwpMWJsvczmxumOh7BPU1GYPel4QVrkcZfqhe6QGEnLzekBWWdEc7v1BrF9p/xy7k8o=

@@ -1,0 +1,5 @@
+78soapkj39fj48a3amikf8005isj0gbr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wQO2Jb1nKnjqZhcpSrCBi8f9kCay5Y5sn7j8z5Zg91+1OUhWCoaNW3U42sbBR3+CVCPSOUXC1dFc6iRqkc76Rz2l6I+ss/pYOpc6V7+0QKWyH9k0cAy5ZmJkwRBbLB1Uc6PBUpnDZU84QJgpvZTL/4RZ+uEdlNhGqE92V2Nqrco=
+78soapkj39fj48a3amikf8005isj0gbr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7956vrok3g1oief4mvrv5rg3mv9l8is6 NS 
+huetter-id.gov.	86400	IN	NS	a.ns.interland.net.
+huetter-id.gov.	86400	IN	NS	b.ns.interland.net.
+huetter-id.gov.	86400	IN	NS	c.ns.interland.net.

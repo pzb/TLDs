@@ -1,0 +1,4 @@
+casagrandeaz.gov.	86400	IN	NS	pdns07.domaincontrol.com.
+casagrandeaz.gov.	86400	IN	NS	pdns08.domaincontrol.com.
+u5n8ipnjq6ii3p8gnovd12m637jm0rt6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. nyH5oXflDhmLpqOXU20Glrea6kEabqccYCNpEGb7E3UmOQaQfP/rcTUDK5K+sWAT1SFhruKET6QNO9hVYJOQglcpRM4MR3x67BIMr51lgS3y4EBG2RBd1faho3hMH4xytuwRgQNzL96nCwplC0qTrGSxJFkrQCmq/mCif9o/4iE=
+u5n8ipnjq6ii3p8gnovd12m637jm0rt6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  u61rashngm4g3r3mk7i66h8el4cpj81t NS 

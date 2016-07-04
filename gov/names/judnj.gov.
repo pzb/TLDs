@@ -1,0 +1,5 @@
+5rp1bvqv8gsb0k1m0l47s9l2utiruo12.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ZH/Zrz6F3drSh33NRpgK0zDYZ1knFUnsVggTuWarotAAKktDsDKxr3JfQXUfdNJ4aLxHlM8RuMohYgv/ktrcmgr+NgOJxuGTtAERgCZvOnvDErNaW36ohPCE08uOo08O7uqy8xIgO23AVJ/hVDTqfROJbnKP8Wjf0Ii+qrURmqA=
+5rp1bvqv8gsb0k1m0l47s9l2utiruo12.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5rsb0koipnao9rh1fam63r2852no9kv8 NS 
+judnj.gov.	86400	IN	NS	a1.verisigndns.com.
+judnj.gov.	86400	IN	NS	a2.verisigndns.com.
+judnj.gov.	86400	IN	NS	a3.verisigndns.com.

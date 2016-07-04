@@ -1,0 +1,9 @@
+ntrc.gov.	86400	IN	NS	ns0.ornl.gov.
+ntrc.gov.	86400	IN	NS	adns1.es.net.
+ntrc.gov.	86400	IN	NS	adns2.es.net.
+ntrc.gov.	86400	IN	NS	ns0-alt.ornl.gov.
+ntrc.gov.	3600	IN	DS	28265 7 1 e6660ea89aa196a8f9877b921e3324e7b819654e
+ntrc.gov.	3600	IN	DS	28265 7 2 90292f0758df9c11da05bbbec1fe97414b46973866d3eecd4f76e517a4999892
+ntrc.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. gdKDHt+XwhpodzIYpythaKLBR7CQOArHbME7OM39Z5CjS03mHiKQ43beRRGyo0vF5Q/ruQjM2YRYsv6ds2MB3+jlphB47Ezhm/bKWC2UetwW7aoBYhHtWFUnULoeYMd1tkzigZ0RPp0f9v5JBQlMuQ8VTJFdWjkfY1x7JUT+2f4=
+ns0.ornl.gov.	86400	IN	A	128.219.177.244
+ns0-alt.ornl.gov.	86400	IN	A	128.219.177.246

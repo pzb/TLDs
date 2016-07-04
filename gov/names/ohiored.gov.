@@ -1,0 +1,6 @@
+mk0obf3n9fjvk25k7hme2ufg3tfuaihi.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. mLPVPKkeIWzCvEGkA64mn0tDi1t6Li62OhPhMWA/POIOmOKatpKOSMj4Mus0NPbsyV2oBvPt7VS1WT+iiJ4V1MaZdc0XtvUkaAvNWu3yoruNX6Jz77BKJDrkQ41FIww+p0SF7wXpRUd6lr5EwwCUVxRWvMcuRTatGaORIpaHniE=
+mk0obf3n9fjvk25k7hme2ufg3tfuaihi.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mkca27ifep568dnuf9ht4kogmamsisro NS 
+ohiored.gov.	86400	IN	NS	ns1.state.oh.us.
+ohiored.gov.	86400	IN	NS	ns2.state.oh.us.
+ohiored.gov.	86400	IN	NS	ns3.state.oh.us.
+ohiored.gov.	86400	IN	NS	ns4.state.oh.us.

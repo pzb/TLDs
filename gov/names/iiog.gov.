@@ -1,0 +1,6 @@
+iiog.gov.	86400	IN	NS	fsdns1.fs.fed.us.
+iiog.gov.	86400	IN	NS	fsdns3.fs.fed.us.
+iiog.gov.	86400	IN	NS	fsdns4.fs.fed.us.
+iiog.gov.	3600	IN	DS	32161 8 1 18b8592aab17493ada1c1e9c1bc6ecbce76e9beb
+iiog.gov.	3600	IN	DS	32161 8 2 e101401f0bcf347a61bac511c257ca7ddd6d3983df5eebc2d152912f7126eae7
+iiog.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. txxIckQJAXql2L95f3XttSX3+TuCPv7DdSi++bkLkrukz/Kw+IlIbUvQ+Sv4I6pXPyKbivvuilWlrqhySN2tDfdbz2N+zOaqghX4YIdgZIQclgCokHH8VaTFjajiAnPFzYCIM9mRCfZJmTMOigbc5iZ1cmjXGu61YZSia9HHxm0=

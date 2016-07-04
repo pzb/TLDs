@@ -1,0 +1,4 @@
+fortcollins-co.gov.	86400	IN	NS	ns3.fcgov.com.
+fortcollins-co.gov.	86400	IN	NS	ns4.fcgov.com.
+npv0o18s2cbcuotsoish68hh4ico74jc.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. uVCMk7hNhDfTw3Ndr2X6YEmJ0Okn/DiHX+AbRL1/AO9V78Ivy7fKv/NptBhjprrPDYn5VKf1f7GyuOpquS3FEpXcHEpN0ZrQBNRvZUdmgVABaxu+51qIrwIHR1PjHb4tMfybkzMJzAuhmM4DP1UlsQTKA04DUxxbQVvAyjt825M=
+npv0o18s2cbcuotsoish68hh4ico74jc.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  nqc8124dp9l3np06sa2b7uoh062v6eal NS 

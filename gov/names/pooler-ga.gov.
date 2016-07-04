@@ -1,0 +1,4 @@
+45mq5ib3pic1vbetbf6mvkfmqf72t2pm.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. SVzuKxoHRT1k3zg+sDYOlJdyjMzLLat7JEXgUcG4AghWPNeL9/tfnxGrNXQCr4c11iVjNAithfljUkqSUzRMM0huMYEXCYojD6NdCbm2sp4ubXsTJKYKoMwd8uT7LwNrLCvrvkdQxRWDPdfznpyjX81j2YbY/AVYj1SOoJL9mig=
+45mq5ib3pic1vbetbf6mvkfmqf72t2pm.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  45osf38sjlhdtengijj850ed3tik8uie NS 
+pooler-ga.gov.	86400	IN	NS	ns07.domaincontrol.com.
+pooler-ga.gov.	86400	IN	NS	ns08.domaincontrol.com.

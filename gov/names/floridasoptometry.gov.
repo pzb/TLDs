@@ -1,0 +1,4 @@
+floridasoptometry.gov.	86400	IN	NS	ns1.mqawebteam.com.
+floridasoptometry.gov.	86400	IN	NS	ns2.mqawebteam.com.
+rclo64h7adm13e0s0fvqb4vq4631ueek.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. RfBrFiaJJ2J0sYA07CmZhT/BZB41fLlPnHelz7kg2bvK9DEYVBl7liCVE7XEpdFuMZ/zP51FEqYh14znXC15iaNCjJOZmV7KeX9R/6FhDiHzBmz7zbn0wUlYNeLyAdCtWDXWm1r9eUTo8GWxUjZyFTOivhfd4wNbk1I7xPQFWbw=
+rclo64h7adm13e0s0fvqb4vq4631ueek.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  rcqelsbo267ailcqg4lap2ma8ejrm7mn NS 

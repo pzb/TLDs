@@ -1,0 +1,4 @@
+9nph8v6rd7kg79m2ie936qsduagsuhgc.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. qJTc15EGsZJeXVx5p0iAZY/CdFlwfb3+YkF6nhquqsX4Izdz2GzW3TjGhQqwc9a+UR30GnO7m1gFVD9xv9LjvSd/99YxsBAWtgsSlyn9GdoLzD0mfjiumwc1peibmsCp9J7Huv2DbAbJ7PTsKZ0oxkF0trEfJ67/1l4pgh9HBPc=
+9nph8v6rd7kg79m2ie936qsduagsuhgc.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9nv5vu1ggklebgm1ghc2taue0342lakh NS 
+miamicountyin.gov.	86400	IN	NS	ns1.ussignalcom.net.
+miamicountyin.gov.	86400	IN	NS	ns2.ussignalcom.net.

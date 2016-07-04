@@ -1,0 +1,6 @@
+sanmiguelcountyco.gov.	86400	IN	NS	a1.verisigndns.com.
+sanmiguelcountyco.gov.	86400	IN	NS	a2.verisigndns.com.
+sanmiguelcountyco.gov.	86400	IN	NS	a3.verisigndns.com.
+sanmiguelcountyco.gov.	3600	IN	DS	35028 8 1 a3611d47e77528901569ed40abc753940309d027
+sanmiguelcountyco.gov.	3600	IN	DS	35028 8 2 6c57e13bfc95ed8def4c78ceb28464dd466b4590c4f437e323a5783e72217062
+sanmiguelcountyco.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Nre/fqRDVk7+9apXZkYci29Wwsqbzw/T6WYvlkdC9Ioz9twKlVUd1a2mtOoYsUwQwiv6mQbqY/nclg8aKc1t3lHu7oHoyQLlkjOESL5yOjZh2+VKLVRCa61R7nhRhYfottz+UKXfrC+gw2+xjXn9bBszUY4N8NI435RDo7Z+qg8=

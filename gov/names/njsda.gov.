@@ -1,0 +1,6 @@
+88lh41volv4hpc9k3n8tci5fnkask31s.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. QCgwLMc1pOeWtHQY1p7Bkn0YlJ3DUfuKlLKOAkI36Te/TpPWci+UymG7Tm3NA5AhHW0lIgowscC4IfflWk4EqKLAXxJaZ0ej3F62Aix0wReUbR+pPOpgHBfD3qcZHEDn+62Y+fmlrfgBMe956ewPPeOyUL3n4VoEwKt4nTz/4is=
+88lh41volv4hpc9k3n8tci5fnkask31s.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  88rm7qgf26i8tsab1gviv2cegacf7b0a NS 
+njsda.gov.	86400	IN	NS	ns-207.awsdns-25.com.
+njsda.gov.	86400	IN	NS	ns-661.awsdns-18.net.
+njsda.gov.	86400	IN	NS	ns-1275.awsdns-31.org.
+njsda.gov.	86400	IN	NS	ns-1556.awsdns-02.co.uk.

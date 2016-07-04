@@ -1,0 +1,6 @@
+et04j2p3r970km0aebbdr98jii1gsmnr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. aUgihGTQ87clViSzVfa4lLrMSNMArAgtpjWTFNUOT8N327IQvznhGFVHv+FZjIvvHHJLhTZcaVopLzHHmuVSQh6IQRbPFbN0qHWzoTst3YT9qIbUVm4JrjQeR9y1DmGJuifmPBZ+G5MNSAPUqTam/KWGs7B6E7v/uXV6LnVDbFQ=
+et04j2p3r970km0aebbdr98jii1gsmnr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  et28kstmn2sntteclbdm3pnu0jj8hog9 NS 
+dns4.tn.gov.	86400	IN	A	170.142.92.58
+dns5.tn.gov.	86400	IN	A	170.141.168.22
+workforceonetouchtn.gov.	86400	IN	NS	dns4.tn.gov.
+workforceonetouchtn.gov.	86400	IN	NS	dns5.tn.gov.

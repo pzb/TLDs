@@ -1,0 +1,4 @@
+alsenate.gov.	86400	IN	NS	ns3.asc.edu.
+alsenate.gov.	86400	IN	NS	asnsvr.asc.edu.
+nthtpam9de18p1tobn8sdluj1b7f56d5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. LTYhSFRzHiFkbWfGi6JIS1Wxq32MWpPOMIwVcRu5/gzATpl/MCUAxqbkexCpsSw7qL2BzXvxDSgv84ZYCSzFDHRrVfWHrWOsnCkYO2RLNfXyS+T0VuisrnWt8h2bRISfz8UsdaDelKNXlpzFkmIe3lpVAKYQAGneDUBeET9baRY=
+nthtpam9de18p1tobn8sdluj1b7f56d5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  nu0l2ktep51ujaqqkrsbosi26rh5i58a NS 

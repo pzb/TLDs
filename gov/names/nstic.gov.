@@ -1,0 +1,7 @@
+bea.nist.gov.	86400	IN	A	132.163.4.10
+gea.nist.gov.	86400	IN	A	129.6.13.3
+nstic.gov.	86400	IN	NS	bea.nist.gov.
+nstic.gov.	86400	IN	NS	gea.nist.gov.
+nstic.gov.	3600	IN	DS	14301 7 1 c5e1f69807f1b4457fb50ddc4f8475fca294dcd7
+nstic.gov.	3600	IN	DS	14301 7 2 3aa2f1b7b65453525b373838dda65f45efb006c2ad5c997cc128fa5eafb00414
+nstic.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Wmey4X4HKlciI5+wag9G4cVht7zwjJI/n/V2y+NlZQzJpngI7AXHHa/kmTNBR2+kzpCn/kNQDcrQIraVlHoS5wcHySqKj0OYeVChEx9G8KjasAJQ8as0zC6gxI0vV6emaES3KJE/DmBC2EjbLhr9aMgiMb0Kxa2x8YcVLBVYwls=

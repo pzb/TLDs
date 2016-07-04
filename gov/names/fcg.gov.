@@ -1,0 +1,9 @@
+fcg.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+fcg.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+fcg.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+fcg.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+fcg.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+fcg.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+fcg.gov.	3600	IN	DS	40020 7 1 b2f897afad5b37348b32308f53d9d5b1894470b5
+fcg.gov.	3600	IN	DS	40020 7 2 ff67c03706e432f5581d14ccd0c07ab56c620a4fd3eb8b0bea06191c35681161
+fcg.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. d1yUthYONbEg6ctvAoKhS4wQTcNXVmQwovIk/OqaELlgBhAJp/gddKrf/JLzkfOjyB/knbexTAvktkOO2v32eE26RDjqk0VELhk/JtFt6IvRhTuUtcw6uWuxw+EASgQrMWDIE+dY86JdI/muE3eyLAqGjJxscT3ZO+WwS1dMGDo=

@@ -1,0 +1,11 @@
+dren.mil.	21600	IN	NS	ns1.arl.hpc.mil.
+dren.mil.	21600	IN	NS	auth-east.dren.mil.
+dren.mil.	21600	IN	NS	auth-west.dren.mil.
+auth-east.dren.mil.	21600	IN	A	140.32.59.226
+auth-east.dren.mil.	21600	IN	AAAA	2001:480:a0:f003::226
+auth-west.dren.mil.	21600	IN	A	140.32.61.226
+auth-west.dren.mil.	21600	IN	AAAA	2001:480:b0:f003::226
+hcn6pfeaeo5kv9i415qsso1qlet04g2o.mil.	10800	IN	RRSIG	NSEC3 8 2 10800 20160708161835 20160701161835 16413 mil. H326bSQfXFSyiL/EgY4oDKLYysOkOi4glttrdOod2cZt9Z9tbRRux7cPwcg5V8SFA0ZrZuB2EPTaxTDn6iyjAf/BwIBCiY3ZH/ExGYJyEKgv0CPdvB/4d/VKm05thWNZN/bMffepVb3f6m/79489QV2UvRBDDJP9sVfG66ex1+YsU28=
+hcn6pfeaeo5kv9i415qsso1qlet04g2o.mil.	10800	IN	NSEC3	1 0 10 adeb  he0tajc90o0eaj6dc51ffs8geg8tp1q9 NS 
+ns1.arl.hpc.mil.	21600	IN	A	140.32.131.142
+ns1.arl.hpc.mil.	21600	IN	AAAA	2001:480:31:ffff::53

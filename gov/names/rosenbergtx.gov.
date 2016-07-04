@@ -1,0 +1,4 @@
+rosenbergtx.gov.	86400	IN	NS	ns1.bdm.microsoftonline.com.
+rosenbergtx.gov.	86400	IN	NS	ns2.bdm.microsoftonline.com.
+ukq24k9ke59iub07f1c0i02ufuj31pff.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. N+geqlU7ni1UgxJ4PAJEdG/aqCI5u6bkrBEXJ80HOLtAj3o+CaCAB/e0rZdq0OewJHckrdmxfDqpWcLG9e+L8k+pwjfCO+S5Ox8kHNTvAh+JlFuFspFyLT7/HIQGhAi46yLJNy96aOOiAmHjGMIHMiUH1gteKk/N/wCSfgK6Qws=
+ukq24k9ke59iub07f1c0i02ufuj31pff.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ukqudlqh37fijb6smfa2qo0ntne82vjs NS 

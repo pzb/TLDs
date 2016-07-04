@@ -1,0 +1,4 @@
+5mu652i3a82d28cool0fdubi590t9g35.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. VEwk0S3Dquggp1G5PulL7sLqgP2X3JxLsW7BjlrMxH/E22aIgTRCtb4SJMMpSH7YnjPCLE8CiNEmExr2q3r8y3ODGUi/P8gA+/0GtzLMUzsGYojiInJgaEPTg43U1Pf2af/4xOmR6je+q3yt8LJEQFhg7d12TpZj4fLtABr/52w=
+5mu652i3a82d28cool0fdubi590t9g35.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5n68eptv4cu7jo177ir0tlro49ljtk82 NS 
+summerscountywv.gov.	86400	IN	NS	ns17.domaincontrol.com.
+summerscountywv.gov.	86400	IN	NS	ns18.domaincontrol.com.

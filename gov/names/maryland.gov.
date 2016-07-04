@@ -1,0 +1,7 @@
+maryland.gov.	86400	IN	NS	nsa.mdarchives.state.md.us.
+maryland.gov.	86400	IN	NS	nsb.mdarchives.state.md.us.
+maryland.gov.	86400	IN	NS	nsc.mdsa.net.
+maryland.gov.	86400	IN	NS	nsd.mdsa.net.
+maryland.gov.	3600	IN	DS	907 5 1 10da425a30c63f04ebc0051d250cac6424a9d27c
+maryland.gov.	3600	IN	DS	907 5 2 c32a81da811b7cf078a83ea7c9f5b35f7031f263a939ef6319b623862f43b3a3
+maryland.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. LkysobNjd0EGW57eFkPq55NLfET9TDXmIK2RNrPKI8pQ8GOEgY0pljJoSjx5+oZ5pQ4K5G3fYdvlureXw/6cY2Ek5tZTbcNAHCRCZv/XcnWPgNrC8WidrEwhS1nQgXukqJhWl1bbTyJYytJaeT4YDzHMIlRTjSVJ4Vx9viqa108=

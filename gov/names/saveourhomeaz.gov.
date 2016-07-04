@@ -1,0 +1,6 @@
+saveourhomeaz.gov.	86400	IN	NS	ns-5.awsdns-00.com.
+saveourhomeaz.gov.	86400	IN	NS	ns-1002.awsdns-61.net.
+saveourhomeaz.gov.	86400	IN	NS	ns-1179.awsdns-19.org.
+saveourhomeaz.gov.	86400	IN	NS	ns-1847.awsdns-38.co.uk.
+uuln2kotq2ppu91tnu4rofstrtscpnmv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. nmiaYig1zeKA1oLjMMBb+wizniYM5j4US33yC2BbMU4HaF4XCsK2IkWwnfr5MN5xb2tlHMVR7qdiAG7xuc8Ppy+Rmla+RZOFyKlmsuH0AYq04TygDEdjyvNJyiRKE14XzjmtKcL8c7ZEw57JivbMKgjlbtev+ck9c+0qOD9pmBk=
+uuln2kotq2ppu91tnu4rofstrtscpnmv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  uum562auv2c86e7nfg02p1pbpqdsqvsm NS 

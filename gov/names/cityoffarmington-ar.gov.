@@ -1,0 +1,4 @@
+cityoffarmington-ar.gov.	86400	IN	NS	dns1.neonova.net.
+cityoffarmington-ar.gov.	86400	IN	NS	dns2.neonova.net.
+jsrjlghuusab21itulctl40dgsi3p447.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. DD6NzRgNU6sml5B0AeSZrAIu33tZQbKI5QbEM/WIHlMCgU9psDxmzi45JrK241F/lNQBaFgtXy0koiS/2aQL1PQqlprjeUmzDzmdsWWWG1TNw6eS4IcZiStC7VWp7DJJ5xDA0tET7POA9ho52DirdxU+Vpmc9sjpGZH2o67hLJ4=
+jsrjlghuusab21itulctl40dgsi3p447.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jssqkqm17atvt87lvn8k4gsod7mscagr NS 

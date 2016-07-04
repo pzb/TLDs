@@ -1,0 +1,9 @@
+ns01.fdic.gov.	86400	IN	A	167.176.6.78
+ns02.fdic.gov.	86400	IN	A	167.176.16.77
+ns03.fdic.gov.	86400	IN	A	167.176.26.77
+fdicseguro.gov.	86400	IN	NS	ns01.fdic.gov.
+fdicseguro.gov.	86400	IN	NS	ns02.fdic.gov.
+fdicseguro.gov.	86400	IN	NS	ns03.fdic.gov.
+fdicseguro.gov.	3600	IN	DS	47320 8 1 f09473ea3c6ef2ec435cd602ad4c63a1496c99ee
+fdicseguro.gov.	3600	IN	DS	47320 8 2 779c5ea3aee0c3fdce3b59bb180adc72d61c65d28217c6e9dec41aecb187974f
+fdicseguro.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. wr2Nl7R0vSeIcr/XxLhl8EDy4gWeylFewVTkr2VB5FoSPhwZC/yB5OO/x2KkQhb33Ht++U9r7u9S3f1lp8/W9Fg0qp4fA6SvqXQjuyIlV1YSN3XhXtcT4kzIpZg7SMjO37W/qhUVtBmP9pqIZpHN7ibPSQZM9XDzWFCfhmxq7U8=

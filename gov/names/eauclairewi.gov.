@@ -1,0 +1,4 @@
+eauclairewi.gov.	86400	IN	NS	dns.uw-mad.wiscnet.net.
+eauclairewi.gov.	86400	IN	NS	dns.uw-mil.wiscnet.net.
+vouj7c36j52rq3ojkni1c7uamj7ad1al.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. D+EQoVA8VHY06GzrQPadUEp9ESg6ZpadsStPp2EeyU4WKCR8gjeOTcGnqe1XhiJRO3Kuaosbz8cdeo65WWV45IRxSXzIJluTROm1uK6wgzNJLsKyd70VOZt9A94GZBvZp9VaVi4spoLOetO0X0Rjx/lTLPMxzlcs7FWeLM9hXuY=
+vouj7c36j52rq3ojkni1c7uamj7ad1al.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vp0oacldn65fjh5dfsn1tectgl0b5fl3 NS 

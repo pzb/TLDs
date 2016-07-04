@@ -1,0 +1,4 @@
+ovf41t48dff5eqncrfb40sgl27perljt.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. pYmJ7fjnYfoBuundNdoQm3Jbhd7ZAg7FkN6Y39g7vU8WxrL5qLrswUOcQ8IM+Zdj65wy7jQ6LBtqSgrN9h4i5i3ZbmzlJbWi8kw4vs5T6HGxWcj032PHtvi8zmMSXupw2Jvz1IEcmzW3Ng0u8l8V2m69gkdfTVH3QftfG3sonj8=
+ovf41t48dff5eqncrfb40sgl27perljt.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ovh2kcfe875sijgir9c1m1vbo7e871ku NS 
+valleycountymt.gov.	86400	IN	NS	ns77.domaincontrol.com.
+valleycountymt.gov.	86400	IN	NS	ns78.domaincontrol.com.

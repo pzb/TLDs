@@ -1,0 +1,6 @@
+8644em2dee4n6s4vf54bif0jjldr9ihs.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. m+4o63ggeQL5JHhapMVwq8B156z9LbQS3cqBf8j8Rn3m2gAZTGxwKH5T/OTaJn6ftNuBFiwjOMED3woogRanl6LEzcKYbLLvmStk2IlLQfmuwCrLq4CVq2qzSBaUGIahbYGbx3D9Gmh2wxvdxnQeRRiM0k1btUAjTRGLdrNRoGA=
+8644em2dee4n6s4vf54bif0jjldr9ihs.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  864jo9gdj6l924nkotk1lijd4mkr2krg NS 
+dns4.tn.gov.	86400	IN	A	170.142.92.58
+dns5.tn.gov.	86400	IN	A	170.141.168.22
+trusttennessee.gov.	86400	IN	NS	dns4.tn.gov.
+trusttennessee.gov.	86400	IN	NS	dns5.tn.gov.

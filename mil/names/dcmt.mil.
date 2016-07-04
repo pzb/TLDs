@@ -1,0 +1,6 @@
+dcmt.mil.	21600	IN	NS	dcmtns01.dcmt.mil.
+dcmt.mil.	21600	IN	NS	dcmtns02.dcmt.mil.
+dcmt.mil.	10800	IN	DS	50383 5 1 066d355086ff4f542634a64b9855ccdaf840c7b0
+dcmt.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. EICeP2ltyZSMEEbngsYb5XA5ObPzg4sqnzV1qbCtsJt3w6w584N97+gO5JOvdCwyscmcPyu9X5ZCrN/Cf6wQauitFYySzneUX2IRbBAddIvDyThtyStlbDmbzEa3Ypv0ehHiqHV3YM8L2Dmjczv22DjslZfzFHycSVuxJzMw2aBtKFw=
+dcmtns01.dcmt.mil.	21600	IN	A	214.38.128.50
+dcmtns02.dcmt.mil.	21600	IN	A	214.38.128.53

@@ -1,0 +1,4 @@
+akgksp7pt3p6t4mv8fjg59kb0qoismk9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. C2D/+Wm5/tjauTRDdxsgpj6Z7ZvU6Sf/EVmfLTk0lLT8IpRUFUBe0zjg94kFMVCTxEEOSwuRFs4/y4oleVRoBcDFoYgstw/rxKN+nnpm1YzPD1mG9tkk2rl5+EsuSNjd7/ORSi/PK4cVR2sTYuWb0laUShPfv/ltTWPY6bD7rBA=
+akgksp7pt3p6t4mv8fjg59kb0qoismk9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  akr12gp9jhtqtrh036fsjk2jr2ph72iv NS 
+kingstonsprings-tn.gov.	86400	IN	NS	ns1.atiba.com.
+kingstonsprings-tn.gov.	86400	IN	NS	atibant01.atiba.com.

@@ -1,0 +1,4 @@
+f2gn2k6a2nqioe9k5j9l680sovoc1qfn.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. deruKrAnnmR7PwAzeOykwwwTOLaQpzqCVTJLSYqZHKdStOhspGa5Qe181fA6g37nVtysTUlR3Dn/rMgErDAmNfVFnAVv/wwET0Q1HtP3xvRsXBGG/w698ZdGXfTxhQ3wc1jVZnHxIWdwspvLgGmjRC6C7J2CuFAJlLMzy77NZAw=
+f2gn2k6a2nqioe9k5j9l680sovoc1qfn.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  f2qib0q2ensvigjrb0ng28h25qkp50of NS 
+lakeville-mn.gov.	86400	IN	NS	ns1.state.mn.us.
+lakeville-mn.gov.	86400	IN	NS	ns2.state.mn.us.

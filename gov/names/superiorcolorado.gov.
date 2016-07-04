@@ -1,0 +1,4 @@
+gg3fm8fj5ipp55i4c5a6e5un6v82dnus.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fL83oYil+1A0pIY59eC9k+t7+uXKXYAwx4hQ+cCcJTnJlJhTLgVKm14Nh+5bRE3THh0SYm8nkmoGYPsGijDbkWSrqiBOAL1wfRdM1lLBijz7Y1FW9POO9ryV6cyP1v5Bk4C50KGfaU+I80h/2m5LCuauEbIOl4pJKXW4YGOjQyY=
+gg3fm8fj5ipp55i4c5a6e5un6v82dnus.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  gg4jd14g3oou2aajk99s9mnq7vqhb03m NS 
+superiorcolorado.gov.	86400	IN	NS	ns4.zoneedit.com.
+superiorcolorado.gov.	86400	IN	NS	ns13.zoneedit.com.

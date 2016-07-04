@@ -1,0 +1,7 @@
+azactic.gov.	86400	IN	NS	ns0.dnsmadeeasy.com.
+azactic.gov.	86400	IN	NS	ns1.dnsmadeeasy.com.
+azactic.gov.	86400	IN	NS	ns2.dnsmadeeasy.com.
+azactic.gov.	86400	IN	NS	ns3.dnsmadeeasy.com.
+azactic.gov.	86400	IN	NS	ns4.dnsmadeeasy.com.
+ktr5jgq73c3v85b8v0ggotisukg6g8jm.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. EohNh4K2gSxQFJc80R0+skXGFnRD/dUIB2N7X7h3hMX2J/xeQ8XJcN+vQ0RAbRJoH7wr35ufbR7msh4filrl19vnyMcbR+Sb+UaaG/Jy1xkqU4sRoUTUwzst81DM9vo6hCI6HBMY7aTiFD3gT4of8gv6KK3/NuRzgTMHkZryDSk=
+ktr5jgq73c3v85b8v0ggotisukg6g8jm.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ktr7cn0o1t9ah4ipk5q5qrb932nh5rhk NS 

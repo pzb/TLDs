@@ -1,0 +1,6 @@
+alacourt.gov.	86400	IN	NS	ns2.alacourt.gov.
+alacourt.gov.	86400	IN	NS	ns3.alacourt.gov.
+ns2.alacourt.gov.	86400	IN	A	72.159.229.134
+ns3.alacourt.gov.	86400	IN	A	72.159.229.132
+llpu5vtttm2gt4vbdckmfsuk1j2l72jv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Uz1wL9CcvofNJVU+1D8gLMYr+nYvhxYE1IV+lYXBfA2TFQP4iWw3ATOY+PmhqS0lNEp2T8Ytp8Wh/mMPSymt42itu/P4YGsHs4SdLRFgafOQAk+RK7WQG2+wOvMRb2iax9FeunPgaVA4KjbYuXAWllR5q5Dea1NqhK6ljLO57w4=
+llpu5vtttm2gt4vbdckmfsuk1j2l72jv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  lmhvi4g851u2ls6755bj8o7b5557stcg NS 

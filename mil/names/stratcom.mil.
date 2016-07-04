@@ -1,0 +1,7 @@
+stratcom.mil.	21600	IN	NS	kingfisher1.stratcom.mil.
+stratcom.mil.	21600	IN	NS	kingfisher2.stratcom.mil.
+stratcom.mil.	10800	IN	DS	48381 7 1 bece4afa2cc920552c7bba4f8856969cd4c8c9dc
+stratcom.mil.	10800	IN	DS	48381 7 2 34b5fa2f31eb2ee6425328d56b2f6c231e78acf4b9db6fd66500845458d539e0
+stratcom.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. oN6G0AWWSqhEiW/GAjuiFahAtiMPxI4wmxK2fz9bVcwpE5WWuR/0yJEvSGk1OfjoxoDWYPXunBCqFoPDS+JUpfqQmdNQbIcLO/jUCf7hmG9hcryWfSrIv2vEyu0fB8CwnlKMMGxfn8q04rWuBa6nRvjcSCuqzJJ3sz5l6OKKDMqNgxU=
+kingfisher1.stratcom.mil.	21600	IN	A	143.250.3.75
+kingfisher2.stratcom.mil.	21600	IN	A	143.250.4.75

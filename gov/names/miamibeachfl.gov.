@@ -1,0 +1,4 @@
+8imd00lapm0de9s3tnml1lhuhm43s260.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. oVTH44j0bSu8U6oOXZD7ncUE6vQekJa65UAdgm5gRkeoZZLaV9J444U0LoBk0eHqoCLFpK7KQSjMqgFWPkpAiuU96WYfJu+hxCHRHxZhxmX7bWcJXyhDXevpYZv2c6Xeb/kX9RKaFw1G/SGdEPTGcGJiOaI+gLyZdTKpm809rTc=
+8imd00lapm0de9s3tnml1lhuhm43s260.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8itvo5htp84g8gnqlq45578ouhf2u3u2 NS 
+miamibeachfl.gov.	86400	IN	NS	ns1.terrenap.net.
+miamibeachfl.gov.	86400	IN	NS	ns2.terrenap.net.

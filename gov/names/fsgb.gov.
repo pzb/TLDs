@@ -1,0 +1,6 @@
+fsgb.gov.	86400	IN	NS	authns1.centurylink.net.
+fsgb.gov.	86400	IN	NS	authns2.centurylink.net.
+fsgb.gov.	86400	IN	NS	tpsns11.terrenap.net.
+fsgb.gov.	86400	IN	NS	tpsns12.terrenap.net.
+fsgb.gov.	3600	IN	DS	34920 7 1 b134b062500f759e43483000e42be2054856b231
+fsgb.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. sRERfsLGVDUSHXQp7d8ZcsERvuVZmGwwdsSp3ZxuWCucx4BB+gCUulhF5w5S3u7TO2JqOz43+AgsccImf+uNxs96PWHojNh62eRQENuktOfiQWIWWJuX/p+I/6ElfYWkSAg3WG1kUkFSUT6qLf1yFaAo92RB7gJmwQXFhx/5pF8=

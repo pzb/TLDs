@@ -1,0 +1,5 @@
+carrboronc.gov.	86400	IN	NS	ncnoc.ncren.net.
+carrboronc.gov.	86400	IN	NS	reggae.ncren.net.
+carrboronc.gov.	86400	IN	NS	chlt-ns1.ncren.net.
+g81i62jfqkdp475rshfi9qfhqk48riub.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hlgu7mT+yL39YlGqaYtnySL9D8yt80pe7xo8IGeJotKUBELdihVbv0UWctAlEsKOmblk5fivKnQiyKR9RVk15dZsD5kppVffeGFjXqMGwyB4KJDM3AUfaCxB4Aa+fRKHz9CXnBL2+7AAUB8T2YwsCRJyyw6e95M1/7VxT5eBXK4=
+g81i62jfqkdp475rshfi9qfhqk48riub.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  g8b8lenikupa9834reedmblo0asnmpqv NS 

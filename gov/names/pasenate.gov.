@@ -1,0 +1,7 @@
+iemf41ou3jvj7ids02j4c75579bdi8lo.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. uJbkMtk1opaonJSWomIFetH9GTCKsUj2l/47MGPgY5311IsfS3WZixfS4Lml3oYyDinHWmPfApGgjzwSLuXyc9FhBrDjSaWB5ppIsiKZLm++Wm5nBo/SuligvNWxt8Byr/YW2TOLbVulj+p2Qezjl9yN3qkLfnrZrIEf4WJaiec=
+iemf41ou3jvj7ids02j4c75579bdi8lo.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ietaibscjqkbhbdil11jc5vqqa4j51a0 NS 
+sengate.pasen.gov.	86400	IN	A	170.47.1.2
+sengate2.pasen.gov.	86400	IN	A	170.47.1.5
+pasenate.gov.	86400	IN	NS	ns2.legis.state.pa.us.
+pasenate.gov.	86400	IN	NS	sengate.pasen.gov.
+pasenate.gov.	86400	IN	NS	sengate2.pasen.gov.

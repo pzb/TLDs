@@ -1,0 +1,4 @@
+ms8iphaabt198gr2s2orn8e21use70lh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. c7ibSq3kzv1GRmuXX+P8jVbDuOeJzg4S6gG09hIPqC3ZZEpkszUxBCI8VhdK11uMlgEIy4xgBxRS3DKgP9jY0xJLrD2gm9v3chr5fs4SoiD8DdSXgdyYN12N3rMQ9QHrllxcMQo4smMmd9v89YbmCsVnwxE3SGH6pk8w8AeUHCc=
+ms8iphaabt198gr2s2orn8e21use70lh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  msht935fspj1ib2gag28f1dndgfg9mo1 NS 
+nevadacityca.gov.	86400	IN	NS	ns1.peer1.net.
+nevadacityca.gov.	86400	IN	NS	ns2.peer1.net.

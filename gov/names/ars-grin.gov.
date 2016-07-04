@@ -1,0 +1,7 @@
+ars-grin.gov.	86400	IN	NS	ice.ars-grin.gov.
+ars-grin.gov.	86400	IN	NS	slim.ars-grin.gov.
+ars-grin.gov.	3600	IN	DS	24426 8 1 7ca4ef408db329e45371742d58e9df709d16b92a
+ars-grin.gov.	3600	IN	DS	24426 8 2 e3423c6a5dd2b432a0d6d6405bba8d685518a7ba123429495a906430aa7eafff
+ars-grin.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. YpBbJrtzFD1/1UcW9i8Z97Z8BbguioAcclagqbpKHlXZVVQduAKEX4fJs6SKRvwkWoy5/Dopf6g6dqaSa+pjgnRheLNZOCFMCGLE0EXC9dTodMzq5/hz7f4uKLbwKODtGA+hD+hofxm9NDu2MD7yS8BYEVpCj16tqDGTmh3SXOc=
+ice.ars-grin.gov.	86400	IN	A	199.133.55.19
+slim.ars-grin.gov.	86400	IN	A	199.133.55.18

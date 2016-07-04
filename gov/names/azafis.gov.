@@ -1,0 +1,7 @@
+8viht3hefgsamcih8t8md1mi10rd7n9c.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fUAbMaEoxSkCgmksXeCXHssI65w2u5WSUKTkFmMUccpMtBFwqBHqSAMr0KtPOcPNTeZX2dvLS8OZELBQd+O24QE1Zx2TnrBY8zFv+4/TbWb74C12VvVy/VDyZ/34yO2cVabpkcg6EPjdyAJvnT/UvAxkhgCjhSs1Y8JrGBJVKnI=
+8viht3hefgsamcih8t8md1mi10rd7n9c.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8vubjsr2m4hehpto051vnkufiqnslpa0 NS 
+azafis.gov.	86400	IN	NS	ns0.dnsmadeeasy.com.
+azafis.gov.	86400	IN	NS	ns1.dnsmadeeasy.com.
+azafis.gov.	86400	IN	NS	ns2.dnsmadeeasy.com.
+azafis.gov.	86400	IN	NS	ns3.dnsmadeeasy.com.
+azafis.gov.	86400	IN	NS	ns4.dnsmadeeasy.com.

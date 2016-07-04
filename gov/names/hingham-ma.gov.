@@ -1,0 +1,4 @@
+hingham-ma.gov.	86400	IN	NS	mns01.domaincontrol.com.
+hingham-ma.gov.	86400	IN	NS	mns02.domaincontrol.com.
+t1m3j2tgq5g69tjj9msjnn9g1vlirab0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. HOcNQEyPEhcJE2eStxMUQUnieb/e3tNMiAoV53Fb3WOE25UhSZ9JVs/f7LAJuswRP9bDd3G5jmBl+q3m/nnSsDcukvUhDmo7JIRyhyUTM4znyaGrI1lq9EvMh89UxhtQk+6vEVEjcUD2Bg6R6tvpIoD+ccQN9hqrBRnnWIJA16w=
+t1m3j2tgq5g69tjj9msjnn9g1vlirab0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  t28p7p19f84a3eu9vobli2cotd14sujg NS 

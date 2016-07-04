@@ -1,0 +1,4 @@
+hallcountyga.gov.	86400	IN	NS	mns01.domaincontrol.com.
+hallcountyga.gov.	86400	IN	NS	mns02.domaincontrol.com.
+kuej702bdoaco0gc6o7sfgfc0ouaa1aj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. TWVZ4bFtQlCHtGzHXcQYPTNEJ9Jz1HUjJMcim92TzZiV0Wlw34Y2NB/wfo97F2/R/rVEIjaEsqd2+/nrwXKf4kmxt0LRVTyl4JjMQM2QNyCHTx2u+0xFZOMTXVkzJq021JS7UcTFLln7enA5VXvGRCtvjSGH28QH53j0+u0RMP8=
+kuej702bdoaco0gc6o7sfgfc0ouaa1aj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kui6ev3ao9tfvsaq5gpmrgb1op5ogf5j NS 

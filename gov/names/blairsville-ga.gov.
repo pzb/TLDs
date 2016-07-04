@@ -1,0 +1,4 @@
+38477m0pk4o0d88klp43sg3o93k64d2p.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. EgsIWVV77J7x7zDfRRSvF5A/nLlPai6524XS5Mbf4HsOrqfvmwL4HCK7BsWrDgUWxYkQmFJYUVeCtdT0k+WW9/zvq1SnDyeVVRNcKpPxi5g1gmiPABP0lti1uz5CvaTvhAAasX7N2/nSBh+wQJoIQDXsb1t6Kkgp/qYSQh56SPI=
+38477m0pk4o0d88klp43sg3o93k64d2p.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  38ee0s3onji9bqkhlruhdripu8gn2mjj NS 
+blairsville-ga.gov.	86400	IN	NS	ns1.netfirms.com.
+blairsville-ga.gov.	86400	IN	NS	ns2.netfirms.com.

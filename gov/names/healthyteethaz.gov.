@@ -1,0 +1,6 @@
+d0lab750lddcj7io2rf0rc6qm7jqfvdf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. uK3njfPcneDXEl+XiCEj0rTn4KDWiqej6I6pBuNIwkZXhe4z+X5l+O8jib6258/8NWjtReFnXP1ZVVQVJmujqdztmPKeh1zn5B2PvCY++cVk1C8LUZzYEF2WNx0bfUYrGqY4LaRGfsZ6/Jv23fm9n4uhRZF2NfL5EoAOWbEE6Zs=
+d0lab750lddcj7io2rf0rc6qm7jqfvdf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  d116c0bdmisl0t3iviqf7guujus72jqu NS 
+healthyteethaz.gov.	86400	IN	NS	ns-350.awsdns-43.com.
+healthyteethaz.gov.	86400	IN	NS	ns-661.awsdns-18.net.
+healthyteethaz.gov.	86400	IN	NS	ns-1151.awsdns-15.org.
+healthyteethaz.gov.	86400	IN	NS	ns-1963.awsdns-53.co.uk.

@@ -1,0 +1,10 @@
+homelandsecurity.gov.	86400	IN	NS	eur2.akam.net.
+homelandsecurity.gov.	86400	IN	NS	eur5.akam.net.
+homelandsecurity.gov.	86400	IN	NS	use2.akam.net.
+homelandsecurity.gov.	86400	IN	NS	use5.akam.net.
+homelandsecurity.gov.	86400	IN	NS	usw4.akam.net.
+homelandsecurity.gov.	86400	IN	NS	ns1-46.akam.net.
+homelandsecurity.gov.	86400	IN	NS	ns1-96.akam.net.
+homelandsecurity.gov.	3600	IN	DS	39090 7 1 28042c41db9fb927c3c0ca5b249fbc57ff9acc7b
+homelandsecurity.gov.	3600	IN	DS	39090 7 2 3cac97ba27728e051fde0c0e54f80573cf4a30c9d02aac4ed32825642cd804e4
+homelandsecurity.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Wll4g2FMrQ+jAVTj7H1y85uJ5Zf9TMgdgIfKCecYGoqGzt/9s6DXNEwsrqWoPKSXzGW4T9dwNh0tEYwPzQts36QK9oQBfwSG6hEABcgZ7jFIrjp/dsStdZm81cmZlYHqi09/X48FD7PaiUl23Aalxz0wraKggYIR7HidWnjmfJQ=

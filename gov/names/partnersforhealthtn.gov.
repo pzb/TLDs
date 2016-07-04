@@ -1,0 +1,6 @@
+7odegpf7j57an614pa6nj0tpmi4mki3m.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. OIDgObwGd7i3Da6P6oXpkKqBBV4Tn97cvSpJjFw8Ms3Kx/kJJzjBjM1rk0iXRa5x91WCMNGqM6p0kdYb3BMJcHYSZGzNeXA3M7C12rq01iSt3Sn5FHfX+94a8G1q3lk89saF8OqzHcx2pBLqwtW4k2q/Tr/NKzaiV5StIddBx9g=
+7odegpf7j57an614pa6nj0tpmi4mki3m.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7odt5l6folq9vi4k4jlj7l8oc1mshd3h NS 
+partnersforhealthtn.gov.	86400	IN	NS	dns4.tn.gov.
+partnersforhealthtn.gov.	86400	IN	NS	dns5.tn.gov.
+dns4.tn.gov.	86400	IN	A	170.142.92.58
+dns5.tn.gov.	86400	IN	A	170.141.168.22

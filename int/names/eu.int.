@@ -1,0 +1,7 @@
+eu.int.	86400	IN	NS	ns1.be.colt.net.
+eu.int.	86400	IN	NS	ns1.bt.net.
+eu.int.	86400	IN	NS	ns2eu.bt.net.
+eu.int.	86400	IN	NS	ns1bru.europa.eu.
+eu.int.	86400	IN	NS	ns1lux.europa.eu.
+eu.int.	86400	IN	NS	ns2bru.europa.eu.
+eu.int.	86400	IN	NS	ns2lux.europa.eu.

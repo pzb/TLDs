@@ -1,0 +1,8 @@
+southwilliamsport-pa.gov.	86400	IN	NS	ns.southwilliamsport-pa.gov.
+southwilliamsport-pa.gov.	86400	IN	NS	ns2.mydyndns.org.
+southwilliamsport-pa.gov.	86400	IN	NS	ns2.southwilliamsport-pa.gov.
+southwilliamsport-pa.gov.	86400	IN	NS	ns3.mydyndns.org.
+ns.southwilliamsport-pa.gov.	86400	IN	A	209.23.224.153
+ns2.southwilliamsport-pa.gov.	86400	IN	A	204.13.250.82
+ujg7jsb0v8j35k3cbq2kqj188cbrelot.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ut1NQizVyldT7OpAZqkmuR+ZiMEOAbO/yJbADz9bd3K/8iFwD/l/rq1DFEui9gdLkmcIF+fX51BResoA/+JcTmkHujzeTXvffl1pn4UVfEt9YNL6dj9C6UTeaL5Vasz/pzQvLd+B0xcIEQYu+6uglyH/wJ1AXXAVS4KL0wP/x74=
+ujg7jsb0v8j35k3cbq2kqj188cbrelot.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ujun62m2rukv1197qbb901s13f49n60v NS 

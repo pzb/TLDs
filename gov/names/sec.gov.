@@ -1,0 +1,8 @@
+sec.gov.	86400	IN	NS	a1-32.akam.net.
+sec.gov.	86400	IN	NS	a3-67.akam.net.
+sec.gov.	86400	IN	NS	a6-64.akam.net.
+sec.gov.	86400	IN	NS	a7-65.akam.net.
+sec.gov.	86400	IN	NS	a18-65.akam.net.
+sec.gov.	86400	IN	NS	a20-66.akam.net.
+sec.gov.	3600	IN	DS	11952 7 1 2b57d27422e1c2e66f1c54a3df318995df5527bf
+sec.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. kzCvA409+M1yRwUziPhTB/v8XKjEK2xdMAMFaf8Wymkpvfb2IHWiraiUQc+mZnhJUXf38INUgs0FWJOFFR77g//JZ3Ge/m59pD34NHRjV6ML9wL+yU0aP6zu9XUyFCRBVBG2M0C6rkUWx2wGJ6xkA9inut/MKBzytxodQC0+ES4=

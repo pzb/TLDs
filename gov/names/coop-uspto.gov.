@@ -1,0 +1,5 @@
+coop-uspto.gov.	86400	IN	NS	dr-coopdns-1.coop-uspto.gov.
+coop-uspto.gov.	3600	IN	DS	19806 7 1 dd0b8a01d50485e699db73dead4068fcbd9dd584
+coop-uspto.gov.	3600	IN	DS	19806 7 2 d0b7efa1ab8661976507f023a7013db9de5aa071337548b4411bbceb94589dd6
+coop-uspto.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. A/grrweOg/vA/4n7Hibu80MJihbNTDYOXIvqyBnBloOHTx4/z7aByDw0dwL17Uu/yQPaKfcnMZRnUsWTox7h+CM1TOCmBIM/uYpD4WK/UJfMydskR6bUWZXCOpU2O3X/HWKisjAseK4/vfCffdZuksnUQFlBDrRwdt1cM4zmtDY=
+dr-coopdns-1.coop-uspto.gov.	86400	IN	A	151.207.240.200

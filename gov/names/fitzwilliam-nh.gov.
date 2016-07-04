@@ -1,0 +1,4 @@
+fitzwilliam-nh.gov.	86400	IN	NS	ns1.avenet.net.
+fitzwilliam-nh.gov.	86400	IN	NS	ns2.avenet.net.
+n6nd5vqfpoh15fbn1ar2md1df3tr5bj1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. LIN4eoo1S54mL7mAqpFr9ZhVHZqPU1iM1v9uMAmUNusiY1D7aBKGwx5mzbEmAoidQXqbcZwkoB/gZOZLvy3XgcxLqUzovx07SrFSy8eT0/wWW3MFuCnuD79jYK8EXsr50gc8cQWWTPolsD+99m/d2gSbh8dVmASOGaVoJpaTBlY=
+n6nd5vqfpoh15fbn1ar2md1df3tr5bj1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  n77tmmpl4qg4quondj3qe3rl9mgvbj8r NS 

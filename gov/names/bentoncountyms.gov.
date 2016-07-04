@@ -1,0 +1,4 @@
+768eps09q9hnsj3a4gq28ffh3cluhpvq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. FtmyM4hrOthaxy5Jj+mrs8TAXLQb0vInNXRLJbJ+gwkBrTxy/De42aB/oh0ZFA377vVWHKYGN54lp+iGaQEGBNKTiFUXHfGsPgVqbkbtdC+i5IS6g9/0IawUe06sTCNsLM7hpd01WtJrnVFVBGRmX/IE3u3eOIoctr7BxBVix+k=
+768eps09q9hnsj3a4gq28ffh3cluhpvq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  769i25sp3gss02qh731uhp9fkitgf0ff NS 
+bentoncountyms.gov.	86400	IN	NS	ns5.hmdnsgroup.com.
+bentoncountyms.gov.	86400	IN	NS	ns6.hmdnsgroup.com.

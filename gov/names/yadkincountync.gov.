@@ -1,0 +1,7 @@
+tj4ebh8ggk0kgg47npag9clek3t390nn.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. L96TLVZUJBGKCc8CyCQgG1gULSRNxkpNu2OIkXg89dRcNCXPGYDawSv7rutdeMvKvx6DIA2Fn0Sp/j/eLPTwoC8foZklx+SVWJgLNiyPdoH7fwLduf2oPwpvrpZIAhBPjRpS9hhO2Zn2tiQ5as655ITw//FGRLUR5LKLd1Us+NU=
+tj4ebh8ggk0kgg47npag9clek3t390nn.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  tj5dpbg3fvjpbol58ecsslq7gm9sacg0 NS 
+yadkincountync.gov.	86400	IN	NS	ns0.dnsmadeeasy.com.
+yadkincountync.gov.	86400	IN	NS	ns1.dnsmadeeasy.com.
+yadkincountync.gov.	86400	IN	NS	ns2.dnsmadeeasy.com.
+yadkincountync.gov.	86400	IN	NS	ns3.dnsmadeeasy.com.
+yadkincountync.gov.	86400	IN	NS	ns4.dnsmadeeasy.com.

@@ -1,0 +1,15 @@
+dns.gsa.gov.	86400	IN	A	159.142.136.198
+dns.gsa.gov.	86400	IN	AAAA	2620:0:150:280f::5
+dns2.gsa.gov.	86400	IN	A	159.142.150.68
+dns3.gsa.gov.	86400	IN	A	52.203.230.235
+dns4.gsa.gov.	86400	IN	A	159.142.69.84
+dns4.gsa.gov.	86400	IN	AAAA	2620:0:150:4013::5
+dns5.gsa.gov.	86400	IN	A	159.142.45.20
+idmanagement.gov.	86400	IN	NS	dns.gsa.gov.
+idmanagement.gov.	86400	IN	NS	dns2.gsa.gov.
+idmanagement.gov.	86400	IN	NS	dns3.gsa.gov.
+idmanagement.gov.	86400	IN	NS	dns4.gsa.gov.
+idmanagement.gov.	86400	IN	NS	dns5.gsa.gov.
+idmanagement.gov.	3600	IN	DS	19537 8 1 08fc943282e4ec219140025d4fc4d4fa02859319
+idmanagement.gov.	3600	IN	DS	19537 8 2 ca13056bcf1d40335b34e259bd09f1e2cb9f555837cdb1e596fbfa3eb69b45c8
+idmanagement.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. h5fuYbeHpPQs7CN13jEu4bfE21cvZSjr/6CG/jhmnic16ld8OueTLCdgxRsXr8e6z+ExawBgdv173+HywygvaDz0RuoE2Cns/I6QqY4RWvHP811SsUa34GGBAXeSGKua0vaPV5QrNex0t7xva6gEbt/dwBirG4RGCuk3MFr7aqU=

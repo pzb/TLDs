@@ -1,0 +1,4 @@
+d4s86h2uitk58u0vg455aov28jhk8gl6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ZiPyV08DuPv4I9TMsc9dToGQjGJLEXo1BZZz6iC/6x2tSqhOhyv13Ag/QDPGpNHtMNZoHdAQln2ft/uWzAuSVzG6ebOUEne2rN+9e5+ORc/JvEz+lDeJ6dtDU8rQ8dkHGzqiULWGTNdZN3K4Q9dxhwE+8Zwfn810/CaS22YXM3Y=
+d4s86h2uitk58u0vg455aov28jhk8gl6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  d4u6ovg13o65tgc1hdk9nqegahaqnib5 NS 
+easthartfordct.gov.	86400	IN	NS	ns1.fibertechdns.com.
+easthartfordct.gov.	86400	IN	NS	ns2.fibertechdns.com.

@@ -1,0 +1,4 @@
+135bl7eil9p2iva7pht81fl4kr685brs.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fzyuPFalGaeOdgqYBDk5GKb2NKLYWYkmmACtpYOvdMFyBIekPRl5szRMfCwOPQ+21s/BC3DTWHJeUaKsHcAwqw5IypTnp/nSpeH7+WDMyXog2ZiXjqbMUXV9P1EUDwqs1Zb8aJz8967hcI0x1kTQoyml2UqGVrdIMFmroC5Lx1I=
+135bl7eil9p2iva7pht81fl4kr685brs.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  135vf16tuuqepvnc4l7lqff7fn53s2b5 NS 
+pleasantontx.gov.	86400	IN	NS	mns01.domaincontrol.com.
+pleasantontx.gov.	86400	IN	NS	mns02.domaincontrol.com.

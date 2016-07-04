@@ -1,0 +1,6 @@
+fqr8lr01gt6cmkmseo576bsihgsk8gtn.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. vOleSpm6TFvnexhiQBVVMepoyguw5BUhY+lyr48wn8l7bYNSlPd69LUn28bpjmXDDT/1O+6spzRC0c9txc1SN3775xKDHg77Q86BOnJC+d0UqettfgTskpLhnkxnRMTlUVGaNposk5lVR5U+hozJ2jirLcpXHuPLIQG9Z0YAv0Q=
+fqr8lr01gt6cmkmseo576bsihgsk8gtn.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fqsf72nsr7263qeelvrg56usabqomuuk NS 
+wmatc.gov.	86400	IN	NS	ns1.bellatlantic.net.
+wmatc.gov.	86400	IN	NS	ns2.verizon.net.
+wmatc.gov.	86400	IN	NS	ns2.bellatlantic.net.
+wmatc.gov.	86400	IN	NS	ns4.verizon.net.

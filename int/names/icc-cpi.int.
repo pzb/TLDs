@@ -1,0 +1,8 @@
+icc-cpi.int.	86400	IN	NS	ns1.icc-cpi.int.
+icc-cpi.int.	86400	IN	NS	ns2.icc-cpi.int.
+icc-cpi.int.	86400	IN	NS	ns3.icc-cpi.int.
+icc-cpi.int.	86400	IN	NS	ns4.icc-cpi.int.
+ns1.icc-cpi.int.	86400	IN	A	213.208.214.217
+ns2.icc-cpi.int.	86400	IN	A	213.208.214.218
+ns3.icc-cpi.int.	86400	IN	A	212.67.184.121
+ns4.icc-cpi.int.	86400	IN	A	212.67.184.122

@@ -1,0 +1,4 @@
+anjuh6e7qvh3pq5jadnrda233s8rqpv8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. G+mKR+IRsDMxpQOfpn6R5X+URIBTVLk+MvTzIuBK+/t4YsAivBdtA0NO2rfIPW7WTSvaxGs0C6pBkrMKcqwvGmIvGLKERr3oy+eHf7waucm4LBtYy0RgsQgaoZHhAPrKryhBcwei8XpXYqctLt8AOcr8V+RrRC2qtCcR0TKag9E=
+anjuh6e7qvh3pq5jadnrda233s8rqpv8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ans5buht95s827nlq55dchsiqol1q0f8 NS 
+ashlandky.gov.	86400	IN	NS	ns1.softlayer.com.
+ashlandky.gov.	86400	IN	NS	ns2.softlayer.com.

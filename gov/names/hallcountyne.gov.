@@ -1,0 +1,6 @@
+5ni7g6i9cnmmeu5b3c40oask2u9ch6oc.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. xVieQxSnBFtpp3Mu3zVwogpjxstEs+YZNutvpiDaBoESKEg/ztlekxbNHwmV5+6HxafFRtrHvWibV4WCPFfCz11bZnO5J8/pVakqcWZ+S0NvNJai82SEVkliCzWrriOT8ESqaru17gPMmjSG0YHKn4LzWzUj4fG0e/qq2CxxTIk=
+5ni7g6i9cnmmeu5b3c40oask2u9ch6oc.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5nkam0so0nhdk55mu60pemkg9jthnfon NS 
+hallcountyne.gov.	86400	IN	NS	ns1.hallcountyne.gov.
+hallcountyne.gov.	86400	IN	NS	ns2.hallcountyne.gov.
+ns1.hallcountyne.gov.	86400	IN	A	12.167.36.68
+ns2.hallcountyne.gov.	86400	IN	A	71.8.221.131

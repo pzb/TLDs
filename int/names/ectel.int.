@@ -1,0 +1,4 @@
+ectel.int.	86400	IN	NS	ns1.ectel.int.
+ectel.int.	86400	IN	NS	ns2.ectel.int.
+ns1.ectel.int.	86400	IN	A	166.63.127.66
+ns2.ectel.int.	86400	IN	A	166.63.32.24

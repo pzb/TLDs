@@ -1,0 +1,4 @@
+getcoveredillinois.gov.	86400	IN	NS	ns1.state.il.us.
+getcoveredillinois.gov.	86400	IN	NS	ns2.state.il.us.
+rp8ovq1i64k8j9s0ku9qcbf89e96o3sv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. i47kJx+fazsYBPf/SKk/4fImEng8gY4hRlUh1gYT5EeJdbIgZiq8eyuUog++6AgdL6ZpOL5g7a6d4jRABl75dhWEAfoEGsmZxPkYsyBZJUOVzisLkSahXERaFSBALphqwM4ApK5Ycq37zr3cXEQ7xmPFARLVcyztmIozYj5kysg=
+rp8ovq1i64k8j9s0ku9qcbf89e96o3sv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  rpd8pud39tqesub1vnpdc4dcmaj66d2q NS 

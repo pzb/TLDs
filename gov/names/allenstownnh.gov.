@@ -1,0 +1,4 @@
+7j551hcl3739k3h7uui9pkgeq3d06c1b.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. aZivDC7ydk6kv/lvu+LaPEGD+OcO69ItBluF+whPASLTrOZXt6McAxA/dqIEkLXwHPJGlmXLWC2i3yYDtRufrZtwpaa0GTWfHdsUAAozX4/UcEJWoNW+BcctiVbcyhzqCk5ok5mUbpxAQGNegLYRhlU4PjA7Vt/eiobbMeyExnc=
+7j551hcl3739k3h7uui9pkgeq3d06c1b.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7j65d1afr22paa3mv4cact12b6tt5dn0 NS 
+allenstownnh.gov.	86400	IN	NS	ns1.infotech-maine.com.
+allenstownnh.gov.	86400	IN	NS	ns2.infotech-maine.com.

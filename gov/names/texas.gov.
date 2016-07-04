@@ -1,0 +1,6 @@
+8i1f7bbp0nd4qc0vsnajp6ila03jr9m6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. NjSv2ABNBeFAQD8dJp3ItA56yTDEg+EvO+rkYZ4W+xHs+rtrCDUGNEjSAwkyZ1pjfTdZk/W9/wU7SjyNUck1PU+Somg8gOXd/RNuWw1AZqR0mppUe3CCh7i6qKSa/oXR+BOfDWmSvIKL2G3K1cS8NwqherDmoYoN6pV3AJdM18o=
+8i1f7bbp0nd4qc0vsnajp6ila03jr9m6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8i35afloo0sm39ihe4rnj276b0u1fj36 NS 
+texas.gov.	86400	IN	NS	ns.tx.net.
+texas.gov.	86400	IN	NS	ns.capnet.state.tx.us.
+texas.gov.	86400	IN	NS	ns2.ots.utsystem.edu.
+texas.gov.	86400	IN	NS	ns9.tex-an.net.

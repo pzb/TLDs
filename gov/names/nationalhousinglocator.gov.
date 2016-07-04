@@ -1,0 +1,7 @@
+hudgate.hud.gov.	86400	IN	A	170.97.67.16
+hudgater.hud.gov.	86400	IN	A	170.97.167.16
+nationalhousinglocator.gov.	86400	IN	NS	hudgate.hud.gov.
+nationalhousinglocator.gov.	86400	IN	NS	hudgater.hud.gov.
+nationalhousinglocator.gov.	3600	IN	DS	35388 7 1 a1b2fb2bec32f3540159dd13f92a176904096f3b
+nationalhousinglocator.gov.	3600	IN	DS	35388 7 2 fdf74c0dc1d233704aee0f2bae31c16db5fd0d8436a688f2d44d9c0ae859667a
+nationalhousinglocator.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. S9X6G1Ou2Mk7lsuXEis+CW/Fx4EjecXM+k1Mnz9gZcT4fflrWLw1PQQrXbHWHvDxmmnZ/Ar+xdTUmA9Ir2CWR7fVovqhIm5J6C5c7V+bV9ZkmZsxRiiTcr7wviJjFJoYjHh+ddLeEf63tSC3ICzMblaDlsHrGQYTeI8UquMULxQ=

@@ -1,0 +1,4 @@
+5jvkdg0g4l48pmo2i9ldn2oh2intftj4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. U47GZtY0ulmrQKHMC97kUpMYlcZce9k4i9z4DTY1JzFjaZG3YKk3dwEeHAWfZbofMOnV+Wt6unBsg+sARlKJRgXkfAbps8e3FZa2Zbh8RojOj6s9Dn8LYXqboWKGsoMK2k/kfGkxEsNt412uKpN6yiynfZQxb0euY6pztrpGaxE=
+5jvkdg0g4l48pmo2i9ldn2oh2intftj4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5kcopf0ah4glml7eapm7rmm5oroggiof NS 
+bosquefarmsnm.gov.	86400	IN	NS	ns65.domaincontrol.com.
+bosquefarmsnm.gov.	86400	IN	NS	ns66.domaincontrol.com.

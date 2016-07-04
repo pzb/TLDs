@@ -1,0 +1,6 @@
+porterville-ca.gov.	86400	IN	NS	ns-166.awsdns-20.com.
+porterville-ca.gov.	86400	IN	NS	ns-639.awsdns-15.net.
+porterville-ca.gov.	86400	IN	NS	ns-1378.awsdns-44.org.
+porterville-ca.gov.	86400	IN	NS	ns-2005.awsdns-58.co.uk.
+qn1929f7763bpa4bhsm213saouh3oi30.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. tCTVXk8C0A9EKEV/ntOdydlC+SDVxYFzAZ2Q4iq1ii0LMlkA93MZ8dRjjBFjw9d7UVDmL5E47Y6184lJ3i5K1462eJ5Yk2QNL5w1OeKcdp/52V+GjRQy3mPDPuHk2w4gf2LHXuWVXqpQAgsCQ6aQ3psKgyIwmvXeaIEGtIwwnmI=
+qn1929f7763bpa4bhsm213saouh3oi30.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qnajqkckq08t85tm1q1bgcqsf7qro7bd NS 

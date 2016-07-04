@@ -1,0 +1,4 @@
+18db2su6nvlc08vp6hfu3jk82e4rmhhq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. NZBL/HRnqDzgTc8sm2LwnQYBg1es9zVNejDYTTnu9/6Zsz7zNn7Fd3HPu5EMMc0MtTgNM8qHvjhSl6x51AZks4slXwlDOIn9/AXANJGVmEJJh/9pm5qdA46lQx4Dw3N8E8OnNQlriVOr33DoZPbfhhw6AjbWRH3BcpFk3hAM7GM=
+18db2su6nvlc08vp6hfu3jk82e4rmhhq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  18g8rqbm53jlij4od3mvrsst57gijede NS 
+veronawi.gov.	86400	IN	NS	dns1.civicplus.com.
+veronawi.gov.	86400	IN	NS	dns2.civicplus.com.

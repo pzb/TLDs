@@ -1,0 +1,4 @@
+i7r5mq6f2udjetfc8pau5gl5ig48esjr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. mFgWyevTksPqabyy3727yZsomrNyzN7E2EN0OW+hMcnjk2TNEmeyAc6L7zKXyg/2TQ4+LZNvYl9Ac3NMKVmbV9XbR5Ygq0yFYWi1dIKQIDMexUksb17gEbteiZ3E7pd6AT600azqAHSvyawtNBFpvTfHCjXWdAprqOQyZc2kh/0=
+i7r5mq6f2udjetfc8pau5gl5ig48esjr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  i7u6m3qk8g5ed2l3no5msfgfp8hqjtqn NS 
+whiteearth-nsn.gov.	86400	IN	NS	ns43.domaincontrol.com.
+whiteearth-nsn.gov.	86400	IN	NS	ns44.domaincontrol.com.

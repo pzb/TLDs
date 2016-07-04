@@ -1,0 +1,14 @@
+ns-jdcd-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcd-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcd-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcw-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcw-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-02.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::6
+userra.gov.	86400	IN	NS	ns-jdcd-01.usdoj.gov.
+userra.gov.	86400	IN	NS	ns-jdcd-02.usdoj.gov.
+userra.gov.	86400	IN	NS	ns-jdcw-01.usdoj.gov.
+userra.gov.	86400	IN	NS	ns-jdcw-02.usdoj.gov.
+userra.gov.	3600	IN	DS	11755 8 1 f1ad6006ae5d8d2b3b262513aa8bda1c4d19028f
+userra.gov.	3600	IN	DS	11755 8 2 6e8572e7b67c9a32cb02469af57d7c29c38b6aeae9d9eafa066d8d15ed8352e4
+userra.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ZycvNCGvg97BQWZKKFzYH2tRqTyR0oViJ7oamiqCdCKhRc7WM5kcDx+hbwWSvO7WkUH94uia6HuYbk7bYmWoCZSv0/GzEoi+YJ+fzgwVbZjaGYnModh1A1Tu+QGBpDx5Wc00YFOGaamONOOX9UWj1XqniPmIE4C/ekd84aIsq8o=

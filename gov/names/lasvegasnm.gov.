@@ -1,0 +1,4 @@
+9fboa3it3r8hvgu5gkgaqk2g34htfbe0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. MFs3OBpve12lbVp/D77sSsNvfipIeUDNUNN42ec5hkuOBO3SY4PSdU5+IHzuBgyfxfXiDAPBuOrx0DIKrAAvpANE7/LEi+ag3JzRQmbZzJiRVvKbzXua1iMR4RqAiafntz5/JwX2iBn/3hGhbK9jOBObpuDb9sl08ZIeyCJWyak=
+9fboa3it3r8hvgu5gkgaqk2g34htfbe0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9fi5r2vpakd3akg4fnep9aeu1qjhmqc0 NS 
+lasvegasnm.gov.	86400	IN	NS	zoe.ns.cloudflare.com.
+lasvegasnm.gov.	86400	IN	NS	fred.ns.cloudflare.com.

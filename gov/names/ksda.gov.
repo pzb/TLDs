@@ -1,0 +1,4 @@
+47v3f4tgahritcoi0escuihu6eoinuuk.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. xJxNw1uKKJAIVYIYbEVjwyFuyBJikXY3kek1wlEdVoqcV3p5+sDXKPPIDAAQNc/zlWnwyu6LinfKQWOmbTxjAzbhFQJAs4pNBu88xfEqqSbWG3Kf+0mkOYzaJ0lg9nFAkUQOet/bid8nCZyXrjC1S7pe1jU+siNyLE2dtgjl0Sg=
+47v3f4tgahritcoi0escuihu6eoinuuk.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  48b106lfm4kgb82tl8me6fd10v2j8hl0 NS 
+ksda.gov.	86400	IN	NS	ks01.state.ks.us.
+ksda.gov.	86400	IN	NS	ks03.state.ks.us.

@@ -1,0 +1,4 @@
+jacksoncoga.gov.	86400	IN	NS	ns1.jacksoncountygov.com.
+jacksoncoga.gov.	86400	IN	NS	ns2.jacksoncountygov.com.
+tuqvpumojfkoop591n3oigqi9cjccbt8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. oT/LizM1CYVzV+Fg004eBjQF28cDqu7FyZ5/qwQxU5/UmJ4U58B9waXKMLwI7kDVacM+nxxaoBjQrOpN5AK7Y48WjepGaKET0BwqPXJE05zs4ALqi7GdnchByCKbixbMZJJBV35k/Xx3ihXjHtvtD57LWt9giaiHj5MpLlIYBD4=
+tuqvpumojfkoop591n3oigqi9cjccbt8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  turddudvbb23fdj20e1v3n43na22aj4h NS 

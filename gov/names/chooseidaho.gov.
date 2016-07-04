@@ -1,0 +1,11 @@
+chooseidaho.gov.	86400	IN	NS	soa1.idaho.gov.
+chooseidaho.gov.	86400	IN	NS	soa2.idaho.gov.
+chooseidaho.gov.	86400	IN	NS	admdns.idaho.gov.
+chooseidaho.gov.	86400	IN	NS	adm-dns2.idaho.gov.
+chooseidaho.gov.	3600	IN	DS	12886 8 1 04b2288e5103fb52afaa987aa3b70451027951e2
+chooseidaho.gov.	3600	IN	DS	12886 8 2 be2718652d869a5ebb8471fc898ca67f8cf610ee692983a2ba15043987394d24
+chooseidaho.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. W9ESdhk4YrQJ2ku08gmaNnachsIp0f8m4qi80r7slVBqV1Rlm5kBGp9sW362CSkAss/75H15Ubt/D0vGmm4q+dqPSgDrNtPWlqsA1W9nHI2n7Cs7GlXPxgvMNVX+jT6m4J4rpAituGFNHE3/3xHxtfUsihx0GTpjzdvidu9slwI=
+adm-dns2.idaho.gov.	86400	IN	A	192.102.16.252
+admdns.idaho.gov.	86400	IN	A	192.102.16.251
+soa1.idaho.gov.	86400	IN	A	164.165.252.15
+soa2.idaho.gov.	86400	IN	A	164.165.252.16

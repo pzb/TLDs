@@ -1,0 +1,9 @@
+fedspending.gov.	86400	IN	NS	ns1.treasury.gov.
+fedspending.gov.	86400	IN	NS	ns3.treasury.gov.
+fedspending.gov.	3600	IN	DS	6663 7 1 2b0b7912ae05d48af3bf51b8e5b174d06eae0bc1
+fedspending.gov.	3600	IN	DS	6663 7 2 171f7d33b8604cc591ec121967c406f179b1e6bc3799ff6695d254d92eff630b
+fedspending.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. oSGJMRi/5ft2BQxE4d2so+ZyYM92LYBcHKtsT8Rdr3EpdP59nVPxoUqz97ltRR6CPr9sl+GLm9A50c7rPlW5YohG3LXXCMErF2WdUESVE+9ra0ZDzhakrobfbITZjvnGppe8Ev+kKMO5/EAjhqPUj0u2GZpOI8jKvY2IQwI0lcg=
+ns1.treasury.gov.	86400	IN	A	166.123.208.249
+ns1.treasury.gov.	86400	IN	AAAA	2610:108:4000:100a::249
+ns3.treasury.gov.	86400	IN	A	164.95.95.155
+ns3.treasury.gov.	86400	IN	AAAA	2610:108:3000:100a::155

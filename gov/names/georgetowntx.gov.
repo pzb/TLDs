@@ -1,0 +1,4 @@
+georgetowntx.gov.	86400	IN	NS	ns.rackspace.com.
+georgetowntx.gov.	86400	IN	NS	ns2.rackspace.com.
+pjatfmfem2l6hsaj2ee71u4adsttinia.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. UKVfJ8jNie5UIU522Tp/hWr0r7r7ywgaqdckNLmkoI00OLIKfS2sLdo/VRdQAMGYVugWmMpN0+wgTFq56nJbazYBoZFwqLKjMQeb5EIE+wv6or2U6z/dxA2wp8EfbRsT8I5Y6WWPJeFQibjfkyEqYqC4IPlaqQ/cz2kt5J5umb4=
+pjatfmfem2l6hsaj2ee71u4adsttinia.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pjkmsmo1fqgs17vve7vhl2jcgi2pnqk5 NS 

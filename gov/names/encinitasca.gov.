@@ -1,0 +1,4 @@
+encinitasca.gov.	86400	IN	NS	ns1.coxmail.com.
+encinitasca.gov.	86400	IN	NS	ns2.coxmail.com.
+ou0m8hsr79t3fjnp7qu3nss116b6kora.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. rjn467JYmj5GqxcGWbENdW1KgdNjoKYLeuNo2W1qKWWqmPuX01Y7d9BTObTd81GXDA9SJhS7gyAfCDGWN+kLx5ATzpMLcMTV5o/K7JkcS8dMTENk/cr3idR/ME2D48fV+Co2WC1391AOYE4DgpCi48fqMEnPIPixLbOSKCQInkU=
+ou0m8hsr79t3fjnp7qu3nss116b6kora.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ouiepn1c5f0cbdniulouncdg27gvei2t NS 

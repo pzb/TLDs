@@ -1,0 +1,3 @@
+recsa.int.	86400	IN	NS	ns1.tamshi.com.
+recsa.int.	86400	IN	NS	ns2.tamshi.com.
+recsa.int.	86400	IN	NS	ns3.tamshi.com.

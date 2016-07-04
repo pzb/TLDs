@@ -1,0 +1,4 @@
+pasadenatx.gov.	86400	IN	NS	ns2.dpsims.com.
+pasadenatx.gov.	86400	IN	NS	linux.dpsims.com.
+ricvc1fotjimc7ld7dc0615s8nc0f8nv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. AUTeMm8tOFJPmjOiMXsnUpH6w9CKX/9qUOAWZNwMPnotEDCi53Yz24qStJH6Zu383Jdxdn089VSTr3uNRqZHkea/I+e5A0H3k3M3E+TBGSTbPiBpdVkfxpHYdP9OWezXnoGPyvtO/QB3Tay3dp2YpWbFTRkokctrisfAfXnWsrg=
+ricvc1fotjimc7ld7dc0615s8nc0f8nv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  rih0og4rsl3gbqoflmhn0pi5sektp5dr NS 

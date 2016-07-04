@@ -1,0 +1,4 @@
+springervilleaz.gov.	86400	IN	NS	ns1.ctgweb1.com.
+springervilleaz.gov.	86400	IN	NS	ns2.ctgweb1.com.
+v7kd8923b1giqbuqcgg5j2gt3kc3ut3j.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. bEgEachAF7ZBj8A63cB7EN0okGFyk1j4LekKZ946ZgiiLyEJGzypzjnQ1wgFNCEz89L32DRFxnGqBWCR81NNgiBoJu+uFimQIlh3A42V9k8essBE3UYJgbBm/MwrTQVJe8sTbnr6vw0LoU4P7+NL0S1Nx+GNLzIcj/HK3pMwUQ8=
+v7kd8923b1giqbuqcgg5j2gt3kc3ut3j.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  v7tmnsl0ehq6r1u2uar9op0ujt40taq5 NS 

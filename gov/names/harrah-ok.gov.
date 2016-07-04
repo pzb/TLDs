@@ -1,0 +1,4 @@
+harrah-ok.gov.	86400	IN	NS	ns09.domaincontrol.com.
+harrah-ok.gov.	86400	IN	NS	ns10.domaincontrol.com.
+s2gfed551bp8ushh0vnf1hpjkn9dlqjo.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hNEBSXlxTnNXBzJL6n0yI0VOi6dg9jT74ZMwveMvGjOp5kX0OSSZSuzN2WMKn5dhTbsbYEN735eSyypQJaYQ8PSJbOpATvril3HKmMcHPMbIF5++TKeE2VEQ1frm9OAVCnJwF9EID7O/zJj7EH34Ue7OET83hrf01QrkaRR5oC4=
+s2gfed551bp8ushh0vnf1hpjkn9dlqjo.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  s2hqc8tjf9s2hu3kk5dmq1dub2gnbt50 NS 

@@ -1,0 +1,6 @@
+8e7cva1j5jd2de89t4b8l7uffh57f7mh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. NOQe2q7pHBvSU3IU+Yrx2z9K2Hfk4gyCChtkpDaZpJaFnsKzoW/NnlTzZeiksURiNuZZiaIr8W/Mc5IBtAtEqgPl3MOnDsCR7AnqISzz+FCAmIlL07pPy7t2LAe2u5dVfjUOXRW/fHFtQ/KZUcxG3o2tKhv8ShmHRuIvCHZsjy8=
+8e7cva1j5jd2de89t4b8l7uffh57f7mh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8ebfkbce6i1oqdkfl8dc7k4dtev537rq NS 
+measuretn.gov.	86400	IN	NS	dns4.tn.gov.
+measuretn.gov.	86400	IN	NS	dns5.tn.gov.
+dns4.tn.gov.	86400	IN	A	170.142.92.58
+dns5.tn.gov.	86400	IN	A	170.141.168.22

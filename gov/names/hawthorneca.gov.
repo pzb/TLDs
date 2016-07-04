@@ -1,0 +1,4 @@
+hawthorneca.gov.	86400	IN	NS	ns1-auth.sprintlink.net.
+hawthorneca.gov.	86400	IN	NS	ns2-auth.sprintlink.net.
+oah11al0gn6ugmabkad0ldtgdqh9qj65.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. xP8kx1EuHI+oO9DXB7h5tq2DeDArM750yHB9xAm+FHa+ImG+fquvUkM1IJ2yMjotSd8yuOm6+Hj0ZyjJpxe0xUFCSMW88FjcnN6D/DZJz3kiRBb8nhT+y77NatostSDUaAO8LLwa1owVLbXtXd47xfW+5ev2sMfBvkkzcDBCsuk=
+oah11al0gn6ugmabkad0ldtgdqh9qj65.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  oarodk4tkpcejqabqoj4cg8k3ahj7c3t NS 

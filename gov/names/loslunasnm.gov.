@@ -1,0 +1,4 @@
+loslunasnm.gov.	86400	IN	NS	ns1.plateautel.net.
+loslunasnm.gov.	86400	IN	NS	ns2.plateautel.net.
+nd2oidb1lr2gih3om8mvp1vv74tdbjhq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. DBmO6X0lXu+nTwYwvQ8KYnInn4vZq5BqVlmDLHFV/jwhTOv7zYBzNTHuXwJYpF8rKUm+oV1vYjn8sY/P/nIfXYZk3czB48ERAZbpZunF+gKc/OsYoI41BGJxvQuPWrft4gzkBpKhZh3aCwvxGKZu6HRZgfRfa77wqenD2KSV7m0=
+nd2oidb1lr2gih3om8mvp1vv74tdbjhq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  nd7b5g2l0chf3o02c2v3vq4e1sgmu5a1 NS 

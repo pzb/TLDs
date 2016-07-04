@@ -1,0 +1,4 @@
+2aq939bp48hd2deo7us6j1rik5uu0n96.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. WJ0zlGf3csoGBGgZdAJLy8xkwES0Pq6heHlaNgLlgTG2Yo71Ll3KvHhrL3Z/IPjTtpbxCIePuckG0i2e87w7Wr0bOr5/8R4TPknNmxKBIAFhyNvIHSBbEQoXpSg+36W3kp6WA740MJ4wo0hCkkN4Q00VfbaZg4W5J16z5dOFnKg=
+2aq939bp48hd2deo7us6j1rik5uu0n96.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  2arck6q8bg82oqkvej686r37sd7i39ls NS 
+medina-wa.gov.	86400	IN	NS	ns1.twtelecom.net.
+medina-wa.gov.	86400	IN	NS	ns2.twtelecom.net.

@@ -1,0 +1,5 @@
+hqvattkjss18tv7gbirkf9hb5b9lo3u8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. RnXIC7El8j/07y8s66mckRD9kO/SU3VOhFS+A2DqlEJezHgHFYdkTKOmd6X+ovlXAieUiLCZV4/R+F1P2WgI24TUU3qKV9bfeiwnS3objT/6C+inKEO2E7htln/k6xYmITtNsqCxuvZ71UXV3vgIMbyNs4xG/Lh+wHG9herQd9U=
+hqvattkjss18tv7gbirkf9hb5b9lo3u8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  hr25s87tipjpc7ebtjva3ebvsmfoccqf NS 
+miamigardens-fl.gov.	86400	IN	NS	ns1.dnspark.net.
+miamigardens-fl.gov.	86400	IN	NS	ns3.dnspark.net.
+miamigardens-fl.gov.	86400	IN	NS	ns5.dnspark.net.

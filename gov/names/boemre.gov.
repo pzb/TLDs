@@ -1,0 +1,9 @@
+boemre.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+boemre.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+boemre.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+boemre.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+boemre.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+boemre.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+boemre.gov.	3600	IN	DS	23254 8 1 b5fe0454289333ae4b5b7480472f91b0f008ee5a
+boemre.gov.	3600	IN	DS	23254 8 2 d83df7778d0d45269e6d1504a7efb3b5b440d5e0955027251c723a9fe6e00917
+boemre.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. JhQbA3SjkdOUt/Sly3RUmZ/tO+//JLJCs3TALqDcXEZQ5b93qd8eLFwElVLrAkDTGORtcwDEY0ODOw+Ruo5W+QjiJenTqgxm3HLy7cROzI9t+x2V6Ube07MWJwxivxL3+iBsG9j3gr70KJQH2G9ovoRd/U5WnLtqRFr6BW5JW0w=

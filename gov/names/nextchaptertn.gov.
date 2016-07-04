@@ -1,0 +1,6 @@
+hedkb8c4ghnjn0obk8vpa4ie200e412j.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. skpcIXa8IrAqmakP9Ulz85GQ+jYSfiLbapw0NO3rXkHFJdY5S8HAchUtwVr3j2fPNYMBi0JBjsdlN7YkVaStlVYqhjSbWoENOGE9Q3IylbWUYYd1Bh+RzzNwqhGpY8fa5l/GUH65OtghZbzz9GyO23Pukpn5lHoEOona4Ea+ZO8=
+hedkb8c4ghnjn0obk8vpa4ie200e412j.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  hel1eijts2jevspic5rsc1iea80h17cs NS 
+nextchaptertn.gov.	86400	IN	NS	dns4.tn.gov.
+nextchaptertn.gov.	86400	IN	NS	dns5.tn.gov.
+dns4.tn.gov.	86400	IN	A	170.142.92.58
+dns5.tn.gov.	86400	IN	A	170.141.168.22

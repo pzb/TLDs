@@ -1,0 +1,4 @@
+4bbo10pcn15acl9uj8728dnmgfq7orct.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. WSdhj4zxnD4kNTwTrFlQXUzgYCUysemuvLf/UJQ0tfo929SHjttpkuFHAlFUfwIPaKvhDGON6QYWiVNTixYq+zYoptkeXtRpokXVz5FpirL/iwzOZ41dLn6RLYO/BDO5PL0aHoYZ1I9+U5kyC4HJq1sRpoKkMpBED9AjZqNiF48=
+4bbo10pcn15acl9uj8728dnmgfq7orct.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4bgesm2tl99q9ts4mefmjc3ni36tls8l NS 
+opelika-al.gov.	86400	IN	NS	mns01.domaincontrol.com.
+opelika-al.gov.	86400	IN	NS	mns02.domaincontrol.com.

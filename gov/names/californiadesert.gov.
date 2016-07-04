@@ -1,0 +1,5 @@
+californiadesert.gov.	86400	IN	NS	auth111.ns.uu.net.
+californiadesert.gov.	86400	IN	NS	auth120.ns.uu.net.
+californiadesert.gov.	3600	IN	DS	44959 7 1 f805acd231048431eb2be59d801530085920abcd
+californiadesert.gov.	3600	IN	DS	45564 7 1 c5d72e90e5c9bb8beeb7e70ae7ec3b7ed139f48c
+californiadesert.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. uqaOEOl7RahtWPaGdH7elXuoGrM9hq1s4NNYrTfoD51bUEa/gw0DLT9BM/5z/5VSKIpW5N0h3wCDG0MKNezdtH69VVMXHVUbLTGh5EQfF0THkRpXShoGLnf6YHi+hup3IHGH5djTpa9KNw3pTSnc6toQEmNzd8mFE5ZAAM4aQx0=

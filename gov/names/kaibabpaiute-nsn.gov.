@@ -1,0 +1,4 @@
+jvqlq7foglr5k6nhkn8f47kg41ac5d64.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. MbsYu0fNJLFtbDn91ErwTGXly/NrfF9dtGM9kKpoV9KO3qP9+6PmUMbxRY0YaWqIeXFHwkpDy0uSqT0mu2ErZ5uea8mzn1FstDg4au895WfPcD+R26gLsky7697vhgefPtTh3KUYGSGlMeqdb6bA48Vt5rYWIui9HAwQo1U015Q=
+jvqlq7foglr5k6nhkn8f47kg41ac5d64.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  k00ufhjlqof98829b2j17hpsarcq7lqn NS 
+kaibabpaiute-nsn.gov.	86400	IN	NS	ns1.scinternet.net.
+kaibabpaiute-nsn.gov.	86400	IN	NS	ns2.scinternet.net.

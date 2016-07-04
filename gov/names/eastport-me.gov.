@@ -1,0 +1,4 @@
+95gb2p0nvklq38s258mj3arji4j9sdqf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. sdUNjsizmhPro2HBwkI0gtHefZqPFDyJn7Hyo4GinU0+53GHNLsF8pW1WyCRgCUh8iEMmctJsBf/Qf4HCzfMC0qY83s+nA+kGmI0Pnf+8riF1p/Wavm40UABFlL5LJLsIiGFgZxgDlbjk8gubH6LFYUgtuohJ3vVlm30kCJgG3Y=
+95gb2p0nvklq38s258mj3arji4j9sdqf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  95ilabfnunj43q61rgjrupn1a1p4km22 NS 
+eastport-me.gov.	86400	IN	NS	ns1.infotech-maine.com.
+eastport-me.gov.	86400	IN	NS	ns2.infotech-maine.com.

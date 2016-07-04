@@ -1,0 +1,13 @@
+ns.cybercom.mil.	21600	IN	A	131.77.60.235
+ns1.csd.disa.mil.	21600	IN	A	152.229.110.235
+guv10m01.mont.disa.mil.	21600	IN	A	214.3.160.20
+guv10m02.mont.disa.mil.	21600	IN	A	214.3.160.21
+dodyrrp.mil.	21600	IN	NS	ns.jtfgno.mil.
+dodyrrp.mil.	21600	IN	NS	ns.cybercom.mil.
+dodyrrp.mil.	21600	IN	NS	ns1.csd.disa.mil.
+dodyrrp.mil.	21600	IN	NS	guv10m01.mont.disa.mil.
+dodyrrp.mil.	21600	IN	NS	guv10m02.mont.disa.mil.
+dodyrrp.mil.	10800	IN	DS	37054 8 1 a23891746a001f6ee2ece7292043041f1616293f
+dodyrrp.mil.	10800	IN	DS	37054 8 2 c6f2a320f58503bc37400880ae3e50bef1161b7b43baed649e2dda4e764307c6
+dodyrrp.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. V9+PDNRTjlYIRObp1sXs5ifYzc38FASMwNBwC2g8qBOIws6wfAeZc6pFKiOnfqvlOx9kAGZTVe5cUr1rmbtorsMzV3I+G0RByPvPsiwpWq/7sq2L2AO3F9ns8abjvg2CsL5MGAodJn0m2UwbVkctmg1Uh4IoVEya/4dMsx1W+oJTGWg=
+ns.jtfgno.mil.	21600	IN	A	214.3.125.231

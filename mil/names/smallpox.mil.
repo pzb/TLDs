@@ -1,0 +1,9 @@
+dns-pub-f1-u.pentagon.mil.	21600	IN	A	199.252.47.11
+dns-pub-f2-u.pentagon.mil.	21600	IN	A	214.14.133.11
+dns-pub-f3-u.pentagon.mil.	21600	IN	A	199.252.47.75
+smallpox.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+smallpox.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+smallpox.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+smallpox.mil.	10800	IN	DS	51994 8 1 bcde5dcd921f25a5a3ebacf1ca3c51cd046db368
+smallpox.mil.	10800	IN	DS	51994 8 2 08cc07a7e96eb4468e17a3eb00c643e3787114cab48933988bbf88519eca3398
+smallpox.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. lFmgfQuE7Gmf2IdvZ41g4TorcX6AlQCdwHHVtniMp4UEkrIgnUqEna7zvw1R9rYMeL8121hJIioY52BDLqcHwC+anan7XTHJPPVlV9lx7kLT+5gfGk0jzHwt3C3PEUauv8tlXlYwRyamVBMlufZ7b3gxrtpoJihVdKsPjirnU8Qup+A=

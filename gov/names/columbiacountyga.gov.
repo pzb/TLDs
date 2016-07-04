@@ -1,0 +1,4 @@
+aq0pitbpislb08m4f2oc68allrnao6on.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. eg0B9nGLMaCf94p9vdVQzbpZeifq3Tz+acMOTUO1AVzax/RHmlSA8IiM5qOTleMDEEIzHLNOOb3K5i1Jf5+BFRrGzsTz1ugxpmaqdfTd0Fmo8KSzsmJlLLDH9N68wKPjsn/M473fr9lWGUEo5Y/tYlhM15Tn8oJDwMLnlyVTqT4=
+aq0pitbpislb08m4f2oc68allrnao6on.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  aq3u2d1s050vadds7btqjl5soi7svidn NS 
+columbiacountyga.gov.	86400	IN	NS	dbru.br.ns.els-gms.att.net.
+columbiacountyga.gov.	86400	IN	NS	dmtu.mt.ns.els-gms.att.net.

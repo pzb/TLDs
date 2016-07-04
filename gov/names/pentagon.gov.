@@ -1,0 +1,9 @@
+pentagon.gov.	86400	IN	NS	beast.dma.mil.
+pentagon.gov.	86400	IN	NS	beauty.dma.mil.
+pentagon.gov.	86400	IN	NS	kaucher.dma.mil.
+pentagon.gov.	86400	IN	NS	russell.dma.mil.
+pentagon.gov.	3600	IN	DS	45307 8 1 2cffd3b4c7bb4146ab43f30f4b4aa7ed1e4d5521
+pentagon.gov.	3600	IN	DS	45307 8 2 ec777d7b9f02e477ed095688d4d9f6ee3ca7a6a58843dccd774518b92760e449
+pentagon.gov.	3600	IN	DS	61484 8 1 709114fd9683d2c4255523b872fe6ad815bfabcb
+pentagon.gov.	3600	IN	DS	61484 8 2 db306ff3410e9d437da821f3aa5a5bc42dd20622f348b2b3b47c956b9815c60d
+pentagon.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. HsLX1WtJc76Gin9n9JAuqqLhKtLs79Od/hmdqPKYenRWuJHolhxa06nzxJG3NenbXmrl7ssNDZctYA8OEv7dNlQygNQSpJFOoLwMUVEjaQGvhYlzCA8zafKihJ6nrPemPT99Zn7e5e7jLdTyDivPDO3WdegU++jE9+8bHIW4E7Y=

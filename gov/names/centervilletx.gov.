@@ -1,0 +1,4 @@
+centervilletx.gov.	86400	IN	NS	ns1.amplecomputers.net.
+centervilletx.gov.	86400	IN	NS	ns2.amplecomputers.net.
+i9eq42jvhqam379eap786gp8hve5kkhd.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. YxOBYGfuYQr3zuW+8nw0oPEiSZoNvfkvyLPEGWRZVunP2fpmctqPn88X1d8//DR/zyL4y3x4R5ldLeE7KLbCl7b47BBzNIeu6D6JnXk+2CoRHA4hNLD5ie1+mgTWs51Lbwi9499fv5LDhK91UWX0Y1Hdj3ciFDznDjuc3lIGxlU=
+i9eq42jvhqam379eap786gp8hve5kkhd.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  i9g3722pj9br6n9l7adi54265ele10j1 NS 

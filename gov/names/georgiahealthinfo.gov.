@@ -1,0 +1,6 @@
+georgiahealthinfo.gov.	86400	IN	NS	ns01.fnts.com.
+georgiahealthinfo.gov.	86400	IN	NS	ns02.fnts.com.
+georgiahealthinfo.gov.	86400	IN	NS	ns03.fnts.com.
+georgiahealthinfo.gov.	86400	IN	NS	ns04.fnts.com.
+m7nng6p0lun0nvt05mb7vim0p7t3v5cl.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. XXVDubv1fY8oeQw3baWrS3LbhNCpfJLO/TRHPcjd4mBJzgi2SOIIkOAMCnla/Iz7uX7Pb1mqjcOFD7zJxovSriw0s9+OOYAJZLLfKR2bC7matY5cWRBP5qreIHGKkvfG0Sfq492wMflYyzDArBt+ZxmIQxqEeMA8+Tu2qpKzHyM=
+m7nng6p0lun0nvt05mb7vim0p7t3v5cl.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  m7nqg3ihh847jhk2potlg0ubc1gq09k7 NS 

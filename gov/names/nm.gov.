@@ -1,0 +1,8 @@
+h08vlhsv618rk480dste4khhi5a53bmn.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. qKklPmxFQtqmR0VXj50/oLDvwATFg35Ktk3hfKFc3ia0un0Uco4Djz6UAabweMPIKxrlWqGyZOJrQ5mAqCzvyixB8Y5j5CDbVHOH35grTGknhZB2T29KwIu9IA56cODOGtOR/CMIyWAGBUPG6nJcS1Xg6YQtvuD4AQc36WTTYjc=
+h08vlhsv618rk480dste4khhi5a53bmn.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  h0de0519sll9ksclvuom57o6a8mfvk1p NS 
+nm.gov.	86400	IN	NS	ns1.nm.gov.
+nm.gov.	86400	IN	NS	ns2.nm.gov.
+nm.gov.	86400	IN	NS	ns3.nm.gov.
+ns1.nm.gov.	86400	IN	A	164.64.1.2
+ns2.nm.gov.	86400	IN	A	164.64.3.5
+ns3.nm.gov.	86400	IN	A	164.64.39.50

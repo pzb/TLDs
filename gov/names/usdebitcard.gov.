@@ -1,0 +1,11 @@
+ns1.treasury.gov.	86400	IN	A	166.123.208.249
+ns1.treasury.gov.	86400	IN	AAAA	2610:108:4000:100a::249
+ns3.treasury.gov.	86400	IN	A	164.95.95.155
+ns3.treasury.gov.	86400	IN	AAAA	2610:108:3000:100a::155
+usdebitcard.gov.	86400	IN	NS	ns1.treasury.gov.
+usdebitcard.gov.	86400	IN	NS	ns3.treasury.gov.
+usdebitcard.gov.	3600	IN	DS	31371 7 1 05461a67e184cc7c3d49b0cf8f9eeca3334c3507
+usdebitcard.gov.	3600	IN	DS	31371 7 2 c68d1423ebf3b00100388698d18f3d2093d78306834e1ab760a82335eabdb79f
+usdebitcard.gov.	3600	IN	DS	58839 7 1 d75d851cba39bf4b5204879ac7a468f9b06fbd7e
+usdebitcard.gov.	3600	IN	DS	58839 7 2 021036750509d8e795399a0b390dff970373823114248122eaba32a340cff451
+usdebitcard.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. aqjl2u1grukdZy5xb3IX1PCfDxfmgy9i8k8W29bouO67Rdhyb4J6olUH1WqyImrRKD/56UV9W3hFIymD2XyHKFGtO+NvLoZCb5eoaGwOTJwtSgt9Gzw49KWea3RQwPPySvys3paQYeAPbIgiBzK44RlZd/GWrw+qTsCb3WbPr3Q=

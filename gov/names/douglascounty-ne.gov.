@@ -1,0 +1,4 @@
+0vshaggoe06tta1pgo303i3mgv6s4mp5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. c6PYMfMS1c7EeVZOmHuGcMq/tieUTcTMu4/S795KRo4kLBaS2r3zUOnuyA5JLZrdBzORc6BrAllxEAXxDe2IBIBKkNByRmiuQDjzba8IRHE12R4Y60Z7jtJtje17BMxhXNhtyQxhgLkUc6fQQFu7vk94TdQdvvtjj/g2CCxlO1Y=
+0vshaggoe06tta1pgo303i3mgv6s4mp5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0vt35ckqh16ddmdtpqc660g62sfh8sai NS 
+douglascounty-ne.gov.	86400	IN	NS	pdns01.domaincontrol.com.
+douglascounty-ne.gov.	86400	IN	NS	pdns02.domaincontrol.com.

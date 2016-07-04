@@ -1,0 +1,4 @@
+lpk50r6dscc57mhjrdldl701u4q54nqf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. vQh+7i++CC0y9u+YtOIJJHi0pVBu+IvufYCgsnaz10tGh9MxvmWDXjMsVjApJnRIczWt06chftydJQrRVHbKDH3FJ8ucFC5gHgvs2QhMTP4xdOrxvuZvL62PUn29o81YWCvhuhk4mNP/KWo3TX6tisX8YuIB2a2Wp3og2RxFh2c=
+lpk50r6dscc57mhjrdldl701u4q54nqf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  lpp1373van95adtgue8f90kanjcv6lhr NS 
+pittcountync.gov.	86400	IN	NS	dns1.pittcounty.us.
+pittcountync.gov.	86400	IN	NS	dns2.pittcounty.us.

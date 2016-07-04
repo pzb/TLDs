@@ -1,0 +1,6 @@
+augustaga.gov.	86400	IN	NS	ns2.cl.bellsouth.net.
+augustaga.gov.	86400	IN	NS	ns3.cl.bellsouth.net.
+augustaga.gov.	86400	IN	NS	dns1.augustaga.gov.
+dns1.augustaga.gov.	86400	IN	A	66.20.193.93
+eveaid74c4733htv3vgfg06qpd0pu4ls.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. dY/5RK71ismk6ruD62sMPil5JUhAyZkEM046zlCQZNofhQGvJDhTtcynh/rZnKK82NXxOmdTlOFiUtcCnui9BlFMpiGjOO0aHSjDpd9kMLLNFj48ZHm9ASoirTIXW0U8VjjzY4Hn2Krn7v0+Cdh5odGbd9pbWk1Of1lh8dc2q2I=
+eveaid74c4733htv3vgfg06qpd0pu4ls.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  evg09q3rsc2qc1b3hmguoqqrmgbebfir NS 

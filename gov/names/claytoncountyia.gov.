@@ -1,0 +1,4 @@
+ar02ffcu0lc4v1e2ck38f5oj94l1t7g5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. JeMM6n6Isb0oE894hCeCc7xR739dGojvqKtD7eDUdpgPz8RNldpU2yvMvag9ito3G+xDgqo540LXE7D+0RFMoaTCrjtcdI7zkF220J+9ztMXROTMsB3qY52I8ANEOIh9FM4aD7e/cgBvobkEHdgi0SgvlPg4QI94sW6ULtlOlQ4=
+ar02ffcu0lc4v1e2ck38f5oj94l1t7g5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  arjh44ejr80srsi4hekrau1liilh40eu NS 
+claytoncountyia.gov.	86400	IN	NS	ns1.iowatechnologies.com.
+claytoncountyia.gov.	86400	IN	NS	ns2.iowatechnologies.com.

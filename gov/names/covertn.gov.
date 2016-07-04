@@ -1,0 +1,6 @@
+covertn.gov.	86400	IN	NS	dns4.tn.gov.
+covertn.gov.	86400	IN	NS	dns5.tn.gov.
+rkgem3sqc10e5nafge4sumeebucvovae.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fo9cfZaLjs6ClRd9UKb8XMxKyaei01A2cC4D7ttX2kItT/WVNorJimo0DhHc2MTsLs7uIZjrOQ0qehAOis0l8u5VaAqiz0UKqJF4BQdXqa32H4kqr/Dy8TxP8p4Llcbr0w9//+XrexDWAy0xv/jr2HSDKJ0fUhAa0j/gO0PL+f8=
+rkgem3sqc10e5nafge4sumeebucvovae.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  rklvisf26i2nsgdvkill86jn6n12mrmq NS 
+dns4.tn.gov.	86400	IN	A	170.142.92.58
+dns5.tn.gov.	86400	IN	A	170.141.168.22

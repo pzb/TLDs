@@ -1,0 +1,9 @@
+alaskacenters.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+alaskacenters.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+alaskacenters.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+alaskacenters.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+alaskacenters.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+alaskacenters.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+alaskacenters.gov.	3600	IN	DS	14792 8 1 f36150e3827197d2f1c62fdc5dd26f9e4f30804f
+alaskacenters.gov.	3600	IN	DS	14792 8 2 3a734ae4d27fa6e8213f1d672af87d20454835765f4bc0de3437e9a71a86c1c8
+alaskacenters.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. bRacB+HPw4OL97baJat6SWbD87YtCcguIYpaM3uPGWxscAJsQ5BhtyIJFNCAOD8gJMs7VNnqmEcjQOmk9XYCitxoZydK8KKVwiSnG+o6w+OHuY6Tx7KZzD5R6KjXLuxv0E39uCX0tYJmc+M9aneZNagaN9V70XiAXMlbSRZaSH4=

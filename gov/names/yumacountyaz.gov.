@@ -1,0 +1,6 @@
+h5q4e6g9lts1tsvjb0672rk9fbtkmns7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Rsl791JsRZy/2n5PR8KnOkSve6xFTbk8eY7w6qIbKqTqZj5flLPXobMmBXf37rnc7rzRu8bWgOUPGYHfos8f3jlV4cxNJI/5FaH7d+k04jtltvwbrN0c/cxOsUr3cdph6PMgOLY/vJnIx0iSvBdejQGvFbdVKKoe6/s4xBqFpqs=
+h5q4e6g9lts1tsvjb0672rk9fbtkmns7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  h5rkct94jgj0h8u240gg5l5l5m664o3b NS 
+yumacountyaz.gov.	86400	IN	NS	ns1.yumacountyaz.gov.
+yumacountyaz.gov.	86400	IN	NS	ns2.yumacountyaz.gov.
+ns1.yumacountyaz.gov.	86400	IN	A	24.43.250.135
+ns2.yumacountyaz.gov.	86400	IN	A	74.87.214.108

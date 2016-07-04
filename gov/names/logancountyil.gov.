@@ -1,0 +1,4 @@
+37hlcuotpheh6dvkalij3p7malgchckd.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. bLjEZzoZsqYelKspA2QqlkFB37qz4W5Si20tFLskwOjqI/MPcHh3/1yqPvsRdnYi0o7EvrOlByHz8pGcCU5gIT5dq/H5urTuvcfcLzen6526YuU4r1FAWt5Pdprk4nOUPQHWmlvFY2JupXEPsLy6v4akFzwCSDvJ3h7fW6VPV24=
+37hlcuotpheh6dvkalij3p7malgchckd.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  37phjjm1b7b51mptls79rpgepcuhdog2 NS 
+logancountyil.gov.	86400	IN	NS	ns8359.hostgator.com.
+logancountyil.gov.	86400	IN	NS	ns8360.hostgator.com.

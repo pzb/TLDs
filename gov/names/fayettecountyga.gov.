@@ -1,0 +1,6 @@
+15kkrcvio6v9jd6g12gd431diehlrjg8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. sINpKD5i+4Xf7khVnAGjM7RZFlnMMUYlhA8DcrvKAnW/GSwNBOMuSRPE7NXB2QAMe7y6hTY9tsxYf4MOVDQ9eSHhomwpMJwG3Gw/mM3vW7jxExqtc3gWfrAvg9++Mm/P05A8PMZs3S4hu2+1xe6GubgaqgSoPQqr58qrfmxZ9+w=
+15kkrcvio6v9jd6g12gd431diehlrjg8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  15l96rdeb6v3lgpt05v3v0dad1r9st6p NS 
+fayettecountyga.gov.	86400	IN	NS	ns1.p13.dynect.net.
+fayettecountyga.gov.	86400	IN	NS	ns2.p13.dynect.net.
+fayettecountyga.gov.	86400	IN	NS	ns3.p13.dynect.net.
+fayettecountyga.gov.	86400	IN	NS	ns4.p13.dynect.net.

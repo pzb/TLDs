@@ -1,0 +1,5 @@
+53ibksuvm6gah4us13a24d9ktv0cq1u2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. WEN7BsQ5dJyFkCnTRORoO1GZhyRc4vNaQTVBPRPfbRbhpdZHvit+3G/ihF4VGxA4zW+KoX+LGfdZ9LmEHgbjPxrifKloUhhB+opSDMNrYKTCyodUiavklV+RfnMpkwtXaMVj+M8aMTS+Zab/EpXHX7eYkjP6zyhGJ8+Mk1LRgWY=
+53ibksuvm6gah4us13a24d9ktv0cq1u2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  53lnkpvibubicvtoj7cgnepltk5bns71 NS 
+bradleycountytn.gov.	86400	IN	NS	ns1.wingnet.net.
+bradleycountytn.gov.	86400	IN	NS	ns2.wingnet.net.
+bradleycountytn.gov.	86400	IN	NS	ns3.wingnet.net.

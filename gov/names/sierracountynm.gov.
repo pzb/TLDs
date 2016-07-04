@@ -1,0 +1,6 @@
+f98gt1p7h0kvredvtpsarvdcdcd1q406.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ro79CIfFtZHlhNlp3wy3c2SoVunV78/UaMNejZPNvECqstTe3zHBMxzxWnk2X03udgcb6qVYsXdPc0QdHSec/s4+Bj6szskpTQDRvLHwMMbex7TJ5YFKZktllmOpfkyPoicfhPnyO3NZF2r0HFymQCv7c327VxZN1RjzBDk2mB4=
+f98gt1p7h0kvredvtpsarvdcdcd1q406.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  f9sjj83h9ojjq8m53sa54cn202fgq32u NS 
+sierracountynm.gov.	86400	IN	NS	ns1.windstreamhosting.biz.
+sierracountynm.gov.	86400	IN	NS	ns2.windstreamhosting.biz.
+sierracountynm.gov.	86400	IN	NS	ns3.windstreamhosting.biz.
+sierracountynm.gov.	86400	IN	NS	ns4.windstreamhosting.biz.

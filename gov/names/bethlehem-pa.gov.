@@ -1,0 +1,7 @@
+bethlehem-pa.gov.	86400	IN	NS	ns1.ptd.net.
+bethlehem-pa.gov.	86400	IN	NS	ns2.ptd.net.
+bethlehem-pa.gov.	86400	IN	NS	ns3.ptd.net.
+bethlehem-pa.gov.	86400	IN	NS	dns3.ptd.net.
+bethlehem-pa.gov.	86400	IN	NS	dns4.ptd.net.
+kjohcd6ctak98eto4b3mmq1ffujikg25.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. GE007b+sWdW0jw0x/Btrdc00+Acz0sJPTzYptNu5Cmn+n+bWrHN+f41iEX1AWK5vMKedIvmlJyy/97StVQjX1Ixpb2fBkPJee5dZTcwyg3UkO3o4qrbyVA7oF/e5zD9icQpRoRayWhthQqe3Ol2/sGlKrOOwlr73xwH39gjl9MM=
+kjohcd6ctak98eto4b3mmq1ffujikg25.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kjs0vvd7ulgiu80q5mmmrlfjuaehiof5 NS 

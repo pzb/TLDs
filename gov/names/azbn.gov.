@@ -1,0 +1,6 @@
+azbn.gov.	86400	IN	NS	ns1.azbn.gov.
+azbn.gov.	86400	IN	NS	ns2.azbn.gov.
+ns1.azbn.gov.	86400	IN	A	159.87.107.211
+ns2.azbn.gov.	86400	IN	A	159.87.107.212
+gafm94al4shfhgrufi7tkpma7cu7pre2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. RS+5egIt/nEAXUNZRRPr3QutnlstoeLdQ2NexPr1aRJMOEnApq2X3u1yNtqDOblL9EeD/Ur2kqONkIHim2d6qhygWe0V8zX7FHtOLsQ21ceZzC4xY4KprQrxicsjT8iaN5hbkrOPZxb3qWUV/BA6BMNlhJQsoMPY+kvWTBEL8lo=
+gafm94al4shfhgrufi7tkpma7cu7pre2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  gb8cqg26smlhuj91a9l2g2482adq3npe NS 

@@ -1,0 +1,7 @@
+congressionaldirectory.gov.	86400	IN	NS	ns1.gpo.gov.
+congressionaldirectory.gov.	86400	IN	NS	ns2.gpo.gov.
+congressionaldirectory.gov.	3600	IN	DS	38883 7 1 25028ad3dad59ad2397aa451bd8b6a9cbcb0aaaf
+congressionaldirectory.gov.	3600	IN	DS	38883 7 2 9d5c08d08f55ad1191628a78392af9c2774a3b13314099b2769cc648379349fe
+congressionaldirectory.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. K8MS4LxYE6eiX3LCRhmNa7IDMnt/moKTj6LhNimxyMpFFAaeUziQjBtUBJ1MAAz7DNSFXcyP7GRovbUVtC4pRkKtEgLGcy27jl3j22It1R4BjuKP30zjChW86uFDHF4Cg6SpSWwO+LOruN/B2pUqaLikPPdlAHidGZZEIZGRmP0=
+ns1.gpo.gov.	86400	IN	A	162.140.64.100
+ns2.gpo.gov.	86400	IN	A	162.140.252.180

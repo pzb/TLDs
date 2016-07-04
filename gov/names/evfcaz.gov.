@@ -1,0 +1,4 @@
+evfcaz.gov.	86400	IN	NS	gate1.ci.mesa.az.us.
+evfcaz.gov.	86400	IN	NS	gate2.ci.mesa.az.us.
+fvij99g5urfcu9j45h7tru6kpf1764c3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. FHRw1O1lx9Jz/QLHTip88mSunS3E4b8nfQNNlK1DCXsAt1fFrWGvV8yi6buqCVI+wuWeUgczW9O+jVDaES8/fkUQyJOh5cgpqTonKBIGUFTaO45vkNOFjTblQNTJHKBIWzypwjgVRb4P7pdQ4w+kY9RYZjHkfrA3ZBNP98aNw/Y=
+fvij99g5urfcu9j45h7tru6kpf1764c3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fviu14p62k6jcpah1l7d9d80ic5rg3mt NS 

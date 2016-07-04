@@ -1,0 +1,4 @@
+at1ddl5io7r1k6m7on1qvibj0n53r481.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. tuUCfQguAMgPKQzGQpJHo1k1L+xdRQF7txHMU5BVPQk/NUHKQ4VdQC2m/Sre3hNn3ff18PmCmCP/zC6acTNNdB+C31WVXlHrUnoaZBFOR/BQeXTi8G8a9gw40nx6j8SamAS95/mu9yi3bgZX/5lR0Dzadmrb/I9Mlu3Pg8m4qE8=
+at1ddl5io7r1k6m7on1qvibj0n53r481.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  at2na284agj6aqjq2n8e2e17no189itq NS 
+sc.gov.	86400	IN	NS	ns1.net.state.sc.us.
+sc.gov.	86400	IN	NS	ns2.net.state.sc.us.

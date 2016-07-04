@@ -1,0 +1,4 @@
+daviecountync.gov.	86400	IN	NS	a3.uberns.com.
+daviecountync.gov.	86400	IN	NS	b3.uberns.com.
+trs4c2fttt0d2gkt906e9o3sjm7vu9mo.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. XhWcW4+PsVvYAm94sSh45e/AlFcqy4gZC8GwU1kcG6WMq2UbGV53qthJv8XLgVpEGfFgibO32bXlwCemdf+o+QKxWuonLxH8LacY/L18NUWODBZ594uiGZeRfcl+MszbUzZPAIFx+Kk0obUcpvMsamLS+DNdZuWtFjAAfmUMIyM=
+trs4c2fttt0d2gkt906e9o3sjm7vu9mo.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  trvnds9748jfu8t0pdelrqvrs8u8so29 NS 

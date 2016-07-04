@@ -1,0 +1,15 @@
+ns.cybercom.mil.	21600	IN	A	131.77.60.235
+ns1.csd.disa.mil.	21600	IN	A	152.229.110.235
+utindo02.csd.disa.mil.	21600	IN	A	152.229.110.236
+guv10m01.mont.disa.mil.	21600	IN	A	214.3.160.20
+guv10m02.mont.disa.mil.	21600	IN	A	214.3.160.21
+ns.jtfgno.mil.	21600	IN	A	214.3.125.231
+yellowribbon.mil.	21600	IN	NS	ns.jtfgno.mil.
+yellowribbon.mil.	21600	IN	NS	ns.cybercom.mil.
+yellowribbon.mil.	21600	IN	NS	ns1.csd.disa.mil.
+yellowribbon.mil.	21600	IN	NS	guv10m01.mont.disa.mil.
+yellowribbon.mil.	21600	IN	NS	guv10m02.mont.disa.mil.
+yellowribbon.mil.	21600	IN	NS	utindo02.csd.disa.mil.
+yellowribbon.mil.	10800	IN	DS	52399 8 1 be9545e8f23e12fda961fd89c9389ad7e2406eb6
+yellowribbon.mil.	10800	IN	DS	52399 8 2 bfecc0be7cb3bfb187398a7606be6142a061bd4bb456464d3efc32939bb41e95
+yellowribbon.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. WuyIdPpz0dGl1NdRP5RN1w9vaatYIXzCJyX+CI2MKHsLR649xVb/UTA+EpCLG12Iz3FUjnCiHtXybDufn3XJrz7tUbCjO4RB9COhSfcI6C9DHhpnNtsAn/pUhTZ7yu3WKyy3HdL738t0ESqQVQPxtV8k5xzQZjPprnUFeeEAezqvg3I=

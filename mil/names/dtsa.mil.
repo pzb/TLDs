@@ -1,0 +1,9 @@
+dtsa.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+dtsa.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+dtsa.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+dtsa.mil.	10800	IN	DS	46474 8 1 7b1c629419e5e77975114fc378b598d5f0ca5959
+dtsa.mil.	10800	IN	DS	46474 8 2 9ae2e3fa8c15e554c8ea4166c49ef00af1045db71bbebc7ae543f5def4f0ec2c
+dtsa.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. PkC+8M7Il3Cf2XtPPrguiuvc022jB3A3/qzLwrANqctEAIfLegSAv04se2KzURtDfXRnF21BRwGr3c4jNPEjAYl1VuK9sHgvjB+Dzt33y5Yb0KQ5jQqiKqyDLZL1XoLk78h7UuvAUKdsNdKz52TMA3qn64XreL1mImLC3RsrTdojrs0=
+dns-pub-f1-u.pentagon.mil.	21600	IN	A	199.252.47.11
+dns-pub-f2-u.pentagon.mil.	21600	IN	A	214.14.133.11
+dns-pub-f3-u.pentagon.mil.	21600	IN	A	199.252.47.75

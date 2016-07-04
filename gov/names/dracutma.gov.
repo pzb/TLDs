@@ -1,0 +1,7 @@
+4pnhaqs7l0o87fdqs8ghn1gj6m75a6hc.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Wikh+dhvWG9etDI4OKUoAvRfauKjJgs/jrUP5jo3z0bwAoHP8qXtAuVUzsaiXKEBLYh1+XuwVVH+dwuGJ3V7C8CleAVXZaOsnNOEHylCDHYVy588yp83TPm30pG9MAlZVEVlsDDmCg3fFzjMDwPnSs5cQuzzPgITMkzG0qyVz5o=
+4pnhaqs7l0o87fdqs8ghn1gj6m75a6hc.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4q6osn44slk7qjstcvr2ojon6ob0sd53 NS 
+dracutma.gov.	86400	IN	NS	ns0.dnsmadeeasy.com.
+dracutma.gov.	86400	IN	NS	ns1.dnsmadeeasy.com.
+dracutma.gov.	86400	IN	NS	ns2.dnsmadeeasy.com.
+dracutma.gov.	86400	IN	NS	ns3.dnsmadeeasy.com.
+dracutma.gov.	86400	IN	NS	ns4.dnsmadeeasy.com.

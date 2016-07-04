@@ -1,0 +1,5 @@
+822tbhfa71g8gsfcfghk9qhg6h3gk8bc.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Kg0a/2mujlk3j0V8JCyCTwg8H9dIxqmEoyrX0GtyrSe5RjpkpyUy/XbUsvOY605bSjt2Wp5dfsLm7JxxvxJ9kzKk/kggY8JMkzhrEh3izn3vTfT7jie8L4zzOlueU792L2T1XZv03/v8N9UZfvl09+V8XzBySQVJxbTqph07Gm8=
+822tbhfa71g8gsfcfghk9qhg6h3gk8bc.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  82a8vh8d42ibq9ogf487fmelivj0a7i5 NS 
+poconopa.gov.	86400	IN	NS	ns1.infotech-maine.com.
+poconopa.gov.	86400	IN	NS	ns2.infotech-maine.com.
+poconopa.gov.	86400	IN	NS	ns3.infotech-maine.com.

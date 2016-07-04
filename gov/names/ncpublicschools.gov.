@@ -1,0 +1,6 @@
+bo6rid0ee05tgl25vk6080o59ebmb99g.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. nxID/12R1D8OEDvdcOFiYcFM+XyS7GjISuf4OTTeLOUeOsaXK8LAfN8yXnZJZLq1zgztpGTYtKgb+St7/pScco/l6KIveIQ6JmIGncg8HtsGvUAFJqG7jN4ogF9sgoPXVpzX+LYs/MVUR7fS5IlSroMSJYrliVaFBqQIIjs9ywg=
+bo6rid0ee05tgl25vk6080o59ebmb99g.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bo9dff5hqaf9ssh3lp01fuoqqf25h61r NS 
+ns1.nc.gov.	86400	IN	A	149.168.11.11
+ns2.nc.gov.	86400	IN	A	149.168.138.11
+ncpublicschools.gov.	86400	IN	NS	ns1.nc.gov.
+ncpublicschools.gov.	86400	IN	NS	ns2.nc.gov.

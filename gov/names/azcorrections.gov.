@@ -1,0 +1,6 @@
+azcorrections.gov.	86400	IN	NS	ns-252.awsdns-31.com.
+azcorrections.gov.	86400	IN	NS	ns-547.awsdns-04.net.
+azcorrections.gov.	86400	IN	NS	ns-1424.awsdns-50.org.
+azcorrections.gov.	86400	IN	NS	ns-1796.awsdns-32.co.uk.
+p39j1pacipph8nmnl3f0b6gqu40std3s.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. awLX9CnlD1a+IMwuZRadeN4M/W1cNx5seKpQQwHkzXXbBZV5pUSdeIdXwTs02fNHrksUWSaWejE9C4W+mSMl9+VfACHoS3FqOHLEQZf3Jh5z0ZnW0kHeibR1Ri2Mk4MJZBoKeJqEMZgji/FMV9UOtI24rhy9T7W9Vxal4y8nMjo=
+p39j1pacipph8nmnl3f0b6gqu40std3s.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  p3mm7132oiir0ctm6m33neq70lcnjhr8 NS 

@@ -1,0 +1,8 @@
+t2jh5eddhkigt29bon0khccfi5te4u2f.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. WG4iYaoKz/e42QCEdfvBCYuOFS8dyfzWPyaYMH6gaPMScurIZ/WB0NXCGGjgf3xwxqzRlpfQnxAGuUCkbxy9vUVh3JvszJayFe8rs3a86mN7uJdVhP0tYcm2xnslTactVjcopSL/rrc0N0rz6sa3WSiOhlc778kgSKWur3uPBBI=
+t2jh5eddhkigt29bon0khccfi5te4u2f.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  t2qagtrkhqbf8ns3f5218hu6umpo168f NS 
+uniongapwa.gov.	86400	IN	NS	ns10.dnsmadeeasy.com.
+uniongapwa.gov.	86400	IN	NS	ns11.dnsmadeeasy.com.
+uniongapwa.gov.	86400	IN	NS	ns12.dnsmadeeasy.com.
+uniongapwa.gov.	86400	IN	NS	ns13.dnsmadeeasy.com.
+uniongapwa.gov.	86400	IN	NS	ns14.dnsmadeeasy.com.
+uniongapwa.gov.	86400	IN	NS	ns15.dnsmadeeasy.com.

@@ -1,0 +1,8 @@
+dni.gov.	86400	IN	NS	a1-22.akam.net.
+dni.gov.	86400	IN	NS	a3-64.akam.net.
+dni.gov.	86400	IN	NS	a12-65.akam.net.
+dni.gov.	86400	IN	NS	a13-65.akam.net.
+dni.gov.	86400	IN	NS	a16-67.akam.net.
+dni.gov.	86400	IN	NS	a22-66.akam.net.
+dni.gov.	3600	IN	DS	29707 8 1 2d94a95a2264e6bb0ff06a5f63fd3a1b9b3fd6d3
+dni.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. NfpTFCHoGuVOrpIEvjR3YKf0c7ppf1tLPuq05FgaAZdERlWraRUKa3MVcqiyBk2lCOip43pJuDf3vSX8lYUjKjC3p2iofU0pUmRFTpdIezWEtEVPNj1US3AMFHuzDGmGCaeniTL8YprE7ntqleEk1s/W86unO6oR6EGB3sj3Q2U=

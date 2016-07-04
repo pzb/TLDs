@@ -1,0 +1,5 @@
+jq2iio2dj8j2rs32p1fj1gk8uapb95t1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. g3HmiQ/lFMd8e2pz4DJvrEvNetA2xm4mmdcx6Q+U5PomRAMCg99tBr+hF+xL98iOS14gatcFCiGxMxrdo3rpfL/zAoti25n2Gd2jdVYzRDohHAlxwNhuKzDbfhbtS99A36M2pMWiPG9HQdmjSNs1uIRW6BpMKjXoQg8j1Z4ULCw=
+jq2iio2dj8j2rs32p1fj1gk8uapb95t1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jq2j2hfgvpllq5iliu8qm9qjg93f0maj NS 
+wichita.gov.	86400	IN	NS	ns1.telcove.net.
+wichita.gov.	86400	IN	NS	ns2.telcove.net.
+wichita.gov.	86400	IN	NS	ns3.telcove.net.

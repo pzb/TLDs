@@ -1,0 +1,6 @@
+7uuhb0t89lvpb81r0nr57re0773rsb0l.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. kuCQswFMHwPprj/2rqW7pDRh/09LPP7323kr2zHN9/anjwcANYA+teJJrA8zKqpEc3GFhgHk4RxTH3cEs4T153/M4yEWuc6p8QK9JZmu9ewcI/JnPxg/cWSumMF3J+803ZO5bTXpS+XDEAFV7TgoXcOqTrwlZtautY49R5giKbM=
+7uuhb0t89lvpb81r0nr57re0773rsb0l.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7v0p8n2hlqs7bcjr4jsq3bgeknlfdpm6 NS 
+azwaterbank.gov.	86400	IN	NS	ns-505.awsdns-63.com.
+azwaterbank.gov.	86400	IN	NS	ns-746.awsdns-29.net.
+azwaterbank.gov.	86400	IN	NS	ns-1400.awsdns-47.org.
+azwaterbank.gov.	86400	IN	NS	ns-1637.awsdns-12.co.uk.

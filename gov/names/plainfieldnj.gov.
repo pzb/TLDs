@@ -1,0 +1,4 @@
+7nkbt53ikhlr4kpj2kvabsp9dg8lo0d1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. euGbtp3wi7Vlx6qYl3KbmF9C47oQY2d7xifzncjJ+EaEM+/hIp9BB3MsGqB/F2oiTyyiMbCiSR9gVkySQ8Wvxu8/yxqX7uQMkD1yYX3mckmWOaW04sfgokqM6N2Xhs7tc4YP9bpa/k0WlQcrZJ2put6u7C6U80gil4JTmrwOsV4=
+7nkbt53ikhlr4kpj2kvabsp9dg8lo0d1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7ns4apse8til96aeggjjrdpipbcutn40 NS 
+plainfieldnj.gov.	86400	IN	NS	mns01.domaincontrol.com.
+plainfieldnj.gov.	86400	IN	NS	mns02.domaincontrol.com.

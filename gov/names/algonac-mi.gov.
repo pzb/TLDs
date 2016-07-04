@@ -1,0 +1,4 @@
+algonac-mi.gov.	86400	IN	NS	ns1.itright.com.
+algonac-mi.gov.	86400	IN	NS	ns2.itright.com.
+cq35a9coq8l5ic4akm6bglobdtsdm0k1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. KT8rd4zq7cIWU3BpNsa/ujwZ34Iktn0LBfnu7yr3l7OO57OH3db0DFYQ+vEZyvjwsr8IFg+PJGL1RB5WlsrEvYeXSLb3swTkz6Xkl5fuQdqDedcOzfDFLjGf/2dKqAoOj5190KrP6M663ZD7KRpWE7m8JQVYBUtLqK3PPeD/A9s=
+cq35a9coq8l5ic4akm6bglobdtsdm0k1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  cq49vdiaiu19k3vftud368jg47bdi1ek NS 

@@ -1,0 +1,4 @@
+dallasor.gov.	86400	IN	NS	lion.state.or.us.
+dallasor.gov.	86400	IN	NS	puma.state.or.us.
+uo5haunnu1f06rnvffdr245981st4q42.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. j4Qk7d8Ttl87DQNDeS5cBqMgLa1+AFD4Xm6pbQadXF+EUM0835qDCvoGGCwF6dEW3IiIPGribiS4oJ4ciuW/l0iSCYSQCEt1Y0j6vLAzk1HPOElr3phNcW1nEQ09YLAnaCBxhPTsUAni4hhKNgO1hM7dfteLh0r9cxYb2QxcsRQ=
+uo5haunnu1f06rnvffdr245981st4q42.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  uof9aiv76n7eend18itkl3q1ndf9prle NS 

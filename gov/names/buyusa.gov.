@@ -1,0 +1,9 @@
+buyusa.gov.	86400	IN	NS	a4-64.akam.net.
+buyusa.gov.	86400	IN	NS	a5-65.akam.net.
+buyusa.gov.	86400	IN	NS	a8-66.akam.net.
+buyusa.gov.	86400	IN	NS	a1-109.akam.net.
+buyusa.gov.	86400	IN	NS	a12-66.akam.net.
+buyusa.gov.	86400	IN	NS	a13-67.akam.net.
+buyusa.gov.	3600	IN	DS	14223 7 1 e48e69a2e5e0c55600872f3284d6768585ee3c2d
+buyusa.gov.	3600	IN	DS	14223 7 2 27c3081341873d92a959d98fdd423beeebd7ad5a4c6d467974fca6278157b2da
+buyusa.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. DYbacTstyu821j7CygQsTNxvNyCyluvEXA7BRfYA0rX4qIYCaeBsvt16m3MbgpRVBjMW/o98bfjzQU9+KWHu2/gqgRdYS9TN2N1Q7Lust6n8evYF7ooha5oejR6h6Me8ELdCGb+RJPlTAnyB+Qewa/EI0FdTRTSS+rFRe4AEWEU=

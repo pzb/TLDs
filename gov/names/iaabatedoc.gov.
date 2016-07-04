@@ -1,0 +1,7 @@
+iaabatedoc.gov.	86400	IN	NS	dns.iowaccess.org.
+iaabatedoc.gov.	86400	IN	NS	ns1.iowa.gov.
+iaabatedoc.gov.	86400	IN	NS	ns3.iowa.gov.
+ns1.iowa.gov.	86400	IN	A	165.206.254.145
+ns3.iowa.gov.	86400	IN	A	209.56.120.13
+r6hfbre0i12tcc9mp7jrtp3o1usioj5b.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wBSfQoVsloMyr8fFWwPEIjjWUcDr4kGbkLYbE5eD9gUOPUNuYum/QaogjA7jeyv1nYRrWVsoFkAll1Qd8PU++WrtRn6qwBFs0czXZ2JKjfGWFhAQ1yQiUcz7/e4y3w0/e2se+ySB3GUrJbUFSj4rFZ/WNwbb9JxUYw2wYsz1zs0=
+r6hfbre0i12tcc9mp7jrtp3o1usioj5b.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  r6n8nhn0u1qfrlh9gfjgj7n8ni6a04g8 NS 

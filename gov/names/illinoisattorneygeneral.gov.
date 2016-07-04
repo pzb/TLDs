@@ -1,0 +1,4 @@
+6p4oaqudo2ac625b3dmo5q2c48g4cmk4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ARNnwmhqttWkTDYoULkSWeeYwovAfv6j8YThE5Cq70SY925WfpEWuVW9DOZ60EmY+8E4kY734ShsmYLdbtMpkfVxL3Lm6WaBjwPD9gZQybavL/qg82f+mWtNvbB++yDJc1saTZIskYh6bc4NZRjPgcg7cRCYpYQ4s7fbzIJCseI=
+6p4oaqudo2ac625b3dmo5q2c48g4cmk4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6p8h40mgnslm349ihia0h0lpsaepb73c NS 
+illinoisattorneygeneral.gov.	86400	IN	NS	ns1.cait.org.
+illinoisattorneygeneral.gov.	86400	IN	NS	ns2.cait.org.

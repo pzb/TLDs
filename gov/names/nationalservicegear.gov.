@@ -1,0 +1,7 @@
+dns01.cns.gov.	86400	IN	A	152.180.8.143
+dns02.cns.gov.	86400	IN	A	152.180.134.207
+nationalservicegear.gov.	86400	IN	NS	dns01.cns.gov.
+nationalservicegear.gov.	86400	IN	NS	dns02.cns.gov.
+nationalservicegear.gov.	3600	IN	DS	15483 7 1 4eaed177df50db6c3975a590eb28598a68a33965
+nationalservicegear.gov.	3600	IN	DS	15483 7 2 6924215acd9a1d8d0f3dff5a2813172f76f165f4d26c81f06d1d3f81665c25cb
+nationalservicegear.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. KG4MSPRfnJ8FHtXikeNyTDLH4r9vYZu9R0Td+FjA3t0ekqf+TsvnKH2qNXlN28itkwwpLuNvn9hrc/9Vp6JMOd6CpQVzNF8sHGLKq8pxubeOHfyu5SVwHyZoms2jekPnVUEZ0UAyV4iBxa7Ma/PTHxc49z2nZNVP6XHtMBxwRBI=

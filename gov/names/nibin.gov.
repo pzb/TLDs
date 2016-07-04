@@ -1,0 +1,14 @@
+nibin.gov.	86400	IN	NS	ns-jdcd-01.usdoj.gov.
+nibin.gov.	86400	IN	NS	ns-jdcd-02.usdoj.gov.
+nibin.gov.	86400	IN	NS	ns-jdcw-01.usdoj.gov.
+nibin.gov.	86400	IN	NS	ns-jdcw-02.usdoj.gov.
+nibin.gov.	3600	IN	DS	19204 8 1 2b16df7503231b313f9ba78d89ce30c76be7316c
+nibin.gov.	3600	IN	DS	19204 8 2 a9dfbd54917b2ccfd11f60ae2b32687c641e6eb749da071c0e7823547b94becf
+nibin.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. SH54RnsN2kwTzHas9qxTEM7ECklmBFnSIPKmcuA1X59yyHwUTFGyz11tidZ9nEGt5RK3J63V0ojevs4WR8n2S9JOnANScwl04bnC2ibfpQDGBPsocyUEwvZ8ud94E4TtfadUsxChl3stkp8m4eCFPEklmXNUDLIugFJOcgGXxSQ=
+ns-jdcd-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcd-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcd-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcw-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcw-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-02.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::6

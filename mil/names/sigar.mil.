@@ -1,0 +1,6 @@
+c273njtqph9kheor45h08gvovnb8pfbb.mil.	10800	IN	RRSIG	NSEC3 8 2 10800 20160708161835 20160701161835 16413 mil. KrX/3YKS6NmEc2zNzMaS/iQCSKl3SAL24jFKKVmGApkrpjw3Z3FMkGy7yy2MuD1aX+Nenkszsvia84yaSLTQ92zvCKzL4vYrrU1gBFCx++u8WZKiR+t34WNoXPVS5mVfCjAsW1hvcTlxiBYTELKEqaflRuccpx6lvayhjh486xQfHlE=
+c273njtqph9kheor45h08gvovnb8pfbb.mil.	10800	IN	NSEC3	1 0 10 adeb  c332bqunslbdk00htrpdlf3vpb9frh7u NS 
+ns1.hqda.pentagon.mil.	21600	IN	A	141.116.37.110
+ns2.hqda.pentagon.mil.	21600	IN	A	141.116.125.110
+sigar.mil.	21600	IN	NS	ns1.hqda.pentagon.mil.
+sigar.mil.	21600	IN	NS	ns2.hqda.pentagon.mil.

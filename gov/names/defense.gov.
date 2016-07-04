@@ -1,0 +1,11 @@
+defense.gov.	86400	IN	NS	eur6.akam.net.
+defense.gov.	86400	IN	NS	usc5.akam.net.
+defense.gov.	86400	IN	NS	use2.akam.net.
+defense.gov.	86400	IN	NS	use9.akam.net.
+defense.gov.	86400	IN	NS	asia2.akam.net.
+defense.gov.	86400	IN	NS	asia3.akam.net.
+defense.gov.	86400	IN	NS	ns1-95.akam.net.
+defense.gov.	86400	IN	NS	ns1-116.akam.net.
+defense.gov.	3600	IN	DS	24321 7 1 67eac2d863cbf5c7836cab54f35ab5af27885f59
+defense.gov.	3600	IN	DS	24321 7 2 60ad70e725d7dadb0084ad2b7553e793b2bfb7169e990b93237f47ef667dea02
+defense.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. q2y05tl9D3CNVnI2DuvgLKhqvGCvyyY4aiHtAUBtVLYDqi6ScBvAWLsH/CNuh2ybv1RSh9fOFkCyIO09bvAMoLf8dR3y26lWRamTE8icWPF/NmYTNh10Z2oW88jLjtNJo5CI021x93fd6cQTSWrmEjhFpx3HhRCoAGEmfKi3cbM=

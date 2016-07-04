@@ -1,0 +1,5 @@
+foxboroughma.gov.	86400	IN	NS	ns1.infotech-maine.com.
+foxboroughma.gov.	86400	IN	NS	ns2.infotech-maine.com.
+foxboroughma.gov.	86400	IN	NS	ns3.infotech-maine.com.
+qgjc0l6nama82q1p5db25lm503n4qpdk.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. KlSlQC09yXjgTZi681oubGNusf2XpEvBhKcLMzNpItCO9Q4+r9aTANzGrKcie5kHYC9zgpBYZjsYhgJFl7rnZDo8POHbn6VRocnHmAIBWaKx5+4qqXLPHyIssdnad96zTffnMxHEsUc9EaOkcSC/huiKOfZUkXQa8iH/IAjb9DU=
+qgjc0l6nama82q1p5db25lm503n4qpdk.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qgkqr6dft26i92gs8p1je2cip1tha8po NS 

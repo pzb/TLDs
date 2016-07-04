@@ -1,0 +1,4 @@
+cityofchampaign-il.gov.	86400	IN	NS	ns.rtc7.illinois.net.
+cityofchampaign-il.gov.	86400	IN	NS	ns1.illinois.net.
+hguk5p9e91lrfc68khjp68i94efdfbm1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ki3bnPcpQ5qqad0Fgz1LkArNflKMdwCabwTq6ncG4qumzRVV0efOdE8ZY2//JZYWslQqBnnbpPAVagqVw39xR5cArP+6kXJQquSMadR7IQidfRDbntYt/hsM99HZbK76tHgay/wr5GQJDvdFb/51c4Up5Or70JOxN3tzr0L9Hsk=
+hguk5p9e91lrfc68khjp68i94efdfbm1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  hgv8nt5sshdnh786inut010rriu1khqi NS 

@@ -1,0 +1,6 @@
+dahlonega-ga.gov.	86400	IN	NS	ns-235.awsdns-29.com.
+dahlonega-ga.gov.	86400	IN	NS	ns-822.awsdns-38.net.
+dahlonega-ga.gov.	86400	IN	NS	ns-1455.awsdns-53.org.
+dahlonega-ga.gov.	86400	IN	NS	ns-1600.awsdns-08.co.uk.
+pd68r2v0vht6nmcbc6c45pjcklfk0h4g.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. AQI9dyfEqwJxyeP9GfL5fqAtLtYdan9v3eBxT4nsu6Ce/TIIFoaZv6fDDTncJXjLgSjGQi1TaALMrb7fQPzkDMV7STBAO7uO0y3C/4lRm/P+2jBQjEXWvIX9qoDh/EA8lGuzPRq7tEyMt/ShpofkBNCpLc58jRmFyf+Nzfyuvzc=
+pd68r2v0vht6nmcbc6c45pjcklfk0h4g.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pdipsrp04k8dm5loi134mdmhn4abag75 NS 

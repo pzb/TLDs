@@ -1,0 +1,5 @@
+iaf.gov.	86400	IN	NS	sauthns1.qwest.net.
+iaf.gov.	86400	IN	NS	sauthns2.qwest.net.
+iaf.gov.	3600	IN	DS	35341 7 1 8b51ec3e3674ba5d617b85eccee11e8f045292ad
+iaf.gov.	3600	IN	DS	35341 7 2 b9eedf85494ce7753a0ce6a41a4f4bf76236aa9ff25f173b2df9731f8bfbe9f5
+iaf.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ObTNrCByjyHdbNee68vm2BdabeifH3m+A7aw5jpG/6KXbFc9yfl0Rs13uzDUkZ9iPTNBp3xBKIO5QAlz6I30sbYoYaYvqf+CbnkH8kC1NwXlkCA5JMn8WotQvIDFMMx9lqJsYwMonIoe6DnWm+y64b9cJomH+ZIXfLvLZkBaAo8=

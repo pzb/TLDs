@@ -1,0 +1,10 @@
+virginia.gov.	86400	IN	NS	cnsa.vita.virginia.gov.
+virginia.gov.	86400	IN	NS	cnsb.vita.virginia.gov.
+virginia.gov.	86400	IN	NS	snsa.vita.virginia.gov.
+virginia.gov.	86400	IN	NS	snsb.vita.virginia.gov.
+virginia.gov.	3600	IN	DS	19616 8 2 c9e1f88a01589e38e93fbaf07740e0d5ad90cd24c05d3587fcfe7aec1f87ced6
+virginia.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. f751Nq5Hbx+GYDskh5yBse44h6H6sg9gyUlVuAzV73kUn6FvtnQZO0KTcrbAfsyF0JDvG3P86aT2RF92QiRd4huT+WTGEgGAJUl9xMjZC52iTUDRCrvl/CUY/Yv0kHq3EKEGgtXmYvBqeOWXJsNrFuRL9bxAr/MBgNrCeGWYx0o=
+cnsa.vita.virginia.gov.	86400	IN	A	166.67.65.169
+cnsb.vita.virginia.gov.	86400	IN	A	166.67.65.170
+snsa.vita.virginia.gov.	86400	IN	A	166.67.161.169
+snsb.vita.virginia.gov.	86400	IN	A	166.67.161.170

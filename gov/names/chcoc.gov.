@@ -1,0 +1,8 @@
+chcoc.gov.	86400	IN	NS	a1-12.akam.net.
+chcoc.gov.	86400	IN	NS	a5-67.akam.net.
+chcoc.gov.	86400	IN	NS	a11-67.akam.net.
+chcoc.gov.	86400	IN	NS	a14-64.akam.net.
+chcoc.gov.	86400	IN	NS	a18-65.akam.net.
+chcoc.gov.	86400	IN	NS	a20-66.akam.net.
+chcoc.gov.	3600	IN	DS	64570 8 1 1669084a6fdd041c05bf63d832cbc531b71c90ea
+chcoc.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Gj1aBsijfsBFNnsINgEVh3l7YRnobjsjnm5CYOgwSlMr4/DEbuXuLNaparsfS+G/3IRsY2QnA/QdJqnjyzQJ5ZYYF9XEKQpQ9AUOre/4BUPnEKHNa9tnzBVToo9yBQGfnZrFaT6PU/m47Iz0q9WcBn0Hsom78EoYohSlqCHFbHE=

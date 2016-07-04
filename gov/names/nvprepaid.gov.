@@ -1,0 +1,4 @@
+3e26lgdp19eredupi4jh29ja5j0o58bd.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. WFdmkDsr2t/+usvTCgUbxtQBSwvgCskzcbK6lUmQg4nCrCOktxxLgmRxUCHV5FL1LfliweJBheRA9Ib9Csqle1H8mSFHfvHo3MM8HNz+KRg177xGJ0apv2K81FVe32OkDBHQtIh5OeTUwt4PFc7/epslSNU2vPhscYDkDP4QIbI=
+3e26lgdp19eredupi4jh29ja5j0o58bd.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3ekagl7oe712advss6junjkin3jbmqh1 NS 
+nvprepaid.gov.	86400	IN	NS	ns1.state.nv.us.
+nvprepaid.gov.	86400	IN	NS	ns2.state.nv.us.

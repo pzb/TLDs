@@ -1,0 +1,4 @@
+1kmili35eabnov84ob3n6gk1bphfj26l.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. TcLvckyScyghtzJXx/dK77hhIZfIt/oz3AaA3wk+AD0m+LB7nv/gjYr2ewr4JzfjPqVgicNFLxoahtNAcpXcfNmNGYFy3gVtSDXexxdjS/SICMjJ8OhRQcwTj0DYlq9MyBgx/rGEsZ85r63U6hstwo4DtVsS37IJ5r6GFpmXGsc=
+1kmili35eabnov84ob3n6gk1bphfj26l.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1kn3s9jp11a54fj52237ei11b0uddhhd NS 
+lyonstownshipil.gov.	86400	IN	NS	ns1.aislabs.org.
+lyonstownshipil.gov.	86400	IN	NS	ns2.aislabs.org.

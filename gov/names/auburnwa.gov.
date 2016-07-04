@@ -1,0 +1,6 @@
+auburnwa.gov.	86400	IN	NS	ns2.auburnwa.gov.
+auburnwa.gov.	86400	IN	NS	ns3.auburnwa.gov.
+ns2.auburnwa.gov.	86400	IN	A	70.90.185.109
+ns3.auburnwa.gov.	86400	IN	A	50.203.104.178
+oih21dchbtre4s1bj832lvapuog7pqi6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. jl/bEP3A7RaNHbxIrHD+Z8z1Q0DANvKtx5qIv6vAFAnDh5rXGWf9DfIndA/JMLqBkM7/YKuv2xpVtx8GhOZSMApgbHUn5JYH8PiXxG5iSyCOCQHeAh/pIpoFwZyJlGwXH+14FSYA/ydZm1ZMeYAtr9ceFd/rcfBqld1ugUaADEM=
+oih21dchbtre4s1bj832lvapuog7pqi6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  oiu5cnfddubuetair0l8n7f8sqpcm8ek NS 

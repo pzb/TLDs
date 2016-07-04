@@ -1,0 +1,4 @@
+a9v1tdrjup23ostniku3rg3acol282jq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ANxdOcoviwMXawPwUgjaKzjZncZeUiKQRdcuFAr8oJ4RA9kHlYViDLzAUK+0yYe/0cqKcxdIoAYPKpvQyssBdVtNN9sGaT0q/VBLBjVNIasLHioDuY9BK3TSpLnAPf+lQsKwEBY01dr8Kh3/JgRi62HY6zTAmY4efxCnAHLf5KQ=
+a9v1tdrjup23ostniku3rg3acol282jq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  aa183k3ohjmfc6u6f09l6m5didoe74ch NS 
+vernonia-or.gov.	86400	IN	NS	ns1.bdm.microsoftonline.com.
+vernonia-or.gov.	86400	IN	NS	ns2.bdm.microsoftonline.com.

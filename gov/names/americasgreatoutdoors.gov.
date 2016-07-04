@@ -1,0 +1,9 @@
+americasgreatoutdoors.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+americasgreatoutdoors.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+americasgreatoutdoors.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+americasgreatoutdoors.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+americasgreatoutdoors.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+americasgreatoutdoors.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+americasgreatoutdoors.gov.	3600	IN	DS	48751 7 1 6375feb47a4780dd9d9123ffec2cf7543de28f96
+americasgreatoutdoors.gov.	3600	IN	DS	48751 7 2 1cf9e9ce43bf4b7621059f419ff5df112a84b432fb870f5c3f19771afc9abce2
+americasgreatoutdoors.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. CD32juGPLmNYZmttI/nPVOb9ozhFuoB010F4skFye3Fi6HmC2rfUYqtPazNN4GKjMIDwDPEU57QFaCr1fIIsL6EfQ5Eom4TOAYZjysunC/fsupA+VvHyep0+2naFYe4JUnPRpFQNCGdtikjtxV5rQ5JTe+Zr47Gwhr2a0ts46uU=

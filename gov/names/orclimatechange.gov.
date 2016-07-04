@@ -1,0 +1,4 @@
+09bfdth7qclfr9lqb88ds9ddojftl76d.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. YPxZP3DEkgQhaKpvCqywHHfx49eULy2l26iV8uPrf2Y+jqokdlQtAw1lFtDYbNRQP9z8n+6n+bKvgzsxB7jBhtL36SgmhZZWSp7xDHDOacrW62VqodT8AxXYL8eS3KHtPgzVrnKVMM8sQXxByyiRihzzj6jTqa7YY+pZJK68eKw=
+09bfdth7qclfr9lqb88ds9ddojftl76d.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  09g5glbmdatvhse63tkjc7jab7ild372 NS 
+orclimatechange.gov.	86400	IN	NS	lion.state.or.us.
+orclimatechange.gov.	86400	IN	NS	puma.state.or.us.

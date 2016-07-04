@@ -1,0 +1,4 @@
+annettatx.gov.	86400	IN	NS	ns1.firespring.com.
+annettatx.gov.	86400	IN	NS	ns2.firespring.com.
+e4ahqi31er4ag3qth4naiglqpqkn1q07.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. NdUCUdGAbx0EDgorOZysU3RK/bG/wKbAhRrlTU5q7ycdb3CK+UaZCtVKMvja02hziZufFGeK5z4CfpTQhidrDX+5/4DiNccmU4P25FZBwqgRrBw8vhvP2lvY6PksxO+U06BsHdBCD9owooXK3ExSpgKrW94iSMrCfYcNNnGNhE0=
+e4ahqi31er4ag3qth4naiglqpqkn1q07.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  e4alu2p58mq997nqg6rviekd55t38l8u NS 

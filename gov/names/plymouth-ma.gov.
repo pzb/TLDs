@@ -1,0 +1,5 @@
+2b9nl5c35v7i0sf5gm3c1oeliajv1pm1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. l511gtW1nTKchjCgNnGYjsU1G7TygHVEWpHhiNHOAO4K6MnQJaaVV+1AGAq3ooZLpNEgo/YBtrXFZ17JU9QvcSyTzYk1zl0jbrQPjU0ZUsEk6GYga5k1iktoJsXjl+b+tg8PksdI353t6L+f0pWA9vlhR+nKJU0sQW4a/vedrYs=
+2b9nl5c35v7i0sf5gm3c1oeliajv1pm1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  2bbptv96opo9fflie68r3a3qbgcs3e10 NS 
+plymouth-ma.gov.	86400	IN	NS	ns1.infotech-maine.com.
+plymouth-ma.gov.	86400	IN	NS	ns2.infotech-maine.com.
+plymouth-ma.gov.	86400	IN	NS	ns3.infotech-maine.com.

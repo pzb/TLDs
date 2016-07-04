@@ -1,0 +1,4 @@
+dayton-me.gov.	86400	IN	NS	ns1.avenet.net.
+dayton-me.gov.	86400	IN	NS	ns2.avenet.net.
+lpclfl7sa7btfpeuq675m0v12hd7cp3r.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. rmqqLIk2OBDD9KnGpAsLbNz6DE5cLhmCimfmhlF9IeS/QROc+fmD6yeUXteDjPc4YaHZjR3Pxy7BNRT+M2aX0A9a06CCnzGL9IG7bXVo+qyQLjQ1dPJSuVWqr929eQO5Q0IyAkZP0SJaTYM0Ed2k11w+luMaDNiK4j2LzWha558=
+lpclfl7sa7btfpeuq675m0v12hd7cp3r.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  lph98384tomkjj0al922eb86cl6oa1sl NS 

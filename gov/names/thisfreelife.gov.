@@ -1,0 +1,15 @@
+rh202ns1.355.dhhs.gov.	86400	IN	A	158.74.30.98
+rh202ns1.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2a
+rh202ns2.355.dhhs.gov.	86400	IN	A	158.74.30.99
+rh202ns2.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2b
+rh120ns1.368.dhhs.gov.	86400	IN	A	158.74.30.102
+rh120ns1.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2c
+rh120ns2.368.dhhs.gov.	86400	IN	A	158.74.30.103
+rh120ns2.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2d
+thisfreelife.gov.	86400	IN	NS	rh120ns1.368.dhhs.gov.
+thisfreelife.gov.	86400	IN	NS	rh120ns2.368.dhhs.gov.
+thisfreelife.gov.	86400	IN	NS	rh202ns1.355.dhhs.gov.
+thisfreelife.gov.	86400	IN	NS	rh202ns2.355.dhhs.gov.
+thisfreelife.gov.	3600	IN	DS	57894 8 1 65ede4453697ec22ae182342be31fa960d4f360d
+thisfreelife.gov.	3600	IN	DS	57894 8 2 b27970f0b06223821817c8f00b15aad7cdac3f304b81cc3a9d197f0de2871175
+thisfreelife.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. qvaiyi4eW6/vnhdXrmElHrCbVbk5bFn0uhAAl+yEBiYc6ZCSATkBu0MYRo8Urkcgxwh76mjiyHz1tbDRE4MKEk3A+p2ioxpJNJL2bmO1Y2X8J3v1Ryz89zKI9ZGVpRWcyjsWdGR0jVtXzabqa2/05QQ6qGhJ4mSXglOW3/tvfaE=

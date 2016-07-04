@@ -1,0 +1,6 @@
+23fl91c33k0hpqffntm9n4ja44j252i7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. TIMbBGT1hAuZOilb8nldxNDWZEcGv62041eOninxWwgeuRLbAxYKw1hp84LmKWRH5g0QnCJyruS2JlA51d/xP3ih/GRYpwVN0H5F1YchGy7AhL0WOaER+VnYYaEd1fx2fG3fwTHaHaozaMRnX/N3PS0Nmp+e0AtvVC2FeNxX/yM=
+23fl91c33k0hpqffntm9n4ja44j252i7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  23ft154lt1q7j81m0hempb3k6h9kio48 NS 
+portarthurtx.gov.	86400	IN	NS	ns1172.dns.dyn.com.
+portarthurtx.gov.	86400	IN	NS	ns2152.dns.dyn.com.
+portarthurtx.gov.	86400	IN	NS	ns3177.dns.dyn.com.
+portarthurtx.gov.	86400	IN	NS	ns4140.dns.dyn.com.

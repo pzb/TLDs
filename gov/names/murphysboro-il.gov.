@@ -1,0 +1,4 @@
+1bt4padl3e2o6du8nnts2jh0mt3pulu1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. rIBcIlwWiQfCO3oyZQFiF4LR/SI2ZmbNVP0GvxnCOy3lLY7T9DcmjbUYeWSFbcgab6VhAnD2BTQzjfs6BwtQ7Ul0qgqAA9I3VWiplMc+rn8KrxuvKBYNXBbwOE+NjIyJKqA+yR+C4f2JQy1jp9NwG5ciTCWiXh3vkQM+8M/u9kI=
+1bt4padl3e2o6du8nnts2jh0mt3pulu1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1bt5a9nl4jii6r9g827mk4era06ofko3 NS 
+murphysboro-il.gov.	86400	IN	NS	ns1.mhs.org.
+murphysboro-il.gov.	86400	IN	NS	ns2.mhs.org.

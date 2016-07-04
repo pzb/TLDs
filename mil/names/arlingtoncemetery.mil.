@@ -1,0 +1,6 @@
+609s0klegn2ij0vktkve7rua1insjq99.mil.	10800	IN	RRSIG	NSEC3 8 2 10800 20160708161835 20160701161835 16413 mil. FgT4YR+igV1xOoALyQYtn/bHiHprQylKNp1GTL/2p3LmObq9TWMxUtYVP1Ji/eqKOjNbC9lytivg1z/5f4N7J8P3px9vJAdzZTHhg+WK6Y1ClhWJp12UgFMECfYZuFKdEvPa4LV0E7E2bwT85Gd8o6b6a7B1g3bnVVE6Ha/np8LxGDc=
+609s0klegn2ij0vktkve7rua1insjq99.mil.	10800	IN	NSEC3	1 0 10 adeb  64o2ark9omltbeoe1isqieo32lp3goo9 NS 
+arlingtoncemetery.mil.	21600	IN	NS	ns1.hqda.pentagon.mil.
+arlingtoncemetery.mil.	21600	IN	NS	ns3.hqda.pentagon.mil.
+ns1.hqda.pentagon.mil.	21600	IN	A	141.116.37.110
+ns3.hqda.pentagon.mil.	21600	IN	A	130.16.98.210

@@ -1,0 +1,9 @@
+fcc.gov.	86400	IN	NS	a7-67.akam.net.
+fcc.gov.	86400	IN	NS	a1-166.akam.net.
+fcc.gov.	86400	IN	NS	a13-67.akam.net.
+fcc.gov.	86400	IN	NS	a20-64.akam.net.
+fcc.gov.	86400	IN	NS	a22-65.akam.net.
+fcc.gov.	86400	IN	NS	a24-66.akam.net.
+fcc.gov.	3600	IN	DS	9393 7 1 a45ffe864b145015a73ee117e76347568911e742
+fcc.gov.	3600	IN	DS	9393 7 2 ae1286a153da7f1eae5286b58511160eb2c9afbab44121af51b42ecbf27fc649
+fcc.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. P2Fxwqeu85Pg2nMM8RpCAxq6et/OLlWHZNFV/IDRErlrtbfEULJmPTy9N2ATIjlU2HBfpv6Q1H8/eZtxcqYNwJjlfe8+v/4yIrdqJ1W10HK1qScMF6U0dO6cUvjo802hLXgtdUqWJvHOYW208jCjzm0I4nukDZQjbj7kFokLEQE=

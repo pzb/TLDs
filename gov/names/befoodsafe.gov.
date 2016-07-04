@@ -1,0 +1,9 @@
+befoodsafe.gov.	86400	IN	NS	ns1.usda.gov.
+befoodsafe.gov.	86400	IN	NS	ns2.usda.gov.
+befoodsafe.gov.	3600	IN	DS	48721 8 1 28ade83db823db30e68d0da06bffbfaa673f58be
+befoodsafe.gov.	3600	IN	DS	48721 8 2 99a18a6a023fe6e0d6210068ac1b9889a6612f9f1ee66f345ea706861d114b36
+befoodsafe.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. s4sM3K4pQFOAmWNQhdCY/d/tmHpd6BHsQkIy1tel0gbhZtjuvAKswnfsDibYong9Khh3ePGZApI4iOQUlTai3Oe4SrHeSMgbzTRQ4mRRUEXIXYizbgmhtTRDOJB51IHLNjwOMAiNLA7cuzQnG8vNRWLui6seS3qFvmcOKrS0Zr4=
+ns1.usda.gov.	86400	IN	A	199.141.126.202
+ns1.usda.gov.	86400	IN	AAAA	2600:12f0:0:ac04::202
+ns2.usda.gov.	86400	IN	A	199.141.126.206
+ns2.usda.gov.	86400	IN	AAAA	2600:12f0:0:ac04::206

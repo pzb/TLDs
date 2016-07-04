@@ -1,0 +1,4 @@
+4jm41qdkndbtohobo8m17nbl01s4asf8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. waQ46cWDWCcBnGGkon3UJR6rmRxZ9ZYrS/iHY1/Db6LwbPvj9pCaZu6oCAkSzKANibQW9mnqST3ELND+VahKdRGvJKLpg37iDcGdhfz7qAEmUv0GCG44RxEfCmodBkcGSy0W9ik38s5A1T5A8TefawyrF50tuIU7NzLGbRLNAM8=
+4jm41qdkndbtohobo8m17nbl01s4asf8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4jo8bpp2hof7cs1qftdo1f5s49lrng91 NS 
+francestown-nh.gov.	86400	IN	NS	ns1.infotech-maine.com.
+francestown-nh.gov.	86400	IN	NS	ns2.infotech-maine.com.

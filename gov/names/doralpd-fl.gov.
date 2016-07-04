@@ -1,0 +1,7 @@
+doralpd-fl.gov.	86400	IN	NS	ns0.dnsmadeeasy.com.
+doralpd-fl.gov.	86400	IN	NS	ns1.dnsmadeeasy.com.
+doralpd-fl.gov.	86400	IN	NS	ns2.dnsmadeeasy.com.
+doralpd-fl.gov.	86400	IN	NS	ns3.dnsmadeeasy.com.
+doralpd-fl.gov.	86400	IN	NS	ns4.dnsmadeeasy.com.
+npl2nmpka77p7goh8rit78ql8167gpr5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. tAOeCA6uJv1BWEMvgfAVeq9zlsWDGyFxw+3h/T5oOr+83NSj3BtXTKMs8oCCcswxeGXmpbTzTaUcXCGkizWF2xtHKPjGPtC+AnoqKsxen/YQ2YGJZ1DF5DMMUdlHzfFzvNT4z1DRW5LkHl2YSHw2uf6ikGcjzk7yGy4p0HAcRKE=
+npl2nmpka77p7goh8rit78ql8167gpr5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  npu1koh6m4gmo3nnljniu3vlr6q8b4p5 NS 

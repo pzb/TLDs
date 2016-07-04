@@ -1,0 +1,4 @@
+511ny.gov.	86400	IN	NS	dns1.dot.state.ny.us.
+511ny.gov.	86400	IN	NS	dns2.dot.state.ny.us.
+abr7911fhtav5fpvi2pu77kaqqaql51d.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. iSQxAFcoEe9YQb8FJSUIlT3ycXp6Zawq/6XMW0RZLmJCJqtq0CFxpppK6SnE62xRYfK3oPJod4MzZXBI8K2jh5vdvQvRRec1/898pawrf58KJ8FagHYEzJUyQhCOM2uzZzj1BTHHrzXnLIWY0lNRxpbtlD8Vz/1+fAFhbdG2N6Q=
+abr7911fhtav5fpvi2pu77kaqqaql51d.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  abvpfr29bahbn9nceoc0u94tij1isvrj NS 

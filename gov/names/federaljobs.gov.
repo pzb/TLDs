@@ -1,0 +1,8 @@
+federaljobs.gov.	86400	IN	NS	a1-14.akam.net.
+federaljobs.gov.	86400	IN	NS	a5-65.akam.net.
+federaljobs.gov.	86400	IN	NS	a11-64.akam.net.
+federaljobs.gov.	86400	IN	NS	a12-65.akam.net.
+federaljobs.gov.	86400	IN	NS	a18-64.akam.net.
+federaljobs.gov.	86400	IN	NS	a22-66.akam.net.
+federaljobs.gov.	3600	IN	DS	2239 8 1 f1536c5f7ff992f3eadc214a30261d1f1c04c7d9
+federaljobs.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. h9x1p3R8pqtDQAIVaRazXcSlEmvR7Sg9dgeoU5BwGfOCc7mU2d3qbDK2qAdXUWMJShNgePewkQdCWyPBP+D3I9vsQZsQrTsDZhG9ytcG+qaltHY3vyO9hRzxg9cVPOmjiJmK9oqlYzz0jl7TgYGtKfxpaEcQxCBsqbTCW78jcGo=

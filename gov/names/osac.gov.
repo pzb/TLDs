@@ -1,0 +1,6 @@
+osac.gov.	86400	IN	NS	authns1.centurylink.net.
+osac.gov.	86400	IN	NS	authns2.centurylink.net.
+osac.gov.	86400	IN	NS	tpsns11.terrenap.net.
+osac.gov.	86400	IN	NS	tpsns12.terrenap.net.
+osac.gov.	3600	IN	DS	8868 7 1 2ffd6124e61eff28fbb4f10831ea95fa1d1c42b2
+osac.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. BhhgIDc24VpWn2NI0auxa4IoBBmqoC1a+diuF6PEWWCj8zmmo3QHXlxOQGWoCFTPeX6tK3Iy6kX6VA60i8nmyv383MhshISxlmI7/WFo7jSA5Wj3qAw5cfIQIIwpHOs3Gwtzdep8azh8JqL73g/hu94fs93EKnGfJVOPX+G2h4g=

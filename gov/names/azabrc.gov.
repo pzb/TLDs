@@ -1,0 +1,6 @@
+azabrc.gov.	86400	IN	NS	ns-166.awsdns-20.com.
+azabrc.gov.	86400	IN	NS	ns-859.awsdns-43.net.
+azabrc.gov.	86400	IN	NS	ns-1453.awsdns-53.org.
+azabrc.gov.	86400	IN	NS	ns-1546.awsdns-01.co.uk.
+ri0gf1h1pklkncpeerk27uql8f6lk1k0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Xdn/FXdYVpYws2M2P8Gj4ANrX2OWfzZTE044IRW1mwNbItBq+Ot474FqpWCh9WYnZ1QIVTVow+nTE+z+BR+Lbspk246MrK2aM9BjYXcBukCVjNom6/Tj8/zxADx8c/puWQ64NdUIOeWtCkimn0vv99epgZgLL325AynQNmDJ5VU=
+ri0gf1h1pklkncpeerk27uql8f6lk1k0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ri12vlqv3r5bb6ggfvf5gn7s78j5sp1f NS 

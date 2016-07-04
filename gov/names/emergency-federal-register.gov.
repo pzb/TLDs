@@ -1,0 +1,7 @@
+emergency-federal-register.gov.	86400	IN	NS	ns1.enterprisehostinginc.com.
+emergency-federal-register.gov.	86400	IN	NS	ns2.enterprisehostinginc.com.
+emergency-federal-register.gov.	86400	IN	NS	ns3.enterprisehostinginc.com.
+emergency-federal-register.gov.	86400	IN	NS	ns4.enterprisehostinginc.com.
+emergency-federal-register.gov.	3600	IN	DS	16154 8 1 fed28b7fd8880865c3d7e8edd049998317df5923
+emergency-federal-register.gov.	3600	IN	DS	16154 8 2 14d07912ec1d12030b945146a3cb06b4efd25a61b80e0ee26c5a6dd203bcb499
+emergency-federal-register.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. xc7iWJAdp3eS6+5+iAWGzjGzRhpWl3LXJGNSCV/7RiiMFWXUaJ2TcqQ2lYAtn8bkGiAIb1kKYAp8RhvjQnta1roXoF8Jb5unxXMNpxLkNNTH0g57YCCJHU934wAzGuZxdxn3KOC8eZis14MC711z0Qx00VVq0nn0Lvk9xPIm/8M=

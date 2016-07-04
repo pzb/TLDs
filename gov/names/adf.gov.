@@ -1,0 +1,4 @@
+adf.gov.	86400	IN	NS	auth111.ns.uu.net.
+adf.gov.	86400	IN	NS	auth120.ns.uu.net.
+m0mpjgugdful0rufsjbnclh0cponhcmh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. dDBQj5tDQsm3HsV2DrxLAKxasY21m0qDIPeZsPo6UWNt00KP78LUlZvO4PqyCUlyrSIOjK4k4fnHIo5mEqW5qaZjmU3QyL5Z6x5ttXvAh0tSZY934E78cf+l+dNEQULIufCzqaqTGLHxI8/ijP9PFF3Vu1sZvnA4evTB8/T8Vns=
+m0mpjgugdful0rufsjbnclh0cponhcmh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  m0obslq1vcfdf8iu4e4frrosoj4u2ntj NS 

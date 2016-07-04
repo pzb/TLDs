@@ -1,0 +1,4 @@
+claytoncountyga.gov.	86400	IN	NS	pdns01.domaincontrol.com.
+claytoncountyga.gov.	86400	IN	NS	pdns02.domaincontrol.com.
+kq3mo4jo2rnb2ereh40qeskbickck3m8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. MVgEFC2Es0ObnU17qYo+YW/K7y1sLA+EGtH1CQh6KXXbEJYL68B4wleWAsAI85KRIC3ljfyn+e7b1fkJpSzLFwCt3NdfvHmHuGag/sMt/w6nOYf6TdBStIaEYl16NV9qrbwn+MQukXQcDfgGnrnpbBfio4H8SMl6FNEjL9K+8DA=
+kq3mo4jo2rnb2ereh40qeskbickck3m8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kq5mc3n8r5pu8elhgleodqggl0tj6n34 NS 

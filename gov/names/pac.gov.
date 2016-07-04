@@ -1,0 +1,8 @@
+pac.gov.	86400	IN	NS	a1-12.akam.net.
+pac.gov.	86400	IN	NS	a5-67.akam.net.
+pac.gov.	86400	IN	NS	a11-67.akam.net.
+pac.gov.	86400	IN	NS	a14-64.akam.net.
+pac.gov.	86400	IN	NS	a18-65.akam.net.
+pac.gov.	86400	IN	NS	a20-66.akam.net.
+pac.gov.	3600	IN	DS	56614 8 1 9a266e07f1b53310a1ddbf093ede9799fc472b52
+pac.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ZC0P5nT6hRqeLhf/j8xb/a13QCsf/3m9EQ9AsVBccEIeI6y91HTvnIX2HGcwxjF3gIk9LGdfRiYx2KoK2JdlqxfNIGfxSGlPaN2i7GCoPWymizgvdIc0rVQMjoXkDqxMni3f6YxaJj6zjfspAEzmA1eq65oqIV7XuFLaRyyFUrI=

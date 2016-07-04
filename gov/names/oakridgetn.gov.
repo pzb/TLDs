@@ -1,0 +1,6 @@
+j1rir9vq863g2ahu887qjrmjnjf2e50h.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. vZkqHzNsAwPdlsUkn82ZtqwrjWREdk3dkC3tFWT6IO2fno6yhptcIoal0DHhEYfn8GSVi4gAit2/xJuBntEdFj2RNGmoiCvA54uXZG8rHElSix/Gqo895DHIhP/O1oONTtmxCcn49hJijBA98/apt89x/5OKJsRxxGbKovUGjMU=
+j1rir9vq863g2ahu887qjrmjnjf2e50h.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  j1tv3nhtqaphqf12qnstokub3ek5a2u0 NS 
+oakridgetn.gov.	86400	IN	NS	dns11.oakridgetn.gov.
+oakridgetn.gov.	86400	IN	NS	dns12.oakridgetn.gov.
+dns11.oakridgetn.gov.	86400	IN	A	66.64.192.219
+dns12.oakridgetn.gov.	86400	IN	A	66.64.192.220

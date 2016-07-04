@@ -1,0 +1,4 @@
+heovie3djpo8h1jplp3jp4rvichvltft.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. czmsjje48Ybh/NZQqtud5rxt8OcKAxLu4p9cg4tjcp2kMlv38SS13WxM7U3bql++841LCVjmHJZHRTpk/4EhC8iFJ1ADrBB7mKYkLzgbYafFNnRIDc0LWJV0LHqP3gDNwW2e1URMN3P44+NYM9tsO9JYmPXwt/u8CDPj99emIKg=
+heovie3djpo8h1jplp3jp4rvichvltft.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  hf7v0h7b521vm8772g7gjtcq3kg0m9l7 NS 
+nanticokecity-pa.gov.	86400	IN	NS	ns1.cvinetworks.net.
+nanticokecity-pa.gov.	86400	IN	NS	ns2.cvinetworks.net.

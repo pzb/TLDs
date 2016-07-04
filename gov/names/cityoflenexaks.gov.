@@ -1,0 +1,6 @@
+cityoflenexaks.gov.	86400	IN	NS	ns1.lenexaks.net.
+cityoflenexaks.gov.	86400	IN	NS	ns2.lenexaks.net.
+cityoflenexaks.gov.	86400	IN	NS	ns3.lenexaks.net.
+cityoflenexaks.gov.	86400	IN	NS	ns4.lenexaks.net.
+rbkpt4tie2uopi3tvns15potougq8ukn.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. IycjOYj3GVVRBVT4eHY/FRYeV/yzSdrlkuxjECPjX+8bA34bG5hOTZmONG6tWt2EB5ekeSakD/AOY/UsY9bRYFGo8FzBfeSWiKPxgXljcXO/1Uxol7q3QhKTKsa9vmCms25TyhgmotDlD0YkedyIn3s6eL1nI8R0GyFuKNy+jhc=
+rbkpt4tie2uopi3tvns15potougq8ukn.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  rbqv4nsjdkbok1patsblt2p17mk9ldu6 NS 

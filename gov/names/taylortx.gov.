@@ -1,0 +1,8 @@
+lsqh5s83vojo10uk87966tvcp8jjslo9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. L6k7jo1uRcl90pjmeAn8rfeg+8FhB9C40JLgOyOFt0tWhXshHVhSSsFNOT9GPq3/thb91bQCrfAwYzgU6sT9jFejTXXe8/6D7GQfw3WaHVwlAyph4J9xtW8n/szelrmj7WLV/j6JRGCobXRJdzlRR3n0MHWNWjHzn7ubvh8j0Qw=
+lsqh5s83vojo10uk87966tvcp8jjslo9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  lsqjn97trkd68vsghra1jmkt5ts0qdu3 NS 
+taylortx.gov.	86400	IN	NS	ns1.easydns.com.
+taylortx.gov.	86400	IN	NS	ns2.easydns.com.
+taylortx.gov.	86400	IN	NS	ns3.easydns.org.
+taylortx.gov.	86400	IN	NS	ns6.easydns.net.
+taylortx.gov.	86400	IN	NS	remote1.easydns.com.
+taylortx.gov.	86400	IN	NS	remote2.easydns.com.

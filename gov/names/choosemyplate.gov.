@@ -1,0 +1,9 @@
+choosemyplate.gov.	86400	IN	NS	ns1.usda.gov.
+choosemyplate.gov.	86400	IN	NS	ns2.usda.gov.
+choosemyplate.gov.	3600	IN	DS	2272 8 1 8376159fd0e042e09601f83298454c481fa12e22
+choosemyplate.gov.	3600	IN	DS	2272 8 2 227537e74bed3e2fd178a0b6ac09a91ab4ecbe9982b3f4f811d460f63a4e2aed
+choosemyplate.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. cYH/jbphNwD3pYpNK/Oi6jRAchoB/o7BXxN8ccTDzHTWI0WswJP3HZwXB0IToGWtqOBME6z43H1wqnhujTVwJkQuZmjLNiNCdaMfIytnRM84ZehxXq/IEz7Jz/OrCvqPLcQCAseR/WugUU1FvMhZ2TKg14I3YSqnbgBldJX78Rk=
+ns1.usda.gov.	86400	IN	A	199.141.126.202
+ns1.usda.gov.	86400	IN	AAAA	2600:12f0:0:ac04::202
+ns2.usda.gov.	86400	IN	A	199.141.126.206
+ns2.usda.gov.	86400	IN	AAAA	2600:12f0:0:ac04::206

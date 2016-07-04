@@ -1,0 +1,10 @@
+pppl.gov.	86400	IN	NS	ns1.es.net.
+pppl.gov.	86400	IN	NS	xdns.pppl.gov.
+pppl.gov.	86400	IN	NS	ns-aoa.es.net.
+pppl.gov.	86400	IN	NS	ns-lvk.es.net.
+pppl.gov.	3600	IN	DS	6813 7 1 6d47644d3796160e7650940484f8330da57b135d
+pppl.gov.	3600	IN	DS	6813 7 2 c760858036c721a7c6b07ae33affda8315c71bee6bf97f5753dbe7f89f29ee03
+pppl.gov.	3600	IN	DS	31266 7 1 e39fad5c1c195b3b86db9bd0a370a8e82f4e3e7a
+pppl.gov.	3600	IN	DS	31266 7 2 647aba72c7eca0c39ee222c828eea2a456ac2a81f6b86efbf19226f6a83bf1be
+pppl.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. jKrKpgNE1xQ4hGfSEXFksdadVEXu8KyKhUfmABlocxXKp4Zh5z1UnQWx6voHoqszJgkDDIH51jt7Fs+6LJ0m3EK4WslsqNs9PghzMLktQnqs77FOQMeQhaCFJoryN5xeGB53TCfBvj/UnHUkXoBk75kQ+IEUoilF9dfgV4Lsv08=
+xdns.pppl.gov.	86400	IN	A	192.188.106.232

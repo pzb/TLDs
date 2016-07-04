@@ -1,0 +1,2 @@
+pam.int.	86400	IN	NS	mns01.domaincontrol.com.
+pam.int.	86400	IN	NS	mns02.domaincontrol.com.

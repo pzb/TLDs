@@ -1,0 +1,4 @@
+4i95u2sd20ck3vm8q7jf5qflfdo392mi.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. yC7gDTJJMazeq/fAIp2aXIjB29buZE2jDAnj/0Grtu05BLT+Y00Bb8CQkzw8Kzb+4cwvmeHxRfxLbYqV6kLZU3QTyoofR4M1SA6aiDVBblP9Ul/QgXUphiH6BAnqDHHOvWMWAnlpM6BCSba21lWqeJNrz1n48C3HNcY6fpKUY7c=
+4i95u2sd20ck3vm8q7jf5qflfdo392mi.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4j49imtio0norfnavs6uhoodplunr526 NS 
+crotononhudson-ny.gov.	86400	IN	NS	ns1.infotech-maine.com.
+crotononhudson-ny.gov.	86400	IN	NS	ns2.infotech-maine.com.

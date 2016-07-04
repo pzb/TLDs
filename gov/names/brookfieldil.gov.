@@ -1,0 +1,5 @@
+brookfieldil.gov.	86400	IN	NS	ns1.aislabs.org.
+brookfieldil.gov.	86400	IN	NS	dns1.name-services.com.
+brookfieldil.gov.	86400	IN	NS	dns2.name-services.com.
+d2oo05a59rev7tsa7icibe0qlbjq8edr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. x8+lNLMVQX9SLRyMs6ZE9n5DKhwA9yotICIhmrL+UZ7xRXU7ePIQGfwg5BejYj/X4sJ0hmpzWJIiipKh3dxSmXp8vcfULUqUX2WYEG+tB0bzf3LyhYH2AENGK7mI5n5ItqLs6Hm4NGKzHFyVUViFNCizZZhrAdRaxZ9xWN4OdD0=
+d2oo05a59rev7tsa7icibe0qlbjq8edr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  d2ptj3ijbkh2rj53fo01a8mbtsiev63b NS 

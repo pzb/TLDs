@@ -1,0 +1,4 @@
+antiochtownshipil.gov.	86400	IN	NS	ns1.chicagonettech.com.
+antiochtownshipil.gov.	86400	IN	NS	ns2.afraid.org.
+e772m8vbso0vk6a15fga60tpb3cc94lt.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. DaoJjX9tv7jcEySq2be4Aq/1XkCPy9W1GuvMjilfVLtfdN3Ml9zSMuNtUmN0s82ONj554VuzYUbpAAz9JKb3TyVgFYU4GcDNGkXQD6uEfw+IKmEN6we7eot0MdT+/4dyxfP0TijXvQzYZyDk10y1Tc252kpHLtffcUtGdDQD9Ec=
+e772m8vbso0vk6a15fga60tpb3cc94lt.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  e78fanqpmpgsek2b9vvs0b2vqrfeo261 NS 

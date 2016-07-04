@@ -1,0 +1,9 @@
+edns1.dot.gov.	86400	IN	A	204.68.194.100
+edns2.dot.gov.	86400	IN	A	204.68.194.200
+edns3.dot.gov.	86400	IN	A	204.68.195.200
+tfhrc.gov.	86400	IN	NS	edns1.dot.gov.
+tfhrc.gov.	86400	IN	NS	edns2.dot.gov.
+tfhrc.gov.	86400	IN	NS	edns3.dot.gov.
+tfhrc.gov.	3600	IN	DS	10801 8 1 94b8a4283d7c81eebe1cf159b3c512b84f9eeb19
+tfhrc.gov.	3600	IN	DS	10801 8 2 2bb73d6afe775bc6b92854fa3f757b7f2f67366616d15bdd6c493c41e6e59d9d
+tfhrc.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ARpsKTc3n9eEx1KrPRL661/tVyZYSqXRCztit62jKmO73VPPN4cfApmKSsMUl438uw0nfuMBlt9PdLY1VcFRKXvJOQQ1BHwT0lZh0TcCikfrbgqwYHU8sjE1pQHMqjEKN14PERLDg0fptv9zjSZRKL3pmXTQ+DJxcojh/FVqMkg=

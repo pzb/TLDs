@@ -1,0 +1,4 @@
+ev8ke0a2csdieh61e2800j4al09nulfa.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. tZOj6DPUY/WFG3JT1YR4E93ZWjWNBGt5d7OKkDxvT1OQIZ9CobrRgF4PfWYOSUJp5MR/LnL4ZBGkQv7WD+MnbCcyVAv+KeGXI2hO4iFOwu1oDq6yE+oW53XcdX7uehGsdcHMrzrq7+d2zqOuljRu1nwD41zAMtXlKED7XGYZ9FI=
+ev8ke0a2csdieh61e2800j4al09nulfa.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  evbu42plv16he4gqr7v9gpmcjl9jht0p NS 
+northhampton-nh.gov.	86400	IN	NS	ns1.infotech-maine.com.
+northhampton-nh.gov.	86400	IN	NS	ns2.infotech-maine.com.

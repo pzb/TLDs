@@ -1,0 +1,7 @@
+nsi1a.dtic.mil.	21600	IN	A	131.84.136.73
+nsi2a.dtic.mil.	21600	IN	A	131.84.136.89
+militaryvoter.mil.	21600	IN	NS	nsi1a.dtic.mil.
+militaryvoter.mil.	21600	IN	NS	nsi2a.dtic.mil.
+militaryvoter.mil.	10800	IN	DS	51726 10 1 8bfbd4281719dbbdd455b706a2076bb4cdda441f
+militaryvoter.mil.	10800	IN	DS	51726 10 2 744624290183dd9fd84a64cd65040d48665b0c4d6de0be2c069741fb3e9e03f3
+militaryvoter.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. qyyzWy/xLtBrFZOdxp9loGuFihgoqkgNPlKiQZrFrxonCri57rCa6hF0M4ydA0RNLmYOlKsfLN1Gz8aPu7fYKPJtgDht7I3+lbBaFQbNzJFc9EQCvxfOcOfS5lQHUK2H0KSh7g693QmCx8RHPrInzGBRf3SkfTnxnRhV8oP4CBzjceM=

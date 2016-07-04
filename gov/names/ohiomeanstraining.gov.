@@ -1,0 +1,4 @@
+9akh441pkaijtdh38omfbtq51jvibv9v.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wmTqEJP+lHoufrvyt4qUDDRNwdgTFnxML5G8Ahk480NNP+yNhuHr/y8c/IkzhKWP/Hd9rgESjmmUZ8pjAHI3+INBSfIUYG+SMF7wguTqpaeaPGbvcileknaeLU+9b5KmiFDGfCCKaJ3YLwR/I/esaiUGi9Tv0wHgmVBzeHvdF1M=
+9akh441pkaijtdh38omfbtq51jvibv9v.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9am4c2af0n3g56bnvqjb6gq4mp45tmt0 NS 
+ohiomeanstraining.gov.	86400	IN	NS	ns1.state.oh.us.
+ohiomeanstraining.gov.	86400	IN	NS	ns2.state.oh.us.

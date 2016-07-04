@@ -1,0 +1,5 @@
+k147s88t7gvv6005c74i1qb308gkahkr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. q2IWDDro8Y2+8VIn3vQC8qsPZBbXOKAui/n2lCLdsSGRApdPV01taa4D59hXUtuqeVh3KCZE/WhZur1aJCdLZ5XcG+ko9a0yP5IyWBHDmjrflx4tPJ/5sMhUnGaZQQVMlk8cz8qRr5RIWPFEAvZAd5jCTWB6eCgtxOlUN8E0ZfU=
+k147s88t7gvv6005c74i1qb308gkahkr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  k180hobmi4mglca73caf8pdd6lcbh6eb NS 
+wigrants.gov.	86400	IN	NS	dns.uw-mad.wiscnet.net.
+wigrants.gov.	86400	IN	NS	dns.uw-mil.wiscnet.net.
+wigrants.gov.	86400	IN	NS	bigred.state.wi.us.

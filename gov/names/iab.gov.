@@ -1,0 +1,4 @@
+e9qif75vulnbm3j2l6ukhac658ceqf0t.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. bNtHoFRSeyG44N9iyL6ddi9Q6TVuzUsZX+4N3z8JtULEXVmT4OR+bofUuWVilhvELhTfVf/0TQIcfcsvVm6H9lm0QdErctRWMLrne2iVl4GNjU9AzyauFhsv/3MkQxQ/E3XHyHo1XhtIpV+5ueSt9FOBYNjL2fKXj/4g1uCs1jE=
+e9qif75vulnbm3j2l6ukhac658ceqf0t.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  e9sr8pqpio9niq73ehni93bgl2ls9ik7 NS 
+iab.gov.	86400	IN	NS	dbru.br.ns.els-gms.att.net.
+iab.gov.	86400	IN	NS	dmtu.mt.ns.els-gms.att.net.

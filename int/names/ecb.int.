@@ -1,0 +1,4 @@
+ecb.int.	86400	IN	NS	ns0.de.colt.net.
+ecb.int.	86400	IN	NS	ns1.de.colt.net.
+ecb.int.	86400	IN	NS	auth02.ns.de.uu.net.
+ecb.int.	86400	IN	NS	auth52.ns.de.uu.net.

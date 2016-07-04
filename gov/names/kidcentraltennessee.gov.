@@ -1,0 +1,6 @@
+jo88qqmnongh2t0pb0m1q69tqtp3lduf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. DmuXJ51/id8QWeH/ardZfQFM3P+Gc3QahIfl/0XfBFT6YyXH9DGiVGekQmnPAIYcc+yvpVKAl12pMPWn90v8bDzQFq5LjZC+kGhPcgh3hwc+3twxxbbDZoDxmegyDZjfly/D4T77b6zTFe7Z+geBcxpJa3Qw46PPntGFcJf22QU=
+jo88qqmnongh2t0pb0m1q69tqtp3lduf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jo91mi9ubrgpoqmoav62eat2htk1i71f NS 
+kidcentraltennessee.gov.	86400	IN	NS	ns-5.awsdns-00.com.
+kidcentraltennessee.gov.	86400	IN	NS	ns-916.awsdns-50.net.
+kidcentraltennessee.gov.	86400	IN	NS	ns-1186.awsdns-20.org.
+kidcentraltennessee.gov.	86400	IN	NS	ns-1797.awsdns-32.co.uk.

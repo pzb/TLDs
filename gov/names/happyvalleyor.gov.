@@ -1,0 +1,4 @@
+calenujl29gguof487eb160fr4diggaf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. CvcEAPXgvcN2uEegKtwVnqVJbOgSZuyxNlKtxIzvYIBD85gOL6Bl6TJmYdu/c9JR8o0ha6XdFnHN8CG0v7QdPKy9I2c1AZgWv/AEG7b6xJzdPKIrKpKf6nJPmnEUE4OhZn38cmSdRpiZPtKPNvChO5n8gDXxyk5BdgoD3fTVlGc=
+calenujl29gguof487eb160fr4diggaf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  caloqamcmkschn26ppsd56fm33uiqbfk NS 
+happyvalleyor.gov.	86400	IN	NS	dns.clackesd.k12.or.us.
+happyvalleyor.gov.	86400	IN	NS	dns2.clackesd.k12.or.us.

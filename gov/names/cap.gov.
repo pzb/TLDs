@@ -1,0 +1,15 @@
+cap.gov.	86400	IN	NS	ns5.cap.gov.
+cap.gov.	86400	IN	NS	ns6.cap.gov.
+cap.gov.	86400	IN	NS	ns7.cap.gov.
+cap.gov.	86400	IN	NS	ns41.cap.gov.
+cap.gov.	86400	IN	NS	ns42.cap.gov.
+cap.gov.	86400	IN	NS	ns43.cap.gov.
+cap.gov.	3600	IN	DS	50045 7 1 a61b7c057cc404c7a7040df758c87f3ba8f9cf5e
+cap.gov.	3600	IN	DS	50045 7 2 2d723b2941d353975e7742cc49766ea37ef2c2cfa42112e41702e098dc847873
+cap.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. TMZtyFGZA0rQv/JRKt5HlRAhdIm69oO70U9Wn3VCA3lwVO1UZT0ndEVm2cT8Yq7D4EBqW0mMbbpLQbaUb/pv0mvKsy5Eu6Cz0MROUUHh9PBsjy5wDJyjpzxUVIucRI4NCr4F9e/nOUsmV2hVJPV/qlp7A50oqAXpqFrjcufYRek=
+ns41.cap.gov.	86400	IN	A	64.62.200.147
+ns42.cap.gov.	86400	IN	A	65.49.37.203
+ns43.cap.gov.	86400	IN	A	192.198.87.242
+ns5.cap.gov.	86400	IN	A	108.166.170.104
+ns6.cap.gov.	86400	IN	A	108.166.170.105
+ns7.cap.gov.	86400	IN	A	76.73.18.238

@@ -1,0 +1,6 @@
+gtm1.azahcccs.gov.	86400	IN	A	170.68.81.247
+gtm2.azahcccs.gov.	86400	IN	A	170.68.81.246
+babyarizona.gov.	86400	IN	NS	gtm1.azahcccs.gov.
+babyarizona.gov.	86400	IN	NS	gtm2.azahcccs.gov.
+u2mq7665oo3j4pnebd47c08d5mu6d64a.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. cSvUBrcXwEf8c5Kj7enE5lXUbPcanx1VBN7gGe+nXTwmpsWfv9za3FAwIx84QiVwZM++vx3kFqQ5ZKBOI4sAN6unNcKdaM1rjfNVdQLhfFxt42O69tEhClZ234JP3slPVlIkOOUVLA9+R0XU9uh32f+wmZ64VLZLEkRdz0xoswg=
+u2mq7665oo3j4pnebd47c08d5mu6d64a.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  u2n1pclh81efjb33b2uefa7tghbf8u78 NS 

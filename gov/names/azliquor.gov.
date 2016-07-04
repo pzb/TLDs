@@ -1,0 +1,6 @@
+azliquor.gov.	86400	IN	NS	ns-384.awsdns-48.com.
+azliquor.gov.	86400	IN	NS	ns-843.awsdns-41.net.
+azliquor.gov.	86400	IN	NS	ns-1076.awsdns-06.org.
+azliquor.gov.	86400	IN	NS	ns-1678.awsdns-17.co.uk.
+lok51e8i9lie4683mge9n3jmeqbqcd3q.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. b17hrtthlZlnax3ES06Ws5Z84Gm0EZfWxrPAkuradscSU/gFCWYnnmbGZ8YCXJas7WiLZxIs9CS6GX/F7fhQHJuGBlNNhBEUmpvjb8g22hLuTM+qW7SrRqjbEVhUZANnY1tzVZPBtOmQ0gQdd5l+/3bVWxKiVSzXphk5ls2AI4E=
+lok51e8i9lie4683mge9n3jmeqbqcd3q.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  lp2msrlnj6fgcpos8qdqnsgqmlej2l79 NS 

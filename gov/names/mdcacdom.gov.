@@ -1,0 +1,6 @@
+b1uumspdttdr1ct09na0l7rhunj9h8ha.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. tN7vAyYZTAZnC7san62uhfnSDgyuzeYSwG/eUewSRRCsQwEdSqLdeGJGrOPEE+qMKXYuYmtXQTDpfuH/g5wc/NQr1PkmU7xwmKWtrW/I4nnGMz1H4JRhx0QIm2834klIRS352exQGld/d3eAnn7vzfYd06/u1TGIfrixgs9BaPs=
+b1uumspdttdr1ct09na0l7rhunj9h8ha.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  b20g9p2jdfneih1khjdplkmqdgn6jqf4 NS 
+dns01.mcac-md.gov.	86400	IN	A	167.102.151.75
+dns02.mcac-md.gov.	86400	IN	A	167.102.151.76
+mdcacdom.gov.	86400	IN	NS	dns01.mcac-md.gov.
+mdcacdom.gov.	86400	IN	NS	dns02.mcac-md.gov.

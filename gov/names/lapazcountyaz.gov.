@@ -1,0 +1,4 @@
+c9bpf883bsasi3jcpkr5n5uf9to848o7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. RyXsROHE0FFz6gDf3R/n+ow0+ppE2n407xbFNWbzc1+c37x8de8u1s4ZqjCjx+DpOTLMtc6xn4lXNCwyyKcEgYvAB0NyUR9XOE+i6DRDMgilmBMZ2ujsn07IOlm7AQ+iNWSRwruRU0Mr/Dptc0/DkOW6pbgZVWPmPVKHzThTwNo=
+c9bpf883bsasi3jcpkr5n5uf9to848o7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  c9e9hes1bmthaertipig3juasik8q0kc NS 
+lapazcountyaz.gov.	86400	IN	NS	ns25.domaincontrol.com.
+lapazcountyaz.gov.	86400	IN	NS	ns26.domaincontrol.com.

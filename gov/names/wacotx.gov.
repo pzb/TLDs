@@ -1,0 +1,4 @@
+kkhg40g9p4a1ni05uplkjg6ie0ev52dg.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. iCBxNeTPJD3tBAn6KMcWHrjzHvvjGw8F9iG5DESJ8S99tFLzxMj3oLYZ907hkv/OG3AZPB856/pfLWa41+L0w0KhhHAsKGysweDa83zx11GNhDqQBvGIjjs6Uoy0vPRo+jva/ZNHAZaa1p18KPmN4O6aJDHxmwU8pl+1D79zxdY=
+kkhg40g9p4a1ni05uplkjg6ie0ev52dg.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kkm3ne3rm0ucfn413d094qjkjro13bv0 NS 
+wacotx.gov.	86400	IN	NS	dns1.appriver.com.
+wacotx.gov.	86400	IN	NS	dns2.appriver.com.

@@ -1,0 +1,5 @@
+snjsfpm87i7tj1929q7rkjlckhharc2f.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. sQjfYAJmFXZqYXYe1wEOf+NGq9pFm3cXFHaWyCwi8NIezPsqcqu+fIHM/cpuLCzkWwPVZfXDiMDkW3i1inerL3DGevHXfkfFcb7NnFPwo1h3CrFfqPehcyyb1i6SKZvzu2fcbZr4WYEo1BiDqC1lFl/3BqxBoD+EkalRDDgXLzs=
+snjsfpm87i7tj1929q7rkjlckhharc2f.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  snleuf3km6m2jc4ack7lcudajsufnb9l NS 
+tx.gov.	86400	IN	NS	ns9.tex-an.net.
+tx.gov.	86400	IN	NS	ns10.tex-an.net.
+tx.gov.	86400	IN	NS	ns11.tsus.edu.

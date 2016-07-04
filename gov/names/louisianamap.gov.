@@ -1,0 +1,5 @@
+dnsrv.doa.louisiana.gov.	86400	IN	A	204.196.242.1
+louisianamap.gov.	86400	IN	NS	dnsrv.doa.louisiana.gov.
+louisianamap.gov.	86400	IN	NS	server.brp.la.net.
+u4qtoo5i7qsemog5fd1vfme20jk7rsua.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. j5uRjJL8Cei8VQ3Kgp5cqwm6Mb9+Fkg0U7J9vLO32u3BLguMjzHLxnLFh9DgEL45UzXtnlJKjPxCIp6WmnevMDKWtzkWJ3Wkkib/zMQ2XESutsmFLc20KxQW4O9QVyPBwD67DEjOw4n8m8CUsL2ouCvk34Z4BA22NM0c3imFABg=
+u4qtoo5i7qsemog5fd1vfme20jk7rsua.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  u523uqruvjvfqk9kujka55plo4277ti0 NS 

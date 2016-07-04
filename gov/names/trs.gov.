@@ -1,0 +1,10 @@
+qe6474ibs0r9c606bf48l5rhluh7rdt0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hqg2ffdHoY4XpX9GIBA/Z4TCT5ZLicYTtWtjEwBS50RqdqRlIo3xnnS4cJNrJGL/CUuY8UYpeWMD9qag2CSFxPgFSb2wSPAc+NGtmAcH9JaydgRvED4IvaeiRcSxRb9Gz/DTVA4JtsVwapLFUOEm/5Ygtj6Tq3BGt6jly5kXv0I=
+qe6474ibs0r9c606bf48l5rhluh7rdt0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qeautp6ea44v9jrrcaj5rk0aafa1ca9d NS 
+trs.gov.	86400	IN	NS	ns1.trs.gov.
+trs.gov.	86400	IN	NS	ns2.trs.gov.
+trs.gov.	86400	IN	NS	ns3.trs.gov.
+trs.gov.	86400	IN	NS	ns4.trs.gov.
+ns1.trs.gov.	86400	IN	A	12.173.81.40
+ns2.trs.gov.	86400	IN	A	12.173.81.41
+ns3.trs.gov.	86400	IN	A	12.48.101.40
+ns4.trs.gov.	86400	IN	A	12.48.101.41

@@ -1,0 +1,4 @@
+bga81p6jej01equr14mn4rmjio045cpi.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. rcamx59ONl5JgOwDMRxjyTRmVHeOokg9NLX33wq3nFl+vprX2HsA1c/wO58muVDLpXxmBokqv8/PYCn0s5Gwxz/zZs0SHnB/UlAmjjUdiP/NLV3GbheEtLlhVWE+Vl95wVRdG9IZX/bSwUbm2gpFo9zlDSWyL5iFboXSdqEMjmU=
+bga81p6jej01equr14mn4rmjio045cpi.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bghrb51dfd6m7vlpk7dsa6bjdcffd6b1 NS 
+osde.gov.	86400	IN	NS	auth111.ns.uu.net.
+osde.gov.	86400	IN	NS	auth120.ns.uu.net.

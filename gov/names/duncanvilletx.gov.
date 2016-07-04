@@ -1,0 +1,4 @@
+4n2v3rat2ontf3mbo2cf8g4rif614up5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. R0avTchstOfMpNsU93mwicaHA32DmfMeDQa/WatQW5zVPSOZBz6x91uEYYd+Ag+6cYPv553pvKdk8tYqoq7tA/785JAe/Q18Y0ultXBWakOGW+SuuzmvxDdmtDo2OKpU1wFynJy4p4ZHVYDRhL3Oz9x9ug+H6jV9bbV8IS7ifvE=
+4n2v3rat2ontf3mbo2cf8g4rif614up5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4n3komr502lnr2uus3lqh7vqvb3jn3rs NS 
+duncanvilletx.gov.	86400	IN	NS	a1.verisigndns.com.
+duncanvilletx.gov.	86400	IN	NS	a2.verisigndns.com.

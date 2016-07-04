@@ -1,0 +1,4 @@
+louisianaentertainment.gov.	86400	IN	NS	ns1.lded.state.la.us.
+louisianaentertainment.gov.	86400	IN	NS	ns2.lded.state.la.us.
+mt9khn9uc7op2g1a6n1mcktkd0a85rap.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Oefwdyd2KeB5i54KR2GWvraRJr+psTDAl8DulT25cLtwIWBz+eMschIzEzsOSP3DRcNHVYeBR0apyBwXgBuodR0z6WphHzyUiZuG3j2WEOvU6hxZZWumM2I3nB9xMs4RD4AspX6CJnrH30qUCxztXdbuVNSHwYcJCMYOd3kHHIU=
+mt9khn9uc7op2g1a6n1mcktkd0a85rap.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mtf5143orqvvl7sfrklchfc64gm5glks NS 

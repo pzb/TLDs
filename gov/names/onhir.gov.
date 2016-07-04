@@ -1,0 +1,9 @@
+onhir.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+onhir.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+onhir.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+onhir.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+onhir.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+onhir.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+onhir.gov.	3600	IN	DS	11571 7 1 d7298f74be60f29c76ef3c1565c459cfe28be794
+onhir.gov.	3600	IN	DS	11571 7 2 0534b396e9edac58798c510ee387e86daf2b7d318827ed5179a00052c6d08a4b
+onhir.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. lS6E4dsITXOA3ddZ9AASD+PrNik9ZtEH2IVTOlY9tkuAQmpPHoJ1HbJRaKKLXoXjoiwksJMuOR71VXMUwkcpzu4LxKycnCivDHx87qLHiyx/0zcL8j05qGDmGZau+0bkLoiavjK9WjmrrSKf5f1WxkaKmCfFTOP+dq/Uc56J65w=

@@ -1,0 +1,15 @@
+collegenavigator.gov.	86400	IN	NS	eduftcdnsp01.ed.gov.
+collegenavigator.gov.	86400	IN	NS	eduftcdnsp02.ed.gov.
+collegenavigator.gov.	86400	IN	NS	eduptcdnsp01.ed.gov.
+collegenavigator.gov.	86400	IN	NS	eduptcdnsp02.ed.gov.
+collegenavigator.gov.	3600	IN	DS	29910 7 1 306db30321d762b0bb63b1ee460442b3966a84cd
+collegenavigator.gov.	3600	IN	DS	29910 7 2 477b69e343171862bb55b631771e23aa755554cee81dcce8293fde95406bc8e5
+collegenavigator.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. lNtf6yAyiYQoVsJ4eXvhVfRla7i6vvLXK4RWxZ1e2OwKhXxj2AdYwfHWV8tQsaqw3PThrMPUe2AVmSc4yivp/z5n0GR4N7Q+LdDgVT8sGMw/y55tuSjfWT0ayURo3UIT+X+Iv1tgwyFLlKrm14HyGO4DY8U/SWNlJlGnn5MAgVI=
+eduftcdnsp01.ed.gov.	86400	IN	A	165.224.21.6
+eduftcdnsp01.ed.gov.	86400	IN	AAAA	2610:e8:907f:1:cd99:4fb7:bb7:2213
+eduftcdnsp02.ed.gov.	86400	IN	A	165.224.21.5
+eduftcdnsp02.ed.gov.	86400	IN	AAAA	2610:e8:907f:1:d093:1118:adf3:7473
+eduptcdnsp01.ed.gov.	86400	IN	A	165.224.212.6
+eduptcdnsp01.ed.gov.	86400	IN	AAAA	2610:e8:9080:1:88dc:90ef:b68:490
+eduptcdnsp02.ed.gov.	86400	IN	A	165.224.212.5
+eduptcdnsp02.ed.gov.	86400	IN	AAAA	2610:e8:9080:1:8c49:4c6a:b596:f07b

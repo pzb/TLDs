@@ -1,0 +1,4 @@
+q4g5i305joqls7nj72ol0t124a17fa01.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. jqcD46bZ7KB1DdjLU0Q+rBi7UP6nXzeo0XHbmZ3oG0ysuXFjMkFGrVD7Brk8OgfqUg6KcdCJsG4nh5q8nyehtKayzovqt/G6n+RN1geoVzfo6Z9vVTREeE7tYP8sTtxKMmxlVKhrcpfsOoDjAZe5KS+VfXSiaDr+Nl1EINjUoFk=
+q4g5i305joqls7nj72ol0t124a17fa01.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  q4u3as72hnufaktce4e38bju0m28b13c NS 
+thornebay-ak.gov.	86400	IN	NS	ns1.iwebalaska.com.
+thornebay-ak.gov.	86400	IN	NS	ns2.iwebalaska.com.

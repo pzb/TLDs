@@ -1,0 +1,4 @@
+dbu0kk5kuvaop7l2seppn4bdiu2ostid.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. jxsmaMu3Db/ZwI2zdxyUnf49X20wpFe5J9+ZDC0yyvd5mgQ7cyXq5rdpboGEeF/wu8GZnJCxhCyOArhv+Ripz5BqYp1oXp2B9YU6eNoXOUzGoB+pBSo1FaqIe4RVmuwAc4wZBXzLRLdQSBlafSuPKze94SkMZAuqArsyw6bAoH4=
+dbu0kk5kuvaop7l2seppn4bdiu2ostid.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dbupgnnjihve0j8dqttsg47q70lhmthu NS 
+paysonaz.gov.	86400	IN	NS	ns1.bluehost.com.
+paysonaz.gov.	86400	IN	NS	ns2.bluehost.com.

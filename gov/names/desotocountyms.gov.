@@ -1,0 +1,4 @@
+desotocountyms.gov.	86400	IN	NS	mns01.domaincontrol.com.
+desotocountyms.gov.	86400	IN	NS	mns02.domaincontrol.com.
+dovv5k8js3tpfpqm72sohvkbbibh8p63.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ItdT923jMrzZ27wdYOOY/+g/J4IBPTnCY/Dx98qNb+UI0Luuo/TQtUYTQ4xs1gtl+YLxHAd1lI7ZjtWnRedoLXsS8MPwTFJvxVXJztV5DobGGDm1pnsAEejJCfDnb/p39+hF0SVp85LHfcmrq7GUYEVFI6H1h6j4Cz8n+mLpnHI=
+dovv5k8js3tpfpqm72sohvkbbibh8p63.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dp8v956ej6ojhrrtamu3pvbvc5si8rbk NS 

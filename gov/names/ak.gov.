@@ -1,0 +1,4 @@
+ak.gov.	86400	IN	NS	ns1.state.ak.us.
+ak.gov.	86400	IN	NS	ns2.state.ak.us.
+t686ngkav5hf4fveglioa1adqtbi8dpo.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. L6KY6LO0MwKkwx73Dol1h3ybgD+xJua92NDjWtrCehO77Ccvopk49QTuLgCn6B03ZnQK1APBHHsheIf17pfk3ZTrwi8llXFrmjwUm1KiQJY51acXBOwjPpSlSS3vsumS2XRuTsgSOKdGQdkwDvatXRgA7kJRPYKCsIdja79A48E=
+t686ngkav5hf4fveglioa1adqtbi8dpo.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  t6i6ee9l5e781q6h6fda7hnj7p4tldkv NS 

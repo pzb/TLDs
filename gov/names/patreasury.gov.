@@ -1,0 +1,10 @@
+ofv0optl30hl4u1qn2a53c1vtmkcpkl9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. n80WUZZtyl6Zv37hiSjWR5KER9w1n4oQNfZAy3BHD4ogt34jg1dNeriAE/yB+rIaVyRxpwip5/2U9kyS+Fcy61Af0WNJzqLGTMM6yeTEBV6/W4fB2A0rmMMZmx7/hdjcWtwwOtDDd5MRUj65NlieVxPMffw74wXrKGdbxKPtoqU=
+ofv0optl30hl4u1qn2a53c1vtmkcpkl9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ogj74b56hlnhjjngd17vddnjjgqib143 NS 
+dns2.pa.gov.	86400	IN	A	164.156.185.10
+dns3.pa.gov.	86400	IN	A	164.156.16.200
+dns4.pa.gov.	86400	IN	A	207.218.103.250
+dns5.pa.gov.	86400	IN	A	164.156.16.201
+patreasury.gov.	86400	IN	NS	dns2.pa.gov.
+patreasury.gov.	86400	IN	NS	dns3.pa.gov.
+patreasury.gov.	86400	IN	NS	dns4.pa.gov.
+patreasury.gov.	86400	IN	NS	dns5.pa.gov.

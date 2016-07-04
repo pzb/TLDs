@@ -1,0 +1,4 @@
+4egqugt76nr4bncd71sjpu9e7lupl5kf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. eCdEH0tec/ahXq6+2hWk+VYBSLLt3ItQLkQvZK6xZ+c//YAoZYECxJmf+3Jy0HaDI6jV8L4gJjINNvMkfMn/fHLR7X1VTmFbKckWSS3hvAb98BaHK1zwieCV72yTSSxvNS5MxauSp4SJGnoA8YQabbIadh3WFMe6ySgf3xrK1jo=
+4egqugt76nr4bncd71sjpu9e7lupl5kf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4ek4gid86lo09sqjh1r60lbv9efho9ab NS 
+dallascounty-tx.gov.	86400	IN	NS	cbru.br.ns.els-gms.att.net.
+dallascounty-tx.gov.	86400	IN	NS	cmtu.mt.ns.els-gms.att.net.

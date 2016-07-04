@@ -1,0 +1,9 @@
+piedrasblancas.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+piedrasblancas.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+piedrasblancas.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+piedrasblancas.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+piedrasblancas.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+piedrasblancas.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+piedrasblancas.gov.	3600	IN	DS	40618 7 1 f2b401de38a70cc6d7dcf1dd9e953928eafcabf0
+piedrasblancas.gov.	3600	IN	DS	40618 7 2 9a87c68461d742834bb7b381fa6ccd41b979218051a46671ea21dade5e173a67
+piedrasblancas.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. myovQsA4usRBdSNdNHro7Oknv7I0k6v/k8hxL5GJStlcxSRWH7occw4D4xcnGbpjMS2fhwyuc14ZnBV5F2w9uXZ4ZhCWNy9CjmHwZ6g7Ynlmpg+nWEt5g5Z0KT046HYwDpJEFUbwTh4qh/SeFX1/WVdthxlfpMCnEFSpqU5/Ozk=

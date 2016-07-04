@@ -1,0 +1,6 @@
+asc38u32qadpolqnrb4056cda6rrirsi.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. UtveF+f0JYhGzn6yoAqFOD7br8HA0heEXRmnQvO9WH+NJFDcNGwAIPDYnkLxjQ7T7Sqr5E6YkskBYF8Yb58hFu9c8f/+q5ENbePu/HsR+kIUrAKy7G/PfGEfqwCYFrxPVRsv8yQq4R2to5dcL2bejUsyHliBYV80xDaS1iZfHEo=
+asc38u32qadpolqnrb4056cda6rrirsi.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  asirddq6md5iin6d28s10a82bif123i1 NS 
+fauquiercounty.gov.	86400	IN	NS	ns5.fauquiercounty.gov.
+fauquiercounty.gov.	86400	IN	NS	ns6.fauquiercounty.gov.
+ns5.fauquiercounty.gov.	86400	IN	A	65.222.163.33
+ns6.fauquiercounty.gov.	86400	IN	A	65.222.163.34

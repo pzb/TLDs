@@ -1,0 +1,5 @@
+2pc7od6221nn0k9msqt6c0psmdau25da.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. eNNVXDJ3J1qzI1cqWaYGvnZteEjDjlGRWWKkrTB3HC56up+ZaLKYmgsugB3bdkiQByuZAXujLOvlcVJy/PUvA7QFJU2t2ncX3wWVGXQrDjBNxhVBa+tArBaEow9a5qFIxhGVF4TRCxV/HRzhXTr3z3l/LnIlE9mzQH/rygud31w=
+2pc7od6221nn0k9msqt6c0psmdau25da.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  2pehmf76bsg6fj5ha00vs9nu0t2a4sn2 NS 
+kansasmoney.gov.	86400	IN	NS	ns1.dreamhost.com.
+kansasmoney.gov.	86400	IN	NS	ns2.dreamhost.com.
+kansasmoney.gov.	86400	IN	NS	ns3.dreamhost.com.

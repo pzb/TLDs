@@ -1,0 +1,11 @@
+ns05.dol.gov.	86400	IN	A	152.180.11.239
+ns06.dol.gov.	86400	IN	A	152.180.11.238
+ns1.dol.gov.	86400	IN	A	63.106.133.211
+ns2.dol.gov.	86400	IN	A	63.106.133.212
+unionreports.gov.	86400	IN	NS	ns1.dol.gov.
+unionreports.gov.	86400	IN	NS	ns2.dol.gov.
+unionreports.gov.	86400	IN	NS	ns05.dol.gov.
+unionreports.gov.	86400	IN	NS	ns06.dol.gov.
+unionreports.gov.	3600	IN	DS	63274 8 1 7c5bade3921cf72a9594dcbad16c4fef975318af
+unionreports.gov.	3600	IN	DS	63274 8 2 fb1493cc09ff99494413a4ba05305d2f69ec619ae631f72eb01bf06310a4c8ff
+unionreports.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. KepTWK6H6vMuEJq0UjPKcTowl/pO226GczVtT4sPO+uc3VA6robQNThG1sTzMC9gbSuogXl6VS1HX2QECALErZ7zvbxSdIov6J2dtzyp2xTX0lkuUx9tqCP91yUH+UYrxIL1MQKbg1/yLqBP20DTY/WfDDxywq0J9r7ju30kX9Q=

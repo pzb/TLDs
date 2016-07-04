@@ -1,0 +1,5 @@
+9qcioovmtcn7vfe2aaob0fohnbrpfn0o.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. bZaoNNRgTdES/ZGlrW+VgIEVwyE+EttTZ9gD3uun9Y8cGfKLd0N0oTZ0SE7lfea7MvMSf8z+xUhvcTb8JO1zcj2V1hTJiWFR2nfhF/upeLTAikgCYQo8xjuTzlo7fFpVGLzc26YJGMG/DestPuOBXLAm84XebrZLn0NLOKRLLVo=
+9qcioovmtcn7vfe2aaob0fohnbrpfn0o.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9qe31iorgn9vj6ttb2v46nufoh1rkkop NS 
+il.gov.	86400	IN	NS	ns1.state.il.us.
+il.gov.	86400	IN	NS	ns2.state.il.us.
+il.gov.	86400	IN	NS	ns3.state.il.us.

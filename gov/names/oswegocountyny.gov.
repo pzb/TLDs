@@ -1,0 +1,4 @@
+a86l4ajud25cd48efa46gdasrc406pkg.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. b54+WuS9TFL4EdbBziUZrzdAK3IZ3Y+Do88nEsxukutbduYsOmT9wiHeOtUlUzzNUpJ253JN6sTXhjAxjLxNJocoXtJ6ys1PPLC0epu7a0LE4JGsxdB5y3umSgoSrrdFOzC4tHR7Z1ak4Iz5osPiMqK96Es+fDeQud0F9OLsv24=
+a86l4ajud25cd48efa46gdasrc406pkg.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  a8ivqpahv8aelms0vq44rfgpe9olsa8g NS 
+oswegocountyny.gov.	86400	IN	NS	ns1.biz.rr.com.
+oswegocountyny.gov.	86400	IN	NS	ns2.biz.rr.com.

@@ -1,0 +1,6 @@
+denali.gov.	86400	IN	NS	ns1.acsalaska.net.
+denali.gov.	86400	IN	NS	ns2.acsalaska.net.
+denali.gov.	86400	IN	NS	ns3.acsalaska.net.
+denali.gov.	86400	IN	NS	ns4.acsalaska.net.
+mvv0q81iahg4vlttvp927amtst2bdar7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. L+cZcjOm5POiCbfWMDPUiStYVXvk1u/uzogaG0ZUV5dyKcOFJ2TEQtP/ZRLyoLrIU1947JhPIdiO5XxK4WMZHEno5ubdldJ3Y5Q0zafBDpwnGmV6BJFGrqd7jwJrNM7vbXGy5np3+rokS3OMDyGq4cVoNFAjD9AjApsgwU1Mj0k=
+mvv0q81iahg4vlttvp927amtst2bdar7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mvvcqh024gr53p9aldk1an2fhbfmdact NS 

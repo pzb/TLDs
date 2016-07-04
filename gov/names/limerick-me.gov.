@@ -1,0 +1,5 @@
+il3j087fb919hcuesd3f2ur75dq3lueb.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. dNxMTOl+apzSu6gacqSsHJrSZnzMotk2u4o9AljlCOP8tdJg/Mch3L5LIZng/VxAOEQ7U5dDKGHPHoIGcmv/pOFDfi0x13+KBN5L/Uzd+bkKtuqFcI2GoP+z8zrjQpSUnLj6K9XirTkOr5ka4U+9J9IXyod70O4G8/tPbFSyrQs=
+il3j087fb919hcuesd3f2ur75dq3lueb.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  il4g53vgu74l93priuufuqa4j1huht60 NS 
+limerick-me.gov.	86400	IN	NS	ns1.infotech-maine.com.
+limerick-me.gov.	86400	IN	NS	ns2.infotech-maine.com.
+limerick-me.gov.	86400	IN	NS	ns3.infotech-maine.com.

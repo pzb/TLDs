@@ -1,0 +1,10 @@
+earmarks.gov.	86400	IN	NS	usc4.akam.net.
+earmarks.gov.	86400	IN	NS	usc5.akam.net.
+earmarks.gov.	86400	IN	NS	use1.akam.net.
+earmarks.gov.	86400	IN	NS	use3.akam.net.
+earmarks.gov.	86400	IN	NS	usw1.akam.net.
+earmarks.gov.	86400	IN	NS	usw2.akam.net.
+earmarks.gov.	86400	IN	NS	ns1-27.akam.net.
+earmarks.gov.	86400	IN	NS	ns1-29.akam.net.
+earmarks.gov.	3600	IN	DS	56727 7 1 9735d3a1361f4dd6a6997af79e707c5d7ac94116
+earmarks.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. SbJxM/tcDJSI8cypaET/8Avjxxb8uNQlB4blBoeB1MwvcYEQrRux4zTqp7OiWItNj6GYGBd8l2WgOsYIqHlb+AtfqCdTOVAPiW6N3dQI8nwZlAYc8mwjVBkFIKOGnpxbZzMenGPRs14v3WrVYj1O4YBw95SzHKnwI+9IMTNA0As=

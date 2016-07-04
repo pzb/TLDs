@@ -1,0 +1,4 @@
+cityoflisbon-ia.gov.	86400	IN	NS	ns1.emailcentral.net.
+cityoflisbon-ia.gov.	86400	IN	NS	ns2.emailcentral.net.
+pbl0g29e9qvctsl4o6miiqiue3e8gqu8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. JtVv66xvg3+IztfzhU0VMUZtrTiR5j1WTdnRn+bMtA2pdM1U/1xQ1bQP5Okz64kIF4F/Ocd6BBwCrvc/0gG5LdxSLfPMByrWl2cWkKX6s4SpgQNSYER5i/B4veSvbtBzGfeXFHStU0g9fR6pqi+dxjkehLl64wYwOJ7TbEYM2A4=
+pbl0g29e9qvctsl4o6miiqiue3e8gqu8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pbspojbneqnrato9678v63aq48hhomb3 NS 

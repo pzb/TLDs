@@ -1,0 +1,10 @@
+d116c0bdmisl0t3iviqf7guujus72jqu.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. jLD/oCzEgiZ8RZmvXxe+amXBSVqYysSp8AuZgIb69Vx5Y/Mn+6SRC0u1jDM7L6FKH+CFybg52RATOwEPO0FQRUUcwleomI4fGyfzWTIcOAFGKJaatZsW74ZAsGBfPmT+YMM/TAuPKdB3ndKcdV0qYM4fNiH+BakHZLW5490Folo=
+d116c0bdmisl0t3iviqf7guujus72jqu.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  d11dobc563m9jt26tjerur97k807rmle NS 
+dns2.pa.gov.	86400	IN	A	164.156.185.10
+dns3.pa.gov.	86400	IN	A	164.156.16.200
+dns4.pa.gov.	86400	IN	A	207.218.103.250
+dns5.pa.gov.	86400	IN	A	164.156.16.201
+pennsylvania.gov.	86400	IN	NS	dns2.pa.gov.
+pennsylvania.gov.	86400	IN	NS	dns3.pa.gov.
+pennsylvania.gov.	86400	IN	NS	dns4.pa.gov.
+pennsylvania.gov.	86400	IN	NS	dns5.pa.gov.

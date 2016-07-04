@@ -1,0 +1,6 @@
+igrcfjc4vi6u0o7j5ov0pdst7f3pre3l.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ZtjJuP72l4FEnIp1nY7ZXYY0AfNsPnYHhELFOMkvrkqmJTX1ExFbFxkU1T3raIynky5THp+v1plB+64TfQQheWDZULsmWnS+viSlYDIQ6yQg5c9grSbYc1ZalTd4nvJFZM2I25pZKgzjRFrEf/CSIMLzIflqxBLZ6iWk2Nhq9Bs=
+igrcfjc4vi6u0o7j5ov0pdst7f3pre3l.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ihaueiul42sccvnrenl31aveho56d5vr NS 
+santaclaritaca.gov.	86400	IN	NS	ns1.santaclaritaca.gov.
+santaclaritaca.gov.	86400	IN	NS	ns2.santaclaritaca.gov.
+ns1.santaclaritaca.gov.	86400	IN	A	74.62.190.61
+ns2.santaclaritaca.gov.	86400	IN	A	74.62.158.134

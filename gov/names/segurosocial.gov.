@@ -1,0 +1,15 @@
+segurosocial.gov.	86400	IN	NS	dns1.ssa.gov.
+segurosocial.gov.	86400	IN	NS	dns2.ssa.gov.
+segurosocial.gov.	86400	IN	NS	dns5.ssa.gov.
+segurosocial.gov.	86400	IN	NS	dns6.ssa.gov.
+segurosocial.gov.	3600	IN	DS	51063 7 1 b1310c2cb42e01b4a8436dd15c93128710491d43
+segurosocial.gov.	3600	IN	DS	51063 7 2 8b566668752cb43820e433266d7438002e0c5652c34efbafce425a235a799fce
+segurosocial.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. YuniMzm8lrEVkhKrFNmkDvPg5IumSqX7HA+XLA++cH+PID68ZvEIw2e+MaUMLLTr/ak4QVx2n78paREUzs1kDKeGV2d+bhyIMS0pBwSpprX8Mt04H/uaaw6zOUY1623Ll/4RFTHXieAk/aNDBqZdQ9q2td+wgXvgEMGnBdp8OWY=
+dns1.ssa.gov.	86400	IN	A	137.200.43.8
+dns1.ssa.gov.	86400	IN	AAAA	2001:1930:d07:1::8
+dns2.ssa.gov.	86400	IN	A	137.200.43.9
+dns2.ssa.gov.	86400	IN	AAAA	2001:1930:d07:1::9
+dns5.ssa.gov.	86400	IN	A	137.200.4.30
+dns5.ssa.gov.	86400	IN	AAAA	2001:1930:e03::c
+dns6.ssa.gov.	86400	IN	A	137.200.4.31
+dns6.ssa.gov.	86400	IN	AAAA	2001:1930:e03::d

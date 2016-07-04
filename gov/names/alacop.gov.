@@ -1,0 +1,6 @@
+alacop.gov.	86400	IN	NS	ns1.alacop.gov.
+alacop.gov.	86400	IN	NS	ns2.alacop.gov.
+ns1.alacop.gov.	86400	IN	A	216.226.190.141
+ns2.alacop.gov.	86400	IN	A	216.226.190.142
+ujun62m2rukv1197qbb901s13f49n60v.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. mIHGotIIGg36MukflYc6syo3Q6Nt6RNF9gNsAhfS3TzchbKHXlWxf4L7Pe9+rFIYsKjdj5797iNpgBSjt6wAGBW+II26z5CuCvO0KvmxWHGM82+XL6YFcPZ8C4uGazhZ2/xtpUUGukMe/aepXTeU8RG+ewFgWOiOKfSw3f7z0JE=
+ujun62m2rukv1197qbb901s13f49n60v.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  uk16j3rojl4reamehmlulmh8sestjmvs NS 

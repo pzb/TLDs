@@ -1,0 +1,9 @@
+esgr1.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+esgr1.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+esgr1.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+esgr1.mil.	10800	IN	DS	36214 8 1 c64b5448e9b43242083badbeb64a5f6e47709747
+esgr1.mil.	10800	IN	DS	36214 8 2 2e710f5e78e5c16a1bddd22f2d90b297625078d7b8ef3d65242d56a116bb0e59
+esgr1.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. vzqHgHrM6cBG7+7+2y/DCGxS3/eHbRkEOKlI9iIwJZNEGse9DH83yp58+9Mm9HAf5CoybOKJBPCK565I14K3fn1+zf+n/E+Z0YreuEW0Ajtb/X8HEcUzqRNqksvdv4b9d52gPyZHE3T0Zp2fhIPXMbRl8zKzoBi3WwVCE4Uo6NMJ1WI=
+dns-pub-f1-u.pentagon.mil.	21600	IN	A	199.252.47.11
+dns-pub-f2-u.pentagon.mil.	21600	IN	A	214.14.133.11
+dns-pub-f3-u.pentagon.mil.	21600	IN	A	199.252.47.75

@@ -1,0 +1,8 @@
+0d05dmr23j4ng99buntipea4h8kenu33.mil.	10800	IN	RRSIG	NSEC3 8 2 10800 20160708161835 20160701161835 16413 mil. Z5rcCuSZ+YCRFJoTS58ExjdMRtpaeXtg8ZxGRjZqAlzKQDwckU+BUlUwIOF9/grCgghGYpVwhD74C6nad5ypCa59+nz+oOPWUITK78r0p44UKYveX+JJYY6uJUIocFzvxXpqPnLKYtWNUEGeGs5hC19fJlw7ZHQ2Ge6HxjHHHAensXg=
+0d05dmr23j4ng99buntipea4h8kenu33.mil.	10800	IN	NSEC3	1 0 10 adeb  0pvpqema96hsmlkgilfptill7ijmt9r2 NS 
+ns01.army.mil.	21600	IN	A	140.153.43.44
+ns02.army.mil.	21600	IN	A	192.82.113.7
+ns03.army.mil.	21600	IN	A	130.114.200.6
+armymedicine.mil.	21600	IN	NS	ns01.army.mil.
+armymedicine.mil.	21600	IN	NS	ns02.army.mil.
+armymedicine.mil.	21600	IN	NS	ns03.army.mil.

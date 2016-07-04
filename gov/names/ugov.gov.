@@ -1,0 +1,6 @@
+6g9up5muu4lcmc33osc1qo5vhglbvh82.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. h+EPntqy4DXNzXz2sAfQ7tk7wTzMQwrN2uj2+jVjfSLGJMyjIfIKwttme1uLd7EwZXoWpmw+MvVC9elKj5OWzWPRZJAQYhbbwyTOz5NrCCW3XcDLKIEmSB7g++4snUXpkcUPVZrexKwcyn2TAWDxgM63Z6IcgRvMnntKQXWcXvc=
+6g9up5muu4lcmc33osc1qo5vhglbvh82.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6ga6bb9sb1snsmrdj0i6uhc4lt4mffi7 NS 
+nsn.intelink.gov.	86400	IN	A	67.133.98.240
+nsn2.intelink.gov.	86400	IN	A	67.133.98.240
+ugov.gov.	86400	IN	NS	nsn.intelink.gov.
+ugov.gov.	86400	IN	NS	nsn2.intelink.gov.

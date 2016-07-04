@@ -1,0 +1,5 @@
+9r6gjseadstd6krdkm94s1onbbsh20uc.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. oyiEMnWTCp7DO4e+CXXT+2YttXhDeXl8pQw3OQm2ewSczIJNaB28+yczBak4qYtpC1AB/HlhjJTN1m8FJktzpBKoNBkLxNVq6vTKRNQfaywWmpb/MFbYUXt79ZMXAFSv/s3lKy9WrRHq01r70UGPSvZn1L1ydZlcdLkNDN5gcME=
+9r6gjseadstd6krdkm94s1onbbsh20uc.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9rtbtfnjd6gbokb1t0e0fv5r62tdrg0a NS 
+schohariecounty-ny.gov.	86400	IN	NS	ns0.inoc.net.
+schohariecounty-ny.gov.	86400	IN	NS	ns1.inoc.net.
+schohariecounty-ny.gov.	86400	IN	NS	ns2.inoc.net.

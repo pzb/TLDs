@@ -1,0 +1,11 @@
+jpeojtrs.mil.	21600	IN	NS	ns1.nosc.mil.
+jpeojtrs.mil.	21600	IN	NS	ns2.nosc.mil.
+jpeojtrs.mil.	21600	IN	NS	ns3.nosc.mil.
+jpeojtrs.mil.	10800	IN	DS	49990 8 1 f57bbee26c8c3716b1b28e112e1a1a115059f009
+jpeojtrs.mil.	10800	IN	DS	49990 8 2 a604dcc320af5d9af66a53499bd2f96af74681bccaf7bc3c4235b8ce058f45d5
+jpeojtrs.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. TCVN+bqL9UBAJEeEPuwgDiN3I0zi7QvxcJJPx4haRg1s9R40Rre6B9mLX3X9LPnsr9M5ewxpnkOv/1TYw4brw/ln6z1N2lEkXOl+/0QSl+h6U8GkLZd36HJH9SAJZsPTjwYLHNW5uZpEGQAzgMw2dcDFeVmDslwpl4xh1Es0gdPkx5Q=
+ns1.nosc.mil.	21600	IN	A	198.253.48.7
+ns1.nosc.mil.	21600	IN	AAAA	2001:480:10:1048::7
+ns2.nosc.mil.	21600	IN	A	163.240.3.10
+ns2.nosc.mil.	21600	IN	AAAA	2001:480:610:1003::10
+ns3.nosc.mil.	21600	IN	A	198.253.252.3

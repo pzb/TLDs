@@ -1,0 +1,5 @@
+an8c7qgueoc8v3rgufu12o3dknuod4bp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. e7+VNa4AL/K8rby/oSklfe438XSezvWA3RPNRoSL7bgrRiBvhYMtEChKitYU7/vR/Uhy3mczvNQWsmCKVtzkTA79W3+W/3DABPdeVeZ8/YgMYbf0W1/iugohr5KrxKo+iwho7vPodH+tnma7CqlcBaQEun4hdcFpAAoO1IoeB64=
+an8c7qgueoc8v3rgufu12o3dknuod4bp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  anjuh6e7qvh3pq5jadnrda233s8rqpv8 NS 
+douglascountynv.gov.	86400	IN	NS	ns1.dcnv.us.
+douglascountynv.gov.	86400	IN	NS	ns2.dcnv.us.
+douglascountynv.gov.	86400	IN	NS	ns3.dcnv.us.

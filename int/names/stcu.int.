@@ -1,0 +1,3 @@
+stcu.int.	86400	IN	NS	ns.stcu.int.
+stcu.int.	86400	IN	NS	nss.sovamua.com.
+ns.stcu.int.	86400	IN	A	212.109.57.170

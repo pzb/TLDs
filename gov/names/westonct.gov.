@@ -1,0 +1,5 @@
+a30jski9knde4ofqruq791f0qhrol3tg.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ijA80kAc6AcVcXY89BEy7JZorGjIB+IYdBITb0rwNEENOAfDyOnU2hRPlINksLtzbUPIcglPgsIkMECOBMv1oZ3jHNhIFI3omFzLnsxJlM2sVzCF21V6IZdAZKm5cSZJVUTFrfrKPMQSosKKD3EetgmLScGZFMKV8DgikDVF2NM=
+a30jski9knde4ofqruq791f0qhrol3tg.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  a34ks1ed1a9kabmkfa2qrpt221n9csni NS 
+westonct.gov.	86400	IN	NS	ns1.synchronet.com.
+westonct.gov.	86400	IN	NS	ns2.synchronet.com.
+westonct.gov.	86400	IN	NS	ns3.synchronet.com.

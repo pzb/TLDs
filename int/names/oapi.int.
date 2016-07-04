@@ -1,0 +1,3 @@
+oapi.int.	86400	IN	NS	ns.unicc.org.
+oapi.int.	86400	IN	NS	nse1.wipo.int.
+nse1.wipo.int.	86400	IN	A	193.5.93.3

@@ -1,0 +1,4 @@
+caledoniamn.gov.	86400	IN	NS	ns1.avenet.net.
+caledoniamn.gov.	86400	IN	NS	ns2.avenet.net.
+eouuvki7bgdc0olu5gehckasjhagisi2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. dDM96GULuqIj3WV6+EvuVEgjtmzlpIGI09jgbmoL+j/kqiybRYRTOP/04qH9DcxNyHKZmdbrt2zMG+8uK5YPCSkwQ6R3YV63CD83mGvAbDN6ak/BZnmx4NWjRKTI4QBAZvqBGtAA9lPoGzpX2VHUyPtsPk+aICHJs2z7IEW66mo=
+eouuvki7bgdc0olu5gehckasjhagisi2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ep0vlfqmmmvb7anbe3mdimojp9eopdel NS 

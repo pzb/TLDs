@@ -1,0 +1,4 @@
+4baaqa0j0l0spr44l855m04n2ru75n2a.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. glaGQciO/VO26XCXJNDFl8GgSUE2hnnHwIKmxaRcajBMTNNIfYz0csclbCwahgONBuMHSoTnXRycP2MHz8BUfz+wn8GY0tH0OdGxr0Z3hK+SJ4QD8ywi3Yll5E+Jwv3v2szI0XqjwKRXx9TgiuOFHGc5wafdFNnQX6d3LYSHVYk=
+4baaqa0j0l0spr44l855m04n2ru75n2a.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4bbo10pcn15acl9uj8728dnmgfq7orct NS 
+jamestowntn.gov.	86400	IN	NS	ns1.coreintegratedtechnologies.com.
+jamestowntn.gov.	86400	IN	NS	ns2.coreintegratedtechnologies.com.

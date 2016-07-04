@@ -1,0 +1,8 @@
+ca.gov.	86400	IN	NS	ns5.net.ca.gov.
+ca.gov.	86400	IN	NS	ns6.net.ca.gov.
+ca.gov.	86400	IN	NS	ns7.net.ca.gov.
+ns5.net.ca.gov.	86400	IN	A	134.186.254.247
+ns6.net.ca.gov.	86400	IN	A	158.96.0.249
+ns7.net.ca.gov.	86400	IN	A	165.235.254.249
+rob8qndbq3ke45mi0nkhf9733jgl0m8o.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. q0o8LfgwRgZokFE56+vWTYKnCmSsNPqQZMVQrk0DQ1BFOG7bZ+ddpqPcgJha4QaxGDG7MXjsLUyKvaIKeCK+pJof6f51wZQrUAiugas4ORm/8buesVEbGyOxsPeX1eV5+EB5fDpLNrItQUlRSdioXI1hrDi+7k8G9Dml4qQV5ac=
+rob8qndbq3ke45mi0nkhf9733jgl0m8o.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  robknunl3bg7jgavbu77te7fqol9ga8c NS 

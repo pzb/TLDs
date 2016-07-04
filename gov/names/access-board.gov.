@@ -1,0 +1,7 @@
+access-board.gov.	86400	IN	NS	ns1.access-board.gov.
+access-board.gov.	86400	IN	NS	ns2.access-board.gov.
+access-board.gov.	3600	IN	DS	44299 5 1 a07dff65d58786a566408842a8ab1cefb585bc24
+access-board.gov.	3600	IN	DS	44299 5 2 382246d4c28178d53af8eda56efaeeace4ddf0b67a5dfe3412b8510bf94aa985
+access-board.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. sm3zU9x0r/a2lZyEFJGBJx+GhOzapjYcaIuCaAH6U14Ul4+NDVJkVLZMzTROL4nDQSE52rKg4hz3tZ7E20Wngig9VpI0xDDigIBivVJwUiEuCYBDfwt94tkx6JbLOk+tPVYWktbUPbCDZ9MPCvotPHdfC5XO4Xz8BlZ4Tj4Zh2o=
+ns1.access-board.gov.	86400	IN	A	52.86.34.161
+ns2.access-board.gov.	86400	IN	A	52.4.51.187

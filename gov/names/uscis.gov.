@@ -1,0 +1,12 @@
+uscis.gov.	86400	IN	NS	eur2.akam.net.
+uscis.gov.	86400	IN	NS	eur5.akam.net.
+uscis.gov.	86400	IN	NS	use2.akam.net.
+uscis.gov.	86400	IN	NS	use5.akam.net.
+uscis.gov.	86400	IN	NS	usw4.akam.net.
+uscis.gov.	86400	IN	NS	ns1-46.akam.net.
+uscis.gov.	86400	IN	NS	ns1-96.akam.net.
+uscis.gov.	3600	IN	DS	23899 8 1 ac45f2f470cbce9e7e6296984c06e220327101f7
+uscis.gov.	3600	IN	DS	23899 8 2 5bef4b79656f33cc3f27a44ca38b73a442c8e45768fbcfefd3c5e32e8336854d
+uscis.gov.	3600	IN	DS	42235 8 1 705a229cd538f9cac99e0c425efb34dbee57ccf1
+uscis.gov.	3600	IN	DS	42235 8 2 6c724c9edf29d3bd49902460f2097e132ca9ad3f03b2605696c5ded2f7ed7bb9
+uscis.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. UIkhBtZUZb2gAYp7KPDaNFrUSEG6wo2OdpgY5MTBw7z4mho14WEGtoVKXS+QTDnNaFIpNdn/Q5639EVErYx2piWWthwCh6DcRJET5GDXa+JCpYfSnZsyLtcHQmcKg2cPjL4/6B0Z58sD9xzrfYuGP0H0T/0JwJoDHBeVG38xeaI=

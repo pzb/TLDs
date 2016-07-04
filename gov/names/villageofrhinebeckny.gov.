@@ -1,0 +1,4 @@
+ah7ac66t05cvfm224k6ng408ues5eskf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. K3J+Q8B38VVPdwnWtAZ4GV3UgYQMFf/p01+sLq5B33D5jts38A6oyefzIPFXxwYLwKxZmpW5c0FZlju/xJhQt+qoOehhUwbt/qw75yANtTX1DnkI/g89Y50n64UJr/klv7gHIkaxriz0b9duoYfoyd7LcTpEmdBi8dutEoKkOXg=
+ah7ac66t05cvfm224k6ng408ues5eskf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ah7te1pssscis8650k8da3hn6nkgedg9 NS 
+villageofrhinebeckny.gov.	86400	IN	NS	pdns07.domaincontrol.com.
+villageofrhinebeckny.gov.	86400	IN	NS	pdns08.domaincontrol.com.

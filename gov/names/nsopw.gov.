@@ -1,0 +1,6 @@
+nsopw.gov.	86400	IN	NS	a1.verisigndns.com.
+nsopw.gov.	86400	IN	NS	a2.verisigndns.com.
+nsopw.gov.	86400	IN	NS	a3.verisigndns.com.
+nsopw.gov.	3600	IN	DS	49374 8 1 98df63ac21613ea4957d1d0100e1ef1728640a94
+nsopw.gov.	3600	IN	DS	49374 8 2 05da7e1dc54bdab678346ac1ff24c29cfc82efd20cfc652dbbfd616d404d74ff
+nsopw.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Gff4ybkdDrswqqYRK2VB6f+gBH1ht1pZdB0jqIpAhcWB82+wS9v7TA1NPa+0YD9kPZYQSrGlgz/bLBRdmpPUiJAxgrOwKQBvt07K89ja7GtziBsBWq09sB7ul5P9qbir7tij1ZjUldtUkbiuqNVGusB31ki5Dadzk4eWO1G5VwU=

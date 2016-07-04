@@ -1,0 +1,4 @@
+gkpcq842ei6nhg4ari9osmo2vdsclte4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. LiH1L5CFgkg/DZr3roJMvr6dToqQ5v87js+Cin9n5S/Z0kHtN4czdUSpJS3ik8bQZV9Ue0DkmHKbH6bM01KsUD4h6ll0Qo1HVO4hZtuEE6Ec59hJj4fqrO7JIeI3wJlByDgUhIRbMIeczy77vstyjhXRJBPmkXkja7Roy3hefqg=
+gkpcq842ei6nhg4ari9osmo2vdsclte4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  gkuc5boukjrc83rc30d0o2218ibbhd43 NS 
+villageofnewhaven-mi.gov.	86400	IN	NS	dns1.appriver.com.
+villageofnewhaven-mi.gov.	86400	IN	NS	dns2.appriver.com.

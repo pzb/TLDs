@@ -1,0 +1,3 @@
+nato-pa.int.	86400	IN	NS	dns1.grmbl.net.
+nato-pa.int.	86400	IN	NS	dns1.nato-pa.int.
+dns1.nato-pa.int.	86400	IN	A	194.78.222.29

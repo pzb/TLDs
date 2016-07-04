@@ -1,0 +1,2 @@
+apnic.int.	86400	IN	NS	ns.apnic.net.
+apnic.int.	86400	IN	NS	svc01.apnic.net.

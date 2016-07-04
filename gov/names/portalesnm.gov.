@@ -1,0 +1,4 @@
+pdv2aooav5vs9fgt0jihe7k2rfpo6sb0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. YT/xVDC3uRkTfPQJtKqoarmJ+F4mjkYIj4gYEuns0NHjwRf2HwWPt0rFjIp4c3GFQalGlR8vQqJKkRGn3w8uDt3rBX0hcHxGU273lWub7D5DAkeKwdvRQpVrZfLOvLHQN9dJzNQmdzm7F1wXRr7pytSnhjs213Thb1IqoOX20AU=
+pdv2aooav5vs9fgt0jihe7k2rfpo6sb0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pe9s5v14jgof1h8rf7v847b8vd7qp6m7 NS 
+portalesnm.gov.	86400	IN	NS	dns1.yucca.net.
+portalesnm.gov.	86400	IN	NS	server1.yucca.net.

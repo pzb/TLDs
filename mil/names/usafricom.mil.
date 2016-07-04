@@ -1,0 +1,8 @@
+ns01.army.mil.	21600	IN	A	140.153.43.44
+ns02.army.mil.	21600	IN	A	192.82.113.7
+ns03.army.mil.	21600	IN	A	130.114.200.6
+t1ft8ee25st1micjulqrbib2p67jpfr8.mil.	10800	IN	RRSIG	NSEC3 8 2 10800 20160708161835 20160701161835 16413 mil. oVI275Q1ETSZdimeXGC1zG0noLNt5UyvTBdTH95z5nzbeViLiKBk2vyNNIahAmOkQqo5T22WvOmxKy4bmRAuEn115HbKwTk5OkyUEhE3xo+XvEwEC4KkxC21kgo2eQvWXdwFOmHpfe6fD65S4+0wF3e2ZQ/AOLrX5uunqqf420yq1YA=
+t1ft8ee25st1micjulqrbib2p67jpfr8.mil.	10800	IN	NSEC3	1 0 10 adeb  t512h5698h3d0o6qvoo6821h2tfmkcaf NS 
+usafricom.mil.	21600	IN	NS	ns01.army.mil.
+usafricom.mil.	21600	IN	NS	ns02.army.mil.
+usafricom.mil.	21600	IN	NS	ns03.army.mil.

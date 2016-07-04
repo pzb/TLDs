@@ -1,0 +1,9 @@
+foodsafetyjobs.gov.	86400	IN	NS	ns1.usda.gov.
+foodsafetyjobs.gov.	86400	IN	NS	ns2.usda.gov.
+foodsafetyjobs.gov.	3600	IN	DS	50692 8 1 c70172e2f656b18870bf1e2960ad143df2a55346
+foodsafetyjobs.gov.	3600	IN	DS	50692 8 2 453a4ea021ada93fe97b80d6f9192752ec774b6ac06fa8e1eaca05143d28ed2b
+foodsafetyjobs.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. T/2JnnQQWnFRsGg31+tuNhwzwH4SWJ4+qsBqUzZFyTIdAm2lk8gGkZn5qysYOCD0Wy6ydVvx/HG4Up6P8/8ciRqD8SpoUq0zZ77PcQuvHSVuo7GflybviaKIczqkY2KrFFoJe+bjv4nipFm4wfMk+bDbUnazqwEYKuhHvfH2JPw=
+ns1.usda.gov.	86400	IN	A	199.141.126.202
+ns1.usda.gov.	86400	IN	AAAA	2600:12f0:0:ac04::202
+ns2.usda.gov.	86400	IN	A	199.141.126.206
+ns2.usda.gov.	86400	IN	AAAA	2600:12f0:0:ac04::206

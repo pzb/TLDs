@@ -1,0 +1,4 @@
+adsn.int.	86400	IN	NS	ns.nc3a.nato.int.
+adsn.int.	86400	IN	NS	auth04.ns.de.uu.net.
+adsn.int.	86400	IN	NS	auth54.ns.de.uu.net.
+ns.nc3a.nato.int.	3600	IN	A	192.41.140.178

@@ -1,0 +1,4 @@
+1nun0vqdmgf1v1vpfirdr9ptqa7ftm5i.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. MwFIxo3QM9QPAuxk9rHIKRApYEcdq54D0mEcWuY/2an/tRa6hgQ6iJY5587zWEHM7L7zCGE91BoaCS2o0Lj9DbYfotPl2LenbHyuDXYDJVwYlW9cEz1MmtmhtuvuAJcSYBXypP1+xMjNfK5+oEJX6/dGPmsQNrAAXKBj77gP5KI=
+1nun0vqdmgf1v1vpfirdr9ptqa7ftm5i.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1o073hjh45djc5bhreen3e4qs6pcs2ur NS 
+stmaryparishla.gov.	86400	IN	NS	dns1.teche.net.
+stmaryparishla.gov.	86400	IN	NS	dns2.teche.net.

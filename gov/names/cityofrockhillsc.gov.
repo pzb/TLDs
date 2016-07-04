@@ -1,0 +1,6 @@
+cityofrockhillsc.gov.	86400	IN	NS	ns-263.awsdns-32.com.
+cityofrockhillsc.gov.	86400	IN	NS	ns-852.awsdns-42.net.
+cityofrockhillsc.gov.	86400	IN	NS	ns-1509.awsdns-60.org.
+cityofrockhillsc.gov.	86400	IN	NS	ns-2039.awsdns-62.co.uk.
+ffmgotbfgggfk2pm2d0cd1befgs32nbk.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. srFwDl56cIl0Hh3vtgfHLggiCDl7z4Q26/vY3KFegOFNaX1ruJuisnHwm7RSZ2J1+tjXjOoi/7O1S8W7oPUngB0LBsanc/JKn+1uIEvm4CfY0pYrpREWUJkvSm+S0lipIyK3LiBnf13D+5YVQleqxTiH8N4cAivY5vmaDvHa6LQ=
+ffmgotbfgggfk2pm2d0cd1befgs32nbk.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fg1keq4shrf1do4eoeev0bg0hnkamhq4 NS 

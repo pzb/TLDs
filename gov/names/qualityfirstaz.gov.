@@ -1,0 +1,6 @@
+5g233hhstlad2ma1cn590j6vhkl5fhsq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ljkVKFh6pH57KEVTzsfJhqFJL6J1i+6arW04hz29q7mTIJSCnVxlXkr8R1pblmuZraVBSPJlAzYI7ZiOKwbJtsTHYvK69G0S2LLLFKhfyIqC7zU2znVvVs6Yqrd19TWtmpdhFbDoQqktZV2QHIetajYVxjrhQzEhkyKAvID0z2g=
+5g233hhstlad2ma1cn590j6vhkl5fhsq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5g2lf9931jhbkmfa99q36ddt8uma09cu NS 
+qualityfirstaz.gov.	86400	IN	NS	ns-117.awsdns-14.com.
+qualityfirstaz.gov.	86400	IN	NS	ns-996.awsdns-60.net.
+qualityfirstaz.gov.	86400	IN	NS	ns-1206.awsdns-22.org.
+qualityfirstaz.gov.	86400	IN	NS	ns-1846.awsdns-38.co.uk.

@@ -1,0 +1,4 @@
+3dfaq8b0lh3qejmc838tg1f3ilhvbal7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. AEmflRLuLoTsOYiFfBdTxPjwrfJBkmV8A3G7htX2jk+4yj50Me1pm9X930mQF689kxfpYZ5xC0oPIWn4WtYUjstNd8R9MY9fOTgyWvVs0flNMn/UpUN3+SkSf6qwB92MVSd7Y7jN2y29pCXyptQGljB5pQa3X0yyFEJiKQoOxC0=
+3dfaq8b0lh3qejmc838tg1f3ilhvbal7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3dj0gkhh6oua9tkc00r5cuak5q2af1br NS 
+cheyennecounty-co.gov.	86400	IN	NS	ns1.kci.net.
+cheyennecounty-co.gov.	86400	IN	NS	ns2.kci.net.

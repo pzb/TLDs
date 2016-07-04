@@ -1,0 +1,12 @@
+ice.gov.	86400	IN	NS	eur2.akam.net.
+ice.gov.	86400	IN	NS	eur5.akam.net.
+ice.gov.	86400	IN	NS	use2.akam.net.
+ice.gov.	86400	IN	NS	use5.akam.net.
+ice.gov.	86400	IN	NS	usw4.akam.net.
+ice.gov.	86400	IN	NS	ns1-46.akam.net.
+ice.gov.	86400	IN	NS	ns1-96.akam.net.
+ice.gov.	3600	IN	DS	42295 8 1 1ff8567260092f35d8ba57fd6f2ec25347ea74f2
+ice.gov.	3600	IN	DS	42295 8 2 f4841b5594340d6aaa170fdec5b1863c54dbc4cf2ad720e91de062150a6db7ac
+ice.gov.	3600	IN	DS	46142 8 1 093fcb7556dc0cabc036bb8aa9be5e2019ba595b
+ice.gov.	3600	IN	DS	46142 8 2 280249d670f71b36ba4abc798dd785dc773557ebb8fb1e48cf075c123cdc3277
+ice.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. i5yBW4UmvJLcE33CEDW2Eo0pDORbceTP4cFHqqaPOtl0n3VqkpGDmlMvhoWnubad8FKhgf3yTiLEQo9y3U5YUVRUbeJ6jMsrt6T5OCDx02vHPXPEsTmb21xkjU96XOh4EZCk81Vnp/h+swFe9/AZ2R37Y9LuJUGBm64XZtQrWV8=

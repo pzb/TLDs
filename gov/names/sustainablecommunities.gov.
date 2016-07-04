@@ -1,0 +1,9 @@
+edns1.dot.gov.	86400	IN	A	204.68.194.100
+edns2.dot.gov.	86400	IN	A	204.68.194.200
+edns3.dot.gov.	86400	IN	A	204.68.195.200
+sustainablecommunities.gov.	86400	IN	NS	edns1.dot.gov.
+sustainablecommunities.gov.	86400	IN	NS	edns2.dot.gov.
+sustainablecommunities.gov.	86400	IN	NS	edns3.dot.gov.
+sustainablecommunities.gov.	3600	IN	DS	21757 8 1 960a5be3fd9f9a7c384e1467398156a9e14749d9
+sustainablecommunities.gov.	3600	IN	DS	21757 8 2 eb8c0a397244ede5a74208a5c4f82f9a5baa020f7e565dcd45d31cbd96414e6b
+sustainablecommunities.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. sOZXgOXbbVIqG0Zf+85z88uVIKEbXdpxlSTCUUA38PK8K7qVvzYYDHk9b+wSFv26kJhlNbAzAQmFPB9p9LhJsniWawCncQEl+KajMsp8gndFeEk6LDuayxcf9472y7gUFAKJ1wOivUaoLt46BuVrdQi6uWUvMzdjs4w2FKAOgJg=

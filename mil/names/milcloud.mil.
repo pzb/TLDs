@@ -1,0 +1,15 @@
+ns.cybercom.mil.	21600	IN	A	131.77.60.235
+ns1.csd.disa.mil.	21600	IN	A	152.229.110.235
+utindo02.csd.disa.mil.	21600	IN	A	152.229.110.236
+guv10m01.mont.disa.mil.	21600	IN	A	214.3.160.20
+guv10m02.mont.disa.mil.	21600	IN	A	214.3.160.21
+ns.jtfgno.mil.	21600	IN	A	214.3.125.231
+milcloud.mil.	21600	IN	NS	ns.jtfgno.mil.
+milcloud.mil.	21600	IN	NS	ns.cybercom.mil.
+milcloud.mil.	21600	IN	NS	ns1.csd.disa.mil.
+milcloud.mil.	21600	IN	NS	guv10m01.mont.disa.mil.
+milcloud.mil.	21600	IN	NS	guv10m02.mont.disa.mil.
+milcloud.mil.	21600	IN	NS	utindo02.csd.disa.mil.
+milcloud.mil.	10800	IN	DS	8296 8 1 709a6d78f85bae1ff11069b656f531aae7bcca56
+milcloud.mil.	10800	IN	DS	8296 8 2 9852fd25b7d0d70658970540e4d67b31a85f9146fc2851fcad08238c01042195
+milcloud.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. ivqI0f749yZ0/iQzN1wqzyiY3MhKNggSv+Mkv9YcMNIco6paUmxBwDQZHcXJkpHEkUPSML0x7N3rAcTuqNbLgsbMT71M3fBnVA9uwRkarbXMa/G2FmLCI/yfLXZB12up6nc/wuJzieqX8JayBrG8KDBBF4klTJmXTLoBTu3G+bQrcnM=

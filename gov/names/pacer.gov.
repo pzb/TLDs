@@ -1,0 +1,8 @@
+11bbkmlpcnl9e2h5r0mkf1nob4sp8v3q.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Gakqw5l7wWNeyaCX+h8sLaeRZN6mNdEm74I7w5DWxehRHZsXiTnjW9e7bscJERvs1SGc5fCiKOhCm2bK/2yC6+FDC+6R17nH+uTGhJtpsXZKT9Iyh8SKxtqPUB4w553wsxhdwki2Uus6cAFsvd7wyOBe1pyfVCkuScFPHYUUjQk=
+11bbkmlpcnl9e2h5r0mkf1nob4sp8v3q.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  11c1ijsqj19clv8b4ms9nt32obtlj2q6 NS 
+pacer.gov.	86400	IN	NS	a2-66.akam.net.
+pacer.gov.	86400	IN	NS	a7-64.akam.net.
+pacer.gov.	86400	IN	NS	a1-221.akam.net.
+pacer.gov.	86400	IN	NS	a11-64.akam.net.
+pacer.gov.	86400	IN	NS	a16-65.akam.net.
+pacer.gov.	86400	IN	NS	a24-67.akam.net.

@@ -1,0 +1,6 @@
+o3a4u8lidf806qsd80nauhdhk1qq252g.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. S+6pk4GsAPSdH5NjYShRi94yyBvNFIXr36f4OPqWiShNstVUy0Aej5b6lG5wgwzK5Vp43FNkpxOu3100Usd02gq3RlC2XNfp+f2USNqhWtO4pEiLJwdW4Qt3TNeVNSH+GWsxdKMatdkPoHJhQqSv0wzgpaFON3ZS2E/jf0WnTTc=
+o3a4u8lidf806qsd80nauhdhk1qq252g.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  o3l0sl0o27ten2pn6u3rqdonhvti94up NS 
+pif.gov.	86400	IN	NS	ns-409.awsdns-51.com.
+pif.gov.	86400	IN	NS	ns-632.awsdns-15.net.
+pif.gov.	86400	IN	NS	ns-1361.awsdns-42.org.
+pif.gov.	86400	IN	NS	ns-1700.awsdns-20.co.uk.

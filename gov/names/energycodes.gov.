@@ -1,0 +1,9 @@
+energycodes.gov.	86400	IN	NS	nsx.pnl.gov.
+energycodes.gov.	86400	IN	NS	nsy.pnl.gov.
+energycodes.gov.	3600	IN	DS	18006 7 1 a34ecf00bacc6f9d26115563fce83c3d4a2fa556
+energycodes.gov.	3600	IN	DS	18006 7 2 e181a406b6b3e9153f50364ca7df6d4f621fba5ce6093a56f460f68dac790948
+energycodes.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. tUcjqZ6sX7Wn6xSmvUusynW/tzwgGATi8Qz5EBrRw1MBLFeps8jTY1rA2niKvlO8G8qVXUx0OZn/1tewxAX6Y/sIK0yyuOfkhN+cyergxFIooxFYnVW1d6Q3fH/nyw6BevtCtLxbf/GWRr9y+euj1Ke71n3BSOu/d9GCVZQmSP4=
+nsx.pnl.gov.	86400	IN	A	192.101.109.47
+nsx.pnl.gov.	86400	IN	A	192.101.109.80
+nsy.pnl.gov.	86400	IN	A	192.101.109.47
+nsy.pnl.gov.	86400	IN	A	192.101.109.80

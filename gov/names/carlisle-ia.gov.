@@ -1,0 +1,4 @@
+carlisle-ia.gov.	86400	IN	NS	ns1.getcybersolutions.com.
+carlisle-ia.gov.	86400	IN	NS	ns2.getcybersolutions.com.
+s6sh25u8lap8lo4vki28anostbuj9651.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. f2S4Vwy2q4zJKvC/JgWPyL9naZdTs6igWBDN/qO8E50gR0P+3W2euDdNflONLQFy/sf8Ta6h5ijXX58CQP4B2NogU70R2iahDL+iYMTJAm67QVsNMcXw2gCFvmgVLsT3Wt31PCt4Gie5LqXUcFLM7qgDy60lr51p5oEJedx0b6k=
+s6sh25u8lap8lo4vki28anostbuj9651.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  s73ps5vejd4mlfau1vbaj4g5pr1fac7k NS 

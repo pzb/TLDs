@@ -1,0 +1,6 @@
+azdot.gov.	86400	IN	NS	ns-34.awsdns-04.com.
+azdot.gov.	86400	IN	NS	ns-770.awsdns-32.net.
+azdot.gov.	86400	IN	NS	ns-1263.awsdns-29.org.
+azdot.gov.	86400	IN	NS	ns-2042.awsdns-63.co.uk.
+f68n20p00pi558ftdciq2jn11vi6qe4k.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. VBLzQRkVi7lBfjXFYDnKlpIpVGsQhA//zIYttxrfjnoh2TLz7Eb0vW9JFYSF8ZpkfCgIXHpVy5jnL32xgXmJGGBYFZv30v6rDJhjAXR3U2YFpHTN2ymRBQWwwdTIzy/hnQF/sooImv98odmxfMJ6r6vzd8kZvBK7uGkF+dGZp58=
+f68n20p00pi558ftdciq2jn11vi6qe4k.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  f6a3idv01e4r7mkdaluvgboeot2vq194 NS 

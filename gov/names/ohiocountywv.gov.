@@ -1,0 +1,6 @@
+bk6kpt6tctmm402f54fbg37vsl5mh0qv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. R6t5mRQrDnhFHC2Urm7/D+6d5DAIEexJWdOeUQcLKIqNkAbmFExF7AL4aZ8BmrDPvZv/SH8FkLtv7ruNN7Ssqg3zNS/3RQ41m+9AmuNrQjiOwQL110VYdSjY7dHa1dzIhmuHGeaUf9NYp16q2PN2V638yMxoT4bI8Fv6Wwl70TI=
+bk6kpt6tctmm402f54fbg37vsl5mh0qv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bk96c82dqq9g1380aekpnrbhfj27u76v NS 
+ohiocountywv.gov.	86400	IN	NS	ns-495.awsdns-61.com.
+ohiocountywv.gov.	86400	IN	NS	ns-586.awsdns-09.net.
+ohiocountywv.gov.	86400	IN	NS	ns-1381.awsdns-44.org.
+ohiocountywv.gov.	86400	IN	NS	ns-1729.awsdns-24.co.uk.

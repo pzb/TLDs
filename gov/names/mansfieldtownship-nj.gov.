@@ -1,0 +1,4 @@
+07i9h8ttfe678qif77q5510l2c1oh83c.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. cK2cApGrdv/vOftOIqb2xpMoaR2VecDmM+qRHVDbGkgk1e/bzHM1EWgD1LreWVIJnWfLQxuVBCTCa4D1PWwX0WP+itoBe7s5VCqSrnBgT5pkfxIFyiCVoFpAcLb7ox1t51OHyZwH9wAaUkYXup7mJU4ud6u06k+Mw6f8jCW3Z8s=
+07i9h8ttfe678qif77q5510l2c1oh83c.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  07q07ibmfllv2eca2dfphco0ehb5b1be NS 
+mansfieldtownship-nj.gov.	86400	IN	NS	ns3609.hostgator.com.
+mansfieldtownship-nj.gov.	86400	IN	NS	ns3610.hostgator.com.

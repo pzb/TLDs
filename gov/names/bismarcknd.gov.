@@ -1,0 +1,4 @@
+bismarcknd.gov.	86400	IN	NS	ns3.ndnic.com.
+bismarcknd.gov.	86400	IN	NS	ns3.state.nd.us.
+h8d6c7d3tisdgtb1l2nj02moi1u6v6fc.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. lcigFDJG1Redwhk/HkkXxcsq96FLYb2z3XZzPw8hb6Q3UwJAX+Y6zrXxBo1tYn3pOPXGq+r+vyCOb8rdDoaTnbwfkO1K0FIT0QQVw8qjlWRz9BdS6LSQgBilnSpy+qGJn/UMaHiW2m2FuqmGnWaicd7hQ3oWcXjOQTFAhQUX8dw=
+h8d6c7d3tisdgtb1l2nj02moi1u6v6fc.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  h8denlb83egpi93mmvq9j7vh1f1gm91c NS 

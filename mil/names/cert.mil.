@@ -1,0 +1,15 @@
+cert.mil.	21600	IN	NS	ns.jtfgno.mil.
+cert.mil.	21600	IN	NS	ns.cybercom.mil.
+cert.mil.	21600	IN	NS	ns1.csd.disa.mil.
+cert.mil.	21600	IN	NS	guv10m01.mont.disa.mil.
+cert.mil.	21600	IN	NS	guv10m02.mont.disa.mil.
+cert.mil.	21600	IN	NS	utindo02.csd.disa.mil.
+cert.mil.	10800	IN	DS	10450 8 1 30a73d53afb39c091f5daa8a64b5fa68cc9beff7
+cert.mil.	10800	IN	DS	10450 8 2 153b34f14ae99c411a746fa72bab8eae845d97b006e496c1e90e13ad211c7842
+cert.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. hDcv5CJDRWxH0pcptxK7+domaEfH87aRg/aviWUaQDnGap7J+TFbRvY7dF4GTXZUvU1+ne/WoOT/g6miU8ZKdO58tioWH8xcIEsIVK17bU2ymFXUM+snoXFyzgMzqcldLBcjb71VPTh0+V6+SEjQziXRLIHa21DoCwQc96sHnKrwCEQ=
+ns.cybercom.mil.	21600	IN	A	131.77.60.235
+ns1.csd.disa.mil.	21600	IN	A	152.229.110.235
+utindo02.csd.disa.mil.	21600	IN	A	152.229.110.236
+guv10m01.mont.disa.mil.	21600	IN	A	214.3.160.20
+guv10m02.mont.disa.mil.	21600	IN	A	214.3.160.21
+ns.jtfgno.mil.	21600	IN	A	214.3.125.231

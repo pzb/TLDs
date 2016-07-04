@@ -1,0 +1,9 @@
+homes.mil.	21600	IN	NS	nrfkns1.cnic.navy.mil.
+homes.mil.	21600	IN	NS	nrfkns2.cnic.navy.mil.
+homes.mil.	21600	IN	NS	sdnins1.cnic.navy.mil.
+homes.mil.	10800	IN	DS	14464 5 1 91c81fb415c1bbe9dc1eabe4169b34faa24c37a8
+homes.mil.	10800	IN	DS	14464 5 2 970fe85f6290d8bdf982621bb546a88cc3c9cf63ce2d10ed8ec3ec4ac0031a8c
+homes.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. Kxh9qXM0nbm9ZoKAoUJPViMKp7lnwXAqF66u4lRTNoGm0VzCMmjX87yJmywr/vP/ipAgqfcAS2qHMSrgKG0S8xzVKpTsLYY9ZbIzACg9vzBl4yJ5zU9BUrc4pKdO3Jus6STtUXyNRQP5PJQJzBIopECao9T8oynlN6+rPl+cYCHtB30=
+nrfkns1.cnic.navy.mil.	21600	IN	A	205.70.100.33
+nrfkns2.cnic.navy.mil.	21600	IN	A	205.70.100.34
+sdnins1.cnic.navy.mil.	21600	IN	A	205.69.245.6

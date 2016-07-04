@@ -1,0 +1,11 @@
+ethicsburg.gov.	86400	IN	NS	ns1.treasury.gov.
+ethicsburg.gov.	86400	IN	NS	ns3.treasury.gov.
+ethicsburg.gov.	3600	IN	DS	8859 7 1 8121d85aa579b8785f9f46ed61c972fbd827cf08
+ethicsburg.gov.	3600	IN	DS	8859 7 2 a8369ce0e85a57c7e9b0e6afc37e2404c212846b33719589a8955c4c89e17dc2
+ethicsburg.gov.	3600	IN	DS	60426 7 1 1739892c4a1a60b3e2c68ec2f761fdf989023d46
+ethicsburg.gov.	3600	IN	DS	60426 7 2 ad4a5474fde09c39bcdff30dae2f5820881b8c2e19ed1cba69ae28581bce067f
+ethicsburg.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. eDnGIvhqkvcjEPvAC6HST0uZ7PNSoj6mSbNys+Qu/ly37kv5Mm91SnBSwm6vuUfwXdRzTb2izdfsVz3ZOefdsFPipi6anBaBjJVi8ymMOI+il139H/gFhegzThTqd9Fz5/eklQwsieZlOEAqNEzedS0M+PLtlstip3ANr7W5f48=
+ns1.treasury.gov.	86400	IN	A	166.123.208.249
+ns1.treasury.gov.	86400	IN	AAAA	2610:108:4000:100a::249
+ns3.treasury.gov.	86400	IN	A	164.95.95.155
+ns3.treasury.gov.	86400	IN	AAAA	2610:108:3000:100a::155

@@ -1,0 +1,5 @@
+kn7tb55o4gkpopq483vf27fcbfc7iop8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Ix5T35OygZn311XiE62zFm+TMFOGGix5tx4IVJoMgVdkF8tBcEEECDuHcRaM0EzijqhBbdsKaHZLMIbp/dJ8Fho0xDyWZTvZ6v/wfloRmzX7fPBMKBh+61UHZh2aEpGu0Afg1nW4qaVLkyUXcGbdHE8gyk6RbJHX73TL8lMRb8Q=
+kn7tb55o4gkpopq483vf27fcbfc7iop8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kn92t69ktrtq1nhnv0fu8agnt70me9en NS 
+whynevada.gov.	86400	IN	NS	ns1.state.nv.us.
+whynevada.gov.	86400	IN	NS	ns2.state.nv.us.
+whynevada.gov.	86400	IN	NS	ns3.state.nv.us.

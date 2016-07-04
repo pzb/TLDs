@@ -1,0 +1,4 @@
+cjecqgrunu6nl7rl3ofa7q7c1has0to5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. T30Vctp23L6ciKfZqxp4gWtMUXBPM2g4F3EYf8Luzeb15Tlgan8jCX6t/O9k/KY9obcw51/RjZL3aTDKW1WZI9f7jEkwdWYnDqXkuGRQVE69JHwDVWA9EyPeirfJF0iyEf4r+oQmKczHrowxee9ZTZDvsslwzPiI6tgTejqACVA=
+cjecqgrunu6nl7rl3ofa7q7c1has0to5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  cjni7v3labns0b9ec4h9qod5tfcv581l NS 
+texascountymissouri.gov.	86400	IN	NS	ns13.domaincontrol.com.
+texascountymissouri.gov.	86400	IN	NS	ns14.domaincontrol.com.

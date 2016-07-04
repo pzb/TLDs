@@ -1,0 +1,12 @@
+dhs.gov.	86400	IN	NS	eur2.akam.net.
+dhs.gov.	86400	IN	NS	eur5.akam.net.
+dhs.gov.	86400	IN	NS	use2.akam.net.
+dhs.gov.	86400	IN	NS	use5.akam.net.
+dhs.gov.	86400	IN	NS	usw4.akam.net.
+dhs.gov.	86400	IN	NS	ns1-46.akam.net.
+dhs.gov.	86400	IN	NS	ns1-96.akam.net.
+dhs.gov.	3600	IN	DS	56641 8 1 e51173c079c65fb2d81d46793490736cdd0d998a
+dhs.gov.	3600	IN	DS	56641 8 2 1d8ddb8579650e849c0d5f484412ec3d1011829468167c116fff52ea679229a5
+dhs.gov.	3600	IN	DS	58655 8 1 04934f846e47f91e092565c9734bccfd1e0d3fc3
+dhs.gov.	3600	IN	DS	58655 8 2 b819d2a9110a2c852c8b594e433d226c08658b499746fdbcbce7f310db2559a2
+dhs.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. em0pfB1SAcr9dmzBurviP2zXUawmKyLQkmlarCQT6vYpwES3uJLZ6KyFYLdp170XZrcDEXUDsItjVY3cvnBpAqsJF1gSTQK9bYQTZYmxoXpeQ848kDO/KcygLuIpRwRKb5gEtjBQHz9FowI0lPcThAINozuLZ2pqHB2mUBNEclg=

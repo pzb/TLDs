@@ -1,0 +1,4 @@
+provincetown-ma.gov.	86400	IN	NS	ns1.prv.ri.meganet.net.
+provincetown-ma.gov.	86400	IN	NS	reuben.meganet.net.
+ua397iipijnpth5b60fqesak3hnfpgom.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. WQQopHZDuW/xNRLj33XEIXMpzmeCitxOJlnSE1ZYsJobkpdNy1RH8CnJdNo5tdHQ0zQhrokzp7pt32G9fz7RAzO98l4dlho1ax7raXG5Z8yUViLIotrueIL8iu1WmkIwvEEbUZfcdSs0t3/BL9QThcXB4IUQ7MzhYXvWemudbOA=
+ua397iipijnpth5b60fqesak3hnfpgom.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ua61qkrvs7p9ctg7gnf2nf7as6bgbes4 NS 

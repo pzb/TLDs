@@ -1,0 +1,4 @@
+mug5ujser7ekvprr121qfr1knegm69rs.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. FoYDdN+/YdYzKyE8rJr5ffQ9+Ntfmj4X26b8oOYJlf6Yz5BUnyXRJg2loYf+36G6GntPNyNd1DuytyJgqImfnH92K6JovS05ANBNfy97LPrShvMquUhhgVZ++5nyagpiAstcNiqSd2YgHe917hJCwiC/inbTvyLxPyVUee0Q80s=
+mug5ujser7ekvprr121qfr1knegm69rs.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mukpmgdulvnhhgfl9vf2vrcor1doag3u NS 
+psd.gov.	86400	IN	NS	ns1.psd.gov.
+ns1.psd.gov.	86400	IN	A	63.118.155.180

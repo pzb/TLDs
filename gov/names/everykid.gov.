@@ -1,0 +1,8 @@
+everykid.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+everykid.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+everykid.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+everykid.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+everykid.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+everykid.gov.	3600	IN	DS	12628 7 1 a4e5f6112e4f7edbe078915d733f2fd757d47f29
+everykid.gov.	3600	IN	DS	12628 7 2 d9d5e25226977f248f7801784338ca4d43ca6b76756722f123265881345e5bcc
+everykid.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. DuU89oLOWJyJTOeYfIUh6s6mV6/yJvYNun02fNXBHFqvrQ57DsVsYNl2g5bkR+X8sK+QccjEdHRoYrzWx7QpaWbqnN/JzAYD+S1s00opL8PveVwLs0Siv7692z/UdJ9bhHijXg+MNo+USJFa6oLLWPj0ncCkUALp2AmM/wqcqMw=

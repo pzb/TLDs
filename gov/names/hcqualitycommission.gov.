@@ -1,0 +1,14 @@
+rh202ns1.355.dhhs.gov.	86400	IN	A	158.74.30.98
+rh202ns1.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2a
+rh202ns2.355.dhhs.gov.	86400	IN	A	158.74.30.99
+rh202ns2.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2b
+rh120ns1.368.dhhs.gov.	86400	IN	A	158.74.30.102
+rh120ns1.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2c
+rh120ns2.368.dhhs.gov.	86400	IN	A	158.74.30.103
+rh120ns2.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2d
+hcqualitycommission.gov.	86400	IN	NS	rh120ns1.368.dhhs.gov.
+hcqualitycommission.gov.	86400	IN	NS	rh120ns2.368.dhhs.gov.
+hcqualitycommission.gov.	86400	IN	NS	rh202ns1.355.dhhs.gov.
+hcqualitycommission.gov.	86400	IN	NS	rh202ns2.355.dhhs.gov.
+hcqualitycommission.gov.	3600	IN	DS	6636 8 2 6e40d709473a04185c1fa4ddea5d52f54b890b742aa4a9dcf7547d88281c11c1
+hcqualitycommission.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. xqUm3LNQcs7znsszD/KbVy6w9flfDAry8UxswQpIPP5ZDWQC22Q9Wwzt3EEBoLFyNUGRISlYcG3rtSG18QDmq7+0yE6nCDf651nVxQPZfK/ncbiuLVtlwE6H3KssNvp+4THdIV8vl5hOkeV6K0Bxtix3rPB1Wo89iu8ZSkIqG8I=

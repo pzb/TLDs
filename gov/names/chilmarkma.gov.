@@ -1,0 +1,4 @@
+49l0j4p4lurtvmqfdelbpsrrn086crql.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. W+FYgC70dQzGBeXgAo405ifN3qyMZ1Jt6vPEEbGaZPc1dMWAHpeRoXKvS3PPJsSCa3qSACvVDVvG+4bwLxlGszGM5J/TtZ22+dLe+mmSGrGNy3lvvef43ITJPyrelrXm1gP8eqsoKVawnwUc/FJ1PQRsfs0GkDwuD/lh3mp2dWU=
+49l0j4p4lurtvmqfdelbpsrrn086crql.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  49s4n24sgiqjhhu7m1c875st0a557h8g NS 
+chilmarkma.gov.	86400	IN	NS	ns0.vineyard.net.
+chilmarkma.gov.	86400	IN	NS	ns1.vineyard.net.

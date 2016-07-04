@@ -1,0 +1,6 @@
+063739tgben7cdmdjbrubj581pmbervf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. GLbHjB73ZZB7S6RfSrjZrksFUODxIDVbOuhFgLm6QHk7vZDOpkQ0pcwxUH+cF7Hr+XZXD3enPFkS3jxS5RVBA824IckqNz6DNtqvdn9PS8sCB1Q/WETxcqOAwoeqmESkmQc1aJ4Ud6Mdh5++Lw30jg0s7trB2/xdleHpNvuMncY=
+063739tgben7cdmdjbrubj581pmbervf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  063hpnju4mvags2tkoqfh8232jsmgqfg NS 
+azdiabetes.gov.	86400	IN	NS	ns-376.awsdns-47.com.
+azdiabetes.gov.	86400	IN	NS	ns-920.awsdns-51.net.
+azdiabetes.gov.	86400	IN	NS	ns-1234.awsdns-26.org.
+azdiabetes.gov.	86400	IN	NS	ns-1556.awsdns-02.co.uk.

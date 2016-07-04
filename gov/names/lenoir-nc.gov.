@@ -1,0 +1,4 @@
+lenoir-nc.gov.	86400	IN	NS	ns1.directus.net.
+lenoir-nc.gov.	86400	IN	NS	ns2.directus.net.
+qd03h8l1ad8rosvgnktt6a9naaodpdc9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. MYgM4H/bFo1ptO3pKTViLkW2kfe3ZGXgjZDoGbMn3Fiq6KWfGq/4lgX3TwyIYHolt7+wg13Z7ZzqNIK8pb0T3+EqYbDyDpa/HA9EToLmzDglvcVfZCYMOED0+Gd360X3FmG3y1itidBVF6xLWWmwdJqRyIw8Pa2Psa1YPYXZxVo=
+qd03h8l1ad8rosvgnktt6a9naaodpdc9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qdnc9ebmjb8qb8vjt3e40p9gidnlrl9h NS 

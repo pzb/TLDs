@@ -1,0 +1,5 @@
+9cp3h06mlu69bu2ql8f7im423n247qm2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. FSg1ClMwB02IN1yTV/NzsBQpkHKTtKka12o7Qzhm12PRr6IjQJ8glJRuge0wNU9WvOUS1IbhrHPR1s7+lGejClK+oIpf+fxIlVbYxAKkzhQ8ZCYV0TuyMS76gemZXOoCNZ91gnCDaBkfe6oMfSoD3/bdSvstk4HPUiaR83fzLbI=
+9cp3h06mlu69bu2ql8f7im423n247qm2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9d2mm88c50jlu054o7bt75u8v2r5n9og NS 
+swinomish-nsn.gov.	86400	IN	NS	ns1.winhost.com.
+swinomish-nsn.gov.	86400	IN	NS	ns2.winhost.com.
+swinomish-nsn.gov.	86400	IN	NS	ns3.winhost.com.

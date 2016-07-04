@@ -1,0 +1,4 @@
+60rg0lebokc5rjqoebb0il9qfug3gtlk.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. KOlyh31NVf0lwVt9qT4RC7ON6DXkvB7Tz+emhi3fJRvaEtSP+IMpLWviSJz+F1x3l/VdoXXeZ0kfJZY0MRJpKGllg7Mjf2cwSfJ6f90UN0vKoG3yrkJ5YWswyd0+hzIYzSePw7dL7Igcy20QAZYZFCcF/3ppzCSv+gs+3AzyNgI=
+60rg0lebokc5rjqoebb0il9qfug3gtlk.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  60tb7522sebonkqi3l349qr51s2lus17 NS 
+collincountytx.gov.	86400	IN	NS	cbru.br.ns.els-gms.att.net.
+collincountytx.gov.	86400	IN	NS	cmtu.mt.ns.els-gms.att.net.

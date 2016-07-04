@@ -1,0 +1,8 @@
+92tnmlo2js7eeo72uievvqtqtmjh85fh.mil.	10800	IN	RRSIG	NSEC3 8 2 10800 20160708161835 20160701161835 16413 mil. WOSkj3nMONVeHtluV5T20YGTCOP50D4AJf81WR/WRvneVz1l5hPro/0tnyC9BqRNBdTDT0OHHWx9dntEx+B7cevI1tQPNfOl74goXoEcINCsuGPTs0iQ2VVeL+xKFvc2jefAEw5XE+4qOoxSzedreBvL4qziE9AGdNDSD4F9bOaAboE=
+92tnmlo2js7eeo72uievvqtqtmjh85fh.mil.	10800	IN	NSEC3	1 0 10 adeb  966pet983uc2ua5g4cf3utml6eev26kv NS 
+africom.mil.	21600	IN	NS	ns01.army.mil.
+africom.mil.	21600	IN	NS	ns02.army.mil.
+africom.mil.	21600	IN	NS	ns03.army.mil.
+ns01.army.mil.	21600	IN	A	140.153.43.44
+ns02.army.mil.	21600	IN	A	192.82.113.7
+ns03.army.mil.	21600	IN	A	130.114.200.6

@@ -1,0 +1,7 @@
+cookeville-tn.gov.	86400	IN	NS	ns1.cookeville-tn.org.
+cookeville-tn.gov.	86400	IN	NS	ns2.he.net.
+cookeville-tn.gov.	86400	IN	NS	ns3.he.net.
+cookeville-tn.gov.	86400	IN	NS	ns4.he.net.
+cookeville-tn.gov.	86400	IN	NS	ns5.he.net.
+ijt4dv1hntstl7iok70npeq4gmkrse7o.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. OMnUo4UBoxaRkFfBSe0wYSzgGJMC+7Ssj3UKh4JHxbYrDFOWewGEdNTaxYmRkOo6Zn6NvCPRn0oBr2Ct0br+ntsfMGGZsjK5jZL8XWi6KnCFE+LEeQXi4Loiu5Xka7XE0+zNM2sh5GbP8OX2434nma3GpFFCSRaSqRmlLTr7eWY=
+ijt4dv1hntstl7iok70npeq4gmkrse7o.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ik3g4o17jsch71sub65hcg48n5cljss6 NS 

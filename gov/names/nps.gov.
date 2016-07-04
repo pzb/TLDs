@@ -1,0 +1,9 @@
+nps.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+nps.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+nps.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+nps.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+nps.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+nps.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+nps.gov.	3600	IN	DS	51779 8 1 839671c693a034ae11f84b90e3cfb2a41b171bad
+nps.gov.	3600	IN	DS	51779 8 2 89f8e2db484d9f9d758fe91939a11a53e1719e2a277f7b9892516824c1338d70
+nps.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. wr/Mf1RChiwLLjpI2dEnvT9VsUWBcCj7//5oUFwmBAk1YqcoCXrHXCsaZhslqFnghuRaGn55AVA58wEolIoLcUPnV79zeeIA6P2k/cqVZ4S38pGceu5bE7b29uH9mWUqO+CIdeM2qgDmOpRk7pkpWb7PMocySPKVSyuiQG6mr5Q=

@@ -1,0 +1,4 @@
+am68960th4q25t7plilf3ht7kqro8am2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. RRIfnqBMhW44cxO03XrZ2ngvzY0lQR2dDjXnQQat5Ki0LnX3961k8wC2ucVgfV0KVJ4o8x1CDURCzaLAjIyeRg8IRF+pdPGDyhQ/TaFU2PcUGSCCdOuSjGhFPLxcUc88nuzzvrWdLDsvYnWdndUftApBtg1dJDUcGhjiKK1VgSE=
+am68960th4q25t7plilf3ht7kqro8am2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  amf07oaccsejndts9o22bnemgndi2kj6 NS 
+reidsvillenc.gov.	86400	IN	NS	ns15.ixwebhosting.com.
+reidsvillenc.gov.	86400	IN	NS	ns16.ixwebhosting.com.

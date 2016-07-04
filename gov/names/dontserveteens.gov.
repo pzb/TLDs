@@ -1,0 +1,14 @@
+dontserveteens.gov.	86400	IN	NS	ns1.ftc.gov.
+dontserveteens.gov.	86400	IN	NS	ns2.ftc.gov.
+dontserveteens.gov.	86400	IN	NS	ns3.ftc.gov.
+dontserveteens.gov.	86400	IN	NS	ns4.ftc.gov.
+dontserveteens.gov.	3600	IN	DS	34581 7 1 b5ad6194379e4e7aff56a0a132c621ac7e55bf9e
+dontserveteens.gov.	3600	IN	DS	34581 7 2 a8dfdda95fa59bec9af832822bc1d4b7682a9004c1bdfb50f5238ee1e44434fb
+dontserveteens.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. VwhyL8+k3ppcvd2zEZKfpOZ3v0SaazSk9M68nhvfvCPkEUtMUg50JT/tCOUQqSKaTDKiJiWJDTI4ajuGDrASgiX+0eZMJ8w9VXAL8AraVXe9rkj9XzlfJ7rxJoTT7OTU0THBg1HBZOCEsDWOpCDxPhnv057xfL8On4/DgoezMTg=
+ns1.ftc.gov.	86400	IN	A	164.62.13.2
+ns1.ftc.gov.	86400	IN	AAAA	2620:0:630:4000:164:62:13:2
+ns2.ftc.gov.	86400	IN	A	164.62.13.3
+ns2.ftc.gov.	86400	IN	AAAA	2620:0:630:4000:164:62:13:3
+ns3.ftc.gov.	86400	IN	A	198.77.70.11
+ns3.ftc.gov.	86400	IN	AAAA	2001:1900:2268:770:198:77:70:11
+ns4.ftc.gov.	86400	IN	A	192.28.111.42

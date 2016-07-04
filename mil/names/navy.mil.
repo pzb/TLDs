@@ -1,0 +1,23 @@
+ns.cybercom.mil.	21600	IN	A	131.77.60.235
+ns1.csd.disa.mil.	21600	IN	A	152.229.110.235
+upbd0fda01.csd.disa.mil.	21600	IN	A	215.65.126.180
+upbd0fda02.csd.disa.mil.	21600	IN	A	215.65.126.181
+uphb0fda05.csd.disa.mil.	21600	IN	A	207.133.239.155
+uphb0fda06.csd.disa.mil.	21600	IN	A	207.133.239.156
+utindo02.csd.disa.mil.	21600	IN	A	152.229.110.236
+guv10m01.mont.disa.mil.	21600	IN	A	214.3.160.20
+guv10m02.mont.disa.mil.	21600	IN	A	214.3.160.21
+ns.jtfgno.mil.	21600	IN	A	214.3.125.231
+navy.mil.	21600	IN	NS	ns.jtfgno.mil.
+navy.mil.	21600	IN	NS	ns.cybercom.mil.
+navy.mil.	21600	IN	NS	ns1.csd.disa.mil.
+navy.mil.	21600	IN	NS	guv10m01.mont.disa.mil.
+navy.mil.	21600	IN	NS	guv10m02.mont.disa.mil.
+navy.mil.	21600	IN	NS	utindo02.csd.disa.mil.
+navy.mil.	21600	IN	NS	upbd0fda01.csd.disa.mil.
+navy.mil.	21600	IN	NS	upbd0fda02.csd.disa.mil.
+navy.mil.	21600	IN	NS	uphb0fda05.csd.disa.mil.
+navy.mil.	21600	IN	NS	uphb0fda06.csd.disa.mil.
+navy.mil.	10800	IN	DS	48700 8 1 1c96e232ff212c278622341688acade1f1be7199
+navy.mil.	10800	IN	DS	48700 8 2 2fa754b065e9beb548a6e5b235e85d1dbca4ad12ec679f81650a53314af66db3
+navy.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. nx4HZzGw6kM2Y0vvPjMOsAMv7J7dAP/W9mmNncrTpHEJ6/mtWJLtXvKeXF0m/Xv6ZvOZHg0XiqJUSIrgyXlknIhZluK/vQ4quIgw4GhhpOLn/Nw8h3ShC+626TeBuZqj5RVoU8VVG3ypR7OavyYSlVNB4t055/tv7y1zN2AXw5MgWf0=

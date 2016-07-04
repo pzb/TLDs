@@ -1,0 +1,14 @@
+childwelfare.gov.	86400	IN	NS	rh120ns1.368.dhhs.gov.
+childwelfare.gov.	86400	IN	NS	rh120ns2.368.dhhs.gov.
+childwelfare.gov.	86400	IN	NS	rh202ns1.355.dhhs.gov.
+childwelfare.gov.	86400	IN	NS	rh202ns2.355.dhhs.gov.
+childwelfare.gov.	3600	IN	DS	3855 8 2 325d56c3ed14e584d05c6eb4ebcd0845b635e6a985238bfea6d0fcc2395ff909
+childwelfare.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. bOiP1LKnY7Wri9NgFxMW32urIz+PnSH/QiEWnmkOwi9E7keWjgk17WoTziUiiVixWysPbTb2bz8rXelgZXaDl5BgMtgrXRpgaOmj8QKrqdfGi9EOgusdAg5ATV5tKeQAEw2QbufFxrx8NAbm0wq5YHBaLD3jFP9d2BZgQcyfFCk=
+rh202ns1.355.dhhs.gov.	86400	IN	A	158.74.30.98
+rh202ns1.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2a
+rh202ns2.355.dhhs.gov.	86400	IN	A	158.74.30.99
+rh202ns2.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2b
+rh120ns1.368.dhhs.gov.	86400	IN	A	158.74.30.102
+rh120ns1.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2c
+rh120ns2.368.dhhs.gov.	86400	IN	A	158.74.30.103
+rh120ns2.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2d

@@ -1,0 +1,8 @@
+l5vftjrut4ls95r9c9qd5p9o8jo0hb32.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Cafd5EkWafrB8cEBvxAkvECKGt2cGgZHoM/opEZUHdDEPCDSKlZhtwDj7SaJi9OFe4YaJbmSKmkeKNId/SJpneUPZ6ecHFOnWd0IdKRZUHus1dxmUBh3FXq31X6LgA9lGFT1eE93MNJCzg16s94ZNjdiJezzKs0BqPbuNlHWNNo=
+l5vftjrut4ls95r9c9qd5p9o8jo0hb32.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  l61ha5mebmrqjcuml9aogn819ude33hd NS 
+raleighnc.gov.	86400	IN	NS	ns1.raleighnc.gov.
+raleighnc.gov.	86400	IN	NS	ns2.raleighnc.gov.
+raleighnc.gov.	86400	IN	NS	ns3.raleighnc.gov.
+ns1.raleighnc.gov.	86400	IN	A	149.168.131.181
+ns2.raleighnc.gov.	86400	IN	A	70.60.105.30
+ns3.raleighnc.gov.	86400	IN	A	152.46.14.253

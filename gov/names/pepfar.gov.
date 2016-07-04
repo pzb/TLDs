@@ -1,0 +1,6 @@
+pepfar.gov.	86400	IN	NS	authns1.centurylink.net.
+pepfar.gov.	86400	IN	NS	authns2.centurylink.net.
+pepfar.gov.	86400	IN	NS	tpsns11.terrenap.net.
+pepfar.gov.	86400	IN	NS	tpsns12.terrenap.net.
+pepfar.gov.	3600	IN	DS	30666 7 1 4ad690bae5d97399b711c3bb7535c58b1443957b
+pepfar.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. IxA7WG5mbREE0pE/cD2sgMSh7L27tllhq1yzbqSkTyKDWJYbp6BUo+ozGR+VKBoMFjX8wEJV1Dl8/jIpN9FEH8B6tRAFYs1r7389vfVkF0FE2PUr30eUT6KabFJLvrUzfRFbhO+Z+mOyhR8O4eS5rkpRCqRpIYJvRAC/YS19xvI=

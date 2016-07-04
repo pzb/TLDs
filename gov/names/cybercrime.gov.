@@ -1,0 +1,16 @@
+cybercrime.gov.	86400	IN	NS	ns-jdcd-01.usdoj.gov.
+cybercrime.gov.	86400	IN	NS	ns-jdcd-02.usdoj.gov.
+cybercrime.gov.	86400	IN	NS	ns-jdcw-01.usdoj.gov.
+cybercrime.gov.	86400	IN	NS	ns-jdcw-02.usdoj.gov.
+cybercrime.gov.	3600	IN	DS	17830 8 1 ddb02c5cb42b8444f3f957f0b1a27c7c943d96dd
+cybercrime.gov.	3600	IN	DS	17830 8 2 47d70306310511d78062060b4871bf765bf54cc6bf05bc0b70cf20c866f2686a
+cybercrime.gov.	3600	IN	DS	39529 8 1 d1020011f41010393519269b5ec646d00d76b2a3
+cybercrime.gov.	3600	IN	DS	39529 8 2 d870aac8aec80f27a2de8c2bd0073d38d099dced417d9fa3e3cecdcc7d99264f
+cybercrime.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. F8j5HOm4CmQ7bf6fiRHqh6pBVKNrL9y70IavTFwcz3ThxNRzsWsEGruqZ81vZ14MUOL+vDxyKBk7C+lrMBeID+Q1+I8/+6tgwc3Tgnkg5hiVevDy9UZtmwRBZtBI+yGkTl9wq5vX1I6nhUUdGGrTPPbmbzruN7DRG8wKC24KBAs=
+ns-jdcd-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcd-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcd-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcw-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcw-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-02.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::6

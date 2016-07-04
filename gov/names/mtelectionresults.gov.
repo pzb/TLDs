@@ -1,0 +1,8 @@
+dcend6ej27i6g6ogd7g8l7oqk348q4o3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. rQ67k5+KkGYfsWAKY8QVCbKhmnaGafxIw4Ctj5hZUeUjfkGQktvuiV0h4iGKUj1omQKbnpZPBsRFXnYzFQQrRLlTRlrKsDVUsecHr7d9L+NKgtG91pafWAPYXJi9HnMDbIXvmXqlMT2y2AE6izgsAYub8ke1s4a0KemmR4s8o8A=
+dcend6ej27i6g6ogd7g8l7oqk348q4o3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dcgdbmairsfpr8k4p4428k36vsu2i0vl NS 
+mtelectionresults.gov.	86400	IN	NS	ns10.dnsmadeeasy.com.
+mtelectionresults.gov.	86400	IN	NS	ns11.dnsmadeeasy.com.
+mtelectionresults.gov.	86400	IN	NS	ns12.dnsmadeeasy.com.
+mtelectionresults.gov.	86400	IN	NS	ns13.dnsmadeeasy.com.
+mtelectionresults.gov.	86400	IN	NS	ns14.dnsmadeeasy.com.
+mtelectionresults.gov.	86400	IN	NS	ns15.dnsmadeeasy.com.

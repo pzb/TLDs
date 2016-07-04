@@ -1,0 +1,4 @@
+av5a088qvjr0rh1nrdn8alip79udor2s.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. PnQCNmR36uB3dAmSKFwKcVRc2RIiqbSLlHtRbnrnuHsm0dgFdaYplHw9k1j9cMVU360rXn57DEI6yw0KjWBnaZdwIPcstK4HhCTNmksKcjX+c8ZKFkxu80OBLRVwG7lFnMCzfN454rW7o2Wt8fUt6p7k5hxl9dlM2+43PstRiq4=
+av5a088qvjr0rh1nrdn8alip79udor2s.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  av5mscg9lu053hee9803sor7a1763tia NS 
+pearlandtx.gov.	86400	IN	NS	authns1.qwest.net.
+pearlandtx.gov.	86400	IN	NS	authns2.qwest.net.

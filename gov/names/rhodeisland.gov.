@@ -1,0 +1,6 @@
+192ju0pgupj78b6qmou28gimerhe51uc.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. l2jm8IYmigy3Rifwi7cCkjKFNn4SwQsYEEeY745Owm86iWT2y4k0Km2j7nLFV59o72wR0R+P8CdKXdR4gq8QYbVzMTRtijwdEjTnkqwhvva1Ko9bDZ6gWG+6FErl5wcEeEQ6IsXXPgGosLODtNCrEuzPIrHBs/MDmOMseO9VYR0=
+192ju0pgupj78b6qmou28gimerhe51uc.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1938k44palg9uc7c7u0v084cs0acm4qa NS 
+rhodeisland.gov.	86400	IN	NS	ns1.ri.gov.
+rhodeisland.gov.	86400	IN	NS	ns2.ri.gov.
+ns1.ri.gov.	86400	IN	A	204.139.0.15
+ns2.ri.gov.	86400	IN	A	131.128.4.14

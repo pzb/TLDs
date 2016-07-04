@@ -1,0 +1,8 @@
+23io0dpllalt64cjdlcqm2g0if6dnknd.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. XnRf8zI8B8f+GOo6jfclqOQBQrx65T5efwoNM4nJHa7mZHvn4JFWuQciDckeL2BFFcifo+dD0NPVAcgU7ichsqJrlcVA5KuXCow8xoUHQV62kCrnxvHcy56k4AdNPDAjJnSigbyMZRuGUzfvQSeVAWWHNCTuT/hwyTNoiRZpwTA=
+23io0dpllalt64cjdlcqm2g0if6dnknd.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  23nj4o448me5a90tq92buc25rm5su0md NS 
+dns1.azcc.gov.	86400	IN	A	159.87.68.163
+dns2.azcc.gov.	86400	IN	A	159.87.17.3
+dns3.azcc.gov.	86400	IN	A	159.87.68.163
+azcorpcomm.gov.	86400	IN	NS	dns1.azcc.gov.
+azcorpcomm.gov.	86400	IN	NS	dns2.azcc.gov.
+azcorpcomm.gov.	86400	IN	NS	dns3.azcc.gov.

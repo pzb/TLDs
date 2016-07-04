@@ -1,0 +1,4 @@
+cgmri8l7slgko6n0fcb6osm737bv1nrp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. VNBZ+txNjIRUBZdI4TvqWsUb6DWJiPkn6kZO4ea5LtqR+mwP+tNb5GyN1duoqwvoKW8JfP9ntKAw0dLGKrDaBHz5dYlJjGnOAaVWTGTX0QnssDoTyblI1CsInwoTAHILbg0yGEGzly2A3Z6XW/wak9NYiW88tC8QQdOe6zh86oY=
+cgmri8l7slgko6n0fcb6osm737bv1nrp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ch16v1966dr5ti0ap6htr9094ma9gfvh NS 
+yucaipa-ca.gov.	86400	IN	NS	ns1.mediatemple.net.
+yucaipa-ca.gov.	86400	IN	NS	ns2.mediatemple.net.

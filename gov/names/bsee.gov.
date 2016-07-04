@@ -1,0 +1,9 @@
+bsee.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+bsee.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+bsee.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+bsee.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+bsee.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+bsee.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+bsee.gov.	3600	IN	DS	39614 8 1 76082b85c100ab1eb506049feed66e4556167f58
+bsee.gov.	3600	IN	DS	39614 8 2 d477e3068cfb0c23a98844c05ddf63040e0c86e1cdeb339e218df14bd0e53071
+bsee.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. tMtoyvfkOUhrgPq7A3MdHxF3DkIHk9KZpfPyVxjlC7mt/f6ZQJ/ZGuBMHxIKbb1DYDfJV4eWGwCI8C5elEQ9ic5HPYtHa7oHOXZGSGGDLW8DzaS5VXTaj85iLSY+lIMHi2D17pF+kNuMv/6lderIiBhtjHQ454ILIB1xBL9hJGs=

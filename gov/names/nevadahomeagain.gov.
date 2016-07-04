@@ -1,0 +1,3 @@
+nevadahomeagain.gov.	86400	IN	NS	ns1.thewebsquad.com.
+vc71shmjklkp3adfjpp16fjcifeca0aa.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. kd0izA/fXxJgcQ+y++ZXkz0KxnvhrRTZHFdR+bKllwzau2FSo3lAhejCin/PMizXsH/NVyCAbtfl6SvONc/DIDlI/nQXUPNmn+m3IlenCD4vYAYlSxpmta3gWcjuuYAY7DrNTbBekvmJBvcDlw/zqrcB28pNP9Z67kXRd///QNk=
+vc71shmjklkp3adfjpp16fjcifeca0aa.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vc9jlr9ki2o6p18top2nep52lup0inct NS 

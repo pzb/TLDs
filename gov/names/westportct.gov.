@@ -1,0 +1,6 @@
+5o6os0prbl945av81b15fbipfa7p0em0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. kZd4H7lb1cZcYjMbDYq8pq9Bi10Rt4xmNmEcVH75FnSAop/LFljKRdGP1MEJplGnJ18HLBFdCh1nNVZrn/Wqt+4+tiRBaaEn4SZo56ZxbOiklTf3pwMhl7TV0vstQ6/zR6xnneVVNHtnznlRptBoThCD9iGP8rB5trmgfQ3Ov8k=
+5o6os0prbl945av81b15fbipfa7p0em0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5objf2o9cir2q26s0e992kodlpq15h4f NS 
+westportct.gov.	86400	IN	NS	ns-15.awsdns-01.com.
+westportct.gov.	86400	IN	NS	ns-995.awsdns-60.net.
+westportct.gov.	86400	IN	NS	ns-1218.awsdns-24.org.
+westportct.gov.	86400	IN	NS	ns-1809.awsdns-34.co.uk.

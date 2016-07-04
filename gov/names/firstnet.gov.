@@ -1,0 +1,7 @@
+firstnet.gov.	86400	IN	NS	ns1.p12.dynect.net.
+firstnet.gov.	86400	IN	NS	ns2.p12.dynect.net.
+firstnet.gov.	86400	IN	NS	ns3.p12.dynect.net.
+firstnet.gov.	86400	IN	NS	ns4.p12.dynect.net.
+firstnet.gov.	3600	IN	DS	32713 5 1 f9d82ed24fa5a09e8dad266931062a185e601edd
+firstnet.gov.	3600	IN	DS	32713 5 2 ad5fb084e95073af1c26c754d0505c9f783fc4634b9e4a660df3197e3e9df831
+firstnet.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. lyYwlVcp6kAsBGChOiDdvVvA9t/+9hkGpMG3rdzHljSLY1B0sEVWd4rTpCPUwjeSzk61vv2LNU0/7+9xuNmvt0QeG0mIn9THgyrxIJEbb5cjGnhJ2/r7CgVs490mdXa9yiqDqARKmdGNJ5sjqWGLBzvKhKSESoPJ2Wg1uyHbkzw=

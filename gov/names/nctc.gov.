@@ -1,0 +1,9 @@
+nctc.gov.	86400	IN	NS	a1-22.akam.net.
+nctc.gov.	86400	IN	NS	a3-64.akam.net.
+nctc.gov.	86400	IN	NS	a12-65.akam.net.
+nctc.gov.	86400	IN	NS	a13-65.akam.net.
+nctc.gov.	86400	IN	NS	a16-67.akam.net.
+nctc.gov.	86400	IN	NS	a22-66.akam.net.
+nctc.gov.	3600	IN	DS	15376 8 1 eae7ede104d7fcc37e86e934d5fcef71ca969b4a
+nctc.gov.	3600	IN	DS	15376 8 2 1fd44d3c18c47d6a06286f0267806c2c6861d118bff0708118ba6c6a82b417dd
+nctc.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. FWaJT2sZMq2IcqKbxX1kGBx+hEfaZ/6t6DhAAvugVj0maurY8Cj8SgeC2SkupJE6NPnQOFVQ0W61hIxuO2eLhATl0uq1wxB7XmrclBxqciQXRcCZs0sn338AOJE1bvR0q66sXR++mqFdDEVcrH69GmVLMFFZ9DXYle0TearLiTY=

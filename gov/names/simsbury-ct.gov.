@@ -1,0 +1,4 @@
+1bjg7i7m1pnpef5es3o4r0i55rh5nruj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ehg1jss4liJ5eRJZCZuerZBVy7w7U+cL3QYqr1YDMhioCfm6YM/wZeV/+qFA/tru1EHz7Qy4aU2eH8PZiPwJ+JjfoB/XAang0rk7+YoqMp6kZfF3VQnJaUdvPCKiyW1HeUFzdqOV9hkZxIViVOThUTLWOOnc6MutU5YAEdlZkDg=
+1bjg7i7m1pnpef5es3o4r0i55rh5nruj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1bmv90btumrqdqlsctot5akqvlpcb27f NS 
+simsbury-ct.gov.	86400	IN	NS	ns1.infotech-maine.com.
+simsbury-ct.gov.	86400	IN	NS	ns2.infotech-maine.com.

@@ -1,0 +1,4 @@
+njhmfa.gov.	86400	IN	NS	dbru.br.ns.els-gms.att.net.
+njhmfa.gov.	86400	IN	NS	dmtu.mt.ns.els-gms.att.net.
+urq24f34qncc0hetr2dbo2v3e9bo6jat.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. KyTz8+dNxN/iZ/OZRGxG6m85ZxEMOretGI6IicGmCyFhX5SE74Iy4Xbxzc5nDmjqz7p9qBrIhusFGEjB72bXDTKrjNAGgVH8NVIh6ic8tCQOvLYJkZ6NZVMnmtXw45nBvIm21IRr14UuvQwDJJYdumLAF841DOD2ANjQz61BSow=
+urq24f34qncc0hetr2dbo2v3e9bo6jat.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  urrdlk4augivcta1pcfaeqbq6psohk4f NS 

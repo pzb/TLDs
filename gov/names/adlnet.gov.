@@ -1,0 +1,12 @@
+adlnet.gov.	86400	IN	NS	ns8.adlnet.gov.
+adlnet.gov.	86400	IN	NS	ns9.adlnet.gov.
+adlnet.gov.	86400	IN	NS	ns10.adlnet.gov.
+adlnet.gov.	86400	IN	NS	ns-155.awsdns-19.com.
+adlnet.gov.	86400	IN	NS	ns-650.awsdns-17.net.
+adlnet.gov.	86400	IN	NS	ns-1526.awsdns-62.org.
+adlnet.gov.	86400	IN	NS	ns-1744.awsdns-26.co.uk.
+ns10.adlnet.gov.	86400	IN	A	97.68.160.4
+ns8.adlnet.gov.	86400	IN	A	66.0.49.108
+ns9.adlnet.gov.	86400	IN	A	66.0.49.109
+kjs0vvd7ulgiu80q5mmmrlfjuaehiof5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. AG6P6rgoi5Gn8BRBF6bz8buPuHTPgj0gDNmu851K0H/goxPToQWBqCLAi3XhbW7FfPgW/b1uF482H992rEbqXe7CjO6mkTiYfzf4IG70slh7PmoVuxrhEKVz2kMqQ0tRr2e0IB3qhOGLRBPPrqXmJFsTAzQds3NgLpKK1dnIuOo=
+kjs0vvd7ulgiu80q5mmmrlfjuaehiof5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kjtp0u898rciq0npscinp1jfsj1di79d NS 

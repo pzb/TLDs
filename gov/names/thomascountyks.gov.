@@ -1,0 +1,4 @@
+4jlmfmoo331t4pleh2svq85bta1fkfmt.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ICxP7yV/iamzWU8k/U1c2ma6qUybM6M9uh5tXrAmjUlyrSeGjl0Q4fY+bXnSseIHY2yT5kQJ19kNQxqn5uzwrut3JVww8OidUFAOAo6JsbYGwandFh8jGDmlBokX6SRRAqdakbTvph0wLYHzjMvjUQXsbUEnORAZR93OsACX9Lw=
+4jlmfmoo331t4pleh2svq85bta1fkfmt.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4jm41qdkndbtohobo8m17nbl01s4asf8 NS 
+thomascountyks.gov.	86400	IN	NS	ns3.sttelhost.com.
+thomascountyks.gov.	86400	IN	NS	ns4.sttelhost.com.

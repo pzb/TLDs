@@ -1,0 +1,4 @@
+goodlettsville-tn.gov.	86400	IN	NS	dns1.civicplus.com.
+goodlettsville-tn.gov.	86400	IN	NS	dns2.civicplus.com.
+t1c3iqi89pouh72m94ousr08fg2mpn7s.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. l0lDQzxacKaW5y2evOYyb1UAk1IM3KlLz+zR0T+QlHrpxvpTFWFnNUzyKnjYgKtbGkH4R80LxaVf2akTUoCqy8CZ5oAA7wZ/lzMeLxSILplIh/SH+k/B9B530OVQYRNdbHgi8BKp9nLSguYockun0dHErtaPfhRs0CIbLzBEYx8=
+t1c3iqi89pouh72m94ousr08fg2mpn7s.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  t1djrrpcb6dh5pdi2ieqfc0sl78i4dd4 NS 

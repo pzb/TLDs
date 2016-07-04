@@ -1,0 +1,4 @@
+9fi5r2vpakd3akg4fnep9aeu1qjhmqc0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. YtJMGfhAKrbpKVSwg4WtMIJQdTW94U2KsXpCItz2eaExhZ1MsxubWIT05w7g3O8hBUzatUG1N0H01Sdo1OCNyAq6zRkhhhcQs5l0k0aTC1gsE36dIZvqrGYJYuRQRzEFQHJt1qJjxx79lvIDsjKMSxPdzMyLaQwy9REpCRnunxA=
+9fi5r2vpakd3akg4fnep9aeu1qjhmqc0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9fk1ij50cl33emh4ao89curjv4vph4ej NS 
+lajudicial.gov.	86400	IN	NS	udns1.ultradns.net.
+lajudicial.gov.	86400	IN	NS	udns2.ultradns.net.

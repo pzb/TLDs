@@ -1,0 +1,13 @@
+safetyact.gov.	86400	IN	NS	eur2.akam.net.
+safetyact.gov.	86400	IN	NS	usc2.akam.net.
+safetyact.gov.	86400	IN	NS	use1.akam.net.
+safetyact.gov.	86400	IN	NS	use3.akam.net.
+safetyact.gov.	86400	IN	NS	usw3.akam.net.
+safetyact.gov.	86400	IN	NS	usw4.akam.net.
+safetyact.gov.	86400	IN	NS	asia2.akam.net.
+safetyact.gov.	86400	IN	NS	asia3.akam.net.
+safetyact.gov.	3600	IN	DS	9371 8 1 fbf1f057165727f8ae4874728707096f0090cc9c
+safetyact.gov.	3600	IN	DS	9371 8 2 64962f5770b04d14207dbccda575179cc7716baab8dd2b2260d66fe95c571423
+safetyact.gov.	3600	IN	DS	18472 8 1 a576fd88a9ae38a334556e2eab9d6ed24dc5fcd8
+safetyact.gov.	3600	IN	DS	18472 8 2 013c18a633c8f5a7d044e9268493190202f99fd7ab40757d6bcf2f281bc5d9c4
+safetyact.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. gB3XYaGl+eKMp2cDJ2pLtWwvYAbX8gnY5K0+LSIjnIJ75z9M4j7B9NI2sJEXcx5d5QXd/Ap6CJa5qbpAaPZUIFF1oGaGNQ0bf1g3tTRq9OqkqzaJQo8JQX1DMpVJC339uZbGk1442awR+tXMhwfp+17ahK4KHhrn02EL3DAYKcE=

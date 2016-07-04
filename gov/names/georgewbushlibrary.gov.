@@ -1,0 +1,7 @@
+georgewbushlibrary.gov.	86400	IN	NS	sauthns1.qwest.net.
+georgewbushlibrary.gov.	86400	IN	NS	sauthns2.qwest.net.
+georgewbushlibrary.gov.	3600	IN	DS	6876 7 1 4d73f744c37b187ae7ab1ebe022e44ba4d42826d
+georgewbushlibrary.gov.	3600	IN	DS	6876 7 2 83d0eb8ae8fec190763bc00b0a3512c606be4230325e3408ae493e56d6ef9b67
+georgewbushlibrary.gov.	3600	IN	DS	50709 7 1 ee0e798c5642e3f489a7bf0edac43cc0bdc9dee7
+georgewbushlibrary.gov.	3600	IN	DS	50709 7 2 5b723166c054a8b7da36ef5e81345e888d75795d542ee21cd21ffc233fa268c5
+georgewbushlibrary.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ljVy3+rOFiJqso4v03lCJSWm/fRBPwlqnYCJiguCiv1ak+kWpjT5lmi/CRZYAc7pDUPhO+UNKFZUOxC8FWoCn/K4l8dqSRA90pvk8g6Nw5IOto9nmoSCTNq5V9LOnF/3YQDKon/HqZukrAdLt3e23REehF6vEzHd5XScc0BpudU=

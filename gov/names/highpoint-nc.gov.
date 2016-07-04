@@ -1,0 +1,8 @@
+8a7o68q1nt8tcm8j860br243h6bbqlho.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. X6AJWvHnyalf6ilxKFL38P0kpiffGc42gq5lmLLrYU4Gu3cv4T7nGraWpQN47wDO9MJ9bEhcpEEQCka3SU8qHXDKfo7sNXJeoKBZSoBOtTOR3MRz8z8MlEJFbsb4Fk+yNEOzpMXxHX3dJ3OtRdocbjonjhxahCj1RDJry8xBf68=
+8a7o68q1nt8tcm8j860br243h6bbqlho.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8a9mbu7u3kd1felfh3c3rk3g0ts18eml NS 
+highpoint-nc.gov.	86400	IN	NS	beowulf.highpoint-nc.gov.
+highpoint-nc.gov.	86400	IN	NS	dmzserv.highpoint-nc.gov.
+highpoint-nc.gov.	86400	IN	NS	dmzserv2.highpoint-nc.gov.
+beowulf.highpoint-nc.gov.	86400	IN	A	216.237.226.50
+dmzserv.highpoint-nc.gov.	86400	IN	A	70.61.112.200
+dmzserv2.highpoint-nc.gov.	86400	IN	A	216.237.226.51

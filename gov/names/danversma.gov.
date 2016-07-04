@@ -1,0 +1,4 @@
+danversma.gov.	86400	IN	NS	ns1.avenet.net.
+danversma.gov.	86400	IN	NS	ns2.avenet.net.
+k4ai3eubdnjtcn4otd6jtlu736qepsu7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. IDITBira4GEGJ47IQanEnTG0KhrFmfKurx3QffMdgF3IKF2nV93Rpapoz1edKkzmSc/ngsC4irM6xN+SS4Clbp/Aw9gDpSUvC9qESnyvSQ4kf+cYu8gZET0iJtX6iTdUTPjtiD9jjljTLAyO+96FtgHIyfOEpjXbbQZK7BOWrzs=
+k4ai3eubdnjtcn4otd6jtlu736qepsu7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  k4bh3t8ti65tof0pi28cql6p4g1l10fr NS 

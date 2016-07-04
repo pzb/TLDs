@@ -1,0 +1,6 @@
+7v2h2qp1q79hpl6k3aiudhl529e8aidb.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. SucLElug8QyEyCJ++4VmSU9CM60yW3Yed3+tSfma977aWs8rlFzcsxZko4iZYSECU01WDzDAmLZFumoKB2LxVCFWcpfjC+mGzeEzgl40IjtS6IWOuHzGRqS+G+Vm8ua/OD+U6e6fGWmFGHN+/GZidcER84sGUlBHGTOJO3tBwgw=
+7v2h2qp1q79hpl6k3aiudhl529e8aidb.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7v3fge85cisj1890h8ppbt6tarjk3gh7 NS 
+mamaroneckvillageny.gov.	86400	IN	NS	ns1.afraid.org.
+mamaroneckvillageny.gov.	86400	IN	NS	ns2.afraid.org.
+mamaroneckvillageny.gov.	86400	IN	NS	ns3.afraid.org.
+mamaroneckvillageny.gov.	86400	IN	NS	ns4.afraid.org.

@@ -1,0 +1,6 @@
+7kl5h1r4t2njp53g9is5qjqp29cnvjmm.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Kn+OR40K9zEeVt1Tj5Vz0w6tajrSsOKVunh5E8h5C0tnhLMJjNzgy4SsvnEjQklJCfWZFimQz2wIjek6Hqpsc6nqiUAOcB/wiUDOUQUyPbgx2Kg9j59Q1NJmGE1y/349HYRFqTyM9NMuL+CPmfwTF2tLnqAusoNui6m4pnaedPI=
+7kl5h1r4t2njp53g9is5qjqp29cnvjmm.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7kmu6inrh7ue4f9c4vvcjdnsmdrm72ee NS 
+arlingtontx.gov.	86400	IN	NS	ns1.arlingtontx.gov.
+arlingtontx.gov.	86400	IN	NS	ns2.arlingtontx.gov.
+ns1.arlingtontx.gov.	86400	IN	A	97.65.254.19
+ns2.arlingtontx.gov.	86400	IN	A	97.65.254.20

@@ -1,0 +1,8 @@
+us-cert.gov.	86400	IN	NS	stark.brass.us-cert.gov.
+us-cert.gov.	86400	IN	NS	greyjoy.brass.us-cert.gov.
+us-cert.gov.	3600	IN	DS	50242 8 1 88c4968817aa50ad6ebab4d0232bb8fe1f877733
+us-cert.gov.	3600	IN	DS	50242 8 2 a5f9a8cdd7a8182deb60ff9bb34f2e5f156a84399515c8e2566956543c630b6c
+us-cert.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. XlveYMi1g4f0AO3DVSJuZJ3iZddxamx9EVP96H7klkg70IzDayvKe3sW1kCsmxXOtrlrQMpaQpGLViyLVnDaiceSiRbvcnE8iLEkQPTTNX/bYfGGSoX7/1nD0zskX0Uv9Qscprpu4P270U+BT4T97BMYgdIfgp7qshLqHQceoIw=
+greyjoy.brass.us-cert.gov.	86400	IN	A	208.73.191.39
+greyjoy.brass.us-cert.gov.	86400	IN	AAAA	2620:112:5000:1::2
+stark.brass.us-cert.gov.	86400	IN	A	208.73.184.110

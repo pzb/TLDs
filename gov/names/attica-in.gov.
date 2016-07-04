@@ -1,0 +1,4 @@
+attica-in.gov.	86400	IN	NS	ns.inmotionhosting.com.
+attica-in.gov.	86400	IN	NS	ns2.inmotionhosting.com.
+m026kpceug3voho0h959p3ctbsvs2m0g.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Ng4HvaJqnt7ViCDJedLi/a37Xz+rNtjxwznCURADRPuYL2v9nnx9LnQuvTj7ADwGMdQ43maozz2pLs5vJ8SnIFDwcYQZ8KNp9gQnOroTGBWGDzqxkaOHoBtVpGooSQG1ekiYTRScMJXLYrLYbg+wk8Y0fWG64XaTJrnKFbJAh4Y=
+m026kpceug3voho0h959p3ctbsvs2m0g.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  m059i28vcnlhdqq5a5k697kqb7kbahp7 NS 

@@ -1,0 +1,5 @@
+deltami.gov.	86400	IN	NS	ns1.crt.net.
+deltami.gov.	86400	IN	NS	ns2.crt.net.
+deltami.gov.	86400	IN	NS	ns3.crt.net.
+n801dlkd5n1rkgla24q8g6qh5h8nle80.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. twcFRzFVqAge272oaVfbOIZRjPI2AYdPeOOZfo3+8RnJLs/W4IxdvaGJ8U03dzor6RhRK95Wq7fECxT2Vtj46HwAYC484MA8nO8TinHyRzGWF1L5utH77BSVFU1/urCsze9sPdRpwyG3VH8PkMN/10HNTrxMb0qXGz2oO5vEcO4=
+n801dlkd5n1rkgla24q8g6qh5h8nle80.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  n80p0aenl9re0te05petus11tsbu7ca4 NS 

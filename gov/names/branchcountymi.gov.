@@ -1,0 +1,4 @@
+branchcountymi.gov.	86400	IN	NS	ns1.cbpu.com.
+branchcountymi.gov.	86400	IN	NS	ns2.cbpu.com.
+fobtjs1mtcqum4kculvl3jp25nbi4hai.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. SsN03NPD9KQmuRshBUGo1TUAzpo/jftp8fPXvUZrzVMWSvX1eSD3/mKWGEcoLZ6PUXmySxzDk5kmvx0bPCEij9zHE6VdwTw113FHYGgQQ1SHLktnl7oruIF3MehwJxvquibz8/z9juTCzUG3di6xfAKN7yCRRHs11He0j29iptQ=
+fobtjs1mtcqum4kculvl3jp25nbi4hai.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fohf8nm7oo9tvdd9ihf1vep96hjb5asn NS 

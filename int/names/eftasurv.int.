@@ -1,0 +1,4 @@
+eftasurv.int.	86400	IN	NS	ns1.networking4all.com.
+eftasurv.int.	86400	IN	NS	ns2.networking4all.net.
+eftasurv.int.	86400	IN	NS	ns3.networking4all.org.
+eftasurv.int.	86400	IN	NS	ns4.networking4all.info.

@@ -1,0 +1,6 @@
+h4naiqe26ib6ipi6io3abol12bd5mos6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. aNK9Z4L0cc1UX9XvcZiJIWfMuOnlVZhv9z92fjAwBjUlsxPg90ZDVHbHHtITjE6Gmcjj+NwAfPK3KiABtgOvHl8snzJtaYNZJ7t7LjmjdoDbWuwjvDeoVjDERfNXHPHBjTOXyqUB6aCekKzhlh6Asz/mZWLCCbgtM/Gps++OYGg=
+h4naiqe26ib6ipi6io3abol12bd5mos6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  h4p9g9b977j8od3n72cv9umgs237s3hj NS 
+savannahga.gov.	86400	IN	NS	extdns1.savannahga.gov.
+savannahga.gov.	86400	IN	NS	extdns2.savannahga.gov.
+extdns1.savannahga.gov.	86400	IN	A	198.217.16.164
+extdns2.savannahga.gov.	86400	IN	A	198.217.16.165

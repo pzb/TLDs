@@ -1,0 +1,4 @@
+auburnmaine.gov.	86400	IN	NS	ns1.oxfordnetworks.net.
+auburnmaine.gov.	86400	IN	NS	ns2.oxfordnetworks.net.
+cra19n57hvha5bbtl4hds29miuvb7glv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Tmy5y18LpoRn4y21CDQrULMcraWFjQ7TvfsEzK1Y8XEoEZkfEQrSvvE7ROni/86Y6NqhlKmQ/KHMgJ5aZqkaMMMumDUvKV+Ttuj8BhGPcPd6+pmKPD749hJOdpZEintHqEoRqcbUecftTlpMoVNUhQXELNRiut5rxKj2dbyeeOc=
+cra19n57hvha5bbtl4hds29miuvb7glv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  cri1h9j1quiv86fv7irp9s80ncrtaohl NS 

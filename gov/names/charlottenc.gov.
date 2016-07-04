@@ -1,0 +1,5 @@
+charlottenc.gov.	86400	IN	NS	ns1.charmeck.net.
+charlottenc.gov.	86400	IN	NS	ns2.charmeck.net.
+charlottenc.gov.	86400	IN	NS	ns3.charmeck.net.
+o7gv593u01lchukfcjel889do25ubb84.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. NHKf1m3JUJ48U0GxR6ApLeqMyjLq8VfKLC8cT5nKb4DBs5LmeVbYIOUT50DnNkUtQjNeD/rKxC/ODWZLb9jYxioMJAULTOlXLnhnc6OkDvmuS1msBa2MSfv6fPprCn5l9l1/PfcreDY8CTwlDgbbrTXxH3kLb2JRLuUjNtQ0n9I=
+o7gv593u01lchukfcjel889do25ubb84.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  o7jbj2p51mdnuotlgbjkfq45birvd5e3 NS 

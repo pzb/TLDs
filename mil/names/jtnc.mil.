@@ -1,0 +1,11 @@
+jtnc.mil.	21600	IN	NS	ns1.nosc.mil.
+jtnc.mil.	21600	IN	NS	ns2.nosc.mil.
+jtnc.mil.	21600	IN	NS	ns3.nosc.mil.
+jtnc.mil.	10800	IN	DS	7687 8 1 03f0c9006419863f71fc69896e2dee4a1cb5a0c0
+jtnc.mil.	10800	IN	DS	7687 8 2 12acff1fa5e28e30e170ed51bfcc1d5406df5aba738b3ed9233e50826e5e9752
+jtnc.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. xmDjNh8EFWviOlinqGUmaqe8BOi/o0FcNgSq5U7itVwP2ycPXYFzu+Dlo7JYLqliz6ZJ2jWvp/FUUapUpWUhEDFenfp06oq0JiWGpzxQ3FfEmXy2aaFnWYoXoR+yA4s6vbfHuDpUS1HJuyn5X+3W28mkqlqEQpIbdYSV9ELsuqyJcEc=
+ns1.nosc.mil.	21600	IN	A	198.253.48.7
+ns1.nosc.mil.	21600	IN	AAAA	2001:480:10:1048::7
+ns2.nosc.mil.	21600	IN	A	163.240.3.10
+ns2.nosc.mil.	21600	IN	AAAA	2001:480:610:1003::10
+ns3.nosc.mil.	21600	IN	A	198.253.252.3

@@ -1,0 +1,6 @@
+majury.gov.	86400	IN	NS	internet-dns1.state.ma.us.
+majury.gov.	86400	IN	NS	internet-dns2.state.ma.us.
+majury.gov.	86400	IN	NS	internet-dns3.state.ma.us.
+majury.gov.	3600	IN	DS	61794 7 1 896cbeec141b1235c6f38aaf90c47c254610d4db
+majury.gov.	3600	IN	DS	61794 7 2 8b081e25ee42e5f95d92f1d530d6a5a41f635cfc7f5f57e867803571367c2301
+majury.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. s0JASBEbO8HFd8lgj3HNztWytC3/2I82FW2ZKd33PHqj8v1tG2HM2aGpFcof+e23g9pLYwvX4SY0XT6fNEfLppfuz21gHi/5L07K+sNvX/pb8VfuOHN7SbFcvXk8Avc4Noz3kvrNtvQ8kgWanunOwukd8y8qINvM+BErUN4pGMQ=

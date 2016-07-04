@@ -1,0 +1,8 @@
+jamescitycountyva.gov.	86400	IN	NS	ns1.jamescitycountyva.gov.
+jamescitycountyva.gov.	86400	IN	NS	ns1.jamescitycountyva.org.
+jamescitycountyva.gov.	86400	IN	NS	ns2.jamescitycountyva.gov.
+jamescitycountyva.gov.	86400	IN	NS	ns2.jamescitycountyva.org.
+ns1.jamescitycountyva.gov.	86400	IN	A	216.54.20.78
+ns2.jamescitycountyva.gov.	86400	IN	A	216.54.14.189
+uao64t9mdq3d42cmvk044ja307sms7eq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ENBcPbs0YJTU3l3RWKsBW4RbRzdnNsQu7kAtRhLczY+EQf+Z8YdMnefcJ6o2W/Ql0lqncitJjTCqS8ZKdYAGHNkLcJUJmguKEe4cMzjI90+5zaGa3cuhQi6SALwFnuM5E22wvZjWbUv/wB4mE9d5H2c+Gi7TrxGD3pb/J9p4vg4=
+uao64t9mdq3d42cmvk044ja307sms7eq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  uav7kkpp19u83tarht6innpi1319ap1j NS 

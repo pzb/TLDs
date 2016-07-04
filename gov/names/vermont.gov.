@@ -1,0 +1,5 @@
+vermont.gov.	86400	IN	NS	ns1.state.vt.us.
+vermont.gov.	86400	IN	NS	ns2.state.vt.us.
+vermont.gov.	3600	IN	DS	43201 8 1 7430dd6a45c9de311461967d5cb3356509e4b2a7
+vermont.gov.	3600	IN	DS	43201 8 2 fa6cc40b25fca42bd16393d41e3a6c4f91d1cb4c276c1a4cfe1e464d1a2b4b51
+vermont.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. cONfiZ9g2fNH9HdXLWCrnKlYNVWSx4aGgWC/zjwvLvri0RBdKuqQlbvEG29EtogeHaaH+l4BRTUW7qW20ERE7R33HiWSX155Sg2QeChgzmEiqhHQUgxKmB+JO2HZrrPdh16V2vxkpDXssfamN7hTnsHL/5xGcbr6QXdKeeusZ1g=

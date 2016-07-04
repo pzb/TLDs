@@ -1,0 +1,4 @@
+34b8jvjd0tuvmb6953e32v4sh8nkl3r2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. BTtN9tsprIifjR9gmZD4ZEr4cgwy8cK/8pI2KwCFreXJifmLFd1ipr7c3L2lagLEXe0MRYZmr6aO3DzpY+ah21p+AKRPoPKrA8cG5plN95F9n2obipM9Z/qVoZPe8p/TifOF6HV/r8ogOrulGfD/tTrnRVqHCrQEfydGu7ZF3LU=
+34b8jvjd0tuvmb6953e32v4sh8nkl3r2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  34bs6p6ppunneu5h63ehnr3mnjgsp84v NS 
+royaloakmi.gov.	86400	IN	NS	dns1.merit.net.
+royaloakmi.gov.	86400	IN	NS	dns2.merit.net.

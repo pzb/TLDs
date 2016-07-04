@@ -1,0 +1,9 @@
+osdcommemorations.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+osdcommemorations.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+osdcommemorations.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+osdcommemorations.mil.	10800	IN	DS	49846 8 1 52aa2f565726375ac9a4b899d7f71b6439c9202d
+osdcommemorations.mil.	10800	IN	DS	49846 8 2 d4ff212f33e949ca2316e1af2837ae271ecb4db186e3167b236c9ab2e687dba1
+osdcommemorations.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. dbRIYZn6SHIMW3h/bhl6iFD8g91Vb1d3FhqOBWySy2CQAcvdrcKcshu72M7E7un0j0H4K8UQdIkgmkECKtjX15sxd3qvWcEVP8xTphlFGXhYj5e27AGdaBungzoQi6lfa6+D3Jm72S3NMyGuMmNGKTUf5ZliWe/robZiD5Q4AQYSaoY=
+dns-pub-f1-u.pentagon.mil.	21600	IN	A	199.252.47.11
+dns-pub-f2-u.pentagon.mil.	21600	IN	A	214.14.133.11
+dns-pub-f3-u.pentagon.mil.	21600	IN	A	199.252.47.75

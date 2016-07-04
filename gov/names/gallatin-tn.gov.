@@ -1,0 +1,7 @@
+gallatin-tn.gov.	86400	IN	NS	ns1.comcastbusiness.net.
+gallatin-tn.gov.	86400	IN	NS	ns2.comcastbusiness.net.
+gallatin-tn.gov.	86400	IN	NS	ns3.comcastbusiness.net.
+gallatin-tn.gov.	86400	IN	NS	ns4.comcastbusiness.net.
+gallatin-tn.gov.	86400	IN	NS	ns5.comcastbusiness.net.
+td3nkmg90boshil026g8o6kkapjsd204.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. YxnFc4FgXhXcaw7mPS9lXcfWWp5NUf3cER2DF+YYBOUPcdC++DX8utSFKzSBT2xrcaAA2myZYoaMhaXZX4yLLwQBxDELh20C0SxO5pFUl4bqm3D2kXoRpX2KI+0syc3Q9LL4in9CYyTM3ozzaTlysSAPqJJ0NxscRdKqFH2dCfg=
+td3nkmg90boshil026g8o6kkapjsd204.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  tdg3l5ackrin7gv2murorlde4eppdgun NS 

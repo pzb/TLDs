@@ -1,0 +1,4 @@
+72p5m5v221jlbcqhji3cqt0t0ncorke6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. g6mGxTceuD668sd9m+0bPxDPE6myNCwP423RDOQEV77jEalLRiEyiDrg+uNmMrTrDi9wpoW+E9hCK5PoHnaUC29npHdKapSor1sTg6cbcB7yPyKDhSJ4+Oc7QMaho5QjmnvQuUEMoUeZWdz5j0Kj59yeVHy+7HD905NqXgL3ZXY=
+72p5m5v221jlbcqhji3cqt0t0ncorke6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  72po28e7njfr1pks21um46buemjnrtmt NS 
+tejonindiantribe-nsn.gov.	86400	IN	NS	mns01.domaincontrol.com.
+tejonindiantribe-nsn.gov.	86400	IN	NS	mns02.domaincontrol.com.

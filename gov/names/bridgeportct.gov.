@@ -1,0 +1,6 @@
+bridgeportct.gov.	86400	IN	NS	ns1.snet.net.
+bridgeportct.gov.	86400	IN	NS	ns2.snet.net.
+bridgeportct.gov.	86400	IN	NS	cbru.br.ns.els-gms.att.net.
+bridgeportct.gov.	86400	IN	NS	cmtu.mt.ns.els-gms.att.net.
+r8jc7iu0v670fnnpqi409c1l1a54ejup.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. PSap0Re0VdJtz+/NH2alarSYCKtjNSLrenGSZLs9pqwg4xqdbqXS37TnEUPzDjZ5xsJcuq4qy8Vuh8Pf0kruM5u5OIwtnpOn4E/SNKVQ/hqbN1yii1a3eoM/O6JYIA1KzdZEFdg3QTxphlBae21cRVnRf7q+0LUAG0HxZKHqYrU=
+r8jc7iu0v670fnnpqi409c1l1a54ejup.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  r8nhume75505g73tmafgu9ovir4ln3ub NS 

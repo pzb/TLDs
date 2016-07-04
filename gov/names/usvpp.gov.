@@ -1,0 +1,7 @@
+usvpp.gov.	86400	IN	NS	authns1.centurylink.net.
+usvpp.gov.	86400	IN	NS	authns2.centurylink.net.
+usvpp.gov.	86400	IN	NS	tpsns11.terrenap.net.
+usvpp.gov.	86400	IN	NS	tpsns12.terrenap.net.
+usvpp.gov.	3600	IN	DS	59259 7 1 1e66fadc31291715b7191956d8fcbf1b3b17cee9
+usvpp.gov.	3600	IN	DS	59259 7 2 d59e181515d17f4582dfa6e1f5a8179e42262b4b7e46211ab42d0d440eac7514
+usvpp.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. kK9I9rzQ3pclSl8zWHNI8mf3Am3EFYDLpArsP6wljc4dewx3rKIz1+zyVzA+rOhZxfcIXqYGwYBf9d8AhdX0MfDZ3oAPN+zj2qlfgKxWuXqieRdZTd3NvYBSuH0IknopBR9dpN021koEgQEzq5yFbQV0rPJxTAtrcLm68JMfoeg=

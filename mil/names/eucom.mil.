@@ -1,0 +1,7 @@
+eucom.mil.	21600	IN	NS	nede01nsv01.eucom.mil.
+eucom.mil.	21600	IN	NS	nede01nsv02.eucom.mil.
+eucom.mil.	10800	IN	DS	28921 5 1 311cea6d64f923da122ff37d4be6a787fef0ef49
+eucom.mil.	10800	IN	DS	28921 5 2 c68dd200a698f15213a6ce81be3a46f6a288ff96e7ae7b096966254a3b2915f8
+eucom.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. LYGeO/RSO2DATcf0AdqDvgI9ogglzE2s1nz3mzE9+r8JnN+rajrSsnVOxc4ry82gQFRD1m75iEgjWV6WvJGinr8RuikCvkQg9WD5LDvLfX/rnS1cXdpCMqsUmz2q7nxPcpzszLjchrlmPl1PqN9aHJvLUJkilGu3f0f3ZkOsp0IUzv0=
+nede01nsv01.eucom.mil.	21600	IN	A	137.95.1.140
+nede01nsv02.eucom.mil.	21600	IN	A	137.95.1.141

@@ -1,0 +1,8 @@
+bfelob.gov.	86400	IN	NS	usc4.akam.net.
+bfelob.gov.	86400	IN	NS	usc5.akam.net.
+bfelob.gov.	86400	IN	NS	usw1.akam.net.
+bfelob.gov.	86400	IN	NS	usw2.akam.net.
+bfelob.gov.	86400	IN	NS	ns1-27.akam.net.
+bfelob.gov.	86400	IN	NS	ns1-29.akam.net.
+bfelob.gov.	3600	IN	DS	7875 7 1 93a34487a52b50fdaeece1d9c125dba8faea35a4
+bfelob.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Q2rVslqBcKfLtTXasL20oOwYVKnqX71cHSLG7D4IiAgEXYv2RBcVNyoVgcbXTVTuvww+H4zmyq3hAqji14S5cGpVg40sdZ6EvYU/JU036CbihH6LRtqERLSl5szunti/nzvDuKYRbj9GCKURNBRse5cZeFtUO2iDoH/vOad8TKs=

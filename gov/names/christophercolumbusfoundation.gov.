@@ -1,0 +1,5 @@
+0p7ljvujtah0tlv0k3caajl1rkictmf7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. WJjRLFTwsnnVZCWvQapRI2JSM0gbvpZ3DDDvBZ+Fej9d7fWnIXPq7QUXdNtqaKzhh+s4RVnwQr++65+MKbw+Gu9wqi5aMSm5bbET2i56BX8d+wnQs0oSfJVC4T1EmG0MNbrNKswJDgAbI3GZ9YkoAosDt1/jlxCF0SafZ8xRq6M=
+0p7ljvujtah0tlv0k3caajl1rkictmf7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0pfkjrq6f00kgnld7gfutd2a5uktv53g NS 
+christophercolumbusfoundation.gov.	86400	IN	NS	ns1.dreamhost.com.
+christophercolumbusfoundation.gov.	86400	IN	NS	ns2.dreamhost.com.
+christophercolumbusfoundation.gov.	86400	IN	NS	ns3.dreamhost.com.

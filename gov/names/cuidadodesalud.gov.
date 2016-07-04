@@ -1,0 +1,9 @@
+cuidadodesalud.gov.	86400	IN	NS	a1-86.akam.net.
+cuidadodesalud.gov.	86400	IN	NS	a3-66.akam.net.
+cuidadodesalud.gov.	86400	IN	NS	a8-67.akam.net.
+cuidadodesalud.gov.	86400	IN	NS	a10-67.akam.net.
+cuidadodesalud.gov.	86400	IN	NS	a13-64.akam.net.
+cuidadodesalud.gov.	86400	IN	NS	a24-65.akam.net.
+cuidadodesalud.gov.	3600	IN	DS	64629 7 1 97ef341f9c8fe96d0d77fa1b0af0f907d3f05d96
+cuidadodesalud.gov.	3600	IN	DS	64629 7 2 89f792100282942b28f2e77df464811d0efc7f92e075c3301adee1fde62ec2e5
+cuidadodesalud.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. HaInXK+HcmgHmQB1SM06RUsVlnhv7KAYz7Nqbk8wxc14kyvsEJxX4OVwBcvCThFLRkRrmiXFJTzEODNSXvwIVWqrb8o/8qmQURdrtIs7pmFUtd8f4rVITzBLAKZPYLHbWbH6Xbup734h00WbbezvmsC4VAk4sm3+pKn0gcSeqz0=

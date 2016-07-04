@@ -1,0 +1,4 @@
+oronocotownship-mn.gov.	86400	IN	NS	ns1.avenet.net.
+oronocotownship-mn.gov.	86400	IN	NS	ns2.avenet.net.
+rvrguop6q0gjg5r9qntocfil9kjhrocs.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. uqaPhZwNspcfoWJPmsQ5kA0zJpK7Yb7cy6jKvjQUnLSBxgOMgxNQdekD3nvebud/3IEjxyQR4jhRvujWnrJmj0s6EzaGkDY/knzjOnI/bs7KaeB0D68J7G7p4BFsePnOVDXaTyus3FqZV6ADaSa7li9VeEo9UK3pmKtE6+Sd6ks=
+rvrguop6q0gjg5r9qntocfil9kjhrocs.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  s04rfcjdnb96jd0d1bttv449u7lv7jp3 NS 

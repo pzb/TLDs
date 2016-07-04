@@ -1,0 +1,9 @@
+asbca.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+asbca.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+asbca.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+asbca.mil.	10800	IN	DS	29629 8 1 3e7663b5db8de5a620c95c8a5ee72ae802bee17f
+asbca.mil.	10800	IN	DS	29629 8 2 e134d0bb408b26324da81d2e9fa6132c5cd55e2b2070f53d6c7a362bda30494a
+asbca.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. EoeaNVJuh37z44yae3fDGGnhXxdD8FLqU6mUsdHf2pInnJcfZ9HJp7Gk24/Nn0T2UnXPpQ+/lHz9SsatjM+z+RSaAYZg1y2x8ISETDByxjrFJPLk6BgjhWeo5TTM6l2viR10RLe0iV2cZ+n+Lv5sqZ1HTRjYKKlHjSUUhQoiwS2N/bU=
+dns-pub-f1-u.pentagon.mil.	21600	IN	A	199.252.47.11
+dns-pub-f2-u.pentagon.mil.	21600	IN	A	214.14.133.11
+dns-pub-f3-u.pentagon.mil.	21600	IN	A	199.252.47.75

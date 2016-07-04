@@ -1,0 +1,8 @@
+osmre.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+osmre.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.info.
+osmre.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.info.
+osmre.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.info.
+osmre.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+osmre.gov.	3600	IN	DS	7863 7 1 298af241bb90ae6b71a2d9d96b73f09cdc2b35a2
+osmre.gov.	3600	IN	DS	7863 7 2 50c11b4a1ca746c062ab1e14a8ae5bc43c3b5dced90ca64de695c8163ab52c65
+osmre.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ZvRQRs6BQnl9FL/PLwIk9JmFzPVjZ6QRiBM/eD5XAvTtFaJiksYF+nBaaKL4ROODRK9WrW9mABIBqhwZle5IXvoeuWNoBRwwYtRiB1L3dWn3kjKVN3RbNOKWPGoWNzgPv9mLc3504wImHTGpVKz9c5cha0w4ZW/wGQzRIOYLW7Q=

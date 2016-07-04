@@ -1,0 +1,9 @@
+pregunteleakaren.gov.	86400	IN	NS	ns1.usda.gov.
+pregunteleakaren.gov.	86400	IN	NS	ns2.usda.gov.
+pregunteleakaren.gov.	3600	IN	DS	7879 8 1 745981916f3cb013a31af84309ff0527bf75c505
+pregunteleakaren.gov.	3600	IN	DS	7879 8 2 0b41aa2045b37b8a710b6f895c126469177b94dcc0203e19c40e3b48e453ac10
+pregunteleakaren.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. hKccxMQa0E9kfoYZllPNBiiOH7B6wIEIwR8wQiUDswGSNnuF6vANBoHz9oBZIbR2Jvvx3jOi5gLqK4dDkB7nQBitCzvzcI64b+EAYai+DgfZJlHx3NJL9alSgHdR7oLXT7PeyGK335wOccoT/34NL+TqW4PbihqC5aXoLlYoN3Q=
+ns1.usda.gov.	86400	IN	A	199.141.126.202
+ns1.usda.gov.	86400	IN	AAAA	2600:12f0:0:ac04::202
+ns2.usda.gov.	86400	IN	A	199.141.126.206
+ns2.usda.gov.	86400	IN	AAAA	2600:12f0:0:ac04::206

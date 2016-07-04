@@ -1,0 +1,5 @@
+abingtonma.gov.	86400	IN	NS	ns1.infotech-maine.com.
+abingtonma.gov.	86400	IN	NS	ns2.infotech-maine.com.
+abingtonma.gov.	86400	IN	NS	ns3.infotech-maine.com.
+vlta6mfa4s75so4jtv7dffffpah3ngfp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. cehcJr5e+INz/CBplIsMkjw/WBu6L8aiemAWjZnY4SNVfZ0MsPLPuNGeUNR8yQtL2mNHWBzvDkwm/LW6NAPg6M/CGm6Duee9jmWVVSbkayV7SUKN/xHWPfexGAI77e/NLtvs4M3XQqjtf6IAiZAe4czTtIp39cxOL+ZHCEaHt/g=
+vlta6mfa4s75so4jtv7dffffpah3ngfp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vltbfvs5d46cldoqhbtfpb024430enqt NS 

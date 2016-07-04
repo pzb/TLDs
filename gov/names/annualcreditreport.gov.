@@ -1,0 +1,14 @@
+annualcreditreport.gov.	86400	IN	NS	ns1.ftc.gov.
+annualcreditreport.gov.	86400	IN	NS	ns2.ftc.gov.
+annualcreditreport.gov.	86400	IN	NS	ns3.ftc.gov.
+annualcreditreport.gov.	86400	IN	NS	ns4.ftc.gov.
+annualcreditreport.gov.	3600	IN	DS	28059 7 1 ba05ef179bbd67ae3e9577370ad8330020d44f3f
+annualcreditreport.gov.	3600	IN	DS	28059 7 2 de334a9a04a40c659f13cdd96e3499005cd9ff221a79cfa0bef52e3ffdd38e8c
+annualcreditreport.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. s62iq1CuYVZIFotPrCTJsIuMXYP9mWH8dr3ShWvVYdwx2qQK8IxmPFtj6wFh1EFBrce1AWXQnoUcD0CGLQGa1O3JRZQ2zawmO4bsFatPnvRXb1CHScN7r8jEmvVPElL7NtMStYRwA2mvnA01WAI5ZJ30JvIeSpO/NxS9HL4/4Cw=
+ns1.ftc.gov.	86400	IN	A	164.62.13.2
+ns1.ftc.gov.	86400	IN	AAAA	2620:0:630:4000:164:62:13:2
+ns2.ftc.gov.	86400	IN	A	164.62.13.3
+ns2.ftc.gov.	86400	IN	AAAA	2620:0:630:4000:164:62:13:3
+ns3.ftc.gov.	86400	IN	A	198.77.70.11
+ns3.ftc.gov.	86400	IN	AAAA	2001:1900:2268:770:198:77:70:11
+ns4.ftc.gov.	86400	IN	A	192.28.111.42

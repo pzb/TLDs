@@ -1,0 +1,6 @@
+cityofolympia-wa.gov.	86400	IN	NS	ns1.afraid.org.
+cityofolympia-wa.gov.	86400	IN	NS	ns2.afraid.org.
+cityofolympia-wa.gov.	86400	IN	NS	ns3.afraid.org.
+cityofolympia-wa.gov.	86400	IN	NS	ns4.afraid.org.
+dpqm54mj5vap848pe6jl5rn7dc4nbuhb.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. WkYqrv5kNFM+HOUgegTRt/0nc+D5d5JswTHrIpuUfiJVAm+LcQ2lMO4NULAm/VNzjoEKYGxee6GZyaZRQ+KI0e0ai4YVcrZ9xWQbrP256xX1H1Gz3ndoeRyyfRUgmjOFSITINFXJOVBBRk87+SsL7wGhZmwrmU3v2rsKXqrFJzs=
+dpqm54mj5vap848pe6jl5rn7dc4nbuhb.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dpte6kvjlm8dqsi5cv56gu82kf4a07iv NS 

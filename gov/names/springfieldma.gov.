@@ -1,0 +1,4 @@
+r5nvmhsbrlgsisrd0njvmdkeoeki5a1g.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. kvh3latWDV54a26gd5eta1b/dwqA4N6dGqItxoI5oN0oyvToOEdwUtftfVONyJfb/SkLeaJUXFaPvIiWGYfaEdyKy6EmrD4ML185E847yutB1Gn5IYh+SPNqF642tBoaaFIg5D+SNWwcEKCcnHKBBYJTRSiVEAkA209kRi64MYg=
+r5nvmhsbrlgsisrd0njvmdkeoeki5a1g.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  r5r920fbr2pc63k2qefueui2np28a9q4 NS 
+springfieldma.gov.	86400	IN	NS	dns1.springfieldcityhall.com.
+springfieldma.gov.	86400	IN	NS	dns2.springfieldcityhall.com.

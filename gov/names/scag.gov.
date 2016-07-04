@@ -1,0 +1,6 @@
+ir9bsj76n09b1vtq5qtc7h2fmtk4pq95.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hBQBfzxYXduqEYOfY0sZsnh7oSmc0LZQHYx+if9NggTyaDS4ltvd3SeT9RJds6gz5B8hQacZ4XbXmBknbcPfk4SpEA0LdMik9QSwBNk3J70AotigfiODjPLfLgbaUHIoq/Dje8UnoezGXjUYWqxs0BsEoq3q/arc69L8Uf4XLjU=
+ir9bsj76n09b1vtq5qtc7h2fmtk4pq95.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  irbiqrp2oaltv4kt00dvo3a2d4lmuf8n NS 
+scag.gov.	86400	IN	NS	dns1.scag.gov.
+scag.gov.	86400	IN	NS	dns2.scag.gov.
+dns1.scag.gov.	86400	IN	A	167.7.37.90
+dns2.scag.gov.	86400	IN	A	167.7.37.91

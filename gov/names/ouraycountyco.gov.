@@ -1,0 +1,4 @@
+d4p4vn3b56rgpf28rn6t656u4q6sm222.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wEfKolOVH/at0M86GQPHuNnjmVN5rEBJ835pmwezAvTTEeQsaoLybaWrquHCmTKT/43gRf5D/0NN9FAEeK9YEacBPpykYA3NQViBzRyyKac/lPeoCrJyO++EyT4yXUaynsYJn6Li0h3mQQYf1TDmFzLwPnQg9tzSSv5nv3dCOos=
+d4p4vn3b56rgpf28rn6t656u4q6sm222.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  d4s86h2uitk58u0vg455aov28jhk8gl6 NS 
+ouraycountyco.gov.	86400	IN	NS	ns1.fasttrackcomm.net.
+ouraycountyco.gov.	86400	IN	NS	ns2.fasttrackcomm.net.

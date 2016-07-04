@@ -1,0 +1,6 @@
+c17u9ko1b6evri4baccjvjfe2uled09t.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hBYqfkwNIIkZRoy+Og8sZM3gbvw7mAzOS+9Zm1juTEQdJfby1BRFkLB+ct+2rmn0lQ31c7nJNkuzS4V6iEes2X/GK9pECYa4k0XydoKc6CUKqRoEUUbyxWK95RrJSM3m8+PY8hA4KNwruodm/j71mySAe48sEJ2DUdjZUTiyFQo=
+c17u9ko1b6evri4baccjvjfe2uled09t.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  c1c4253517g05der0c8cf22tr9o5dd7h NS 
+teamgeorgia.gov.	86400	IN	NS	ns1.cloudns.net.
+teamgeorgia.gov.	86400	IN	NS	ns2.cloudns.net.
+teamgeorgia.gov.	86400	IN	NS	ns3.cloudns.net.
+teamgeorgia.gov.	86400	IN	NS	ns4.cloudns.net.

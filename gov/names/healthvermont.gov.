@@ -1,0 +1,5 @@
+healthvermont.gov.	86400	IN	NS	ns1.state.vt.us.
+healthvermont.gov.	86400	IN	NS	ns2.state.vt.us.
+healthvermont.gov.	3600	IN	DS	56749 8 1 4c9d5530f7afa9a9073f47f118645600ae581531
+healthvermont.gov.	3600	IN	DS	56749 8 2 05d310a089e3f6acf3d45888fea3df701dd5afafd8ff49978723f946cba54145
+healthvermont.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. s31Ei8gMA8G7SYJeMiMPh85iK6fWASWeuMeB9CG7un2iwP0q2G8Z4zMjFoIRJzyLmOjOJlvf+LpIbqhyIfpYRVMaYBgD2ytO99rA7W1ejefmHCuEyzSBCz7Y8wcLQgGuoG88avUtQlL/iv96Jfum1Vncsagiwmb7w0B35BnFU9o=

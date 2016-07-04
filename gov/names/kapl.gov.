@@ -1,0 +1,4 @@
+dj8n389rulcuuut74il1ai23ec596avi.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. JdeOBezigaRkNWMUGJAiJH0jPrhryVJ7Ig2QOkKxSi1ObXZTh0Mcm3u2UFVsULAeuubZh20c2YDZoIlrIvD5r05w3bty2rzViPoJKqn/kPHJFQA72PMsm6WIEdt+mlPk81vmPvgrmRptv4/yCf8wwRuMOmmw4+upSfyCXsWzI1k=
+dj8n389rulcuuut74il1ai23ec596avi.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  djc7s43cq428jdrkmh37n80t5ho3c3uq NS 
+kapl.gov.	86400	IN	NS	ns1.chrl.twtelecom.net.
+kapl.gov.	86400	IN	NS	ns1.nycl.twtelecom.net.

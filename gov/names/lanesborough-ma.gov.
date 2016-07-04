@@ -1,0 +1,4 @@
+95sfnvfmknj9ira9nsi7t2n3vehq7trb.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. CHc8/NVQrbV3m1hbWIbSyckmjyJhK5V4yhCOt7zhlTQ4AHfoDfCnisGVN2VtbMPzboXiCIKb453FJfL2rTM5BSu3PBNa3WEJiKeS2elN+VdQV9uvmy04TQXiWGeXHlAAzT9walRKnrU7iOGDX1cw4eb3SDvyXZ/AjXwPEoTC2/o=
+95sfnvfmknj9ira9nsi7t2n3vehq7trb.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  95ur1mor790ig6tt31gt2bmn8h06b6il NS 
+lanesborough-ma.gov.	86400	IN	NS	ns1.avenet.net.
+lanesborough-ma.gov.	86400	IN	NS	ns2.avenet.net.

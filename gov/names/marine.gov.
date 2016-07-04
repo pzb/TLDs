@@ -1,0 +1,9 @@
+marine.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+marine.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+marine.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+marine.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+marine.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+marine.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+marine.gov.	3600	IN	DS	18619 8 1 18f846141e5ab601f3694e7f648784eb17ae4e80
+marine.gov.	3600	IN	DS	18619 8 2 7aa165ed9fe56f2c46ae2c2452385b450b0f1da6ad728d41c05443468044b9b4
+marine.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. MLBiAFe0LAet+qDGprPLMSty+332ndiPyx4I6w6R+Xofz5IRPvPsAPAZQkHt4GDBM90rBitikmwRmS01ZNwG+yFn16tQAY5we1NQxFJHY8Zr0en66NswifsnIqX/qNmGtpzJ6uJGEtKb9A/LKczwqNAgA7K/MUHfWtrkL/fqd9k=

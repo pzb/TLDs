@@ -1,0 +1,7 @@
+dns01.cns.gov.	86400	IN	A	152.180.8.143
+dns02.cns.gov.	86400	IN	A	152.180.134.207
+seniorcorps.gov.	86400	IN	NS	dns01.cns.gov.
+seniorcorps.gov.	86400	IN	NS	dns02.cns.gov.
+seniorcorps.gov.	3600	IN	DS	50886 7 1 da8bcf480caee184db66e888abb319997bb7b8a0
+seniorcorps.gov.	3600	IN	DS	50886 7 2 62757943fabdbd0cf74ec8d812e4c9b448931b6e9f0fed7d9d2813957a95ed8a
+seniorcorps.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. n56Nfum3PEHmRBFRHfIQC+F2BQ2Aate+VRyZlitQbmVj3RUIzpjsdiUoWjmyR7ff0Dj61QCAnOK2eHTGd1vOFBO6YnZz8l++YL3GkmXz/Ba5NGqh2Xn1Z878lBu/3pNL9KZP0g8NQ7RdEh3aocNtz+C4+EnDEZ71QXj94uQ+Euc=

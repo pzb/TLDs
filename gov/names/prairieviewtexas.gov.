@@ -1,0 +1,4 @@
+7a2eanbkpb0ejp8blq9aahu45haa3r50.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. YjzcZxOc1DGY382y7Xt5Dal3MNjZpIm1NRLSDzMkfFc+6BBGW5ss1bJGZ581bI8B7soryxttsXODQqox8Hvt7RYEfgi4XNu3JhZhzZFTJUo56xsCbzye8c+OP5o35pmHCl/3YJW1eh/MYVFbuXARlfFA4AZmBUGOZ11WcGbCq54=
+7a2eanbkpb0ejp8blq9aahu45haa3r50.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7a7mln0kjgtm5llsmc9temc68o2jt2cp NS 
+prairieviewtexas.gov.	86400	IN	NS	ns1.softlayer.com.
+prairieviewtexas.gov.	86400	IN	NS	ns2.softlayer.com.

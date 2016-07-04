@@ -1,0 +1,5 @@
+upu.int.	86400	IN	NS	ns1.ip-plus.net.
+upu.int.	86400	IN	NS	isis.upu.int.
+upu.int.	86400	IN	NS	osiris.upu.int.
+isis.upu.int.	86400	IN	A	193.247.49.1
+osiris.upu.int.	86400	IN	A	193.247.49.2

@@ -1,0 +1,6 @@
+azsfb.gov.	86400	IN	NS	ns-318.awsdns-39.com.
+azsfb.gov.	86400	IN	NS	ns-582.awsdns-08.net.
+azsfb.gov.	86400	IN	NS	ns-1530.awsdns-63.org.
+azsfb.gov.	86400	IN	NS	ns-1703.awsdns-20.co.uk.
+vp0oacldn65fjh5dfsn1tectgl0b5fl3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. NblK7AUItk4gyjq8/Qz+c/h8+Ov6NCCRJdJKUFZHBBhiFd646xUiKktrhvaYtGRHMUSsKf+O6R9D+BdVd48ifiJtEM72GKyxI+3FLSiGGFsRmyP60YHdqIRDLNplEdsufnIEjSvbCZkw4EwW1/z7mEH9D5Gg5Lcuf6vGpK4KdQk=
+vp0oacldn65fjh5dfsn1tectgl0b5fl3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vp31989h1egckm4gf37lmv4lgu8p3ijl NS 

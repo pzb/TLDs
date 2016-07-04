@@ -1,0 +1,5 @@
+bea.gov.	86400	IN	NS	sauthns1.qwest.net.
+bea.gov.	86400	IN	NS	sauthns2.qwest.net.
+bea.gov.	3600	IN	DS	5281 7 1 b1d60f6d392a3f0d91ed41845fbb703b3f5bcd76
+bea.gov.	3600	IN	DS	5281 7 2 f3b5c205fefb82f116d09697faa2a3bad198fc32154e39a9606ed5fcc412f733
+bea.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. drpOhEpTnA3/wuRh1Ulz7AXBisxAkCXOAzaI67N9vXGnyHwObhOH6E+b77k7ImpDnuuGop9mB5W1ONub9prQtOmjb3UcPNq+B7F3kZLsoochwG9xSS1XKEhpBOVbv0xvu2pVE4r26y6uzqJaI5bVYcrnkqPhqI+OqW/EOL65Vrk=

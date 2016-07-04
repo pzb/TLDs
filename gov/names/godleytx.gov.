@@ -1,0 +1,4 @@
+godleytx.gov.	86400	IN	NS	ns1.avenet.net.
+godleytx.gov.	86400	IN	NS	ns2.avenet.net.
+thtnar1rpvb2s5q3bklr9ebcb93c01qj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. nHpHtmoKoAwaF7Ir+wwh7Q+vdEs7nSz0HkiO1IKWga8X1OU2+rZrN7eSEKPwWfMlagY9x7n3cjSuForiDCF4qAytJAc7kx5zv5/MJjuZbAWNDj3yfiGSHafvUXsEYjm5LKO/eHNnmzfPZHGkmP1u7aBJ8IWBkk2kAdomoCDR5Io=
+thtnar1rpvb2s5q3bklr9ebcb93c01qj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ti3fjpcme0q2vb0n296ds9gjoiuencef NS 

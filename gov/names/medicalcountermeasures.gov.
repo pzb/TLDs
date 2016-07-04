@@ -1,0 +1,14 @@
+rh202ns1.355.dhhs.gov.	86400	IN	A	158.74.30.98
+rh202ns1.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2a
+rh202ns2.355.dhhs.gov.	86400	IN	A	158.74.30.99
+rh202ns2.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2b
+rh120ns1.368.dhhs.gov.	86400	IN	A	158.74.30.102
+rh120ns1.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2c
+rh120ns2.368.dhhs.gov.	86400	IN	A	158.74.30.103
+rh120ns2.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2d
+medicalcountermeasures.gov.	86400	IN	NS	rh120ns1.368.dhhs.gov.
+medicalcountermeasures.gov.	86400	IN	NS	rh120ns2.368.dhhs.gov.
+medicalcountermeasures.gov.	86400	IN	NS	rh202ns1.355.dhhs.gov.
+medicalcountermeasures.gov.	86400	IN	NS	rh202ns2.355.dhhs.gov.
+medicalcountermeasures.gov.	3600	IN	DS	37719 8 2 2eb63cf8afbfda4d4680d283a5cf58f16cd02166abad0e9992b275fc5a79cedd
+medicalcountermeasures.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. PSYIWMDQskBbbh0cTG9BgG6/+cGn2eitN6R/plS+d+utK9qHHB9FEPXton/XZ1dITdSsEsL4petNbE3/ekNQwQY4OIpVQtXanvFJVjx+YAX+QVbTYykLVlofBGfLamPngQfUEa9LygeNDNV081MgbO8lsD8oYmpvDoLEotB8ozo=

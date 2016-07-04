@@ -1,0 +1,4 @@
+gallupnm.gov.	86400	IN	NS	dns1.civicplus.com.
+gallupnm.gov.	86400	IN	NS	dns2.civicplus.com.
+hb2u5fa2frrhgf4lur0pg8u017hqgjel.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hfdyVk/xbc6i+oakIbVB2eJgNNfNeCQ6L3qz6H05hvbnT0iNYgL82o4nb8KjDsW4gJHZsx3DcvYDUq0Vkbvr3WLK2r60Ujnu7kxbfVPxhGQMKmJu2nq+Zn/8GEixYEG2nN1BHXeu9UCumyJYtoJpe8RMt9C+oiRYxh6AxMQDdMw=
+hb2u5fa2frrhgf4lur0pg8u017hqgjel.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  hbadm5c4catc5pt703qm80b13anrneed NS 

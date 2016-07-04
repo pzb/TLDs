@@ -1,0 +1,9 @@
+jfcom.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+jfcom.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+jfcom.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+jfcom.mil.	10800	IN	DS	18901 8 1 f3910206a76e90c0a963710d192d0248825f92d2
+jfcom.mil.	10800	IN	DS	18901 8 2 551e70b5744a5f802f5acf8e1aa8c7ecc609dc538ac8c36453cee3fe09957000
+jfcom.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. O0IbWN6c9/FTdd60JywoonqMcCd93uWdZIycvj4SPeUMfow2zsVqJTy7t8yZkhO8/H6J/wusshFERdYqLL/jdXPChGuTxfBcqtIOc8I2s9FFYaWHtwws/VX5DLPYB7phMQh3tsV3Qpx0w4W6HSnxbyjw11BdKW67/AceysK5KYPBArY=
+dns-pub-f1-u.pentagon.mil.	21600	IN	A	199.252.47.11
+dns-pub-f2-u.pentagon.mil.	21600	IN	A	214.14.133.11
+dns-pub-f3-u.pentagon.mil.	21600	IN	A	199.252.47.75

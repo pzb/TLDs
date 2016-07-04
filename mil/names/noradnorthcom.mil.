@@ -1,0 +1,10 @@
+noradnorthcom.mil.	21600	IN	NS	ncnd.northcom.mil.
+noradnorthcom.mil.	21600	IN	NS	ncnd2.northcom.mil.
+noradnorthcom.mil.	21600	IN	NS	cmdnsh01.northcom.mil.
+noradnorthcom.mil.	21600	IN	NS	cmdnsh02.northcom.mil.
+cmdnsh01.northcom.mil.	21600	IN	A	164.236.160.19
+cmdnsh02.northcom.mil.	21600	IN	A	164.236.160.20
+ncnd.northcom.mil.	21600	IN	A	164.236.0.20
+ncnd2.northcom.mil.	21600	IN	A	164.236.0.19
+uvf95uagd8jiho1i52srcr51l7rf9909.mil.	10800	IN	RRSIG	NSEC3 8 2 10800 20160708161835 20160701161835 16413 mil. QupEut5yXKuiEIR91Qt+Ny6woOYOCMFvflI3QgZteBZSIsseZ9Z+9JMZGBVffNFx0xQBJYBVdxBshRrDiaXts3X3o74k8Ix86HQ8YEtPsaeTd6iILjlX/lkX86rym61cDrv/pUbfww/z6l7gNV439vCE4fi3JCDv9PripfGDw1NNOfY=
+uvf95uagd8jiho1i52srcr51l7rf9909.mil.	10800	IN	NSEC3	1 0 10 adeb  v88srcslvvk22i61rhoundvs1uug5qgt NS 

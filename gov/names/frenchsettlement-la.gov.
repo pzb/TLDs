@@ -1,0 +1,4 @@
+02tkdkct3tpno4onp55fn126bgoqdoj4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. maRLNspMKLDTHyyo/t/F5cAOWzb7ewvGI94gww9b6EKKZjkYB0Rv7AmAV53WqczDabWH0EDetue90OZqy0yWYljyd3G8OI0u6uap3iV1rQeWn7A5YqIKvdkajRS+ARUcjBXxGcatcy9nCAtrJFmKJNWsWs0YxZPlw0TnFQjt7dk=
+02tkdkct3tpno4onp55fn126bgoqdoj4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  03751mfc2808eojrac263f61pthe2s8b NS 
+frenchsettlement-la.gov.	86400	IN	NS	ns19a.nameservers.net.
+frenchsettlement-la.gov.	86400	IN	NS	ns19b.nameservers.net.

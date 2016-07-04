@@ -1,0 +1,6 @@
+dss.mil.	21600	IN	NS	ns1.dss.mil.
+dss.mil.	21600	IN	NS	ns2.dss.mil.
+dss.mil.	10800	IN	DS	36865 8 1 3f38c96bd2eb7bcf9377825bb831926cd659fa81
+dss.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. xC/XexygBigUHm5u1xcpXVYOL+CoN89ZevtSG2es+mD8EVP+syl0YOB0x/KUn7St+0UpreG43tF+QpyWmscuv8lHspQgtPbNqaiiRXg26d+bQA3lidtwun1qM+3i2BRn1DEz1n2WzcioEdv05gwzkWKyaYmHVQ/SgnXfEkulW5nBaOY=
+ns1.dss.mil.	21600	IN	A	207.132.241.19
+ns2.dss.mil.	21600	IN	A	207.132.240.40

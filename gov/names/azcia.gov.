@@ -1,0 +1,6 @@
+azcia.gov.	86400	IN	NS	ns-214.awsdns-26.com.
+azcia.gov.	86400	IN	NS	ns-995.awsdns-60.net.
+azcia.gov.	86400	IN	NS	ns-1047.awsdns-02.org.
+azcia.gov.	86400	IN	NS	ns-1809.awsdns-34.co.uk.
+qboglfeh6dm9n0ir6pf4e9th45nvhkbf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. XavTENQass/Ypu0cf+/mYv5GTGZO+0A+5yJYA9TBnj5NaU6pBUfLuFRdIrT9YmeAqjAUuuYw/Cnnufd6Xlax6/v2k8Yu7UA55aqKHTF00xVpfwbm9yM/jtfGn84vLLzJS6nMH3J7o9r8jcvxxtIv0v2NQ/8lII5hx12HNhjJyuc=
+qboglfeh6dm9n0ir6pf4e9th45nvhkbf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qc4f7umqi6rt2phepmu1jjg84qstq8ii NS 

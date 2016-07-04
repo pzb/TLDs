@@ -1,0 +1,6 @@
+bpa.gov.	86400	IN	NS	ns1.bpa.gov.
+bpa.gov.	86400	IN	NS	ns2.bpa.gov.
+ns1.bpa.gov.	86400	IN	A	170.160.42.8
+ns2.bpa.gov.	86400	IN	A	170.160.106.8
+ub737ck8cku790htgisp7h680ooqvd5q.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. i5obaBinkVMumd7eDfSHqWW+yFzGSPIhNxBR7n/vPuh/DxuYa/y89+LwZQfTiV5BqZMQ7jujdK+rqBjvBKIK44g67/cHd8AAp26mFddl3ze1HU7bdA4ecYqs/N7uEWvogbtz34SpXyID0BRv9W4lNgQTzXmUjBfz7fvjfB93djU=
+ub737ck8cku790htgisp7h680ooqvd5q.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ub9ml1rh0hvl4sv0r3dllrr7hd0lguok NS 

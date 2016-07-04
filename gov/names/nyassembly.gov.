@@ -1,0 +1,6 @@
+h541abp2d3a5gtnlp0f5n47qpacc7i23.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ZQOSTiUMMczKE2dFVAFiW5BfX6VMvdF5cs6n1PWr/oei2foRAftMkDIvQX9PH6Nv+ZEe7zAfKOqsmLEBmEPd0AR9DaYE5hY6rkejF+A42hEvZ4NqXZV/k5jZeA1pfDZ+vFYRL07sdKusi5MHwnRyY4pkmSyAI8htqcALZiZV0AA=
+h541abp2d3a5gtnlp0f5n47qpacc7i23.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  h544udp4h3c5g157turb22b7i5jksgem NS 
+nyassembly.gov.	86400	IN	NS	ns1.nameresolve.com.
+nyassembly.gov.	86400	IN	NS	ns2.nameresolve.com.
+nyassembly.gov.	86400	IN	NS	ns3.nameresolve.com.
+nyassembly.gov.	86400	IN	NS	ns4.nameresolve.com.

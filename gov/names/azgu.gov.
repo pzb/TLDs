@@ -1,0 +1,6 @@
+azgu.gov.	86400	IN	NS	ns-42.awsdns-05.com.
+azgu.gov.	86400	IN	NS	ns-911.awsdns-49.net.
+azgu.gov.	86400	IN	NS	ns-1385.awsdns-45.org.
+azgu.gov.	86400	IN	NS	ns-1780.awsdns-30.co.uk.
+g2ed3bjm1u5v93ddgbiufsselnqqvchd.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. k1uronMrcXlj3l3V095xHLC5XXdyiiNzWWtrYWRSnN9k716WVy2hwcrXRxQFSt9v0Q2KcUy7Qy7hS5cYsq4idzVEXHZ++Ir4uBMaMKGyF6CtBVdBX32yViCqgKQAQpISHZISyZdMhWIL9O+fZ+mInqYd4pnhsqBV3MDcDhI4Du8=
+g2ed3bjm1u5v93ddgbiufsselnqqvchd.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  g2fb9rufpl382lakgvvmotk879f5e3e4 NS 

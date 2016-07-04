@@ -1,0 +1,6 @@
+253im7qjeadgq6ddd73tikljskm39h4p.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wjhiAyyf4fIX4B0jLb/0/w4W/VMBdYvUVW0uWPgwiTDLJAz+Wa7WkvtTTHm92paKQv1G58SaepX1n4vlnXdc6grRfVrCh9vZhcJyIkbyJcLBJ5UkFvMXxpNJXn5yHrbQOVklwcUJcqqQaJ/vR1XJ/EeBQQUtouQ/We6wzpadCd4=
+253im7qjeadgq6ddd73tikljskm39h4p.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  255ott88uf2js2udo0mn7ofi2i1oqtfa NS 
+azlottery.gov.	86400	IN	NS	ns-456.awsdns-57.com.
+azlottery.gov.	86400	IN	NS	ns-723.awsdns-26.net.
+azlottery.gov.	86400	IN	NS	ns-1080.awsdns-07.org.
+azlottery.gov.	86400	IN	NS	ns-1848.awsdns-39.co.uk.

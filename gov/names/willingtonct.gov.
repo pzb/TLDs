@@ -1,0 +1,6 @@
+ns1.cen.ct.gov.	86400	IN	A	67.218.95.9
+ns2.cen.ct.gov.	86400	IN	A	207.210.151.9
+l100spt9cd3q9i0ek9ep7v1ohju4992o.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. S9NvXKOlpAZV41kwrxevBrnsWiygAMGNcmzA+RYEPVIZRv8gK3P415PrOJJVQzOMnJHMsi7N8QHizdT5na3L98Q5nkvMMuSCICMYsFPefdX8grue9ris4XY6Xeg8Ad0dXZbVoncFg5lv+eCrwE1xnFb0gWq8jNY+D60M+UNf230=
+l100spt9cd3q9i0ek9ep7v1ohju4992o.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  l11mqnv1fkpu7u4g71cc8ejojh632cl2 NS 
+willingtonct.gov.	86400	IN	NS	ns1.cen.ct.gov.
+willingtonct.gov.	86400	IN	NS	ns2.cen.ct.gov.

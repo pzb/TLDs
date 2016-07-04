@@ -1,0 +1,11 @@
+invasivespeciesinfo.gov.	86400	IN	NS	ns1.usda.gov.
+invasivespeciesinfo.gov.	86400	IN	NS	ns2.usda.gov.
+invasivespeciesinfo.gov.	3600	IN	DS	21199 8 1 bd6e22cc0cfdf511c18075487d5385a37321c8aa
+invasivespeciesinfo.gov.	3600	IN	DS	21199 8 2 67c4b78ca78c19cfc334b07897dc6e78403f953647069aa56f2d69739bec9eba
+invasivespeciesinfo.gov.	3600	IN	DS	47179 8 1 d5e8cb40773d865b5c12b7045a121b4e20df526b
+invasivespeciesinfo.gov.	3600	IN	DS	47179 8 2 186d1de3bc45a49b5c1f087d473b2a072411811ae9e4be772c0bc02612e6e764
+invasivespeciesinfo.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. bOL/8TMVYDN/mwIylXpgUNsnL/05bFmRDmwCj1DnRI9UKrhhgQr2vfN48Bfx2VVz8jZZGnNmsh9QM3zsdNvnPHL+JX7gE6LHrHGG1KKLQbB7Fu78BJ3+qzqMHMeghwXNrUiu6g9PhJbYZNwjElEfPyfggh5a37UxDxJT/wbJnrM=
+ns1.usda.gov.	86400	IN	A	199.141.126.202
+ns1.usda.gov.	86400	IN	AAAA	2600:12f0:0:ac04::202
+ns2.usda.gov.	86400	IN	A	199.141.126.206
+ns2.usda.gov.	86400	IN	AAAA	2600:12f0:0:ac04::206

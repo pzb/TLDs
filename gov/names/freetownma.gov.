@@ -1,0 +1,4 @@
+freetownma.gov.	86400	IN	NS	ns951.hostgator.com.
+freetownma.gov.	86400	IN	NS	ns952.hostgator.com.
+tgki1oirkjv1iusdj4fna31hjc18k98j.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ahsa9lfKDV5ReFVLjNRK3YVk+wN35rSp17yV6/RICNL4pWbIjhODu+cCTYCvcmBVm5VbHCz+w+cDEzzq2fBt/ayNeHDSBADxP+HhIfiDZ/aIVdyVARzaWBlkSv24wvWifrT8veLM+OXSjHPf7tLOGm7kGsWRK45uXRZHjK9aB9Q=
+tgki1oirkjv1iusdj4fna31hjc18k98j.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  tgm31u5g6kut7vcaj4go6oimnjg7nvkg NS 

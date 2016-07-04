@@ -1,0 +1,4 @@
+0eo64o3h1aq3ej96hgd259b22chpsffg.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. jHuJg3JpBNSEuw549N0h3HV3KzSmuKfcLFBWuG/fTC8yCfgShe4F2xSh+mymLxPNKv5QEn55SHoFCRUs39V+Gec+pHtpU+RsBjFqlqVHAXedzvBjZBMmT9vct92CgyIp8U8UOQFEx3MgeaAPThexa9LbBbi5ROhrQqqD5psA6OU=
+0eo64o3h1aq3ej96hgd259b22chpsffg.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0eqjpb5te0nio5ct7n049415pvhe2c4h NS 
+mpge-nsn.gov.	86400	IN	NS	ns1.mptn.org.
+mpge-nsn.gov.	86400	IN	NS	ns2.mptn.org.

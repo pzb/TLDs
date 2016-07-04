@@ -1,0 +1,8 @@
+6r0jfq25s1fmfsdauategdjr7129ag7s.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. udyVFCDgQL4EPwRz68K24w7QOjKAYXV359Gdjr7OfawUf8wRH407IAWIQo9tGt9U+HYJHgqU704V3Os10ZxQjVf1FI9J4CaG2pCfdtL6EUOgO3l+A1mIa0mLrUlhUWaEr2BROprml8Qy3FbEZxNP5muZIziIM9dlvTiMaAz0tZg=
+6r0jfq25s1fmfsdauategdjr7129ag7s.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6r8oslb4t6h48pbcf8rnimedgjj6fo2i NS 
+wyoming.gov.	86400	IN	NS	ns10.dnsmadeeasy.com.
+wyoming.gov.	86400	IN	NS	ns11.dnsmadeeasy.com.
+wyoming.gov.	86400	IN	NS	ns12.dnsmadeeasy.com.
+wyoming.gov.	86400	IN	NS	ns13.dnsmadeeasy.com.
+wyoming.gov.	86400	IN	NS	ns14.dnsmadeeasy.com.
+wyoming.gov.	86400	IN	NS	ns15.dnsmadeeasy.com.

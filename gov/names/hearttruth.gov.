@@ -1,0 +1,14 @@
+rh202ns1.355.dhhs.gov.	86400	IN	A	158.74.30.98
+rh202ns1.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2a
+rh202ns2.355.dhhs.gov.	86400	IN	A	158.74.30.99
+rh202ns2.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2b
+rh120ns1.368.dhhs.gov.	86400	IN	A	158.74.30.102
+rh120ns1.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2c
+rh120ns2.368.dhhs.gov.	86400	IN	A	158.74.30.103
+rh120ns2.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2d
+hearttruth.gov.	86400	IN	NS	rh120ns1.368.dhhs.gov.
+hearttruth.gov.	86400	IN	NS	rh120ns2.368.dhhs.gov.
+hearttruth.gov.	86400	IN	NS	rh202ns1.355.dhhs.gov.
+hearttruth.gov.	86400	IN	NS	rh202ns2.355.dhhs.gov.
+hearttruth.gov.	3600	IN	DS	27639 8 2 ca74d61f9dad7025d65b64449c7f8686c635656c0cd3675df68d4a6538958405
+hearttruth.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Rg2z2JW3jszXaLsB/BDH9/3dFNwcxYhPI/aR40ugmYgId+2eX87NEZWSIUT0NkF55r60FyxD1fWujNsFH23n4dFdW/PdOjVhjxIX7nEVlHkrR3p1p1LTE4IR4/qtIt66Ya7S2wOTQljR94dvC6j4OG3eEXkuzQd87k8aWZ03ML8=

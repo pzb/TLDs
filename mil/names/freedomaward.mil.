@@ -1,0 +1,10 @@
+beast.dma.mil.	21600	IN	A	155.7.145.113
+beauty.dma.mil.	21600	IN	A	155.7.145.112
+kaucher.dma.mil.	21600	IN	A	155.7.208.113
+russell.dma.mil.	21600	IN	A	155.7.208.112
+freedomaward.mil.	21600	IN	NS	beast.dma.mil.
+freedomaward.mil.	21600	IN	NS	beauty.dma.mil.
+freedomaward.mil.	21600	IN	NS	kaucher.dma.mil.
+freedomaward.mil.	21600	IN	NS	russell.dma.mil.
+freedomaward.mil.	10800	IN	DS	49289 8 1 b8a9e5fd3a65fb48f59d455070ca49a25aa21e27
+freedomaward.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. cIIWGHnyVQzJtOt0ClRuMeJorcErAry4VltoF0iv259WjxElV/Jw2e43PiVilrcmaK3PmmXPDTSVtbHEpsmP3mKBLsYaKZU8HMDlgApDzLD56UXmiUNYzqZbek55VM0ZGz21Cwuh+Ah7g+87zn+pV/wpSOjSUyUMIrSKP7ogKKOdWlA=

@@ -1,0 +1,4 @@
+healthyiowa.gov.	86400	IN	NS	hawkeye.idph.state.ia.us.
+healthyiowa.gov.	86400	IN	NS	panther.idph.state.ia.us.
+rna4k78vrldtgn5ef7d8udf6dojovfpe.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. RZ6CI/mso9s1o0vArKLBzVTU2bT0Rysk4Zph0whRp5J7b6sAICmglH//2clBPVHS4htH8rMw2d777zVRC/WuqX06esaEf7lbFDTcyh87Zcu41tnmQgQJondgQgMQbAwMsgS+VUHxwLDAF++nNsPFxbD2Tujezf6485zn90Ir7ZM=
+rna4k78vrldtgn5ef7d8udf6dojovfpe.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  rnfb0q7ekbvq7sfhe4anbbbu2bbam12o NS 

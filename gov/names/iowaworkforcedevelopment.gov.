@@ -1,0 +1,7 @@
+ns1.iowa.gov.	86400	IN	A	165.206.254.145
+ns3.iowa.gov.	86400	IN	A	209.56.120.13
+iowaworkforcedevelopment.gov.	86400	IN	NS	dns.iowaccess.org.
+iowaworkforcedevelopment.gov.	86400	IN	NS	ns1.iowa.gov.
+iowaworkforcedevelopment.gov.	86400	IN	NS	ns3.iowa.gov.
+ms6csfohurth87r5l0673utdrtcjtfuv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. xV14wMP6UzEXgDx65JHTFwg8qGwlNHFwEL1nLNlUuSzDWz+b67Ee0cjNfM0/OtmM0J1+Op532rMCwHZ3+2efryZyif6dOVtYadDxD+dp4ciq7n+5ehXfQ7IHo0NE53wQDjPuSlI83L+bjVzD1MTxs46cUmbrcYF1/7FStl2yL0g=
+ms6csfohurth87r5l0673utdrtcjtfuv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ms8iphaabt198gr2s2orn8e21use70lh NS 

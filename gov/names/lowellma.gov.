@@ -1,0 +1,6 @@
+3uke656cit4pj3ovulb5uoldpref8csf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. gk/O9w4eExhbplRNqBuETqOfuwC/iLgwOJ8rvwos4DacQByMIxIxffmFaaZCb5lzLF9Pm2X+ZiIuwiwvA5Y8E0zLKtktB+SxKPzCK+9VXzj8ukEUMOQaQWROBaTTb3gYEXv9d0aBO/iCX06nY1ZcBprrr3znxn4NZdioy6Qjz3I=
+3uke656cit4pj3ovulb5uoldpref8csf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3urgk7akse5an8v0af8huc4j76n7e3sa NS 
+lowellma.gov.	86400	IN	NS	ns1156.dns.dyn.com.
+lowellma.gov.	86400	IN	NS	ns2137.dns.dyn.com.
+lowellma.gov.	86400	IN	NS	ns3142.dns.dyn.com.
+lowellma.gov.	86400	IN	NS	ns4157.dns.dyn.com.

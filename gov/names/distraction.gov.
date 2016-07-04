@@ -1,0 +1,9 @@
+distraction.gov.	86400	IN	NS	edns1.dot.gov.
+distraction.gov.	86400	IN	NS	edns2.dot.gov.
+distraction.gov.	86400	IN	NS	edns3.dot.gov.
+distraction.gov.	3600	IN	DS	14041 8 1 dc00e175ded6e9847e82215ed4a2cc7f7b6bb733
+distraction.gov.	3600	IN	DS	14041 8 2 3e30d65fa9ed115a78c5f03e8f475acc4ce8d4d7727a6831cbb8436da684364c
+distraction.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. jAN1ESOlMkUw1izsObiWmx7m2lt91vi1+BdYECCVpdXuahpk3bwXvk4kXHeC333r3dy6T43NyTeSlT4lQ7IvrdquRIkBFFxp1rx7V83/o0yL3JK7cH13GEnpUI+hsddXJQcpkNzQBpEKjqR5zeGXuphcGMXNPqBooB0qEZ4hWQo=
+edns1.dot.gov.	86400	IN	A	204.68.194.100
+edns2.dot.gov.	86400	IN	A	204.68.194.200
+edns3.dot.gov.	86400	IN	A	204.68.195.200

@@ -1,0 +1,7 @@
+tsddns4.fedsun.hpc.mil.	21600	IN	A	140.32.23.2
+tsddns.fedsun.navy.mil.	21600	IN	A	140.32.24.2
+onesaf.mil.	21600	IN	NS	tsddns.fedsun.navy.mil.
+onesaf.mil.	21600	IN	NS	tsddns4.fedsun.hpc.mil.
+onesaf.mil.	10800	IN	DS	25009 8 1 1d5164f271b1fde71740859765fca763fc6d57f1
+onesaf.mil.	10800	IN	DS	25009 8 2 2b38b8a89b5f75f821544ca5c6a163ceeda673069368f908b21b3bd053d2f494
+onesaf.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. K+9Ez8ToYOXQGvklc439AZSlcnR/8bb6Yl0IAFO6n7uPjMY9RK8rVtCYo0QxhLkZHINEeo4stwTkrJPFOV4zszkqO0F2h5X6LlTZtgAAH26ST5WY+BJ/yOCCIXMvRMUSNmk4rw7xHgezc+35oG4mSJLGcoMCNbpq3grDFPgLMko2HNE=

@@ -1,0 +1,6 @@
+6a8tt5sdguj9t2vd7136eo73l428rt5q.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. gt2VyyQtslvSIvoFBN7w15CCYo+9+HoF1LAs2d02bVIDqez4ySzulEN/nhHT27YB/XvS6X51fQvBPq+0t0M/8MTcGccUuBCLiUhjwC/m7J97fmla2HV/j/2w6NVwOazrhPJgwI8+tyU8Px6q/2o/muWVg/KIUzbZc96EqxwSxDI=
+6a8tt5sdguj9t2vd7136eo73l428rt5q.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6anul29hdhtfv3furdpqjg4rm7vs73q6 NS 
+missouricitytx.gov.	86400	IN	NS	ns1.easydns.com.
+missouricitytx.gov.	86400	IN	NS	ns2.easydns.com.
+missouricitytx.gov.	86400	IN	NS	remote1.easydns.com.
+missouricitytx.gov.	86400	IN	NS	remote2.easydns.com.

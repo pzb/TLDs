@@ -1,0 +1,11 @@
+clinicaltrials.gov.	86400	IN	NS	gslb01.nlm.nih.gov.
+clinicaltrials.gov.	86400	IN	NS	gslb02.nlm.nih.gov.
+clinicaltrials.gov.	86400	IN	NS	gslb03.nlm.nih.gov.
+clinicaltrials.gov.	3600	IN	DS	36825 7 1 487aca9ff468286d403a8061e8bc955f2aeff63f
+clinicaltrials.gov.	3600	IN	DS	36825 7 2 67868e94a2c4214bfd9ddfb1e5f6580213dc7bd2fb797f5fe7b259cdc39328aa
+clinicaltrials.gov.	3600	IN	DS	56004 7 1 8a620411245998311f542cc0a688aff6ee190328
+clinicaltrials.gov.	3600	IN	DS	56004 7 2 cec9cd754ee7dc11f978abab8c4babd65f3999da407efc5d6ac42606f67d61f8
+clinicaltrials.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. UU1DS/Ae+QUdkPorCVrmY2nhwcwQjO8JB+mxNTOC0U/KidEz2+vtesyI+2l3tBHKthN3uhzKDnHKhG+94R0wAuRe9qTc4kXUKoKl/hYB0qxsc8y+SsgDo+Oa75UHWtlxs23gln85yl0Ks3yQLbITMI+7xPYZhnWxQDS2DIZ+mec=
+gslb01.nlm.nih.gov.	86400	IN	A	130.14.252.50
+gslb02.nlm.nih.gov.	86400	IN	A	165.112.6.3
+gslb03.nlm.nih.gov.	86400	IN	A	130.14.252.53

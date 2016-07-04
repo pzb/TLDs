@@ -1,0 +1,4 @@
+ferndalemi.gov.	86400	IN	NS	dns1.easydns.com.
+ferndalemi.gov.	86400	IN	NS	dns2.easydns.net.
+ferndalemi.gov.	3600	IN	DS	55768 5 1 f6361a2ce021c5dd9531a17a44b07d7d40ed5cb5
+ferndalemi.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. hB0IRAcEhqlbT7ho3aamPX2XViEgv3ttm1Fn1OyhXfw6XhvP9JsMqCh3FlwRSQ+NLFsekDHtc6MbTvmKWvQN+yYSxTpV4Fki9lAtXiqa5SPhozkMGLwzMC/fQYKMRtmpGptXUg7ravID3uK6PUWveFJOjZTNsvgb+WP3DNZUya8=

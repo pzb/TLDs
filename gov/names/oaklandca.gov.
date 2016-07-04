@@ -1,0 +1,6 @@
+ckg5h56ns5ibjncfe81uohrdrmadb993.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. KvFbAfbV0ssDa0U6+/Y+sd2rez1NIlg/NT9fiQS33I74rC+Oc790JNfuH0RFhAengSzhoiCKJhwfc3B1sirWEt7g9JEsPHHwk4wl96+YLdRLN54WsEt5U4H7/vFmd5pvn+F5S45uDVYQCVtnaGoF5IydVEBEMrnY54LcFbVJMe0=
+ckg5h56ns5ibjncfe81uohrdrmadb993.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ckhiu1qfi5nmcjdefifgkp06ru6oilu7 NS 
+oaklandca.gov.	86400	IN	NS	ns-20.awsdns-02.com.
+oaklandca.gov.	86400	IN	NS	ns-701.awsdns-23.net.
+oaklandca.gov.	86400	IN	NS	ns-1517.awsdns-61.org.
+oaklandca.gov.	86400	IN	NS	ns-1858.awsdns-40.co.uk.

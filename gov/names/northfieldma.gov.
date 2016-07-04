@@ -1,0 +1,5 @@
+northfieldma.gov.	86400	IN	NS	ns1.infotech-maine.com.
+northfieldma.gov.	86400	IN	NS	ns2.infotech-maine.com.
+northfieldma.gov.	86400	IN	NS	ns3.infotech-maine.com.
+o5gsqfrg8idbaikd1ds5lr9qvgdkbt0q.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. D9hQTNaHziCboDcdwmPP02wL0gG6smvV7GfXL2fBTu0rpLT9CET9020i6nL/4jZJk8qBjeA+wEG/2TUmm2rW4vU888T2jBWWxoN91qB/cgr8t0eEOHuzJJk6XhVuSwANUkuqhPY8x9F0DhNXwh9QoY8RBrcNdfHVjSOzBi4HYYA=
+o5gsqfrg8idbaikd1ds5lr9qvgdkbt0q.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  o5hm25ngjpo46ql7nrpe767ckqe8v97f NS 

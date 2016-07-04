@@ -1,0 +1,9 @@
+fvse.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+fvse.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+fvse.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+fvse.mil.	10800	IN	DS	20950 8 1 a254ed7bbe34dafe6643fb709bbbe384891960aa
+fvse.mil.	10800	IN	DS	20950 8 2 61f2770b89f9cfd9abeac99601a3e3bbb8a04d11163f66cb188de2f4ec5e2895
+fvse.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. qgQB52K74J3BJeEfuS/lKlEAR2m/ij5FuHHksVziJUHq/50fOHjspO8WR+H4i4ujw8U285zYZ1EzMW9IwRpLDmNUV7ULQyDs3C3m5t0+TaMXqCBxA1ZKKFYwSaARG2YlgVZiiOkhGH6PYzvecce5PqS1zNMLVkN9YxU188pLSOHXFZ0=
+dns-pub-f1-u.pentagon.mil.	21600	IN	A	199.252.47.11
+dns-pub-f2-u.pentagon.mil.	21600	IN	A	214.14.133.11
+dns-pub-f3-u.pentagon.mil.	21600	IN	A	199.252.47.75

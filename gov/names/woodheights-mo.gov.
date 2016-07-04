@@ -1,0 +1,6 @@
+scl5rh0i1uh64vpq3kp92paini8ith9r.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. TClAr3OCmNgxuOZRC5lae9xX4RiagSizXKDGwbuTyB+Pv3NycNWtQlMwdGvNmCOBUQ2dhS8H1nF+gno6fqzWLEudnkywFk3Yern1DVkt//w8UbGOGhfJTAE9Ha0s5WqMC8+1CyVuzz8XvnbmHh0/2829yieh8LZvwDLm5arQOqE=
+scl5rh0i1uh64vpq3kp92paini8ith9r.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  sd69vfch0bdllq5ecgsbk3g3bj6g88d0 NS 
+woodheights-mo.gov.	86400	IN	NS	ns1.woodheights-mo.gov.
+woodheights-mo.gov.	86400	IN	NS	ns2.woodheights-mo.gov.
+ns1.woodheights-mo.gov.	86400	IN	A	207.126.52.224
+ns2.woodheights-mo.gov.	86400	IN	A	207.126.52.224

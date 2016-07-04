@@ -1,0 +1,4 @@
+cityofrochester.gov.	86400	IN	NS	ns1.prominic.net.
+cityofrochester.gov.	86400	IN	NS	ns2.prominic.net.
+ve21r6se7i90ai5k7u2ve304pmkgmf7m.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. L99P8Wow6+SgXENBQDgaYKRlRN6E6CkVKWV+DfmvEWEyfA15lWEo/bIZh1nm7z1YBZEtWN/mEnhGDDyTekxR+ghtt+bH4odphrM2YxwoUukeg1P7BAb6NoEKvHonBDEeIrxRr5xy/9DyUPwB53z5oyoivmEPl7+skUmJpxQeysI=
+ve21r6se7i90ai5k7u2ve304pmkgmf7m.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vei2a1fitamheg77ql1nf74c1h7qms72 NS 

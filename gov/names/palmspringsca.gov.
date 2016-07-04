@@ -1,0 +1,6 @@
+e640o1ktq13kfjto85vl9v0e6gte13f6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. r8u3lCgo6wglLDv180P/cyl6bTwQAwdRxqvRrd2AfMlBq0uZ41SzYoqyCVVWo3pDxlJTpWLzfUJbgrpsPcIJ/0wKw/H8XTLuvSmYyZ1WH3vmNlN4PfL+ytJwlPME3yX2UIIk0xFWhzao+5Nr8c0VSkUP4Mdt9kvbQ/SVjlHgzc8=
+e640o1ktq13kfjto85vl9v0e6gte13f6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  e6962pkpp1c432u8ectibkfej1rbo5q3 NS 
+palmspringsca.gov.	86400	IN	NS	dns1.palmspringsca.gov.
+palmspringsca.gov.	86400	IN	NS	dns2.palmspringsca.gov.
+dns1.palmspringsca.gov.	86400	IN	A	67.52.168.211
+dns2.palmspringsca.gov.	86400	IN	A	66.14.50.146

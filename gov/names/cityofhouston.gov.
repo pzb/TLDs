@@ -1,0 +1,10 @@
+cityofhouston.gov.	86400	IN	NS	dns.cityofhouston.gov.
+cityofhouston.gov.	86400	IN	NS	dns2.cityofhouston.gov.
+cityofhouston.gov.	86400	IN	NS	dns3.cityofhouston.gov.
+cityofhouston.gov.	86400	IN	NS	dns4.cityofhouston.gov.
+dns.cityofhouston.gov.	86400	IN	A	204.235.224.5
+dns2.cityofhouston.gov.	86400	IN	A	204.235.224.7
+dns3.cityofhouston.gov.	86400	IN	A	204.235.236.43
+dns4.cityofhouston.gov.	86400	IN	A	204.235.232.5
+t2gbk8i4elokfhohaqsnoqm7rm9pahlb.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fQ1GiSW72LkESyt0vO/e0Z6RQ0geud9QbvpP+Lzl+fvesJ1Y1SGLkTMyS0Gbx8+DIswCPpZUFokHrX2FM7AF6P9ksWQUR3JgnUYumMtzh9aOwzjOgU6b0xM6nn5YAu3qXWWsFkLZTfJ7Jk+J+E2XYUJZJ6Dvw9XPHjoyRUy+9SI=
+t2gbk8i4elokfhohaqsnoqm7rm9pahlb.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  t2jh5eddhkigt29bon0khccfi5te4u2f NS 

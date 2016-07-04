@@ -1,0 +1,4 @@
+glendaleaz.gov.	86400	IN	NS	ns1.glendaleaz.com.
+glendaleaz.gov.	86400	IN	NS	ns2.glendaleaz.com.
+goo9sj6ggi7bfg4f8uaar7gjg2dmvo9v.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. n2kgiU5EzIV0A5NSHxHIzYpVv5fohhpcju0B2CoUfXYMCEPiim6hSG6f2pf1W/e+pdkOvk2HKp7Ay2uXl492yY/aGBIyBQ7HHqg9cZ8BnA95l1LNsuO6oW7mCd52qIo+W+p3/0LBzPSqXxEM0zGzwzXJJPj3ExWu5FPGqGIaRnY=
+goo9sj6ggi7bfg4f8uaar7gjg2dmvo9v.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  goupa10f6p9dqrh1i5gah6uq2n76ma3a NS 

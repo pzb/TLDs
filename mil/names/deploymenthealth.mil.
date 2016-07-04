@@ -1,0 +1,8 @@
+ns01.army.mil.	21600	IN	A	140.153.43.44
+ns02.army.mil.	21600	IN	A	192.82.113.7
+ns03.army.mil.	21600	IN	A	130.114.200.6
+deploymenthealth.mil.	21600	IN	NS	ns01.army.mil.
+deploymenthealth.mil.	21600	IN	NS	ns02.army.mil.
+deploymenthealth.mil.	21600	IN	NS	ns03.army.mil.
+efpo2k3f6edal40bo656b3muvbd3bc19.mil.	10800	IN	RRSIG	NSEC3 8 2 10800 20160708161835 20160701161835 16413 mil. MHSLtQ/GvhqhUUQ1eNZUqeLSlg+cs9LS1rcrkym59XbrHw3020yoxuklHdZpTBF5vnPiqQ66t9sljmD+tdKIQAwklqXCoUsXK8Aoh5vJSiPu/J0qCCBYdFcvIqAIbqZqmzQFQGb2lGd1WI+spae2422mcqh2uePhLLUno8JYMzBtqr8=
+efpo2k3f6edal40bo656b3muvbd3bc19.mil.	10800	IN	NSEC3	1 0 10 adeb  ej7984t0gekbe86u74hjl3l9mjbvfqid NS 

@@ -1,0 +1,4 @@
+northamptonma.gov.	86400	IN	NS	dns1.civicplus.com.
+northamptonma.gov.	86400	IN	NS	dns2.civicplus.com.
+orfmk0lutq0cqq421l3kmvu6s0tqpu4b.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. QkeMEUBCKIqtqpeg+1GJyHX06sFzLay1l3k35o87f3YOUs+BOEW38mlGs6qYNDjpN99MRNQ3hCR6IqfTiIq5jH4KhaoW1nXYwMymrzBG9skdD1/mgCVhChP164M15JHeEWNTp4QozYPBe1FrZF6WORdrZpMCvTCQ3+9NBPxkJ8c=
+orfmk0lutq0cqq421l3kmvu6s0tqpu4b.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  orit0m732vq14vr8iq99m39m7vjcolng NS 

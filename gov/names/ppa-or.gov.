@@ -1,0 +1,4 @@
+cjtdcejflq8umkpkmhs4usfgjggvo9pl.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. vSAYUc2EZbHPw0CL2ZRQOIvb0KnN9wVtQTtibYxm+TYHZEmKtp2TKYnoSSczMeVsetsyA6o1vxcgLPd8Wgi5njwHd/a1hARdM98gnG4Ku9lPfIOT4DQtlJsCYpLv5zHIzwnEN4jLfjxi7bAFF/KUYrmwfoz4dET+qrv3GwdYAr0=
+cjtdcejflq8umkpkmhs4usfgjggvo9pl.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  cjti0rbrtiiu8i517vss5elvmmj2iuo6 NS 
+ppa-or.gov.	86400	IN	NS	ns1.verticalswitch.com.
+ppa-or.gov.	86400	IN	NS	ns2.verticalswitch.com.

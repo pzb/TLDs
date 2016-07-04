@@ -1,0 +1,8 @@
+bedfordcountyva.gov.	86400	IN	NS	ns10.dnsmadeeasy.com.
+bedfordcountyva.gov.	86400	IN	NS	ns11.dnsmadeeasy.com.
+bedfordcountyva.gov.	86400	IN	NS	ns12.dnsmadeeasy.com.
+bedfordcountyva.gov.	86400	IN	NS	ns13.dnsmadeeasy.com.
+bedfordcountyva.gov.	86400	IN	NS	ns14.dnsmadeeasy.com.
+bedfordcountyva.gov.	86400	IN	NS	ns15.dnsmadeeasy.com.
+k68andfin21disar6okerk6nnclcafht.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. HOM4+XO13KP6d8BYvwWJgKdT5dkIwTks8KkPUh8XZ4+DbNU4SBQd6AldoG4OJtd/VpAeopWBluDTBvT0LSUovDkTDkiLmh/P2dDM2rvHpc3VhbXa4fvA+PR2jk7iq3lzK3Y6NcoYhuQAcKWGN5nuS8oA7/Nhxbb6Xpvi19Qi6Zc=
+k68andfin21disar6okerk6nnclcafht.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  k6j18006hvg3dsq2g1cik4aqon9l2ine NS 

@@ -1,0 +1,4 @@
+10pf7nltbt93qfk193oe7b30n2cqn3v4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. PGajUXA1i3DBX2D/Dw0S5JlQ62Yq9ydGLNOUgc1LoqU05E31v2Wrj0PQkyrmGncrfzDz6KIPZ5QZFKqjS3JiijXrKnG2xGYIQd/XX7yTc5+uLdFNlusHPiVoVk5QUK378JIvn/wnsvZ0z1hgqY3eQWBd6JpKxnge85jCkVEgZx8=
+10pf7nltbt93qfk193oe7b30n2cqn3v4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  10r3vj6lpj50qu1dcp37qr1gvform2al NS 
+vitema.gov.	86400	IN	NS	ns1.westservers.net.
+vitema.gov.	86400	IN	NS	ns2.westservers.net.

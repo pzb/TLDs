@@ -1,0 +1,15 @@
+apps.mil.	21600	IN	NS	ns.jtfgno.mil.
+apps.mil.	21600	IN	NS	ns.cybercom.mil.
+apps.mil.	21600	IN	NS	ns1.csd.disa.mil.
+apps.mil.	21600	IN	NS	guv10m01.mont.disa.mil.
+apps.mil.	21600	IN	NS	guv10m02.mont.disa.mil.
+apps.mil.	21600	IN	NS	utindo02.csd.disa.mil.
+apps.mil.	10800	IN	DS	62275 8 1 298075b43b5b0606c3cafa52cf004f69b7ef5362
+apps.mil.	10800	IN	DS	62275 8 2 4411436793668d43b66c10005c246575ed6e98943823e4cdf879e80823b0254d
+apps.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. S9kfdxpDBCdL38I/yTAsFsGxIQYTkf6dFHzw0Rml3HlYKoIExG3EL8deYLyP3Dt6nk95KuGDayCEetbnftXYE8JOFDoaOqRJqPIzUngHFBjueiohqIiscbbWpnyMJmIpVL7EZEx6GQX2eoy2Xmqx/54IJaduNWdRIDt9Y//XKNLwJGg=
+ns.cybercom.mil.	21600	IN	A	131.77.60.235
+ns1.csd.disa.mil.	21600	IN	A	152.229.110.235
+utindo02.csd.disa.mil.	21600	IN	A	152.229.110.236
+guv10m01.mont.disa.mil.	21600	IN	A	214.3.160.20
+guv10m02.mont.disa.mil.	21600	IN	A	214.3.160.21
+ns.jtfgno.mil.	21600	IN	A	214.3.125.231

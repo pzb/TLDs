@@ -1,0 +1,4 @@
+kinderhook-ny.gov.	86400	IN	NS	ns1.infotech-maine.com.
+kinderhook-ny.gov.	86400	IN	NS	ns2.infotech-maine.com.
+s04rfcjdnb96jd0d1bttv449u7lv7jp3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Kf9fJHWF7ExaU3KY3k8GehkL2wuZSlgyDVOIjKtgz7xzVSTlH+C9gI0DiaJufw796x1ezEthht/WVk/SLfchu6ZW0f9j6WIYrJcOyYXHv92Pq1JgoU1GLCE9OqV0ydsHPiLghHQtlVBwLVRaJ9vP2Jpnz1J0Y98uC+3zdqZIZtU=
+s04rfcjdnb96jd0d1bttv449u7lv7jp3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  s06es3rk1aq99s0i3qg2ff71gb7ni30e NS 

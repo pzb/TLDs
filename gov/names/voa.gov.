@@ -1,0 +1,8 @@
+voa.gov.	86400	IN	NS	eur6.akam.net.
+voa.gov.	86400	IN	NS	use5.akam.net.
+voa.gov.	86400	IN	NS	use9.akam.net.
+voa.gov.	86400	IN	NS	usw2.akam.net.
+voa.gov.	86400	IN	NS	ns1-63.akam.net.
+voa.gov.	86400	IN	NS	ns1-227.akam.net.
+voa.gov.	3600	IN	DS	55053 7 1 8f791adfee26644c7c663e42f69bd4edfa8a27ed
+voa.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. UyuuyVK6in2xN1deulBKXh+g9vJag3TiNFcsjrvWy82fNGhFSs5qn1Wv8JAdJC7xszoGSUfQxvM3exw4IlYcNLMyQdYS0W8fQpBo5821tBS/wLVJ+KmXlnKAuisXSUQI52Er/LUiFXcke7ZZ8k8kPR8iat6RzcFB3IZtPFRGPhY=

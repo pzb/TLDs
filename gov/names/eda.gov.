@@ -1,0 +1,11 @@
+gpaens2.doc.gov.	86400	IN	A	170.110.225.13
+hchbens1.doc.gov.	86400	IN	A	170.110.225.11
+eda.gov.	86400	IN	NS	dnssec7.datamtn.com.
+eda.gov.	86400	IN	NS	dnssec9.datamtn.com.
+eda.gov.	86400	IN	NS	gpaens2.doc.gov.
+eda.gov.	86400	IN	NS	dnssec10.datamtn.com.
+eda.gov.	86400	IN	NS	dnssec11.datamtn.com.
+eda.gov.	86400	IN	NS	hchbens1.doc.gov.
+eda.gov.	3600	IN	DS	25540 8 1 6529086dfba3bd5b858cf16f353341fc73b521ea
+eda.gov.	3600	IN	DS	25540 8 2 9e3e63f0ceb6e99ff4ef5222aac961a306e5372303368d2a948826c12e158f56
+eda.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. kc+fTmFhS6MrIqw+EcGsq7o/do+Qb1j6hwBmZsboWuqJX93puDAQPQC1NFEfk6VclFTblWRwb5OAfNnbvM5vvbcIboPE+DB4MwAKyORQT/VqsqAbwIysVX/1b8X9a6OTJNKT+S+IAgEO0mDg+paVn06LCkXTh2OldqBWiS5sEEU=

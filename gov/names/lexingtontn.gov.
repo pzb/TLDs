@@ -1,0 +1,6 @@
+3jkt8q1pvf64bf1r8gprni9jms9laf5g.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. kf903DH3sUQJOs9aIKSFMmUsHSDK0BnlmBlZbQVMfK0CiaqPs0NW4kIw3LA23Z67VsgHfjc2h9KFARY2HekwzZgdxtZo2m/ZjJwf0p5RsMFzyZCim/pPfjboqunUrl1ZcXTiGnyHlg56nKU1zAjypBSmUa5nlPiw4QQ+rG7Vro0=
+3jkt8q1pvf64bf1r8gprni9jms9laf5g.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3jqptmrd6aic88rhspkijfavktcihh03 NS 
+lexingtontn.gov.	86400	IN	NS	ns-223.awsdns-27.com.
+lexingtontn.gov.	86400	IN	NS	ns-850.awsdns-42.net.
+lexingtontn.gov.	86400	IN	NS	ns-1529.awsdns-63.org.
+lexingtontn.gov.	86400	IN	NS	ns-1627.awsdns-11.co.uk.

@@ -1,0 +1,4 @@
+41n5vg57h4j4pplnd34eesi4m6bnpg9v.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. F/MXbNXGntanpcgM0sJvqHBxa78GLVVNTSyehg82caCwMM0A5nB3vcHGxwA8t2mNBJPRIyWqNbfJDokCYUFHW2PglJyudz1+MSYZnehb0pkTkPPx+Ze+2ESUpkHuk7q37Z01gW1fM/FXG/isqPHqgLR1MRaUsRaM6XJhg8OU0y4=
+41n5vg57h4j4pplnd34eesi4m6bnpg9v.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  41opl1qsj6s5bg5ogpmlp89q4lct1rav NS 
+sumtersc.gov.	86400	IN	NS	dns1.vc3.com.
+sumtersc.gov.	86400	IN	NS	dns2.vc3.com.

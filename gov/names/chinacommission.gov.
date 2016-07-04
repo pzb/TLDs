@@ -1,0 +1,4 @@
+4f0a4t778apjd825j023e90cqipi9cq9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. pnOppr4tImwuB99Nbviqesk6aG2ZSKS3AwQt84H3QDcBcmxAwtnGhfTwI9NxETjj2TXctJQpmJhOVIliGFaFKE/E5wHk6gleXgIfYXvhzE7wARzNe+xguc0jq1RwkieClzQmmKFuzPb+w6IXxdCcHChy392oY7Rj2fPFoaamUtA=
+4f0a4t778apjd825j023e90cqipi9cq9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4f21fb768gq5k3b11eckircsc3vro3rq NS 
+chinacommission.gov.	86400	IN	NS	ns1.blackmesh.com.
+chinacommission.gov.	86400	IN	NS	ns2.blackmesh.com.

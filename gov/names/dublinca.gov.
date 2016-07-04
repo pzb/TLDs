@@ -1,0 +1,8 @@
+dublinca.gov.	86400	IN	NS	ns1.dublinca.gov.
+dublinca.gov.	86400	IN	NS	ns2.dublinca.gov.
+dublinca.gov.	86400	IN	NS	ns3.dublinca.gov.
+ns1.dublinca.gov.	86400	IN	A	173.164.236.161
+ns2.dublinca.gov.	86400	IN	A	209.172.109.141
+ns3.dublinca.gov.	86400	IN	A	67.203.148.206
+u90q5q0q1be1mfspfhhqpe2rkuc0qhtr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. C8hAxo4Ix5YXahQtFQCECzytr3rKTvH9iy86UeG4yqczg8bY2e3123GXwEjUw/Ihj3nWW+Yj1IEfL8CfSpwGMHVYTHGQg3aoDvBBxeXwgELRqGo/6CB6u9VIFlFfMwf0rWeupSMCC6pxyLI2AXeNGQ8Jvq3SVJ8ipLWC8iyar/U=
+u90q5q0q1be1mfspfhhqpe2rkuc0qhtr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  u9496d7eald8171mp90td7sa74g1o93h NS 

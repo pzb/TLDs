@@ -1,0 +1,4 @@
+vb8e3tdho1b940u0422o6k0lng7ktosq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. vGq0iwRZ1raeR7P3avkJnpUf5rQnlh92h1g73iwAOVLxgYWkdsgOrXorqGfNkRSscMBuZKks8i6OVpEpyjJ3jyxCSxU6xcSSq494r6cZ6/clei8ANPjSdlQVgOHhKDqfNKKhpLdv1k67APWdRIyMHphMoh1OV2+6ZhGnryngeRc=
+vb8e3tdho1b940u0422o6k0lng7ktosq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vbammtv3mvjuhg9i2jde4c5desncu5mk NS 
+wvtax.gov.	86400	IN	NS	dns.state.wv.us.
+wvtax.gov.	86400	IN	NS	dns3.state.wv.us.

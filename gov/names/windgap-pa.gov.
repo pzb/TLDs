@@ -1,0 +1,4 @@
+qqik7nqlki3obd1cadp4ol84k7nsv3v5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. OClJsJZXMEhQ8eiBUdmnl2vvaYY80LUHmnitkG1orvj4djwkPYSxvrycGXPCGGBSNp04RsdRe5HruoEWLmadxcAwaFkJhXMKGUsX5x5cizyZqYKAApjx9/clySQ703l2KP28biD8GQFGCG23wi3Zowk9WR8yQocOPj+6Wvz7sTs=
+qqik7nqlki3obd1cadp4ol84k7nsv3v5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qqp7sv7povl1ms5fh87uut1o3t0thqsr NS 
+windgap-pa.gov.	86400	IN	NS	ns5.secureserver.net.
+windgap-pa.gov.	86400	IN	NS	ns6.secureserver.net.

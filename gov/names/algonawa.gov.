@@ -1,0 +1,6 @@
+2qspcr5b8184p2d0fq5refh7g6n8ne56.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. sx6YA8QlVNd+YtdAIAll+VivyRJz4jv9zE5JVmtYOTAjePyjqLWFyCIeH38+w8/i00LmWrUBjObC1cQyzya52EahYUZw6jla4wBuT0HQZS+IIZmIHTv+0DDUBkeQvxW22E11OTAQZ+DrK6BEHjXqNwjbu9hrF3pLi07fNGqXxAo=
+2qspcr5b8184p2d0fq5refh7g6n8ne56.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  2rce3nfmc8kueudohe0ik9kui2egrma1 NS 
+algonawa.gov.	86400	IN	NS	ns-207.awsdns-25.com.
+algonawa.gov.	86400	IN	NS	ns-541.awsdns-03.net.
+algonawa.gov.	86400	IN	NS	ns-1378.awsdns-44.org.
+algonawa.gov.	86400	IN	NS	ns-1967.awsdns-53.co.uk.

@@ -1,0 +1,4 @@
+6famu19qu5jl9p0e7g8dsia2mdrr2feu.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. DpB7ZG0WPnTzEDuSDyJPWe9rWdJdugDdNbQ9/anzyeabD0hJULhGQHxTjufO9OnrT5mO3CjhUeCgV0XEtG/y+LbiNVdEZOKNulXjBATi1/vTzxRLFWzx2N6jYtgAEDyDo/CKWW8G+Eb0cl3ctt1TVnMHFJ17AbnuICXa1tPj4Gk=
+6famu19qu5jl9p0e7g8dsia2mdrr2feu.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6frards00o0caaj387ds5f5smcbr3nvo NS 
+logantownship-pa.gov.	86400	IN	NS	ns1.avenet.net.
+logantownship-pa.gov.	86400	IN	NS	ns2.avenet.net.

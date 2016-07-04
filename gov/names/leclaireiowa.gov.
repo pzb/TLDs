@@ -1,0 +1,4 @@
+av516lk4vblorq4jc56cc4q8rndis7v4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ZvJRcEEHVGUwsyOde1+8UioGdftf/wQ+lDDaULtsZJbyg16p1j3a46Wn9gtqXVcnQlGWb8pqwmXkg/Ulz/tkJNNO1z3iS628yjf+TRqnwTej98x8W5/S/QZM+Ei4vuVuz/X/PFlBhlIh9eAgqBWL10UHEqSpmkob49kLbGRqC4I=
+av516lk4vblorq4jc56cc4q8rndis7v4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  av5a088qvjr0rh1nrdn8alip79udor2s NS 
+leclaireiowa.gov.	86400	IN	NS	ns1.netexpress.net.
+leclaireiowa.gov.	86400	IN	NS	ns2.netexpress.net.

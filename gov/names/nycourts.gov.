@@ -1,0 +1,12 @@
+nycourts.gov.	86400	IN	NS	ns.nycourts.gov.
+nycourts.gov.	86400	IN	NS	ns1.twtelecom.net.
+nycourts.gov.	86400	IN	NS	ns1.fibertechdns.com.
+nycourts.gov.	86400	IN	NS	ns2.nycourts.gov.
+nycourts.gov.	86400	IN	NS	ns2.twtelecom.net.
+nycourts.gov.	86400	IN	NS	ns2.fibertechdns.com.
+nycourts.gov.	86400	IN	NS	auth1.dns.cogentco.com.
+nycourts.gov.	86400	IN	NS	auth2.dns.cogentco.com.
+ns.nycourts.gov.	86400	IN	A	207.29.128.4
+ns2.nycourts.gov.	86400	IN	A	207.29.128.21
+u14mkbgf808vbq094e2c3qc9v6mdadq6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. XqBMgARkaN6qUGbmshzLvevIp7RI1G73X/Bc1xamIdq9PMJa2d9Jw6bsv6eWdS3W1yhOHga0u7gm88xp58vmvIhxciE5dPch8lLcvy1AKfPMJlAaioZG3owUfUGEZu87l7MxUd+LQ+PIDOhmHDKhn4Djr3SfYJYw8HCP6Vk+E/Q=
+u14mkbgf808vbq094e2c3qc9v6mdadq6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  u1dheu9d8qtmippu7hhpi90rgg4css3c NS 

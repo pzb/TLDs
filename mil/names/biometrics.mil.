@@ -1,0 +1,7 @@
+biometrics.mil.	21600	IN	NS	ns1.biometrics.mil.
+biometrics.mil.	21600	IN	NS	ns3.biometrics.mil.
+biometrics.mil.	10800	IN	DS	7501 8 1 02eef68487176373f85de31bf47a17aeb67fd685
+biometrics.mil.	10800	IN	DS	7501 8 2 8140b9ddb678b74357dbbe73b243dbb17ca54cc0fd80556216e3f8190b98768f
+biometrics.mil.	10800	IN	RRSIG	DS 8 2 10800 20160708161835 20160701161835 16413 mil. aYvtbLm86DdVIcVgspICPQgoGDlQtzPAHu1XIPvNVLFdDKIyNmfWlDcVN0G4UeVv0LmgYezalypqx18e127BIsEnz0+a7/kM6ZQh2yEMbKySExXZ5gBn9fjxJ6yyWgOd2H0BIJNfkX8DxgVgTSt9kgknZY81tKH/TiiNZ/cU8usT3gM=
+ns1.biometrics.mil.	21600	IN	A	214.25.86.157
+ns3.biometrics.mil.	21600	IN	A	214.25.86.158

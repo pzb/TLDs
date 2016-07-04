@@ -1,0 +1,4 @@
+nib.int.	86400	IN	NS	ns1-fin.global.sonera.fi.
+nib.int.	86400	IN	NS	ns1-swe.global.sonera.se.
+nib.int.	86400	IN	NS	ns2-fin.global.sonera.fi.
+nib.int.	86400	IN	NS	ns2-usa.global.sonera.net.

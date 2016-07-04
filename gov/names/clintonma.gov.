@@ -1,0 +1,7 @@
+a68pnb4mjm499d67uittb7tskq8g2fho.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. vVMwc+eubJ1U8gsUyTW2JR1rpK8jzN6gc7sKr2NmK10EAYb5mApEIiz8UgCtk8wp943l++I0YKLMDHfnG3dgqZ+pipcd/WsJUFUN3ArIH2UfJB32YkBdgantdb3T7ZYqdvoRXkOGUAND1LjjYkh8ZhLlfVWXT/drfusJmQdediQ=
+a68pnb4mjm499d67uittb7tskq8g2fho.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  a6b0l3ejau304ulkgjguk9o7q1gfvran NS 
+clintonma.gov.	86400	IN	NS	ns0.dnsmadeeasy.com.
+clintonma.gov.	86400	IN	NS	ns1.dnsmadeeasy.com.
+clintonma.gov.	86400	IN	NS	ns2.dnsmadeeasy.com.
+clintonma.gov.	86400	IN	NS	ns3.dnsmadeeasy.com.
+clintonma.gov.	86400	IN	NS	ns4.dnsmadeeasy.com.

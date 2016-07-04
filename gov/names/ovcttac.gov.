@@ -1,0 +1,14 @@
+ovcttac.gov.	86400	IN	NS	ns-jdcd-01.usdoj.gov.
+ovcttac.gov.	86400	IN	NS	ns-jdcd-02.usdoj.gov.
+ovcttac.gov.	86400	IN	NS	ns-jdcw-01.usdoj.gov.
+ovcttac.gov.	86400	IN	NS	ns-jdcw-02.usdoj.gov.
+ovcttac.gov.	3600	IN	DS	46654 8 1 1e2cd0f63b78cfe99d6f68992dcae583c344b808
+ovcttac.gov.	3600	IN	DS	46654 8 2 fff243857f56f9585c1501ab1a221e604b9d1448b5514f6b708785bb8f27b4e1
+ovcttac.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. PTg8UsBff9v+WMLnc6rGB2/0/eNUtM27WoUwqvxI/0JGEn4jwe71O6Mf0QEDl69rlFetfsHfdbDv7N/3XNtnGd3etKyrBuAIp4B4lvQUYqbQ7KhV1pWquhI6ngjp1R5X6XjcsXf2tZzw31CHSJn8B5hWbu7FQtaXroONqY4sdbE=
+ns-jdcd-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcd-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcd-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcw-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcw-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-02.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::6

@@ -1,0 +1,14 @@
+ahcpr.gov.	86400	IN	NS	rh120ns1.368.dhhs.gov.
+ahcpr.gov.	86400	IN	NS	rh120ns2.368.dhhs.gov.
+ahcpr.gov.	86400	IN	NS	rh202ns1.355.dhhs.gov.
+ahcpr.gov.	86400	IN	NS	rh202ns2.355.dhhs.gov.
+ahcpr.gov.	3600	IN	DS	35418 8 2 60c37a3a01e28841b6654cc1e3cc70ddbd2b55c86988b66c913460ad3af0991a
+ahcpr.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. u3euqADOpXD5LjIiIoERNF5xQjzQ4nmFfxqEhce+I2K/hFmCgTGoh+Nkrmb1sXk4a4bGtFAO5yayITb71x961B4Yx9N/0F4Sv6D0W+alsvN7VtNadO1BRmDfiWrRdnLsNvxl0MRJYTvAmOJpOaqdHV4wkhvfo3pzSzVScfNPNtc=
+rh202ns1.355.dhhs.gov.	86400	IN	A	158.74.30.98
+rh202ns1.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2a
+rh202ns2.355.dhhs.gov.	86400	IN	A	158.74.30.99
+rh202ns2.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2b
+rh120ns1.368.dhhs.gov.	86400	IN	A	158.74.30.102
+rh120ns1.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2c
+rh120ns2.368.dhhs.gov.	86400	IN	A	158.74.30.103
+rh120ns2.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2d

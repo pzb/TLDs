@@ -1,0 +1,14 @@
+smart.gov.	86400	IN	NS	ns-jdcd-01.usdoj.gov.
+smart.gov.	86400	IN	NS	ns-jdcd-02.usdoj.gov.
+smart.gov.	86400	IN	NS	ns-jdcw-01.usdoj.gov.
+smart.gov.	86400	IN	NS	ns-jdcw-02.usdoj.gov.
+smart.gov.	3600	IN	DS	45130 8 1 1faf2c3a9361b3a91c0d2ff2ed05f6d82114bbba
+smart.gov.	3600	IN	DS	45130 8 2 8d1897980a2a897551df9190c26ce4db98734e44628618a31108a6cfb693175b
+smart.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. BTGtU+wuoVBOqknHGfmkZ41lVCJJSRpoHseuy2RmHSrYC+IddWZfZivYrLk+8Sh6CQpvRDpUzlLqHslMazcol2iaxGGhEGQ2rGdcBKYyln6xNevZxiPzI0LcP2Xw15MS4vBhCuBB6Gjhb65rIF4TBjTUFaXMsQt4e9JpMN1SpvU=
+ns-jdcd-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcd-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcd-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcw-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcw-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-02.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::6

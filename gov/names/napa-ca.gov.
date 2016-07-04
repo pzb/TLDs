@@ -1,0 +1,4 @@
+0so9i8ia27njulghgf0rlv2mqtshcrck.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Cao2CqsnqaKf6/upSErFAqgN+YCxekMh7kFCk6NtEbgZEO3MaNDB/Go5sY72EDpmZcKzs+eeXHLHnLH+i8NCrvVD7+SYaPvk4f37y9m6NoLB1Ud6qBZo82aOqkFEWOOUPFfy5Uu0Wbf0NqSRXJGPDA7oHTapMumQprvirW9uD2w=
+0so9i8ia27njulghgf0rlv2mqtshcrck.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0sqa169u8rphnqj76qmp6rssntthp7l5 NS 
+napa-ca.gov.	86400	IN	NS	ns1.pbi.net.
+napa-ca.gov.	86400	IN	NS	ns2.pbi.net.

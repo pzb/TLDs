@@ -1,0 +1,7 @@
+hispanicheritagemonth.gov.	86400	IN	NS	ns21.loc.gov.
+hispanicheritagemonth.gov.	86400	IN	NS	ns23.loc.gov.
+hispanicheritagemonth.gov.	3600	IN	DS	54355 8 1 b520d311184f5c688ace5fe7b1186ba3f6706e1c
+hispanicheritagemonth.gov.	3600	IN	DS	54355 8 2 d8e7c296d79173765ce6cd126c69d2a3a97f8abc5b018560f68cbd9b9c134aa7
+hispanicheritagemonth.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Dqo1/+gp0dGdcO+M3zAeeUCYJ5wmC7bWyOo3AKRyviJXR8Gno92ynHzobN0eaO0txJf2Asumcn5kHPxtipdSRA7r8l06UjJDO/pY7duVYpOODgV9rX6S5DSgKrfM8ms5ZIlmhP8V8KuRFF074ry78fJpCWnJ3EiexnXKov7XH14=
+ns21.loc.gov.	86400	IN	A	140.147.32.166
+ns23.loc.gov.	86400	IN	A	140.147.239.150

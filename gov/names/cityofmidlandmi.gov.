@@ -1,0 +1,6 @@
+cityofmidlandmi.gov.	86400	IN	NS	ns1.mercury.net.
+cityofmidlandmi.gov.	86400	IN	NS	ns2.mercury.net.
+cityofmidlandmi.gov.	86400	IN	NS	ns3.mercury.net.
+cityofmidlandmi.gov.	86400	IN	NS	ns4.mercury.net.
+oacasa0shfdim405vd4ou7nrl3mmgcgm.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. lME7ZHXLH+tSXTdcjK9kqfIMUEKoHxj4FClZDaYN7CtJnUFyGZdIirn5HIn8FVwBEx0EulG9gcSMG9zjxxfLdtx0LHdiiLCAVsX9u4NU2u3Um/oPYw8R8TCrSI/4l0e45ydya2waA4CY5pUBeHUZAub/0yOHU/gFFHwKnOt0fPY=
+oacasa0shfdim405vd4ou7nrl3mmgcgm.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  oah11al0gn6ugmabkad0ldtgdqh9qj65 NS 

@@ -1,0 +1,5 @@
+3dsbrnbn30e72902l4hikl9voki2rd45.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. cDoJVcoCqk4O+dC23tE6+sdylWlH0tDMb2PBXz4DglMv895CA0eXrvFv+zKMTscxHZStOyQFitSJ22AvP/y1JYMQGZ1HRh0PIls3OI71KJZdkHGp8wCnd+L4zqx0q1Iy8IF4kCx1Rzp5x6sP6h7pUa4Kt9R/aG6OsQtu+we4SpU=
+3dsbrnbn30e72902l4hikl9voki2rd45.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3e26lgdp19eredupi4jh29ja5j0o58bd NS 
+marionma.gov.	86400	IN	NS	ns1.infotech-maine.com.
+marionma.gov.	86400	IN	NS	ns2.infotech-maine.com.
+marionma.gov.	86400	IN	NS	ns3.infotech-maine.com.

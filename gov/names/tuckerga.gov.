@@ -1,0 +1,4 @@
+dsf3l2ah1apjgea9vbro3p91iikfbra9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. S3GXw4TYOhPXG9X8YAnNERpE4g61nAh+xH9VEJnBV3Lb0aJgAswMevdAf+h5G8GN8Q9Yo0mL/zmDxnSiHgsnbMdacPCWkSvgV11v41PJ0y9XWZ7Rpq1qE/PdGpQgjgtr6Om5ZW9kAGHWNU4WcrLNrleZc+/PjCds0hcVzCiiRsg=
+dsf3l2ah1apjgea9vbro3p91iikfbra9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dsh6camp2dops552g64ksvdit6im0hcr NS 
+tuckerga.gov.	86400	IN	NS	pdns07.domaincontrol.com.
+tuckerga.gov.	86400	IN	NS	pdns08.domaincontrol.com.

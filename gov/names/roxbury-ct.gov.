@@ -1,0 +1,4 @@
+avkpkl90fdlv118indc6khsfs4una0ae.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. SKhFLCUOQL4YBxic80fh2Xs0bkQVaeVFjlg8UDhTJTLK3dTKeDa2TsZoKq0qFtB7UqvTstLRbmfPa3ng8wdK8YeG/EIZMjMBXidSEj/budocyNt9uff++DiD6OjL2bGp6lvFeMujAw229dWglwmSiWZjnlqmU3CureJjIjov2fA=
+avkpkl90fdlv118indc6khsfs4una0ae.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  avpsacsfo06k8cf1dtpb9nethptfg0u8 NS 
+roxbury-ct.gov.	86400	IN	NS	ns1.infotech-maine.com.
+roxbury-ct.gov.	86400	IN	NS	ns2.infotech-maine.com.

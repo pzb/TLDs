@@ -1,0 +1,4 @@
+30s0ramcbom4a175qe6l8sucbrnc21lu.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Nq+I5idgSKT2LQmi596b+YexR2HPH4mrxEXmB/rYgzJ0kSIg6HATXxCKVLuPknQbMSfKXx2I6DCV29TH6BPB9J24yJRYPg8OvLA20oZBbrlSUNOXI3IRwBpayDFVEBhm7iXeKK/s6QAnJmRGcbW3mWblEPlzcvfBrmSWhZJa/eo=
+30s0ramcbom4a175qe6l8sucbrnc21lu.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3137ftgqtg7p6lm820gohtjq91cgenuh NS 
+edgecombecountync.gov.	86400	IN	NS	ns1.state.nc.us.
+edgecombecountync.gov.	86400	IN	NS	ns2.state.nc.us.

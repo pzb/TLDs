@@ -1,0 +1,4 @@
+4otvbrdd833ous7osi71aavgm8bchu0t.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. G5oxJgQmVyu6DkpZ2isLuYJ/skpivsIwiGvg7VBEhDGc7IH3ah3XpNeh/BRHSQP8QEiVaUUnTDOax8ER7v3MYdKrlQJ9BJhUEmrsqNtC3KFDD7U32z8JzZQwODqbVyHp91NPWS7kCoWDZFnBI+43CqJNOtar3G6QKeQDqeekbOM=
+4otvbrdd833ous7osi71aavgm8bchu0t.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4p5vehfkjjuamh2psqoaai82lmr7geua NS 
+gallawaytn.gov.	86400	IN	NS	ns1.worldtechms.com.
+gallawaytn.gov.	86400	IN	NS	ns2.worldtechms.com.

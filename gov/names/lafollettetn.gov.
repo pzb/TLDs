@@ -1,0 +1,4 @@
+lafollettetn.gov.	86400	IN	NS	ns1.bluehost.com.
+lafollettetn.gov.	86400	IN	NS	ns2.bluehost.com.
+odo62qq1p8ieqhkmf6f1bpig3ddkrb2u.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. gVxU5zNgrOepHq8iT0I5No/mH+EEn864O5ARhiaWvCcWTCkiTiBWOOa97YUDbtzyrkoXFULYDSqZeMwmJJj2YUI04npYrBjwPmKShqesVkb+GHXmS8y032qkTdoxMnZuGN5ijk8MRb/kzv3dzF4v8SpIF2uW/1odhZ6rboupuUc=
+odo62qq1p8ieqhkmf6f1bpig3ddkrb2u.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  odrilhi4i6avm2h3rr7lb9ghr153amjq NS 

@@ -1,0 +1,5 @@
+vermonttaxamnesty.gov.	86400	IN	NS	ns1.state.vt.us.
+vermonttaxamnesty.gov.	86400	IN	NS	ns2.state.vt.us.
+vermonttaxamnesty.gov.	3600	IN	DS	28375 8 1 7f58e93145f4b33f94381596c410a2a01452bef1
+vermonttaxamnesty.gov.	3600	IN	DS	28375 8 2 a68c5694b08c2e9fccb87afdf0ae44f79b81a5cb378cf60db463903e0b59e935
+vermonttaxamnesty.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. X2tMlBWPCxdxyVfxxEjQ+kltSzNNxZ4nu96/OYcSj5uvhxEgCNOJ+gRVzNEz3r5DEk87q3YxyM37mYyOUXvM/S3l8HM8kNVbyJYujmpZ6P7tZP+UGXrk/VylgYqi4okOcs4/OFeN2NV8FGWE2LpQYmO9Qx25dnJuGSqGXpRF3IM=

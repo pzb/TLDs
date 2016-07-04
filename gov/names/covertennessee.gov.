@@ -1,0 +1,6 @@
+235326rr28ngn6qg3g6ptck617657fht.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. qylXcxqVWHbFFWk5aOPqeEXpreI4Nr+x2EAk2BZIHN29XLN7OFgsk5Xphjk/KuPJiM9yBCoXkvqXTXjceqhbXFVd3hGTi42Xd6jnzJTiYT0lYFGaq22gQlKDcxYsMrZnh0wgqtU0g+ozZD7T05mNtHfYpX5JYB9HRmy822xD4To=
+235326rr28ngn6qg3g6ptck617657fht.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  235mqiv23gis0b2bapfg6oi86olp6jq9 NS 
+covertennessee.gov.	86400	IN	NS	dns4.tn.gov.
+covertennessee.gov.	86400	IN	NS	dns5.tn.gov.
+dns4.tn.gov.	86400	IN	A	170.142.92.58
+dns5.tn.gov.	86400	IN	A	170.141.168.22

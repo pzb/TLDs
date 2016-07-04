@@ -1,0 +1,15 @@
+socialsecurity.gov.	86400	IN	NS	dns1.ssa.gov.
+socialsecurity.gov.	86400	IN	NS	dns2.ssa.gov.
+socialsecurity.gov.	86400	IN	NS	dns5.ssa.gov.
+socialsecurity.gov.	86400	IN	NS	dns6.ssa.gov.
+socialsecurity.gov.	3600	IN	DS	33588 7 1 4b4b77a01746c6f0658d10fec2d430c0a13172d8
+socialsecurity.gov.	3600	IN	DS	33588 7 2 3da6bf9399e80edc67b1f08ae7c5915b8bc5a584926649cb101e7e89be2dad84
+socialsecurity.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. XYoH9V64ZceN8b6soCO4y95m0GxjzkuuJx8cl5zdlV/KjpmQq+cvMu/Fdqfus6l+AawcKK0rNtnqxrRostdwJ57/AbvXbkyek2vW/Xz+DH4SiUFSELiqjlwonq9e611aGzGDja9POMbw2mj5kNEz4f5tsgfDRhncfcc3dGZl15M=
+dns1.ssa.gov.	86400	IN	A	137.200.43.8
+dns1.ssa.gov.	86400	IN	AAAA	2001:1930:d07:1::8
+dns2.ssa.gov.	86400	IN	A	137.200.43.9
+dns2.ssa.gov.	86400	IN	AAAA	2001:1930:d07:1::9
+dns5.ssa.gov.	86400	IN	A	137.200.4.30
+dns5.ssa.gov.	86400	IN	AAAA	2001:1930:e03::c
+dns6.ssa.gov.	86400	IN	A	137.200.4.31
+dns6.ssa.gov.	86400	IN	AAAA	2001:1930:e03::d

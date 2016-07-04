@@ -1,0 +1,5 @@
+eurofish.int.	86400	IN	NS	ns1.gratisdns.dk.
+eurofish.int.	86400	IN	NS	ns2.gratisdns.dk.
+eurofish.int.	86400	IN	NS	ns3.gratisdns.dk.
+eurofish.int.	86400	IN	NS	ns4.gratisdns.dk.
+eurofish.int.	86400	IN	NS	ns5.gratisdns.dk.

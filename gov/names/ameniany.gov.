@@ -1,0 +1,4 @@
+ameniany.gov.	86400	IN	NS	ns1.bas-beta.com.
+ameniany.gov.	86400	IN	NS	ns2.bas-beta.com.
+bmk6ma8onagohdd9obkrjsunvftmb1tl.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. A27RjVehfDOfajUHU9mgegHEarkmMqOh7Qrqdy1kMc1T/NObTG2llI878Ip3h4kcLWl6MR0xan0fioyXfSH5T9eVreDoSYE3WrT6DRlsyIBvdvbgJGmVn+YSyDaDZUwRb5fRvUqfBP6G4p4ISa7GxjAHvV8EPgkxzgqUrULbtVE=
+bmk6ma8onagohdd9obkrjsunvftmb1tl.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bmnivp67o6j8ndg95eohskbu4k5lvm5g NS 

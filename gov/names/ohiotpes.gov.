@@ -1,0 +1,4 @@
+2nvjhgk4db2muv2sg4kb8fps1qedrppv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fz35PYblaVKar+nDCZ4Dhls99BW23s+nDgdAkqIFiaepg/k8WAC6peGIQunV2337VTklB+gX9zEWSy+PhBdC/mDwpoynX9v1nqOtGlf82Bsjn8dx84a9AMp+pEuu7FbHRlZXL0e7U7DhpMG0vLdnwx7gWvDP0UmcoS66V2NMdGM=
+2nvjhgk4db2muv2sg4kb8fps1qedrppv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  2o5lo509ht6mq1fvjfnc69le2vfk11rj NS 
+ohiotpes.gov.	86400	IN	NS	ns1.state.oh.us.
+ohiotpes.gov.	86400	IN	NS	ns2.state.oh.us.

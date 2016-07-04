@@ -1,0 +1,2 @@
+icmp.int.	86400	IN	NS	dns-srv-01.lol.ba.
+icmp.int.	86400	IN	NS	dns-srv-02.lol.ba.

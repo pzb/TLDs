@@ -1,0 +1,8 @@
+ncsc.gov.	86400	IN	NS	a1-22.akam.net.
+ncsc.gov.	86400	IN	NS	a3-64.akam.net.
+ncsc.gov.	86400	IN	NS	a12-65.akam.net.
+ncsc.gov.	86400	IN	NS	a13-65.akam.net.
+ncsc.gov.	86400	IN	NS	a16-67.akam.net.
+ncsc.gov.	86400	IN	NS	a22-66.akam.net.
+ncsc.gov.	3600	IN	DS	34249 8 1 c062b7f8797cd38f35a2695f6dcf9257859404c0
+ncsc.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. siIECaag2J2bcGep8bB2jr4v3hPXsXlGLE4k28TQgWUA+y1Chhb3a6BQIS6MAt/8pMV3vhA1dJIcNmK8SKSupWYIPE/zQFhRXaEdcVtBYLWhYm1gW5bo7DajrUOETAjN/KczfO4GOzGjPycQD2bL+AVCeTXIWpwCVl+QBO4ZHVg=

@@ -1,0 +1,5 @@
+dcrrhb7ra5uc3qv815u35oua5p7fj0a8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. N3BcD85fBoFXLxugqxwNumKumFNQT+Bcoeohv3goMNBF5xuzPsbj0Eu2FUKm48Ohat38Efw1clHncI6kzmLW8Syo6VGbcavDuSTCtSsuURotsWu/Bxt+2m5cJi+ITP5AX5N+t9jPb6b3hN57SxwzjFuonbxO5jTJ7XV21oyCILU=
+dcrrhb7ra5uc3qv815u35oua5p7fj0a8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dd55p6krl8jcft5id3dus6immb88s55b NS 
+inetns01.dew.sc.gov.	86400	IN	A	167.7.16.22
+scdew.gov.	86400	IN	NS	ns2.net.state.sc.us.
+scdew.gov.	86400	IN	NS	inetns01.dew.sc.gov.

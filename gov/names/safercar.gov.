@@ -1,0 +1,9 @@
+edns1.dot.gov.	86400	IN	A	204.68.194.100
+edns2.dot.gov.	86400	IN	A	204.68.194.200
+edns3.dot.gov.	86400	IN	A	204.68.195.200
+safercar.gov.	86400	IN	NS	edns1.dot.gov.
+safercar.gov.	86400	IN	NS	edns2.dot.gov.
+safercar.gov.	86400	IN	NS	edns3.dot.gov.
+safercar.gov.	3600	IN	DS	36097 8 1 fd241cc1efb0e9038657971ae70ae2dc482848ee
+safercar.gov.	3600	IN	DS	36097 8 2 3dd04c85b854dbd7442d43faa6d8eb8dba85fd50cd903588ec5a1834b7bd68a4
+safercar.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. IiPJQJo/2Dihzc8M7UcRWBOCiUw2yJHjuyyBdlsT6BiSY4iEgO7veaU/IjdNxWGPg7zeCLemR0ZwHUORFEOQSf6zZ5GXRSQs6L2Y4XiYTayDdMegnELvnsF/jZWfbu5oxmo3mUfzg30Bnal5kqLjjVOIZGFthNOgOJHuSXdu/3U=

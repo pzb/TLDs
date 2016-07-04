@@ -1,0 +1,4 @@
+2uimdobej56r1sm8vf6b7uo5nakq392j.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. UGuxOSG5cwvCvtfd/Wv7niPIufzsJjo0DEZ3wTDl44AX0rNe4YzYfC9rSIJt1WPefxxwhE/ivaV0cEL4Jf3Atk2lNtXX6KM4TKPmv6AFRAGBy3y7wt9yWIZmlxmU1+5cnK8vo5ozMyennGUIdl3990XBnvyJOivovzIBhCeny2M=
+2uimdobej56r1sm8vf6b7uo5nakq392j.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  2urdc91la7vdfsl67blf451skv1g43rj NS 
+cherokeecountysc.gov.	86400	IN	NS	ns3.gkg.net.
+cherokeecountysc.gov.	86400	IN	NS	ns4.gkg.net.

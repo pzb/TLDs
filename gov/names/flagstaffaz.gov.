@@ -1,0 +1,4 @@
+6t69itr304ldmmj52dj7vsj6rot132ec.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Z+C7FCFLPhtWeyxBAoTcGVik+C9qXZIRmAGPiMYX8tEwxSWz8uMfBDxnD33q5QPBcodvL4XbcFhu2r8t77QTAEEZuYtnosWXMVEJp1hSPzt+LzGUeQGl/vNiulpA0PJz8M8GBXnlTC7Bc33rJkzHfjLQL11/InCjxN0fHZ6Jaxk=
+6t69itr304ldmmj52dj7vsj6rot132ec.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6t6as8n9t8mmg4dl6h1lspjhqgskvbik NS 
+flagstaffaz.gov.	86400	IN	NS	pdns01.domaincontrol.com.
+flagstaffaz.gov.	86400	IN	NS	pdns02.domaincontrol.com.

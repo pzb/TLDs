@@ -1,0 +1,7 @@
+achp.gov.	86400	IN	NS	ns1.p30.dynect.net.
+achp.gov.	86400	IN	NS	ns2.p30.dynect.net.
+achp.gov.	86400	IN	NS	ns3.p30.dynect.net.
+achp.gov.	86400	IN	NS	ns4.p30.dynect.net.
+achp.gov.	3600	IN	DS	17122 5 1 f8c38d98a1fb9abf8e6147d74143329aa7aa6082
+achp.gov.	3600	IN	DS	17122 5 2 8eef12a1e1a587545024c8e64913f834e9ff4e580ba95c40f5dbc8a922baba9c
+achp.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. O/LxD5vRQf7nLQAlHbO2R+6F2IUhp6j/NqzuyN0mpIt59Z5rfJuMvmmUjDZqwYfFWHkDAMfgiii1V2cFHzlBJt6yOWrDI7b9satb3KRGIHLDa+2IDpQSeBBsje7S12cFWlDXy5XN07A6GXP1MaebDobztVwXoMtaJu7UKjnOVi8=

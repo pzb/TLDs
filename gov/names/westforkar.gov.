@@ -1,0 +1,4 @@
+p7c7cph15b7o88i4pv6omhqmjecbb9ps.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. YiQKceuKE/2M2/Sg5yK7K+D9Ac0UCecXE2TsxvqPkJqAAtG2y6EcOCk/Mhd2rp3iz3/nrtjA7ZDvTpIAObTWbptkuHmT/TF+W5LycVQ+Pi66jfOoK3Yhv9K1WvIwE9VvoLgsEBVit82mvN1zUvEAXfaLabCXbnmZ+u55E4IKKm4=
+p7c7cph15b7o88i4pv6omhqmjecbb9ps.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  p7iipa512ig91g876sgvg8pv4kmehbbq NS 
+westforkar.gov.	86400	IN	NS	ns1.coxmail.com.
+westforkar.gov.	86400	IN	NS	ns2.coxmail.com.

@@ -1,0 +1,8 @@
+ns5.dc.gov.	86400	IN	A	164.82.149.160
+ns6.dc.gov.	86400	IN	A	164.82.8.15
+ns7.dc.gov.	86400	IN	A	164.82.41.160
+dccouncil.gov.	86400	IN	NS	ns5.dc.gov.
+dccouncil.gov.	86400	IN	NS	ns6.dc.gov.
+dccouncil.gov.	86400	IN	NS	ns7.dc.gov.
+euob6r9j1toa9g1f46006jelbis2uuoj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. QL/rjKg87fMJnPajFIdQYHIwwMiScxI/CQYqRlPjCwHZUunvOQxSbcUINrbSBcbSaQr3P8WMpgdNRimEhZUdUb85BzlQsDK9vdCOK38Z/jYXzkc9pLJLMomUHm4AweU8ST7Fr5he7KUTsy/K6lU3ifTE+LJzhI442Mpwy+5RQzo=
+euob6r9j1toa9g1f46006jelbis2uuoj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ev0cv4qpet6plh1idkgu9shrfdrvg7sm NS 

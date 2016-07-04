@@ -1,0 +1,4 @@
+murphytx.gov.	86400	IN	NS	ns3.secureserver.net.
+murphytx.gov.	86400	IN	NS	ns4.secureserver.net.
+v8jf3676bupgkmuoiflo7te2kjsfq8kl.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. iaD7jiE18UhHw8IzUm//lUBmPmebia2Qw43psCHmN75ZGRw/9uNVaz6wqpBImpVfV3I8seQCwquAVcSDc2S3tJlG8OPMEaoxtUPm0g4LBQxFVzAA69+owO1GmmfLIqlTK/4KEVvjLLmltv4VrqWJNC0epyi+V/HJ+sm68NZSYoc=
+v8jf3676bupgkmuoiflo7te2kjsfq8kl.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  v8s59k8t6mae5itjiape2vquqopt3ae1 NS 

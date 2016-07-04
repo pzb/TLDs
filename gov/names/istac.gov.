@@ -1,0 +1,9 @@
+istac.gov.	86400	IN	NS	a1-22.akam.net.
+istac.gov.	86400	IN	NS	a3-64.akam.net.
+istac.gov.	86400	IN	NS	a12-65.akam.net.
+istac.gov.	86400	IN	NS	a13-65.akam.net.
+istac.gov.	86400	IN	NS	a16-67.akam.net.
+istac.gov.	86400	IN	NS	a22-66.akam.net.
+istac.gov.	3600	IN	DS	28819 8 1 e7e00f220c526e658f8714f2a68238985f34b932
+istac.gov.	3600	IN	DS	28819 8 2 df876c0964ff447670a903159025eb52a1bdf97a8a36e140cdbed4896f8ca2a4
+istac.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. hj1g7LVeNW/CTvNu2URUSXqiZeu0zs3w8Lp7bfLQJEnrjonUPBiqMvgWHJSVD99n6qk3OzZvmpRt/axDwl+YZmKCcbg6OFefKYWvbIG6guFqHWJZtSJ9dFxke8yK7joO2/UxlNg4IVCKiWMonwT5NXwYkPBpv77Karit51aK82E=

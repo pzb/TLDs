@@ -1,0 +1,8 @@
+8lps9hgviavdt0ahe3g0bchrratef4pc.mil.	10800	IN	RRSIG	NSEC3 8 2 10800 20160708161835 20160701161835 16413 mil. RRZg/JDq/ViCvtCP8QjG6/R33y+gBzBwRPd8Lym1LBk5frWgeElkRt3SRbRRfKFkM7Vfdh8Ufo9ep9K3mWqbzMKy4l2mRJUqA7QtxRCwz6HCAsnjGAf76vDGSuS0vqwDGGiMNh6Ky0kS7TfkiafXXYx6j4jUWrVoUXKDhZRGNfWSR7E=
+8lps9hgviavdt0ahe3g0bchrratef4pc.mil.	10800	IN	NSEC3	1 0 10 adeb  8mi2jrmrk8mg1l8qdbs5fj17npjkm7en NS 
+ns01.army.mil.	21600	IN	A	140.153.43.44
+ns02.army.mil.	21600	IN	A	192.82.113.7
+ns03.army.mil.	21600	IN	A	130.114.200.6
+medicalmuseum.mil.	21600	IN	NS	ns01.army.mil.
+medicalmuseum.mil.	21600	IN	NS	ns02.army.mil.
+medicalmuseum.mil.	21600	IN	NS	ns03.army.mil.

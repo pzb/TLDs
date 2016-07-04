@@ -1,0 +1,9 @@
+medalofvalor.gov.	86400	IN	NS	ns1.ojp.gov.
+medalofvalor.gov.	86400	IN	NS	ns2.ojp.gov.
+medalofvalor.gov.	3600	IN	DS	17565 7 1 8a2231a813c4d830fca78316be42f503a7b5d4ad
+medalofvalor.gov.	3600	IN	DS	17565 7 2 f2d32063c4b32231f0295ebc0a8c945f72ae89652bd4678d5cf9a32c763b023f
+medalofvalor.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. uSAQxxlTMkO61EyliMIegQf6dVpAV1M+gOf1/w1crl8o6s/g2ae5SnIpEe9lq1oOlJP+dGW2LboKEyP45TON9dkhXWt16tPdeHuBynGlnZ5nZrbwfmPHiEFKtyunnOTnnuRdgcWY8gAvSDb11xlzyX20AZ/6SFBGbEIp6sLqlkI=
+ns1.ojp.gov.	86400	IN	A	149.101.16.8
+ns1.ojp.gov.	86400	IN	AAAA	2607:f330:8400:20f1::8
+ns2.ojp.gov.	86400	IN	A	149.101.216.8
+ns2.ojp.gov.	86400	IN	AAAA	2607:f330:9400:20f1::8

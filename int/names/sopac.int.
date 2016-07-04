@@ -1,0 +1,3 @@
+sopac.int.	86400	IN	NS	flag.ep.net.
+sopac.int.	86400	IN	NS	cobalt.sopac.org.fj.
+sopac.int.	86400	IN	NS	sopacsun.sopac.org.fj.

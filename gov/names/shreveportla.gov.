@@ -1,0 +1,6 @@
+3onghlbja8qafdidf8kfq1dasv54jv57.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. E1uCuUi3KAr5+ycXfms5//bcV/JM6NZ1X3YHomiDPb0hOfgAuFvy3qQuQxaQ7JbOo8hnlxpj7ZyTNmvYdCJu6s1YJFX4T5imXom2i+9UndSXbTtfJ60qBJ6gtzTtuUO5feW+QKY1rUhFVoRBcuDHOUwzaAxJWtyvQ6D36MdMYyA=
+3onghlbja8qafdidf8kfq1dasv54jv57.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3opf7039o50d96k2mne6h3denu8cu88p NS 
+shreveportla.gov.	86400	IN	NS	ns1139.dns.dyn.com.
+shreveportla.gov.	86400	IN	NS	ns2168.dns.dyn.com.
+shreveportla.gov.	86400	IN	NS	ns3132.dns.dyn.com.
+shreveportla.gov.	86400	IN	NS	ns4192.dns.dyn.com.

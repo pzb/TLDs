@@ -1,0 +1,6 @@
+arizonajobconnection.gov.	86400	IN	NS	dns1.azdes.gov.
+arizonajobconnection.gov.	86400	IN	NS	pdns05.domaincontrol.com.
+arizonajobconnection.gov.	86400	IN	NS	pdns06.domaincontrol.com.
+dns1.azdes.gov.	86400	IN	A	207.108.136.98
+ei5guo4md19csd6cd82upr0fhjf3mhhs.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. FPLjSYhSpOp8PIriq79rRP5PiEabhSpS+aIme3K7XuAKryggapj3uUPaI0dJetxL2CS37MPzD/UFtTbwPsfmXSOp1DbTP3S17NMBKxsUuuXNyXIa/DH2S/tpb6GtVwENnfxvMrPIL0iY8oQkDrFRzzEuBCNBVgJ3mVikm6fMfnA=
+ei5guo4md19csd6cd82upr0fhjf3mhhs.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  eid7dcdo8viofjcnbc123u0j4vggv80p NS 

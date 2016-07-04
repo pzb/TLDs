@@ -1,0 +1,4 @@
+12ia64qpbpce322fg3bhb89hq2km797n.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. vk+cn0W8dyJQ9fz0QFNoE0bPqnCt6coSGRGcJSQAV20AsSLqbleJfcbpzT/27rHJxgb325wErFxVFMWDQyELaF55BsB2iDJ1gTd5XGxzc4tN2OtlNNAwCMQ/62wo+jGjqdxJSc7DsP17311nJhwZMKGRv7Fym3Z3U7mzOGhN8AM=
+12ia64qpbpce322fg3bhb89hq2km797n.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  12oiiujbpai4avqi8jhsnbb67h7uc3l7 NS 
+spencerma.gov.	86400	IN	NS	auth00.ns.uu.net.
+spencerma.gov.	86400	IN	NS	auth100.ns.uu.net.

@@ -1,0 +1,4 @@
+atmms4pmdhl1chfk9f0vh4lajfljq8ef.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. YXh4HeZjI94gZFulMUo5Clr/urv+DZAM5cGavKDl1D1xL1rZvLcEGXy6wWKhYNh4NIlIBdWH3aCbJvD2NU7xAcM8RHrx33IvUBApcbAb7bgQq/cYAViLHMugSMVaqp6t51+iYibYFhEOoGtFnn1hUlgxuYfnEjKaceVSaEJUt0k=
+atmms4pmdhl1chfk9f0vh4lajfljq8ef.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  au7sbt0dpkg2d2k7v23inkmh38u8j9o1 NS 
+villageofhempsteadny.gov.	86400	IN	NS	adns.cv.siteprotect.com.
+villageofhempsteadny.gov.	86400	IN	NS	bdns.cv.siteprotect.com.

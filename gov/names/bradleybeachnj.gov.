@@ -1,0 +1,5 @@
+bradleybeachnj.gov.	86400	IN	NS	ns1.virtualforum.com.
+bradleybeachnj.gov.	86400	IN	NS	ns2.virtualforum.com.
+bradleybeachnj.gov.	86400	IN	NS	ns3.virtualforum.com.
+evg09q3rsc2qc1b3hmguoqqrmgbebfir.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. b3xa5V1k9nM9C5mH6K/Iz+6rVtXhjtq4j7ehdeuTHJG9kDSfK2Mj7MtUBVfOsV0pMeJ55UU6Jh0Jin88M3n+ZEy+Nn58BkkVLqn73Gf6pTnBzMoqJWTNmpODN+5ziu56Me3fYs+9LxZhlYtkjc26ayNlvAwAToSCRDvfEpUbRn8=
+evg09q3rsc2qc1b3hmguoqqrmgbebfir.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  evg266219drtb3hapabgpsgnvun891at NS 

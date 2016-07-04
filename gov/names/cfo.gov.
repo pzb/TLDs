@@ -1,0 +1,10 @@
+cfo.gov.	86400	IN	NS	zc.akam.net.
+cfo.gov.	86400	IN	NS	use6.akam.net.
+cfo.gov.	86400	IN	NS	usw1.akam.net.
+cfo.gov.	86400	IN	NS	usw5.akam.net.
+cfo.gov.	86400	IN	NS	usw6.akam.net.
+cfo.gov.	86400	IN	NS	asia9.akam.net.
+cfo.gov.	86400	IN	NS	ns1-145.akam.net.
+cfo.gov.	86400	IN	NS	ns1-176.akam.net.
+cfo.gov.	3600	IN	DS	165 7 1 e383f67b60266bb34260ac59647d5f5917c619f8
+cfo.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. tR8ckclgNXS6mIAy/fPOb96lFJEmoFW60a4ig0r7V78cxPS3ghwW9ctwdgevBMzM3dalKAQC3KNsuyDIfajsnl+xhb5/O30jdWCTD2IwweKkmGOXg9IceWCHRa1dHWNqLHM6TrP0AIMsBl4siEiMzOKWDMQg/IeOLdy0zwC1o58=

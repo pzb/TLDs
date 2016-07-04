@@ -1,0 +1,6 @@
+portlandoregon.gov.	86400	IN	NS	ns1.portlandoregon.gov.
+portlandoregon.gov.	86400	IN	NS	ns2.portlandoregon.gov.
+ns1.portlandoregon.gov.	86400	IN	A	74.120.152.97
+ns2.portlandoregon.gov.	86400	IN	A	74.120.152.197
+u523uqruvjvfqk9kujka55plo4277ti0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. OwXrLX4UumyrRjrGhLT/zKrwZ/3p7kLXqLizw4/3kwD/k8GeB0n9DnqnEGAgh6eGbNRn5d2//9LVrZppAwFR6bciu5SGWDiflWHQRl1+jARtzXthJCfadLLVDSHnsDhpkl9YLPGXrZ7dLtvtTX7kaqYbz1kY6/Jx+l+zCjcDj9I=
+u523uqruvjvfqk9kujka55plo4277ti0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  u54ct32127j0p6n56ua1qfepp1i4ts41 NS 

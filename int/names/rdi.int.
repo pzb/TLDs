@@ -1,0 +1,2 @@
+rdi.int.	86400	IN	NS	dot.ep.net.
+rdi.int.	86400	IN	NS	flag.ep.net.

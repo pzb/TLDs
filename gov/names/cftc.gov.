@@ -1,0 +1,5 @@
+cftc.gov.	86400	IN	NS	pri6.nds.psi.net.
+cftc.gov.	86400	IN	NS	auth40.ns.uu.net.
+cftc.gov.	86400	IN	NS	auth62.ns.uu.net.
+vm0ba1jk81i71kamj2dg6cbafckelctn.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. KEZTk6bSPDh1hjeUi3yFJRP/adH4dkGMQdRzHeIV4GdJhq6GJsejNoipghstnWidGJaHsoAOuX+kdMfOjmlhaf1jGyuCbTlJb1sSF6Lqgi2cvMdYRcSMIiI/iWOI9DJExl/p55evGri8DqDITYjYJ1c62k6P8JtIVnsCybCldmo=
+vm0ba1jk81i71kamj2dg6cbafckelctn.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vm88vuh55m1fc8f7rib3ujg1dp9v2fsg NS 

@@ -1,0 +1,4 @@
+coalcity-il.gov.	86400	IN	NS	ns1.servconfig.com.
+coalcity-il.gov.	86400	IN	NS	ns2.servconfig.com.
+sh7ecfgm5tp9l6s3m0fqrigh09oomdas.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. O99/0fW5GKfEHXGUGonIh8FBAKe2zrX1qntoz4Decr4o/FC1KnQ1vpnaPPhbnsX4ORR2MYu9DH66sJQ2qPTVmW2Q2MumuMxnKBigsUhuVU0A/utzQXnK77eWmk2PJbiautmWfi09/kSQlHTHZ9/wwsrzonCuplPWP0A/+zEHZZ8=
+sh7ecfgm5tp9l6s3m0fqrigh09oomdas.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  si6s0c1unhcpcsbocjm8ickm4nq2rtcv NS 

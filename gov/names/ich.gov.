@@ -1,0 +1,4 @@
+4qbb5uflqobpchh8qhfr9e4btoje4qo6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. PUtxp5E+HvOS51QizXP8peV22Kjj05yfnA7frAEPADNc9W5LD+Yf6TQKF313r4rSPChf7fyaH7GPP7vrlqyGrOtHQhWwLC+7dkD2O/Ofud2WR8s64DvqO+hO7mvL7S/BVHjBULmbL7ovODhNCy/WVo5uE3MRxynE6EavlMI26SY=
+4qbb5uflqobpchh8qhfr9e4btoje4qo6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4qh698d8kbp3hvv53bd6m70h9qgp4tqm NS 
+ich.gov.	86400	IN	NS	dns1.myowncloud.net.
+ich.gov.	86400	IN	NS	dns2.myowncloud.net.

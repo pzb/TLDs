@@ -1,0 +1,6 @@
+8aegft3vh7u7ibq9jefebfluquoersdn.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. UdC2WpwfjXEDuQoK6RXo0tCrq/xj4XJLuLfSmu57img1o0hycZOuX2HlfDU/HhRHHvAfn9Kocny08XbVqG0cXN5G25r5g8HgG4CLnvgO7pnIkfZnzBTH+09k6Zi4RCDt8ME0vc77lKRQCfxX/oj7GG95T8c0/NCKPayISEZTc98=
+8aegft3vh7u7ibq9jefebfluquoersdn.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8aqnh43imj6kruvueoseg4196aeuhlbn NS 
+azfirstthingsfirst.gov.	86400	IN	NS	ns-250.awsdns-31.com.
+azfirstthingsfirst.gov.	86400	IN	NS	ns-982.awsdns-58.net.
+azfirstthingsfirst.gov.	86400	IN	NS	ns-1302.awsdns-34.org.
+azfirstthingsfirst.gov.	86400	IN	NS	ns-1554.awsdns-02.co.uk.
