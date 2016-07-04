@@ -1,0 +1,40 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       NIB.INT
+
+organisation: Nordic Investment Bank
+address:      P.O.BOX 249
+address:      Helsinki  00171
+address:      Finland
+
+contact:      administrative
+name:         Jouni Järvenpää
+address:      P.O.BOX 249
+address:      Helsinki  00171
+address:      Finland
+phone:        358 10 618 0576
+fax-no:       358 10 618 0726
+e-mail:       jouni.jarvenpaa@nib.int
+
+contact:      technical
+name:         Harjanne Timo
+address:      P.O.BOX 249
+address:      Helsinki  00171
+address:      Finland
+phone:        358 106180253
+fax-no:       358 106180726
+e-mail:       timo.harjanne@nib.int
+
+nserver:      NS1-FIN.GLOBAL.SONERA.FI 193.210.18.31
+nserver:      NS1-SWE.GLOBAL.SONERA.SE 217.28.206.86
+nserver:      NS2-FIN.GLOBAL.SONERA.FI 195.156.148.158
+nserver:      NS2-USA.GLOBAL.SONERA.NET 69.20.9.109
+
+created:      2001-09-10
+changed:      2010-07-01
+source:       IANA
+

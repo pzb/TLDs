@@ -1,0 +1,39 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ISSA.INT
+
+organisation: International Social Security Association
+address:      c/o International Labour Organization
+address:      4, route des Morillons
+address:      Geneva  1211
+address:      Switzerland
+
+contact:      administrative
+name:         Alberto Sylvester
+address:      c/o International Labour Organization
+address:      4, route des Morillons
+address:      Geneva  1211
+address:      Switzerland
+phone:        +41 22 799 6532
+e-mail:       unixadmin@ilo.org
+
+contact:      technical
+name:         Alberto Sylvester
+address:      c/o International Labour Organization
+address:      4, route des Morillons
+address:      Geneva  1211
+address:      Switzerland
+phone:        +41 22 799 6532
+e-mail:       unixadmin@ilo.org
+
+nserver:      NS1.ILO.ORG 193.134.194.101
+nserver:      NS2.ILO.ORG 193.134.194.102
+
+created:      2001-09-10
+changed:      2009-04-02
+source:       IANA
+

@@ -1,0 +1,36 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       COCESNA.INT
+
+organisation: Corporacion Centroamericana de Servicios de Navegacion Aerea
+address:      COCESNA 150 Metros al Sur del Aeropuerto Toncontin
+address:      Tegucigalpa Francisco Morazan 660
+address:      Honduras
+
+contact:      administrative
+name:         Miriam Salgado
+address:      COCESNA 150 Metros al Sur del Aeropuerto Toncontin
+address:      Tegucigalpa Francisco Morazan 660
+address:      Honduras
+phone:        (504)22834750
+fax-no:       (504)22834750
+e-mail:       miriam.salgado@cocesna.org
+
+contact:      technical
+name:         Francisco Carranza
+address:      COCESNA 150 Metros al Sur del Aeropuerto Toncontin
+address:      Tegucigalpa Francisco Morazan 660
+address:      Honduras
+phone:        (504)31795805
+e-mail:       francisco.carranza@cocesna.org
+
+nserver:      NS6025.HOSTGATOR.COM 50.87.144.24
+nserver:      NS6026.HOSTGATOR.COM 50.87.146.186
+
+created:      2014-06-30
+source:       IANA
+

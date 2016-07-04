@@ -1,0 +1,35 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CEB.INT
+
+organisation: Council of Europe Development Bank
+address:      55 Avenue Kleber
+address:      Paris  75116
+address:      France
+
+contact:      administrative
+name:         Frédéric Lardinois
+address:      55 Avenue Kleber
+address:      Paris  75116
+address:      France
+phone:        0033147555535
+e-mail:       frederic.lardinois@coebank.org
+
+contact:      technical
+name:         Jean-louis Nguyen
+address:      55 Avenue Kleber
+address:      Paris  75116
+address:      France
+phone:        0033147555542
+e-mail:       jean-louis.nguyen@coebank.org
+
+nserver:      E.NS.BUDDYNS.COM 82.130.104.214
+nserver:      NS1.COEBANK.ORG 195.68.64.197
+
+created:      2013-05-14
+source:       IANA
+

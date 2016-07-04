@@ -1,0 +1,42 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       OAS.INT
+
+organisation: Organization of American States
+address:      1889 F Street NW LL 150
+address:      Washington District of Columbia 20006
+address:      USA
+
+contact:      administrative
+name:         Nelly Gochicoa
+organisation: Organization of American States
+address:      1889 F Street NW LL 150
+address:      Washington District of Columbia 20006
+address:      USA
+phone:        202 458 3657
+fax-no:       202 458 6212
+e-mail:       ngochicoa@oas.org
+
+contact:      technical
+name:         Juan Carlos Garcia
+organisation: Organization of American States
+address:      1889 F Street NW LL-150
+address:      Washington District of Columbia 20006
+address:      USA
+phone:        202 458 6963
+fax-no:       202 458 6212
+e-mail:       jcgarcia@oas.org
+
+nserver:      DNSAUTH1.SYS.GTEI.NET 4.2.49.2
+nserver:      DNSAUTH2.SYS.GTEI.NET 4.2.49.3
+nserver:      OASUNIX1.OAS.ORG 199.75.107.1
+nserver:      OASUNIX2.OAS.ORG 199.75.107.31
+
+created:      2001-11-05
+changed:      2003-08-18
+source:       IANA
+

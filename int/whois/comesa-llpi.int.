@@ -1,0 +1,37 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       COMESA-LLPI.INT
+
+organisation: COMESA - Leather and Leather Products Institute
+address:      Akaki Kality Sub City
+address:      Addis Ababa  2358 Code 1110
+address:      Ethiopia
+
+contact:      administrative
+name:         Tigist Hailegiorgis
+address:      Akaki Kality Sub City
+address:      Addis Ababa  2358 Code 1110
+address:      Ethiopia
+phone:        +251 911 465394
+fax-no:       +251 114 390900
+e-mail:       tg_zenebe@yahoo.com
+
+contact:      technical
+name:         Awlachew Sintie
+address:      Akaki Kality Sub City
+address:      Addis Ababa  2358 Code 1110
+address:      Ethiopia
+phone:        +251 114396286
+fax-no:       +251 114390900
+e-mail:       awlachews@gmail.com
+
+nserver:      NS1.TECHNOBROS.NET.AU 184.171.245.83
+nserver:      NS2.TECHNOBROS.NET.AU 184.171.245.84
+
+created:      2015-06-15
+source:       IANA
+

@@ -1,0 +1,45 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       IHO.INT
+
+organisation: International Hydrographic Organization
+address:      4 quai Antoine 1er
+address:      B.P. 445
+address:      Monaco  MC 98011
+address:      Monaco
+
+contact:      administrative
+name:         Anthony Pharaoh
+organisation: International Hydrographic Organization
+address:      4 quai Antoine 1er
+address:      B.P. 445
+address:      Monaco  MC 98011
+address:      Monaco
+phone:        +377 93108108
+fax-no:       +377 93108140
+e-mail:       apharaoh@ihb.mc
+
+contact:      technical
+name:         Anthony Pharaoh
+organisation: International Hydrographic Organization
+address:      4 quai Antoine 1er
+address:      B.P. 445
+address:      Monaco  MC 98011
+address:      Monaco
+phone:        +377 93108108
+fax-no:       +377 93108140
+e-mail:       apharaoh@ihb.mc
+
+nserver:      NICE00-MAIN.WEBSTORE.FR 193.93.180.30
+nserver:      NICE10-MAIN.WEBSTORE.FR 193.93.180.10
+nserver:      NS06.WEBSTORE.FR 193.34.18.1
+nserver:      NS10.WEBSTORE.FR 193.93.181.10
+
+created:      2005-08-16
+changed:      2013-05-09
+source:       IANA
+

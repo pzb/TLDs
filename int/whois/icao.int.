@@ -1,0 +1,40 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ICAO.INT
+
+organisation: International Civil Aviation Organization
+address:      999 University
+address:      Montreal Quebec H3C 5H7
+address:      Canada
+
+contact:      administrative
+name:         Jean-Pierre Mercier
+organisation: International Civil Aviation Organization
+address:      999 University
+address:      Montreal Quebec H3C 5H7
+address:      Canada
+phone:        514 954-8219 Ext. 6262
+fax-no:       514 954-8249
+e-mail:       jmercier@icao.int
+
+contact:      technical
+name:         Jean-Pierre Mercier
+organisation: International Civil Aviation Organization
+address:      999 University
+address:      Montreal Quebec H3C 5H7
+address:      Canada
+phone:        514 954-8219 Ext. 6262
+fax-no:       514 954-8249
+e-mail:       jmercier@icao.int
+
+nserver:      TOROON63NSZP03.SRVR.BELL.CA 207.164.234.38
+nserver:      TOROONDCNSZS03.SRVR.BELL.CA 207.236.176.23
+
+created:      1998-01-29
+changed:      2010-11-10
+source:       IANA
+

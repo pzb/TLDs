@@ -1,0 +1,40 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       OECS.INT
+
+organisation: Organisation of Eastern Caribbean States
+address:      Morne Fortune
+address:      Castries
+address:      Saint Lucia
+
+contact:      administrative
+name:         Simon Alexander
+organisation: Organisation of Eastern Caribbean States
+address:      Morne Fotune
+address:      Castries
+address:      Saint Lucia
+phone:        758-455-6339
+fax-no:       758-453-1628
+e-mail:       salexander@oecs.org
+
+contact:      technical
+name:         Ijnanya Isaac
+organisation: Organisation of Eastern Caribbean States
+address:      Morne Fortune
+address:      Castries
+address:      Saint Lucia
+phone:        758-455-6338
+fax-no:       758-453-1628
+e-mail:       iisaac@oecs.org
+
+nserver:      NS1.OECS.ORG 206.123.105.241
+nserver:      NS2.OECS.ORG 206.123.105.240
+
+created:      2008-09-10
+changed:      2014-07-03
+source:       IANA
+

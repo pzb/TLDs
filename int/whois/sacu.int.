@@ -1,0 +1,44 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SACU.INT
+
+organisation: Southern African Customs Union
+address:      P.O.Box 13285
+address:      Windhoek Khomas 9000
+address:      Namibia
+
+contact:      administrative
+name:         Claudia Jaeger
+organisation: Logical Networks (PTY) Ltd.
+address:      P.O.Box 22772
+address:      161 Mandume Ndemufayo Ave.
+address:      Service Road
+address:      Windhoek Khomas 9000
+address:      Namibia
+phone:        +264 61 273900
+fax-no:       +264 61 273909
+e-mail:       contact@logical.com.na
+
+contact:      technical
+name:         Claus Drotsky
+organisation: Logical Networks (PTY) Ltd.
+address:      P.O.Box 22772
+address:      161 Mandume Ndemufayo Ave.
+address:      Service Road
+address:      Windhoek Khomas 9000
+address:      Namibia
+phone:        +264 61 273900
+fax-no:       +264 61 273909
+e-mail:       admin@logical.com.na
+
+nserver:      DNS1.LOGICAL.COM.NA 196.44.146.2
+nserver:      NS1.IPB.NA 196.44.128.146
+
+created:      2006-01-23
+changed:      2006-01-24
+source:       IANA
+

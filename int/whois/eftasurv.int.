@@ -1,0 +1,42 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       EFTASURV.INT
+
+organisation: EFTA Surveillance Authority
+address:      Rue Belliard 35
+address:      Brussels  1040
+address:      Belgium
+
+contact:      administrative
+name:         Olafur Adalsteinsson
+organisation: EFTA Surveillance Authority
+address:      Rue Belliard 35
+address:      Brussels  1040
+address:      Belgium
+phone:        +32 2 2861895
+fax-no:       +32 2 2861800
+e-mail:       Olafur.Adalsteinsson@eftasurv.int
+
+contact:      technical
+name:         Frank Beerten
+organisation: EFTA Surveillance Authority
+address:      Rue Belliard 35
+address:      Brussels  1040
+address:      Belgium
+phone:        +32 2 2861828
+fax-no:       +32 2 2861800
+e-mail:       Frank.Beerten@eftasurv.int
+
+nserver:      NS1.NETWORKING4ALL.COM 213.249.65.162
+nserver:      NS2.NETWORKING4ALL.NET 199.254.56.254
+nserver:      NS3.NETWORKING4ALL.ORG 199.254.30.254
+nserver:      NS4.NETWORKING4ALL.INFO 199.254.53.254
+
+created:      2002-11-01
+changed:      2013-03-14
+source:       IANA
+

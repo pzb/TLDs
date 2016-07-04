@@ -1,0 +1,42 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       EFTA.INT
+
+organisation: European Free Trade Association
+address:      Rue Joseph II 12-16
+address:      Brussels  B1000
+address:      Belgium
+
+contact:      administrative
+name:         Fred Gjoertz
+organisation: European Free Trade Association
+address:      Rue Joseph II 12-16
+address:      B1000
+address:      Belgium
+phone:        +32 2 28 61 779
+fax-no:       +32 2286 1750
+e-mail:       Fred.GJOERTZ@efta.int
+
+contact:      technical
+name:         IT Unit
+organisation: European Free Trade Association
+address:      Rue Joseph II 12-16
+address:      Brussels  B1000
+address:      Belgium
+phone:        +32 2 28 61 777
+fax-no:       +32 2286 1750
+e-mail:       it.unit@efta.int
+
+nserver:      NS13.ZONEEDIT.COM 66.223.97.114
+nserver:      NS3.ZONEEDIT.COM 76.74.236.21
+nserver:      NS7.ZONEEDIT.COM 216.122.7.155
+nserver:      NS9.ZONEEDIT.COM 66.240.231.42
+
+created:      1997-10-27
+changed:      2014-05-30
+source:       IANA
+

@@ -1,0 +1,40 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SOUTHCENTRE.INT
+
+organisation: The South Centre
+address:      CP 228
+address:      1211 Geneva 19
+address:      Geneva Geneva 1211
+address:      Switzerland
+
+contact:      administrative
+name:         Vicente Yu
+organisation: The South Centre
+address:      CP 228
+address:      1211 Geneva 19
+address:      Geneva Geneva 1211
+address:      Switzerland
+phone:        +41227918050
+fax-no:       +41227988531
+e-mail:       yu@southcentre.org
+
+contact:      technical
+name:         Rui-Long Monico
+organisation: CANDY FACTORY SÀRL
+address:      Pont-Butin 70
+address:      Petit-Lancy Geneva 1213
+address:      Switzerland
+phone:        +41223601111
+e-mail:       rlm@candy-factory.ch
+
+nserver:      NS1.INFOMANIAK.CH 84.16.66.66
+nserver:      NS2.INFOMANIAK.CH 84.16.67.66
+
+created:      2013-08-13
+source:       IANA
+

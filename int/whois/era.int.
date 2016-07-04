@@ -1,0 +1,40 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ERA.INT
+
+organisation: Academy of European Law
+address:      Metzer Allee 4
+address:      Trier  54295
+address:      Germany
+
+contact:      administrative
+name:         John Coughlan
+organisation: Academy of European Law
+address:      Metzer Allee 4
+address:      Trier  54295
+address:      Germany
+phone:        +49 651 93737801
+fax-no:       +49 651 9373773
+e-mail:       jcoughlan@era.int
+
+contact:      technical
+name:         Oliver Steuernagel
+organisation: Academy of European Law
+address:      Metzer Allee 4
+address:      Trier  54295
+address:      Germany
+phone:        +4965193737741
+fax-no:       +4965193737773
+e-mail:       osteuernagel@era.int
+
+nserver:      DNS104.OVH.NET 213.251.188.148
+nserver:      NS104.OVH.NET 213.251.128.148
+
+created:      2001-09-10
+changed:      2013-05-09
+source:       IANA
+

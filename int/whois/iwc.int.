@@ -1,0 +1,39 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       IWC.INT
+
+organisation: International Whaling Commission
+address:      135 Station Road
+address:      Impington
+address:      Cambridge Cambridgeshire CB24 9NP
+address:      UK
+
+contact:      administrative
+name:         IT Support
+address:      135 Station Road
+address:      Impington
+address:      Cambridge Cambridgeshire CB24 9NP
+address:      UK
+phone:        +44 01223 233971
+e-mail:       it.support@iwc.int
+
+contact:      technical
+name:         IT Support
+address:      135 Station Road
+address:      Impington
+address:      Cambridge Cambridgeshire CB24 9NP
+address:      UK
+phone:        +44 01223 233971
+e-mail:       it.support@iwc.int
+
+nserver:      ART.NS.CLOUDFLARE.COM 173.245.59.102
+nserver:      ROSE.NS.CLOUDFLARE.COM 173.245.58.141
+
+created:      2012-05-10
+changed:      2015-11-04
+source:       IANA
+

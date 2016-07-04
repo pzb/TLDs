@@ -1,0 +1,42 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       IBEC.INT
+
+organisation: International Bank for Economic Co-operation
+address:      11, Masha Poryvaeva str.
+address:      Moscow  107996
+address:      Russia
+
+contact:      administrative
+name:         Valery Khaet
+organisation: International Bank for Economic Co-operation
+address:      11, Masha Poryvaeva str.
+address:      Moscow  107996
+address:      Russia
+phone:        +7(495)604-79-86
+fax-no:       +7(495)975-39-36
+e-mail:       VKhaet@ibec.ru
+
+contact:      technical
+name:         Oleg Malakhov
+address:      11, Masha Poryvaeva str.
+address:      Moscow  107996
+address:      Russia
+phone:        +7(495)604-79-97
+fax-no:       +7(499) 975-39-36
+e-mail:       moa@ibec.ru
+
+nserver:      NS3-L2.NIC.RU 193.232.146.1
+nserver:      NS4-CLOUD.NIC.RU 195.253.65.2 2a01:5b0:5::2
+nserver:      NS4-L2.NIC.RU 91.217.20.1
+nserver:      NS8-CLOUD.NIC.RU 195.253.64.10 2a01:5b0:4::a
+nserver:      NS8-L2.NIC.RU 91.217.21.1
+
+created:      2008-06-02
+changed:      2016-04-01
+source:       IANA
+

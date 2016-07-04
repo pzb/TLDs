@@ -1,0 +1,43 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       COSPAS-SARSAT.INT
+
+organisation: International Cospas-Sarsat Programme
+address:      2450-700 de la Gauchetiere West
+address:      Montreal Quebec H3B 5M2
+address:      Canada
+
+contact:      administrative
+name:         Craig Aronoff
+organisation: International Cospas-Sarsat Programme
+address:      2450-700 de la Gauchetiere West
+address:      Montreal Quebec H3B 5M2
+address:      Canada
+phone:        514-954-6695
+fax-no:       514-954-6761
+e-mail:       mail@cospas-sarsat.int
+
+contact:      technical
+name:         Craig Aronoff
+organisation: International Cospas-Sarsat Programme
+address:      2450-700 de la Gauchetiere West
+address:      Montreal Quebec H3B 5M2
+address:      Canada
+phone:        514-954-6695
+fax-no:       514-954-6761
+e-mail:       mail@cospas-sarsat.int
+
+nserver:      NS0.DNSMADEEASY.COM 208.94.148.2
+nserver:      NS1.DNSMADEEASY.COM 208.80.124.2
+nserver:      NS2.DNSMADEEASY.COM 208.80.126.2
+nserver:      NS3.DNSMADEEASY.COM 208.80.125.2
+nserver:      NS4.DNSMADEEASY.COM 208.80.127.2
+
+created:      2005-07-28
+changed:      2014-11-06
+source:       IANA
+

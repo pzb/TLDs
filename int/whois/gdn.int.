@@ -1,0 +1,45 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       GDN.INT
+
+organisation: Global Development Network
+address:      2nd Floor, West Wing
+address:      ISID Complex, Plot No 4
+address:      Vasant Kunj Institutional Area
+address:      New Delhi Delhi 110070
+address:      India
+
+contact:      administrative
+name:         Saurabh Khandelwal
+organisation: Global Development Network
+address:      2nd Floor, West Wing
+address:      ISID Complex, Plot No 4
+address:      Vasant Kunj Institutional Area
+address:      New Delhi Delhi 110070
+address:      India
+phone:        911126139494
+fax-no:       911126136893
+e-mail:       skhandelwal@gdnet.org
+
+contact:      technical
+name:         Saurabh Khandelwal
+organisation: Global Development Network
+address:      2nd Floor, West Wing
+address:      ISID Complex, Plot No 4
+address:      Vasant Kunj Institutional Area
+address:      New Delhi Delhi 110070
+address:      India
+phone:        911126139494
+fax-no:       911126136893
+e-mail:       skhandelwal@gdnet.org
+
+nserver:      NS71.DOMAINCONTROL.COM 216.69.185.46
+nserver:      NS72.DOMAINCONTROL.COM 208.109.255.46
+
+created:      2011-05-23
+source:       IANA
+

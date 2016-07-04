@@ -1,0 +1,38 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SOL.INT
+
+organisation: Consultative Committee on Space Data Systems
+address:      1801 Alexander Bell Drive
+address:      Suite 500
+address:      Reston VA 20191-4344
+address:      United States
+
+contact:      administrative
+name:         Vinton G. Cerf
+address:      1435 Woodhurst Blvd
+address:      McLean VA 22102
+address:      United States
+phone:        703 448 0965
+fax-no:       703 935 0228
+e-mail:       vgcerf@gmail.com
+
+contact:      technical
+name:         Randy Bush
+address:      5147 Crystal Springs
+address:      Bainbridge Island WA 98110
+address:      United States
+fax-no:       +1 206 973 2762
+e-mail:       randy@psg.com
+
+nserver:      NLNS.GLOBNIX.NET 2a02:898:31::53:0 94.142.241.91
+nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1::39
+
+created:      2001-09-10
+changed:      2014-04-17
+source:       IANA
+

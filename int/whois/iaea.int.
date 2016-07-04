@@ -1,0 +1,43 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       IAEA.INT
+
+organisation: International Atomic Energy Agency
+address:      Wagramerstrasse 5
+address:      P.O. Box 100
+address:      Vienna  A-1400
+address:      Austria
+
+contact:      administrative
+name:         Giuseppe Maggiore
+organisation: International Atomic Energy Agency
+address:      Wagramerstrassee 5
+address:      P.O. Box 100
+address:      Vienna  A-1400
+address:      Austria
+phone:        +43 1 2600 22897
+fax-no:       +43 1 2600 29185
+e-mail:       Giuseppe.Maggiore@iaea.org
+
+contact:      technical
+name:         Network Operations Centre
+organisation: International Atomic Energy Agency
+address:      Wagramerstrassee 5
+address:      P.O. Box 100
+address:      Vienna  A-1400
+address:      Austria
+phone:        +43 1 2600 22897
+fax-no:       +43 1 2600 29185
+e-mail:       noc@iaea.org
+
+nserver:      NS3.IAEA.INT 161.5.1.8
+nserver:      NS4.IAEA.INT 161.5.1.9
+
+created:      1998-01-29
+changed:      2007-03-26
+source:       IANA
+

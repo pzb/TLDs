@@ -1,0 +1,42 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SAU.INT
+
+organisation: South Asian University
+address:      Akbar Bhavan
+address:      Chanakyapuri
+address:      New Delhi Delhi 110021
+address:      India
+
+contact:      administrative
+name:         Registrar
+organisation: South Asian University
+address:      Akbar Bhavan
+address:      Chanakyapuri
+address:      New Delhi Delhi 110021
+address:      India
+phone:        +91-11-24122508
+fax-no:       +91-11-24671738
+e-mail:       registrar@southasianuniversity.org
+
+contact:      technical
+name:         Assistant Director (ICT)
+organisation: South Asian University
+address:      Akbar Bhavan
+address:      Chanakyapuri
+address:      New Delhi Delhi 110021
+address:      India
+phone:        +91-11-24195209
+fax-no:       +91-11-24122511
+e-mail:       vineet@sau.ac.in
+
+nserver:      NS1.SAU.AC.IN 103.243.237.11
+nserver:      NS2.SAU.AC.IN 103.243.237.12
+
+created:      2015-05-08
+source:       IANA
+

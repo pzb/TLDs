@@ -1,0 +1,40 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MANORIVERUNION.INT
+
+organisation: Mano River Union
+address:      Secretariat
+address:      Delco House
+address:      12 Lightfoot Boston Street
+address:      Freetown  P.M. Bag 113
+address:      Sierra Leone
+
+contact:      administrative
+name:         KOFFI KOUMAN
+address:      12 Lightfoot Boston Street
+address:      P.M. Bag 133
+address:      Delco House
+address:      Freetown
+address:      Sierra Leone
+phone:        +232 33 20 42 38/ +232 78 77 68 13
+e-mail:       koumankof@ymail.com
+
+contact:      technical
+name:         Dr Abdulai Dumbuya
+address:      1G Lower Pipe Line, Off-Wilkinson Road
+address:      Freetown
+address:      Sierra Leone
+phone:        0023278358281
+e-mail:       abs_d2004@yahoo.co.uk
+
+nserver:      NS0.PHASE8.NET 85.233.160.69
+nserver:      NS1.PHASE8.NET 85.233.160.68
+nserver:      NS2.PHASE8.NET 85.233.164.62
+
+created:      2014-02-06
+source:       IANA
+

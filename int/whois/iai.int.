@@ -1,0 +1,44 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       IAI.INT
+
+organisation: Inter-American Institute for Global Change Research, IAI
+address:      Av. Italia 6201
+address:      Ed. Los Tilos 102
+address:      Montevideo  11500
+address:      Uruguay
+
+contact:      administrative
+name:         Executive Director
+organisation: Inter-American Institute for Global Change Research
+address:      Av. Italia 6201
+address:      Ed. Los Tilos 102
+address:      Montevideo  11500
+address:      Uruguay
+phone:        +59 8 26039552
+fax-no:       +59 8 26039552
+e-mail:       htiessen@dir.iai.int
+
+contact:      technical
+name:         POC GlobalGate
+address:      Viamonte 723 5th 22
+address:      Ciudad Autónoma de Buenos Aires
+address:      Buenos Aires Buenos Aires C1053ABO
+address:      Argentina
+phone:        +54 1152184242
+fax-no:       +54 1152184245
+e-mail:       poc@globalgate.com.ar
+
+nserver:      DNS1.GLOBALGATE.COM.AR 200.0.185.100
+nserver:      DNS3.GLOBALGATE.COM.AR 190.183.60.98
+nserver:      IAISRV1.IAI.INT 190.57.231.77
+nserver:      NS2.GLOBALGATE.COM.AR 104.236.49.158
+
+created:      1996-12-05
+changed:      2015-10-02
+source:       IANA
+

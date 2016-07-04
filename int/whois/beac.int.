@@ -1,0 +1,38 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BEAC.INT
+
+organisation: Banque des Etats de l'Afrique Centrale
+address:      736, Avenue Monseigneur Vogt
+address:      Yaounde Centre 1917
+address:      Cameroon
+
+contact:      administrative
+name:         Jean Baptiste ASSIGA-AHANDA
+address:      736, Avenue Monseigneur Vogt
+address:      Yaounde Centre 1917
+address:      Cameroon
+phone:        (237) 223 40 30
+fax-no:       (237) 223 33 29
+e-mail:       assiga@beac.int
+
+contact:      technical
+name:         Luc-Remy MAGONZA
+address:      736, Avenue Monseigneur Vogt
+address:      Yaounde Centre 1917
+address:      Cameroon
+phone:        (237) 223 40 30
+fax-no:       (237) 223 33 29
+e-mail:       magonza@beac.int
+
+nserver:      IRI.BEAC.INT 195.24.202.250
+nserver:      KOMBO.BEAC.INT 195.24.202.218
+
+created:      2001-09-10
+changed:      2007-03-23
+source:       IANA
+

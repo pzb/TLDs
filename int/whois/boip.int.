@@ -1,0 +1,38 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BOIP.INT
+
+organisation: Organisation Benelux de la Propriété Intellectuelle
+address:      Bordewijklaan 15
+address:      The Hague  2591 XR
+address:      The Netherlands
+
+contact:      administrative
+name:         Mischa Gossen
+address:      Bordewijklaan 15
+address:      The Hague  2591 XR
+address:      The Netherlands
+phone:        +31 70 349 1228
+fax-no:       +31 70 347 5708
+e-mail:       mgossen@boip.int
+
+contact:      technical
+name:         Jeroen Janssen
+address:      Bordewijklaan 15
+address:      The Hague  2591 XR
+address:      The Netherlands
+phone:        +31 70 349 1207
+fax-no:       +31 70 347 5708
+e-mail:       jjanssen@boip.int
+
+nserver:      NS1.KPN.NET 194.151.228.2
+nserver:      NS2.KPN.NET 194.151.228.50
+
+created:      2006-03-09
+changed:      2006-12-22
+source:       IANA
+

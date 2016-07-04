@@ -1,0 +1,37 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       EPLO.INT
+
+organisation: European Public Law Organization
+address:      16, Achaiou str
+address:      Athens Attica GR-106 75
+address:      Greece
+
+contact:      administrative
+name:         Ariadne Kopidaki
+address:      64th Km Athens-Sounio Ave
+address:      Legraina Attica GR-19 500
+address:      Greece
+phone:        00302292069811
+fax-no:       00302292069813
+e-mail:       akopidaki@eplo.eu
+
+contact:      technical
+name:         Valerio Lorini
+address:      64th Km Athens-Sounio Ave
+address:      Legraina Attica GR-19 500
+address:      Greece
+phone:        00302292069811
+fax-no:       00302292069813
+e-mail:       vlorini@eplo.eu
+
+nserver:      NS1.FASTSERVERS.GR 217.115.153.233
+nserver:      NS2.FASTSERVERS.GR 217.115.153.234
+
+created:      2009-03-03
+source:       IANA
+

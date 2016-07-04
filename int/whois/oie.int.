@@ -1,0 +1,38 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       OIE.INT
+
+organisation: Office International des Epizooties(OIE)
+address:      12 reu de Prony
+address:      75017 Paris  75017
+address:      France
+
+contact:      administrative
+name:         Guy Jannot
+address:      12 rue de Prony
+address:      Paris  75017
+address:      FRANCE
+phone:        33 (0)1 44 15 18 88
+fax-no:       33 (0) 42 67 09 87
+e-mail:       g.jannot@oie.int
+
+contact:      technical
+name:         Patrick AISENBERG
+address:      39 bd Anatole France
+address:      Saint-Denis france 93200
+address:      FRANCE
+phone:        00331.48.13.18.10
+fax-no:       00331.48.13.18.19
+e-mail:       p.aisenberg@lbn.fr
+
+nserver:      NS1.LINKBYNET.COM 217.19.48.80
+nserver:      NS2.LINKBYNET.COM 217.19.60.80
+
+created:      1997-02-12
+changed:      2007-06-22
+source:       IANA
+

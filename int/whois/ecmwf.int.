@@ -1,0 +1,38 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ECMWF.INT
+
+organisation: European Centre for Medium-Range Weather Forecasts
+address:      Shinfield Park
+address:      Reading Berkshire RG2 9AX
+address:      United Kingdom
+
+contact:      administrative
+name:         Tony Bakker
+address:      Shinfield Park
+address:      Reading Berkshire RG2 9AX
+address:      United Kingdom
+phone:        +44 118 949 9378
+fax-no:       +44 118 986 9450
+e-mail:       wan@ecmwf.int
+
+contact:      technical
+name:         Tony Bakker
+address:      Shinfield Park
+address:      Reading Berkshire RG2 9AX
+address:      United Kingdom
+phone:        +44 118 949 9378
+fax-no:       +44 118 986 9450
+e-mail:       wan@ecmwf.int
+
+nserver:      IPAM-INET-A.ECMWF.INT 193.61.196.151
+nserver:      IPAM-INET-B.ECMWF.INT 193.61.196.152
+
+created:      1997-10-10
+changed:      2014-02-10
+source:       IANA
+

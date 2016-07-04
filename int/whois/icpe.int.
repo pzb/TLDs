@@ -1,0 +1,37 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ICPE.INT
+
+organisation: International Center for Promotion of Enterprises
+address:      Dunajska 104
+address:      Ljubljana  1001
+address:      Slovenia
+
+contact:      administrative
+name:         David Tavzelj
+address:      Dunajska 104
+address:      Ljubljana  1001
+address:      Slovenia
+phone:        +386 1 568 23 32
+fax-no:       +386 1 568 27 75
+e-mail:       david.tavzelj@icpe.si
+
+contact:      technical
+name:         Luka Smrdelj
+address:      Dunajska 104
+address:      Ljubljana  1000
+address:      Slovenia
+phone:        + 386 1 566 17 44
+fax-no:       + 386 1 566 17 45
+e-mail:       luka@ataco.si
+
+nserver:      NS0.ATACO-SI.NET 89.212.19.70
+nserver:      NS1.ATACO-SI.NET 193.77.157.146
+
+created:      2013-01-03
+source:       IANA
+

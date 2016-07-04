@@ -1,0 +1,46 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       EDU.INT
+
+organisation: EDU
+address:      EDU Interim Office
+address:      Rue Faider 67
+address:      Ixelles
+address:      Brussels  1050
+address:      Belgium
+
+contact:      administrative
+name:         James Purnell
+organisation: EDU
+address:      EDU Interim Office
+address:      Rue Faider 67
+address:      Ixelles
+address:      Brussels  1050
+address:      Belgium
+phone:        +32-28081582
+fax-no:       +32-28081586
+e-mail:       edu.office.sg@gmail.com
+
+contact:      technical
+name:         James Purnell
+organisation: EDU
+address:      EDU Interim Office
+address:      Rue Faider 67
+address:      Ixelles
+address:      Brussels  1050
+address:      Belgium
+phone:        +32-28081582
+fax-no:       +32-28081586
+e-mail:       edu.office.sg@gmail.com
+
+nserver:      NS67.DOMAINCONTROL.COM 216.69.185.44
+nserver:      NS68.DOMAINCONTROL.COM 208.109.255.44
+
+created:      2011-06-16
+changed:      2015-04-08
+source:       IANA
+

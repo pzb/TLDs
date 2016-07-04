@@ -1,0 +1,41 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CTU.INT
+
+organisation: Caribbean Telecommunications Union
+address:      3rd Floor, Victoria Park Suites
+address:      14 - 17 Victoria Square
+address:      Port of Spain Trinidad
+address:      Trinidad and Tobago, W.I.
+
+contact:      administrative
+name:         CTU Host Master
+address:      3rd Floor, Victoria Park Suites
+address:      14 - 17 Victoria Square
+address:      Port of Spain Trinidad
+address:      Trinidad and Tobago, W.I.
+phone:        +1 868 627 0281
+fax-no:       +1 868 623 1523
+e-mail:       webadmin@ctu.int
+
+contact:      technical
+name:         CTU Host Master
+address:      3rd Floor, Victoria Park Suites
+address:      14 - 17 Victoria Square
+address:      Port of Spain Trinidad
+address:      Trinidad and Tobago, W.I.
+phone:        +1 868 627 0281
+fax-no:       +1 868 623 1523
+e-mail:       webadmin@ctu.int
+
+nserver:      NS1.ARIN.NET 199.43.0.196
+nserver:      NS2.ARIN.NET 192.149.252.41
+
+created:      2007-02-08
+changed:      2008-11-05
+source:       IANA
+

@@ -1,0 +1,47 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       WCPFC.INT
+
+organisation: Western and Central Pacific Fisheries Commission
+address:      Kaselelieh Street
+address:      PO Box 2356
+address:      Kolonia Pohnpei State 96941
+address:      Federated States of Micronesia
+
+contact:      administrative
+name:         Professor Glenn Hurry
+organisation: Western and Central Pacific Fisheries Commission
+address:      Kaselelieh Street
+address:      PO Box 2356
+address:      Kolonia Pohnpei State 96941
+address:      Federated States of Micronesia
+phone:        +691 320 1992
+fax-no:       +691 320 1108
+e-mail:       glenn.hurry@wcpfc.int
+
+contact:      technical
+name:         Sam Taufao
+organisation: Western and Central Pacific Fisheries Commission
+address:      Kaselelieh Street
+address:      PO Box 2356
+address:      Kolonia Pohnpei
+address:      Federated States of Micronesia
+phone:        +691 320 1992
+fax-no:       +691 320 1108
+e-mail:       itsupport@wcpfc.int
+
+nserver:      NS10.DNSMADEEASY.COM 208.94.148.4
+nserver:      NS11.DNSMADEEASY.COM 208.80.124.4
+nserver:      NS12.DNSMADEEASY.COM 208.80.126.4
+nserver:      NS13.DNSMADEEASY.COM 208.80.125.4
+nserver:      NS14.DNSMADEEASY.COM 208.80.127.4
+nserver:      NS15.DNSMADEEASY.COM 208.94.149.4
+
+created:      2006-04-06
+changed:      2011-02-08
+source:       IANA
+

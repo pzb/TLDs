@@ -1,0 +1,43 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       UNESCO.INT
+
+organisation: United Nations Education, Scientific and Cultural Organization
+address:      UNESCO
+address:      7, place de Fontenoy
+address:      PARIS 07 SP  75352
+address:      FRANCE
+
+contact:      administrative
+name:         ADM/DIT Networks & Systems, DNS Administrator
+address:      UNESCO
+address:      7, place de Fontenoy
+address:      PARIS 07 SP  75352
+address:      FRANCE
+phone:        +33145682089
+fax-no:       +33145685616
+e-mail:       hostmaster@unesco.org
+
+contact:      technical
+name:         ADM/DIT Networks & Systems, DNS Administrator
+address:      UNESCO
+address:      7, place de Fontenoy
+address:      PARIS 07 SP  75352
+address:      FRANCE
+phone:        +33145682089
+fax-no:       +33145685616
+e-mail:       hostmaster@unesco.org
+
+nserver:      NS0.UNESCO.ORG 193.242.192.106
+nserver:      NS1.NAN1.FR.UU.NET 194.98.65.169
+nserver:      NS1.NAN2.FR.UU.NET 194.98.65.69
+nserver:      NS1.UNESCO.ORG 193.242.192.102
+
+created:      2001-09-10
+changed:      2011-02-11
+source:       IANA
+

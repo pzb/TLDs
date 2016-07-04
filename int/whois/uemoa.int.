@@ -1,0 +1,42 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       UEMOA.INT
+
+organisation: West African Economic and Monetary Union
+address:      380, Avenue du Professeur KI-ZERBO
+address:      01 BP 543 Ouagadougou 01
+address:      Burkina Faso
+address:      Ouagadougon
+address:      Burkina Faso
+
+contact:      administrative
+name:         Cheikhe Hadjibou TOURE
+address:      380, Avenue du Professeur KI-ZERBO
+address:      01 BP 543 Ouagadougou 01
+address:      Ouagadougon
+address:      Burkina Faso
+phone:        +226 25318873
+fax-no:       +226 25318872
+e-mail:       commission@uemoa.int
+
+contact:      technical
+name:         Désiré Méhi DIOMANDE
+address:      380, Avenue du Professeur KI-ZERBO
+address:      01 BP 543 Ouagadougou 01
+address:      Ouagadougon
+address:      Burkina Faso
+phone:        +226 25328762
+fax-no:       +226 25318872
+e-mail:       dmdiomande@uemoa.int
+
+nserver:      DNS.UEMOA.INT 212.52.130.131
+nserver:      OUAPDNS02.UEMOA.INT 154.65.61.1
+
+created:      2000-09-29
+changed:      2015-06-18
+source:       IANA
+

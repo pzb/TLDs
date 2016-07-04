@@ -1,0 +1,41 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CICOS.INT
+
+organisation: Commission Internationale du Congo-Oubangui-Sangha
+address:      Croisement des avenues Wagenia et Poids
+address:      Immeuble Kilou, 3e étage
+address:      Gombe
+address:      Kinshasa Kinshasa
+address:      Democratic Republic of Congo
+
+contact:      administrative
+name:         Augustin WAYAWO
+address:      Croisement des avenues Wagenia et Poids
+address:      Immeuble Kilou, 3e étage
+address:      Gombe
+address:      Kinshasa Kinshasa
+address:      Democratic Republic of Congo
+phone:        +243 970003721
+e-mail:       cicos_inst@yahoo.fr
+
+contact:      technical
+name:         Kathrin Sirtl
+address:      Croisement des avenues Wagenia et Poids
+address:      Immeuble Kilou, 3e étage
+address:      Gombe
+address:      Kinshasa Kinshasa
+address:      Democratic Republic of Congo
+phone:        +243 970003721
+e-mail:       kathrin.sirtl@giz.de
+
+nserver:      DNS110.OVH.NET 213.251.188.154
+nserver:      NS110.OVH.NET 213.251.128.154
+
+created:      2014-10-27
+source:       IANA
+

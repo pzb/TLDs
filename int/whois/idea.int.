@@ -1,0 +1,38 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       IDEA.INT
+
+organisation: International IDEA
+address:      Strömsborg
+address:      Stockholm  SE-103 34
+address:      Sweden
+
+contact:      administrative
+name:         Martin Schneider
+organisation: International IDEA
+address:      Strömsborg
+address:      Stockholm  SE-103 34
+address:      Sweden
+phone:        +46 8 698 37 81
+fax-no:       +46 8 20 24 22
+e-mail:       m.schneider@idea.int
+
+contact:      technical
+name:         Sigma AB
+address:      Forskarvägen 1
+address:      Örebro  SE-702 18
+address:      Sweden
+phone:        +46 1 932 42 40
+e-mail:       idea.support@sigma.se
+
+nserver:      NS.CYPOINT.NET 81.92.65.148
+nserver:      NS2.CYPOINT.NET 80.87.49.148
+
+created:      1998-01-28
+changed:      2012-07-11
+source:       IANA
+

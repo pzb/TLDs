@@ -1,0 +1,44 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       EAC.INT
+
+organisation: East African Community
+address:      PO Box 1096
+address:      AICC Building
+address:      Kilimanjaro Wing
+address:      Arusha  255
+address:      Tanzania
+
+contact:      administrative
+name:         Aggrey Julius Nkondola
+organisation: East African Community
+address:      PO Box 1096
+address:      AICC Bulding
+address:      Arusha  255
+address:      Tanzania
+phone:        255272504253
+fax-no:       255272504255
+e-mail:       nkondola@eachq.org
+
+contact:      technical
+name:         Jacob Meme Ikilenya
+organisation: East African Community
+address:      PO Box 1096
+address:      AICC Bulding
+address:      Arusha  255
+address:      Tanzania
+phone:        255272504253
+fax-no:       255272504255
+e-mail:       ikilenya@eachq.org
+
+nserver:      NS1.EACNS.ORG 174.123.160.66
+nserver:      NS2.EACNS.ORG 174.123.160.67
+
+created:      2003-01-23
+changed:      2010-01-12
+source:       IANA
+

@@ -1,0 +1,41 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SOPAC.INT
+
+organisation: SOPAC
+address:      PMB GPO
+address:      Suva
+address:      Fiji
+
+contact:      administrative
+name:         Les Allinson
+address:      c/o SOPAC
+address:      PMB GPO
+address:      Suva
+address:      Fiji
+phone:        +679 381 377
+fax-no:       +679 370 040
+e-mail:       les@sopac.int
+
+contact:      technical
+name:         Franck Martin
+address:      c/o SOPAC
+address:      PMB GPO
+address:      Suva
+address:      Fiji
+phone:        +679 381 377
+fax-no:       +679 370 040
+e-mail:       franck@sopac.int
+
+nserver:      COBALT.SOPAC.ORG.FJ 202.62.0.150
+nserver:      FLAG.EP.NET 198.32.4.13
+nserver:      SOPACSUN.SOPAC.ORG.FJ 202.62.0.129
+
+created:      2001-09-10
+changed:      2007-06-22
+source:       IANA
+

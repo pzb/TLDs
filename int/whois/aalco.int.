@@ -1,0 +1,38 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       AALCO.INT
+
+organisation: Asian-African Legal Consultative Organization (AALCO)
+address:      29-C Rizal Marg, Diplomatic Enclave, Chanakyapuri
+address:      New Delhi New Delhi 110021
+address:      India
+
+contact:      administrative
+name:         Prof. Dr. Rahmat Bin Mohamad
+address:      29-C Rizal Marg, Diplomatic Enclave, Chanakyapuri
+address:      New Delhi New Delhi 110021
+address:      India
+phone:        91 11 26117641
+fax-no:       91 11 26117640
+e-mail:       mail@aalco.int
+
+contact:      technical
+name:         Prof. Dr. Rahmat Bin Mohamad
+address:      29-C Rizal Marg, Diplomatic Enclave, Chanakyapuri
+address:      New Delhi New Delhi 110021
+address:      India
+phone:        91 11 26117641
+fax-no:       91 11 26117640
+e-mail:       mail@aalco.int
+
+nserver:      DINA.NS.CLOUDFLARE.COM 173.245.58.107
+nserver:      THEO.NS.CLOUDFLARE.COM 173.245.59.144
+
+created:      2007-01-24
+changed:      2014-05-12
+source:       IANA
+

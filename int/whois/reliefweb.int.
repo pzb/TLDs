@@ -1,0 +1,41 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       RELIEFWEB.INT
+
+organisation: ReliefWeb
+address:      380 Madison Ave
+address:      OCHA
+address:      New York New York 10017
+address:      USA
+
+contact:      administrative
+name:         Shuichi Odaka
+address:      380 Madison Ave
+address:      OCHA
+address:      New York New York 10017
+address:      USA
+phone:        +1 347 829 7932
+fax-no:       +1 212 963 1040
+e-mail:       feedback@reliefweb.int
+
+contact:      technical
+name:         International Telecommunication Union
+address:      Place des Nations
+address:      Geneva GE CH-1211
+address:      Switzerland
+phone:        +41 22 730 51 11
+fax-no:       +41 22 733 7256
+e-mail:       hostmaster@itu.int
+
+nserver:      NS.ITU.CH 156.106.192.121
+nserver:      NS2.ITU.CH 206.155.102.70
+nserver:      NS3.ITU.CH 128.9.128.127
+
+created:      1996-07-08
+changed:      2016-06-15
+source:       IANA
+

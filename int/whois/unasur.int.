@@ -1,0 +1,35 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       UNASUR.INT
+
+organisation: Unión de Naciones Suramericanas
+address:      Av. Manuel Córdova Galarza, Mitad del Mundo
+address:      Quito Pichincha 170311
+address:      Ecuador
+
+contact:      administrative
+name:         Administrative Contact
+address:      Av. Manuel Córdova Galarza, Mitad del Mundo
+address:      Quito Pichincha 170311
+address:      Ecuador
+phone:        +59323990900
+e-mail:       hostmaster-adm@unasursg.org
+
+contact:      technical
+name:         Technical Contact
+address:      Av. Manuel Córdova Galarza, Mitad del Mundo
+address:      Quito Pichincha 170311
+address:      Ecuador
+phone:        +59323990900
+e-mail:       hostmaster-tec@unasursg.org
+
+nserver:      NS1.UNASUR.INT 181.113.123.18
+nserver:      NS2.UNASUR.INT 181.113.123.19
+
+created:      2015-08-05
+source:       IANA
+

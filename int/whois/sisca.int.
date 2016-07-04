@@ -1,0 +1,40 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SISCA.INT
+
+organisation: Secretaría de la Integración Social Centroamericana
+address:      Avenida Roberto F. Chiari y Calle George W. Goethal, Edificio 711
+address:      Ciudad de Panama Balboa
+address:      Panama
+
+contact:      administrative
+name:         Juan Jose Garcia
+address:      Final Bulevar Cancilleria, Edificio SICA
+address:      Merliot Antiguo Cuscatlan 1502
+address:      El Salvador
+phone:        503-2248-8857
+fax-no:       503-2248-6943
+e-mail:       soporte@sisca.int
+
+contact:      technical
+name:         Luis Alberto Rivas
+address:      Final Bulevar Cancilleria, Edificio SICA
+address:      Merliot Antiguo Cuscatlan 1502
+address:      El Salvador
+phone:        503-2248-8857
+fax-no:       503-2248-6943
+e-mail:       domain-register@sisca.int
+
+nserver:      NS-1125.AWSDNS-12.ORG 205.251.196.101
+nserver:      NS-1893.AWSDNS-44.CO.UK 205.251.199.101
+nserver:      NS-490.AWSDNS-61.COM 205.251.193.234
+nserver:      NS-716.AWSDNS-25.NET 205.251.194.204
+
+created:      2011-01-28
+changed:      2016-04-20
+source:       IANA
+

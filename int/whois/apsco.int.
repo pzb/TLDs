@@ -1,0 +1,42 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       APSCO.INT
+
+organisation: ASIA-PACIFIC SPACE COOPERATION ORGANIZATION
+address:      APT.1121-1124, BEIJING RUICHENG HOTEL NO.9, XICUI ROAD, HAIDIAN DISTRICT
+address:      BUILDING 13&14, NO 188, WEST ROAD, XINANSIHUAN,FENGTAI DISTRICT
+address:      BEIJING BEIJING 100036/100070
+address:      CHINA
+
+contact:      administrative
+name:         LIU XIAOHONG
+organisation: ASIA-PACIFIC SPACE COOPERATION ORGANIZATION
+address:      APT.1121-1124, BEIJING RUICHENG HOTEL NO.9, XICUI ROAD, HAIDIAN DISTRICT
+address:      BUILDING 13&14, NO 188, WEST ROAD, XINANSIHUAN,FENGTAI DISTRICT
+address:      BEIJING BEIJING 100036/100070
+address:      CHINA
+phone:        8610 88271277 EXT 11
+fax-no:       8610 88271120
+e-mail:       secretariat@apmcsta.org
+
+contact:      technical
+name:         LIU XIAOHONG
+organisation: ASIA-PACIFIC SPACE COOPERATION ORGANIZATION
+address:      APT.1121-1124, BEIJING RUICHENG HOTEL NO.9, XICUI ROAD, HAIDIAN DISTRICT
+address:      BUILDING 13&14, NO 188, WEST ROAD, XINANSIHUAN,FENGTAI DISTRICT
+address:      BEIJING BEIJING 100036/100070
+address:      CHINA
+phone:        8610 88271277 EXT 11
+fax-no:       8610 88271120
+e-mail:       secretariat@apmcsta.org
+
+nserver:      NS1.ORAY.NET 202.105.21.217
+nserver:      NS2.ORAY.NET 61.152.96.118
+
+created:      2009-04-03
+source:       IANA
+

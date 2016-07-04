@@ -1,0 +1,39 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CEFTA.INT
+
+organisation: Central European Free Trade Agreement
+address:      12-16, Rue Joseph II
+address:      Brussels Brabant B-1000
+address:      Belgium
+
+contact:      administrative
+name:         Liudmila Nistor-Mihajlova
+organisation: CEFTA
+address:      12-16, Rue Joseph II
+address:      Brussels Brabant B-1000
+address:      Belgium
+phone:        +32 2 229 10 11
+fax-no:       +32 2 229 10 19
+e-mail:       l.mihajlova@gmail.com
+
+contact:      technical
+name:         Marc De Decker
+organisation: CEFTA
+address:      12-16, Rue Joseph II
+address:      Brussels Brabant B-1000
+address:      Belgium
+phone:        +32 496 64 24 37
+fax-no:       +32 2 229 10 19
+e-mail:       cefta2006@hotmail.com
+
+nserver:      NS16.ZONEEDIT.COM 207.36.5.78
+nserver:      NS9.ZONEEDIT.COM 66.240.231.42
+
+created:      2008-11-21
+source:       IANA
+

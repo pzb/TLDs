@@ -1,0 +1,41 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       APNIC.INT
+
+organisation: APNIC PTY LTD
+address:      1/33 Park Road
+address:      Milton
+address:      Brisbane QLD 4064
+address:      AUSTRALIA
+
+contact:      administrative
+name:         APNIC Billing
+address:      1/33 Park Road
+address:      Milton
+address:      Brisbane QLD 4064
+address:      AUSTRALIA
+phone:        +61738583100
+fax-no:       +61738583199
+e-mail:       billing@apnic.net
+
+contact:      technical
+name:         Domain Technical
+address:      1/33 park Road
+address:      Milton
+address:      Brisbane QLD 4064
+address:      AUSTRALIA
+phone:        +61738583100
+fax-no:       +61738583199
+e-mail:       domain-tech@apnic.net
+
+nserver:      CUMIN.APNIC.NET 202.12.29.59
+nserver:      TINNIE.APNIC.NET 202.12.29.60
+
+created:      2001-09-10
+changed:      2003-01-21
+source:       IANA
+

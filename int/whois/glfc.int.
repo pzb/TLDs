@@ -1,0 +1,44 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       GLFC.INT
+
+organisation: The Great Lakes Fishery Commission
+address:      2100 Commonwealth Blvd.
+address:      Ste. 100
+address:      Ann Arbor Michigan 48105
+address:      U.S.A
+
+contact:      administrative
+name:         Hao Zhuang
+organisation: The Great Lakes Fishery Commission
+address:      2100 Commonwealth Blvd.
+address:      Ste. 100
+address:      Ann Arbor Michigan 48105
+address:      U.S.A.
+phone:        734-662-3209 x 16
+fax-no:       734-741-2010
+e-mail:       hzhuang@glfc.org
+
+contact:      technical
+name:         Hao Zhuang
+organisation: The Great Lakes Fishery Commission
+address:      2100 Commonwealth Blvd.
+address:      Ste. 100
+address:      Ann Arbor Michigan 48105
+address:      U.S.A.
+phone:        734-662-3209 x 16
+fax-no:       734-741-2010
+e-mail:       hzhuang@glfc.org
+
+nserver:      NS1.BIZSERVE.COM 64.9.208.1
+nserver:      NS2.BIZSERVE.COM 64.9.208.2
+nserver:      NS3.BIZSERVE.COM 152.160.24.51
+
+created:      2004-01-13
+changed:      2004-01-21
+source:       IANA
+

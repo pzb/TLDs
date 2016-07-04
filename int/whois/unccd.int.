@@ -1,0 +1,40 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       UNCCD.INT
+
+organisation: United Nations Convention to Combat Desertification
+address:      Hermaan Ehlers Str 10
+address:      Langer Eugen
+address:      Bonn NRW 53115
+address:      Germany
+
+contact:      administrative
+name:         Administration and Finance Unit
+address:      Hermaan Ehlers Str 10
+address:      Bonn NRW 53115
+address:      Germany
+phone:        +49 228 815 2246
+fax-no:       +49 228 815 2899
+e-mail:       twadhawan@unccd.int
+
+contact:      technical
+name:         Administration and Finance Unit
+address:      Hermaan Ehlers Str 10
+address:      Bonn NRW 53115
+address:      Germany
+phone:        +49 228 815 2246
+fax-no:       +49 228 815 2899
+e-mail:       twadhawan@unccd.int
+
+nserver:      DENEB.DFN.DE 192.76.176.9
+nserver:      NS1.UNCCD.INT 195.37.114.10
+nserver:      NS2.UNCCD.INT 195.37.114.9
+
+created:      2000-09-29
+changed:      2010-07-22
+source:       IANA
+

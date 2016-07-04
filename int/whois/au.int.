@@ -1,0 +1,39 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       AU.INT
+
+organisation: African Union
+address:      Roosvelt Street, Old Airport Area, W21K19
+address:      Addis Ababa  P.O. Box 3243
+address:      Ethiopia
+
+contact:      administrative
+name:         Christiane Yanrou
+organisation: African Union
+address:      Roosvelt Street, Old Airport Area, W21K19
+address:      Addis Ababa  P.O. Box 3243
+address:      Ethiopia
+phone:        +251-0911201634 / +251-115-517700
+fax-no:       +251-1155-511299
+e-mail:       webmaster@africa-union.org
+
+contact:      technical
+name:         Christiane Yanrou
+organisation: African Union
+address:      Roosvelt Street, Old Airport Area, W21K19
+address:      Addis Ababa  P.O. Box 3243
+address:      Ethiopia
+phone:        +251-0911201634 / +251-115-517700
+fax-no:       +251-1155-511299
+e-mail:       webmaster@africa-union.org
+
+nserver:      NS1.SECURE.NET 192.220.124.10
+nserver:      NS2.SECURE.NET 192.220.125.10
+
+created:      2009-09-24
+source:       IANA
+

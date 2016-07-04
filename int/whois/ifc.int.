@@ -1,0 +1,40 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       IFC.INT
+
+organisation: International Finance Corporation
+address:      2121 Pennsylvania Avenue NW
+address:      Washington D.C. 20433
+address:      USA
+
+contact:      administrative
+name:         Joseph O'Keefe
+organisation: International Finance Corporation
+address:      2121 Pennsylvania Avenue NW
+address:      Washington D.C. 90433
+address:      USA
+phone:        (202) 473-3800
+fax-no:       (202) 974-4383
+e-mail:       webmaster@ifc.org
+
+contact:      technical
+name:         Horacio Rivera-Piza
+organisation: International Finance Corporation
+address:      2121 Pennsylvania Avenue NW
+address:      Washington D.C. 20433
+address:      USA
+phone:        (202) 473-3800
+fax-no:       (202) 974-4384
+e-mail:       techmaster@ifc.org
+
+nserver:      RSDEV.IFC.ORG 164.114.128.2
+nserver:      RSPROD.IFC.ORG 164.114.128.1
+
+created:      1995-10-23
+changed:      2007-03-29
+source:       IANA
+

@@ -1,0 +1,40 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CTO.INT
+
+organisation: Commonwealth Telecommunications Organisation (CTO)
+address:      Clareville House 26/27 Oxendon Street
+address:      London  SW1Y 4EL
+address:      England
+
+contact:      administrative
+name:         Grahame Wood
+organisation: Commonwealth Telecommunications Organisation (CTO)
+address:      Clareville House 26/27 Oxendon Street
+address:      London  SW1Y 4EL
+address:      England
+phone:        +44 20 79305513
+e-mail:       g.wood@cto.int
+
+contact:      technical
+name:         Bjorn Johansson
+organisation: Loud-n-Clear Ltd
+address:      The Lodge
+address:      Stud Green Berkshire SL6 2JF
+address:      England
+phone:        +44 0 1628 583 700
+fax-no:       +44 0 1628 583 717
+e-mail:       hostmaster@loud-n-clear.net
+
+nserver:      NS0.LOUD-N-CLEAR.NET 213.208.124.33
+nserver:      NS1.LOUD-N-CLEAR.NET 80.82.130.77
+nserver:      NS2.LOUD-N-CLEAR.NET 216.181.53.50
+
+created:      1996-08-20
+changed:      2007-03-26
+source:       IANA
+

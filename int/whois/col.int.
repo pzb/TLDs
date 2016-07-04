@@ -1,0 +1,43 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       COL.INT
+
+organisation: The Commonwealth of Learning
+address:      1285 West Broadway
+address:      Suite 600
+address:      Vancouver BC V6H 3X8
+address:      Canada
+
+contact:      administrative
+name:         David Walker
+organisation: The Commonwealth of Learning
+address:      1285 West Broadway
+address:      Suite 600
+address:      Vancouver BC V6H 3X8
+address:      Canada
+phone:        +1 604 775 8200
+fax-no:       +1 604 775 8210
+e-mail:       dwalker@col.org
+
+contact:      technical
+name:         David Walker
+organisation: The Commonwealth of Learning
+address:      1285 West Broadway
+address:      Suite 600
+address:      Vancouver BC V6H 3X8
+address:      Canada
+phone:        +1 604 775 8200
+fax-no:       +1 604 775 8210
+e-mail:       dwalker@col.org
+
+nserver:      DNS1.CIDC.TELUS.COM 216.123.224.131
+nserver:      DNS2.CIDC.TELUS.COM 66.203.199.203
+
+created:      2003-04-30
+changed:      2003-09-08
+source:       IANA
+

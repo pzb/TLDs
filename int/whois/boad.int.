@@ -1,0 +1,37 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BOAD.INT
+
+organisation: Banque Ouest Africaine de Développement
+address:      68, Avenue de La Libération
+address:      Lomé Préfecture du Golfe BP 1172
+address:      Togo
+
+contact:      administrative
+name:         Ayi M. tony dALMEIDA
+address:      68, Avenue de La Libération
+address:      Lomé Préfecture du Golfe BP 1172
+address:      Togo
+phone:        002282232405
+fax-no:       002282232767
+e-mail:       tdalmeida@boad.org
+
+contact:      technical
+name:         Mamane Lawali ABDOU
+address:      68, Avenue de La Libération
+address:      Lomé Préfecture du Golfe BP 1172
+address:      Togo
+phone:        002282232407
+fax-no:       002282232767
+e-mail:       labdou@boad.org
+
+nserver:      UDNS1.ULTRADNS.NET 204.69.234.1
+nserver:      UDNS2.ULTRADNS.NET 204.74.101.1
+
+created:      2011-05-17
+source:       IANA
+

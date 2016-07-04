@@ -1,0 +1,40 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       EPO.INT
+
+organisation: European Patent Office
+address:      Erhardtstrasse 27
+address:      Munich  80469
+address:      Germany
+
+contact:      administrative
+name:         Anna Juda
+organisation: European Patent Office
+address:      Rennweg 12A
+address:      Wien  1030
+address:      Austria
+phone:        +43 (0)1 52126 1078
+e-mail:       website@epo.org
+
+contact:      technical
+name:         Network Control Centre
+organisation: European Patent Office
+address:      Patentlaan 2
+address:      Rijswijk  2288 EE
+address:      The Netherlands
+phone:        +31 70 3402068
+fax-no:       +31 70 3403222
+e-mail:       network@epo.org
+
+nserver:      GATE.EPO.NL 145.64.128.3
+nserver:      NAME.JFK.GBLX.NET 64.212.106.87
+nserver:      NAME.LON.GBLX.NET 64.215.98.147
+
+created:      2003-05-21
+changed:      2010-09-07
+source:       IANA
+

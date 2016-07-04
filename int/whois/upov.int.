@@ -1,0 +1,42 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       UPOV.INT
+
+organisation: Union for the Protection of New Varieties of Plants
+address:      c/o UNICC
+address:      Palais des Nations
+address:      Geneva 10  1211
+address:      CH
+
+contact:      administrative
+name:         Name Service Administrative Contact
+address:      Palais des Nations
+address:      c/o UNICC
+address:      Geneva 10  1211
+address:      Switzerland
+phone:        +41 22 929 1411
+fax-no:       +41 22 929 1412
+e-mail:       ns-admin@unicc.org
+
+contact:      technical
+name:         Name Service Technical Contact
+address:      Palais des Nations
+address:      c/o UNICC
+address:      Geneva 10  1211
+address:      Switzerland
+phone:        +41 22 929 1411
+fax-no:       +41 22 929 1412
+e-mail:       ns-tech@unicc.org
+
+nserver:      NS.UNICC.ORG 192.91.247.3
+nserver:      NS1.GVA.CH.COLT.NET 212.74.78.22
+nserver:      NSE1.WIPO.INT 193.5.93.3
+
+created:      1997-11-10
+changed:      2007-06-22
+source:       IANA
+

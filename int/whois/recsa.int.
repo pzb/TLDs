@@ -1,0 +1,37 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       RECSA.INT
+
+organisation: Regional Centre on Small Arms
+address:      P.O. Box 7039
+address:      Nairobi Kenya 00200
+address:      Kenya
+
+contact:      administrative
+name:         Mr. Zakayo Akula
+address:      P.O. Box 7039
+address:      Nairobi Kenya 00200
+address:      Kenya
+phone:        +254720459759
+e-mail:       zakula@recsasec.org
+
+contact:      technical
+name:         Samson ADADA
+address:      Box 34472
+address:      Nairobi Kenya 00100
+address:      Kenya
+phone:        +254723913731
+e-mail:       ogollas@recsasec.org
+
+nserver:      NS1.TAMSHI.COM 62.24.122.25
+nserver:      NS2.TAMSHI.COM 62.24.122.19
+nserver:      NS3.TAMSHI.COM 5.79.17.79
+
+created:      2014-03-14
+changed:      2015-02-17
+source:       IANA
+

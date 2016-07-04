@@ -1,0 +1,47 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       GGGI.INT
+
+organisation: Global Green Growth Institute
+address:      19F Jeongdong Bldg.
+address:      15-5 Jeong-dong
+address:      Jung-gu
+address:      Seoul  100-784
+address:      Korea, Republic of
+
+contact:      administrative
+name:         Michael Sullivan
+organisation: Global Green Growth Institute
+address:      19F Jeongdong Bldg.
+address:      15-5 Jeong-dong
+address:      Jung-gu
+address:      Seoul  100-784
+address:      Korea, Republic of
+phone:        82-70-7117-9965
+e-mail:       m.sullivan@gggi.org
+
+contact:      technical
+name:         Taebin Park
+organisation: Global Green Growth Institute
+address:      19F Jeongdong Bldg.
+address:      15-5 Jeong-dong
+address:      Jung-gu
+address:      Seoul  100-784
+address:      Korea, Republic of
+phone:        82-70-7117-9956
+e-mail:       tb.park@gggi.org
+
+nserver:      NS231.DNSEVER.COM 222.231.0.1
+nserver:      NS259.DNSEVER.COM 222.231.0.2
+nserver:      NS42.DNSEVER.COM 121.254.188.42
+nserver:      NS73.DNSEVER.COM 121.254.188.73
+nserver:      NS75.DNSEVER.COM 121.254.188.75
+
+created:      2013-03-05
+changed:      2013-03-06
+source:       IANA
+

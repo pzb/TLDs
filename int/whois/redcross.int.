@@ -1,0 +1,41 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       REDCROSS.INT
+
+organisation: International Federation of Red Cross and Red Crescent Societies
+address:      Chemin des crets 17
+address:      Geneva GE 1209
+address:      Switzerland
+
+contact:      administrative
+name:         Edward Happ
+organisation: International Federation of Red Cross and Red Crescent Societies
+address:      Chemin des crets 17
+address:      Geneva GE 1209
+address:      Switzerland
+phone:        +41-22-7304365
+fax-no:       +41-22-7304908
+e-mail:       edward.happ@ifrc.org
+
+contact:      technical
+name:         Amol Sawarkar
+organisation: International Federation of Red Cross and Red Crescent Societies
+address:      Chemin des crets 17
+address:      Geneva GE 1209
+address:      Switzerland
+phone:        +41-22-7304560
+fax-no:       +41-22-7304809
+e-mail:       amol.sawarkar@ifrc.org
+
+nserver:      AQUA.OPEN.CH 213.156.224.141
+nserver:      NSPRI.IFRC.ORG 217.169.134.4
+nserver:      TERRA.OPEN.CH 213.156.232.130
+
+created:      2001-09-10
+changed:      2015-04-24
+source:       IANA
+

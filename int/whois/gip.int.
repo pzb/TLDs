@@ -1,0 +1,37 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       GIP.INT
+
+organisation: For more information, contact int-dom@iana.org.
+
+contact:      administrative
+name:         Jose Arcos Ortiz
+organisation: European Commission, Information Society Directorate - General
+address:      Av. de Beaulieu 24, office 00/88
+address:      Brussels  B-1150
+address:      Belgium
+phone:        +33 2 29 68532
+fax-no:       +32 2 29 99499
+e-mail:       jose.arcos-ortiz@cec.eu.int
+
+contact:      technical
+name:         Jose Arcos Ortiz
+organisation: European Commission, Information Society Directorate - General
+address:      Av. de Beaulieu 24, office 00/88
+address:      Brussels  B-1150
+address:      Belgium
+phone:        +33 2 29 68532
+fax-no:       +32 2 29 99499
+e-mail:       jose.arcos-ortiz@cec.eu.int
+
+nserver:      SCANO1.VO.IT 151.99.197.21
+nserver:      TCLUX1.CEC.LU 158.169.9.11
+
+created:      1997-05-05
+changed:      2007-03-26
+source:       IANA
+

@@ -1,0 +1,36 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       INL.INT
+
+organisation: INL (INTERNATIONAL IBERIAN NANOTECHNOLOGY LABORATORY)
+address:      AV. Mestre Jose Veiga
+address:      Braga  4715-330
+address:      Portugal
+
+contact:      administrative
+name:         Adelino Correia
+address:      AV. Mestre Jose Veiga
+address:      BRAGA  4715-330
+address:      PORTUGAL
+phone:        +351253140112
+e-mail:       adelino.correia@inl.int
+
+contact:      technical
+name:         Jose Goncalves
+address:      AV. Mestre Jose Veiga
+address:      Braga Braga 4715-330
+address:      Portugal
+phone:        +351253140112
+e-mail:       jose.goncalves@inl.int
+
+nserver:      PDNS07.DOMAINCONTROL.COM 216.69.185.53
+nserver:      PDNS08.DOMAINCONTROL.COM 208.109.255.53
+
+created:      2009-02-20
+changed:      2015-12-07
+source:       IANA
+

@@ -1,0 +1,38 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       IIB.INT
+
+organisation: International Investment Bank
+address:      7 Mashi Poryvaevoj str.
+address:      Moscow Moscow 107078
+address:      Russian Federation
+
+contact:      administrative
+organisation: International Investment Bank
+address:      7 Mashi Poryvaevoj str.
+address:      Moscow Moscow 107078
+address:      Russian Federation
+phone:        +74956047442
+fax-no:       +74999752070
+e-mail:       mail@iibbank.com
+
+contact:      technical
+name:         Sergey Korolev
+address:      7 Mashi Poryvaevoj str.
+address:      Moscow Moscow 107078
+address:      Russian Federation
+phone:        +74956047442
+fax-no:       +74999752070
+e-mail:       sergey.korolev@iibbank.com
+
+nserver:      NS1.GLDN.NET 194.67.2.108
+nserver:      NS2.GLDN.NET 194.67.2.109
+nserver:      NS3.GLDN.NET 194.67.7.1
+
+created:      2014-09-17
+source:       IANA
+

@@ -1,0 +1,46 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ACP.INT
+
+organisation: The African, Caribbean and Pacific Group of States
+address:      Avenue Georges Henri, 451
+address:      Brussels Brabant 1200
+address:      Belgium
+
+contact:      administrative
+name:         Alec Singh
+organisation: The African, Caribbean and Pacific Group of States
+address:      Chief Technologist
+address:      ACP General Secretariat
+address:      Avenue Georges Henri, 451
+address:      Brussels Brabant 1200
+address:      Belgium
+phone:        322 7430610
+fax-no:       322 7355573
+e-mail:       alec@acp.int
+
+contact:      technical
+name:         Alec Singh
+organisation: The African, Caribbean and Pacific Group of States
+address:      Chief Technologist
+address:      ACP General Secretariat
+address:      Avenue Georges Henri, 451
+address:      Brussels Brabant 1200
+address:      Belgium
+phone:        322 7430610
+fax-no:       322 7355573
+e-mail:       alec@acp.int
+
+nserver:      NS1.P30.DYNECT.NET 208.78.70.30
+nserver:      NS2.P30.DYNECT.NET 204.13.250.30
+nserver:      NS3.P30.DYNECT.NET 208.78.71.30
+nserver:      NS4.P30.DYNECT.NET 204.13.251.30
+
+created:      2003-10-17
+changed:      2014-07-17
+source:       IANA
+

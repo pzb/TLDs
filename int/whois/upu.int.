@@ -1,0 +1,41 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       UPU.INT
+
+organisation: Universal Postal Union
+address:      Weltpoststrasse 4
+address:      Bern BE 3015
+address:      Switzerland
+
+contact:      administrative
+name:         Pascal KERBOAS
+address:      Universal Postal Union
+address:      Weltpoststrasse 4
+address:      Bern BE 3015
+address:      Switzerland
+phone:        +41 313.503.530
+fax-no:       +41 313.503.110
+e-mail:       pascal.kerboas@upu.int
+
+contact:      technical
+name:         Paola ROSSI
+address:      Universal Postal Union
+address:      Weltpoststrasse 4
+address:      Bern BE 3015
+address:      Switzerland
+phone:        +41 313.503.527
+fax-no:       +41 313.503.110
+e-mail:       paola.rossi@upu.int
+
+nserver:      ISIS.UPU.INT 193.247.49.1
+nserver:      NS1.IP-PLUS.NET 164.128.36.34
+nserver:      OSIRIS.UPU.INT 193.247.49.2
+
+created:      1998-01-29
+changed:      2009-04-21
+source:       IANA
+

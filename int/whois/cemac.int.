@@ -1,0 +1,46 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CEMAC.INT
+
+organisation: Communauté Economique et Monétaire de l'Afrique Centrale
+address:      Immeuble CEMAC
+address:      Avenue des Martyrs
+address:      B.P. 969
+address:      Bangui
+address:      République Centrafricaine
+
+contact:      administrative
+name:         Augustin Yanga Esso
+organisation: Communauté Economique et Monétaire de l'Afrique Centrale
+address:      Immeuble CEMAC
+address:      Avenue des Martyrs
+address:      B.P. 969
+address:      Bangui
+address:      République Centrafricaine
+phone:        +23675043305
+fax-no:       +23621612135
+e-mail:       secemac@hotmail.com
+
+contact:      technical
+name:         Nadjitessengar Ngarhounoum
+organisation: Communauté Economique et Monétaire de l'Afrique Centrale
+address:      Immeuble CEMAC
+address:      Avenue des Martyrs
+address:      B.P. 969
+address:      Bangui
+address:      République Centrafricaine
+phone:        +23675043305
+fax-no:       +23621612135
+e-mail:       nadjitess@hotmail.com
+
+nserver:      NS3.COMBELL.NET 193.111.95.9
+nserver:      NS4.COMBELL.NET 193.74.68.68
+
+created:      2009-04-30
+changed:      2011-06-21
+source:       IANA
+

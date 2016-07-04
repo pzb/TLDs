@@ -1,0 +1,38 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       OHR.INT
+
+organisation: Office of High Representative
+address:      Emerika Bluma 1
+address:      Sarajevo  71000
+address:      Bosnia and Herzegovina
+
+contact:      administrative
+name:         Miroslav Lazic
+address:      OHR, Emerika Bluma 1
+address:      Sarajevo  71000
+address:      Bosnia and Herzegovina
+phone:        +38733283500
+fax-no:       +38733283501
+e-mail:       miroslav.lazic@ohr.int
+
+contact:      technical
+name:         Alen Kahvic
+address:      OHR, Emerika Bluma 1
+address:      Sarajevo  71000
+address:      Bosnia and Herzegovina
+phone:        +38733283500
+fax-no:       +38733283501
+e-mail:       alen.kahvic@ohr.int
+
+nserver:      NS.BRU.TFI.BE 194.215.226.59
+nserver:      NS.STO.TELEGATE.SE 194.251.182.59
+
+created:      1996-09-26
+changed:      2007-06-22
+source:       IANA
+

@@ -1,0 +1,36 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       OCCAR.INT
+
+organisation: OCCAR-EA
+address:      Godesberger Allee 140
+address:      BONN  53175
+address:      Germany
+
+contact:      administrative
+name:         Herbert Hetger
+address:      Godesberger Allee 140
+address:      BONN  53175
+address:      Germany
+phone:        +492285502125
+e-mail:       A003@occar.int
+
+contact:      technical
+name:         Marco Foerster
+address:      Godesberger Allee 140
+address:      BONN  53175
+address:      Germany
+phone:        +492285502126
+e-mail:       A010@occar.int
+
+nserver:      AUTH01.NS.DE.UU.NET 192.76.144.76
+nserver:      AUTH51.NS.DE.UU.NET 194.128.171.102
+
+created:      2007-02-01
+changed:      2014-01-16
+source:       IANA
+

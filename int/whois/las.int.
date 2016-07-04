@@ -1,0 +1,42 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       LAS.INT
+
+organisation: League of Arab States
+address:      Tahrir Square
+address:      Cairo
+address:      Egypt
+
+contact:      administrative
+name:         Abdel Hakim El Rifai
+organisation: League of Arab States
+address:      Office Of The Secretary General
+address:      Tahrir Square
+address:      Cairo
+address:      Egypt
+phone:        +20 12 217 5966
+fax-no:       +202 574 0331
+e-mail:       abdelhakim@elrifai.net
+
+contact:      technical
+name:         Abdel Hakim El Rifai
+organisation: League of Arab States
+address:      Office Of The Secretary General
+address:      Tahrir Square
+address:      Cairo
+address:      Egypt
+phone:        +20 12 217 5966
+fax-no:       +202 574 0331
+e-mail:       abdelhakim@elrifai.net
+
+nserver:      DNS.WAYOUT.NET 212.12.225.5
+nserver:      DNS2.WAYOUT.NET 212.12.225.6
+
+created:      2002-11-19
+changed:      2007-06-26
+source:       IANA
+

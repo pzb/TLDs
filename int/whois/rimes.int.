@@ -1,0 +1,46 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       RIMES.INT
+
+organisation: Regional Integrated Multihazard Early Warning System for Africa and Asia
+address:      Outreach Building
+address:      AIT Campus, PO Box 4
+address:      Paholyouthin road
+address:      Khlong luang Pathumthani 12120
+address:      Thailand
+
+contact:      administrative
+name:         Dwijendra Kumar Das
+organisation: Regional Integrated Multihazard Early Warning System for Africa and Asia
+address:      Outreach Building
+address:      AIT Campus, PO Box 4
+address:      Paholyouthin road
+address:      Khlong luang Pathumthani 12120
+address:      Thailand
+phone:        +6625165900
+fax-no:       +6625165902
+e-mail:       dwijendra@rimes.int
+
+contact:      technical
+name:         Itesh Dash
+organisation: Regional Integrated Multihazard Early Warning System for Africa and Asia
+address:      Outreach Building
+address:      AIT Campus, PO Box 4
+address:      Paholyouthin road
+address:      Khlong luang Pathumthani 12120
+address:      Thailand
+phone:        +66897822810
+fax-no:       +6625165902
+e-mail:       itesh@rimes.int
+
+nserver:      NS1.IPAGE.COM 66.96.142.116
+nserver:      NS2.IPAGE.COM 65.254.254.151
+
+created:      2010-07-15
+changed:      2011-11-03
+source:       IANA
+

@@ -1,0 +1,43 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CRFM.INT
+
+organisation: Caribbean Regional Fisheries Mechanism
+address:      Fisheries Compound
+address:      Princess Margaret Drive
+address:      Belize City  P.O. Box 642
+address:      Belize
+
+contact:      administrative
+name:         Milton Haughton
+organisation: CRFM Secretariat
+address:      Fisheries Compound
+address:      Princess Margaret Drive
+address:      Belize City  P.O. Box 642
+address:      Belize
+phone:        (501) 223-4443
+fax-no:       (501) 223-4446
+e-mail:       Milton.haughton@crfm.net
+
+contact:      technical
+name:         Delmar Lanza
+organisation: CRFM Secretariat
+address:      Fisheries Compound
+address:      Princess Margaret Drive
+address:      Belize City  P.O. Box 642
+address:      Belize
+phone:        (501) 223-4443
+fax-no:       (501) 223-4446
+e-mail:       delmar.lanza@crfm.net
+
+nserver:      NS1.CRFM.NET 72.249.109.29
+nserver:      NS2.CRFM.NET 72.249.109.28
+
+created:      2013-05-29
+changed:      2014-05-16
+source:       IANA
+

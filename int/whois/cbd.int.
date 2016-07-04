@@ -1,0 +1,45 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CBD.INT
+
+organisation: Secretariat of the Convention on Biological Diversity
+address:      413 St. Jacques Street W.
+address:      Suite 800
+address:      Montreal Quebec H2Y 1N9
+address:      Canada
+
+contact:      administrative
+name:         Olivier de Munck
+organisation: Secretariat of the Convention on Biological Diversity
+address:      413 St. Jacques Street W.
+address:      Suite 800
+address:      Montreal Quebec H2Y 1N9
+address:      Canada
+phone:        +1 514 288 2220
+fax-no:       +1 514 288 6588
+e-mail:       olivier.demunck@cbd.int
+
+contact:      technical
+name:         Frédéric Vogel
+organisation: Secretariat of the Convention on Biological Diversity
+address:      413 St. Jacques Street W.
+address:      Suite 800
+address:      Montreal Quebec H2Y 1N9
+address:      Canada
+phone:        +1 514 288 2220
+fax-no:       +1 514 288 6588
+e-mail:       frederic.vogel@cbd.int
+
+nserver:      NS1.P15.DYNECT.NET 208.78.70.15
+nserver:      NS2.P15.DYNECT.NET 204.13.250.15
+nserver:      NS3.P15.DYNECT.NET 208.78.71.15
+nserver:      NS4.P15.DYNECT.NET 204.13.251.15
+
+created:      2003-05-01
+changed:      2010-09-28
+source:       IANA
+

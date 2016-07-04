@@ -1,0 +1,41 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SEANET.INT
+
+organisation: Joint Oceanographic Instutions Inc
+address:      1755 Massachussetts Ave NW
+address:      Suite 700
+address:      Washington District of Columbia 20036-2102
+address:      USA
+
+contact:      administrative
+name:         Frank R. Rack
+address:      1755 Massachusetts Ave. NW
+address:      Suite 700
+address:      Washington District of Columbia 20036-2102
+address:      USA
+phone:        202-232-3900
+fax-no:       202-462-8754
+e-mail:       frack@brook.edu
+
+contact:      technical
+name:         Andrew Maffei
+address:      Mailstop 46
+address:      Woods Hole Massacusetts 02543
+address:      USA
+phone:        508-289-2764
+fax-no:       508-457-2174
+e-mail:       amaffei@whoi.edu
+
+nserver:      DNS.OMNET.COM 205.138.26.26
+nserver:      DNS0.WHOI.EDU 128.128.60.1
+nserver:      DNS1.WHOI.EDU 128.128.60.2
+
+created:      2001-09-10
+changed:      2007-06-22
+source:       IANA
+

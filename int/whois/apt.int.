@@ -1,0 +1,43 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       APT.INT
+
+organisation: ASIA-PACIFIC TELECOMMUNITY
+address:      12/49, SOI 5
+address:      Chaengwattana Road
+address:      Bangkok  10210
+address:      Thailand
+
+contact:      administrative
+name:         LILY ZIN
+organisation: ASIA-PACIFIC TELECOMMUNITY
+address:      12/49 SOI 5
+address:      Chaengwattana Road
+address:      Bangkok  10210
+address:      Thailand
+phone:        +66 2 5730044
+fax-no:       +66 2 5737479
+e-mail:       lilian@aptsec.org
+
+contact:      technical
+name:         NYAN WIN
+organisation: ASIA-PACIFIC TELECOMMUNITY
+address:      12/49, SOI 5
+address:      Chaengwattana Road
+address:      Bangkok  10210
+address:      Thailand
+phone:        +66 2 5730044
+fax-no:       +66 2 5737479
+e-mail:       nyanwin@aptsec.org
+
+nserver:      NS0.NTT.CO.TH 116.68.146.1
+nserver:      NS1.NTT.CO.TH 116.68.146.2
+
+created:      2005-06-30
+changed:      2007-11-05
+source:       IANA
+

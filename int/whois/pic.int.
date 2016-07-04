@@ -1,0 +1,35 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       PIC.INT
+
+organisation: The Rotterdam Convention on the Prior Informed Consent (PIC) Procedure for Certain Hazardous Chemicals and Pesticides in International Trade
+
+contact:      administrative
+name:         Federico Izzo
+address:      11-13 chemin des Anemones
+address:      Chatelaine  1219
+address:      Switzerland
+phone:        +41 22 9178177
+fax-no:       +41 22 797 3460
+e-mail:       fizzo@pic.int
+
+contact:      technical
+name:         Osmany Pereira Gonzalez
+address:      11-13 chemin des Anemones
+address:      Chatelaine  1219
+address:      Switzerland
+phone:        +41 22 9178194
+fax-no:       +41 22 797 3460
+e-mail:       opereira@pops.int
+
+nserver:      DNS1.UNEPCHEMICALS.CH 212.203.125.56
+nserver:      DNS2.UNEPCHEMICALS.CH 212.203.125.86
+
+created:      2001-09-10
+changed:      2010-05-21
+source:       IANA
+

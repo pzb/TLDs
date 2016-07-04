@@ -1,0 +1,39 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       VPI.INT
+
+organisation: Visegrad Patent Institute
+address:      II. János Pál pápa tér 7.
+address:      Budapest  1081
+address:      Hungary
+
+contact:      administrative
+name:         Márk Gárdonyi
+address:      Hipavilon Nonprofit Kft.
+address:      Zoltán u. 6.
+address:      Budapest  H-1054
+address:      Hungary
+phone:        +36 14745925
+fax-no:       +36 14745844
+e-mail:       mark.gardonyi@hipavilon.hu
+
+contact:      technical
+name:         Lubos VLK
+address:      Industrial Property Office of the Czech Republic
+address:      Antonína Cermáka 2a
+address:      Prague  160 68
+address:      Czech Republic
+phone:        +420 220 383 230
+e-mail:       lvlk@upv.cz
+
+nserver:      NS1.UPV.CZ 193.179.15.2
+nserver:      NS2.UPV.CZ 94.199.44.195
+
+created:      2016-01-28
+changed:      2016-01-29
+source:       IANA
+

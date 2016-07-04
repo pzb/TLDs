@@ -1,0 +1,45 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ECOWAS.INT
+
+organisation: Economic Community of West African States (ECOWAS)
+address:      ECOWAS COMMISSION
+address:      60, Yakubu Gowon Crescent
+address:      Asokoro District
+address:      ABUJA FCT P.M.B. 401
+address:      Nigeria
+
+contact:      administrative
+name:         Oseitutu AGYEMAN-DUAH
+address:      ECOWAS COMMISSION
+address:      101, Yakubu Gowon Crescent
+address:      Asokoro District
+address:      ABUJA FCT P.M.B. 401
+address:      Nigeria
+phone:        + 234 9 31 47 647
+fax-no:       + 234 9 31 43 005
+e-mail:       domain-admin@ecowas.int
+
+contact:      technical
+name:         Paul D KPOGNON
+address:      ECOWAS Community Computer Center (CCC)
+address:      EBIDC BUILDING
+address:      128, Boulevard du 13 janvier
+address:      LOME GOLFE BP 2704
+address:      TOGO
+phone:        +234 8030839528 / +228 9004 5138
+fax-no:       +228 2221 78 89
+e-mail:       paulk@cedeao.org
+
+nserver:      NS1.NOSIWEBHOSTING.COM 213.150.196.35
+nserver:      NS2.NOSIWEBHOSTING.COM 213.150.196.36
+nserver:      NS3.NOSIWEBHOSTING.COM 213.150.196.37
+
+created:      2001-09-10
+changed:      2016-01-05
+source:       IANA
+

@@ -1,0 +1,45 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       INTERPOL.INT
+
+organisation: Interpol
+address:      OIPC Interpol
+address:      200 Quai Charles de Gaulle
+address:      Lyon  69006
+address:      France
+
+contact:      administrative
+name:         NSA Contact
+address:      OIPC Interpol
+address:      200 Quai Charles de Gaulle
+address:      LYON  69006
+address:      France
+phone:        +33 4 72 44 70 00
+fax-no:       +33 4 72 44 72 46
+e-mail:       nsa@interpol.int
+
+contact:      technical
+name:         NSA Contact
+address:      OIPC Interpol
+address:      200 Quai Charles de Gaulle
+address:      LYON  69006
+address:      France
+phone:        +33 4 72 44 70 00
+fax-no:       +33 4 72 44 72 46
+e-mail:       nsa@interpol.int
+
+nserver:      ASIA3.AKAM.NET 23.211.61.64
+nserver:      EUR5.AKAM.NET 23.74.25.64
+nserver:      NS1-108.AKAM.NET 193.108.91.108
+nserver:      NS1-200.AKAM.NET 193.108.91.200
+nserver:      USC5.AKAM.NET 96.7.50.65
+nserver:      USE9.AKAM.NET 72.246.46.65
+
+created:      1997-03-01
+changed:      2014-07-03
+source:       IANA
+

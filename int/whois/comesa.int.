@@ -1,0 +1,44 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       COMESA.INT
+
+organisation: Common Market for Eastern and Southern Africa
+address:      P.O. Box 30051
+address:      Ben Bella Road
+address:      Lusaka Lusaka 10010
+address:      Zambia
+
+contact:      administrative
+name:         IT Director
+organisation: COMESA Secretariat
+address:      P.O. Box 30051
+address:      Ben Bella Road
+address:      Lusaka Lusaka 10010
+address:      Zambia
+phone:        260-1-229725
+fax-no:       260-1-225107
+e-mail:       support@comesa.int
+
+contact:      technical
+name:         AfriConnect Domain Admin
+address:      5 Bennell Court
+address:      Comberton Cambridgeshire CB237EN
+address:      United Kingdom
+phone:        44-750-4428782
+e-mail:       domains@africonnect.com
+
+nserver:      NS1.SATWISE.COM 77.92.68.109
+nserver:      NS1198.DNS.DYN.COM 208.76.58.198
+nserver:      NS2.SATWISE.COM 82.71.53.50
+nserver:      NS2199.DNS.DYN.COM 208.76.59.199
+nserver:      NS3142.DNS.DYN.COM 208.76.60.142
+nserver:      NS4181.DNS.DYN.COM 208.76.61.181
+
+created:      1997-05-20
+changed:      2016-03-04
+source:       IANA
+

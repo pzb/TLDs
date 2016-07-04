@@ -1,0 +1,44 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       IGAD.INT
+
+organisation: InterGovernmental Authority on Development (IGAD)
+address:      Avenue Georges Clemenceau
+address:      P. O. Box 2653
+address:      Djibouti
+address:      Rep. of Djibouti
+
+contact:      administrative
+name:         Simon Mbugua
+organisation: InterGovernmental Authority on Development (IGAD)
+address:      Avenue Georges Clemenceau
+address:      P. O. Box 2653
+address:      Djibouti
+address:      Rep. of Djibouti
+phone:        +253-354050
+e-mail:       simon.mbugua@igad.org
+
+contact:      technical
+name:         Simon Mbugua
+organisation: InterGovernmental Authority on Development (IGAD)
+address:      Avenue Georges Clemenceau
+address:      P. O. Box 2653
+address:      Djibouti
+address:      Rep. of Djibouti
+phone:        +253-354050
+e-mail:       simon.mbugua@igad.org
+
+nserver:      NS1.DNSPARK.NET 74.86.171.244
+nserver:      NS2.DNSPARK.NET 83.170.90.100
+nserver:      NS3.DNSPARK.NET 66.98.161.195
+nserver:      NS4.DNSPARK.NET 209.160.70.246
+nserver:      NS5.DNSPARK.NET 174.36.180.176
+
+created:      2009-01-28
+changed:      2009-10-23
+source:       IANA
+

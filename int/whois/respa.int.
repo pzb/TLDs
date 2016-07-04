@@ -1,0 +1,35 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       RESPA.INT
+
+organisation: RESPA - Regional School of Public Administration
+address:      Branelovica
+address:      Danilovgrad  81410
+address:      Montenegro
+
+contact:      administrative
+name:         Ivica Ivanovic
+address:      Branelovica
+address:      Danilovgrad  81410
+address:      Montenegro
+phone:        +38269877777
+e-mail:       i.ivanovic@respaweb.eu
+
+contact:      technical
+name:         Rasovic Milutin
+address:      Branelovica
+address:      Danilovgrad  81410
+address:      Montenegro
+phone:        +38269010205
+e-mail:       m.rasovic@respaweb.eu
+
+nserver:      NS1.CRNAGORA.NET 195.66.160.1
+nserver:      NS2.CRNAGORA.NET 195.66.160.2
+
+created:      2011-06-07
+source:       IANA
+

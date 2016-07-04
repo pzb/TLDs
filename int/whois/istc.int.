@@ -1,0 +1,38 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ISTC.INT
+
+organisation: International Science and Technology
+address:      53, Kabanbay Batyr Ave
+address:      Astana
+address:      Kazakhstan
+
+contact:      administrative
+name:         Ilyas Shayakhmetov
+address:      53, Kabanbay Batyr Ave
+address:      Astana
+address:      Kazakhstan
+phone:        +7-705-950-42-22
+fax-no:       +7-717-276-95-33
+e-mail:       Shayakhmetov@istc.int
+
+contact:      technical
+name:         Timur Alzhanov
+address:      53, Kabanbay Batyr Ave
+address:      Astana
+address:      Kazakhstan
+phone:        +7-708-160-89-09
+fax-no:       +7-717-227-06-32
+e-mail:       Alzhanov@istc.int
+
+nserver:      CNR1.ONLINE.KZ 212.19.149.53
+nserver:      CNR2.ONLINE.KZ 212.19.149.54
+
+created:      2014-07-14
+changed:      2016-03-22
+source:       IANA
+

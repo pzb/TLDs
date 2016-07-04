@@ -1,0 +1,36 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       EFO.INT
+
+organisation: Egyptian Friendship Organization
+address:      612 12th St.
+address:      Kenosha WI 53140
+address:      USA
+
+contact:      administrative
+name:         Ahmed Mohamed
+address:      612 12th st.
+address:      Kenosha WI 53140
+address:      USA
+phone:        414-688-8729
+e-mail:       mohamed@efo.int
+
+contact:      technical
+name:         Ahmed Mohamed
+address:      612 12th st.
+address:      Kenosha WI 53140
+address:      USA
+phone:        414-688-8729
+e-mail:       mohamed@efo.int
+
+nserver:      CORONA.HOUSEBSD.ORG 207.112.136.202
+nserver:      NS2.SUN4D.NET 64.163.76.2
+
+created:      1997-01-24
+changed:      2007-03-26
+source:       IANA
+

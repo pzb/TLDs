@@ -1,0 +1,42 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CTBTO.INT
+
+organisation: Preparatory Commission for the Comprehensive Nuclear-Test-Ban
+organisation: Treaty Organization
+address:      Wagramer Str. 5
+address:      PO Box 1200
+address:      Vienna  1400
+address:      Austria
+
+contact:      administrative
+name:         CTBTO Domain Administrator
+address:      Wagramer Str. 5
+address:      PO Box 1200
+address:      Vienna  1400
+address:      Austria
+phone:        +43-1-26030-6300
+fax-no:       +43-1-260308-6300
+e-mail:       hostmaster@ctbto.org
+
+contact:      technical
+name:         CTBTO Domain Administrator
+address:      Wagramer Str. 5
+address:      PO Box 1200
+address:      Vienna  1400
+address:      Austria
+phone:        +43-1-26030-6300
+fax-no:       +43-1-260308-6300
+e-mail:       hostmaster@ctbto.org
+
+nserver:      NS1.CTBTO.ORG 193.218.117.201
+nserver:      NS2.CTBTO.ORG 193.218.117.202
+
+created:      2004-01-16
+changed:      2004-01-21
+source:       IANA
+

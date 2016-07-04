@@ -1,0 +1,24 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ADSN.INT
+
+organisation: For more information, please contact int-dom@iana.org.
+
+contact:      administrative
+organisation: For more information, please contact int-dom@iana.org.
+
+contact:      technical
+organisation: For more information, please contact int-dom@iana.org.
+
+nserver:      AUTH04.NS.DE.UU.NET 192.76.144.17
+nserver:      AUTH54.NS.DE.UU.NET 194.128.171.100
+nserver:      NS.NC3A.NATO.INT 195.169.116.6
+
+created:      1996-08-17
+changed:      2006-04-27
+source:       IANA
+

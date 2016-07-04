@@ -1,0 +1,41 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CTA.INT
+
+organisation: CTA
+address:      PO Box 380
+address:      Wageningen Gelderland 6700 AJ
+address:      Netherlands
+
+contact:      administrative
+name:         Ben Moy
+organisation: CTA
+address:      Agro Business Park 2
+address:      Wageningen Gelderland 6708 PW
+address:      The Netherlands
+phone:        +31 (0)317 467100
+fax-no:       +31 (0)317 460067
+e-mail:       cta@cta.int
+
+contact:      technical
+name:         Thierry Lewyllie
+organisation: CTA
+address:      Agro Business Park 2
+address:      Wageningen Gelderland 6708 PW
+address:      The Netherlands
+phone:        +31657229713
+e-mail:       lewyllie@cta.int
+
+nserver:      NS-1462.AWSDNS-54.ORG 205.251.197.182
+nserver:      NS-1708.AWSDNS-21.CO.UK 205.251.198.172
+nserver:      NS-277.AWSDNS-34.COM 205.251.193.21
+nserver:      NS-553.AWSDNS-05.NET 205.251.194.41
+
+created:      2002-06-07
+changed:      2015-02-19
+source:       IANA
+

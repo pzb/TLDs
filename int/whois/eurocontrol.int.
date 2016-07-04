@@ -1,0 +1,38 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       EUROCONTROL.INT
+
+organisation: EuroControl
+address:      Rue de la fusee, 96
+address:      Brussels Brussels 1130
+address:      Belgium
+
+contact:      administrative
+name:         Eric Roelants
+address:      Rue de la fusee, 96
+address:      Brussels Brussels 1130
+address:      Belgium
+phone:        +3227293058
+fax-no:       +3227293971
+e-mail:       eric.roelants@eurocontrol.int
+
+contact:      technical
+name:         Ara KHATCHERIAN
+address:      96, RUE DE LA FUSEE
+address:      BRUSSELS BRUSSELS CAPITALE 1130
+address:      BELGIUM
+phone:        +32 2 729 96 40
+fax-no:       +32 2 729 97 03
+e-mail:       ara.khatcherian@eurocontrol.int
+
+nserver:      NS1.ITAF.EU 85.17.186.218
+nserver:      NS2.ITAF.EU 188.93.83.1
+
+created:      2001-09-10
+changed:      2014-02-21
+source:       IANA
+

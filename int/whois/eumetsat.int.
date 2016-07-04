@@ -1,0 +1,42 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       EUMETSAT.INT
+
+organisation: EUMETSAT, European Organisation for the Exploitation of Meteorological Satellites
+address:      EUMETSAT Allee 1
+address:      Darmstadt Hessen 64295
+address:      Germany
+
+contact:      administrative
+name:         NOC
+organisation: EUMETSAT, European Organisation for the Exploitation of Meteorological Satellites
+address:      EUMETSAT Allee 1
+address:      Darmstadt Hessen 64295
+address:      Germany
+phone:        +49 6151 807 7840
+fax-no:       +49 6151 807 8780
+e-mail:       noc@eumetsat.int
+
+contact:      technical
+name:         NOC
+organisation: EUMETSAT, European Organisation for the Exploitation of Meteorological Satellites
+address:      EUMETSAT Allee 1
+address:      Darmstadt Hessen 64295
+address:      Germany
+phone:        +49 6151 807 7840
+fax-no:       +49 6151 807 8780
+e-mail:       noc@eumetsat.int
+
+nserver:      NS1.P21.DYNECT.NET 208.78.70.21
+nserver:      NS2.P21.DYNECT.NET 204.13.250.21
+nserver:      NS3.P21.DYNECT.NET 208.78.71.21
+nserver:      NS4.P21.DYNECT.NET 204.13.251.21
+
+created:      2001-10-16
+changed:      2015-05-04
+source:       IANA
+

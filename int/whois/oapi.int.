@@ -1,0 +1,43 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       OAPI.INT
+
+organisation: Organisation Africaine de la Propriete Intellectuelle (OAPI)
+address:      Place de la Prefecture
+address:      P. O. Box 887
+address:      Yaounde
+address:      Cameroun
+
+contact:      administrative
+name:         Anthioumane N'DIAYE
+organisation: Organisation Africaine de la Propriete Intellectuelle (OAPI)
+address:      Place de la Prefecture
+address:      P. O. Box 887
+address:      Yaounde
+address:      Cameroun
+phone:        +237 220 57 00
+fax-no:       +237 220 57 27 , +237 220 57 21
+e-mail:       anthioumane.ndiaye@oapi.oa.wipo.net
+
+contact:      technical
+name:         Hamidou KONE
+organisation: Organisation Africaine de la Propriete Intellectuelle (OAPI)
+address:      Place de la Prefecture
+address:      P. O. Box 887
+address:      Yaounde
+address:      Cameroun
+phone:        +237 220 57 48
+fax-no:       +237 220 57 27 , +237 220 57 21
+e-mail:       hamidou.kone@oapi.oa.wipo.net
+
+nserver:      NS.UNICC.ORG 192.91.247.3
+nserver:      NSE1.WIPO.INT 193.5.93.3
+
+created:      2006-01-19
+changed:      2006-01-24
+source:       IANA
+

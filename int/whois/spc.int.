@@ -1,0 +1,38 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SPC.INT
+
+organisation: Secretariat of the Pacific Community
+address:      BP D5
+address:      Noumea Cedex  98848
+address:      New Caledonia
+
+contact:      administrative
+name:         Registry
+address:      BP D5
+address:      Noumea Cedex  98848
+address:      New Caledonia
+phone:        687-262000
+fax-no:       687-263818
+e-mail:       spc@spc.int
+
+contact:      technical
+name:         Hostmaster
+address:      BP D5
+address:      Noumea Cedex  98848
+address:      New Caledonia
+phone:        687-262000
+fax-no:       687-263818
+e-mail:       hostmaster@spc.int
+
+nserver:      BETH.NS.CLOUDFLARE.COM 173.245.58.103
+nserver:      LEE.NS.CLOUDFLARE.COM 173.245.59.129
+
+created:      2001-09-10
+changed:      2016-02-23
+source:       IANA
+

@@ -1,0 +1,39 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       OECD.INT
+
+organisation: Organisation for Economic Co-Operation and Development (OECD)
+address:      2, Rue Andre Pascal
+address:      Paris CEDEX-16  75775
+address:      France
+
+contact:      administrative
+name:         Jean-Noel Ehret
+organisation: Organisation for Economic Co-Operation and Development (OECD)
+address:      2, Rue Andre Pascal
+address:      Paris CEDEX-16  75775
+address:      France
+phone:        +33 (0) 1 4524 8893
+e-mail:       Jean-Noel.Ehret@OECD.Org
+
+contact:      technical
+name:         Anthony Huynh
+organisation: Organisation for Economic Co-Operation and Development (OECD)
+address:      2, Rue Andre Pascal
+address:      Paris CEDEX-16  75775
+address:      France
+phone:        +33 (0) 1 4524 9247
+e-mail:       Anthony.Huynh@OECD.Org
+
+nserver:      DELPHI.IEA.ORG 195.200.115.33
+nserver:      NET-GW4.OECD.ORG 78.41.129.24
+nserver:      NET-GW5.OECD.ORG 78.41.128.12
+
+created:      2001-09-10
+changed:      2010-03-01
+source:       IANA
+

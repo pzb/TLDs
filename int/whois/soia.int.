@@ -1,0 +1,40 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SOIA.INT
+
+organisation: Swiss Agency for the Environment, Forests and Landscape
+address:      P.O.
+address:      Berne CH-3003
+address:      Switzerland
+
+contact:      administrative
+name:         Jean-Michel Gardaz
+organisation: Swiss Agency for the Environment, Forests and Landscape
+address:      P.O.
+address:      Berne CH-3003
+address:      Switzerland
+phone:        +41 31 324 49 54
+fax-no:       +41 31 323 03 67
+e-mail:       Jean-Michel.Gardaz@buwal.admin.ch
+
+contact:      technical
+name:         Roman Kanala
+organisation: UNEP / DEWA / GRID-Geneva
+address:      11 chemin des Anemones
+address:      Chatelaine Geneva CH-1219
+address:      Switzerland
+phone:        (+41 22) 917 8304
+fax-no:       (+41 22) 917 8029
+e-mail:       kanala@grid.unep.ch
+
+nserver:      GRIDG.GRID.UNEP.CH 194.54.81.130
+nserver:      GRIDH.GRID.UNEP.CH 194.54.81.131
+
+created:      2001-09-10
+changed:      2007-03-23
+source:       IANA
+

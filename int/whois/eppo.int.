@@ -1,0 +1,38 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       EPPO.INT
+
+organisation: European and Mediterranean Plant Protection Organization
+address:      21 boulevard Richard Lenoir
+address:      Paris  75011
+address:      France
+
+contact:      administrative
+name:         Anne-Sophie Roy
+organisation: EPPO
+address:      21 boulevard Richard Lenoir
+address:      Paris  75011
+address:      France
+phone:        +33145207794
+e-mail:       roy@eppo.int
+
+contact:      technical
+name:         Damien Griessinger
+organisation: EPPO
+address:      21 boulevard Richard Lenoir
+address:      Paris  75011
+address:      France
+phone:        +33145207794
+e-mail:       dgriessinger@eppo.int
+
+nserver:      NS1.EPPO.INT 149.62.152.20
+nserver:      NS2.EPPO.INT 149.62.158.200
+
+created:      2011-05-12
+changed:      2014-07-11
+source:       IANA
+

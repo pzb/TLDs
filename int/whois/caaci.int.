@@ -1,0 +1,41 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CAACI.INT
+
+organisation: Conferencia de Autoridades Cinematográficas de Iberoamérica
+address:      Av. Diego Cisneros, Centro Monaca, Ala Norte
+address:      Piso 2, Oficina 2-A. Los Ruices
+address:      Caracas Miranda 1070
+address:      Venezuela
+
+contact:      administrative
+name:         Marília De Figueiredo
+organisation: Conferencia de Autoridades Cinematográficas de Iberoamérica
+address:      Av. Diego Cisneros, Centro Monaca, Ala Norte
+address:      Piso 2, Oficina 2-A. Los Ruices
+address:      Caracas Miranda 1070
+address:      Venezuela
+phone:        +58 412 5722248
+fax-no:       +58 212 2197711
+e-mail:       mdefigueiredo@caaci.int
+
+contact:      technical
+name:         Daniel M. Rodriguez
+address:      Av. Millán, 4675
+address:      Montevideo
+address:      Uruguay
+phone:        +598 099 146124
+fax-no:       +598 23048376
+e-mail:       daniel@md-informatica.com
+
+nserver:      NS1.MDVPS.NET 64.64.12.221
+nserver:      NS2.MDVPS.NET 64.64.12.222
+
+created:      2008-04-22
+changed:      2015-08-19
+source:       IANA
+

@@ -1,0 +1,39 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       PASO.INT
+
+organisation: Pacific Aviation Safety Office
+address:      PO Box 139
+address:      Port Vila Shefa Province
+address:      Republic of Vanuatu
+
+contact:      administrative
+name:         Desmond L Ross
+address:      PO Box 139
+address:      Port Vila Shefa Province
+address:      Republic of Vanuatu
+phone:        +678 28500
+fax-no:       +678 28555
+e-mail:       DLR@paso.aero
+
+contact:      technical
+name:         Paul Lennis
+address:      PO Box 139
+address:      Port Vila Shefa Province
+address:      Republic of Vanuatu
+phone:        +678 28500
+fax-no:       +678 28555
+e-mail:       paul@paso.aero
+
+nserver:      NS1.DOMAIN.COM 72.5.54.12
+nserver:      NS2.DOMAIN.COM 72.5.54.13
+nserver:      NS3.DOMAIN.COM 64.94.31.85
+
+created:      2007-01-08
+changed:      2007-01-11
+source:       IANA
+

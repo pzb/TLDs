@@ -1,0 +1,39 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CDE.INT
+
+organisation: Centre for the Development of Enterprise
+organisation: <Centre pour le Developpement de l'Entreprise>
+address:      2 Av. Edmond Van Nieuwenhuyse
+address:      Brussels  1160
+address:      Belgium
+
+contact:      administrative
+name:         Ilse van de Mierop
+address:      Avenue Louise 106
+address:      Brussels  1050
+address:      Belgium
+phone:        003225001576
+fax-no:       003225001604
+e-mail:       ilse.vandemierop@dlapiper.com
+
+contact:      technical
+name:         Ilse van de Mierop
+address:      Avenue Louise 106
+address:      Brussels  1050
+address:      Belgium
+phone:        003225001576
+fax-no:       003225001604
+e-mail:       ilse.vandemierop@dlapiper.com
+
+nserver:      S1.CLEVERWAY.EU 91.121.219.90
+nserver:      S2.CLEVERWAY.EU 178.32.44.56
+
+created:      2002-06-07
+changed:      2016-04-27
+source:       IANA
+

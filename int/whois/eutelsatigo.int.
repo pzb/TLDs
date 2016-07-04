@@ -1,0 +1,40 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       EUTELSATIGO.INT
+
+organisation: EUTELSAT IGO
+address:      Tour Maine Montparnasse 33 Avenue de Maine
+address:      Paris  FR-75755 PARIS CEDEX 15
+address:      France
+
+contact:      administrative
+name:         Madame Estelle SCHNITZLER
+organisation: EUTELSAT IGO
+address:      Tour Maine Montparnasse 33 Avenue de Maine
+address:      Paris  FR-75755 PARIS CEDEX 15
+address:      France
+phone:        0033 1 44 10 41 10
+fax-no:       0033 1 44 10 44 11
+e-mail:       igo.eschnitz@eutelsat.fr
+
+contact:      technical
+name:         Madame Estelle SCHNITZLER
+organisation: EUTELSAT IGO
+address:      Tour Maine Montparnasse 33 Avenue de Maine
+address:      Paris  FR-75755 PARIS CEDEX 15
+address:      France
+phone:        0033 1 44 10 41 10
+fax-no:       0033 1 44 10 44 11
+e-mail:       igo.eschnitz@eutelsat.fr
+
+nserver:      DNS01.ONE2NET.NET 87.98.183.7
+nserver:      DNS02.ONE2NET.NET 91.121.63.52
+
+created:      2003-05-21
+changed:      2009-04-07
+source:       IANA
+

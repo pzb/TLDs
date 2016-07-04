@@ -1,0 +1,39 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ORDEROFMALTA.INT
+
+organisation: Sovereign Military Order of Malta
+address:      Magistral Palace, Via Condotti, 68
+address:      Rome  00187
+address:      Italy
+
+contact:      administrative
+name:         Maurizio Pagano
+organisation: Sovereign Military Order of Malta
+address:      Magistral Palace, Via Condotti, 68
+address:      Rome  00187
+address:      Italy
+phone:        +39.06.67581315
+fax-no:       +39.06.67581270
+e-mail:       m.pagano@orderofmalta.org
+
+contact:      technical
+name:         Maurizio Pagano
+organisation: Sovereign Military Order of Malta
+address:      Magistral Palace, Via Condotti, 68
+address:      Rome  00187
+address:      Italy
+phone:        +39.06.67581315
+fax-no:       +39.06.67581270
+e-mail:       m.pagano@orderofmalta.org
+
+nserver:      DNS.UNI.IT 195.94.143.19
+nserver:      DNS2.UNI.IT 195.94.182.3
+
+created:      2011-06-22
+source:       IANA
+

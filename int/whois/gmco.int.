@@ -1,0 +1,38 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       GMCO.INT
+
+organisation: Gulf Monetary Council
+address:      P.O. Box: 1660
+address:      Riyadh  11441
+address:      Saudi Arabia
+
+contact:      administrative
+name:         Operation Team Leader
+address:      King Fahad Road
+address:      P.O. Box: 1660
+address:      Riyadh Riyadh 11441
+address:      Saudi Arabia
+phone:        +966112614934
+e-mail:       aalaradi@gmco.int
+
+contact:      technical
+name:         Operation Team Leader
+address:      King Fahad Road
+address:      P.O. Box: 1660
+address:      Riyadh Riyadh 11441
+address:      Saudi Arabia
+phone:        +966112614934
+e-mail:       aalaradi@gmco.int
+
+nserver:      PDNS01.DOMAINCONTROL.COM 216.69.185.50
+nserver:      PDNS02.DOMAINCONTROL.COM 208.109.255.50
+
+created:      2011-04-06
+changed:      2016-03-20
+source:       IANA
+

@@ -1,0 +1,40 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       IDLO.INT
+
+organisation: International Development Law Organization
+address:      Via S. Sebastianello 16
+address:      Rome  00187
+address:      Italy
+
+contact:      administrative
+name:         Ghislaine Resplandy
+organisation: International Development Law Organization
+address:      Via S. Sebastianello 16
+address:      Rome  00187
+address:      Italy
+phone:        +39 066979261
+fax-no:       +39 066781946
+e-mail:       gresplandy@idlo.int
+
+contact:      technical
+name:         Ghislaine Resplandy
+organisation: International Development Law Organization
+address:      Via S. Sebastianello 16
+address:      Rome  00187
+address:      Italy
+phone:        +39 066979261
+fax-no:       +39 066781946
+e-mail:       gresplandy@idlo.int
+
+nserver:      NS1.UNI.NET 194.183.3.129
+nserver:      NS2.UNI.NET 194.183.2.129
+
+created:      2002-10-18
+changed:      2005-07-28
+source:       IANA
+

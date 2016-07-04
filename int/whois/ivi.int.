@@ -1,0 +1,42 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       IVI.INT
+
+organisation: International Vaccine Institute
+address:      Research Park, San 4-8 Bongcheon-7 Dong,
+address:      Kwanak Ku
+address:      Seoul  151 818
+address:      South Korea
+
+contact:      administrative
+name:         Vinay Kumar Gupta
+address:      Research Park, San 4-8 Bongcheon-7 Dong,
+address:      Kwanak Ku
+address:      Seoul 151 818
+address:      South Korea
+phone:        82-2-8722801, 82-2-8811109 (Direct)
+fax-no:       82-2-8722803
+e-mail:       vkgupta@ivi.int
+
+contact:      technical
+name:         Vinay Kumar Gupta
+address:      Research Park, San 4-8 Bongcheon-7 Dong,
+address:      Kwanak Ku
+address:      Seoul 151 818
+address:      South Korea
+phone:        82-2-8722801, 82-2-8811109 (Direct)
+fax-no:       82-2-8722803
+e-mail:       vkgupta@ivi.int
+
+nserver:      IVINMSSRV.IVI.INT 220.93.120.73
+nserver:      NS.IVI.INT 220.93.120.79
+nserver:      PDVI01.IVI.INT 220.93.120.201
+
+created:      2001-09-10
+changed:      2007-06-22
+source:       IANA
+

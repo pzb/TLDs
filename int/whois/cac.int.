@@ -1,0 +1,36 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CAC.INT
+
+organisation: Consejo Agropecuario Centroamericano
+address:      San Isidro Coronado, Contiguo a la Clínica de Salud
+address:      San Jose San Jose 55-2200
+address:      Costa Rica
+
+contact:      administrative
+name:         Julio Calderon
+address:      San Isidro Coronado, Contiguo a la Clínica de Salud
+address:      San Jose San Jose 55-2200
+address:      Costa Rica
+phone:        +506 2216-0122
+e-mail:       julio.calderon@iica.int
+
+contact:      technical
+name:         Emmanuel Picado
+address:      San Isidro Coronado, Contiguo a la Clínica de Salud
+address:      San Jose San Jose 55-2200
+address:      Costa Rica
+phone:        +506 2216-0153
+e-mail:       emmanuel.picado@iica.int
+
+nserver:      NS.IICA.INT 200.91.91.165
+nserver:      NS2.IICA.INT 23.96.18.108
+
+created:      2014-05-25
+changed:      2015-01-20
+source:       IANA
+

@@ -1,0 +1,49 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       INBAR.INT
+
+organisation: International Network for Bamboo and Rattan
+address:      No. 8, Fu Tong Dong Da Jie
+address:      Wang Jing Area
+address:      Chaoyang District
+address:      P.R. China Beijing 100102
+address:      China
+
+contact:      administrative
+name:         Dr. Ralf Kwaschik
+organisation: International Network for Bamboo and Rattan
+address:      No. 8, Fu Tong Dong Da Jie
+address:      Wang Jing Area
+address:      Chaoyang District
+address:      P.R. China Beijing 100102
+address:      China
+phone:        +861064706161
+fax-no:       +861064702166
+e-mail:       rkwaschik@inbar.int
+
+contact:      technical
+name:         Ms. Liu Qian
+organisation: International Network for Bamboo and Rattan
+address:      No. 8, Fu Tong Dong Da Jie
+address:      Wang Jing Area
+address:      Chaoyang District
+address:      P.R. China Beijing 100102
+address:      China
+phone:        +861064706161
+fax-no:       +861064702166
+e-mail:       qliu@inbar.int
+
+nserver:      DNS1.INBAR.INT 218.249.14.227
+nserver:      DNS2.INBAR.INT 218.249.14.228
+nserver:      NS5.DNSMADEEASY.COM 63.219.151.12
+nserver:      NS6.DNSMADEEASY.COM 64.246.42.203
+nserver:      NS7.DNSMADEEASY.COM 69.10.137.167
+
+created:      2001-09-10
+changed:      2007-06-26
+source:       IANA
+

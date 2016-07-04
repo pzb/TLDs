@@ -1,0 +1,46 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       NPFC.INT
+
+organisation: North Pacific Fisheries Commission
+address:      2F Hakuyo Hall
+address:      Tokyo University of Marine Science and Technology
+address:      4-5-7 Konan, Minato-ku
+address:      Tokyo Tokyo Prefecture 108-8477
+address:      Japan
+
+contact:      administrative
+name:         Aleksandr Zavolokin
+organisation: North Pacific Fisheries Commission
+address:      2F Hakuyo Hall
+address:      Tokyo University of Marine Science and Technology
+address:      4-5-7 Konan, Minato-ku
+address:      Tokyo Tokyo Prefecture 108-8477
+address:      Japan
+phone:        +81 3 5479 8717
+fax-no:       +81 3 5479-8718
+e-mail:       aleksandr.zavolokin@tinro-center.ru
+
+contact:      technical
+name:         Aleksandr Zavolokin
+organisation: North Pacific Fisheries Commission
+address:      2F Hakuyo Hall
+address:      Tokyo University of Marine Science and Technology
+address:      4-5-7 Konan, Minato-ku
+address:      Tokyo Tokyo Prefecture 108-8477
+address:      Japan
+phone:        +81 3 5479 8717
+fax-no:       +81 3 5479-8718
+e-mail:       aleksandr.zavolokin@tinro-center.ru
+
+nserver:      NS-222.DNS.JP-E1.CLOUDN-SERVICE.COM 153.128.33.7
+nserver:      NS-223.DNS.JP-W1.CLOUDN-SERVICE.COM 153.149.98.217
+nserver:      NS-224.DNS.US-E1.CLOUDN-SERVICE.COM 208.55.220.170
+
+created:      2016-06-21
+source:       IANA
+

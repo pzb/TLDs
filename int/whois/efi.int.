@@ -1,0 +1,40 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       EFI.INT
+
+organisation: European Forest Institute
+address:      Torikatu 34
+address:      Joensuu  FIN-80100
+address:      Finland
+
+contact:      administrative
+name:         Petri Hukka
+organisation: European Forest Institute
+address:      Torikatu 34
+address:      Joensuu  FIN-80100
+address:      Finland
+phone:        +358 (0) 10 773 347
+fax-no:       +358 (0) 10 773 4377
+e-mail:       petri.hukka@efi.int
+
+contact:      technical
+name:         Petri Hukka
+organisation: European Forest Institute
+address:      Torikatu 34
+address:      Joensuu  FIN-80100
+address:      Finland
+phone:        +358 (0) 10 773 347
+fax-no:       +358 (0) 10 773 4377
+e-mail:       petri.hukka@efi.int
+
+nserver:      NS-FI.ELISA.NET 193.229.0.49
+nserver:      NS-SE.ELISA.NET 62.248.254.2
+
+created:      2006-04-06
+changed:      2007-02-05
+source:       IANA
+

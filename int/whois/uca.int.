@@ -1,0 +1,40 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       UCA.INT
+
+organisation: University of Central Asia
+address:      Central Administration
+address:      138 Toktogul Street
+address:      Bishkek  720001
+address:      Kyrgyz Republic
+
+contact:      administrative
+name:         Sam Pickens
+organisation: Aga Khan Development Network Foundation
+address:      1-3 avenue de la Paix
+address:      Geneva  CH1202
+address:      Switzerland
+phone:        +41229097277
+fax-no:       +41229097291
+e-mail:       sam.pickens@akdn.org
+
+contact:      technical
+name:         Sam Pickens
+organisation: Aga Khan Development Network Foundation
+address:      1-3 avenue de la Paix
+address:      Geneva  CH1202
+address:      Switzerland
+phone:        +41229097277
+fax-no:       +41229097291
+e-mail:       sam.pickens@akdn.org
+
+nserver:      NS1.GVA.CH.COLT.NET 212.74.78.22
+nserver:      NS1.ZRH1.CH.COLT.NET 212.74.77.22
+
+created:      2011-10-11
+source:       IANA
+

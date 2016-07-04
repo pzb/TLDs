@@ -1,0 +1,38 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MSG.INT
+
+organisation: Melanesian Spearhead Group Secretariat
+address:      PMB 9105, Independence Garden, Port Vila
+address:      Port Vila Shefa 121121
+address:      Vanuatu
+
+contact:      administrative
+name:         MARCARIA.COM
+address:      #1000177, 222 Grace Church St. Suite 302
+address:      Port Chester NY 10573
+address:      USA
+phone:        +1 305 722 7658
+fax-no:       +1 305 675 2956
+e-mail:       domains@marcaria.com
+
+contact:      technical
+name:         MARCARIA.COM
+address:      #1000177, 222 Grace Church St. Suite 302
+address:      Port Chester NY 10573
+address:      USA
+phone:        +1 305 722 7658
+fax-no:       +1 305 675 2956
+e-mail:       domains@marcaria.com
+
+nserver:      NS01.TRADEMARKAREA.COM 66.227.46.9
+nserver:      NS02.TRADEMARKAREA.COM 65.175.38.200
+nserver:      NS03.TRADEMARKAREA.COM 94.75.208.141
+
+created:      2012-09-07
+source:       IANA
+

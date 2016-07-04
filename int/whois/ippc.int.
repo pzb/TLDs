@@ -1,0 +1,39 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       IPPC.INT
+
+organisation: International Plant Protection Convention
+address:      Viale Delle Terme di Caracalla
+address:      Rome Lazio 00153
+address:      Italy
+
+contact:      administrative
+name:         Bruno Altobelli
+organisation: IPPC Secretariat
+address:      Food and Agriculture Organization
+address:      Viale Delle Terme di Caracalla
+address:      Rome Lazio 00153
+address:      Italy
+phone:        +39-06-570-55195
+fax-no:       +39-06-570-54049
+e-mail:       web@fao.org
+
+contact:      technical
+name:         Thomas Berger
+address:      Viale Delle Terme di Caracalla
+address:      Rome RM 00153
+address:      Italy
+phone:        +39-06-570-55800
+e-mail:       Windows-Server-Admin@fao.org
+
+nserver:      DNSEXT01.FAO.ORG 193.43.36.55
+nserver:      DNSEXT02.FAO.ORG 193.43.36.9
+
+created:      2001-09-10
+changed:      2016-02-11
+source:       IANA
+

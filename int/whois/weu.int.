@@ -1,0 +1,38 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       WEU.INT
+
+organisation: Western European Union
+address:      Rue de l'Association, 15
+address:      Bruxelles Brabant 1000
+address:      Belgium
+
+contact:      administrative
+name:         Bernard APPELTANS
+address:      Rue de lAssociation, 15
+address:      Bruxelles Brabant 1000
+address:      Belgium
+phone:        +32 2 500.4466
+fax-no:       +32 2 500 4470
+e-mail:       bernard.appeltans@weu.int
+
+contact:      technical
+name:         Bernard APPELTANS
+address:      Rue de lAssociation, 15
+address:      Bruxelles Brabant 1000
+address:      Belgium
+phone:        +32 2 500.4466
+fax-no:       +32 2 500 4470
+e-mail:       bernard.appeltans@weu.int
+
+nserver:      NS3.COMBELL.NET 193.111.95.9
+nserver:      NS4.COMBELL.NET 193.74.68.68
+
+created:      1997-10-01
+changed:      2011-06-21
+source:       IANA
+

@@ -1,0 +1,40 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       IOM.INT
+
+organisation: International Organization for Migration
+address:      17, Route des Morillons
+address:      Geneva 19 GE 1211
+address:      Switzerland
+
+contact:      administrative
+name:         Bernardo Mariano
+address:      17, Route des Morillons
+address:      Geneva 19 GE 1211
+address:      Switzerland
+phone:        +41-22-7179331
+fax-no:       +41-22-7986150
+e-mail:       bmariano@iom.int
+
+contact:      technical
+name:         Dusan Gajic
+address:      17, Route des Morillons
+address:      Geneva 19 GE 1211
+address:      Switzerland
+phone:        +41-22-7179518
+fax-no:       +41-22-7986150
+e-mail:       dgajic@iom.int
+
+nserver:      NS1.GVA.CH.COLT.NET 212.74.78.22
+nserver:      NS1.IOM.ORG.PH 202.173.4.11
+nserver:      NS1.ZRH1.CH.COLT.NET 212.74.77.22
+nserver:      NS2.IOM.ORG.PH 202.173.4.10
+
+created:      1997-02-24
+changed:      2008-04-04
+source:       IANA
+

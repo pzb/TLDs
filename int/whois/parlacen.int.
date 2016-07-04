@@ -1,0 +1,39 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       PARLACEN.INT
+
+organisation: Parlamento Centroamericano
+address:      12 avenida 33-04 zona 5
+address:      Guatemala Guatemala 01005
+address:      Guatemala
+
+contact:      administrative
+name:         Dario Marchorro
+organisation: Parlamento Centroamericano
+address:      12 avenida 33-04 zona 5
+address:      Guatemala Guatemala 01005
+address:      Guatemala
+phone:        (502) 24244600
+fax-no:       (502) 24244605
+e-mail:       dagilmar@parlacen.org.gt
+
+contact:      technical
+name:         Edna Rodas
+organisation: Parlamento Centroamericano
+address:      12 avenida 33-04 zona 5
+address:      Guatemala Guatemala 01005
+address:      Guatemala
+phone:        (502) 24244600
+fax-no:       (502) 24244605
+e-mail:       erodas@parlacen.org.gt
+
+nserver:      DNS1.US.AMNETDATOS.NET 200.12.224.5
+nserver:      DNS2.GT.AMNETDATOS.NET 200.30.145.4
+
+created:      2008-09-10
+source:       IANA
+

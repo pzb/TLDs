@@ -1,0 +1,35 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       IMSO.INT
+
+organisation: International Mobile Satellite Organization
+address:      99 City Road
+address:      London  EC1Y 1AX
+address:      United Kingdom
+
+contact:      administrative
+name:         Jenny Ray
+address:      99 City Road
+address:      London  EC1Y 1AX
+address:      United Kingdom
+phone:        +442077281249
+e-mail:       jenny.ray@imso.org
+
+contact:      technical
+name:         Halil Keskin
+address:      99 City Road
+address:      London  EC1Y 1AX
+address:      United Kingdom
+phone:        +442077281693
+e-mail:       halil.keskin@imso.org
+
+nserver:      DNS1.STABLETRANSIT.COM 69.20.95.4
+nserver:      DNS2.STABLETRANSIT.COM 65.61.188.4
+
+created:      2013-06-25
+source:       IANA
+

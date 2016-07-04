@@ -1,0 +1,40 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ECB.INT
+
+organisation: European Central Bank
+address:      Kaiserstrasse 29
+address:      Frankfurt  60311
+address:      Germany
+
+contact:      administrative
+name:         Jan Pflugradt
+address:      Kaiserstr. 29
+address:      Frankfurt  60311
+address:      Germany
+phone:        +49 69 1344 7732
+fax-no:       +49 69 1344 7732
+e-mail:       jan.pflugradt@ecb.int
+
+contact:      technical
+name:         Jan Pflugradt
+address:      Kaiserstr. 29
+address:      Frankfurt  60311
+address:      Germany
+phone:        +49 69 1344 7732
+fax-no:       +49 69 1344 7732
+e-mail:       jan.pflugradt@ecb.int
+
+nserver:      AUTH02.NS.DE.UU.NET 192.76.144.15
+nserver:      AUTH52.NS.DE.UU.NET 194.128.171.101
+nserver:      NS0.DE.COLT.NET 212.121.128.1
+nserver:      NS1.DE.COLT.NET 212.121.128.2
+
+created:      1996-12-27
+changed:      2007-03-26
+source:       IANA
+

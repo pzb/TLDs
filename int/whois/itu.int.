@@ -1,0 +1,42 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ITU.INT
+
+organisation: International Telecommunication Union
+address:      Information Services Department
+address:      Place des Nations
+address:      Geneva  CH-1211
+address:      SWITZERLAND
+
+contact:      administrative
+name:         Hostmaster
+organisation: IS Department/International Telecommunication Union
+address:      Place des Nations
+address:      Geneva  CH-1211
+address:      Switzerland
+phone:        +41 22 730 5554
+fax-no:       +41 22 730 5337
+e-mail:       hostmaster@ITU.int
+
+contact:      technical
+name:         Hostmaster
+organisation: IS Department/International Telecommunication Union
+address:      Place des Nations
+address:      Geneva  CH-1211
+address:      Switzerland
+phone:        +41 22 730 5554
+fax-no:       +41 22 730 5337
+e-mail:       hostmaster@ITU.int
+
+nserver:      NS.ITU.CH 156.106.192.121
+nserver:      NS2.ITU.CH 206.155.102.70
+nserver:      NS3.ITU.CH 128.9.128.127
+
+created:      1996-07-08
+changed:      2016-05-12
+source:       IANA
+

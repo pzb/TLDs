@@ -1,0 +1,41 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CATHALAC.INT
+
+organisation: Centro del Agua del Trópico Húmedo para América Latina y El Caribe
+address:      Ciudad del Saber Edificio 111
+address:      Clayton Panamá
+address:      Panamá Panamá 0843-03102
+address:      Panamá
+
+contact:      administrative
+name:         Alexis Vega
+address:      Ciudad del Saber Edificio 111
+address:      Clayton Panamá
+address:      Panamá Panamá 0843-03102
+address:      Panamá
+phone:        +507 3173200
+fax-no:       +507 3173299
+e-mail:       alexis.vega@cathalac.org
+
+contact:      technical
+name:         Luis Alejandro del Castillo Riley
+address:      Ciudad del Saber Edificio 111
+address:      Clayton Panamá
+address:      Panamá Panamá 0843-03102
+address:      Panamá
+phone:        +507 3173200
+fax-no:       +507 3173299
+e-mail:       luis.delcastillo@cathalac.int
+
+nserver:      GRAHAM.NS.CLOUDFLARE.COM 173.245.59.171
+nserver:      MEG.NS.CLOUDFLARE.COM 173.245.58.196
+
+created:      2012-09-07
+changed:      2016-05-20
+source:       IANA
+

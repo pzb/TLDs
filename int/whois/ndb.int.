@@ -1,0 +1,44 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       NDB.INT
+
+organisation: New Development Bank
+address:      8th floor, China Financial Information Centre
+address:      18, Dongyuan Road
+address:      Pudong
+address:      Shanghai Shanghai 200120
+address:      China
+
+contact:      administrative
+name:         Pravir Vohra
+address:      8th floor, China Financial Information Centre
+address:      18, Dongyuan Road
+address:      Pudong
+address:      Shanghai Shanghai 200120
+address:      China
+phone:        +862180211806
+e-mail:       vohra.pravir@ndb.int
+
+contact:      technical
+name:         Gu Qinghua
+address:      8th floor, China Financial Information Centre
+address:      18, Dongyuan Road
+address:      Pudong
+address:      Shanghai Shanghai 200120
+address:      China
+phone:        +862180211801
+e-mail:       gu.qinghua@ndb.int
+
+nserver:      NS1.TMDHOSTING990.COM 209.58.181.132
+nserver:      NS2.TMDHOSTING990.COM 209.58.181.133
+nserver:      NS65.DOMAINCONTROL.COM 216.69.185.43
+nserver:      NS66.DOMAINCONTROL.COM 208.109.255.43
+
+created:      2015-12-03
+changed:      2016-06-10
+source:       IANA
+

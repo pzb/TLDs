@@ -1,0 +1,39 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       IPHC.INT
+
+organisation: International Pacific Halibut Commission
+address:      2320 W Commodore Way
+address:      Suite 300
+address:      Seattle WA 98199
+address:      USA
+
+contact:      administrative
+name:         Michael Larsen
+address:      2320 W Commodore Way
+address:      Suite 300
+address:      Seattle WA 98199
+address:      USA
+phone:        +1 206 634 1838
+e-mail:       mike@iphc.int
+
+contact:      technical
+name:         Jay Walker
+address:      2320 W Commodore Way
+address:      Suite 300
+address:      Seattle WA 98199
+address:      USA
+phone:        +1 206 634 1838
+e-mail:       jay@iphc.int
+
+nserver:      NS1.IPOWER.COM 66.96.142.109
+nserver:      NS2.IPOWER.COM 65.254.254.144
+
+created:      2009-01-07
+changed:      2014-07-14
+source:       IANA
+

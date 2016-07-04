@@ -1,0 +1,41 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       WMO.INT
+
+organisation: World Meteorological Organization
+address:      7bis Avenue de la Paix
+address:      Case postale 2300 Nations
+address:      Geneva  1211
+address:      Switzerland
+
+contact:      administrative
+name:         Chief Information Technology & Common Services Div
+address:      7bis Avenue de la Paix
+address:      Case postale 2300 Nations
+address:      Geneva  1211
+address:      Switzerland
+phone:        +41 22 730 84 02
+fax-no:       +41 22 730 8181
+e-mail:       mfuhr@wmo.int
+
+contact:      technical
+name:         Head IT Infrastructure & Support Services
+address:      7bis Avenue de la Paix
+address:      Case postale 2300 Nations
+address:      Geneva  1211
+address:      Switzerland
+phone:        +41 22 730 85 99
+fax-no:       +41 22 730 8181
+e-mail:       mvanas@wmo.int
+
+nserver:      NS1.IP-PLUS.NET 164.128.36.34
+nserver:      NS2.IP-PLUS.NET 164.128.76.39
+
+created:      2001-10-16
+changed:      2015-09-01
+source:       IANA
+

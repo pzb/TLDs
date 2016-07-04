@@ -1,0 +1,35 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CILSS.INT
+
+organisation: Comité Inter-Etats de Lutte contre la Sécheresse dans le Sahel (CILSS)
+address:      03 BP 7049
+address:      Ouagadougou Kadiogo 33
+address:      Burkina Faso
+
+contact:      administrative
+name:         Marcaria.com LLC
+address:      8345 NW 66 ST #B1673
+address:      Miami FL 33166
+address:      United States
+phone:        +1.3056767321
+e-mail:       domains@marcaria.com
+
+contact:      technical
+name:         Marcaria.com LLC
+address:      8345 NW 66 ST #B1673
+address:      Miami FL 33166
+address:      United States
+phone:        +1.3056767321
+e-mail:       domains@marcaria.com
+
+nserver:      DNS10.OVH.NET 213.251.188.129
+nserver:      NS10.OVH.NET 213.251.128.129
+
+created:      2016-05-12
+source:       IANA
+

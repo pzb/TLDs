@@ -1,0 +1,42 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       UN.INT
+
+organisation: United Nations
+address:      42nd Street and First Avenue
+address:      New York New York 10017
+address:      USA
+
+contact:      administrative
+name:         Malcolm Chapman
+organisation: United Nations
+address:      42nd Street and First Avenue
+address:      Room S-1933
+address:      New York New York 10017
+phone:        +1 1 917 367 27744
+fax-no:       1 917 367 2225
+e-mail:       chapmanm@un.org
+
+contact:      technical
+name:         Andreu Gomez
+organisation: United Nations
+address:      42nd Street and First Avenue
+address:      Room S-1937
+address:      New York New York 10017
+address:      USA
+phone:        +1 1 917 367 5421
+fax-no:       1 917 367 2225
+e-mail:       gomezpriu@un.org
+
+nserver:      NS1.UN.ORG 157.150.185.28
+nserver:      NS2.UN.ORG 157.150.34.57
+nserver:      NS3.UN.ORG 85.159.200.204
+
+created:      1997-04-23
+changed:      2010-08-26
+source:       IANA
+

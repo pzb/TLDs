@@ -1,0 +1,37 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       PLANTRIFINIO.INT
+
+organisation: Comisión Trinacional del Plan Trifinio
+address:      Paseo General Escalón No. 5430, Colonia Escalón
+address:      San Salvador San Salvador
+address:      El Salvador
+
+contact:      administrative
+name:         Mario Marroquin
+address:      Paseo General Escalón No. 5430, Colonia Escalón
+address:      San Salvador San Salvador
+address:      El Salvador
+phone:        503 22643619
+fax-no:       503 22643621
+e-mail:       mariorene.marroquin@hotmail.com
+
+contact:      technical
+name:         Reynaldo Tarres
+address:      Paseo General Escalón No. 5430, Colonia Escalón
+address:      San Salvador San Salvador
+address:      El Salvador
+phone:        +50322643619
+fax-no:       503 22643621
+e-mail:       reynaldo8586@gmail.com
+
+nserver:      NS05.DOMAINCONTROL.COM 216.69.185.3
+nserver:      NS06.DOMAINCONTROL.COM 208.109.255.3
+
+created:      2015-08-11
+source:       IANA
+

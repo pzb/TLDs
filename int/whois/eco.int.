@@ -1,0 +1,41 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ECO.INT
+
+organisation: Economic Cooperation Organization
+address:      No. 1, Golbou Alley, Kamranieh St.
+address:      P.O. Box: 14155 - 6176
+address:      Tehran Tehran 19519 - 33114
+address:      Iran
+
+contact:      administrative
+name:         Mohammad Reza Malakooti
+address:      No. 1, Golbou Alley, Kamranieh St.
+address:      P.O. Box: 14155 - 6176
+address:      Tehran Tehran 19519 - 33114
+address:      Iran
+phone:        +9821 22831734
+fax-no:       +9821 22831732
+e-mail:       NetAdmin@ECOsecretariat.org
+
+contact:      technical
+name:         Amir Rezaei Ashtiani
+address:      No. 1, Golbou Alley, Kamranieh St.
+address:      P.O. Box: 14155 - 6176
+address:      Tehran Tehran 19519 - 33114
+address:      Iran
+phone:        +9821 22831733
+fax-no:       +9821 22831732
+e-mail:       webmaster@ECOSecretariat.org
+
+nserver:      NS0.ECOSECRETARIAT.ORG 194.255.138.9
+nserver:      NS1.ECOSECRETARIAT.ORG 194.255.138.14
+
+created:      2013-09-17
+changed:      2015-04-21
+source:       IANA
+

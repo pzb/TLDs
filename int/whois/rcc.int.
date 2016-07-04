@@ -1,0 +1,40 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       RCC.INT
+
+organisation: Regional Cooperation Council Secretariat
+address:      Trg Bosne i Hercegovine 1
+address:      Sarajevo  71000
+address:      Bosnia and Herzegovina
+
+contact:      administrative
+name:         Sead Filipovic
+organisation: Regional Cooperation Council Secretariat
+address:      Trg Bosne i Hercegovine 1
+address:      Sarajevo  71000
+address:      Bosnia and Herzegovina
+phone:        +38733561700
+fax-no:       +38733561701
+e-mail:       Sead.Filipovic@rcc.int
+
+contact:      technical
+name:         Dubravko Grubisic
+address:      Obala Kulina bana 5/1
+address:      Sarajevo  71000
+address:      Bosnia and Herzegovina
+phone:        +38733266160
+fax-no:       +38733266161
+e-mail:       dubravko@sayber.com
+
+nserver:      DNS.FAKAT.NET 46.4.68.178
+nserver:      DNS2.FAKAT.NET 70.87.134.186
+nserver:      DNS4.FAKAT.NET 80.65.85.121
+
+created:      2008-05-02
+changed:      2014-09-02
+source:       IANA
+

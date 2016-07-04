@@ -1,0 +1,40 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CAFRAD.INT
+
+organisation: CAFRAD
+address:      Bd. Mohammed V, Pavillon International
+address:      P.O. Box 1796
+address:      Tangier  90001
+address:      Morocco
+
+contact:      administrative
+name:         Mariette NEMBOT
+address:      Bd. Mohammed V, Pavillon International
+address:      P.O. Box 1796
+address:      Tangier  90001
+address:      Morocco
+phone:        +212660557966
+fax-no:       +212539325785
+e-mail:       n_mariette@yahoo.fr
+
+contact:      technical
+name:         Kossi TSOGBE
+address:      Bd. Mohammed V, Pavillon International
+address:      P.O. Box 1796
+address:      Tangier  90001
+address:      Morocco
+phone:        +212674782479
+fax-no:       +212539325785
+e-mail:       t.kossi@krypto-mania.com
+
+nserver:      NS.MAINNAMESERVER.COM 79.170.40.2
+nserver:      NS2.MAINNAMESERVER.COM 79.170.40.3
+
+created:      2016-03-22
+source:       IANA
+

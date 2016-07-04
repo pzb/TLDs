@@ -1,0 +1,41 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       EUCLID.INT
+
+organisation: EUCLID (Euclid University)
+address:      Université de Bangui, CRM
+address:      BP 157
+address:      Bangui Capitale NA
+address:      Central African Republic
+
+contact:      administrative
+name:         Syed Zahid Ali
+address:      MC-Square Building
+address:      Lambroekstraat 5A
+address:      Diegem-Brussels  1831
+address:      Belgium
+phone:        3227065660
+e-mail:       official@euclid.int
+
+contact:      technical
+name:         Rodrigo Aguero, DAO
+organisation: EUCLID (Euclid University)
+address:      1250 24th St. NW #300
+address:      1250 24th St. NW #300
+address:      EUCLID Liaison
+address:      Washington DC 20037
+address:      United States
+phone:        12022633628
+e-mail:       communications@euclid.int
+
+nserver:      NS3.INFINITEHORIZON.BIZ 173.0.137.5
+nserver:      NS4.INFINITEHORIZON.BIZ 173.0.138.5
+
+created:      2008-07-21
+changed:      2011-12-22
+source:       IANA
+

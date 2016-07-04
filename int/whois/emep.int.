@@ -1,0 +1,39 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       EMEP.INT
+
+organisation: Evaluation of the Long-Range Transmission of Air Pollutants
+address:      P.O. Box 43
+address:      Blindern Oslo N-0313
+address:      Norway
+
+contact:      administrative
+name:         Heiko Klein
+organisation: Evaluation of the Long-Range Transmission of Air Pollutants
+address:      P.O. Box 43
+address:      Blindern Oslo N-0313
+address:      Norway
+phone:        (+47) 2296 3344
+fax-no:       (+47) 2296 6355
+e-mail:       Heiko.Klein@met.no
+
+contact:      technical
+name:         Borre Knutsen
+organisation: Norwegian Meteorlogical Institute
+address:      P.O. Box 43
+address:      Blindern  N-0313 Oslo
+address:      Norway
+phone:        +47 22 96 30 00
+e-mail:       borre.knutsen@dnmi.no
+
+nserver:      GUIDE.OLSO.DNMI.NO 157.249.32.14
+nserver:      TELL.OSLO.DNMI.NO 157.249.32.15
+
+created:      1998-09-25
+changed:      2007-03-26
+source:       IANA
+

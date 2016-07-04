@@ -1,0 +1,39 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ILO.INT
+
+organisation: International Labour Organization
+address:      4, route des Morillons
+address:      Geneva  1211
+address:      Switzerland
+
+contact:      administrative
+name:         Alberto Sylvester
+organisation: International Labour Organization
+address:      4, route des Morillons
+address:      Geneva  1211
+address:      Switzerland
+phone:        +41 22 799 6532
+e-mail:       unixadmin@ilo.org
+
+contact:      technical
+name:         Alberto Sylvester
+organisation: International Labour Organization
+address:      4, route des Morillons
+address:      Geneva  1211
+address:      Switzerland
+phone:        +41 22 799 6532
+e-mail:       unixadmin@ilo.org
+
+nserver:      DNSDRPUB.ILO.ORG 193.134.194.251
+nserver:      NS1.ILO.ORG 193.134.194.101
+nserver:      NS2.ILO.ORG 193.134.194.102
+
+created:      2001-09-10
+changed:      2013-01-25
+source:       IANA
+

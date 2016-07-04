@@ -1,0 +1,41 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       IFAD.INT
+
+organisation: International Fund for Agricultural Development (IFAD)
+address:      c/o International Computing Center (ICC)
+address:      Palais des Nations
+address:      Geneve 10  1211
+address:      Switzerland
+
+contact:      administrative
+name:         Name Service Contact
+address:      International Computing Center (ICC)
+address:      Palais des Nations
+address:      Geneve 10  1211
+address:      Switzerland
+phone:        +41 22 929 1411
+fax-no:       +41 22 929 1412
+e-mail:       ns-admin@unicc.org
+
+contact:      technical
+name:         Name Service Contact
+address:      International Computing Center (ICC)
+address:      Palais des Nations
+address:      Geneve 10  1211
+address:      Switzerland
+phone:        +41 22 929 1411
+fax-no:       +41 22 929 1412
+e-mail:       ns-admin@unicc.org
+
+nserver:      NS.UNICC.ORG 192.91.247.3
+nserver:      NS1.GVA.CH.COLT.NET 212.74.78.22
+
+created:      2001-10-11
+changed:      2007-03-29
+source:       IANA
+

@@ -1,0 +1,41 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       OIML.INT
+
+organisation: Organisation Internationale de Métrologie Légale
+address:      11, rue Turgot
+address:      Paris  75009
+address:      France
+
+contact:      administrative
+name:         Jean-Christophe Esmiol
+organisation: Organisation Internationale de Métrologie Légale
+address:      11, rue Turgot
+address:      Paris  75009
+address:      France
+phone:        +33 148781282
+fax-no:       +33 142821727
+e-mail:       jean-christophe.esmiol@oiml.org
+
+contact:      technical
+name:         Jean-Christophe Esmiol
+organisation: Organisation Internationale de Métrologie Légale
+address:      11, rue Turgot
+address:      Paris  75009
+address:      France
+phone:        +33 148781282
+fax-no:       +33 142821727
+e-mail:       jean-christophe.esmiol@oiml.org
+
+nserver:      NS.BIML.FR 193.251.42.128
+nserver:      NS.BIML.NET 62.212.120.117
+nserver:      NS.OIML.ORG 188.130.35.229
+
+created:      2003-05-20
+changed:      2010-07-01
+source:       IANA
+

@@ -1,0 +1,40 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       UNFCCC.INT
+
+organisation: United Nations Framework Convention Climate Change (UNFCCC)
+address:      Martin-Luther-King-Str. 8
+address:      Bonn NRW D-53175
+address:      Germany
+
+contact:      administrative
+name:         John Kiarie
+organisation: United Nations Framework Convention Climate Change (UNFCCC)
+address:      Martin-Luther-King-Str. 8
+address:      Bonn NRW D-53175
+address:      Germany
+phone:        +49 228 815 1515
+fax-no:       +49 228 815 1919
+e-mail:       tech@unfccc.int
+
+contact:      technical
+name:         Otgonbayar Tovuudorj
+address:      Martin-Luther-King-Str. 8
+address:      Bonn NRW D-53175
+address:      Germany
+phone:        +49 228 815 1550
+fax-no:       +49 228 815 1919
+e-mail:       tech@unfccc.int
+
+nserver:      NS1.UNFCCC.INT 62.225.2.18
+nserver:      PNS.DTAG.DE 194.25.0.125
+nserver:      SECONDARY006.DTAG.NET 195.244.245.25
+
+created:      2001-09-10
+changed:      2010-12-21
+source:       IANA
+

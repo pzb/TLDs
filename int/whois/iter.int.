@@ -1,0 +1,36 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ITER.INT
+
+organisation: ITER International Fusion Energy Organization
+address:      Route de Vinon sur Verdon
+address:      St Paul Lez Durance  13115
+address:      France
+
+contact:      administrative
+name:         Bjoern Wilhelm
+address:      Route de Vinon sur Verdon
+address:      St Paul Lez Durance  13115
+address:      France
+phone:        +33442176464
+e-mail:       bjoern.wilhelm@iter.org
+
+contact:      technical
+name:         Bjoern Wilhelm
+address:      Route de Vinon sur Verdon
+address:      St Paul Lez Durance  13115
+address:      France
+phone:        +33442176464
+e-mail:       bjoern.wilhelm@iter.org
+
+nserver:      IO-WS-XDNS1.ITER.ORG 193.51.56.40
+nserver:      IO-WS-XDNS2.ITER.ORG 193.51.56.41
+
+created:      2013-06-07
+changed:      2016-03-09
+source:       IANA
+

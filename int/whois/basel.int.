@@ -1,0 +1,46 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BASEL.INT
+
+organisation: Secretariat of the Basel Convention
+address:      International Environment House
+address:      13 - 15 Chemin des Anemones
+address:      Chatelaine
+address:      Geneva Geneva CH - 1219
+address:      Switzerland
+
+contact:      administrative
+name:         Osmany Pereira
+organisation: Secretariat of the Basel Convention
+address:      International Environment House
+address:      13 - 15 Chemin des Anemones
+address:      Chatelaine
+address:      Geneva Geneva CH - 1219
+address:      Switzerland
+phone:        +41 22 917 8194
+fax-no:       +41 22 917 8098
+e-mail:       osmany.pereira@brsmeas.org
+
+contact:      technical
+name:         Alejandro MONTERO
+organisation: Secretariat of the Basel Convention
+address:      International Environment House
+address:      13 - 15 Chemin des Anemones
+address:      Chatelaine
+address:      Geneva Geneva CH - 1219
+address:      Switzerland
+phone:        +41 22 917 8382
+fax-no:       +41 22 917 8098
+e-mail:       alejandro.montero@unep.org
+
+nserver:      DNS1.UNEPCHEMICALS.CH 212.203.125.56
+nserver:      DNS2.UNEPCHEMICALS.CH 212.203.125.86
+
+created:      2001-09-10
+changed:      2013-12-05
+source:       IANA
+

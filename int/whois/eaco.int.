@@ -1,0 +1,39 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       EACO.INT
+
+organisation: East African Communications Organization (EACO)
+address:      P.O.Box 6309
+address:      Ex-Fair House, 1st Floor, KN6 AV11- Kiyovu
+address:      Kigali City
+address:      Rwanda
+
+contact:      administrative
+name:         Jean Pierre Nshimiyimana
+address:      P.O.Box 6309
+address:      Ex-Fair House, 1st Floor, KN6 AV11- Kiyovu
+address:      Kigali
+address:      Rwanda
+phone:        +250788868680
+e-mail:       piero425@gmail.com
+
+contact:      technical
+name:         Jean Pierre Nshimiyimana
+address:      P.O.Box 6309
+address:      Ex-Fair House, 1st Floor, KN6 AV11- Kiyovu
+address:      Kigali
+address:      Rwanda
+phone:        +250788868680
+e-mail:       piero425@gmail.com
+
+nserver:      NS1.MTNONLINE.RW 196.44.250.214
+nserver:      NS2.MTNONLINE.RW 196.44.250.215
+
+created:      2012-09-10
+changed:      2015-05-07
+source:       IANA
+

@@ -1,0 +1,40 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ICSTI.INT
+
+organisation: International Centre for Scientific and Technical Information
+address:      21-B Kuusinen Street
+address:      Moscow  125252
+address:      Russian Federation
+
+contact:      administrative
+name:         Evgeny Ugrinovich
+address:      21-B Kuusinen Street
+address:      Moscow  125252
+address:      Russian Federation
+phone:        +7 499 198-70-21
+fax-no:       +7 499 943-00-89
+e-mail:       eu@icsti.ru
+
+contact:      technical
+name:         Pavel Ustiazhaninov
+address:      21-B Kuusinen Street
+address:      Moscow  125252
+address:      Russian Federation
+phone:        +7 499 198-70-21
+fax-no:       +7 499 943-00-89
+e-mail:       info@icsti.ru
+
+nserver:      NS3-L2.NIC.RU 193.232.146.1
+nserver:      NS4-CLOUD.NIC.RU 195.253.65.2 2a01:5b0:5::2
+nserver:      NS4-L2.NIC.RU 91.217.20.1
+nserver:      NS8-CLOUD.NIC.RU 195.253.64.10 2a01:5b0:4::a
+nserver:      NS8-L2.NIC.RU 91.217.21.1
+
+created:      2016-04-01
+source:       IANA
+

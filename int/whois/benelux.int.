@@ -1,0 +1,39 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BENELUX.INT
+
+organisation: Benelux General Secretariat
+address:      Rue de la Régence 39/Regentschapsstraat 39
+address:      Bruxelles/Brussel/Brussels  1000
+address:      Belgium
+
+contact:      administrative
+name:         Nick Van Haver
+organisation: Benelux General Secretariat
+address:      Rue de la Régence 39/Regentschapsstraat 39
+address:      Bruxelles/Brussel/Brussels  1000
+address:      Belgium
+phone:        +32.2.519.38.30
+e-mail:       n.vanhaver@benelux.be
+
+contact:      technical
+name:         Geert Reulens
+organisation: Benelux General Secretariat
+address:      Rue de la Régence 39/Regentschapsstraat 39
+address:      Bruxelles/Brussel/Brussels  1000
+address:      Belgium
+phone:        +32.2.519.39.72
+e-mail:       g.reulens@benelux.be
+
+nserver:      NS1.SKYNET.BE 195.238.3.17
+nserver:      NS2.SKYNET.BE 195.238.3.18
+nserver:      NS3.SKYNET.BE 195.238.25.138
+nserver:      NS4.SKYNET.BE 195.238.25.139
+
+created:      2011-02-01
+source:       IANA
+

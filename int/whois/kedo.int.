@@ -1,0 +1,21 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       KEDO.INT
+
+contact:      administrative
+name:         For more information, please contact int-dom@iana.org.
+
+contact:      technical
+name:         For more information, please contact int-dom@iana.org.
+
+nserver:      OHCU.OH.MT.NP.ELS-GMS.ATT.NET 199.191.144.75
+nserver:      ORCU.OR.BR.NP.ELS-GMS.ATT.NET 199.191.129.139
+
+created:      2001-09-10
+changed:      2004-01-30
+source:       IANA
+

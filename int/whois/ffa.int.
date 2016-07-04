@@ -1,0 +1,46 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       FFA.INT
+
+organisation: Pacific Islands Forum Fisheries Agency
+address:      1 FFA Road
+address:      PO Box 629
+address:      Honiara Guadacanal
+address:      Solomon Islands
+
+contact:      administrative
+name:         Bryan Scott
+organisation: Pacific Islands Forum Fisheries Agency
+address:      1 FFA Road
+address:      PO Box 629
+address:      Honiara Guadacanal
+address:      Solomon Islands
+phone:        (677) 21124
+fax-no:       (677) 23995
+e-mail:       bryan.scott@ffa.int
+
+contact:      technical
+name:         Bryan Scott
+organisation: Pacific Islands Forum Fisheries Agency
+address:      1 FFA Road
+address:      PO Box 629
+address:      Honiara Guadacanal
+address:      Solomon Islands
+phone:        (677) 21124
+fax-no:       (677) 23995
+e-mail:       bryan.scott@ffa.int
+
+nserver:      ALBACORE.FFA.INT 202.63.254.1
+nserver:      DOLPHIN.FFA.INT 202.63.254.5
+nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1::39
+nserver:      WARRANE.CONNECT.COM.AU 192.189.54.33
+nserver:      YARRINA.CONNECT.COM.AU 192.189.54.17
+
+created:      1995-10-10
+changed:      2014-04-17
+source:       IANA
+

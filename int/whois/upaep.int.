@@ -1,0 +1,37 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       UPAEP.INT
+
+organisation: Unión Postal de las Américas, España y Portugal
+address:      Cebollatí 1470
+address:      Montevideo  11200
+address:      Uruguay
+
+contact:      administrative
+name:         Marcelo Quinteros
+address:      Cebollatí 1470
+address:      Montevideo  11200
+address:      Uruguay
+phone:        00589824100070
+fax-no:       0059824105046
+e-mail:       marcelo.quinteros@upaep.com.uy
+
+contact:      technical
+name:         Marcelo Quinteros
+address:      Cebollatí 1470
+address:      Montevideo  11200
+address:      Uruguay
+phone:        00589824100070
+fax-no:       0059824105046
+e-mail:       marcelo.quinteros@upaep.com.uy
+
+nserver:      NS1.NETGATE.COM.UY 200.40.119.75
+nserver:      NS2.NETGATE.COM.UY 50.97.68.245
+
+created:      2014-06-16
+source:       IANA
+

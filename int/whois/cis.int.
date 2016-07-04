@@ -1,0 +1,23 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CIS.INT
+
+organisation: For more information, contact int-dom@iana.org.
+
+contact:      administrative
+organisation: For more information, contact int-dom@iana.org.
+
+contact:      technical
+organisation: For more information, contact int-dom@iana.org
+
+nserver:      NS.CL.SPB.RU 212.46.192.3
+nserver:      NS1.CITYLINE.RU 195.46.160.1
+
+created:      2001-09-10
+changed:      2001-10-18
+source:       IANA
+

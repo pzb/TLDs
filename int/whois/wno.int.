@@ -1,0 +1,42 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       WNO.INT
+
+organisation: World Nature Organization (WNO)
+address:      World Trade Center II
+address:      29 Route de Pre Bois
+address:      Geneva GE 1215
+address:      Switzerland
+
+contact:      administrative
+name:         Oliver Wurmbrand-Stuppach
+address:      World Trade Center II
+address:      29 Route de Pre Bois
+address:      Geneva GE 1215
+address:      Switzerland
+phone:        +41225181400
+fax-no:       +41225181401
+e-mail:       geneva@wno.org
+
+contact:      technical
+name:         Admin of the Day, EDIS GmbH
+address:      Hauptplatz 3
+address:      Graz ST 8010
+address:      Austria
+phone:        +43.316827500300
+fax-no:       +43.316827500777
+e-mail:       domreg@edis.at
+
+nserver:      NS1.EDIS.AT 91.227.204.227
+nserver:      NS2.EDIS.AT 91.227.205.227
+nserver:      NS5.EDIS.AT 46.17.57.5
+nserver:      NS6.EDIS.AT 178.209.42.105
+
+created:      2014-06-16
+changed:      2014-06-17
+source:       IANA
+

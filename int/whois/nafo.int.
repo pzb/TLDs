@@ -1,0 +1,42 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       NAFO.INT
+
+organisation: Northwest Atlantic Fisheries Organization
+address:      2 Morris Drive
+address:      Suite 100
+address:      Dartmouth Nova Scotia B3B 1K8
+address:      Canada
+
+contact:      administrative
+name:         Stan Goodick
+organisation: Northwest Atlantic Fisheries Organization
+address:      P.O. Box 638
+address:      Dartmouth Nova Scotia B2Y 3Y9
+address:      Canada
+phone:        1-902-468-7541
+fax-no:       1-902-468-5538
+e-mail:       sgoodick@nafo.int
+
+contact:      technical
+name:         Matthew Kendall
+organisation: Northwest Atlantic Fisheries Organization
+address:      P.O. Box 638
+address:      Dartmouth Nova Scotia B2Y 3Y9
+address:      Canada
+phone:        1-902-468-7182
+fax-no:       1-902-468-5538
+e-mail:       mjkendall@gmail.com
+
+nserver:      DNS-NB00.ALIANT.NET 198.164.30.2
+nserver:      DNS-NB01.ALIANT.NET 192.164.4.2
+nserver:      DNS-NS00.ALIANT.NET 142.177.1.2
+
+created:      2003-05-21
+changed:      2013-01-07
+source:       IANA
+

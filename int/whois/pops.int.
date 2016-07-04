@@ -1,0 +1,41 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       POPS.INT
+
+organisation: Stockholm Convention on Persistent Organic Pollutants
+address:      15 chemin des Anemones
+address:      Chatelaine
+address:      Geneva  1219
+address:      Switzerland
+
+contact:      administrative
+name:         Osmany Pereira
+address:      15 chemin des Anemones
+address:      Chatelaine
+address:      Geneva  1219
+address:      Switzerland
+phone:        +41229178194
+fax-no:       +41227973460
+e-mail:       opereira@pops.int
+
+contact:      technical
+name:         Federico Izzo
+address:      15 chemin des Anemones
+address:      Chatelaine
+address:      Geneva  1219
+address:      Switzerland
+phone:        +41229178177
+fax-no:       +41227973460
+e-mail:       fizzo@pic.int
+
+nserver:      DNS1.UNEPCHEMICALS.CH 212.203.125.56
+nserver:      DNS2.UNEPCHEMICALS.CH 212.203.125.86
+
+created:      2002-09-13
+changed:      2010-05-28
+source:       IANA
+

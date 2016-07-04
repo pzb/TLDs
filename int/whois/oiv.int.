@@ -1,0 +1,38 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       OIV.INT
+
+organisation: Organisation International de la Vigne et DuVin
+address:      18, rue d'Aguesseau
+address:      PARIS  75008
+address:      FRANCE
+
+contact:      administrative
+name:         Federico CASTELLUCCI
+address:      18, rue d'Aguesseau
+address:      PARIS  75008
+address:      FRANCE
+phone:        +33(0)1.44.94.80.80
+fax-no:       +33 (0)1.42.66.90.63
+e-mail:       dgeneral@oiv.int
+
+contact:      technical
+name:         Sylvain PASSEMAR
+address:      18, rue d'Aguesseau
+address:      PARIS  75008
+address:      FRANCE
+phone:        +33(0)1.44.94.80.80
+fax-no:       +33 (0)1.42.66.90.63
+e-mail:       si@oiv.int
+
+nserver:      NS1.DYNAFI.FR 87.98.209.102
+nserver:      NS2.DYNAFI.FR 87.98.209.103
+
+created:      2001-09-10
+changed:      2012-05-14
+source:       IANA
+

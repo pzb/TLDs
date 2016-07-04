@@ -1,0 +1,43 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ICCAT.INT
+
+organisation: International Commission for the Conservation of Atlantic Tunas (ICCAT)
+address:      C/ Corazon de Maria 8
+address:      Sixth Floor
+address:      Madrid  28002
+address:      Spain
+
+contact:      administrative
+name:         Driss Meski
+organisation: ICCAT
+address:      Corazon de Maria 8
+address:      Sixth Floor
+address:      Madrid  28002
+address:      Spain
+phone:        34 91 416 5600
+fax-no:       34 91 415 2612
+e-mail:       Driss.Meski@iccat.int
+
+contact:      technical
+name:         Jesus Fiz
+organisation: ICCAT
+address:      Corazon de Maria 8
+address:      Sixth Floor
+address:      Madrid  28002
+address:      Spain
+phone:        34 91 416 5600
+fax-no:       34 91 415 2612
+e-mail:       jesus.fiz@iccat.int
+
+nserver:      NS1.ACENS.NET 217.116.0.176
+nserver:      NS2.ACENS.NET 217.116.0.177
+
+created:      2003-05-20
+changed:      2007-09-20
+source:       IANA
+

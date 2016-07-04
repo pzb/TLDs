@@ -1,0 +1,40 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       IICA.INT
+
+organisation: Inter-American Institute for Cooperation on Agriculture (IICA)
+address:      600 meters North from the IPIS-CORONADO Road Crossing
+address:      Contiguo a la Clinica CCSS,
+address:      San Isidro de Coronado San Jose 55-2200
+address:      Costa Rica
+
+contact:      administrative
+name:         IICA Administrative Contact
+address:      600 meters North from the IPIS-CORONADO Road Crossing
+address:      Contiguo a la Clinica CCSS,
+address:      San Isidro de Coronado San Jose 55-2200
+address:      Costa Rica
+phone:        (506) 216 0153
+fax-no:       (506) 216 0412
+e-mail:       tic@iica.int
+
+contact:      technical
+name:         IICA Technical Contact
+address:      600 meters North from the IPIS-CORONADO Road Crossing
+address:      San Isidro de Coronado San Jose 55-2200
+address:      Costa Rica
+phone:        (506) 216 0153
+fax-no:       (506) 216 0412
+e-mail:       dnsadmins@iica.int
+
+nserver:      NS.IICA.INT 200.91.91.165
+nserver:      NS2.IICA.INT 23.96.18.108
+
+created:      2001-10-11
+changed:      2015-01-20
+source:       IANA
+

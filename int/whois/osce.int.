@@ -1,0 +1,37 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       OSCE.INT
+
+organisation: OSCE Organization for Security and Cooperation in Europe
+address:      Wallnerstrasse 6-6a
+address:      Vienna  1010
+address:      Austria
+
+contact:      administrative
+name:         OSCE Organization for Security and Cooperation in Europe
+address:      Wallnerstrasse 6-6a
+address:      Vienna  1010
+address:      Austria
+phone:        +43 1 514360
+e-mail:       domain-admin@osce.org
+
+contact:      technical
+name:         Alexander Mzik
+address:      Wallnerstrasse 6-6a
+address:      Vienna  1010
+address:      Austria
+phone:        +43 1 514360
+e-mail:       domain-admin@osce.org
+
+nserver:      NS1.DNS.INTEROUTE.NET 154.15.200.6
+nserver:      NS2.DNS.INTEROUTE.NET 154.15.247.98
+nserver:      NS3.DNS.INTEROUTE.NET 154.15.201.6
+
+created:      2006-12-06
+changed:      2012-09-06
+source:       IANA
+

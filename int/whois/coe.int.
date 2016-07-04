@@ -1,0 +1,38 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       COE.INT
+
+organisation: Council of Europe
+address:      Avenue de l'Europe
+address:      Strasbourg  67000
+address:      France
+
+contact:      administrative
+name:         Jean-Charles CANTE
+address:      Avenue de l'Europe
+address:      Strasbourg  67000
+address:      France
+phone:        +33 3 88 41 20 00
+fax-no:       +33 3 88 41 39 67
+e-mail:       jean-charles.cante@coe.int
+
+contact:      technical
+name:         Samuel CHABOISSEAU
+address:      Avenue de l'Europe
+address:      Strasbourg  67000
+address:      France
+phone:        +33 3 88 41 20 00
+fax-no:       +33 3 88 41 39 67
+e-mail:       samuel.chaboisseau@coe.int
+
+nserver:      CUIVRE.COE.INT 193.164.229.94
+nserver:      NEON.COE.INT 193.164.229.99
+
+created:      1997-10-24
+changed:      2007-03-26
+source:       IANA
+

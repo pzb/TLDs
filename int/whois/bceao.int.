@@ -1,0 +1,38 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BCEAO.INT
+
+organisation: Banque Centrale des Etats de l'Afrique de l'Quest
+address:      Av Abdoulaye Fadiga
+address:      Dakar
+address:      Senegal
+
+contact:      administrative
+name:         Abdoulaye Mbodj
+address:      av Abdoulaye Fadiga
+address:      Dakar
+address:      Senegal
+phone:        +221 338390500
+fax-no:       +221 338239335
+e-mail:       ambodj@bceao.int
+
+contact:      technical
+name:         Jacques Valian
+address:      Av Abdoulaye Fadiga
+address:      Dakar
+address:      Senegal
+phone:        +221 338390500
+fax-no:       +221 338239335
+e-mail:       jvalian@bceao.int
+
+nserver:      NS1.BCEAO.INT 213.154.86.2
+nserver:      NS2.BCEAO.INT 178.32.167.97
+
+created:      1998-09-25
+changed:      2013-01-17
+source:       IANA
+

@@ -1,0 +1,43 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       EUROFISH.INT
+
+organisation: Eurofish
+address:      H.C. Andersens Boulevard 44-46
+address:      Copenhagen V  DK-1553
+address:      Denmark
+
+contact:      administrative
+name:         Thomas Jensen
+organisation: Eurofish
+address:      H.C. Andersens Boulevard 44-46
+address:      Copenhagen V  DK-1553
+address:      Denmark
+phone:        +45 33377766
+fax-no:       +45 33377756
+e-mail:       thomas.jensen@eurofish.dk
+
+contact:      technical
+name:         Thomas Jensen
+organisation: Eurofish
+address:      H.C. Andersens Boulevard 44-46
+address:      Copenhagen V  DK-1553
+address:      Denmark
+phone:        +45 33377766
+fax-no:       +45 33377756
+e-mail:       thomas.jensen@eurofish.dk
+
+nserver:      NS1.GRATISDNS.DK 109.238.48.13
+nserver:      NS2.GRATISDNS.DK 208.43.238.42
+nserver:      NS3.GRATISDNS.DK 194.0.2.6
+nserver:      NS4.GRATISDNS.DK 87.73.3.3
+nserver:      NS5.GRATISDNS.DK 85.17.221.46
+
+created:      2002-08-27
+changed:      2010-12-24
+source:       IANA
+

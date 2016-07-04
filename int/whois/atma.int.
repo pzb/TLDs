@@ -1,0 +1,23 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ATMA.INT
+
+organisation: For more information, please contact int-dom@iana.org.
+
+contact:      administrative
+organisation: For more information, please contact int-dom@iana.org.
+
+contact:      technical
+organisation: For more information, please contact int-dom@iana.org.
+
+nserver:      FLAG.EP.NET 198.32.4.13
+nserver:      NS.ISI.EDU 128.9.128.127
+
+created:      2001-09-10
+changed:      2005-06-30
+source:       IANA
+

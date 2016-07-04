@@ -1,0 +1,42 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       IIC.INT
+
+organisation: Inter-American Investment Corporation
+address:      1300 New York Avenue
+address:      Washington, DC  20577
+address:      USA
+
+contact:      administrative
+name:         Laura Juarez
+address:      1350 New York Avenue
+address:      Stop 0950
+address:      Washington, DC  20577
+address:      USA
+phone:        +1 202-623-3496
+fax-no:       +1 202-623-2989
+e-mail:       lauraj@iadb.org
+
+contact:      technical
+name:         Julio Lima
+address:      1350 New York Avenue
+address:      Stop 0950
+address:      Washington, DC  20577
+address:      USA
+phone:        +1 202-623-2831
+fax-no:       +1 202-623-2989
+e-mail:       julioli@iadb.org
+
+nserver:      NS-1089.AWSDNS-08.ORG 205.251.196.65
+nserver:      NS-1864.AWSDNS-41.CO.UK 205.251.199.72
+nserver:      NS-195.AWSDNS-24.COM 205.251.192.195
+nserver:      NS-992.AWSDNS-60.NET 205.251.195.224
+
+created:      1998-09-25
+changed:      2013-09-12
+source:       IANA
+

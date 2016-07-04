@@ -1,0 +1,39 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ICES.INT
+
+organisation: International Council for the Exploration of the Sea
+address:      H.C. Andersens Boulevard 44-46
+address:      Copenhagen V  DK-1553
+address:      Denmark
+
+contact:      administrative
+name:         Wim Panhorst
+organisation: International Council for the Exploration of the Sea
+address:      H.C. Andersens Boulevard 44-46
+address:      Copenhagen V  DK-1553
+address:      Denmark
+phone:        +45 33386700
+e-mail:       wim@ices.dk
+
+contact:      technical
+name:         Wim Panhorst
+organisation: International Council for the Exploration of the Sea
+address:      H.C. Andersens Boulevard 44-46
+address:      Copenhagen V  DK-1553
+address:      Denmark
+phone:        +45 33386700
+e-mail:       wim@ices.dk
+
+nserver:      NS1.HOSTING2.DK 195.245.210.10
+nserver:      NS2.HOSTING2.DK 195.245.210.11
+nserver:      NS3.HOSTING2.DK 193.238.185.12
+
+created:      1997-08-31
+changed:      2008-04-23
+source:       IANA
+

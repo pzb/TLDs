@@ -1,0 +1,43 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       INCAP.INT
+
+organisation: Instituto de Nutrición de Centro América y Panamá (INCAP)
+address:      Calzada Roosevelt 6-25 zona 11
+address:      Apartado Postal 1188
+address:      Guatemala  01011
+address:      Guatemala
+
+contact:      administrative
+name:         Luisa Carolina Siú Bermúdez
+organisation: Instituto de Nutrición de Centro América y Panamá (INCAP)
+address:      Calzada Roosevelt 6-25 zona 11
+address:      Apartado Postal 1188
+address:      Guatemala  01011
+address:      Guatemala
+phone:        502 2473 6518
+fax-no:       502 2473 6529
+e-mail:       csiu@incap.int
+
+contact:      technical
+name:         Lucrecia Campo
+organisation: Instituto de Nutrición de Centro América y Panamá (INCAP)
+address:      Calzada Roosevelt 6-25 zona 11
+address:      Apartado Postal 1188
+address:      Guatemala  01011
+address:      Guatemala
+phone:        502 2472 3762
+fax-no:       502 2473 6529
+e-mail:       lcampo@incap.int
+
+nserver:      OSI2.GUA.NET 205.161.188.3
+nserver:      OSI3.GUA.NET 205.161.188.4
+
+created:      2010-04-29
+changed:      2010-07-09
+source:       IANA
+

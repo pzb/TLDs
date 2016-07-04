@@ -1,0 +1,38 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       UNILAT.INT
+
+organisation: Union Latine
+address:      131 rue du Bac
+address:      Paris  75007
+address:      France
+
+contact:      administrative
+organisation: Union Latine
+address:      131 rue du Bac
+address:      Paris  75007
+address:      France
+phone:        0033145496060
+fax-no:       0033145494701
+e-mail:       ulsg@unilat.org
+
+contact:      technical
+organisation: Union Latine
+address:      131 rue du Bac
+address:      Paris  75007
+address:      France
+phone:        0033145496060
+fax-no:       0033145494701
+e-mail:       ulsg@unilat.org
+
+nserver:      NS0.EASYNET.FR 195.114.64.235
+nserver:      NS1.EASYNET.CO.UK 193.131.248.24
+
+created:      1999-07-15
+changed:      2002-07-19
+source:       IANA
+

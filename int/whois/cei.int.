@@ -1,0 +1,38 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CEI.INT
+
+organisation: Central European Initiative
+address:      Via Genova 9
+address:      Trieste  34121
+address:      Italy
+
+contact:      administrative
+name:         Lidija Arsova
+address:      Via Genova 9
+address:      Trieste  34121
+address:      Italy
+phone:        +39 040 7786 727
+fax-no:       +39 040 360 640
+e-mail:       arsova@cei-es.org
+
+contact:      technical
+name:         Furio Bressanutti
+address:      Via Cassa di Risparmio 6
+address:      Trieste  34121
+address:      Italy
+phone:        +39 040 245 9008
+fax-no:       +39 040 245 9007
+e-mail:       info@info-era.com
+
+nserver:      DOWN.SPIN.IT 147.123.1.23
+nserver:      STRANGE.AS6734.NET 82.193.34.154
+nserver:      UP.SPIN.IT 147.123.1.22
+
+created:      2012-04-16
+source:       IANA
+

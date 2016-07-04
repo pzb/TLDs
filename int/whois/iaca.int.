@@ -1,0 +1,38 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       IACA.INT
+
+organisation: International Anti-Corruption Academy (IACA)
+address:      Muenchendorfer Strasse 2
+address:      Laxenburg  2361
+address:      Austria
+
+contact:      administrative
+name:         Ms. Alena Gustafikova
+address:      Muenchendorfer Strasse 2
+address:      Laxenburg  2361
+address:      Austria
+phone:        +43 (0) 2236 710718 ext 101
+fax-no:       +43 (0) 2236 710718 311
+e-mail:       alena.gustafikova@unodc.org
+
+contact:      technical
+name:         Mr. Gerd Thurner
+address:      Muenchendorfer Strasse 2
+address:      Laxenburg  2361
+address:      Austria
+phone:        +43 (0) 2236 710718 ext 140
+fax-no:       +43 (0) 2236 710718 311
+e-mail:       Gerd.Thurner@iaca.int
+
+nserver:      NS0.IACA.INT 178.189.79.34
+nserver:      NS1.IACA.INT 213.229.22.153
+
+created:      2011-05-17
+changed:      2011-12-15
+source:       IANA
+

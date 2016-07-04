@@ -1,0 +1,39 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       IEMO.INT
+
+organisation: International Emergency Management Organization (IEMO)
+address:      via Barberini, 3a
+address:      Roma RM 00187
+address:      Italy
+
+contact:      administrative
+name:         Alessandro Manini
+organisation: International Emergency Management Organization (IEMO)
+address:      via Bonomelli 1
+address:      Novara NO 28100
+address:      Italy
+phone:        +39.032130340
+fax-no:       +39.0321681732
+e-mail:       iemo@iemo.it
+
+contact:      technical
+name:         Maurizio Monteduro
+organisation: International Emergency Management Organization (IEMO)
+address:      via Ricci, 14
+address:      Novara NO 28100
+address:      Italy
+phone:        +39.0321482446
+fax-no:       +39.0321482444
+e-mail:       maurizio@fauser.edu
+
+nserver:      ARTEMIDE.FAUSER.EDU 87.250.77.204
+nserver:      SHARK.FAUSER.IT 87.250.78.10
+
+created:      2010-03-08
+source:       IANA
+

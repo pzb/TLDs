@@ -1,0 +1,43 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SICA.INT
+
+organisation: Sistema de la Integracion Centroamericana
+address:      Boulevard Orden de Malta No. 470
+address:      Urbanización Santa Elena
+address:      Antiguo Cuscatlán La Libertad Centro Comercial Gigante 01-113
+address:      El Salvador
+
+contact:      administrative
+name:         Ricardo Alberto Cáceres Salmán
+organisation: Sistema de la Integracion Centroamericana
+address:      Boulevard Orden de Malta No. 470
+address:      Urbanización Santa Elena
+address:      Antiguo Cuscatlán La Libertad
+address:      El Salvador
+phone:        +503 2248-8860
+fax-no:       +503 2248-8899
+e-mail:       rcaceres@sica.int
+
+contact:      technical
+name:         Julio César Chacón Pereira
+organisation: Sistema de la Integracion Centroamericana
+address:      Boulevard Orden de Malta No. 470
+address:      Urbanización Santa Elena
+address:      Antiguo Cuscatlán La Libertad
+address:      El Salvador
+phone:        +503 2248-8864
+fax-no:       +503 2248-8899
+e-mail:       julio.chacon@sica.int
+
+nserver:      NS1.SICA.INT 201.247.105.177
+nserver:      NS2.SICA.INT 201.247.105.193
+
+created:      2006-01-18
+changed:      2011-09-09
+source:       IANA
+

@@ -1,0 +1,41 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       NPI.INT
+
+organisation: Nordic Patent Institute
+address:      Helgeshoej Alle 81
+address:      Taastrup  DK-2630
+address:      Denmark
+
+contact:      administrative
+name:         Jesper Skovgaard
+address:      Helgeshoej Alle 81
+address:      Taastrup  DK-2630
+address:      Denmark
+phone:        +45 4350 8010
+fax-no:       +45 4350 8001
+e-mail:       JSG@DKPTO.DK
+
+contact:      technical
+name:         Jesper Skovgaard
+address:      Helgeshoej Alle 81
+address:      Taastrup  DK-2630
+address:      Denmark
+phone:        +45 4350 8010
+fax-no:       +45 4350 8001
+e-mail:       JSG@DKPTO.DK
+
+nserver:      NS1.GRATISDNS.DK 109.238.48.13
+nserver:      NS2.GRATISDNS.DK 208.43.238.42
+nserver:      NS3.GRATISDNS.DK 194.0.2.6
+nserver:      NS4.GRATISDNS.DK 87.73.3.3
+nserver:      NS5.GRATISDNS.DK 85.17.221.46
+
+created:      2006-12-19
+changed:      2010-12-24
+source:       IANA
+

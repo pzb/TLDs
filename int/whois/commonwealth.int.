@@ -1,0 +1,43 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       COMMONWEALTH.INT
+
+organisation: Commonwealth Secretariat
+address:      Marlborough House
+address:      Pall Mall
+address:      London  SW1Y 5HX
+address:      UK
+
+contact:      administrative
+name:         Henry Nyambu
+organisation: Commonwealth Secretariat
+address:      Marlborough House
+address:      Pall Mall
+address:      London  SW1Y 5HX
+address:      United Kingdom
+phone:        +44 2077476445
+fax-no:       +44 2077476315
+e-mail:       h.nyambu@commonwealth.int
+
+contact:      technical
+name:         Domain Co-ordinator
+organisation: Mistral Internet Group Ltd
+address:      5th Floor, Tower Point
+address:      44 North Road
+address:      Brighton East Sussex BN1 1YR
+address:      United Kingdom
+phone:        0870 751 6300
+fax-no:       0870 751 6399
+e-mail:       domains@mistral.net
+
+nserver:      NS.MISTRAL.CO.UK 195.184.228.6
+nserver:      NS2.MISTRAL.CO.UK 195.184.228.7
+
+created:      1996-05-17
+changed:      2005-10-19
+source:       IANA
+

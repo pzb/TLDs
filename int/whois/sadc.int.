@@ -1,0 +1,46 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SADC.INT
+
+organisation: Southern African Development Community (SADC)
+address:      Plot No. 54385
+address:      Central Business District
+address:      Private Bag 0095
+address:      Gaborone
+address:      Botswana
+
+contact:      administrative
+name:         Robin T. Unuth
+organisation: Southern African Development Community (SADC)
+address:      Plot No. 54385
+address:      Central Business District
+address:      Private Bag 0095
+address:      Gaborone
+address:      Botswana
+phone:        (267) 3611013
+fax-no:       (267) 3972848
+e-mail:       runuth@sadc.int
+
+contact:      technical
+name:         Ramoletane Lekhanya
+organisation: Southern African Development Community (SADC)
+address:      Plot No. 54385
+address:      Central Business District
+address:      Private Bag 0095
+address:      Gaborone
+address:      Botswana
+phone:        (+267) 3611049
+fax-no:       (+267) 3972848
+e-mail:       rlekhanya@sadc.int
+
+nserver:      ERIN.NS.CLOUDFLARE.COM 173.245.58.113
+nserver:      WOZ.NS.CLOUDFLARE.COM 173.245.59.150
+
+created:      1996-12-24
+changed:      2015-06-18
+source:       IANA
+

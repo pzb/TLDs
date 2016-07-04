@@ -1,0 +1,38 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ARC.INT
+
+organisation: African Risk Capacity Agency
+address:      Merafe House
+address:      Naivasha Road
+address:      Sunninghill 11
+address:      Johannesburg  2157
+address:      ZA
+
+contact:      administrative
+name:         Yael Taka
+address:      Via C.G.Viola 68
+address:      Rome  00148
+address:      IT
+phone:        +39.31611031396
+e-mail:       yael.taka@wfp.org
+
+contact:      technical
+name:         Arjen de Ruijter
+address:      Oude Dalfserweg 9
+address:      Heino  8141 PL
+address:      NL
+phone:        +31.611031396
+e-mail:       arjen@delinea.nl
+
+nserver:      NS0.TRANSIP.NET 80.69.67.67
+nserver:      NS1.TRANSIP.NL 80.69.69.69
+nserver:      NS2.TRANSIP.EU 37.97.255.53
+
+created:      2015-11-19
+source:       IANA
+

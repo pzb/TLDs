@@ -1,0 +1,41 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CEDARE.INT
+
+organisation: Centre for Environment and Development For the Arab Region and Europe
+address:      2 El-Hegaz St., CEDARE bldg.
+address:      P.O. BOx 1057 Heliopolis Bahary
+address:      Cairo
+address:      Egypt
+
+contact:      administrative
+name:         Hossam Allam
+address:      2 El-Hegaz St., CEDARE bldg.
+address:      P.O. BOx 1057 Heliopolis Bahary
+address:      Cairo
+address:      Egypt
+phone:        +202-4513921
+fax-no:       +202-4513918
+e-mail:       hallam@cedare.org.eg
+
+contact:      technical
+name:         Hossam Allam
+address:      2 El-Hegaz St., CEDARE bldg.
+address:      P.O. BOx 1057 Heliopolis Bahary
+address:      Cairo
+address:      Egypt
+phone:        +202-4513921
+fax-no:       +202-4513918
+e-mail:       hallam@cedare.org.eg
+
+nserver:      YNS1.YAHOO.COM 66.218.71.205
+nserver:      YNS2.YAHOO.COM 216.109.116.20
+
+created:      2005-12-01
+changed:      2006-01-24
+source:       IANA
+

@@ -1,0 +1,42 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       REG.INT
+
+address:      P.O. Box 12317
+address:      Marina Del Rey CA 90295
+address:      USA
+
+contact:      administrative
+name:         IANA Hostmaster
+organisation: Internet Assigned Numbers Authority
+address:      Internet Corporation for Assigned Names and Numbers (ICANN)
+address:      12025 Waterfront Drive
+address:      Suite 300
+address:      Los Angeles California 90094
+address:      USA
+phone:        +1-310-301-5800
+fax-no:       +1-310-823-8649
+e-mail:       iana@iana.org
+
+contact:      technical
+name:         IANA Hostmaster
+organisation: Internet Assigned Numbers Authority
+address:      Internet Corporation for Assigned Names and Numbers (ICANN)
+address:      12025 Waterfront Drive
+address:      Suite 300
+address:      Los Angeles California 90094
+address:      USA
+phone:        +1-310-301-5800
+fax-no:       +1-310-823-8649
+e-mail:       iana@iana.org
+
+nserver:      NS.ISI.EDU 128.9.128.127
+
+created:      1998-01-08
+changed:      2015-04-29
+source:       IANA
+

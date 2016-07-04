@@ -1,0 +1,42 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       IGC.INT
+
+organisation: International Grains Council
+address:      1 Canada Square
+address:      Canary Wharf
+address:      London  E14 5AE
+address:      United Kingdom
+
+contact:      administrative
+name:         IT Manager
+organisation: International Grains Council
+address:      1 Canada Square
+address:      Canary Wharf
+address:      London  E14 5AE
+address:      United Kingdom
+phone:        +44 20 7513 1122
+fax-no:       +44 20 7513 0630
+e-mail:       igc@igc.org.uk
+
+contact:      technical
+name:         HSO Hostmaster
+organisation: HighSpeed Office Ltd
+address:      Epworth House
+address:      25 City Road
+address:      London  EC1Y1AA
+address:      United Kingdom
+phone:        +44 8701121122
+fax-no:       +44 2078474599
+e-mail:       hostmaster@highspeedoffice.net
+
+nserver:      NS0.HSO.UK.COM 217.196.224.135
+nserver:      NS1.HSO.UK.COM 217.196.225.135
+
+created:      2010-02-22
+source:       IANA
+

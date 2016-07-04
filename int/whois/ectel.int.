@@ -1,0 +1,41 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ECTEL.INT
+
+organisation: Eastern Caribbean Telecommunications Authority
+address:      P.O. Box 1866
+address:      Vide Boutielle
+address:      Castries
+address:      Saint Lucia
+
+contact:      administrative
+name:         Andrew Millet
+address:      P.O. Box 1886
+address:      Vide Boutielle
+address:      Castries
+address:      Saint Lucia
+phone:        +1 (758) 458-1701
+fax-no:       +1 (758) 458-1698
+e-mail:       amillet@ectel.int
+
+contact:      technical
+name:         Nigel Roheman
+address:      P.O. Box 1886
+address:      Vide Boutielle
+address:      Castries
+address:      Saint Lucia
+phone:        +1 (758) 458-1701
+fax-no:       +1 (758) 458-1698
+e-mail:       nroheman@ectel.int
+
+nserver:      NS1.ECTEL.INT 166.63.127.66
+nserver:      NS2.ECTEL.INT 166.63.32.24
+
+created:      2002-06-07
+changed:      2014-07-30
+source:       IANA
+

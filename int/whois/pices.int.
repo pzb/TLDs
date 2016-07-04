@@ -1,0 +1,41 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       PICES.INT
+
+organisation: North Pacific Marine Science Organization
+address:      c/o Institute of Ocean Sciences
+address:      P.O. Box 6000
+address:      Sidney British Columbia V8L 4B2
+address:      Canada
+
+contact:      administrative
+name:         Deputy Executive Secretary
+address:      c/o Institute of Ocean Sciences
+address:      P.O. Box 6000
+address:      Sidney British Columbia V8L 4B2
+address:      Canada
+phone:        +1 250 363 6826
+fax-no:       +1 250 363 6827
+e-mail:       mckinnell@pices.int
+
+contact:      technical
+name:         Deputy Executive Secretary
+address:      c/o Institute of Ocean Sciences
+address:      P.O. Box 6000
+address:      Sidney British Columbia V8L 4B2
+address:      Canada
+phone:        +1 250 363 6826
+fax-no:       +1 250 363 6827
+e-mail:       mckinnell@pices.int
+
+nserver:      NS5.NO.CG.SHAWCABLE.NET 64.59.135.213
+nserver:      NS6.SO.CG.SHAWCABLE.NET 64.59.135.197
+
+created:      2001-09-10
+changed:      2007-06-22
+source:       IANA
+

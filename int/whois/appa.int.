@@ -1,0 +1,40 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       APPA.INT
+
+organisation: Association des Producteurs de Pétrole Africains
+address:      BP 1097
+address:      Brazzaville
+address:      Congo Republic
+
+contact:      administrative
+name:         Bakary TRAORE
+address:      BP 1097
+address:      Brazzaville
+address:      Congo Republic
+phone:        +242 06 951 53 03
+fax-no:       +33 1 34 29 59 46
+e-mail:       aat@appa.int
+
+contact:      technical
+name:         Francis BENINGA DEOURO
+address:      BP 1097
+address:      Brazzaville
+address:      Congo Republic
+phone:        +242 06 519 81 10
+fax-no:       +33 1 34 29 59 46
+e-mail:       ap@appa.int
+
+nserver:      NS1.CLUSTERSPAN7.NET 204.93.202.191
+nserver:      NS2.CLUSTERSPAN7.NET 204.93.207.247
+nserver:      NS3.CLUSTERSPAN7.NET 204.93.202.192
+nserver:      NS4.CLUSTERSPAN7.NET 204.93.207.248
+
+created:      2007-04-10
+changed:      2013-10-30
+source:       IANA
+

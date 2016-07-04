@@ -1,0 +1,40 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CMS.INT
+
+organisation: Convention on the Conservation of Migratory Species of Wild Animals
+address:      Hermann-Ehlers-Str. 10
+address:      Bonn  53113
+address:      Germany
+
+contact:      administrative
+name:         Liam Addis
+organisation: Convention on the Conservation of Migratory Species of Wild Animals
+address:      Hermann-Ehlers-Str. 10
+address:      Bonn  53113
+address:      Germany
+phone:        (+49 228) 815 2401 / 2425
+fax-no:       (+49 228) 815 2449
+e-mail:       laddis@cms.unep.de
+
+contact:      technical
+name:         helpdesk
+organisation: UNEP World Conservation Monitoring Centre (UNEP-WCMC)
+address:      219 Huntingdon Road
+address:      Cambridge  CB3 0DL
+address:      England
+phone:        (+44 1223) 277 314
+fax-no:       (+44 1223) 277 316
+e-mail:       hostmaster@unep-wcmc.org
+
+nserver:      NS0.UNEP-WCMC.ORG 194.59.188.10
+nserver:      NS1.UNEP-WCMC.ORG 194.59.188.11
+
+created:      2003-10-17
+changed:      2008-04-08
+source:       IANA
+

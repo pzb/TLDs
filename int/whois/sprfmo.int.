@@ -1,0 +1,38 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SPRFMO.INT
+
+organisation: South Pacific Regional Fisheries Management Organisation
+address:      PO Box 3797
+address:      Wellington Wellington 6140
+address:      New Zealand
+
+contact:      administrative
+name:         Susana Delgado
+address:      PO Box 3797
+address:      Wellington Wellington 6140
+address:      New Zealand
+phone:        6444999893
+fax-no:       6444739579
+e-mail:       susana.delgado@southpacificrfmo.org
+
+contact:      technical
+name:         Craig Loveridge
+address:      PO Box 3797
+address:      Wellington Wellington 6140
+address:      New Zealand
+phone:        6444999894
+e-mail:       craig.loveridge@southpacificrfmo.org
+
+nserver:      NS-1519.AWSDNS-61.ORG 205.251.197.239
+nserver:      NS-1682.AWSDNS-18.CO.UK 205.251.198.146
+nserver:      NS-377.AWSDNS-47.COM 205.251.193.121
+nserver:      NS-620.AWSDNS-13.NET 205.251.194.108
+
+created:      2014-08-19
+source:       IANA
+

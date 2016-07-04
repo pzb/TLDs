@@ -1,0 +1,41 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       COMTELCA.INT
+
+organisation: Comision Tecnica Regional de Telecomunicaciones (COMTELCA)
+address:      Colonia Altos de Miramontes, calle principal
+address:      Edificio Miramontes Plaza No. 1583
+address:      Tegucigalpa Francisco Morazan
+address:      Honduras
+
+contact:      administrative
+name:         Jorge Ernesto Torres
+organisation: Comision Tecnica Regional de Telecomunicaciones (COMTELCA)
+address:      Colonia Altos de Miramontes, calle principal
+address:      Edificio Miramontes Plaza No. 1583
+address:      Tegucigalpa Francisco Morazan
+address:      Honduras
+phone:        +504-2235-5511
+e-mail:       jtorresgo@gmail.com
+
+contact:      technical
+name:         Oscar Lopez
+organisation: Comision Tecnica Regional de Telecomunicaciones (COMTELCA)
+address:      Colonia Altos de Miramontes, calle principal
+address:      Edificio Miramontes Plaza No. 1583
+address:      Tegucigalpa Francisco Morazan
+address:      Honduras
+phone:        +504-2235-5511
+e-mail:       olopezt64@gmail.com
+
+nserver:      SVR-NS1.COMTELCA.ORG 201.190.9.67
+nserver:      SVR-NS2.COMTELCA.ORG 207.42.180.179
+
+created:      2008-03-24
+changed:      2016-04-28
+source:       IANA
+

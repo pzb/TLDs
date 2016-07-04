@@ -1,0 +1,43 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ITSO.INT
+
+organisation: International Telecommunications Satellite Organization (ITSO)
+address:      3400 International Drive, NW
+address:      Suite# 3M 100
+address:      Washington DC 20008
+address:      USA
+
+contact:      administrative
+name:         Yasmine Eleazar
+organisation: International Telecommunications Satellite Organization (ITSO)
+address:      3400 International Drive, NW
+address:      Suite# 3M 100
+address:      Washington DC 20008
+address:      USA
+phone:        +1 202 243 5039
+fax-no:       +1 202 243 5018
+e-mail:       yeleazar@itso.int
+
+contact:      technical
+name:         Abhilash Rajan
+organisation: International Telecommunications Satellite Organization (ITSO)
+address:      3400 International Drive, NW
+address:      Suite# 3M 100
+address:      Washington DC 20008
+address:      USA
+phone:        +1 202 243 5039
+fax-no:       +1 202 243 5018
+e-mail:       abhilash.rajan1@gmail.com
+
+nserver:      NS1.ITSOINTERNATIONAL.ORG 198.20.225.182
+nserver:      NS2.ITSOINTERNATIONAL.ORG 198.20.225.183
+
+created:      2001-10-18
+changed:      2013-05-09
+source:       IANA
+

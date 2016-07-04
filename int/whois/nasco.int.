@@ -1,0 +1,43 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       NASCO.INT
+
+organisation: North Atlantic Salmon Conservation Organization
+address:      11 Rutland Square
+address:      Edinburgh  EH1 2DS
+address:      Scotland, GB
+
+contact:      administrative
+name:         Peter Hutchinson
+organisation: NASCO
+address:      11 Rutland Square
+address:      Edinburgh  EH1 2AS
+address:      Scotland, GB
+phone:        +44 131 228 2551
+fax-no:       +44 131 228 4384
+e-mail:       hq@nasco.int
+
+contact:      technical
+name:         Neil Saunders
+organisation: edNET
+address:      12 Dock Place
+address:      Edinburgh  EH6 6LU
+address:      Scotland, GB
+phone:        +44 131 514 4019
+fax-no:       +44 131 466 7004
+e-mail:       dns@ednet.co.uk
+
+nserver:      NS.AS12703.NET 207.71.8.112
+nserver:      NS0.EDNET.CO.UK 212.20.226.130
+nserver:      NS1.EDNET.CO.UK 212.20.226.194
+nserver:      NS2.EDNET.CO.UK 212.20.226.131
+nserver:      NS3.EDNET.CO.UK 212.20.231.33
+
+created:      2001-09-10
+changed:      2007-06-22
+source:       IANA
+

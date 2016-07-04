@@ -1,0 +1,38 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       NATO-PA.INT
+
+organisation: NATO Parliamentary Assembly
+address:      Place du Petit Sablon 3
+address:      Brussels  1000
+address:      Belgium
+
+contact:      administrative
+name:         Hélio Vicente
+address:      Place du Petit Sablon 3
+address:      Brussels  1000
+address:      Belgium
+phone:        +32-2-5132865
+fax-no:       +32-2-5141847
+e-mail:       hvicente@nato-pa.int
+
+contact:      technical
+name:         Bram Dumolin
+organisation: grmbl BVBA
+address:      Korte Vuldersstraat 30
+address:      Brugge Flanders 8000
+address:      Belgium
+phone:        +32-50-674512
+e-mail:       hostmaster@grmbl.be
+
+nserver:      DNS1.GRMBL.NET 62.210.143.214
+nserver:      DNS1.NATO-PA.INT 194.78.222.29
+
+created:      2001-09-10
+changed:      2015-06-19
+source:       IANA
+

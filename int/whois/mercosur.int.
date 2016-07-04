@@ -1,0 +1,37 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MERCOSUR.INT
+
+organisation: Secretaria del MERCOSUR
+address:      Luis Piera 1992 Piso 1
+address:      Montevideo
+address:      Uruguay
+
+contact:      administrative
+name:         Marisa Casamayor
+address:      Bvar. Artigas 1081
+address:      Montevideo  11200
+address:      Uruguay
+phone:        (5982) 4022516
+fax-no:       (5982) 4022516
+e-mail:       marisa@montevideo.com.uy
+
+contact:      technical
+name:         Victor Villar
+address:      Bvar. Artigas 1081
+address:      Montevideo  11200
+address:      Uruguay
+phone:        (5982) 4022516
+fax-no:       (5982) 4022516
+e-mail:       victor@montevideo.com.uy
+
+nserver:      DNS.MONTEVIDEO.COM.UY
+
+created:      2003-10-01
+changed:      2007-10-19
+source:       IANA
+

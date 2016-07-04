@@ -1,0 +1,39 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       WORLDBANK.INT
+
+organisation: The World Bank
+address:      1818 H Street NW
+address:      Washington D.C. 20433
+address:      US
+
+contact:      administrative
+name:         Igor Petrovski
+address:      1818 H Street NW
+address:      Mail stop #C 3-300
+address:      Washington D.C. 20433
+address:      US
+phone:        (202) 458-8503
+e-mail:       Ipetrovski@worldbank.org
+
+contact:      technical
+name:         DNS Admin
+address:      1818 H Street NW
+address:      Washington D.C. 20433
+address:      US
+phone:        (202) 458-8503
+e-mail:       dnsadmin@worldbank.org
+
+nserver:      DNS1.WORLDBANK.ORG 192.86.99.100
+nserver:      DNS2.WORLDBANK.ORG 192.86.99.200
+nserver:      DNS3.WORLDBANK.ORG 192.86.103.100
+nserver:      DNS4.WORLDBANK.ORG 192.86.103.200
+
+created:      2001-09-10
+changed:      2012-12-01
+source:       IANA
+

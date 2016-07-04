@@ -1,0 +1,38 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       PAM.INT
+
+organisation: Parliamentary Assembly of the Mediterranean
+address:      Palazzo Spinola
+address:      St. George's Road
+address:      St. Julian's  STJ 3207
+address:      Malta
+
+contact:      administrative
+name:         Abakus Solutions
+address:      Sky Apartments, 177/8
+address:      Marina Street
+address:      Pieta  PTA 2904
+address:      Malta
+phone:        +356 22019600
+e-mail:       info@abakussolutions.com
+
+contact:      technical
+name:         Abakus Solutions
+address:      Sky Apartments, 177/8
+address:      Marina Street
+address:      Pieta  PTA 2904
+address:      Malta
+phone:        +356 22019600
+e-mail:       info@abakussolutions.com
+
+nserver:      MNS01.DOMAINCONTROL.COM 216.69.185.34
+nserver:      MNS02.DOMAINCONTROL.COM 208.109.255.34
+
+created:      2010-09-24
+source:       IANA
+

@@ -1,0 +1,45 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ITTO.INT
+
+organisation: International Tropical Timber Organization
+address:      International Organizations Center, 5th Floor
+address:      Pacifico-Yokohama, 1-1-1, Minato-Mirai
+address:      Nishi-ku
+address:      Yokohama Kanagawa 220-0012
+address:      Japan
+
+contact:      administrative
+name:         Simon Kawaguchi
+organisation: International Tropical Timber Organization
+address:      International Organizations Center, 5th Floor
+address:      Pacifico-Yokohama, 1-1-1, Minato-Mirai
+address:      Nishi-ku
+address:      Yokohama Kanagawa 220-0012
+address:      Japan
+phone:        +81-45-223-1110
+fax-no:       +81-45-223-1111
+e-mail:       kawaguchi@itto.or.jp
+
+contact:      technical
+name:         Simon Kawaguchi
+organisation: International Tropical Timber Organization
+address:      International Organizations Center, 5th Floor
+address:      Pacifico-Yokohama, 1-1-1, Minato-Mirai
+address:      Nishi-ku
+address:      Yokohama Kanagawa 220-0012
+address:      Japan
+phone:        +81-45-223-1110
+fax-no:       +81-45-223-1111
+e-mail:       kawaguchi@itto.or.jp
+
+nserver:      NS1.WILLNET.NE.JP 123.108.1.106
+nserver:      NS2.WILLNET.NE.JP 123.108.2.218
+
+created:      2008-12-04
+source:       IANA
+

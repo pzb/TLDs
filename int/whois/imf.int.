@@ -1,0 +1,36 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       IMF.INT
+
+organisation: IMF
+address:      700 19th St.
+address:      N.W. Washington DC 20431
+address:      USA
+
+contact:      administrative
+name:         Michael Handelman
+address:      700 19th St.
+address:      N.W. Washington DC 20431
+address:      USA
+phone:        202-623-7132
+e-mail:       mhandelman@imf.org
+
+contact:      technical
+name:         IMF Unix System Adminstrator
+address:      700 19th St.
+address:      N.W. Washington DC 20431
+address:      USA
+phone:        202-623-7874
+e-mail:       unixadmin@imf.org
+
+nserver:      IMFAIX4S.IMF.ORG 134.113.2.11
+nserver:      IMFAIX5S.IMF.ORG 134.113.4.11
+
+created:      2001-09-10
+changed:      2007-03-29
+source:       IANA
+

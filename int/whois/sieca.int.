@@ -1,0 +1,41 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SIECA.INT
+
+organisation: Secretaria de Integración Económica Centroamericana SIECA
+address:      4 Ave 10-25 Zone 14
+address:      Guatemala  01014
+address:      Guatemala
+
+contact:      administrative
+name:         Carlos Pac
+organisation: Secretaria de Integración Económica Centroamericana SIECA
+address:      4 Ave 10-25 Zone 14
+address:      Guatemala  01014
+address:      Guatemala
+phone:        502 2368 2151
+fax-no:       502 2368 1071
+e-mail:       cpac@sieca.int
+
+contact:      technical
+name:         Marlon Ramos
+organisation: Secretaria de Integración Económica Centroamericana SIECA
+address:      4 Ave 10-25 Zone 14
+address:      Guatemala  01014
+address:      Guatemala
+phone:        502 2368 2151
+fax-no:       502 2368 1071
+e-mail:       mramos@sieca.int
+
+nserver:      NS1.SIECA.INT 216.230.140.100
+nserver:      NS2.SIECA.INT 200.30.159.228
+nserver:      NS3.SIECA.INT 168.234.48.163
+
+created:      2010-03-26
+changed:      2011-09-13
+source:       IANA
+

@@ -1,0 +1,40 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       STCU.INT
+
+organisation: Science and Technology Center in Ukraine
+address:      7A Metalistiv Street
+address:      Kyiv  03138
+address:      Ukraine
+
+contact:      administrative
+name:         Charles T Rostron
+organisation: Science and Technology Center in Ukraine
+address:      7A Metalistiv Street
+address:      Kyiv  03138
+address:      Ukraine
+phone:        +380 44 490 71 50
+fax-no:       +380 44 490 71 45
+e-mail:       charles.rostron@stcu.int
+
+contact:      technical
+name:         Ilia Mikhailov
+organisation: Science and Technology Center in Ukraine
+address:      7A Metalistiv Street
+address:      Kyiv  03138
+address:      Ukraine
+phone:        +380 44 490 71 50
+fax-no:       +380 44 490 71 45
+e-mail:       ilia.mikhailov@stcu.int
+
+nserver:      NS.STCU.INT 212.109.57.170
+nserver:      NSS.SOVAMUA.COM 62.64.120.244
+
+created:      2002-09-04
+changed:      2009-03-17
+source:       IANA
+

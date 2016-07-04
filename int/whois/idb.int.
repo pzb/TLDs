@@ -1,0 +1,45 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       IDB.INT
+
+organisation: Inter-American Development Bank
+address:      1300 New York Avenue, NW
+address:      E0C11
+address:      Washington D.C. 20577
+address:      USA
+
+contact:      administrative
+name:         Carlos Suarez
+organisation: Inter-American Development Bank
+address:      1300 New York Avenue, NW
+address:      E0C11
+address:      Washington D.C. 20577
+address:      USA
+phone:        +1-202-623-3333
+fax-no:       +1-202-312-4000
+e-mail:       carloss@iadb.org
+
+contact:      technical
+name:         Manuel Rosal
+organisation: Inter-American Development Bank
+address:      1300 New York Avenue, NW
+address:      E0C11
+address:      Washington D.C. 20577
+address:      USA
+phone:        +1-202-623-3333
+fax-no:       +1-202-312-4000
+e-mail:       manuelr@iadb.org
+
+nserver:      GATE.IADB.ORG 198.186.238.114
+nserver:      NS1.SPRINTLINK.NET 204.117.214.10
+nserver:      NS2.SPRINTLINK.NET 199.2.252.10
+nserver:      NS3.SPRINTLINK.NET 204.97.212.10
+
+created:      1998-09-25
+changed:      2003-05-12
+source:       IANA
+

@@ -1,0 +1,44 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ICC-CPI.INT
+
+organisation: The International Criminal Court
+address:      Oude Waalsdorperweg 10
+address:      P.O.B. 19519
+address:      The Hague Zuid-Holland 2500 CM
+address:      The Netherlands
+
+contact:      administrative
+name:         Derek Green
+address:      Oude Waalsdorperweg 10
+address:      P.O.B 19519
+address:      The Hague Zuid-Holland 2500 CM
+address:      The Netherlands
+phone:        +31705158515
+fax-no:       +31070 5158555
+e-mail:       information.security@icc-cpi.int
+
+contact:      technical
+name:         Zurab Amiranashvili
+organisation: International Criminal Court
+address:      Oude Waalsdorperweg 10
+address:      P.O.B 19519
+address:      The Hague Zuid-Holland 2500 CM
+address:      The Netherlands
+phone:        +31705158515
+fax-no:       +31 070 5158555
+e-mail:       zurab.amiranashvili@icc-cpi.int
+
+nserver:      NS1.ICC-CPI.INT 213.208.214.217
+nserver:      NS2.ICC-CPI.INT 193.172.37.121
+nserver:      NS3.ICC-CPI.INT 213.208.214.218
+nserver:      NS4.ICC-CPI.INT 193.172.37.122
+
+created:      2003-03-06
+changed:      2016-05-19
+source:       IANA
+

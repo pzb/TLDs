@@ -1,0 +1,42 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MARIS.INT
+
+organisation: Maritime Information Society
+organisation: Directorate-General
+address:      European Commission, Enterprise
+address:      Rue de la Loi 200
+address:      Brussels  B-1049
+address:      Belgium
+
+contact:      administrative
+name:         Ronald Vopel
+organisation: Directorate-General
+address:      European Commission, Enterprise
+address:      Rue de la Loi 200
+address:      Brussels  B-1049
+address:      Belgium
+phone:        +32.2.29.91820
+fax-no:       +32.2.29.67014
+e-mail:       Ronald.Vopel@cec.eu.int
+
+contact:      technical
+name:         Jose Arcos Ortiz
+organisation: European Commission, Information Society Directorate - General
+address:      Av. de Beaulieu 24, office 00/88
+address:      Brussels  B-1150
+address:      Belgium
+phone:        +33 2 29 68532
+fax-no:       +32 2 29 99499
+e-mail:       jose.arcos-ortiz@cec.eu.int
+
+nserver:      NS.ISPO.CEC.BE 194.119.255.200
+
+created:      1997-06-16
+changed:      2007-06-22
+source:       IANA
+
