@@ -1,0 +1,7 @@
+jobcorps.gov.	86400	IN	NS	jcdc-s-eds-001.jobcorps.gov.
+jobcorps.gov.	86400	IN	NS	jcdc-s-eds-002.jobcorps.gov.
+jobcorps.gov.	3600	IN	DS	27634 8 1 b4993d55f8ac8988a84bf7e2827d345d111c80ad
+jobcorps.gov.	3600	IN	DS	27634 8 2 6429c585a3fcd8de0dd00a78457db2595da57d9397240c97627d94000eb1208b
+jobcorps.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. rYewHWydhcnyTXCzEvkF1RPc8F+2wBawVbqx5DjcEFbSw9WLN8K/ivL0SK3iQSOetYNFNuNvEs7Ya1zLwaERDZ930hlFo6yeBJgE4+iHWrIHUPYm73fiq/0AzcrKQRygqGGFTSCHcnweskrsuf6CWx1DGAQHbktgBl9yg3/ijCc=
+jcdc-s-eds-001.jobcorps.gov.	86400	IN	A	12.161.94.210
+jcdc-s-eds-002.jobcorps.gov.	86400	IN	A	12.161.94.211

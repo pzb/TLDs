@@ -1,0 +1,6 @@
+5ts496743n86ecq4li5doga1qcnh6iem.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. oYa4AL5xfmxdVipJTWLz7oszfRYbSx07ynpcPAty9PT/0KLeIRLznbZfC7YnlCTwJrNMNr4F/aPWX5fAr7ExwTrmS5A9kCvqon/hYbrepas4TNEdFcj4KeE46sRGb3b33EctvaFEfyUwZBJgaOuUpztOMxKo9ULcd+2lbHBBnj0=
+5ts496743n86ecq4li5doga1qcnh6iem.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5tttr502n06ngosvjmdqgkhm6bso5s6r NS 
+ohionosmokelaw.gov.	86400	IN	NS	ns1.state.oh.us.
+ohionosmokelaw.gov.	86400	IN	NS	ns2.state.oh.us.
+ohionosmokelaw.gov.	86400	IN	NS	ns3.state.oh.us.
+ohionosmokelaw.gov.	86400	IN	NS	ns4.state.oh.us.

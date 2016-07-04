@@ -1,0 +1,7 @@
+76gc7e6t00gqah9ikfcepb1om2bokkkb.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. tUs3cLFO5MO4U9/0ZruIVhilT/Jc1t87cXZuQZ89z0EAWSFXadxqCrNKi7orhWyp8MTLM3+HhB1DDruyFIx9AJGT21XMY28fSiQ3g/qIjkQfRvy5WO+NNfutMvcf16CLkS6EFpgKhheul86JwuS9w+O6xKciqOvKdNbzh2QPOuo=
+76gc7e6t00gqah9ikfcepb1om2bokkkb.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  76nnqm73tu6068duoi61hf2e9h6e3mdp NS 
+arkansas.gov.	86400	IN	NS	dns1.state.ar.us.
+arkansas.gov.	86400	IN	NS	dns2.state.ar.us.
+arkansas.gov.	86400	IN	NS	dns3.state.ar.us.
+arkansas.gov.	86400	IN	NS	dns4.state.ar.us.
+arkansas.gov.	86400	IN	NS	dns5.state.ar.us.

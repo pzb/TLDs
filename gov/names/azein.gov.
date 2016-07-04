@@ -1,0 +1,6 @@
+azein.gov.	86400	IN	NS	ns-152.awsdns-19.com.
+azein.gov.	86400	IN	NS	ns-883.awsdns-46.net.
+azein.gov.	86400	IN	NS	ns-1048.awsdns-03.org.
+azein.gov.	86400	IN	NS	ns-2004.awsdns-58.co.uk.
+rklvisf26i2nsgdvkill86jn6n12mrmq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. i/W403yx2YER5oWIhXE0qY4lXoL52y/aqmPozfEpC4DoU9K8QPsnTwhIEb8By556PeSgCdV5xsKcuR1HrVHH4+Uxcy6WInQR+lDIps/HqOu3Qm220ti0uGT+6iiGA10DhdrFuMo4Tc9xPIUgsZiRu4KJYOUMRbui1WQppQDD0wg=
+rklvisf26i2nsgdvkill86jn6n12mrmq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  rksbtga4nsbv6tpq9i5f410437cbomq5 NS 

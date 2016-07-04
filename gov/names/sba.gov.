@@ -1,0 +1,9 @@
+sba.gov.	86400	IN	NS	scotch.sba.gov.
+sba.gov.	86400	IN	NS	kaverinew.sba.gov.
+sba.gov.	86400	IN	NS	newganges.sba.gov.
+sba.gov.	3600	IN	DS	25615 8 1 b3daa727fcb617b74b92acd1d9a5abb3ab3401ea
+sba.gov.	3600	IN	DS	25615 8 2 0e49db8558ec12bf8ce307446602c087fff44a3ddf73b8222ccd86b312a47bb9
+sba.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. u363dMrB6OKPEFXRuQ58vn9VU2Hp6dPHy1pDZBKRf9A294r8yWTas2WlGOQPPUjvv0AKxwrpfoW3NSpZwH2T+4i0oWFj4JxQRZ4LJfcIOytDE+wG3tY9Ma1MKcgXVZSmgpMpHTtg1ODYiTmv7yJAgLXPdgYSpXwkWNQrCMCp1f4=
+kaverinew.sba.gov.	86400	IN	A	72.166.186.69
+newganges.sba.gov.	86400	IN	A	165.110.249.32
+scotch.sba.gov.	86400	IN	A	165.110.249.30

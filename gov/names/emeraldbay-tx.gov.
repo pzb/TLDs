@@ -1,0 +1,4 @@
+emeraldbay-tx.gov.	86400	IN	NS	ns.novawebinternet.com.
+emeraldbay-tx.gov.	86400	IN	NS	ns1.novawebinternet.com.
+tsush717ub0dv25bto26prvabt6si5j3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. lW8AKlPo8hpu3jhamULJKm6ffLs/au0BMn8vtmoTSvL/eqfbVSGypx9rkNGeXwyfZTiOcuO8ZF3pD5akx/gIoI3rauHpu8osXFgNYLeneEwebbRPP+mYHZRDpGAfGInD3Qe2QkvbvNUbhVtu3YkBtk8h3oIYK3IvR059dQvxsl8=
+tsush717ub0dv25bto26prvabt6si5j3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ttgtdj70ipqfirpn9ne96is74fn4jgrv NS 

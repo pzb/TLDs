@@ -1,0 +1,11 @@
+avatar.esc.gov.	86400	IN	A	162.58.35.104
+avatar.esc.gov.	86400	IN	AAAA	2001:19e8:8041:23::11
+styx.esc.gov.	86400	IN	A	192.112.97.251
+emns1.faa.gov.	86400	IN	A	155.178.206.21
+emns1.faa.gov.	86400	IN	AAAA	2001:19e8:8001:3060::21
+faasafety.gov.	86400	IN	NS	styx.esc.gov.
+faasafety.gov.	86400	IN	NS	emns1.faa.gov.
+faasafety.gov.	86400	IN	NS	avatar.esc.gov.
+faasafety.gov.	3600	IN	DS	31135 8 1 8e0f45612d6bbac900371ca4a3c74770efc7f414
+faasafety.gov.	3600	IN	DS	31135 8 2 d4d86522fcff30d703e37383affbf6ff0345b718b2229d4b688a13e6e9cd7eb7
+faasafety.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. U3g0y/b5De6jE5Gz8aTuVZ0txVHEPjHplEn2qF/0xrwilMQNjsiff5EAB0+zltSVlnc08jWpAi6SlOSWFzZjCz1lLH7gFuGHhxdoGw61gO8J5Hz/kNKwelMeIT737+Cn7YWD+5BBRYq79RnG3ECtGMdFfv2ROUvMhXFiE0HHSrw=

@@ -1,0 +1,4 @@
+fqo0lhdlce393f2jqp5pt9rquq1c0uci.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. bCDHvfC/1pPSBEAdm95drxzKEIgnc5V1c0+5e27ENCMBm2AjQfXyk4W0G8uAR3BDvx/HbLAaVVNFriUWrm77NOf6+SnlPYpgIvagNrPKlCpZqiYqg8VFKNXqrg/dmtCb2ceRFc5L0hNqbCYa44ggUQgqN11LZf72j0V8oulh4UY=
+fqo0lhdlce393f2jqp5pt9rquq1c0uci.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fqr8lr01gt6cmkmseo576bsihgsk8gtn NS 
+yumaaz.gov.	86400	IN	NS	dca-ans-01.inet.qwest.net.
+yumaaz.gov.	86400	IN	NS	svl-ans-01.inet.qwest.net.

@@ -1,0 +1,6 @@
+eq6cbpm86tqrc2a21f8r0us6tftvkukb.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. mONG4va8SPi7XzmBT3wfWm6TZ6RJvM0DCETuhsS7Sj0yQiV8A5eR+siwuBAG9FKWCd30hv0rKoG/VL3PgtB1DUf8GkHY0/bCdJa9Y0XdeMXkfUuSOdCx5JZvj/qY9GjovsmI7/680HstoR71yjTKFyXY4NE0g+YxBK8ormnzUro=
+eq6cbpm86tqrc2a21f8r0us6tftvkukb.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  eq99tv46kfd63p9h6jc1g61c9nu06vnh NS 
+chyron.house.gov.	86400	IN	A	143.228.129.38
+mercury.house.gov.	86400	IN	A	143.231.1.67
+jct.gov.	86400	IN	NS	chyron.house.gov.
+jct.gov.	86400	IN	NS	mercury.house.gov.

@@ -1,0 +1,4 @@
+36djpr525ubo8v5lk3gbl816esq1t209.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. dSnfV/Ae7fHoZYMptRRNX/qCQkFjXBSi0G7rtDk1Pp29iUW86t2Kj51JdFPM5L35YpI+SnQHkfxtNR5p6WC1qsT4amu1Wf0HnwV/Wo9P0KdY/h8899SvmZro3Vl4d3StTiOo5gCL5MT+wJCR6zzBMau/cb1nFIgqhBx8mbtL7OY=
+36djpr525ubo8v5lk3gbl816esq1t209.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  36fd25t6q12ujfrj19nklu57ooc3en1i NS 
+evfusioncenteraz.gov.	86400	IN	NS	gate1.ci.mesa.az.us.
+evfusioncenteraz.gov.	86400	IN	NS	gate2.ci.mesa.az.us.

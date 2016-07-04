@@ -1,0 +1,6 @@
+nafri.gov.	86400	IN	NS	fsdns1.fs.fed.us.
+nafri.gov.	86400	IN	NS	fsdns3.fs.fed.us.
+nafri.gov.	86400	IN	NS	fsdns4.fs.fed.us.
+nafri.gov.	3600	IN	DS	11029 8 1 d60012b1ab50530588d932227c85b1bf75d7e0c7
+nafri.gov.	3600	IN	DS	11029 8 2 74c740734f6754c67ff8a2269d57ed1dce449c533e65c89b2fadb9df7754e541
+nafri.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. jOfu4b9p5WAGrtauQlil2YWRd9tKGZlBE1lpHxqy54T7E8Iwlun5pLcNKWAPTSr6tR4tuO92Jkd5bZiedyeiC1C5viwgGsmM6C3Z7pdWCvdF+ofaKdrbhqzheb2GU+m8RG0kzLuKXWeqgToId8DxZ+7v3vC/+CGbAnhBon6sZMI=

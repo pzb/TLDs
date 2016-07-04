@@ -1,0 +1,11 @@
+cendi.gov.	86400	IN	NS	edns2.osti.gov.
+cendi.gov.	86400	IN	NS	edns3.osti.gov.
+cendi.gov.	86400	IN	NS	dns-west.osti.gov.
+cendi.gov.	3600	IN	DS	5949 7 1 0348426992627ee7899f9fab3afa8c755d9dce9e
+cendi.gov.	3600	IN	DS	5949 7 2 9b1cf055843f8e24d4f838a0af9f0e682e12fcd0fcdee74fd37f7c1d75e7cc20
+cendi.gov.	3600	IN	DS	40428 7 1 d7897677e763cf70ff4eb8cc397ec1be74995db9
+cendi.gov.	3600	IN	DS	40428 7 2 9cfaa872976a07fc557f8e804502738ee70abd72838e16d99d44814363276d91
+cendi.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ByJhuBoYxUftBk+LfFnzTG2SbotlDT0I9kHDyajTpTJqlnDVYXebdrU90Q6i6XNvoNaediZbgnnZGJAahZlhAicmZZAiD6/dV/Jk0/2nXSLA14p08maQIRuES9xKQk2B5TNfT/wz9SEjYV5qYovGE9GcryJrGJWPaVbgiInqY3Y=
+dns-west.osti.gov.	86400	IN	A	192.107.175.229
+edns2.osti.gov.	86400	IN	A	192.107.175.235
+edns3.osti.gov.	86400	IN	A	198.124.17.40

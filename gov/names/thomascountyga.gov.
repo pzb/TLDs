@@ -1,0 +1,6 @@
+thomascountyga.gov.	86400	IN	NS	ns5.esosoft.net.
+thomascountyga.gov.	86400	IN	NS	ns6.esosoft.net.
+thomascountyga.gov.	86400	IN	NS	ns7.esosoft.net.
+thomascountyga.gov.	3600	IN	DS	58171 8 1 1536891660b5dd050ab4392f6207b0cdc5fe861f
+thomascountyga.gov.	3600	IN	DS	58171 8 2 7eca4f0b88d1d74532fbf8103d714cde7b2d85cb4323d5c94d71f3a54288b5b1
+thomascountyga.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. BRq012LvcVhA/p7JhuXBQT7FLdpBQSB7lEVuJLHKLq7kH01LHWjNinfb9DfQ3IqpIkVw/J42aInZpILpoS+DzzgtNhNqilGGDE9SSiCO+pl/riDix9eSJobz51W/pU/bwi7NJkX/OiFnactGVGTUBEUNy43BrRK0ri3NC7zlHzQ=

@@ -1,0 +1,14 @@
+interpol.gov.	86400	IN	NS	ns-jdcd-01.usdoj.gov.
+interpol.gov.	86400	IN	NS	ns-jdcd-02.usdoj.gov.
+interpol.gov.	86400	IN	NS	ns-jdcw-01.usdoj.gov.
+interpol.gov.	86400	IN	NS	ns-jdcw-02.usdoj.gov.
+interpol.gov.	3600	IN	DS	44404 8 1 5901d5d65cba844244432c65fa3a1eca36d5466a
+interpol.gov.	3600	IN	DS	44404 8 2 8f6d28228032db559c4c8caf10288e7ef55f11f1b12ff5666f1d60e7de20a85e
+interpol.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. mQzS8BvpXMnhHrqfRmmS42rxAs+jciUzuroRPF5GvupWbYrU7K1eSijlEaS/qz9yQCVW5ul6rl13gVVxnVm8cSre7WecQmCU1IOfAxeJJaHm9IlrGQcr8CZcnNcBrPPpPRBVanKv4HPCBvuLuA3hePD/wUKXMoC0a9Md03iQO5M=
+ns-jdcd-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcd-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcd-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcw-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcw-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-02.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::6

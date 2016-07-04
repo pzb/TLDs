@@ -1,0 +1,8 @@
+e0afvgaln3rs96oeg340sqvg5d9mbrj2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. YidgGh31WTLxlSSvCQHnzbEadzeDWm6HI8pxsC12NGgp0vkhF2BOELOeyZHaBH/uoQUF0w5pV6FlpLsk7H9BD3LPR495wk0V9AV2y+lduysu3I8kHoyhqrhBZTymlNzSB02+TZ+s3vWRwIh+Si+u3kBNV86iiTySxtBrB6NOYeE=
+e0afvgaln3rs96oeg340sqvg5d9mbrj2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  e0fcm7nnqnsi1rqiss2h8rhigsd8b70o NS 
+udall.gov.	86400	IN	NS	ns10.dnsmadeeasy.com.
+udall.gov.	86400	IN	NS	ns11.dnsmadeeasy.com.
+udall.gov.	86400	IN	NS	ns12.dnsmadeeasy.com.
+udall.gov.	86400	IN	NS	ns13.dnsmadeeasy.com.
+udall.gov.	86400	IN	NS	ns14.dnsmadeeasy.com.
+udall.gov.	86400	IN	NS	ns15.dnsmadeeasy.com.

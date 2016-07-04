@@ -1,0 +1,9 @@
+dns-west.osti.gov.	86400	IN	A	192.107.175.229
+edns2.osti.gov.	86400	IN	A	192.107.175.235
+scienceaccelerator.gov.	86400	IN	NS	edns2.osti.gov.
+scienceaccelerator.gov.	86400	IN	NS	dns-west.osti.gov.
+scienceaccelerator.gov.	3600	IN	DS	5949 7 1 5d9aab23d10ffe252c4cd81d3017f7bb04dbf583
+scienceaccelerator.gov.	3600	IN	DS	5949 7 2 7534d645e0e51fb581940be104b91665dafa5557ea42184d7220c2decf2064d4
+scienceaccelerator.gov.	3600	IN	DS	40428 7 1 62f47143c6a7b302ec5bf3cb9301169ab2caeba8
+scienceaccelerator.gov.	3600	IN	DS	40428 7 2 52165f695e6fb5f93179f1b5ed285b63513873894bb9f6048754d59856901754
+scienceaccelerator.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. jObg6GvYvgfN492Pbytg43JLab8trMHGs5GLZr7V/tjjf/JUjjrZqIQvzEBVqsZzmZ0rB2WitkdGC9gouALILVO7FdTUh9Ae4KGlU10eI27cC4E3qT9KMtTe0d2lZwdXVFb1JVwLuHJQF3QiSEPi8LuANWOYnmrLgIzCIowSnxM=

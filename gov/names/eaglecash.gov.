@@ -1,0 +1,9 @@
+eaglecash.gov.	86400	IN	NS	ns1.treasury.gov.
+eaglecash.gov.	86400	IN	NS	ns3.treasury.gov.
+eaglecash.gov.	3600	IN	DS	62523 7 1 89dd1f7d3c3dd3572ce5aebce413df64135c230b
+eaglecash.gov.	3600	IN	DS	62523 7 2 bb76e8a57a57b211626c9eaffd5b25175af1ae0e0734b65dba505f620c4bec0e
+eaglecash.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Vaozh2BN28wqAT19EzA6+AfCXhz0bUsSD8+z0vU7o6bJGsC7FgD5YvRoILBcksLtjEjTQCrmaC5qUiPDNeIo0itV8tJLPKb05/8vRmlUDXfoc07aZUFh8YmriMnbYjY3H0yVPOhEydkS8AMv9e/zzlPxsIHaqhcpWvbLnTo7XWI=
+ns1.treasury.gov.	86400	IN	A	166.123.208.249
+ns1.treasury.gov.	86400	IN	AAAA	2610:108:4000:100a::249
+ns3.treasury.gov.	86400	IN	A	164.95.95.155
+ns3.treasury.gov.	86400	IN	AAAA	2610:108:3000:100a::155

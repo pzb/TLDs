@@ -1,0 +1,7 @@
+gearupiowa.gov.	86400	IN	NS	dns.iowaccess.org.
+gearupiowa.gov.	86400	IN	NS	ns1.iowa.gov.
+gearupiowa.gov.	86400	IN	NS	ns3.iowa.gov.
+ns1.iowa.gov.	86400	IN	A	165.206.254.145
+ns3.iowa.gov.	86400	IN	A	209.56.120.13
+o5d0ad04e70et7g2tvisuhg6ss0nmkbk.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. OZSgCWsZJ+y7wBMKiJ2ozgnlhSq8MptiFNIHY9Qe22Ts90iqRe1/0KdXCCYPVEnZn9eOOvmrF2ykiJ0NxaVBp/umvKPPYrau0OnBCxFqTNcgQ+ZQJbi3+8UJNsGYZ5vMURUHPOlSSHNhbnLM7iY/4MWbbISzsK9eRahWTVxSSTE=
+o5d0ad04e70et7g2tvisuhg6ss0nmkbk.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  o5gsqfrg8idbaikd1ds5lr9qvgdkbt0q NS 

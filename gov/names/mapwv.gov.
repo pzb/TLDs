@@ -1,0 +1,5 @@
+mapwv.gov.	86400	IN	NS	dns.state.wv.us.
+mapwv.gov.	86400	IN	NS	dns2.state.wv.us.
+mapwv.gov.	86400	IN	NS	dns3.state.wv.us.
+t96ftd0ktgsfd3vpjhkbem1sn2pt40dc.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. xNd+PiXZ3+el2CJWlzyOPy4fcmMPdOis1fFaKfx75IqXpMhMGEwkyrSEa3cy/z4vAYLar/rquUMZdzKsHm1PE9xxPe3gWKRSwWZL7hqcKU9S12+SPFDO/VVuzQkBe8URxJNIJn8y7mLKZjLxQJ8bDoaX3kfo4KKl3q6W26XJwYk=
+t96ftd0ktgsfd3vpjhkbem1sn2pt40dc.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  t973qj3b3es89iqsnr97u5o4b7og1v7q NS 

@@ -1,0 +1,4 @@
+bouldercity-nv.gov.	86400	IN	NS	gate.lasvegas.net.
+bouldercity-nv.gov.	86400	IN	NS	gremlin.lasvegas.net.
+sm9stv6s2vb60gcq8qam53feqr65p3op.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. invVb4P/VuxqzFP4ZEEACr/AfWosIkjI12FCaLQ0/PX9fEiKzdeIll9VDRcUcomWFzhfEJQdG5ECNOv56G12FeZ+um4tr5a6qyV8LemtU17bCOrrL1sipCRrNzljZbn8d4ZC9iMtPGvuw98UDb6o5CZqqrMX836bdG0VFZ3+gz4=
+sm9stv6s2vb60gcq8qam53feqr65p3op.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  sma9d05ffrc71aiempsaafneqer0q8h5 NS 

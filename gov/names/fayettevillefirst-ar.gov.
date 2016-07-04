@@ -1,0 +1,4 @@
+fayettevillefirst-ar.gov.	86400	IN	NS	ns1.fay.ar.us.
+fayettevillefirst-ar.gov.	86400	IN	NS	ns2.fay.ar.us.
+h0436204ifs1fsl4qgadcvko6nh50k1j.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. xlsCNUyVKdphHJHqVo9GOJhINsyJt8/T5J7vxUO2Fxpw7b2iK/i/Q+v3NsowSvapTzA9TyW+EqzQpmfSnKeLd+Nz0TJqOxmpaTujcN5Cw2sK3n6DkqGrn5mHnzbsgOpToZv/p6ehAm51SXo8Vckio/8jBx4LyQioH26kV9zK8gk=
+h0436204ifs1fsl4qgadcvko6nh50k1j.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  h08bhdicctvojgocm8f26tldfc27i7ir NS 

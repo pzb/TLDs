@@ -1,0 +1,8 @@
+investor.gov.	86400	IN	NS	a1-32.akam.net.
+investor.gov.	86400	IN	NS	a3-67.akam.net.
+investor.gov.	86400	IN	NS	a6-64.akam.net.
+investor.gov.	86400	IN	NS	a7-65.akam.net.
+investor.gov.	86400	IN	NS	a18-65.akam.net.
+investor.gov.	86400	IN	NS	a20-66.akam.net.
+investor.gov.	3600	IN	DS	3702 7 1 b8f350c9a06ddf77fad6f29073d1bc24f4ee98c8
+investor.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. w2QZd/sLiX1a8Q4k3VYTeTvW1DIvK7xyFvced4m5ipm7MctwLjuN1sFlj7NwqHd4u4ZPvEufQxB2woNidgSw2mZgGffLOwkM2Z5wYg5/01nvOdqGpKab/las97DPsbxkdiCaTQM24nLHoki91SsgxejHIJ7VoEPeV4u4AQp2Wgc=

@@ -1,0 +1,6 @@
+azftf.gov.	86400	IN	NS	ns-261.awsdns-32.com.
+azftf.gov.	86400	IN	NS	ns-587.awsdns-09.net.
+azftf.gov.	86400	IN	NS	ns-1525.awsdns-62.org.
+azftf.gov.	86400	IN	NS	ns-1728.awsdns-24.co.uk.
+ehq2dlv7g7oe44h03s34k60ol5p7jm77.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. MjCnscXxGKIovRr5iDHLXo39JgJ1tqslys1FsflS7114AEPAr/OGLKhzuQc5bcJspduOqCkp2tJZc8iEeBwIaOxk1wVKzZihbCE4sCzAc3w1OC4ygUz97GeZf74dFAWiR0NHOST7RuKg47EeRVRcOlYu+xPHiKiSPhME0PCP5+Y=
+ehq2dlv7g7oe44h03s34k60ol5p7jm77.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ei5guo4md19csd6cd82upr0fhjf3mhhs NS 

@@ -1,0 +1,6 @@
+7kmu6inrh7ue4f9c4vvcjdnsmdrm72ee.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. NBoB3lan1lS5bIXthq6CbLC+1O0y3KfmaIYTlp0PXycUtzcFL7f6R4cZMvsJPP5HgnefiNqTgIV0B0/UbLTQ8gRh8O14xqEKbZVe45XaldmNcdG8Cu4K4UwgkbkPDBdOxGDDneIZFp6qj/434u/GJEimzmBuhyosaCd9+ahG1pM=
+7kmu6inrh7ue4f9c4vvcjdnsmdrm72ee.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7ko6vkm61p8d1gbqbubg02k5tl73o2ee NS 
+countyofventuraca.gov.	86400	IN	NS	dns1.countyofventuraca.gov.
+countyofventuraca.gov.	86400	IN	NS	dns2.countyofventuraca.gov.
+dns1.countyofventuraca.gov.	86400	IN	A	157.145.220.1
+dns2.countyofventuraca.gov.	86400	IN	A	157.145.211.2

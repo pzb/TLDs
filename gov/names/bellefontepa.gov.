@@ -1,0 +1,7 @@
+95ilabfnunj43q61rgjrupn1a1p4km22.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Pr1yb+qpUr2aP5o6WWoOWB5dTMy5nB2PIgZmo4q3RN4O4x0uY0J0MqR7yAuY04CUAHO2vXqG/uWVLbGiUcPPyAPINKxxPelLu2KZf5/KTqxwRxhhKTF2zrf9bSSbXqfYBV+MVjoktbkKOGzF27uXXrpM0sv0yGRnzrd00n46Dto=
+95ilabfnunj43q61rgjrupn1a1p4km22.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  95m2fh436bhhunjeiaupukku0qr0edvv NS 
+bellefontepa.gov.	86400	IN	NS	ns10.dnsmadeeasy.com.
+bellefontepa.gov.	86400	IN	NS	ns11.dnsmadeeasy.com.
+bellefontepa.gov.	86400	IN	NS	ns12.dnsmadeeasy.com.
+bellefontepa.gov.	86400	IN	NS	ns13.dnsmadeeasy.com.
+bellefontepa.gov.	86400	IN	NS	ns14.dnsmadeeasy.com.

@@ -1,0 +1,4 @@
+brazoriacountytx.gov.	86400	IN	NS	pdns07.domaincontrol.com.
+brazoriacountytx.gov.	86400	IN	NS	pdns08.domaincontrol.com.
+fqj4dcg4p6eldn0830nij3tmdc1vtnfn.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Hd1VQcjZVAvQqlmzkL+JonpTdcf4ju1o6MsftNYVxrmTCdzxERnFCWQnM6ngXlLfixgxnuTkPdXuZNaH0THhfIP609SbqSgyO4ZY8kd30JXZPtXdPwNtJlB35CjpAUYQXjQkq5C6rV5KnpmO30TYWMyTPOBWF8hRvbgxsD+l9zw=
+fqj4dcg4p6eldn0830nij3tmdc1vtnfn.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fqj6gq08df43p7ap420lnsf2qu032ue6 NS 

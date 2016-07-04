@@ -1,0 +1,5 @@
+kitteryme.gov.	86400	IN	NS	ns1.infotech-maine.com.
+kitteryme.gov.	86400	IN	NS	ns2.infotech-maine.com.
+kitteryme.gov.	86400	IN	NS	ns3.infotech-maine.com.
+u74j1dc10ecelodff0jith69i6v6ph0d.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. MQSHdFkrHYH0+6q0XnkAPnHqQdHEcYx0E7h4XK8XpVWilbHLXOKByHudwx1Uz1Hxkw0rYYu/aDVQL0+5x0+Tvz7c1uC9uAF3UT3sZkI+vtDp7ilcjELQgM1Twd73g81QxZqJotymD9HDmBRgsz/POUyx+/Lzg9lAUMvTqq/A8xc=
+u74j1dc10ecelodff0jith69i6v6ph0d.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  u74jt6tugavfftospg332k1ce3i3hs8i NS 

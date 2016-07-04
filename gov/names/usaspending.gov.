@@ -1,0 +1,9 @@
+ns1.treasury.gov.	86400	IN	A	166.123.208.249
+ns1.treasury.gov.	86400	IN	AAAA	2610:108:4000:100a::249
+ns3.treasury.gov.	86400	IN	A	164.95.95.155
+ns3.treasury.gov.	86400	IN	AAAA	2610:108:3000:100a::155
+usaspending.gov.	86400	IN	NS	ns1.treasury.gov.
+usaspending.gov.	86400	IN	NS	ns3.treasury.gov.
+usaspending.gov.	3600	IN	DS	20940 7 1 b083dab27849a5e7d32eace2fbe19a74469b6250
+usaspending.gov.	3600	IN	DS	20940 7 2 d9b5e19a5be73763ebb6b9338ad683f3c6cd2086de9e01e059ceecdf50a6bcd2
+usaspending.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. N6AG8ZCYFblaWt3QXAOvwxkeENCXCFDIY9q37CR3q0y7CdyN+C9jStfy9m8cViuVl8lpt9bgaW1Xr7VLpgybhDeALo2Ty6ShMcaDxmKmrla7XNIaTKHzWOIKHx4fn7JaCkLAlubj1tySE86gAEyRgRunLkmLmWrTwnwHB/WCmWk=

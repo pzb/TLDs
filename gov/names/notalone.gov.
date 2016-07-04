@@ -1,0 +1,6 @@
+0pn32fp4vv90r1e8ohe91ltgmjbg0s00.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. xfXqCCLr/C9CmiV8tkvCvKU+66v7Evnsuytheujc8Ah/8hMu8lt6Ftc7ZSmX8OlNviLQaJRAX1Qy+YWxU0U3qPAWUiNUyp4dS3S4+AILOALBlpVL5XYEfTWIc8YSeO0/y7GGlJtMosxdU6kHvsixEwZg8cp75q1KX+4oUjiUmtY=
+0pn32fp4vv90r1e8ohe91ltgmjbg0s00.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0puo62mub1gaf4798dja74ejltqr7i7m NS 
+notalone.gov.	86400	IN	NS	ns-22.awsdns-02.com.
+notalone.gov.	86400	IN	NS	ns-940.awsdns-53.net.
+notalone.gov.	86400	IN	NS	ns-1320.awsdns-37.org.
+notalone.gov.	86400	IN	NS	ns-1695.awsdns-19.co.uk.

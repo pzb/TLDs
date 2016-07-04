@@ -1,0 +1,9 @@
+epic.gov.	86400	IN	NS	a1-61.akam.net.
+epic.gov.	86400	IN	NS	a7-65.akam.net.
+epic.gov.	86400	IN	NS	a8-66.akam.net.
+epic.gov.	86400	IN	NS	a10-66.akam.net.
+epic.gov.	86400	IN	NS	a12-67.akam.net.
+epic.gov.	86400	IN	NS	a13-64.akam.net.
+epic.gov.	3600	IN	DS	6955 8 1 484f634a401febde5798b34c0652133554f58358
+epic.gov.	3600	IN	DS	6955 8 2 2dc58d407d377a6f8b2ca640c59af3e906b1cb6c0605e911e324753a2bca6379
+epic.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. JgzgX77uSWKPRIkXC6917Oq17tCrfGC5gcPVzoKZfiqBXz5nFzEEje0RmDh8PKYPdcFkd/gFmcyO0rSogF5La74NoKYTHBtOeh2GvUvCcmjt0jxVq5aROeEQrs0GFo49MSuE8hg9mKUs34qi2BFr7sFayHLzNUUgoEHd2tAUHnU=

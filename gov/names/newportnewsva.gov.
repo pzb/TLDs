@@ -1,0 +1,10 @@
+gk9f5pbimapdqnr8c8p18q48gf06s92o.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. NXG36P6ddNdGP4fKaiqHnpNCypirrrfAW+2gxA1EQD0m5h/HczfjDPxyeT63RXqQLQjYJ/y8z1ib2SwfrQZTmzJ6/eRPRxVq0YG9ZFW9yE2DSUMPj9Y5R9jNJznf0VAOGGtmfh/3rjr7yRB9gDnmfoBfQ5cDbVdmRWXTpnQI+zQ=
+gk9f5pbimapdqnr8c8p18q48gf06s92o.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  gknucg99b71m8f715f3vhr29u63uspa3 NS 
+newportnewsva.gov.	86400	IN	NS	nspub1.newportnewsva.gov.
+newportnewsva.gov.	86400	IN	NS	nspub2.newportnewsva.gov.
+newportnewsva.gov.	86400	IN	NS	nspub3.newportnewsva.gov.
+newportnewsva.gov.	86400	IN	NS	nspub4.newportnewsva.gov.
+nspub1.newportnewsva.gov.	86400	IN	A	216.54.50.158
+nspub2.newportnewsva.gov.	86400	IN	A	208.94.148.13
+nspub3.newportnewsva.gov.	86400	IN	A	208.80.124.13
+nspub4.newportnewsva.gov.	86400	IN	A	208.80.126.13

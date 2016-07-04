@@ -1,0 +1,8 @@
+7vl2p00hau505jc37ca4ijmoq63ii6i8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hZUz7czbDkK8L84RP2F1GUpwWxGgTp0d6uc/J8iDypmcpbZ9AHgp/4kGyWo2DDSGjq3ZQgZMhCWxQX3cBBTy2cbnynvQu4vJEguoYKgmbwzCsaEoy3MLTA0GkWb4ZGDdHLKFCuRCCWQsvAGsAlsNv+RDoEeiB0Ksic4BE3BLL3M=
+7vl2p00hau505jc37ca4ijmoq63ii6i8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7vrjht7vllvtok3n0f5a20bsd9pfpqtr NS 
+middlesexboro-nj.gov.	86400	IN	NS	ns1.middlesexboro-nj.gov.
+middlesexboro-nj.gov.	86400	IN	NS	ns2.middlesexboro-nj.gov.
+middlesexboro-nj.gov.	86400	IN	NS	ns3.middlesexboro-nj.gov.
+ns1.middlesexboro-nj.gov.	86400	IN	A	72.76.44.244
+ns2.middlesexboro-nj.gov.	86400	IN	A	72.76.44.245
+ns3.middlesexboro-nj.gov.	86400	IN	A	24.89.141.26

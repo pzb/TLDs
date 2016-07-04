@@ -1,0 +1,7 @@
+congressionalrecord.gov.	86400	IN	NS	ns1.gpo.gov.
+congressionalrecord.gov.	86400	IN	NS	ns2.gpo.gov.
+congressionalrecord.gov.	3600	IN	DS	549 7 1 ef0d8bcd704d66c728813b8fe5c72a7cd4477c63
+congressionalrecord.gov.	3600	IN	DS	549 7 2 fcddc914de0dcf15a2d4edc30205c8a0a10aa924ec18b70f3834f0a8efb46529
+congressionalrecord.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. TBbIPM+m+bygKXVmgu29EaDz4QDp7+VjN5pdfHlv3Nwt1QWqMoFPOJK3ckvw96rYHcabgHciZTRG3Z0tAz7In0NwVH27kqKMxmfPG6LALZS1CVF++jbvGi7gE/13RkHEzpd/sTrJGyJToR6WJoW376CUb/C+nSVEU0kvbj22tCA=
+ns1.gpo.gov.	86400	IN	A	162.140.64.100
+ns2.gpo.gov.	86400	IN	A	162.140.252.180

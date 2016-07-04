@@ -1,0 +1,4 @@
+4fhgc28cqu225mviha0hm5h2je5oj7te.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. HxejAkBOIOdWqsk6E3X2B9TYkkvB7iBjr8mgjbVxvRYhNRz/4D78KpSQgc319KXJirBfPoKxwoCS9INh5isMWdkxhKSVa9bh3KSRp4HtixJMO7JpZPKygKNbO9c1CG2rdVaVXdEsttNLKH+hrKiR+xcHw6sxYyoaMqe/02gzRqk=
+4fhgc28cqu225mviha0hm5h2je5oj7te.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4fnp9lb360r40h3anm48ei31grlt6irr NS 
+lodi.gov.	86400	IN	NS	lodins1.lodi.gov.
+lodins1.lodi.gov.	86400	IN	A	209.23.214.194

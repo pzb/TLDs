@@ -1,0 +1,4 @@
+mineralwellstx.gov.	86400	IN	NS	ns0.ns0.com.
+mineralwellstx.gov.	86400	IN	NS	dns2.pair.com.
+nr0l887r50hvb5i0vui1ml0nfblukku3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. U3t8nWRQxQzo8f6j4zlUMna+RDpiNsqsDyfRSSNBRcTY/jF/InYhwBtf5QsFKRUNluen0Sajhu+885X7beONWn5YXfTTdgTvSbYX/0AmKCf5ERFKBEBbtNv6RE0KK7y3xNBkIPLYJ7Ep9P1ta1qvepLdFuMZcSlGNW7G5bJfW/g=
+nr0l887r50hvb5i0vui1ml0nfblukku3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  nr2r5e6othc9hu7f8h4v00uaure9tbou NS 

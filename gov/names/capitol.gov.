@@ -1,0 +1,10 @@
+57174b3onhr9elch1gmlmnl13u9ehcdp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. m4UIpnSnl2wP18NWZuflph+wMsqJ/dsWaJNe1u0Nxyg7A1bJ0vrlNdnfDj09iyPAhAgA4BomQdDUiuLKrSkafhrUzLhqeOQp9h9DNy7G0k2kdTIESB0iGMqiCiUC7wH53ZKMB/7tk85PvZS/EE18ppismZtdYjDpE/km2vXS9a0=
+57174b3onhr9elch1gmlmnl13u9ehcdp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  573mqethka7osmv2itad6i808n3ffpsm NS 
+ns1.aoc.gov.	86400	IN	A	161.197.102.14
+ns2.aoc.gov.	86400	IN	A	161.197.100.14
+capitol.gov.	86400	IN	NS	ns1.aoc.gov.
+capitol.gov.	86400	IN	NS	ns2.aoc.gov.
+capitol.gov.	86400	IN	NS	auth111.ns.uu.net.
+capitol.gov.	86400	IN	NS	auth120.ns.uu.net.
+capitol.gov.	86400	IN	NS	authns1.centurylink.net.
+capitol.gov.	86400	IN	NS	authns2.centurylink.net.

@@ -1,0 +1,6 @@
+dconc.gov.	86400	IN	NS	ns4.durhamcountync.gov.
+dconc.gov.	86400	IN	NS	ns5.durhamcountync.gov.
+ns4.durhamcountync.gov.	86400	IN	A	168.215.112.166
+ns5.durhamcountync.gov.	86400	IN	A	24.199.169.126
+uq1r8k1h72vg8q6mi41ifvroa62ul5gl.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. D7Cdqf6psij37376KmhsSQJnTul8jFqrWin8u0Jvu/bjpdcbzNU0KMI3uV+u4m7EG4v9gEu7XcxMohIvdSrPt2xCHAYTJMyZflyfh2rF7R738eEbIwmktuUQ34Q9pciflfFy4HNkeBLhWt1FvlyTPAl9nTWIjcG5wPemA4kaLGw=
+uq1r8k1h72vg8q6mi41ifvroa62ul5gl.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  uqg8cnj2ge5gi1k5pu8tjl1k27sf7ikd NS 

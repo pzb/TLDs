@@ -1,0 +1,11 @@
+avatar.esc.gov.	86400	IN	A	162.58.35.104
+avatar.esc.gov.	86400	IN	AAAA	2001:19e8:8041:23::11
+styx.esc.gov.	86400	IN	A	192.112.97.251
+emns1.faa.gov.	86400	IN	A	155.178.206.21
+emns1.faa.gov.	86400	IN	AAAA	2001:19e8:8001:3060::21
+jccbi.gov.	86400	IN	NS	styx.esc.gov.
+jccbi.gov.	86400	IN	NS	emns1.faa.gov.
+jccbi.gov.	86400	IN	NS	avatar.esc.gov.
+jccbi.gov.	3600	IN	DS	3937 8 1 4525e7d1ff4a14b838d2a5076c38a99677c31cfc
+jccbi.gov.	3600	IN	DS	3937 8 2 c3abc33bc298e9b3327a465f5784f57067d2a42d29904480ddca6f73eb8c7169
+jccbi.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. tXe/GE6cjj9zMa/Y3Dbmk90v0dZQjP3vfwh/NiU5wnmxK4dYQkxSy1o1Cf0th8Ec8G1Hehgqy1RY5uLeFMLJlIQv85QXYlE8U9BCx561Mg9YuAKeKBfeqMQ9V8QsTW71HN+lzU+T21Bh65b0KklPcait99CDcQ7DtUnNp3Doxdo=

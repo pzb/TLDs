@@ -1,0 +1,7 @@
+consumerprotection.gov.	86400	IN	NS	sauthns1.qwest.net.
+consumerprotection.gov.	86400	IN	NS	sauthns2.qwest.net.
+consumerprotection.gov.	3600	IN	DS	4261 7 1 136a7e37961f7cf86cd19ef6c42fead256d6656f
+consumerprotection.gov.	3600	IN	DS	4261 7 2 d4014152a9b4ab34e3a68399c8eeca225d5e4690e9a4a8174afead7e266dfeac
+consumerprotection.gov.	3600	IN	DS	20040 7 1 85199ca246afff31c88d385456b9cb48e1eb7be1
+consumerprotection.gov.	3600	IN	DS	20040 7 2 298206edeaaf936a32731550bdec2aa253831a3b8221af913349f8e741b1948c
+consumerprotection.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. I65MphqZqoi46hiuEmxx1XzSQHTb6Cjna0VgvCKyPzWsr/w2/dokIvCBzl8wXngS8BjWGoUBcQn70rXF2x8c4BplDlqbDOZc38Ya0OurWAK1SeyvZWMCOsay8Q9yTA4s6XAmBWd6afD2YPXfNgx9sWkt2a6fuaeyahcR7ZtYyjI=

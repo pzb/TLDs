@@ -1,0 +1,4 @@
+lagrangeny.gov.	86400	IN	NS	ns01.domaincontrol.com.
+lagrangeny.gov.	86400	IN	NS	ns02.domaincontrol.com.
+lfs3qjgu3g6iigaeq0l72435rlp160np.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. gC3ACf8qRkhsEN6AQBocKSa+7uCtS/OdEAFka2CqyAYc9wtduJU9tfztqXZfrs0KfVs4oP90zyT7L0n73s0roxLcWWN7B1h+qYmRhRYQ+je8mfeMhUtxn/ODgm6EEEcdDdvnLtduTr1sl11c9KvSBnjm1TU+8bhxD9BPbP+2d/g=
+lfs3qjgu3g6iigaeq0l72435rlp160np.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  lg1olcgffs93hkjsf07asfd1kspr026c NS 

@@ -1,0 +1,6 @@
+14an2rcgp3bq4tjqqee0kipnaf76cgud.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. qZDY1cAfX+s5vnn+4QBCOtNiwTfAhO4tjv+N7pOZkkxe95VEkjjjgR6QSgtQ4hcMuEUF4Dk1FMgpJWsrRFVeUM3TxCuEySpWgudimtAW5FLPP+H88JlXVrVCiX5/QO5LXpvoUUdgupnS/oq2/HhB/4g6nfE1BUh/vF2DOyYPp4o=
+14an2rcgp3bq4tjqqee0kipnaf76cgud.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  14hecjtmpe5i7luo6b0lt15m2ltmqd31 NS 
+lavergnetn.gov.	86400	IN	NS	ns1145.dns.dyn.com.
+lavergnetn.gov.	86400	IN	NS	ns2137.dns.dyn.com.
+lavergnetn.gov.	86400	IN	NS	ns3146.dns.dyn.com.
+lavergnetn.gov.	86400	IN	NS	ns4174.dns.dyn.com.

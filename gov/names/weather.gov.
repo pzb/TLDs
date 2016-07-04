@@ -1,0 +1,9 @@
+weather.gov.	86400	IN	NS	a1-97.akam.net.
+weather.gov.	86400	IN	NS	a6-65.akam.net.
+weather.gov.	86400	IN	NS	a7-66.akam.net.
+weather.gov.	86400	IN	NS	a11-66.akam.net.
+weather.gov.	86400	IN	NS	a18-67.akam.net.
+weather.gov.	86400	IN	NS	a26-64.akam.net.
+weather.gov.	3600	IN	DS	130 8 1 f723402a385b09125d061fe1acbe10d5eaa4e530
+weather.gov.	3600	IN	DS	130 8 2 2e631c90a9ecae8b4c5274ef9f048537efaa71c279aa5479c89411bf03300c1c
+weather.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. xInvlSsukfvXXPSVj1muBmd870UlUr8+jUXsxftakqTMWRZYYRb/FsiEoGI9dyBkZCsC1rB7pwYkJ6JVxyFTyiKVMnjYvFL9zZRRs+IaBwBPBCSZsnof5nQZ/Pn/V+HXe73w0c/E1FgcoY8cPvgQrQdm2UUDe/VPlb76YEygqnE=

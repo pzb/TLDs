@@ -1,0 +1,4 @@
+middletonma.gov.	86400	IN	NS	server3.hiq.com.
+middletonma.gov.	86400	IN	NS	server4.hiq.com.
+qofqj60q3pubtbs1uur2ebmlrjr7547m.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. okvtrXdmj3709ScPJ9NtQ7HRiGuJ1TVcRT+JPooXAJZ5MPnuNxdsgBj9Vlg64oE6LSb0vJvfxHzqSp9vF5yXb8DDQYzlYonWTETSfhYKmvKUbiwYlEhAZ93po228dI0VcNT+A0uQu63qnNQCtfW3JxzRJpBGsVCCNrjFh68HC5M=
+qofqj60q3pubtbs1uur2ebmlrjr7547m.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qojjanr93ltopkdtoh77lqb8nl9pocrn NS 

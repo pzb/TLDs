@@ -1,0 +1,5 @@
+0gll1jv0ebc8049l3oo808cpaajh1mdj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. rH9yuDqCy3ohmRzULOpm/95/F8KHIWvqKEmuCkxuHdtxj7kk0uDWNR+7rg1qyt7g18zE7DzsJVsHNLUT0O88vnhyF+89PuYA/E/CeF2+JUD0obZ5BSjSpszwGWjPkNZ1YNJNpJJcbf2YR52DCnYrsEVaSazQSJMMYp7H76hFERk=
+0gll1jv0ebc8049l3oo808cpaajh1mdj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0gmkm930tba1ondb62d5j96b8fgvdkp0 NS 
+winchester-nh.gov.	86400	IN	NS	ns1.infotech-maine.com.
+winchester-nh.gov.	86400	IN	NS	ns2.infotech-maine.com.
+winchester-nh.gov.	86400	IN	NS	ns3.infotech-maine.com.

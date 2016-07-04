@@ -1,0 +1,9 @@
+nifc.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+nifc.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+nifc.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+nifc.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+nifc.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+nifc.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+nifc.gov.	3600	IN	DS	58066 7 1 9e7c755005e4fd779363b1c2ac783b581fbecb45
+nifc.gov.	3600	IN	DS	58066 7 2 954842a5907d40a406d40939e63fe1a36e4c5585fdbdfff809f9128d009a7002
+nifc.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. hjKK+Yh/iWeH8OeaSzpzPVfA3IMm73CR4PQnWg6JPkN9HK/TXlJzPNQoXIYrgk0SG2vUn+yldNEW0wuct1YAN4wm+wm87X+YIp711Xqe3ElKoRgnAMxsZVdBFtCQRBHnA5hGe3uvIueIiha58fz5MtXxGHSnv/gbXik/nlyUIF0=

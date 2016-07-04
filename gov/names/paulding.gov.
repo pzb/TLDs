@@ -1,0 +1,5 @@
+b3ghk7khau49fsp7pbrd811no08264s4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. kXYIOb5P8yAaqNgG7mN7A4l/SLzd9mf6aOxj186glQyiVJZayaIWhavPHUG3T5QSOu3u4+fF2Z8oBsjbdAyYZWjKWLZxvsflrz3VsnCZLRz0Y8pwD8m9JaXDEJ2PpQ5MQGYd8t448FJG/Q2T2i0j80WHrJ7+LKdVYi4uFf9KUdI=
+b3ghk7khau49fsp7pbrd811no08264s4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  b3jaf94ptsbco0mufg6i1qbq53i6odf2 NS 
+paulding.gov.	86400	IN	NS	ns1.pfnnet.net.
+paulding.gov.	86400	IN	NS	ns2.pfnnet.net.
+paulding.gov.	86400	IN	NS	ns3.pfnnet.net.

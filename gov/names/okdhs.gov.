@@ -1,0 +1,5 @@
+fq6vkbc2jro4qbbiav7ij38e602ugnb4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. TKpkpSVa1S3uSVUz0IS/bckRC3YIJFROFxboqADZImHsS3d+K4A9V7B651IDXkNpu1+6NS+rhzbHzJPu3SnRDb69eQiWw3jBcBVtuZig7jD8x58AStbga/6yKgUosd+jDgxoqpCG/8OZCRQvQQKPBzsi1PzvT5nUbX/oc5vR544=
+fq6vkbc2jro4qbbiav7ij38e602ugnb4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fqaql6hk7j0u1mg3sege3fnep47lipm0 NS 
+okdhs.gov.	86400	IN	NS	ns1.okdhs.org.
+okdhs.gov.	86400	IN	NS	ns2.okdhs.org.
+okdhs.gov.	86400	IN	NS	s99brick01.okdhs.org.

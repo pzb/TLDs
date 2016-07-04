@@ -1,0 +1,4 @@
+fmj4nm4jpjhrniqf6m12nme0h3np03v3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. V3ZhMC6qVQAWxIaVG8rx4bOESXppeJJC7Qd37Yencnsu5zRqKs0EY61PSfXB2G9L/XSRMFU3M5GjTbSfVYgI2y9uNv5pLJWWk4ZfpkVhzKalcG6qNXGz9SMWO0XooEoi502huKMcL2DMQXQ0yrweN+hKYoIDVCkutKNE4+gTcxg=
+fmj4nm4jpjhrniqf6m12nme0h3np03v3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fmpfh0n6c52uur6o4h79t1rj2ii9tc47 NS 
+ridgecrest-ca.gov.	86400	IN	NS	uma.ns.cloudflare.com.
+ridgecrest-ca.gov.	86400	IN	NS	igor.ns.cloudflare.com.

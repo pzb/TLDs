@@ -1,0 +1,6 @@
+dns1.azdes.gov.	86400	IN	A	207.108.136.98
+azlinks.gov.	86400	IN	NS	dns1.azdes.gov.
+azlinks.gov.	86400	IN	NS	pdns05.domaincontrol.com.
+azlinks.gov.	86400	IN	NS	pdns06.domaincontrol.com.
+ph588o9ibmonl53o1e84acvbi1op19iv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. oOSZVB6yaveTyATPY8v8jxwgfwblE9Pet8a7Mij+4DfAm4VGFj1HLru9XTbmI/tlAgDVmJK31vho3R3ikUcIk0/kNouHelPkF851WYG4yctjgh9WarcDBRJj6GuPwPSmuG7z0bGkRi3LslGBMi4tFoJrh1XqUekw/ebHRaOXIJ4=
+ph588o9ibmonl53o1e84acvbi1op19iv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ph65ifaqqhi4de26o6mmfqad9lti4kni NS 

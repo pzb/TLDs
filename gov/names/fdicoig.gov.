@@ -1,0 +1,9 @@
+ns01.fdic.gov.	86400	IN	A	167.176.6.78
+ns02.fdic.gov.	86400	IN	A	167.176.16.77
+ns03.fdic.gov.	86400	IN	A	167.176.26.77
+fdicoig.gov.	86400	IN	NS	ns01.fdic.gov.
+fdicoig.gov.	86400	IN	NS	ns02.fdic.gov.
+fdicoig.gov.	86400	IN	NS	ns03.fdic.gov.
+fdicoig.gov.	3600	IN	DS	12055 8 1 0999f46bbc7d1d7a820843e648ee1e7deb778a3f
+fdicoig.gov.	3600	IN	DS	12055 8 2 1c504b9850a193b8751fc89eafe40532e132b4c18c50e2f3a9da4ea12f2c7fb1
+fdicoig.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. pwL+y2tU1h3xt7itTLsSzx6QTcAtuvjGIN/E+JaZ7Zfydg7r1eX9GOUhSaZgJJLOvBe39F7g59d+Mu3tRjJWZdLKqIVG80PeirG5XulwAQAV9h8pWfc+PRvwMO5edgzOn5AokkQ5omOxqrhtUWSoP1TRs3QOvHKhjFxSck26q0k=

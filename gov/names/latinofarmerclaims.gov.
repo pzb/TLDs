@@ -1,0 +1,9 @@
+latinofarmerclaims.gov.	86400	IN	NS	ns1.usda.gov.
+latinofarmerclaims.gov.	86400	IN	NS	ns2.usda.gov.
+latinofarmerclaims.gov.	3600	IN	DS	47104 8 1 c39df525af9f9e07a321e5284390418521dffa5d
+latinofarmerclaims.gov.	3600	IN	DS	47104 8 2 0fb4566a99ab4c14d493cb4269a00b942df362fe72d865a81078de31e7dd1065
+latinofarmerclaims.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. xRmrmGpVvHpIfJ2tLOv+VuWTDdkqAAB/def3FTvllW7Idtdj9ZcyilT5GyTnPz1Ruzs2ZA113mzN5cjEfCTtfaB0exHXgiiH+ew7ytloysYlOMPT9zv79rrF1n+aIaXG7Tv94aXKwFuSQa+yOgLw370ADLVGzYH7GWrjfB5Wco8=
+ns1.usda.gov.	86400	IN	A	199.141.126.202
+ns1.usda.gov.	86400	IN	AAAA	2600:12f0:0:ac04::202
+ns2.usda.gov.	86400	IN	A	199.141.126.206
+ns2.usda.gov.	86400	IN	AAAA	2600:12f0:0:ac04::206

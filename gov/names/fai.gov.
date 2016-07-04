@@ -1,0 +1,15 @@
+fai.gov.	86400	IN	NS	dns.gsa.gov.
+fai.gov.	86400	IN	NS	dns2.gsa.gov.
+fai.gov.	86400	IN	NS	dns3.gsa.gov.
+fai.gov.	86400	IN	NS	dns4.gsa.gov.
+fai.gov.	86400	IN	NS	dns5.gsa.gov.
+fai.gov.	3600	IN	DS	30497 8 1 23320ad2abfd5d3284747702f21054ebc9eaefe0
+fai.gov.	3600	IN	DS	30497 8 2 813dc21a34fb9dc06008ba64cd06114dd5ed923cbe3509b2433a66826a0a0497
+fai.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. HgrM0nLDpVhD49dchmn+TpGhLcMWJpek1pdT0jrRLQ13nYvMn8Yb64VV26ccDnPWzVxkBEEaws788wh2/Q3tC3WfAkNNX8HemA82xjMndC2KOnZrjAbwQck8BBu8OH3VSA2hWzOgGYFeRs4iSNCWOgrp3jmKxrdN01D0bksHyOQ=
+dns.gsa.gov.	86400	IN	A	159.142.136.198
+dns.gsa.gov.	86400	IN	AAAA	2620:0:150:280f::5
+dns2.gsa.gov.	86400	IN	A	159.142.150.68
+dns3.gsa.gov.	86400	IN	A	52.203.230.235
+dns4.gsa.gov.	86400	IN	A	159.142.69.84
+dns4.gsa.gov.	86400	IN	AAAA	2620:0:150:4013::5
+dns5.gsa.gov.	86400	IN	A	159.142.45.20

@@ -1,0 +1,4 @@
+de1sa76rmjqdb9compqhm73p7a15sop6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. mRl/O0sHXfmrqJ/eSmyAtxYjhRhyFq3+etTby+xX2sDqdwMqSUiQVj1rCJClC1k7FvBK2d2fnklYgX2WMnFUIyJ8puD+/WHzd2WTJncGvslxTJzUYgrz5VCPf4SJ8W4zAPE42LP9/dLmxKH/Mws4jhH/mxP8HiozZRM00eWeu4Q=
+de1sa76rmjqdb9compqhm73p7a15sop6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dee8oljejlj527vv7ni64eimi2f89ata NS 
+westmorelandtn.gov.	86400	IN	NS	ns1.avenet.net.
+westmorelandtn.gov.	86400	IN	NS	ns2.avenet.net.

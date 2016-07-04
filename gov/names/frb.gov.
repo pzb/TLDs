@@ -1,0 +1,9 @@
+frb.gov.	86400	IN	NS	a5-65.akam.net.
+frb.gov.	86400	IN	NS	a1-166.akam.net.
+frb.gov.	86400	IN	NS	a10-65.akam.net.
+frb.gov.	86400	IN	NS	a11-66.akam.net.
+frb.gov.	86400	IN	NS	a16-67.akam.net.
+frb.gov.	86400	IN	NS	a28-64.akam.net.
+frb.gov.	3600	IN	DS	25765 8 1 ec19eaa8e88a568d5bf568925b6f9bbbb0cdbded
+frb.gov.	3600	IN	DS	25765 8 2 160629e46e964413d95a020dcb9b0310cd5bc5ed5b0622b0a622e71d98945012
+frb.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. rYKSMHQuTO8sT2YKu9DNOhhHdyWzlW9M8TkKxSi4yFic07ZaDGvnFYkjgifXG8CneKKLfwWr+qZpvqi8JZACZAt6nnoDNZfQQeLLyuO8lgLbOnQ+S4NExsWn/sdRxqZChSJHaUbQQaPmym8Szs925Yw67M9vrNAeuxN52CcX9Iw=

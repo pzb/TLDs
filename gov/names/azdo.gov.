@@ -1,0 +1,6 @@
+azdo.gov.	86400	IN	NS	ns-53.awsdns-06.com.
+azdo.gov.	86400	IN	NS	ns-763.awsdns-31.net.
+azdo.gov.	86400	IN	NS	ns-1486.awsdns-57.org.
+azdo.gov.	86400	IN	NS	ns-1853.awsdns-39.co.uk.
+cs1cnprt29pphpnavb4uqk1r2jenq60v.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. O991WSpM7Lrrr33oE/oiyUKXyuPU+ghcUUDXTafOzEItHH2HEM/0+X1lIhsyg5mcS+cX1YESQsj4gUw+1FqSBtuN7Yp/czjRANsHo4GfUa32NJBoyKc1Dp72fT8iVyIJSMd/EQUsH6FCCubElF5N8/Zdr19eGjzaDjvh0wKSZnM=
+cs1cnprt29pphpnavb4uqk1r2jenq60v.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  cs2bifnep68jhdprq7e65pn40v3kiorp NS 

@@ -1,0 +1,16 @@
+crimevictims.gov.	86400	IN	NS	ns-jdcd-01.usdoj.gov.
+crimevictims.gov.	86400	IN	NS	ns-jdcd-02.usdoj.gov.
+crimevictims.gov.	86400	IN	NS	ns-jdcw-01.usdoj.gov.
+crimevictims.gov.	86400	IN	NS	ns-jdcw-02.usdoj.gov.
+crimevictims.gov.	3600	IN	DS	32572 8 1 3061ce5bdc3c253b92a0878905dc1faa010c81cd
+crimevictims.gov.	3600	IN	DS	32572 8 2 e97a2e59b66fdfd6c49e4daa0aa39a5351515c9368a71a4a38b7149dd7663186
+crimevictims.gov.	3600	IN	DS	37426 8 1 1916d8f2fa91819b934286c05ccad012cd59395c
+crimevictims.gov.	3600	IN	DS	37426 8 2 9befc27643cf0062cd6bfcc3824913d832d1eac6a0755583cc9da9e2e0786717
+crimevictims.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. nRe33VlqCsdVt8a+Nbd9vLSJRzpNeoy5L9CEh4G8mai5NbnNvJX+qvuvAnsYwHFQ55BUWtj+464l4waFalLD0+OU/kPDAfPdiMwC6NosYYvDH17SRrkj4LsPoTnJ7M5EHNvpgfDhamjTD0Fjw6zk7LVZ4jLODwRU5TssvEsavEE=
+ns-jdcd-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcd-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcd-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcw-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcw-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-02.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::6

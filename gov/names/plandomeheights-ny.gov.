@@ -1,0 +1,4 @@
+af8p10luvoohqjrfs7qpii9mers7kp1n.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. s4kiNxs1lMOiw8VGPkEYNCUYZYcyUZadQBOXXvjhX+DRtqekKTjAHssVTN/qJaejc10DeKos+Ei5hf+DfqoQLfTCmLO9oRuvr788BSq4b5QbMNgI8YZ2+krM4oeeJecARVw8Dy/cnVjDwgrevAorKn98G9I7krfjfEHBGwSK/OE=
+af8p10luvoohqjrfs7qpii9mers7kp1n.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  afilorf7cdnkvk0j35v2d3556r1qiio6 NS 
+plandomeheights-ny.gov.	86400	IN	NS	mns01.domaincontrol.com.
+plandomeheights-ny.gov.	86400	IN	NS	mns02.domaincontrol.com.

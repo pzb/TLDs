@@ -1,0 +1,9 @@
+lanl.gov.	86400	IN	NS	ns1.es.net.
+lanl.gov.	86400	IN	NS	nsx.lanl.gov.
+lanl.gov.	86400	IN	NS	nsx2.lanl.gov.
+nsx.lanl.gov.	86400	IN	A	204.121.3.1
+nsx.lanl.gov.	86400	IN	AAAA	2001:400:4210:400::53
+nsx2.lanl.gov.	86400	IN	A	204.121.6.1
+nsx2.lanl.gov.	86400	IN	AAAA	2001:400:4210:401::53
+oclsvb10if076i75ickb7l4i1vct39bu.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fRC0CUfu6VmNsII4tMTfH/24vl/amcbtJOlB+pT6wH+EfOxotrcRqp137f7VGcQDVKpx8FRCdq/d2q6xb5L6rIHpfqTbdqhyPyb9RLQvJp5jFvatpdmRw7R0iOHdHt8EYLB9WJ/A1i6XWIwW+XdDW5VH2JZNttFkaDAHlScnvUM=
+oclsvb10if076i75ickb7l4i1vct39bu.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ocor1nls9e85asahlfpame3qgmvkfpl2 NS 

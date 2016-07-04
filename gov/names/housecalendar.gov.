@@ -1,0 +1,7 @@
+ns1.gpo.gov.	86400	IN	A	162.140.64.100
+ns2.gpo.gov.	86400	IN	A	162.140.252.180
+housecalendar.gov.	86400	IN	NS	ns1.gpo.gov.
+housecalendar.gov.	86400	IN	NS	ns2.gpo.gov.
+housecalendar.gov.	3600	IN	DS	60831 7 1 c7be670867a6a71fb679a52652b1a59ed3cd6f62
+housecalendar.gov.	3600	IN	DS	60831 7 2 ff29a498d503764f000b284b42b57c745373660e2621ba1e21407cae2e90bbe0
+housecalendar.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. iPzU38JNs0Cx0ZDkjfG+ZJIW1rHPYZ6SB2O01exjogYPOf5ffV/QlTdn3duWgEXqG+ZGaoMilXFIsHXVLiHGXbszvWHaIOjnD2ftZIcaAkfpla+d73DxtLu487pfKeRzPhgJh5nUanHBtGZuu6PfwUNrxOJF++/humDw6NfSYAo=

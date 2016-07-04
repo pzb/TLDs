@@ -1,0 +1,5 @@
+cityofparistn.gov.	86400	IN	NS	ns6.aeneas.net.
+cityofparistn.gov.	86400	IN	NS	ns7.aeneas.net.
+cityofparistn.gov.	86400	IN	NS	ns8.aeneas.net.
+m73u33rbqpmocp2njg6jugehk9n92a13.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. TMuTRzScromxz2eqQ7ymJeqMt/i4NFfqUiGLsVG5uUer0JEEJTOp+svWCqw5hyHyB92UgFY3FKTQ6oh4rgvpTxdyCpOORLn2Z/EMzyS6YyOvgv0LQtHC55QbKPe56HOStHFGnZeEIaTA4bvNxtDrKz8Mp6BAbq/TIWse+iFevR4=
+m73u33rbqpmocp2njg6jugehk9n92a13.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  m7n9tc16lej1mds1nvfaucr8gl7oq3o6 NS 

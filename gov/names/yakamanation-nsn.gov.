@@ -1,0 +1,4 @@
+g6vsdbk7vlnig0fnsfq98sj8o3v09oe5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ZH+sFlG6PdL4eRkdB/8KGYoxyIGN0a+PJQXIU3QDg/q2GPG6rEodHr/4pd0XNcbgKup9VPCvrsmkeRbyre21XDU8jlPxI5qEBzPGcqbDDxHl5e/1VDzSqFVvQRzuJtDhK2HG7GDr2HECtTAgVRSO1l/o39Vd3g9Hd7e1BSDW3f4=
+g6vsdbk7vlnig0fnsfq98sj8o3v09oe5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  g7ano49vgieds05bj3lljblbt9hro19k NS 
+yakamanation-nsn.gov.	86400	IN	NS	ns1.yakima.net.
+yakamanation-nsn.gov.	86400	IN	NS	ns2.yakima.net.

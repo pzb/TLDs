@@ -1,0 +1,14 @@
+rh202ns1.355.dhhs.gov.	86400	IN	A	158.74.30.98
+rh202ns1.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2a
+rh202ns2.355.dhhs.gov.	86400	IN	A	158.74.30.99
+rh202ns2.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2b
+rh120ns1.368.dhhs.gov.	86400	IN	A	158.74.30.102
+rh120ns1.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2c
+rh120ns2.368.dhhs.gov.	86400	IN	A	158.74.30.103
+rh120ns2.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2d
+vaccines.gov.	86400	IN	NS	rh120ns1.368.dhhs.gov.
+vaccines.gov.	86400	IN	NS	rh120ns2.368.dhhs.gov.
+vaccines.gov.	86400	IN	NS	rh202ns1.355.dhhs.gov.
+vaccines.gov.	86400	IN	NS	rh202ns2.355.dhhs.gov.
+vaccines.gov.	3600	IN	DS	35835 8 2 fb61ee529422484ae0b737f569675e48f0be473582acbdbb960ed877e3d7f8cf
+vaccines.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. hhVuZqkUH/AzvaT8hUaAlkxKJyWsMvdCLKLRvbTFBublkIKx/6cgp7mrC2/mnjKVYb9sg9tguLwRj09XANZjMnG91K0vnGgLEKkKdOg/P5VXI5qAPUL5dcAyPFFcGXI8LczhuoWa5J20LcV6Ojw+ZNwDtf5eVhc7nVzUNdq0duk=

@@ -1,0 +1,11 @@
+americathebeautifulquarters.gov.	86400	IN	NS	ns1.treasury.gov.
+americathebeautifulquarters.gov.	86400	IN	NS	ns3.treasury.gov.
+americathebeautifulquarters.gov.	3600	IN	DS	13869 7 1 aafcecd2e10af0c28a8cff2315eaac1011c41232
+americathebeautifulquarters.gov.	3600	IN	DS	13869 7 2 8a63c515e243d350f50f2ab625307399a3f026f6402384b0f2fe51f380555914
+americathebeautifulquarters.gov.	3600	IN	DS	54639 7 1 9b638bf56c8d22e5b441bcca10f7ff1f950129a1
+americathebeautifulquarters.gov.	3600	IN	DS	54639 7 2 4ff4bd32118e7bcbaac0a7b89fd9f68badd1fd8ec21e55f0cc8240dd99ff8d2e
+americathebeautifulquarters.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. bxU0DHQCn/ngt/jXgD5m/fns5F0vDQueegOH4sD1uB1bbnyb/0W31Dl+O/bT/Kw36278kKkKcP16CsLm2djMxymagt277+LjIFLmsNBNpAUV0mmtV7jPeR80vF9aUxqTc00YAFQ0i6OlM9LmmCmwaZwRjoLDi6Ev23ee0CQ2Rps=
+ns1.treasury.gov.	86400	IN	A	166.123.208.249
+ns1.treasury.gov.	86400	IN	AAAA	2610:108:4000:100a::249
+ns3.treasury.gov.	86400	IN	A	164.95.95.155
+ns3.treasury.gov.	86400	IN	AAAA	2610:108:3000:100a::155

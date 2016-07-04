@@ -1,0 +1,12 @@
+marinecadastre.gov.	86400	IN	NS	ns-e.noaa.gov.
+marinecadastre.gov.	86400	IN	NS	ns-mw.noaa.gov.
+marinecadastre.gov.	86400	IN	NS	ns-nw.noaa.gov.
+marinecadastre.gov.	3600	IN	DS	45856 5 1 6c45a95666b03d2c9f3f88e3497bfc127994c9e8
+marinecadastre.gov.	3600	IN	DS	45856 5 2 495352b9cce8b4e0cc932c358cb326bbdeff4b96da72153b111c3a9f9810f723
+marinecadastre.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. KLCJMkg30ym8DtUZXAHCvbriT25UHhSjC43/Qo385AoT0ND/i/QSVx2CEDRg+cBCZa+cSWvwkpahjLcAwBbaqWoEHyCHFpw37qXS3zHkGeAfEncyEgCmaHmbcvP0hlCENHW1OG+OYwcuuouIwWQGMNL7rXaoa6mDf/jDPc/8gxk=
+ns-e.noaa.gov.	86400	IN	A	140.90.33.237
+ns-e.noaa.gov.	86400	IN	AAAA	2610:20:8000:8c00::237
+ns-mw.noaa.gov.	86400	IN	A	140.172.17.237
+ns-mw.noaa.gov.	86400	IN	AAAA	2610:20:8800:8c00::237
+ns-nw.noaa.gov.	86400	IN	A	161.55.32.2
+ns-nw.noaa.gov.	86400	IN	AAAA	2610:20:8c00:8c00::2

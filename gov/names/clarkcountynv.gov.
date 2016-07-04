@@ -1,0 +1,6 @@
+5h6k44855qg91ciusn1hrka34ojf8s7h.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. H6voqBWr9dbD3XJStS+NEV3qAf6QB0c7ok5EgnNE3ra39b8B2kYOrLvpEyV1GE8W0POQEVNeg1VCGFpZRUeOhq+BEaCVijFzD5q1J26MwCNKpU9PrqndXCaK0WAdtGVY0j2i/hMT6GLexlzU5PviQ3unbbfpm4BAsfuCAlnH7Mw=
+5h6k44855qg91ciusn1hrka34ojf8s7h.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5hbc0u0l9h2v0e2uaime65mvppjavujp NS 
+clarkcountynv.gov.	86400	IN	NS	ns1.clarkcountynv.gov.
+clarkcountynv.gov.	86400	IN	NS	ns2.clarkcountynv.gov.
+ns1.clarkcountynv.gov.	86400	IN	A	198.190.190.33
+ns2.clarkcountynv.gov.	86400	IN	A	198.200.201.42

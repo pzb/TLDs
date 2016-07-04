@@ -1,0 +1,7 @@
+dns01.cns.gov.	86400	IN	A	152.180.8.143
+dns02.cns.gov.	86400	IN	A	152.180.134.207
+nationalservice.gov.	86400	IN	NS	dns01.cns.gov.
+nationalservice.gov.	86400	IN	NS	dns02.cns.gov.
+nationalservice.gov.	3600	IN	DS	31011 7 1 00993160fae8101be69454b7067433a7481cf212
+nationalservice.gov.	3600	IN	DS	31011 7 2 9141bb3b17b03ccc10b11a51a2e915353add10bab7e7eeb1cd5e7c7c9642e9a5
+nationalservice.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. d3XqTZU21+F/Hqd2P18cSbvH5qRrPPR2o4dRwviW0mUhWbYLjMrPmTF4rnoj/11eTPy9dmtZEazgtoDxr/lKqvWS29iOpsx81Zgor7kjfvcq7xNek68JdediEuyWLAYlw/hmYAhptCv8qwU975kJmot5RCV5EB4z3Oa6zWsAr0I=

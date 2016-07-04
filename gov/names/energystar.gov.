@@ -1,0 +1,11 @@
+energystar.gov.	86400	IN	NS	ns01-v6.energystar.gov.
+energystar.gov.	86400	IN	NS	ns02-v6.energystar.gov.
+energystar.gov.	86400	IN	NS	ns01-100.energystar.gov.
+energystar.gov.	86400	IN	NS	ns02-100.energystar.gov.
+energystar.gov.	3600	IN	DS	12226 5 1 439dd0ab6033c1a60bc6a529f32b86352868e061
+energystar.gov.	3600	IN	DS	12226 5 2 275b722da2f5643791e2cb74b21b69504adfe69d423e9c5c2076be07543f4325
+energystar.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. rcy/q7aPWg87FydoQVdyoF580yWQI0/VX1I8x1L5YNV1upnpaekRgilkSsWvjMZE9IQ2Hpu94mQ8sC+Ii9aw04xXiZt+cKw9C2x1mLKBUl18H8rE+Dh7/XfXILUcjUhNTG9l0ANDknuT45KlNNI2xnGL9bq4IY8xHYGSJKqrLvo=
+ns01-100.energystar.gov.	86400	IN	A	128.121.47.116
+ns01-v6.energystar.gov.	86400	IN	AAAA	2001:418:dc01:111:250:56ff:fe83:5e5d
+ns02-100.energystar.gov.	86400	IN	A	128.121.47.117
+ns02-v6.energystar.gov.	86400	IN	AAAA	2001:418:dc01:111:250:56ff:fe83:7471

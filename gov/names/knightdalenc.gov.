@@ -1,0 +1,4 @@
+96am3hf4q1m8n7qd56jq378ancr3e275.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. OdLXtds1T+QIRFT9hyero9zUxVNwBEuo0eP2kGElE5tcrQm9YO/fBtqdCDSBmtGaRqUDr2/vwJ4N0qdPoMZy4zENrvKN9Au7pGvj9IaIUujUMt7dJAYkDzgIX0CV7LqbZG7kEG/NDb0t4PA1IOJN170SEE1mZM2LPydlFiYDFpg=
+96am3hf4q1m8n7qd56jq378ancr3e275.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  96f3f0lvqniqa4fa93hufg7236ss4rrv NS 
+knightdalenc.gov.	86400	IN	NS	ncnoc.ncren.net.
+knightdalenc.gov.	86400	IN	NS	reggae.ncren.net.

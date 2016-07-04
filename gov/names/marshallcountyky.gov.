@@ -1,0 +1,7 @@
+bthcmvd1jl2e3mq6n67tol1d0094is7g.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. PJfL1jKCbJMKC6z7ux8DMku+8gbFCH07yACq+laAQEMq2l7rq88boCEC78J+jn11bgKUhDv44vhew3Q1ECbeDNx56qH6d/wb5GzXtURPMu/zlwC/GVIFFLrsofUksK7DCobIfYhVQeKWGa2KKqUtxn56vAPubMVEt2oBMj4ZyEc=
+bthcmvd1jl2e3mq6n67tol1d0094is7g.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bthm1j2f1m7jvoq73n2or25jr5blgnqk NS 
+marshallcountyky.gov.	86400	IN	NS	ns0.dnsmadeeasy.com.
+marshallcountyky.gov.	86400	IN	NS	ns1.dnsmadeeasy.com.
+marshallcountyky.gov.	86400	IN	NS	ns2.dnsmadeeasy.com.
+marshallcountyky.gov.	86400	IN	NS	ns3.dnsmadeeasy.com.
+marshallcountyky.gov.	86400	IN	NS	ns4.dnsmadeeasy.com.

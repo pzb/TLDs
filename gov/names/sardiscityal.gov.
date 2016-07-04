@@ -1,0 +1,4 @@
+ckmtuu7p39cfhjso0o6l88s7joujid0d.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. w0AcWRbi3NPet4pXFIR7GpvL3mu2JGEyLwk8fFt48dS9/Q5uAW2Q4OwGEKeEGVXaQaIVLSnJEAfbu3sDG2kckFUsmoQUf45fh48x4j+5F7l7aWL9xKmYFBaTm7eKqyqOGCwFodDEtmca9XNteYId8yexuuruvB1pC6mIq/PkXc0=
+ckmtuu7p39cfhjso0o6l88s7joujid0d.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ckroht41b5rels3iakkppb0vba6ua8u1 NS 
+sardiscityal.gov.	86400	IN	NS	ns1.secure-cluster.com.
+sardiscityal.gov.	86400	IN	NS	ns2.secure-cluster.com.

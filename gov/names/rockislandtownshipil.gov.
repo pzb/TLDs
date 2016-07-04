@@ -1,0 +1,5 @@
+96pedl6p040cp4b4ogusel3p5mveq1jh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. vBtyRrjdbjvUGU6NyqqD9rxtDM3YdKxvlJ2SkAmRuEqVhH37Y6C0oPiY2qudu7oVsSKjbytOqh7yywzcqcKxVS8YKe5z4BYW3lwGalvcfSobcJwDR4Z3oyy4kYSyCk4WhL4lBDz/6PuUk7KWvKxzMlSj5mXqSEWl0gbhmKWCq5A=
+96pedl6p040cp4b4ogusel3p5mveq1jh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  96rj588nklls0j1anhq7mrnjnji5jhj9 NS 
+rockislandtownshipil.gov.	86400	IN	NS	vili.augustana.edu.
+rockislandtownshipil.gov.	86400	IN	NS	freya.augustana.edu.
+rockislandtownshipil.gov.	86400	IN	NS	norse.augustana.edu.

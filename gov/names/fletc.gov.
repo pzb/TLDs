@@ -1,0 +1,12 @@
+fletc.gov.	86400	IN	NS	eur2.akam.net.
+fletc.gov.	86400	IN	NS	eur5.akam.net.
+fletc.gov.	86400	IN	NS	use2.akam.net.
+fletc.gov.	86400	IN	NS	use5.akam.net.
+fletc.gov.	86400	IN	NS	usw4.akam.net.
+fletc.gov.	86400	IN	NS	ns1-46.akam.net.
+fletc.gov.	86400	IN	NS	ns1-96.akam.net.
+fletc.gov.	3600	IN	DS	2156 8 1 61907171ed334d19e74d720b18d60f0fd8d8811e
+fletc.gov.	3600	IN	DS	2156 8 2 ec134db91281e8c5d07e8bcad6c80b28c5545edbce0c3b66e6151350397f1687
+fletc.gov.	3600	IN	DS	53725 8 1 6419b53f9cf83576165745d78b1a500f6229ed0b
+fletc.gov.	3600	IN	DS	53725 8 2 3a9e2bb103a65d8ee2d468df3561e1c1b66f19f9aa097d4f03618a96b9029bc7
+fletc.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. r8sLShKptp/9U+7Pm4xw49SSh7GZmLNCootH4QthycBb7sB1FYaOJOH3LA+bpbWdyJjDbOY44lJzLTJFPl0+QLVyIkiD0LxnhQLcMouMImd6RNEgebXKXILxYcmFraoDq4RikyYRMNvlomUaYvLYwZJs+MhL3ma99+7m6qkTqJE=

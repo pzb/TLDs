@@ -1,0 +1,6 @@
+9781tr9gjk1kvb1n8ltq9527lvtssqs8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. LWCWbUj22eeeQfNQhoiSvl/G2DQnq+pLSsTtwMImPITqQmRHWCllQ0jI15IF/BQ9kQjHxw+PICIH5UzGkW2bF7e0Hd7pcxw1kEG6FzZPGBHtniAUzwi1lVyTbSzAxONUCI4NuMrPCrwC/3KnEDTSubW7Oh0oVwUrFzYIGNmataw=
+9781tr9gjk1kvb1n8ltq9527lvtssqs8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  978jir19htejlfi7l584ll6bn88p97b9 NS 
+oaklandcountymi.gov.	86400	IN	NS	ns2.oaklandmi.com.
+oaklandcountymi.gov.	86400	IN	NS	ns4.oaklandmi.com.
+oaklandcountymi.gov.	86400	IN	NS	ns5.oaklandmi.com.
+oaklandcountymi.gov.	86400	IN	NS	ns6.oaklandmi.com.

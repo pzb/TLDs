@@ -1,0 +1,4 @@
+5ce0omakceok1frn31hkhf2apbt9fjk2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. VRnSFazyYUVI6G6zkuMKN6bNzjg5EamxZ+FF5BVrV2bVaDmcaI4BuBucTcaiArTRrPGqi2mWze/NAh1iJNRlmLAuz6UHkpq3+y13Um0F8/GdZaTCPxSfRMqs2k1kj0D1qsWdYGvR7pc9BhAxYKW4eArYa/gG4ytzm7EbgGn0fHQ=
+5ce0omakceok1frn31hkhf2apbt9fjk2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5cfftsegu8tiagsrquvv9js80vo2v6l7 NS 
+hastingsmn.gov.	86400	IN	NS	ns1.state.mn.us.
+hastingsmn.gov.	86400	IN	NS	ns2.state.mn.us.

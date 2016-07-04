@@ -1,0 +1,4 @@
+2okcbed1da8vp9jcbeec9v0beeb0jt4l.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ZMESfz5OJZj6TlqotEzRpFHIunuPcdra0oRulpwIxIIPUAv/D0LopgE9kAp/ywTkJHEO2spf91VFTxWyzuHnRKJFB1KmGPNu2c/QbBYy/ziYCh91Ygx70iIpoqp/2e7qORlZ/oGq1pnAX+gfrhhxCMEn6d5N5u78rdzfmfQjQj8=
+2okcbed1da8vp9jcbeec9v0beeb0jt4l.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  2oufbgcvmvi762dp6ldmkm730gdkdqqe NS 
+newportbeach-ca.gov.	86400	IN	NS	ns1.cityofnewportbeach.net.
+newportbeach-ca.gov.	86400	IN	NS	ns2.cityofnewportbeach.net.

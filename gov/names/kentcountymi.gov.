@@ -1,0 +1,6 @@
+7q25t3mabluthufcihn6166eclrbjdpk.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. h9m1JEBF6xATWyKL8v7D03G4wh8R7kWdigYd3KYvW9MkXs4KuPfUEmORpPl1oq/pYHA55Jx/Knr90+1Gn986pyFUGLTlv9XlPA0BIi7APdgyCdsu3pueYLngZW0i6MHJZ2T6Ntpx3BwBhfo/EFYYF0DBu72MMb7NB5tp7Dn2bdc=
+7q25t3mabluthufcihn6166eclrbjdpk.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7q4b83ivht6rei0qr063ih43pn8q2cm0 NS 
+kentcountymi.gov.	86400	IN	NS	dns1.kentcountymi.gov.
+kentcountymi.gov.	86400	IN	NS	pdns07.domaincontrol.com.
+kentcountymi.gov.	86400	IN	NS	pdns08.domaincontrol.com.
+dns1.kentcountymi.gov.	86400	IN	A	205.142.59.20

@@ -1,0 +1,4 @@
+fortsmithar.gov.	86400	IN	NS	ns4.zoneedit.com.
+fortsmithar.gov.	86400	IN	NS	ns7.zoneedit.com.
+uf1he1p51khrdbukri9tlsebhgnl99p8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. thDu5JTtkUJjlFSxQfPeP33K6XQ0gDSm6coqtSOCTJzBYjo/gkMBnsidSQ/kvLTdeXsifqS9pxxS+HRiUkwaIcobsk+r3eZ18P6657oto+MC7MFWb+q/pH0Mlq73FAGuIOvRn7QtDVq5vHZDNu+Vx1k1czKQZh/1R5sB5mHd4Po=
+uf1he1p51khrdbukri9tlsebhgnl99p8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  uf64848ak6b6q9lbpmfvmmru1f950ehj NS 

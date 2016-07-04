@@ -1,0 +1,6 @@
+lewiscountywa.gov.	86400	IN	NS	ns1.lewiscountywa.gov.
+lewiscountywa.gov.	86400	IN	NS	ns2.lewiscountywa.gov.
+ns1.lewiscountywa.gov.	86400	IN	A	209.34.142.130
+ns2.lewiscountywa.gov.	86400	IN	A	74.93.31.17
+uia3obdjog35vc1lupf6ihkql61228ih.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. XGFTOUJtyEw7STlmdPRiRtZ70UKDiSoo6VkrMIr80oY+2STNl34HXW4i8qd6gwW2m/3u/uWJWg4IQ2k7C4m0ckRO3chB6HZZsFr+mYAByrBQIlxJoHugyY+LH4QRBk1BkruY1/90GCeC5Tl0xbDV52U5PtDa9enp4Xuoov3Ajog=
+uia3obdjog35vc1lupf6ihkql61228ih.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  uihtsat0fp5n0gsmm2s9l5sugcg0krcd NS 

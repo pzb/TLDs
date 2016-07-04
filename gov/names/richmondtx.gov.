@@ -1,0 +1,4 @@
+dsi0fdmat9agosafjnrdn1lr2i1v3vpq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. nDZZ2ghBuTchrIcxNDwV7pJL0BIRP1tZ2EbnmRnrfBPDcBJE+Ag034pj5zB5sBeunnPj3f+2oJhDCfEAdvTyLohXTPPdicm2M4MFpZ5RVab44PZOU/h7BJ3T5e4mHjztRNvaq8J7GaITOHaRQWv+/mon/t6qaS3QU+l79katP88=
+dsi0fdmat9agosafjnrdn1lr2i1v3vpq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dspfk957a80dadt18hpebtvf0oss4c7j NS 
+richmondtx.gov.	86400	IN	NS	pdns07.domaincontrol.com.
+richmondtx.gov.	86400	IN	NS	pdns08.domaincontrol.com.

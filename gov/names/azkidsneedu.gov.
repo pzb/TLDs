@@ -1,0 +1,6 @@
+8cvumg7pcvf9upmbt0ljcm1ev2svaren.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. qnOzkFihDr2c+EAHW/JYkMYmdSEEaIFo4TS8qcpdHupGM6rLi4a/ZOlnFGqn0Wbn0FsNV35aJeluv6jN+pNmKrRIqJFvBJVJGpcF8qrxoIopxClSdazdNRqPGpl8u8Rn/qcOtDJEAlbh34zRsfnebRMP9NheIdIf+kJWAH+wwT8=
+8cvumg7pcvf9upmbt0ljcm1ev2svaren.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8ddkk7r3gdbtrt1kj2ac1oipao7s5vjk NS 
+dns1.azdes.gov.	86400	IN	A	207.108.136.98
+azkidsneedu.gov.	86400	IN	NS	dns1.azdes.gov.
+azkidsneedu.gov.	86400	IN	NS	pdns05.domaincontrol.com.
+azkidsneedu.gov.	86400	IN	NS	pdns06.domaincontrol.com.

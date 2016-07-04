@@ -1,0 +1,4 @@
+morgantonnc.gov.	86400	IN	NS	pdns07.domaincontrol.com.
+morgantonnc.gov.	86400	IN	NS	pdns08.domaincontrol.com.
+u4fhkqf7i81m21rmr1gs3ba93im41abe.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. evAZoYKfXOf28JaAsMFIicEqd/gdrEJhADnWapezK7Ur5fYEW8YrYhQFjJBMeUZK54dJ9Sj+Y3zcU1VbScBBFBNyxleIvCF24BubIJA2HHxU9zdTBbn6eCsC1GCc8gsCgdwjrwe4r8rAzlA3Ls/iBA+TDtSFK2K5us4GLDBzwWA=
+u4fhkqf7i81m21rmr1gs3ba93im41abe.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  u4fjkuqc738nvadpjpouvdpq7i0n9kmd NS 

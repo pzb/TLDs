@@ -1,0 +1,4 @@
+nevadaready.gov.	86400	IN	NS	ns1.state.nv.us.
+nevadaready.gov.	86400	IN	NS	ns2.state.nv.us.
+uhok1qu34574a2udrns21hsglb7m1g89.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. uq3gY2nFSQmzto0/nmBSoXrnuvGn59Gw5QpQUMrqxUhaWSEuWl6BjX347M3YTTzecVy7exmn0IzpfSCueH7UWgOsYCotJT/gHUyRVplJurDb8hFyz+DGUbPmIWqPzfrcecLWsGrI2/xnDy1LKFP2bZur1GWCBUlaxvTNc+zxms8=
+uhok1qu34574a2udrns21hsglb7m1g89.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ui1iiupv65mr7tvumtveh00rifo5g8j9 NS 

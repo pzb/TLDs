@@ -1,0 +1,4 @@
+burkittsville-md.gov.	86400	IN	NS	ns1.fatcow.com.
+burkittsville-md.gov.	86400	IN	NS	ns2.fatcow.com.
+e08blu4tr5i5rcjclvi3vh52c0f4v9ot.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. V404MkRwk3ZTxq8W0wgE1/1QFDs3fAudmdUl6lP8zBkSyEUonyciY4ZV1AuCSC7RF8SUdjbzrmDSp0YBX5zZHLR6XWCHJQaR0NgciBBJUgA5Jt5RO4BKKZNQBAfCdfQT34oR3KbkjatH7bkZpxhJfKWbe79N2TAqflEtB1qLBmw=
+e08blu4tr5i5rcjclvi3vh52c0f4v9ot.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  e0afvgaln3rs96oeg340sqvg5d9mbrj2 NS 

@@ -1,0 +1,4 @@
+dccourtsnews.gov.	86400	IN	NS	ns.above.net.
+dccourtsnews.gov.	86400	IN	NS	ns3.above.net.
+ru11bcn4qd1hm2lf6ftfe174fsscmpu0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. CGK0mZzoictOIqo5aj/HAXm47QX4YHPnyXs0i23dI9/UKn45rGYVg8ZXBVKkagSiwVxPmh0JAS9Wni0FWFI7lJt+NoyX7MyhHl8v9KdgqA4RYdlSn+la+4DaJmgffBoNAdqXJF585Km6+TLyJ0vj6BWAZfaGQde7JBuSZSZNgYw=
+ru11bcn4qd1hm2lf6ftfe174fsscmpu0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ru2guic7nvb8ebet1rlbn8hcten6b7nf NS 

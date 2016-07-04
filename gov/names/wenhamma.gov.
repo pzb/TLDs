@@ -1,0 +1,4 @@
+kfmadse83421kj5ngb3rkc3e382snusd.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. aSUuwCTQoSme4ex2Vn42zn3avCtqGik7I8m1ACeG6aPX1XHdtGoaFzVCpbyvAHEXfVv8MNP+UynpJbI+QgG8HKhAxxp8WzrGhM6yevZRtgCO+v/bTfPLQP/5792ca0CYskMybZi1NyY2daoF/3ellNN5yZ1d1K8qssUiMnqMwDo=
+kfmadse83421kj5ngb3rkc3e382snusd.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kgc6vdjn5ml3o6gj5f0gutf2jhdoflhd NS 
+wenhamma.gov.	86400	IN	NS	archer.nii.net.
+wenhamma.gov.	86400	IN	NS	warrior.nii.net.

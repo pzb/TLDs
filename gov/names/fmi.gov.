@@ -1,0 +1,15 @@
+fmi.gov.	86400	IN	NS	dns.gsa.gov.
+fmi.gov.	86400	IN	NS	dns2.gsa.gov.
+fmi.gov.	86400	IN	NS	dns3.gsa.gov.
+fmi.gov.	86400	IN	NS	dns4.gsa.gov.
+fmi.gov.	86400	IN	NS	dns5.gsa.gov.
+fmi.gov.	3600	IN	DS	55381 8 1 658b94de6beeca3f8d555a51f5b7051cd1acd0cf
+fmi.gov.	3600	IN	DS	55381 8 2 0968149f554f0ec566aa519d9e11a7d1fbdec5b774e022a505fc91a7c02a87cd
+fmi.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. oBH6ZPH5bI9/b8TUT0OoVnspn5umXiBuej/obdwDJBenXvcgkyxNjOlrF7FSdS19oVKOOFA9taNVbfBdf9OcpyX8sXTJ58504XDpa65ztlGHfR6XV8k0uW2RUGurimn0oOjyGMxxFjtnllVYKmf+geVAkA9/8BNllvSMW9BuvBQ=
+dns.gsa.gov.	86400	IN	A	159.142.136.198
+dns.gsa.gov.	86400	IN	AAAA	2620:0:150:280f::5
+dns2.gsa.gov.	86400	IN	A	159.142.150.68
+dns3.gsa.gov.	86400	IN	A	52.203.230.235
+dns4.gsa.gov.	86400	IN	A	159.142.69.84
+dns4.gsa.gov.	86400	IN	AAAA	2620:0:150:4013::5
+dns5.gsa.gov.	86400	IN	A	159.142.45.20

@@ -1,0 +1,6 @@
+chatham-ma.gov.	86400	IN	NS	ns1.p29.dynect.net.
+chatham-ma.gov.	86400	IN	NS	ns2.p29.dynect.net.
+chatham-ma.gov.	86400	IN	NS	ns3.p29.dynect.net.
+chatham-ma.gov.	86400	IN	NS	ns4.p29.dynect.net.
+km4oer840f0ulth80u68gkvng471v7tg.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. SVyasfxWYF66iU9fU189YJtivGoO0EU9JA7JDsYZp350Ej+W9jQdSolpQzvUmkldXsSjQKR4HM2myynXIoHopR35ZiV9eEUy/SM7eT3lfk49NNFpxnYfvupGOww6hsA6eAG0xKVF5ERCLx07I+P2fJiL1hU2THHKrUlG2avofYw=
+km4oer840f0ulth80u68gkvng471v7tg.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kmatfjrl17id0t5d8ecih9id7tu4k4n6 NS 

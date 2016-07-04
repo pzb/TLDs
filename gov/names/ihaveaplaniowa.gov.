@@ -1,0 +1,7 @@
+57e6evgh8dj675mru1d5a7nicfp5cmmu.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. MNyfWTNp2+CIhGzSHrApoczT9cu5TY7TsSSf3w3kSfzkbJeO6LCMzSLHG8uERcSgX6RaHhXbOpWHm0ZK3VH9zartfjGatV29Z0eVZUjyp7vyYGSDW/cn+7boqIN3n5l7FfOAcyuCv5pgmdOYaYmCZJUTs+pQ0lqgEISLUXBX0yQ=
+57e6evgh8dj675mru1d5a7nicfp5cmmu.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  57j9dt1ji2ssca5q2mun4l74rkhsl7ce NS 
+ihaveaplaniowa.gov.	86400	IN	NS	dns.iowaccess.org.
+ihaveaplaniowa.gov.	86400	IN	NS	ns1.iowa.gov.
+ihaveaplaniowa.gov.	86400	IN	NS	ns3.iowa.gov.
+ns1.iowa.gov.	86400	IN	A	165.206.254.145
+ns3.iowa.gov.	86400	IN	A	209.56.120.13

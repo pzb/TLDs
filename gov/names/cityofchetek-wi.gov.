@@ -1,0 +1,4 @@
+4om594i1b0q29km82mk1is09mno14gtn.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. FKJvVF1mNjCdJH+qmxuue6TGNGe64mMrfME5spleAU/IlGE9nUgXI97GetaY++JKMLTIezU9tjEmEMpLl74xbAdRx0nZUU+8ywYm5o8t76ulZGVWUij9Ltn2JppCOo1uA5FFi22pigGIKB2HtXky+R1HYci7AT+FyqE6csf7Fyk=
+4om594i1b0q29km82mk1is09mno14gtn.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4omsn49nn52fj00ub7tvnkl0mhe1on4r NS 
+cityofchetek-wi.gov.	86400	IN	NS	ns1.chibardun.net.
+cityofchetek-wi.gov.	86400	IN	NS	ns2.chibardun.net.

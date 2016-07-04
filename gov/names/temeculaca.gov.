@@ -1,0 +1,4 @@
+temeculaca.gov.	86400	IN	NS	dns1.cityoftemecula.org.
+temeculaca.gov.	86400	IN	NS	dns2.cityoftemecula.org.
+vagmjcnekqvechm0ed9ei7niace02mhm.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Amy/xNRTEDda72wTVgaaSZo4Q4GJPxHJ7w0A18qNSH7uVpMGaym4V48ePPG8x9D6IdQPRhKgWQxBqTeDX5WYI3ncuYLxMzWlHNldxlgl7oDAKDudsevyBO86WBIFVdha07WkZ3UgzpNkF6tPPIforosn1/+usJwf/I67AgJtv/A=
+vagmjcnekqvechm0ed9ei7niace02mhm.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vanlrm5o5m1q1g4ve4laoc0f9d9dddgh NS 

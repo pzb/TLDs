@@ -1,0 +1,7 @@
+i5j9jl0cdrsl4pmov67r9m7la75pbh81.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Ve1KuK93IxIMbm2ctpN1kvwRuHboujWTmbaSrxTPCKcHfcQGYw5GglF0RGq/aBN1AWDz1Wnxt0ym0L3y0Xzgu03K7RbX09H4WzANGGXF7CRJ6NS3vkThgzgE2HyV1Jpr9wTRpk28IfKF3EdUlNw1iSktPUg6oCbIlleK2jqvSkM=
+i5j9jl0cdrsl4pmov67r9m7la75pbh81.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  i5mtk3j229mv8pn22atc3gi8hq4tscs4 NS 
+iasimpleabate.gov.	86400	IN	NS	dns.iowaccess.org.
+iasimpleabate.gov.	86400	IN	NS	ns1.iowa.gov.
+iasimpleabate.gov.	86400	IN	NS	ns3.iowa.gov.
+ns1.iowa.gov.	86400	IN	A	165.206.254.145
+ns3.iowa.gov.	86400	IN	A	209.56.120.13

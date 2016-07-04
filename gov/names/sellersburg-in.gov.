@@ -1,0 +1,6 @@
+q39pdsim2r460kj06p9gk9r5hrrk51nj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. A+LIzrcqQFyTu+Fw/uloMZoqVDqenEiPbU4FZ/L+4n9PRMNJ2K7BV0JMugWM/Rsw7OdsIx37P9GHwcm2W97iPQwX1dRSr0/pmhnO3Jnfmg0JRKFr7CsdAnvjp63oJGz8nkiadngI51eSMHtgL0Qbh8S0cnCSWswbOAcbJWzC5k8=
+q39pdsim2r460kj06p9gk9r5hrrk51nj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  q3qu7nc3ugcvv20iic5aaefudq4pbjtc NS 
+sellersburg-in.gov.	86400	IN	NS	dns8.yournewdnsinfo.com.
+sellersburg-in.gov.	86400	IN	NS	dns16.yournewdnsinfo.com.
+sellersburg-in.gov.	86400	IN	NS	dns98.yournewdnsinfo.com.
+sellersburg-in.gov.	86400	IN	NS	dns99.yournewdnsinfo.com.

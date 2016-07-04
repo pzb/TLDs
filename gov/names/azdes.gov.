@@ -1,0 +1,6 @@
+azdes.gov.	86400	IN	NS	dns1.azdes.gov.
+azdes.gov.	86400	IN	NS	pdns05.domaincontrol.com.
+azdes.gov.	86400	IN	NS	pdns06.domaincontrol.com.
+dns1.azdes.gov.	86400	IN	A	207.108.136.98
+h7n2b9b953r8lh17ko4ne0ga23tgm3qp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. eyKw5vNfDtleSp9baesuefylfA+d6U2TcnqJqdhPCp96swBxlLGEiRWtGX7Rfe5Or0StrJ2EHakhwNFfRnw12t0mlykruLlJ3Z2nefgBSQ5VXJI0nRC7YAqshih/mhbl7LV4TyCPbFRdpm66QlF/30ij8JoCKVAZ4c77Idr30aw=
+h7n2b9b953r8lh17ko4ne0ga23tgm3qp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  h81l40802652mr8v6h0tim14ebf7tcp6 NS 

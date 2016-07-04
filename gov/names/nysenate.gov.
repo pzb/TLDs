@@ -1,0 +1,4 @@
+nysenate.gov.	86400	IN	NS	ns1.twtelecom.net.
+nysenate.gov.	86400	IN	NS	ns2.twtelecom.net.
+o97l89ml2ap96ppbrsgkm930mrpna7d9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. RKCWX28ZVMqmaJdLycHKAS0T6pW6ZQnuF5AnKiolDcxDAwKdFRUDxj8QXySVziuA6gGkyxsj+lbRIDkOxGKg+6QgDDrEv+e9eDWokbhxJ6QjfXsLCoDApSWwButdvivwN1fcqWB137mrSdzksuHj4inZRWlj+PdvyjnKurcpM1s=
+o97l89ml2ap96ppbrsgkm930mrpna7d9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  o9dqunai6dp9q4r8j240k2c959ksp92v NS 

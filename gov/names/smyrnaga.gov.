@@ -1,0 +1,4 @@
+9m63iv72sicm52o5b41n2e9pansfqqif.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. U1wr80/qAfUWPH7xJHd34/28rahgd4Mtm+KYWgHdrMhoyNpgb5ApBD9oDEkgLpPRVcHt5WQMX/UAfG0ChF0IEi8Z0WZvSQsaMOctLBbdiJFCmE5efIwZ0VIQp5SjUjdETLPJgZ6YGcIZ33XvNAVwOlimAhiJaDvuXu4gcR040OY=
+9m63iv72sicm52o5b41n2e9pansfqqif.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9m7pes6tuo5qeb6kmkq01i8l8972605u NS 
+smyrnaga.gov.	86400	IN	NS	pdns03.domaincontrol.com.
+smyrnaga.gov.	86400	IN	NS	pdns04.domaincontrol.com.

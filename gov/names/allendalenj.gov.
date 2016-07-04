@@ -1,0 +1,4 @@
+8qdndpmfju1gkogif7c8f2i8kfs68c5o.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Qc9Y28jv+zKGE6kijNzehXIarO/ilRpokxZD6h9v35qv40yPcnES2d+tQCrfUcWpRPMJ5wyrXEQCC5BwWkxTDuPcd1SRisBPBkMbc18bkRPZ8JJ18H3LGgcoupgqx7Wh10Blo4zJH9vkisAffq+3gJZVNUB5HqSZo40NYqZJ9xg=
+8qdndpmfju1gkogif7c8f2i8kfs68c5o.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8qukbevh17f0bpov4uos5kc9i1ib4mcd NS 
+allendalenj.gov.	86400	IN	NS	ns45.domaincontrol.com.
+allendalenj.gov.	86400	IN	NS	ns46.domaincontrol.com.

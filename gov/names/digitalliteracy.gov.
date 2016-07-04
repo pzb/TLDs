@@ -1,0 +1,7 @@
+digitalliteracy.gov.	86400	IN	NS	ns1.p12.dynect.net.
+digitalliteracy.gov.	86400	IN	NS	ns2.p12.dynect.net.
+digitalliteracy.gov.	86400	IN	NS	ns3.p12.dynect.net.
+digitalliteracy.gov.	86400	IN	NS	ns4.p12.dynect.net.
+digitalliteracy.gov.	3600	IN	DS	64642 5 1 d3b07b3d665c21835c3d5adac1bb981f5f4e37a8
+digitalliteracy.gov.	3600	IN	DS	64642 5 2 fb923b1b225816b46454abac9a8ce7c8af2056be159f2c272c7a0364895eb31b
+digitalliteracy.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. dio3eYl9RyTTch7/2abm+7F3PL5Tuo3f3VdSfrlOHuUABt2GOJfKYCF9TVLvfjdgwoqUwSiB0TNkCy47/wq3ekMPO86KRkGBpEsco26wL0PbksrafFGbpP/XerlFxi7yeBYrtKvFx0SEVFIXFDx3gCNGVXLgRTmgAKWKRClC4oM=

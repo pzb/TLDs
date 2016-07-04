@@ -1,0 +1,4 @@
+cityofnewulm-mn.gov.	86400	IN	NS	ns1.campaignoffice.com.
+cityofnewulm-mn.gov.	86400	IN	NS	ns2.campaignoffice.com.
+lseur4de9p4knng4an3pncm3befj2h2t.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. CUCqthidQuSJS5eT0W/mErVT5j/86RCT4OCNqUsI30cdVr87TB81rYFV01h68D6iupMJWFbI8uPKmUfMTQVZls+Lpwqp1uSXVJSNFM21ED4eH70FNeEeja6BLdmhZJUQmKdpqTEE1GKcZzYaOa+ci3z2TcDW8Y6RGeZ1OXalQGY=
+lseur4de9p4knng4an3pncm3befj2h2t.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  lsgdth7n68q51ujgm2dvvdu0r3mhnu5f NS 

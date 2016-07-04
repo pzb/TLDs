@@ -1,0 +1,9 @@
+snap.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+snap.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+snap.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+snap.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+snap.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+snap.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+snap.gov.	3600	IN	DS	40331 8 1 d1791cca1eb52d3f67b2c82ee48d7dc41dc9fd3a
+snap.gov.	3600	IN	DS	40331 8 2 36992aece3866e9f6a061044329f439aa946b13adef79d2f81448e2061f9fde3
+snap.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. jWT8fM7COAGYbaNBz2UU8hqsP0DxIoYFDbcFVC1r11xX+h44fpKAqkT4gC8ZIRhwGevk0utKc5h8VDDpeMKCI6rGa3fupR1JelaFzFjvWPl5Z/tbRaUawyEElMSgRQ1Xap9kan0BsQaM72k0jvfBbquOeD7X632b6gdUtCYPDSk=

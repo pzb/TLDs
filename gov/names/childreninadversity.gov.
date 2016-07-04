@@ -1,0 +1,11 @@
+childreninadversity.gov.	86400	IN	NS	ns1.terrenap.net.
+childreninadversity.gov.	86400	IN	NS	ns2.terrenap.net.
+childreninadversity.gov.	86400	IN	NS	ns05.usaid.gov.
+childreninadversity.gov.	86400	IN	NS	ns06.usaid.gov.
+childreninadversity.gov.	3600	IN	DS	49834 8 1 dd30ee7816d530abaff289a5cde1c7f608bd1858
+childreninadversity.gov.	3600	IN	DS	49834 8 2 fb461efcc9d2ace51a32aad95af85105a6ca14eff9918b56621b116b19d0c235
+childreninadversity.gov.	3600	IN	DS	56386 8 1 6888a3202e1b43170ac60cf892828aa5658a4c69
+childreninadversity.gov.	3600	IN	DS	56386 8 2 27a42d734ff3262e2cca892688a8c0ab0d18356dc6f6a7f3baa627e7dba8e345
+childreninadversity.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. FuMaFEoWNs9jdqG290jznMQCdXmaJ4IO2VijePIrJ9Qn9xtIyj7SS6fegWU8tDaO829/Dtdmhqb7D8yISWk4Z/iO7618vmSqczjESB0sVoKbXSMSpJJX4TTl4cuvqTB+zXEMoJQZ19pJZ/KwfYYghmen2eNpa949ManDmkSh/RE=
+ns05.usaid.gov.	86400	IN	A	12.14.13.231
+ns06.usaid.gov.	86400	IN	A	12.14.13.170

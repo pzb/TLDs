@@ -1,0 +1,6 @@
+eia.gov.	86400	IN	NS	phantom.eia.gov.
+eia.gov.	86400	IN	NS	redball.eia.gov.
+eia.gov.	3600	IN	DS	60883 5 1 8b9107890e98ef19e056302151530a9b62f43b0b
+eia.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. wD1S7kD6aN3CgG8iIooVH2Z5vNffRzPfDa0Qoa3vtzB7So5aqss7Yaba+RzdgyCp5Mil85e3BoZocEtqEMx9U/PzvwVhqhITaPO4mIEaVJXm5o48ssySL0nof6IzfuWLayw7FZWBjO0xV3b8KAHLzZGaC8RHVaZ+KPjsNEsTyK8=
+phantom.eia.gov.	86400	IN	A	205.254.135.9
+redball.eia.gov.	86400	IN	A	199.36.140.199

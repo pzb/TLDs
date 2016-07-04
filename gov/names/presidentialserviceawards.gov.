@@ -1,0 +1,7 @@
+dns01.cns.gov.	86400	IN	A	152.180.8.143
+dns02.cns.gov.	86400	IN	A	152.180.134.207
+presidentialserviceawards.gov.	86400	IN	NS	dns01.cns.gov.
+presidentialserviceawards.gov.	86400	IN	NS	dns02.cns.gov.
+presidentialserviceawards.gov.	3600	IN	DS	28398 7 1 a314180465ace1d00a94348df37f4ae899c997d3
+presidentialserviceawards.gov.	3600	IN	DS	28398 7 2 682a2a4343c0e65ee12c3a29cc3d655d6d894efa86c51d239f42d29b730cb20e
+presidentialserviceawards.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. FtQw7oXyVuqSHqwAaWqozm62Jwg6jOEW5Jz/6Yew4seRFAds5MhorSXCmhtN82X30fblY+ymHo4kdPw3ACC6qnjZT0YDmv8fawnvNhZdLiRpxHgQ+Dunt3n5tyUrhQGMuv4vNGdx/UxIN2JhsESakiXl8yHzjbIO/LdJvk8Aqj4=

@@ -1,0 +1,6 @@
+ai3g1fc2fguuqcg4jolo5f4mgrubkj4r.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. R2XQGEMoGwGOUkD6stdugydRLVDPVNoM3Cazip2LhvrwPv3DqJOFDfkH+85wXu4BbeKAwJCxnOOKvDy5V+C+ZJ5jWHMLSO7ndOG+t8R26dKONApW6IPR4G+bMmNJfgIhtcEXoZuJRrJ3mW2nG5O8j0STYQjQNrDjyX9bibOUFPQ=
+ai3g1fc2fguuqcg4jolo5f4mgrubkj4r.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  aia1mii4q5f1neur195pvufl8b6ul35n NS 
+alea.gov.	86400	IN	NS	ns1.alea.gov.
+alea.gov.	86400	IN	NS	ns2.alea.gov.
+ns1.alea.gov.	86400	IN	A	216.226.190.141
+ns2.alea.gov.	86400	IN	A	216.226.190.142

@@ -1,0 +1,9 @@
+moneyfactory.gov.	86400	IN	NS	ns1.treasury.gov.
+moneyfactory.gov.	86400	IN	NS	ns3.treasury.gov.
+moneyfactory.gov.	3600	IN	DS	15591 7 1 2882b6d430f61a1dd9e42071b73e7fd8be3adca4
+moneyfactory.gov.	3600	IN	DS	15591 7 2 ab916776418f908559707f9cff7ef8f2d219c00928ac920ad12dffefb1e97931
+moneyfactory.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. tsGsqJ11GHW93bxr4Vei2weA1WCfsSrwyuVLCiUkTtVxvztd8ebUYDUyX9nnBby4V5yAMXGmGV1EE5R6MBB3EIAUok6bA2/umUdw1ufpL9loxGRdhqoinogsZYwN6Xkcys+KVAQ/ZSM3Oembck8mA91EWcgy4W0K8109AjOCO0s=
+ns1.treasury.gov.	86400	IN	A	166.123.208.249
+ns1.treasury.gov.	86400	IN	AAAA	2610:108:4000:100a::249
+ns3.treasury.gov.	86400	IN	A	164.95.95.155
+ns3.treasury.gov.	86400	IN	AAAA	2610:108:3000:100a::155

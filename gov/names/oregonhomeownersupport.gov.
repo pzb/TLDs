@@ -1,0 +1,4 @@
+o527lpmd8l887ei5lv4t77tusiu0np1e.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hOLPm8PfHxpXEkFBA9ITvRZyH68w9+ADum8Y1C13+iocpYByXClXNcRV/7KtpHcT13MbAlhpwkwIDK3Y/1BFPnlmi8KCCmXXwxZfUG95Gf20JXFlTrRu/c0ltj62kIYAkxtCTwoV9nEFcgOtecGbxgyP5yVMcMYu8VzY3PlVExs=
+o527lpmd8l887ei5lv4t77tusiu0np1e.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  o56ts4b4kpbmbmv88ul0alk9dskc50lb NS 
+oregonhomeownersupport.gov.	86400	IN	NS	ns1.siteground329.com.
+oregonhomeownersupport.gov.	86400	IN	NS	ns2.siteground329.com.

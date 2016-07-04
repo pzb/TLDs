@@ -1,0 +1,4 @@
+covingtoncountyms.gov.	86400	IN	NS	mace.netdoor.com.
+covingtoncountyms.gov.	86400	IN	NS	pike.netdoor.com.
+rj1a3akqpeg57jl3ifl75msqut27hmc6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. HjrQuiwvGmLUQXkR12UmdPPViKJZj/0MAyH19Im05+hdsp9DRfunv2pyufxEUvIWxXn8n+FITN2W3xXreTk58e5t02FAorXIOzg7BTkmA+TudksO9x+9hDFALR90hkQDpKmIrY+avm8z727fMAs+g4jn1h0dbS7UygpmGUgceHM=
+rj1a3akqpeg57jl3ifl75msqut27hmc6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  rj6hiols4n8k9cirdrb1c1f0hofu2dos NS 

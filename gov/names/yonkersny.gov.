@@ -1,0 +1,6 @@
+ovbf1usm2c1oqc7ls9b3fdeo9jucnd0b.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. AIVLp9DVqUU+a91dfSWSQxq84exkilcihg1TFRlIBTKDirjXiH8XyamoU5kz6zbCJcVkrIzbcNjTroZasEu++Ogm5P0VQXif9BvuOmtUeURurWIws4oVSrjrB7lXaDysckmzhRlnfuJOyZYBJjHE0a0qnVdfA0t02HdODIpJuIk=
+ovbf1usm2c1oqc7ls9b3fdeo9jucnd0b.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  oveseuudrgapdkh22uo1im95bblrdcr3 NS 
+yonkersny.gov.	86400	IN	NS	coydns1.yonkersny.gov.
+yonkersny.gov.	86400	IN	NS	coydns2.yonkersny.gov.
+coydns1.yonkersny.gov.	86400	IN	A	69.74.54.30
+coydns2.yonkersny.gov.	86400	IN	A	69.74.54.17

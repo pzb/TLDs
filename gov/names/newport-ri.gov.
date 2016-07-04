@@ -1,0 +1,4 @@
+jtqm29uplh03tjsat34jukg01ufvtuab.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. L4wVU/9W68PvTJY7Su4rP0UL0Qgs/jlLe3erK7Mu2qUl6P3PXPIuJT8xzXGuXt2wpAwbNL9pxohNSqTfqqwk9u58GvWVGHCzswgnoOSK7G9JCFpTq8rKimrp21X/YPt17Z5u6VQug8IyGLWAiCX7ewoSh1W24vzQiYCWErPvUzw=
+jtqm29uplh03tjsat34jukg01ufvtuab.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jupcsa612p9qsp55k4j49ofdg5sh53in NS 
+newport-ri.gov.	86400	IN	NS	auth00.ns.uu.net.
+newport-ri.gov.	86400	IN	NS	auth100.ns.uu.net.

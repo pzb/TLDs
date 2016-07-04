@@ -1,0 +1,6 @@
+azpa.gov.	86400	IN	NS	ns-208.awsdns-26.com.
+azpa.gov.	86400	IN	NS	ns-978.awsdns-58.net.
+azpa.gov.	86400	IN	NS	ns-1064.awsdns-05.org.
+azpa.gov.	86400	IN	NS	ns-1857.awsdns-40.co.uk.
+f0lbcchgsv4hli24tefo00pg9f7dse16.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. nI0OPf7nQIwYlo5UOBc2RuewuEhp5WRTmKXTF4Pd+yE/qq8VZRGbKgZrTLXfTAmqkIMJJxy+wKbd1agdzCLhZwxEVo3r0tdSJJNifgYrYGTlAeZ7aMHeZ6R+BWt28zUuey/DdgoxE0xVLIfzV6b0b/5HvU0wXYmLmFJG6iM9++U=
+f0lbcchgsv4hli24tefo00pg9f7dse16.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  f0lccsl2hp7gtqcinrnol1ht97r517v5 NS 

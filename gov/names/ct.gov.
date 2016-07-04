@@ -1,0 +1,4 @@
+3bcj2u3b2jivhvakc6ju20ds4bnvkgi7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. JNR9f+88S4mnxZYzwXFDeDdGSYex27Qv08CUJK3ZyzZ0PVWb8Z3OMdjmpCDDFTNAv0t3QJ9NoyrLe6OLT7fjO+patJ3JBIaW3WCEVHu6uXprzFbLPHiwOLdiouY8aYimc4C3sH8XMIOeu4sL3UE31cih2EOm5B7VYiG11qJztdE=
+3bcj2u3b2jivhvakc6ju20ds4bnvkgi7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3bj7epea2iji7gjipkcvvrc1c4cqmu38 NS 
+ct.gov.	86400	IN	NS	info.das.state.ct.us.
+ct.gov.	86400	IN	NS	auth02.ns.uu.net.

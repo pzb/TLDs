@@ -1,0 +1,7 @@
+qatesttwai.gov.	86400	IN	NS	ns3.twai.gov.
+qatesttwai.gov.	86400	IN	NS	ns4.twai.gov.
+qatesttwai.gov.	3600	IN	DS	43888 7 1 4d983481726bdb66bbf633d42acc3bc4ea4be8ef
+qatesttwai.gov.	3600	IN	DS	43888 7 2 465e6a8a16030bc6492b4bb1c05ba5c571af54baa83bb3d835920fcf7fa68d4e
+qatesttwai.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. LgREV2N4nOa3H43IdYv1j+J9tj2s7EL4HYkc0P2vc6EtIj1XF43tw+sVEAQSputqgjbjfzJttgHk/H+EIohICZTT5tEriklxFn0vfWXT0w+3CjrXPlV/Nk29Mru7czH9yF98vylTOtAEYs0NltzDdrqCda+GylIO2tj3oCDP7co=
+ns3.twai.gov.	86400	IN	A	199.169.197.64
+ns4.twai.gov.	86400	IN	A	199.169.196.64

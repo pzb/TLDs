@@ -1,0 +1,4 @@
+u8dmmm3p55so4mpgii9r7pe52sej4cf0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. PrbDk27aeyRGQDxd43HFNvv3nU6629nXljaD0blSVPVgwGqy27lF0rW4//JNFEyNm1XQM6fMLFEgCZ2npwo4jRniOmIijBLdI4Yy6dVh4/NWD/Bkpt2G1rIztNfGhPRy4JL9QPCHZ6Nb1fGb7+1OEWxJiYx7dBz4N/b6saJ2aKE=
+u8dmmm3p55so4mpgii9r7pe52sej4cf0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  u8efp1it66d21k9j8phipqotq0rit378 NS 
+westminstermd.gov.	86400	IN	NS	dns1.civicplus.com.
+westminstermd.gov.	86400	IN	NS	dns2.civicplus.com.

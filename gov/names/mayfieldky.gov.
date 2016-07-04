@@ -1,0 +1,4 @@
+00o0pjfsmn8jtmtjtpvm30n3tud89h34.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. FJnw/p8JfqZJ9sUBhhseVkNWLcZaFeDZL/AngosLA0jtzHcuoFvWnUWvznZe9KMtXvFAIDJYjoVI61g1g4F7LArXYq97Fki2wCL60sGO5PiHz/C2ipZA+aghTluRi2phJcwRGOEDCik7FTjAUiZbgFmNfWe5tXAZMP6vCXucR5A=
+00o0pjfsmn8jtmtjtpvm30n3tud89h34.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  00pgtjsfa3lnvb7vqold3s78dfh9fsgv NS 
+mayfieldky.gov.	86400	IN	NS	dns.pair.com.
+mayfieldky.gov.	86400	IN	NS	ns8.ns0.com.

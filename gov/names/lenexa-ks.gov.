@@ -1,0 +1,6 @@
+lenexa-ks.gov.	86400	IN	NS	ns1.lenexaks.net.
+lenexa-ks.gov.	86400	IN	NS	ns2.lenexaks.net.
+lenexa-ks.gov.	86400	IN	NS	ns3.lenexaks.net.
+lenexa-ks.gov.	86400	IN	NS	ns4.lenexaks.net.
+sulqhbaoj83o4jskg6lk8ni30bn21m71.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. q3LeZCba8auN99+sN+nN0AWO6WB+S2n/AiQvomweAsGo0wye70pZZRSGgTE5rRJnHvoPPo2k2NNkwGSoHhOfbbe+SdHP6FMdZvvzRW7eUkc4j4Qx1j4lW/dxX+Y5FdBj00Y8wW1dbBH/TnmduCyNQc5AscIqsQBI2Wi+XFJV96s=
+sulqhbaoj83o4jskg6lk8ni30bn21m71.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  sv057br0e1ds04stlb6rqr890d2hh3m4 NS 

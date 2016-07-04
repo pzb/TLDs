@@ -1,0 +1,4 @@
+48sucgd22p2tdm12ltu2cv4a4hqtar86.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Zpxbc1gQcnCRBtxA8ThaEbdchQ6t1r1Jx80RBwdDzMRyaTkZpSmOLJ7ZxiYEXRjno4AvykG6DX/vvtxrQlQ+JftQ3GCDsXdFVfe19gUEAKrR9xjmnOXySyvrsEr2gQLNzynVm9ObtD4h4YSfzfBlhb4/N3GPESbVKmBMbPQNA2U=
+48sucgd22p2tdm12ltu2cv4a4hqtar86.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  48v0ggnpfq33dom9n96qsn1cka02i9td NS 
+townofchadbournnc.gov.	86400	IN	NS	ns0.xname.org.
+townofchadbournnc.gov.	86400	IN	NS	ns1.xname.org.

@@ -1,0 +1,6 @@
+3dpipmk96r084abr2s2qpdbj501thppb.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. g2e3rXPMygH1N62N1mSGLrBkTmMwPKPYJY0Vbt7zbWJvsgPhoB7A7VuSpIoUMb4wYFYxNIny5DTiSauZHHonGeqXypedoBEPd2pao0Nrj/FZZgzBAAFPhRR5lIF+Lzs24XS4xh3AfpzPnFDyIY26xeZyx6D7If/FnygtEujbKLI=
+3dpipmk96r084abr2s2qpdbj501thppb.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3dsbrnbn30e72902l4hikl9voki2rd45 NS 
+dns1.azdes.gov.	86400	IN	A	207.108.136.98
+azui.gov.	86400	IN	NS	dns1.azdes.gov.
+azui.gov.	86400	IN	NS	pdns05.domaincontrol.com.
+azui.gov.	86400	IN	NS	pdns06.domaincontrol.com.

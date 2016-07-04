@@ -1,0 +1,4 @@
+dekalbcountyga.gov.	86400	IN	NS	ns1.secure.net.
+dekalbcountyga.gov.	86400	IN	NS	ns2.secure.net.
+jkvp5vkhlma4bbh1gh0id1i65qrgacv1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. cm2NkrGDqmYmXk5XWhnyOiNJlbN/PZGhabVG8Lnap9m4oi3eljvUYuie/rYeaJ37NieEv1fgLLeAcjIU1VuYtIcRWZqJmvmXMwXI44ue2pLWqsKj2CBdetNFwCmEUFzXzQiLTYyCnf8V9AztCal5giYJayJ+2biE03RBDg3OrlA=
+jkvp5vkhlma4bbh1gh0id1i65qrgacv1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jl2tevn3e2npr5vh008fg3mmtqj0eip5 NS 

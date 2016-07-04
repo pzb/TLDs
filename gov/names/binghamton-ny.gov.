@@ -1,0 +1,5 @@
+171mr47qkqjdc2ifsue9vmve2ocdn8v7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. JBBtZ3FLy5+0JaMhxcJShCBBNpkETlM+2c846jX7nUtze5aRderlIRvMpgKWNuPNxnkoJsgXABGRNVcDtlGcYFeTT9nY6hm3jWPZLhP4iEc+7Wp02WQyo7nRqVJPVC26zKwkz06gsbsEgxUx9sjJ85danORbxnUGu2SYzF/vmsE=
+171mr47qkqjdc2ifsue9vmve2ocdn8v7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  175973lgd80li3fnb9v8k58385ktsjqj NS 
+binghamton-ny.gov.	86400	IN	NS	ns1.dreamhost.com.
+binghamton-ny.gov.	86400	IN	NS	ns2.dreamhost.com.
+binghamton-ny.gov.	86400	IN	NS	ns3.dreamhost.com.

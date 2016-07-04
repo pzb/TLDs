@@ -1,0 +1,4 @@
+b1j8cgh13obd8kqqm0mrf82gqj3pjfj2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. QK/nAN3Rdr/Fv06EtNf20m1LPQuSbnHTS9Rrpc4h2QslSTkpxJ2Teg2dIF1F4iln76W7f/+/rDI4svCj6UyMn36stu3qVX8UFdPVZiC7vWT1scxTvtPTWZPfdher4H4KOnPy931SrFfsHMxV9gMsSPzkTBU7RXm067qHXpjChLc=
+b1j8cgh13obd8kqqm0mrf82gqj3pjfj2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  b1uumspdttdr1ct09na0l7rhunj9h8ha NS 
+wallingfordct.gov.	86400	IN	NS	ns1.computercompany.net.
+wallingfordct.gov.	86400	IN	NS	ns2.computercompany.net.

@@ -1,0 +1,9 @@
+medicare.gov.	86400	IN	NS	a1-86.akam.net.
+medicare.gov.	86400	IN	NS	a3-66.akam.net.
+medicare.gov.	86400	IN	NS	a8-67.akam.net.
+medicare.gov.	86400	IN	NS	a10-67.akam.net.
+medicare.gov.	86400	IN	NS	a13-64.akam.net.
+medicare.gov.	86400	IN	NS	a24-65.akam.net.
+medicare.gov.	3600	IN	DS	7059 7 1 02a5dcb90c5a1bb2a6a0331b8315fbbc52bd48db
+medicare.gov.	3600	IN	DS	7059 7 2 f5e1cdcb06f4187cb2cb8b639fb6ed9d646c6da5eba02699bfcc8dde2510d17c
+medicare.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. nv5ByV0AAOrQ6f8EU6CRzvJjnICfkvS7/0G5FGE9J2ySVgGbfuhPurUo+VRTaiLpLCbtZGN8E4xvVK7YjtFKSCVFoWq6HUzGvgNwFXOi/y9jbpbDrEEKNlq8L5vHHFol8A0zK/TS7I2fyRaV4EQinCkp5TJOnLRWJ5sSiHV8+pk=

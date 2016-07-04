@@ -1,0 +1,5 @@
+08uvuka8cnkdn8k918qjgtk7c4gq7997.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. QvECWf/LOGH01Et12hU/mDGLxzZOzm24zODSLTqYjeGUqPduSZZ1gvPWUXsImItdq2VfQURbSIRsWF/hlPkOEEHaXTXPiO9LB4VC6p5LP+eIdevOxkGQ62hXvIbMITwTrc4LC1imO9RdotKx4lkjW8ayv4OrbOc82J9eJyJlT8I=
+08uvuka8cnkdn8k918qjgtk7c4gq7997.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  09bfdth7qclfr9lqb88ds9ddojftl76d NS 
+rivertonwy.gov.	86400	IN	NS	ns2.wyoming.com.
+rivertonwy.gov.	86400	IN	NS	ns3.wyoming.com.
+rivertonwy.gov.	86400	IN	NS	central.wyoming.com.

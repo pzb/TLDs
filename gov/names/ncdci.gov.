@@ -1,0 +1,7 @@
+ns1.nc.gov.	86400	IN	A	149.168.11.11
+ns2.nc.gov.	86400	IN	A	149.168.138.11
+ncdci.gov.	86400	IN	NS	ns.jus.state.nc.us.
+ncdci.gov.	86400	IN	NS	ns1.nc.gov.
+ncdci.gov.	86400	IN	NS	ns2.nc.gov.
+tqegrris19nna8ha1soa1vdchr8b5o7r.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. T1YBuOwKZzWE1V1L6mGfwIPptaLDkCPUdyz3QFfm0YeWOamNV9sV1hqPdVoCvdKXKa6wNAHgQETNZ6en5UKuDLYS9sJDn+rcfHpinC2/PuEesXHwOk7K9B/YDCT1/EtVYEl2hbwNtAM9OCx3E7p10Y3ZNo6rtSDonfAbbB6wHfc=
+tqegrris19nna8ha1soa1vdchr8b5o7r.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  tqt2vth1705gqsjlm5ek8tmia9ljtgf8 NS 

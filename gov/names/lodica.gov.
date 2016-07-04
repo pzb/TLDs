@@ -1,0 +1,6 @@
+lodins01.lodi.gov.	86400	IN	A	209.23.214.194
+lodins04.lodi.gov.	86400	IN	A	173.166.250.81
+lodica.gov.	86400	IN	NS	lodins01.lodi.gov.
+lodica.gov.	86400	IN	NS	lodins04.lodi.gov.
+va91sf34c8br2qmbk2luk1v76acgg9fs.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. FpOyIq2vhrkFftt6AVsVZ1mel2nJ8RcVgObHdGIcd1f5so2BIxpRS7sx1gyOwTy0lq7hCuOS6awxBkrnhzjPIfOoXprt8SwfI3YRBPVnS7ncKpLO4qMENwjJJ53+LP+GUO6d2XL2rU6ehJIR4bI8XhkflLa66Rrw2c+vXrwbu/E=
+va91sf34c8br2qmbk2luk1v76acgg9fs.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  va95hqpujd1j4j4o7oe3dak1dbl1ud8t NS 

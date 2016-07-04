@@ -1,0 +1,4 @@
+uekfnqkej1hvk623csfguh8p91irp2tc.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. KvoScbga+8kwIdk+KGrSOFHf7gGMJT8IxmrNgxdRhMFfgZA+UQMm4j+siI8B027uloBe5BXvooS6xQI+A76BM5SW0KhLk0AbPT/J8qxb7qumNzdPKCGBfmgCV1GZg8/2a44bAOg1NSljR1LAgF0WNk0u6bKzrlNwn9953kXf69E=
+uekfnqkej1hvk623csfguh8p91irp2tc.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ueq2gmgf1p2g8ji3uq2q4gg33rg409h4 NS 
+wilkinsburgpa.gov.	86400	IN	NS	ns3.inetu.net.
+wilkinsburgpa.gov.	86400	IN	NS	ns4.inetu.net.

@@ -1,0 +1,4 @@
+lyndeboroughnh.gov.	86400	IN	NS	ns1.infotech-maine.com.
+lyndeboroughnh.gov.	86400	IN	NS	ns2.infotech-maine.com.
+sfvvoh376ah3tv9ut5sa6soduk2a1hba.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. rSh/9cyeGNa2He5O7niR7G2rKMsCLKkNJaDvlB0SpQhgBg6GMZN56P6mIUaF2pqdrjypS0jNEZjWla5jlRqijCE1Y5Un9Zx9Ok9uUZ0JHVr6bS5RiHdV1obDm2trXig1WFnUBZqUypB8szAoW9/D0dUZfWHillY7XhYrZaBpeO0=
+sfvvoh376ah3tv9ut5sa6soduk2a1hba.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  sgg8basf69hurfaipuben7tcfaabm3u6 NS 

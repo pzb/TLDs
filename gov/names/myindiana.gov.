@@ -1,0 +1,5 @@
+myindiana.gov.	86400	IN	NS	ns1.ai.org.
+myindiana.gov.	86400	IN	NS	ns2.ai.org.
+myindiana.gov.	86400	IN	NS	washington.ind.net.
+nnnlfjqejjq4rdu9c4cg8oltla5q445k.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. esHq5XaBmI2WGY0GWH6KQNUYqTv/GZorNNqXmCDLnDFBwWYYLu6jW2r4XvXv8GDZv9UJEuigAKVSf1CTGQ/zRH8X2YaUjK66FYABrhP0A/Wro+mHghKkjVKROF4Je1G0jKoeqN4CUEGrlbPjBl4xtPISKlhEnDB8/+yl4Lya6vM=
+nnnlfjqejjq4rdu9c4cg8oltla5q445k.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  no248pmc3njqhlvuf26f4fh8pg72igt8 NS 

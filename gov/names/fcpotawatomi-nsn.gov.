@@ -1,0 +1,5 @@
+fcpotawatomi-nsn.gov.	86400	IN	NS	ns1.lanechange.net.
+fcpotawatomi-nsn.gov.	86400	IN	NS	ns2.lanechange.net.
+fcpotawatomi-nsn.gov.	86400	IN	NS	ns3.lanechange.net.
+ufqfb8fa03kmuc5cg9uasssnognt6gb9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. HNoUs8zrVKLHfY91ZfaLl6hb4zhVioai3wIEj2ZW4bPJYzXx+mnJyj8al2SCqGlfQhOf9Fa3j5OOYx7r5YjcJAHx4Aq/YXfpMhuDhCdDeKzTyenWd4AaZjHo/Yd2rEG2w7nEssi6BVNuGpFcheIYxutxXYzceU47tWBULl5kDio=
+ufqfb8fa03kmuc5cg9uasssnognt6gb9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ug9tb2l6dei8hmtkgssvd31qv6kg4co0 NS 

@@ -1,0 +1,9 @@
+nationalatlas.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+nationalatlas.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+nationalatlas.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+nationalatlas.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+nationalatlas.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+nationalatlas.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+nationalatlas.gov.	3600	IN	DS	1181 8 1 250f5efae1895372fabc9a37f45c013d110a4101
+nationalatlas.gov.	3600	IN	DS	1181 8 2 250046e5f67e767110179be75d6aa202cf2a9850686510519fda27508d9a862a
+nationalatlas.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. hyIs2wAlb7S8f6HRG9Omlu381ZMMWLcK9HQgSjV6k6JWSMtRBzO7PXMo3nZiTU/Jj+Z7yUj1YUQqIMtogCiYrysZqHWmXGGNr8/KlJvmMlKU2LGnvh8nAaxRzC9co07YidgpXSF0DxdgmmjENLtrNEijCFb89L3zYeDSkpY1F6I=

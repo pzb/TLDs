@@ -1,0 +1,4 @@
+e2vb9vqcon4s3584m437ronh9bat7p8b.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. pMeSbVzuHKrd3dqYYjg3cAH2hIvWfT03dWgfEbzgGipGSaubFy3WV/WV0rbHfmMGjO4yI3c7oJPOBJr2bdiddbrMxbMcSsUFrD8sOdypUYq0uTXzf841Ajs+jmhKa6fG5/wCBqjM7Z+im5HFf1kZuMyY3TbimlKfika3E3Xg9yo=
+e2vb9vqcon4s3584m437ronh9bat7p8b.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  e30ie84nri22vevdveclj2uns4pbdhaj NS 
+miamicountyohio.gov.	86400	IN	NS	pdns03.domaincontrol.com.
+miamicountyohio.gov.	86400	IN	NS	pdns04.domaincontrol.com.

@@ -1,0 +1,4 @@
+njsnap.gov.	86400	IN	NS	ns1.state.nj.us.
+njsnap.gov.	86400	IN	NS	ns2.state.nj.us.
+saal0bt3iba0ck1t3oun0rdk815ppthn.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. u6li/xDQQpM9oY5ATxfAJfKo8s2xASVz2GDvXjWbh0ddQRYwelf9n0NktWF8+vUeEJZqiqir9V8ZnhcZOPdKw4z7rI/G/1/Hxf/0RvDrSvqJbZZp3JZKa6KFq5kGPZ9fZv9bLRzZpmYQo/T1Al/SiTrQ3O05G1fjFcnebJkOQkY=
+saal0bt3iba0ck1t3oun0rdk815ppthn.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  sana423a028u3bucvum3cnb1tjbb7vnm NS 

@@ -1,0 +1,4 @@
+e11u1316gjtovb8fk73el828uuejme6h.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. NuREkJQr/0RO9be2Hkv5U+HpiGkN+bqMUwsN8rPADShhXXnKJ1M7b8mVy+fSvkGYHKb8HGd34KcRgDzfJGi1MrYLOBWtm1FrhRdLjpxInpoCS/NiJHmj2JZzKygU5W8tm+uzIENMaSCVbjgaS2C2Bs8/z4ZhEsB14wZVGumxzCs=
+e11u1316gjtovb8fk73el828uuejme6h.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  e16e4r7i2pukr2cpaqqa0hogut4n2ebb NS 
+lewistonmaine.gov.	86400	IN	NS	ns1.oxfordnetworks.net.
+lewistonmaine.gov.	86400	IN	NS	ns2.oxfordnetworks.net.

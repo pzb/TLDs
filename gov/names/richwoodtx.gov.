@@ -1,0 +1,4 @@
+qadkamb41n844c6g4v6des1neo4921o4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. S/JfnjLTkiIwFf7k6ZjXFi8NSVyRk3xshYEHIri1RMRXJxX8vyvv2QFWDaVz3dwxGmnBCN3edb+qwIMmq6vlFFOiyQMOTj9zXwyqQjjxAc9MtH25txfspeqzFmJtZECz7HQSsadiw629gnFc+09ztW6XKdrTo4MNABhi68zUVEQ=
+qadkamb41n844c6g4v6des1neo4921o4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qalc5c17ddt6b7cc8u7dv1mc9rilvmq7 NS 
+richwoodtx.gov.	86400	IN	NS	ns1.brazosweb.com.
+richwoodtx.gov.	86400	IN	NS	ns2.brazosweb.com.

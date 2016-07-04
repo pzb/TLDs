@@ -1,0 +1,8 @@
+em1bt6k4b16r55g0arvkct5nnt2tqbk9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. twWfZ1ZjEH3Mm8HgUKbem/tQxNzfkcZZVfeH8YBdztghzy+ERRV9JmxdFrnGyepfP8nTgcJ7rGd+k33xUaY5UnN8SMvplOO6XhHYFo1TQ1+OXBcSsPTqj0oDq9ASZ+U9JokuM7Whf/JzZQLswqGO+Ft3qYHCyVkzkTDzzvZ7ua8=
+em1bt6k4b16r55g0arvkct5nnt2tqbk9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  emevim07v6689ak05n4k2ildr23c0d60 NS 
+mecklenburgcountync.gov.	86400	IN	NS	mcdns1.mecklenburgcountync.gov.
+mecklenburgcountync.gov.	86400	IN	NS	mcdns2.mecklenburgcountync.gov.
+mecklenburgcountync.gov.	86400	IN	NS	mcdns3.mecklenburgcountync.gov.
+mcdns1.mecklenburgcountync.gov.	86400	IN	A	199.59.214.6
+mcdns2.mecklenburgcountync.gov.	86400	IN	A	199.59.214.7
+mcdns3.mecklenburgcountync.gov.	86400	IN	A	199.59.213.6

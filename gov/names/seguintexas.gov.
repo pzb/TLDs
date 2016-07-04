@@ -1,0 +1,6 @@
+jg3oksbugj6eh0flqspq2db01s5u16t0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. vWqTA3unorSEFacAOt68/mwzGsHjCYkp+fE2qEICFMR6abPikSkmddkHP8EN15+YeHNTTVMS/K6bkXZHtZ1hpqEtRdpZJ7cOaskl5bf+pHCZ1iSKno6+Z5hNC3i8ecd2WzsOvAQF5uN0cxBfOhhgNrY8Dtp3ZSwpcs54Zye6On8=
+jg3oksbugj6eh0flqspq2db01s5u16t0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jg48f5fqvvj3apn7vdcadddeagt24021 NS 
+seguintexas.gov.	86400	IN	NS	ns1.seguintexas.gov.
+seguintexas.gov.	86400	IN	NS	ns2.seguintexas.gov.
+ns1.seguintexas.gov.	86400	IN	A	24.153.244.163
+ns2.seguintexas.gov.	86400	IN	A	24.153.244.164

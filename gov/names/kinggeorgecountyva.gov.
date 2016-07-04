@@ -1,0 +1,6 @@
+kinggeorgecountyva.gov.	86400	IN	NS	cnsa.vita.virginia.gov.
+kinggeorgecountyva.gov.	86400	IN	NS	cnsb.vita.virginia.gov.
+v1t8e3h33uapgmb00dtgog84tl80dbm5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. TzSHsXoTr3fACwHbrEvGKXjHln/ekaZb8rBYvzKuL3qX2CMPKNsj4maodRpuZeTkAieiJ7zszHsXml+gXD26CCCkSe9eCkcJ84UcAs9OSf2w1NbHBzEYzWEx7+GnWuMSMbpeGXJ6Oc0mbqDgnv67/NKle7L0rJb27FPkxaysCI0=
+v1t8e3h33uapgmb00dtgog84tl80dbm5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  v22fh2itfv41e6alj04qbopak959j8kl NS 
+cnsa.vita.virginia.gov.	86400	IN	A	166.67.65.169
+cnsb.vita.virginia.gov.	86400	IN	A	166.67.65.170

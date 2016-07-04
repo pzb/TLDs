@@ -1,0 +1,4 @@
+12tdtliqbum754jm01us1k3so1qvaies.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. acYkoz6FAvL28aAisy6VrDL7RcxhaOnTzejb3MfC5K+7G8eQeAo54MDCn3dex+JM1qbNdyR0OluzWbzeY0GfUx4l29+7WAtAat/oMbtim0oUZAQNCXmPQyNTTxb0ouWL/9ESE91x34CvNVxB85uyuAiRT/wwYdB0RMigxqdi4ek=
+12tdtliqbum754jm01us1k3so1qvaies.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  135bl7eil9p2iva7pht81fl4kr685brs NS 
+cityofbentonharbormi.gov.	86400	IN	NS	ns29.domaincontrol.com.
+cityofbentonharbormi.gov.	86400	IN	NS	ns30.domaincontrol.com.

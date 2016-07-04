@@ -1,0 +1,6 @@
+techtrack.gov.	86400	IN	NS	colts.techtrack.gov.
+techtrack.gov.	86400	IN	NS	lions.techtrack.gov.
+techtrack.gov.	3600	IN	DS	19960 8 2 5def7992a0e47947959c8f5e5e99bd0a9f94dc9713c721f1c7ae041304f78513
+techtrack.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. gy3cujHmhzY9tKiV/0covrZdZsyiuWVPLr3Fumx+OMoPQlEwC+kmdIp22fAMVe+NGxsTmLrntaiDJiFlnafwPMNN6a+UOWdZOib0XUV1un9YL4vcLrwst4H0RHLSD4FN5AgtP8y+hzbzyYB70hCEKLqmhMwv4kTRH6sja4v+hkI=
+colts.techtrack.gov.	86400	IN	A	65.222.223.153
+lions.techtrack.gov.	86400	IN	A	65.222.147.123

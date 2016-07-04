@@ -1,0 +1,7 @@
+nicsezcheckfbi.gov.	86400	IN	NS	ns1.nicsezcheckfbi.gov.
+nicsezcheckfbi.gov.	86400	IN	NS	ns2.nicsezcheckfbi.gov.
+nicsezcheckfbi.gov.	3600	IN	DS	23251 8 1 ebaf215302bbf4712cc40967511befa117e4b43b
+nicsezcheckfbi.gov.	3600	IN	DS	23251 8 2 32e26f03dfa87fbebc404a82c203d30c0e3a144dcc9628a5a94eba68519358e4
+nicsezcheckfbi.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. huNNX9UfVC33M7nSUOoe7jRsxdHuFmS6jMsvtorV4xSEqrCC3/hdsUY5TWOHP3oKehBKFb11I18tfESXIbC73m53NAfbHngju4AKB/HAR5FoJf2t5+UuF3MYlWRhzhkf2IiOVmYFG1eDdy42jf+h+YKzrC8ZK5lnX2BzpPI3v6U=
+ns1.nicsezcheckfbi.gov.	86400	IN	A	153.31.113.139
+ns2.nicsezcheckfbi.gov.	86400	IN	A	153.31.192.139

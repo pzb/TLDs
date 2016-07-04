@@ -1,0 +1,12 @@
+coastalamerica.gov.	86400	IN	NS	ns-e.noaa.gov.
+coastalamerica.gov.	86400	IN	NS	ns-mw.noaa.gov.
+coastalamerica.gov.	86400	IN	NS	ns-nw.noaa.gov.
+coastalamerica.gov.	3600	IN	DS	38773 5 1 3e9d38d5e264dc0cf81b354399516524dc537310
+coastalamerica.gov.	3600	IN	DS	38773 5 2 9bafef81ca9b95557bf8fbdd505e38c32742df912aed4bf5e1358355082cf443
+coastalamerica.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. peguoeF+E66I/6+xSC2lxjlydxCecZpKLtooBlVhxrpdNEWeH/lrOcyMXDDm+sqPpzqML+Y0bX1snA3tYALsPH4ZTxkSxT/Qbfr1QknURsHZGYGwu9fXpLdwp0stCDYvznTmmO5RmJ4RGza2u5SnSCqjdT1zGzSgxUAYL5pMZrE=
+ns-e.noaa.gov.	86400	IN	A	140.90.33.237
+ns-e.noaa.gov.	86400	IN	AAAA	2610:20:8000:8c00::237
+ns-mw.noaa.gov.	86400	IN	A	140.172.17.237
+ns-mw.noaa.gov.	86400	IN	AAAA	2610:20:8800:8c00::237
+ns-nw.noaa.gov.	86400	IN	A	161.55.32.2
+ns-nw.noaa.gov.	86400	IN	AAAA	2610:20:8c00:8c00::2

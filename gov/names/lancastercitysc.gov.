@@ -1,0 +1,5 @@
+5sv4i0rdn65v96knu1odg0mhb3h9fjm0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. CvAH81b8ZUquqJwHKSOCZ/dtsgvet9coIaJ7Y8tyXMT7OboLkdrw7g2B7FiOvDl7g7AB8Gr7ti5Sf3dtk82YOR/69fIC9nlIRXSEc0VmRHcjIIA8Svmb3C9/9vf2iD5tv8ofDAvHlMUm5m67GpQEmn7VYgBDmWfywBIutOGYNT8=
+5sv4i0rdn65v96knu1odg0mhb3h9fjm0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5t3em2m6h9go92tte5ckhg58pgvbbo6v NS 
+lancastercitysc.gov.	86400	IN	NS	dns1.vc3.com.
+lancastercitysc.gov.	86400	IN	NS	dns2.vc3.com.
+lancastercitysc.gov.	86400	IN	NS	dns3.vc3.com.

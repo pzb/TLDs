@@ -1,0 +1,6 @@
+templetx.gov.	86400	IN	NS	publicdns1.templetx.gov.
+templetx.gov.	86400	IN	NS	publicdns2.templetx.gov.
+publicdns1.templetx.gov.	86400	IN	A	67.79.126.62
+publicdns2.templetx.gov.	86400	IN	A	71.40.236.150
+ti3fjpcme0q2vb0n296ds9gjoiuencef.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. MXOVZefV5d2NbcCC+HYX1/ePcjAfp+Rz/vuOQNjiSeyyOdR7jzRBmmAJim8QHP2QJ1EWlrKWXcLgNQ+In11STnZ7zexHBSnm/p9TSdIxKRXX9pPv8DhnmE24j11mpDx8LhSTZSoikt1OhN8BXITMneQGOMtPGZRS+s0FzA9ormw=
+ti3fjpcme0q2vb0n296ds9gjoiuencef.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ti5j3qqqbumjnjlfbomq3vjqkqi1iiln NS 

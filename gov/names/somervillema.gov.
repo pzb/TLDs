@@ -1,0 +1,4 @@
+somervillema.gov.	86400	IN	NS	dns1.somerville.ma.us.
+somervillema.gov.	86400	IN	NS	dns2.somerville.ma.us.
+vgb425v3p4fac1l9g7j2tl23ha3n3q66.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. SxQ6sLTpXXZqKTC9io6XfhvDsZRlQfqv8HehNLeSWxaMZ5lKr2S2hK96pWF2wRFyOi8SOdqqKWd2GBUQeOCLU3RBo8PZSAvLiLxLzeb2EycZ4xFTJ48qUk+9H2hoKc+jn5PPlc8/feaB+d7+gpuJHJBzDzLbZQTuIXyGU7fi9T0=
+vgb425v3p4fac1l9g7j2tl23ha3n3q66.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vgb9a4ec3cf3c1ic9kbsa4155m0ua0nc NS 

@@ -1,0 +1,6 @@
+7sctk68si9q275maskm2tdvkcvn5ife9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. M03LCh4PKz/DGC1pmIJC7g2N3dKs48h5RzapQlEfWJVUSnCtaxI4LVGBUp1EifHgDvkMerGkmpXJXsfv2Jl13nto3Y8++POuQU/eNkaFYMo6V535i5q2bNc+o+DDQav8ZAwlKXbw4IjkT9r+IbJXPgSF5J/g1fcgNW1ow2vG5us=
+7sctk68si9q275maskm2tdvkcvn5ife9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7so5htci79omhgvjna517g7i1u5hvldh NS 
+azboec.gov.	86400	IN	NS	ns-323.awsdns-40.com.
+azboec.gov.	86400	IN	NS	ns-559.awsdns-05.net.
+azboec.gov.	86400	IN	NS	ns-1170.awsdns-18.org.
+azboec.gov.	86400	IN	NS	ns-1973.awsdns-54.co.uk.

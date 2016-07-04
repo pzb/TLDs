@@ -1,0 +1,4 @@
+1jfcu0o3ti13tm5iva45nbkoe8ftdttd.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. kBbZuYbEq1PExKs6SjxbY1paaabkcEzSd9eMkF/IWcNPVZN6FPO8HiUO214BvkIe1Mf9ENTkottKMh4Xd6vN9RuXaulY/HxoQcQjuJBVngnnT5/sg4Hu9Kjt1NsJhXIMwtgLIE+D1dOPuIBj9F9BO9Dl1DZUIL9iyXmEmvO1Sy4=
+1jfcu0o3ti13tm5iva45nbkoe8ftdttd.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1jhsgll3slevssbb5am9p2b0v5it8nr6 NS 
+spiritlakeid.gov.	86400	IN	NS	ns33.domaincontrol.com.
+spiritlakeid.gov.	86400	IN	NS	ns34.domaincontrol.com.

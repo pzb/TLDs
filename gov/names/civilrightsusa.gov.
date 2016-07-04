@@ -1,0 +1,5 @@
+civilrightsusa.gov.	86400	IN	NS	sauthns1.qwest.net.
+civilrightsusa.gov.	86400	IN	NS	sauthns2.qwest.net.
+civilrightsusa.gov.	3600	IN	DS	21594 7 1 1cacfd666a4b5b4a6b890e9cf53aeb89ebec332b
+civilrightsusa.gov.	3600	IN	DS	21594 7 2 730f5db9f041ace105bf178dbb8cd68506999e02d24b03007be95ad91b686ca4
+civilrightsusa.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. h9rwdClHLV2mB/dY0l7YLrazl/nms7npCs/dQBHySFE5MtuXnzkg1tJP6yCQQ1adV67+F29npfCdKtsHka0nsyBn8J5YYzdcSHmlo63SY3L7iOKRXM43YmEKF2pbF3/p2KW0ct5tHtwCIGxfVpjrfcgLBoQPQaTRBLUFp0B7DO0=

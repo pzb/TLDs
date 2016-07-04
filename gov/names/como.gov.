@@ -1,0 +1,4 @@
+4dkumujahvefegp7smcrd8treskoi5b9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. FVb+0tE8MBug/af2lKhcoT1xs3XHgNPgA9rQAajJmab1zJe3Uzd0elouoq7ciQvJo02VK7CNZCoKjblPwka4D9czngOyNW9XHp0NUewMraY7tzPwYVZAsk31gH5PSsdLM2JDeE5eBIiIcyuwRRLR7ge5td24GU0IzKdvvv2KK+Y=
+4dkumujahvefegp7smcrd8treskoi5b9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4dnq6chu3tni85bihtcvoc1mbo16hh0s NS 
+como.gov.	86400	IN	NS	ns1.gocolumbiamo.com.
+como.gov.	86400	IN	NS	ns2.gocolumbiamo.com.

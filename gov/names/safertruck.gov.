@@ -1,0 +1,9 @@
+edns1.dot.gov.	86400	IN	A	204.68.194.100
+edns2.dot.gov.	86400	IN	A	204.68.194.200
+edns3.dot.gov.	86400	IN	A	204.68.195.200
+safertruck.gov.	86400	IN	NS	edns1.dot.gov.
+safertruck.gov.	86400	IN	NS	edns2.dot.gov.
+safertruck.gov.	86400	IN	NS	edns3.dot.gov.
+safertruck.gov.	3600	IN	DS	25849 8 1 b9eaf131dfb05a9be1f1df87c8e86bf290078adf
+safertruck.gov.	3600	IN	DS	25849 8 2 4d46624017f6af8e6c12d834b7d1e2eae1ded211e302c645d6c84e4a22c260e6
+safertruck.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. OtMS3Z38vh7zs+Uj3a79OdAaHEj3VwolAXPQKbBgXEyPiQOsnXBb3OsEsW2jXZJbgaiiq3SACrUeLvdMBrcTD70T2jSLlw7p18p5Vwn2gqEzHJttOYG+P6b+H+fAp0lgHZVsfoybzzD8aS757ja+4qZV5+oyTdOlTXBKHwJGi6c=

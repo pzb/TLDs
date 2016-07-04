@@ -1,0 +1,4 @@
+5g1p30vfn295u7d2776ckblirvn5dkoq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. uf6doMjlaz28+wo+8sq3CAdJE46iL24Ccvm28LXgCVXA6/T1hpvkkc+EN7bMBV39c8mmBCog0fgwKWzf6OGagUhm8+wLJWb+XG9PCDRsa0W5N32kL7WtqMsrcYssVXaqSIg7i22Rxq4GvSrbrWmBBp5JrP/vKaRCdWmiYc7lJhM=
+5g1p30vfn295u7d2776ckblirvn5dkoq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5g233hhstlad2ma1cn590j6vhkl5fhsq NS 
+loganco.gov.	86400	IN	NS	ns1.kci.net.
+loganco.gov.	86400	IN	NS	ns2.kci.net.

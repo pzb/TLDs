@@ -1,0 +1,4 @@
+rm1hhtp5ofm7p4at5tn3lk8m7m8uid9s.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. UKvOHmqma+rC3YFgpLmnvwCdbc5aKuikZ5dDtWE/YXWzSnxhqg22Zl3LUDo9RdrP7CZ4Sv5j8wSEgrhYferj+vR7I+9vXunKoAi6UbYlcD/tyBSj+2LvTOYV+RI16gP3HKXSVeAkiOJy3OLnyH7M4tNkiVt/JTkw80ojCBFEFts=
+rm1hhtp5ofm7p4at5tn3lk8m7m8uid9s.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  rmt1li43tmpv1ga5bq5oqnhdhvrfl8qo NS 
+springfieldohio.gov.	86400	IN	NS	ns3.fuse.net.
+springfieldohio.gov.	86400	IN	NS	ns4.fuse.net.

@@ -1,0 +1,6 @@
+alabamaageline.gov.	86400	IN	NS	edns1.state.al.us.
+alabamaageline.gov.	86400	IN	NS	edns2.state.al.us.
+alabamaageline.gov.	86400	IN	NS	edns3.state.al.us.
+alabamaageline.gov.	86400	IN	NS	edns4.state.al.us.
+l7hpht6fnictt69mtkthlnrf6nk0gr0u.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. UuWMBpvGNl/aoewTurT6Uizugldxhq/+RGNIWgf7Rmz6+pRUg20eCqnIXygjoRvP0M6Wn8pvW2+buWfsMiHfOwh+8g22kjt9mpsZEap7JXnWKcGuW7PFF1oT8ZGmsZN1tlno58EECGv5K2WsQNfwfZfGuJINORkqhIxeImuns4M=
+l7hpht6fnictt69mtkthlnrf6nk0gr0u.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  l7omv05tq84dj04lihilktcifavav2c3 NS 

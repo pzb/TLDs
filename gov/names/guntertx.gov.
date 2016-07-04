@@ -1,0 +1,4 @@
+guntertx.gov.	86400	IN	NS	ns51.worldnic.com.
+guntertx.gov.	86400	IN	NS	ns52.worldnic.com.
+t8i29sfm24lnbtih9ijihr2ama0h3d1s.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ulUDrT+Y4ae096D/zaqB2UKtikoDghW7zzT7UwPuzmAgvDCZSePOKDS1dvRKwPj5gOnzLvB1RqP3s7Rz8v27kGbhNOMCgZm+DVedPKZzQBqCdlPQ7QQiZB++l4hQz4crOvcgUOO0gH5/fy7ovJAuh5jGGd7prFmuoZ95TBbU6Ig=
+t8i29sfm24lnbtih9ijihr2ama0h3d1s.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  t8rc45po7stulmgvlhjjrn7s6qebc4nk NS 

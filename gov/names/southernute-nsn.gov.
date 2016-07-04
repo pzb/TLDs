@@ -1,0 +1,4 @@
+6u6hs2iqkg7agn6kcgalopr6nrdq6j12.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. j9PeQZY5NprFy8F38NxwLWxbenyvaCzACBfhCex33AwH2sRGj95VTb75Bxnr79smOeM6i0LKTtVGiDF0Y5VaWQSpS2agQvXEujzVrVjpe/iPfexjYA69Qw1AHwdeEhsqdb4zkaBH1HvKTGBiXnq1b9mvRV6vDK4+3elZRiMpqpI=
+6u6hs2iqkg7agn6kcgalopr6nrdq6j12.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6ugn62g6afbvfpk7n932re40emh6kbtb NS 
+southernute-nsn.gov.	86400	IN	NS	ns1.southern-ute.nsn.us.
+southernute-nsn.gov.	86400	IN	NS	ns2.southern-ute.nsn.us.

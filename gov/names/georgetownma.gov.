@@ -1,0 +1,4 @@
+georgetownma.gov.	86400	IN	NS	ns1.infotech-maine.com.
+georgetownma.gov.	86400	IN	NS	ns2.infotech-maine.com.
+rjop18rueprheriidgbtigdpai741f2n.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. WyTdLu3CASwFBknrQzmQiH9ICuuWtP2dV5XbyxaWfS4Zxv5GMDcJfTpLnHUrvKD/aFp7LRbLhn1DBhsOtpxu7E1wCGfot7FEWJ2jqgKORc5lcCjDnBvLPRfC32dE+05jDosCqGhaoL7T7l+733AxBRcqqStvU6jE7vh58Wu1d/o=
+rjop18rueprheriidgbtigdpai741f2n.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  rk35s49vhc40avbk6k75u9bc2i2smhj9 NS 

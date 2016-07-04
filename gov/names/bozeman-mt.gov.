@@ -1,0 +1,4 @@
+bozeman-mt.gov.	86400	IN	NS	dns1.bozeman.net.
+bozeman-mt.gov.	86400	IN	NS	dns2.bozeman.net.
+mrojjdbpoohqkvqc9t0o6hprim42q7t2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. rXephP1Ovfox4h3JYo+O73swbLn6d1sd6YOct6jinmczZl8SwNfsyPgthlhguMSWQT0nUUGRe3UAyZMIU/rHFx4M6/ni1G1SGVj36J0hDfKrf0UH+QmGKIc0IWsnuqwL0ryzu3TGk+4q2rHPdetkw5mBtaHg1ziHy6NdTJnlnk0=
+mrojjdbpoohqkvqc9t0o6hprim42q7t2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ms6csfohurth87r5l0673utdrtcjtfuv NS 

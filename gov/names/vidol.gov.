@@ -1,0 +1,4 @@
+nsf142f4orjjeg8ghbe59098rvt7utus.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fmEzysk5GYde4+7BFdCUfXAqa4SYowPmCHReVJkirOGudlpM7K7CKojE3cdTtXXEoLklu6JpTaycqoUrcNA2PtCa6qAGvbCvGcsk+S9iToOCMWWHzIQ4kHodD8QKHiBQ+8pbnbu5ZxfJlMP0qNVvgeBCIQLM6rMSoBjYKjgf5DQ=
+nsf142f4orjjeg8ghbe59098rvt7utus.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  nssjgfcshnbcpj95b895nj9qtg8rrqdj NS 
+vidol.gov.	86400	IN	NS	ns1.ipower.com.
+vidol.gov.	86400	IN	NS	ns2.ipower.com.

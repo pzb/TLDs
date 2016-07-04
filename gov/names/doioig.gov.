@@ -1,0 +1,9 @@
+doioig.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+doioig.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+doioig.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+doioig.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+doioig.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+doioig.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+doioig.gov.	3600	IN	DS	50519 8 1 97fdddcc70c412ac2d2bc7997e225e72320a2b96
+doioig.gov.	3600	IN	DS	50519 8 2 9bf150c53a9630d98262eb5118e273f924178f3bc7b64cb34016d4a737caecc5
+doioig.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ozISIxAZTsPR6M4kaMRL8iqZbXxiQwkt6UAPvUwRi7xIoRL6Mb24sa/oFFQ4GZzYDNMcUGvTzrvdWQLTaTfEAu73KFv384VZ2tcLNgY7uC0p/mKF7122GWZNvwx3AaMwsIa6vSKHCMzDAYzJ6fYFFOW+lVWHlDyrx8XRq49y3FY=

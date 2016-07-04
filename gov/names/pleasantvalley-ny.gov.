@@ -1,0 +1,4 @@
+ndd8vcj0jrt2m9s14e8ifjsddbpu4ipu.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. f1TX65yT7aNQrYet+eaHH1H7y09kvr4HaSTlI2H0JqnByEbHukGMNbL9GtoyvmdfhmSiTagikGNtC5jmDeFrpMfjtSH+fEtV8nLJd1wB8HFCbUMnBKOA9ygMJr3zp9By+1YfStudvzaq42BL21Qm0sL3HGBAJvOlSvPNHgAaczQ=
+ndd8vcj0jrt2m9s14e8ifjsddbpu4ipu.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ndfdotfhn4sant5a9ii4lnpqaagtuogi NS 
+pleasantvalley-ny.gov.	86400	IN	NS	mns01.domaincontrol.com.
+pleasantvalley-ny.gov.	86400	IN	NS	mns02.domaincontrol.com.

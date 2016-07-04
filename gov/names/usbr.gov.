@@ -1,0 +1,9 @@
+usbr.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+usbr.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+usbr.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+usbr.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+usbr.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+usbr.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+usbr.gov.	3600	IN	DS	36785 8 1 de63b17e6d06157c7951b98fed1c8a592a4b6294
+usbr.gov.	3600	IN	DS	36785 8 2 c911ba39edeb83dfc8c72d4e32e0d9bf30ad22ab0a030bd5c6ec0e9e47a3cea4
+usbr.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. WN6zKSoFK1B+qQROrpnLJawxGq4NMQIGQoRJtGvladMKIu1QKGyPnuYP/n5k5djuuCBXGzE39d+FuVB25ThJ3bTHBueUvQ/eIxyH86gpJv/dAgGh/Et0qQ6gLzgF40FYEYdBNrl5/OJj6OSro+CBIKJ9C17MvEs8v655JjXPgpc=

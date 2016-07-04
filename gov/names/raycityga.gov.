@@ -1,0 +1,4 @@
+pfi6kdmq6ikgkspp9lk5qggu1ovulcsq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hhDfOKileHVgUthnlm9xDyWKHlTKByQmlOnCOYJ0F9St8/e9depDI9OWLDUa7ibqSk+/Wg56NyP0Tha6QlgZsnJDsA5Z7YYiwfOQuEy9k9uBkKotzs69DNTpiAPlzopn0KMrShHHy7GTrGA5F3xV0S/3alzTJD7fKxxZ314u/0g=
+pfi6kdmq6ikgkspp9lk5qggu1ovulcsq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pfmtnevog3ma8ujes0stk0aqg803kphd NS 
+raycityga.gov.	86400	IN	NS	mns01.domaincontrol.com.
+raycityga.gov.	86400	IN	NS	mns02.domaincontrol.com.

@@ -1,0 +1,9 @@
+afrh.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+afrh.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+afrh.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+afrh.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+afrh.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+afrh.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+afrh.gov.	3600	IN	DS	33793 7 1 851695ab6a455a5d93aeca77b1b6405fa41578eb
+afrh.gov.	3600	IN	DS	33793 7 2 66505cca0cbb8961ec278120f239ee37a0ca542ab9826f22478aac05f0137f5f
+afrh.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. L5eBdp2Gwhus/helBbMzkaTFGOC8TnmyE1u+LSqF3XR8cb087Lgp97hVfElAJWz5RDg9znvftDRUe4avDAqKiLI5xX4UGkuBwcWFaAU8Usnr8Cbs6tmRUrGHHz0UzupZXKUce1dZuOvcHfTW22HY6woMe4LoVY5QgB8lr5o3LLs=

@@ -1,0 +1,6 @@
+ncd.gov.	86400	IN	NS	ns1.milesdns.com.
+ncd.gov.	86400	IN	NS	ns2.milesdns.com.
+ncd.gov.	86400	IN	NS	ns3.milesdns.com.
+ncd.gov.	3600	IN	DS	58079 5 1 c03248f89a67cb1189b5aca1c02a5f2fc3c9732d
+ncd.gov.	3600	IN	DS	58079 5 2 490bf8934d9bdaf78e454a312a5a0b0349bfb7f9ec3ec053eb5064a9a4ecc495
+ncd.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. dhxzDU+a1hGBHTGGK1gTBuK2AtHYrMnODgNOlghzWs3ft4f7UHmYoaK/tpMFI7L8XkCkn7r2NmJQRPV9vRueGV+Asv/g5sCrBhcbM5vCPSIy8AwWWwzcc+hdmfMNytIchzI9O9OH5GSPE6jMGvYaZP+4Wx7VTEIWa6gnJ16f4dM=

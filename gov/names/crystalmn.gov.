@@ -1,0 +1,5 @@
+crystalmn.gov.	86400	IN	NS	ns1.state.mn.us.
+crystalmn.gov.	86400	IN	NS	ns2.state.mn.us.
+crystalmn.gov.	86400	IN	NS	ns3.state.mn.us.
+rquie7hvh35j6go4gqhlbfa9pjefk1dv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. bMwJ22Z9HK0hEEEVyxdRNeXeri/RgMe/YCOo8CJ+pGwzX6yNjA71Xb1cze+7odalobPXZbzy6kKHVhRNm/VD706dXh7fux6O84zn1JWVs//F8qfCGDneBUCjKf+m1z61hBbneadOKEkO73DeJCR7GQMq/vTCBx1npCGPLnwPIg4=
+rquie7hvh35j6go4gqhlbfa9pjefk1dv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  rqv9u0ocek37tfhafqgshu28eksqeoek NS 

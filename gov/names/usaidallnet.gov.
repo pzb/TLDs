@@ -1,0 +1,11 @@
+ns05.usaid.gov.	86400	IN	A	12.14.13.231
+ns06.usaid.gov.	86400	IN	A	12.14.13.170
+usaidallnet.gov.	86400	IN	NS	ns1.terrenap.net.
+usaidallnet.gov.	86400	IN	NS	ns2.terrenap.net.
+usaidallnet.gov.	86400	IN	NS	ns05.usaid.gov.
+usaidallnet.gov.	86400	IN	NS	ns06.usaid.gov.
+usaidallnet.gov.	3600	IN	DS	15025 8 1 d0f09df5f3dffd3d02db5583d2b66553174ee583
+usaidallnet.gov.	3600	IN	DS	15025 8 2 579237618f4ece4e465d4d0aaa1838348868d6aa749094d83d0fbba62e6f1694
+usaidallnet.gov.	3600	IN	DS	25072 8 1 28f90f6f304ec384192ab18cf674f7f1b0dbf62d
+usaidallnet.gov.	3600	IN	DS	25072 8 2 97bca8b6e20c573b0358e421ddf8826e3518c1a61290639ffba19574f8e8f82e
+usaidallnet.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. tSEyH1qG70b7UbxS/ZcxyitQIHlnUSsCdnjb8coYnvp+ScNPiMt0ufFVuaatM3sQyV1rm7gs4kE+2ERwcfP6mRAGHXSkELp8R78WbQCiyuJdVL1KpLNZeVFgVXDp7ypD4tUd2b4TwGVyBXgKJloVTNkHmc7JsPlr+IN+l7Yxids=

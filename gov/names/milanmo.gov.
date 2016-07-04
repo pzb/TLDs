@@ -1,0 +1,4 @@
+3qter2ph42iek705ufc8l67il423tg89.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. bvaqIiGs+1ZKo5Wnyjpl1b9mUWXNaaoZNr0zLLqzDX/SSeE1WuK7fWhHg5yRlDJJYbe4tgJw73M1lfcSWZVk8Y/kta242aCcGiJCfOQLWAsiTgoQlvdB9ksbnkgaC9G9nyObsj8GKJL+f6KTd0VcaQRv71V8FIhaDg0Qe2Z3PZQ=
+3qter2ph42iek705ufc8l67il423tg89.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3r6hreml0ed4c1rv75u5i1vsc6lpntin NS 
+milanmo.gov.	86400	IN	NS	ns-us.1and1-dns.com.
+milanmo.gov.	86400	IN	NS	ns-us.1and1-dns.org.

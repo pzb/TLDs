@@ -1,0 +1,4 @@
+8facapvpgadhnkjmbnbnhgen88se2sjd.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. LWkoOTSMWCMg/fydgJfJ+dYxCwSgWKTIXPEbHdJhwMCsL0lNt73fp316sKsaSChZpWbr7RBhzO1gd1ji3n7PFciGUfMegq/FP9OE0iWmNeunqnQCUJFt7o3AaqrImF5gWNmw7YFwSSvpHlozDcDx21IN2L8pnTVQC/8HNJuvD1o=
+8facapvpgadhnkjmbnbnhgen88se2sjd.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8fch64je8f43cgevut51gv7smbjtu5ph NS 
+artesianm.gov.	86400	IN	NS	dns1.civicplus.com.
+artesianm.gov.	86400	IN	NS	dns2.civicplus.com.

@@ -1,0 +1,5 @@
+c7ptcra9n9oc82ivkfd5voh4cj2h5p85.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. nyu3ACHP9NY88WoNZSZ9a+YKtey7Pf0u9ghNibaENaxHTN8/dELyuEBpkTuDBhoOBo69FEyt1lge6EZJCe3k3HuafgOVJYoI5N883CLK6pR5riZZyqh9J7j5wPVkNP1x2BDUWwGw2DUgXXZPvbTA70lCwpaNwG/O/s42uuET/ZE=
+c7ptcra9n9oc82ivkfd5voh4cj2h5p85.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  c7q3bdmck4loir5mmsjl521jiisvreth NS 
+cubaassessoril.gov.	86400	IN	NS	ns1.dnspark.com.
+cubaassessoril.gov.	86400	IN	NS	ns2.dnspark.net.
+cubaassessoril.gov.	86400	IN	NS	ns3.dnspark.net.

@@ -1,0 +1,6 @@
+f3qql3r9ant0eu70egepobdtkv0gaskl.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. NTYj97JcfzloRS1i9mAOMf5x73wXS0Oy4O2vtmYS8afx2/n2lStrw+HXjrMSWiVNQxJqaou9EAAwAVY0sXbC+mXfTqlRzE1lkXSx5NfWnZbiUTZ5onM5G9xPVwQfvsUf/jWKn/GycD79BKdh+oYvJqWrd5AqbuC35Szul+0hAE8=
+f3qql3r9ant0eu70egepobdtkv0gaskl.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  f3r8clp4u1bphtbv8h8sagolmm8na6ht NS 
+retirereadytn.gov.	86400	IN	NS	dns4.tn.gov.
+retirereadytn.gov.	86400	IN	NS	dns5.tn.gov.
+dns4.tn.gov.	86400	IN	A	170.142.92.58
+dns5.tn.gov.	86400	IN	A	170.141.168.22

@@ -1,0 +1,4 @@
+hanover-ma.gov.	86400	IN	NS	ns1.infotech-maine.com.
+hanover-ma.gov.	86400	IN	NS	ns2.infotech-maine.com.
+manni2acj19tuo7cjbnuc4rnmp8l8kur.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. km617YSTxXcsCsYZufoH9yHG/r75bBk2jaDr/EppILA0QM1OZAhdUhSfTdtl7dA/6Lc3IUYNmAwynFCv29DNhiK1/vwA9d32jNP67tKb/uahjWp8+pfaOQDwrESHNKSaGdyGQvSrub6ne+jJjTFmi07ElopPmpKmT6VQoXl5A6c=
+manni2acj19tuo7cjbnuc4rnmp8l8kur.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  maq4jesodughlab2m40j7dv9smd0o31n NS 

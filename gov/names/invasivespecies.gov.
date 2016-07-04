@@ -1,0 +1,9 @@
+invasivespecies.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+invasivespecies.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+invasivespecies.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+invasivespecies.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+invasivespecies.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+invasivespecies.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+invasivespecies.gov.	3600	IN	DS	22294 7 1 8ab95f81bee72f1651ba9404c67a0dfa09d6c9c9
+invasivespecies.gov.	3600	IN	DS	22294 7 2 5e3f5a9f58b9dac87f92b2fe1d95e4391da55640497b2f4f25c0acf582da17ce
+invasivespecies.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. pPFeGNvIaVaG5G1NQmIXkQ88TJB0PKMGW+8bl44Hj0JChWjM5JugpK9ZaU0dU8d+GFHV1sgYGA6OltWJcEBykBEwE/TOu68RZ+V+ec6YvS8aypgYnV07iS+Vwv1XOwf23i6ZzqbblV7HAMYjR894yWo6Nqg/flqP1x6m6nk8fKA=

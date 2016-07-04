@@ -1,0 +1,8 @@
+5lae8gng1kt00tip1jc28sqpbcoah43e.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. h3pXH2xYH0lMTxnL1NJYKsX+QIhFcFUxKIv8G70SxHgaGiQt4wo/HNiDwAfz9AlHXysLIV8p901Q/3FjeugM7Xr8baYzciubkXJtlO9+VjAhZAmCOYx+ChZiPgb4G8LUTK9lBDBh3KkQrfEPhqrMtLTk4Ft2b6Hb91efWaHXzs4=
+5lae8gng1kt00tip1jc28sqpbcoah43e.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5lj9pvl6sd1anmq0i29de88e1orh22u6 NS 
+wsdot.gov.	86400	IN	NS	ns10.dnsmadeeasy.com.
+wsdot.gov.	86400	IN	NS	ns11.dnsmadeeasy.com.
+wsdot.gov.	86400	IN	NS	ns12.dnsmadeeasy.com.
+wsdot.gov.	86400	IN	NS	ns13.dnsmadeeasy.com.
+wsdot.gov.	86400	IN	NS	ns14.dnsmadeeasy.com.
+wsdot.gov.	86400	IN	NS	ns15.dnsmadeeasy.com.

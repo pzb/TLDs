@@ -1,0 +1,12 @@
+climate.gov.	86400	IN	NS	ns-e.noaa.gov.
+climate.gov.	86400	IN	NS	ns-mw.noaa.gov.
+climate.gov.	86400	IN	NS	ns-nw.noaa.gov.
+climate.gov.	3600	IN	DS	8857 5 1 8b3d6be432e5eec97974a3fcc6059fd2a9f8befe
+climate.gov.	3600	IN	DS	8857 5 2 abfae22e8440a6549314c98fb6d70ff2dd3f62869ec103e8943dfb19316ea200
+climate.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. OynhA4oousGlpjPV16Ys6uCA6RA06axtWC9Sjgb8t/b+wx6XA/01eROXM1rItg9vdRn9mwDbIkcDt7XmUifqAXW1nNN1nuVip/pCrcESwJNJ0zj34B+k0KCjJmxgg6iFDsMx3K0Z/0SdGlEdoBtV69HzxfltVJviHF5YVSnB8HQ=
+ns-e.noaa.gov.	86400	IN	A	140.90.33.237
+ns-e.noaa.gov.	86400	IN	AAAA	2610:20:8000:8c00::237
+ns-mw.noaa.gov.	86400	IN	A	140.172.17.237
+ns-mw.noaa.gov.	86400	IN	AAAA	2610:20:8800:8c00::237
+ns-nw.noaa.gov.	86400	IN	A	161.55.32.2
+ns-nw.noaa.gov.	86400	IN	AAAA	2610:20:8c00:8c00::2

@@ -1,0 +1,4 @@
+48b106lfm4kgb82tl8me6fd10v2j8hl0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. RcNYDRpVrHP80hcFQYH7a5wpg3g8l6YISx6/0HBOrwq0hJQHzrnSHWS/pormEa+CxUs9+5n9dBaDeZBoK9U8Sh9XdGGUeQg40hl4BRFUCXEgoaVlUo8UDVP55cnnBfdgPGzxdVluGXa5KS2qLAakVDt5w0PpLZBeQmXx+/whi0Y=
+48b106lfm4kgb82tl8me6fd10v2j8hl0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  48kdghnkvi4dmjbb5m24l5unidfh7pa6 NS 
+baxtermn.gov.	86400	IN	NS	ns.rackspace.com.
+baxtermn.gov.	86400	IN	NS	ns2.rackspace.com.

@@ -1,0 +1,4 @@
+aajl90qug6nuivgeteaeuh5prk9g7d08.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. NMm7RkUR0jWn/qDpEmtBF+X3suHDKuqIOSJhbneB5wazL41gnCAs5mP+TDIRc6pzgM+iDCZ9ITbU/pJs1OKgRY59G9xojkdX2elMRkbqrcJW/3KK3tRfSc71vPLpLuvYhicU5w88VWLMlgqM7Tx9Sa0FgWK08GoAJgm30Tp6Rl4=
+aajl90qug6nuivgeteaeuh5prk9g7d08.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  aaro2ddulj58q5f7vf4mkc5liohp1vo1 NS 
+ohiovetshof.gov.	86400	IN	NS	ns1.state.oh.us.
+ohiovetshof.gov.	86400	IN	NS	ns2.state.oh.us.

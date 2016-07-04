@@ -1,0 +1,11 @@
+adm-dns2.idaho.gov.	86400	IN	A	192.102.16.252
+adm-dns3.idaho.gov.	86400	IN	A	192.102.16.253
+adm-dns4.idaho.gov.	86400	IN	A	192.102.16.254
+admdns.idaho.gov.	86400	IN	A	192.102.16.251
+idahoprepares.gov.	86400	IN	NS	admdns.idaho.gov.
+idahoprepares.gov.	86400	IN	NS	adm-dns2.idaho.gov.
+idahoprepares.gov.	86400	IN	NS	adm-dns3.idaho.gov.
+idahoprepares.gov.	86400	IN	NS	adm-dns4.idaho.gov.
+idahoprepares.gov.	3600	IN	DS	10192 8 1 15cf820626b06a89f533575981c4aa196c4e4edc
+idahoprepares.gov.	3600	IN	DS	10192 8 2 5be2ab6de5137484f15a33a06736b2f45d02c83292d3d969d982fecb7ed2af24
+idahoprepares.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. toeSugU3/Z/ayIrtWcV8UgZj41Y3oaouo+k/8QnkPual8hYQnOVGzjrBy12zeQgkWLP3eT4mREi9fe9KbMEkNlDZ0CnurNaIAUY+NHKUCMYs2dRnTG/4ik4fwEQ/ZJTNWeWD+pTQ4h1tAKiIpKhePEQsGvKSguyq2YIGfn662aw=

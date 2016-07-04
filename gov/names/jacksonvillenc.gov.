@@ -1,0 +1,6 @@
+jacksonvillenc.gov.	86400	IN	NS	ns1.jacksonvillenc.gov.
+jacksonvillenc.gov.	86400	IN	NS	ns2.jacksonvillenc.gov.
+ns1.jacksonvillenc.gov.	86400	IN	A	208.7.222.57
+ns2.jacksonvillenc.gov.	86400	IN	A	24.172.28.50
+reog7mv345ptf50jv543rsgv204khvbh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. GjeQgf/lw75fAMfp9uSJuGkVWLYuEOhd73gLXWLqmfaFMB41bW3/WYid6Z006INydMMuPpihIJnZXbR+84rAKPJw/Hw8FSZxrE0D2rrcvomj15ba6E6r1A4BYiYa2TOWjO/gIFHWetXHeQLz0JA3xYr1nwVHp5F/DEuW5AL86v0=
+reog7mv345ptf50jv543rsgv204khvbh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  revldl7shs17kir1cdi7llkvls1a8v6j NS 

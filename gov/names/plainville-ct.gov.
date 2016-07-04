@@ -1,0 +1,5 @@
+19n8ivtv6c42q9pme8jnlj1s8dqqsc80.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. U2UpzqTeCjsdW0ivllFhX7ypvLTzBCPIus45ceeGkMkRm3ZaiGJ+uODV5h8S4ECocWN+V5eYuCBFb0TqieHyIUy0j89qaeDI8Fx9exb2Bqiwo8whQPr6sUnONMeqKS/ahFWD0q6u5NKgFi1UksvtqKs5iLs7TZyVbQ8OJMtzSYo=
+19n8ivtv6c42q9pme8jnlj1s8dqqsc80.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  19tlm6qoab8k7tf7sihhsfk62kl333jl NS 
+plainville-ct.gov.	86400	IN	NS	dns.ntplx.net.
+plainville-ct.gov.	86400	IN	NS	dns2.ntplx.net.
+plainville-ct.gov.	86400	IN	NS	dns3.ntplx.net.

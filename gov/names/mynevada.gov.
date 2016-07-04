@@ -1,0 +1,6 @@
+dns2.lasvegasnevada.gov.	86400	IN	A	205.153.115.3
+dns3.lasvegasnevada.gov.	86400	IN	A	192.112.64.27
+mynevada.gov.	86400	IN	NS	dns2.lasvegasnevada.gov.
+mynevada.gov.	86400	IN	NS	dns3.lasvegasnevada.gov.
+nt3igf34q59rfpriooj6gin2ci17m7r3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ahv5Ssa45IMjlwdlQ3UfOUvGz6Thp6cl4uxJzRWGGJrrCJ1y9eumD1hq/b57ueyRvc6vDOKlJCQDkSuT+xDAwKQSEe28rQz42SCmcLMHeVVAORND6bWS0FAe9qk5GSteAB1VDgZ2D+edsUnbli9MRu1Cev1SES9PxIP5OXCPeHk=
+nt3igf34q59rfpriooj6gin2ci17m7r3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  nt57dgrrtocnnjq1v009fbdq9qi2vve7 NS 

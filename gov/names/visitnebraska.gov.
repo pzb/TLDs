@@ -1,0 +1,4 @@
+od0pnbh24enf3j3q9fngfrrpmh9lbj4o.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ZqbfJQoKbVtrtPm+t4xslCUpE+jJuKKKNDPFWgC9wTVW3OPgmLSvQT9RqJynik5h7KgDTjTpxNPJWgzQuQlEzS5naA0qYqr2DrBWAQUGFF40kdLJurdz3YESS+j4CikjrsyakTacF6shzIQIiH4HGjFu4dA9BJpKfXqYZ5ARH2Q=
+od0pnbh24enf3j3q9fngfrrpmh9lbj4o.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  od1fb0cs5nq7cciippqhb1nc545n7pmb NS 
+visitnebraska.gov.	86400	IN	NS	dns1.doc.state.ne.us.
+visitnebraska.gov.	86400	IN	NS	dns2.doc.state.ne.us.

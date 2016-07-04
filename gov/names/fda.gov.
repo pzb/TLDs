@@ -1,0 +1,9 @@
+fda.gov.	86400	IN	NS	ns1.fda.gov.
+fda.gov.	86400	IN	NS	wodc-intnsdns-01.fda.gov.
+fda.gov.	3600	IN	DS	8994 7 1 aef4605a36b88358392ac2cb2735c9a16fdd6e52
+fda.gov.	3600	IN	DS	8994 7 2 4b09b17382d67c917c57b2fb3a54f5f7046d213e61a9dfa803f23420242af5a3
+fda.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. LI9uIicE+fsFlZkARcS3k0+evkFyu0yhd7/SPLO+b9zAbjRGigMelprE9yspfRZxdqzzD5ptI+Aba7zyEg9qs5KY1zIVtt/yAs83JkeaoyDOCxqtH8enZHe1edhvchdgp+SZjXtalmfhFa+YsDAq58TRUdlxaIDgG9QrvAQqtMg=
+ns1.fda.gov.	86400	IN	A	150.148.132.6
+ns1.fda.gov.	86400	IN	AAAA	2607:f220:300:800f:1000::1
+wodc-intnsdns-01.fda.gov.	86400	IN	A	150.148.18.8
+wodc-intnsdns-01.fda.gov.	86400	IN	AAAA	2607:f220:300:202:1000::8

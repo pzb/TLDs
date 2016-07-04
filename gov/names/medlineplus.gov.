@@ -1,0 +1,11 @@
+medlineplus.gov.	86400	IN	NS	gslb01.nlm.nih.gov.
+medlineplus.gov.	86400	IN	NS	gslb02.nlm.nih.gov.
+medlineplus.gov.	86400	IN	NS	gslb03.nlm.nih.gov.
+medlineplus.gov.	3600	IN	DS	36825 7 1 3fb8523d33d3238ff80ac8e2e3554a03a84c5ea7
+medlineplus.gov.	3600	IN	DS	36825 7 2 cadcdebb5c05700286d20955289be1492343282b54a20f07c73056a0d326d41c
+medlineplus.gov.	3600	IN	DS	56004 7 1 832fede07e968c5cc9cbd8506c16e09b6feca8fd
+medlineplus.gov.	3600	IN	DS	56004 7 2 9f1f1877ced48ba9fc40e1978fc51947e595ad4fc4eabca231e83becee949d0f
+medlineplus.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Mmw7EZxCBT61jnVNwQUAkJPr01JfWGXkRwztFTMUg3aVf6PD+bkSoV5Wk9e936JNUWdjdI8zQ1/Wohh8phdBPn/kHFjUv/vq0Se71sea8ip3kfp3VqVriEmi2BgZ4U8inHmnXdD2ddmPf7sdfAZw8Pn/roqIX5rx8ZyPJtB2yxY=
+gslb01.nlm.nih.gov.	86400	IN	A	130.14.252.50
+gslb02.nlm.nih.gov.	86400	IN	A	165.112.6.3
+gslb03.nlm.nih.gov.	86400	IN	A	130.14.252.53

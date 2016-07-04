@@ -1,0 +1,6 @@
+burnsharbor-in.gov.	86400	IN	NS	ns0.ggdns.net.
+burnsharbor-in.gov.	86400	IN	NS	ns1.ggdns.net.
+burnsharbor-in.gov.	86400	IN	NS	ns2.ggdns.net.
+burnsharbor-in.gov.	3600	IN	DS	28667 8 1 b64701c3913955d6d5bd2504a8315de96abe9930
+burnsharbor-in.gov.	3600	IN	DS	28667 8 2 66d2b4cfd125e3b132878cd99908c72487f8b6ea04077aa67784d2b73652f680
+burnsharbor-in.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Sz7oV8f4ZLzBjPKidFUfPnFIkGRDYlh1sPeYw6xsSbfuGfJvivRiultLwrWzKwv0jciwnnBioCdz4u/JI99a2reiGLlL6rVAskwRVdOsLTZSNdHKnspbIUrSuAhuaIWqV8DyXmKTUD6OdJcP7d/rrfMzLRwCn27zTOXRi6mlkD8=

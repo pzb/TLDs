@@ -1,0 +1,4 @@
+5nkam0so0nhdk55mu60pemkg9jthnfon.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. T0br+SJqScft/AknPYAnaXO73oJql6ZAFcrlVJrB0CYG5JydDjOorNsAuJ37IIzEp7JrX/0n7iyFpjIDc59fEqZSG3NdRE26WQsA0c7OiTwTfqZd0MZ5gSsgavXQ/ORPKUahZFsV2Kuj3bxItffVSEA71Ch6J6AJpfljlXIMhoE=
+5nkam0so0nhdk55mu60pemkg9jthnfon.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5nonkc5fqsk24i58b956vnaok4ff8l9c NS 
+mibusiness1stop.gov.	86400	IN	NS	ext-dns1.state.mi.us.
+mibusiness1stop.gov.	86400	IN	NS	ext-dns2.state.mi.us.

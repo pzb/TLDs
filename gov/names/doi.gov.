@@ -1,0 +1,11 @@
+doi.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+doi.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+doi.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+doi.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+doi.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+doi.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+doi.gov.	3600	IN	DS	38581 7 1 2c893cebfb6993ed9b93105935ea62d680e33354
+doi.gov.	3600	IN	DS	38581 7 2 2440c6e6fb21c58857dd6c5933ace50fbfd06c2e8e70f2b06f5ccb2ca6370bfb
+doi.gov.	3600	IN	DS	51606 7 1 73c59e8ced9c3708c2a9c8195572344d129b10ee
+doi.gov.	3600	IN	DS	51606 7 2 494015c25777a74f11d6d8511dc90f3a26b088d91c94a371ffa8c1ad89e5f72b
+doi.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. g8GmRLlRXz/RKzKhc8/adUdNm04HtYQIo2eTfttS8MFyEpQZRq1tGnQChrqBKAWlBY5K7+p7O9ioJRW6VuWcGIMqWSafIFv1VXzWTbNK2pEtnfv+C8YG53LJhhArHTYmKy9XEdB+DzowRswX+Jb9YGPfNSfN2/ZcdHgOmcfdgiA=

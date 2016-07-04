@@ -1,0 +1,6 @@
+ns1.cen.ct.gov.	86400	IN	A	67.218.95.9
+ns2.cen.ct.gov.	86400	IN	A	207.210.151.9
+ifa6pflem054aosnflq25fcpnci8sjuv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. e2STy4VUXi9lz67THCwVgRGEBOfG8e84Do02yWyKn6ROpkl/Jo+vHzH/avFw1Gy2vlE2OXUYta3sLoMuQMiPpJGv97PEdDMW7cXpicTedPRcB6WLk44+xRiPXaxUNWo9OeLX/yyYlWHyyyBe2RQQrgIya0XBUStqPwjDk0uSQ0o=
+ifa6pflem054aosnflq25fcpnci8sjuv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ififn4i0ktghl0lkccmq0jksd122di3o NS 
+rockyhillct.gov.	86400	IN	NS	ns1.cen.ct.gov.
+rockyhillct.gov.	86400	IN	NS	ns2.cen.ct.gov.

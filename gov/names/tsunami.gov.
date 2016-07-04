@@ -1,0 +1,12 @@
+ns-e.noaa.gov.	86400	IN	A	140.90.33.237
+ns-e.noaa.gov.	86400	IN	AAAA	2610:20:8000:8c00::237
+ns-mw.noaa.gov.	86400	IN	A	140.172.17.237
+ns-mw.noaa.gov.	86400	IN	AAAA	2610:20:8800:8c00::237
+ns-nw.noaa.gov.	86400	IN	A	161.55.32.2
+ns-nw.noaa.gov.	86400	IN	AAAA	2610:20:8c00:8c00::2
+tsunami.gov.	86400	IN	NS	ns-e.noaa.gov.
+tsunami.gov.	86400	IN	NS	ns-mw.noaa.gov.
+tsunami.gov.	86400	IN	NS	ns-nw.noaa.gov.
+tsunami.gov.	3600	IN	DS	37078 5 1 10ff4293a251eb896de480a0038d72b892f732fb
+tsunami.gov.	3600	IN	DS	37078 5 2 ea20246420099476c8caf1daddaaef698a4946458469558b0653927730846c4e
+tsunami.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. aNg5PhAkZA7xlOY0h2uGzc4qKMgd5q9/wl8ftjuIzWlMKNu7gV2SvNp8yViG+PpGopL4WW8acOpMCvO/A9vmfAwRVDb35rffIMocMSVtjwRki6QXBXPU8LpnALJgTwxWuHBg0YNrl9gYjqHL5OpiyDQvLVDq/49y/MWngIMh/0o=

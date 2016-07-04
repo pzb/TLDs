@@ -1,0 +1,4 @@
+kdheks.gov.	86400	IN	NS	ks01.state.ks.us.
+kdheks.gov.	86400	IN	NS	ks11.state.ks.us.
+mg01tldu5b73dvd2rfv8posgldi0rg8u.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. xlqUtNWrwNrIeQj5vzioaIQMm42gKA9fOoBAaCMYOhzuZSUjct8SNtQulK/BnCV6hLMnPspyHiDqHzsmIDpvKRZK5n7TrpEg4toIkEQC9Y/f26gfj/QjA5VFw7Zg8DdOwSh0jtbp+MkRlyYV08ntF+euwWkYxfl0dUwUghtCAOg=
+mg01tldu5b73dvd2rfv8posgldi0rg8u.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mgii59glttrj7886aq8qd33l52hsgev8 NS 

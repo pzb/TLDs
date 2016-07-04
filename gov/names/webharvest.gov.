@@ -1,0 +1,6 @@
+webharvest.gov.	86400	IN	NS	ns1.archive.org.
+webharvest.gov.	86400	IN	NS	ns2.archive.org.
+webharvest.gov.	86400	IN	NS	ns3.archive.org.
+webharvest.gov.	3600	IN	DS	28224 7 1 b7fb83aae3e86d4f8c4675283c4baa28201f644b
+webharvest.gov.	3600	IN	DS	28224 7 2 3c72beadf463a85cc45a70a8f3ab2726f3c02d3d59e8e4b5a1ef9e958c20622e
+webharvest.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. BUgW9T5xVeCHvgRehzaoj/Bj0zEFjM2rHVkaeZ1jRwfWPN4NhnVs7A3FQVOl+sno825xUjMI7ss9h/DX/1N958HfUWsg04orp4DQZ/X+5omofyPJzC8bnR5FfdQsJWcAiEHJg5ea8MubTpQI/CXOLHn/Fhaaov2O2dwV2pQOixY=

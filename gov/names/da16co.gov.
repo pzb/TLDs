@@ -1,0 +1,6 @@
+da16co.gov.	86400	IN	NS	ns1.springshosting.net.
+da16co.gov.	86400	IN	NS	ns2.springshosting.net.
+da16co.gov.	86400	IN	NS	ns3.springshosting.net.
+da16co.gov.	86400	IN	NS	ns4.springshosting.net.
+fui776meibhqdgm44tfp3sgqggmodere.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. rt/ETZ+eVLV5VoGaq0CKT91iUx7iUwNvxcn9XSmM3C99ZKPjo/Ii4V0YY3F6ANnBEbhPNQRbzKYArN6OQsLwdyhWjW18dk1GI0AF1V1CgpnspxXN5gIONAZShuDIZRlpv/uQmDBb23WJ7s+1KTyhjCFjRhIwSTrl9qKwQxTxc7c=
+fui776meibhqdgm44tfp3sgqggmodere.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fui8cbc79dhm3pqfet00ljnlsrarqee0 NS 

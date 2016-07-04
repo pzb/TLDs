@@ -1,0 +1,4 @@
+dalton-ma.gov.	86400	IN	NS	ns1.avenet.net.
+dalton-ma.gov.	86400	IN	NS	ns2.avenet.net.
+of1pt8k6ev50ca3tv1cf6kstltftf1ml.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ZBKUB+KD62t+oCxE7I1ZfSzHJxF3uC8ub3prbwCjCfRVgSwx63nQS44/ewj5zUXC3r+sOoUvzsNbf1AYRG/Eqpp3i4XIS4AnMHfZZUTg0arZH3YMV57Rxz6J1OhCOYonIQQZaNMuK1A8XOFrHcp10aYEldLUWLW9nL/1RiJxPNc=
+of1pt8k6ev50ca3tv1cf6kstltftf1ml.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  of2chd5vk328aj88mi9m6chftbveu9oh NS 

@@ -1,0 +1,4 @@
+beverlyhillsca.gov.	86400	IN	NS	ns1.beverlyhills.org.
+beverlyhillsca.gov.	86400	IN	NS	ns2.beverlyhills.org.
+guefb7p46ekn5lv0vnn20f418uk6ks4d.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fergq9Jt9abINvtwwrq+SH8fHZOEsW9TOrAFatTSlMpTGhukAWZPJ5VxC5MxsHQkZr1wMSrfXtEqKyxdXdB9Jek/Rm3bNluB5+UIuxghCl5CmDjskqRCZcbbo2H/sO9Kc0lRe7dSjY8BLVnM5+v55TyqRZENee2J8PEVp/N3iMw=
+guefb7p46ekn5lv0vnn20f418uk6ks4d.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  gug3ojvgq7vfca98l4tsof4hiuabu0nm NS 

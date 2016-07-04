@@ -1,0 +1,4 @@
+di6ks4ve1nob0r262km45dr8i151t82n.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. KrDkG/T8nrmTGTY4CruxD66MlKAhrThxtB/acDwpL9KTLX/0qZrtDmk/ck3gqNU2Z8toVUukAkXQ6ZdCJtLvEuTqqzFgb7IF54eMV3LRescQfKuerqWuQgGZq7/3d4BzSJOEgkIAXhXlMu+3eq9c9GwK2q4TZ2AhmvLi2P2U6Pg=
+di6ks4ve1nob0r262km45dr8i151t82n.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dial9huigipg1s78h331qu5u100mueo1 NS 
+oysterbay-ny.gov.	86400	IN	NS	ns1.hvdata.net.
+oysterbay-ny.gov.	86400	IN	NS	ns2.hvdata.net.

@@ -1,0 +1,5 @@
+santafecountynm.gov.	86400	IN	NS	sauthns1.qwest.net.
+santafecountynm.gov.	86400	IN	NS	sauthns2.qwest.net.
+santafecountynm.gov.	3600	IN	DS	59785 7 1 4d7455f38ed1ee93bd19713957e4bcd1602dfd56
+santafecountynm.gov.	3600	IN	DS	59785 7 2 dc490db5b5399dedbc2ca55903d7cdde26dec787f65d9209d8bbfe512ce6a97d
+santafecountynm.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. NluTlfZ/LPJh8xXQ67OLb7oqlVp7JElOT/KPWnfp3t0WshPrMebuRgXFALyUFL1lR9Wdkw+PC4Xp32tC4CKL9youC2Rz8k25rMpY2EGXMK9SlUNWXE+TIXvroPXAIBxZHW8Q8KfeYc1A1UhJEtdO87s+200AsXkCmDtyk8yQ72Y=

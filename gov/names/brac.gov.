@@ -1,0 +1,6 @@
+brac.gov.	86400	IN	NS	dns-pub-f1-u.pentagon.mil.
+brac.gov.	86400	IN	NS	dns-pub-f2-u.pentagon.mil.
+brac.gov.	86400	IN	NS	dns-pub-f3-u.pentagon.mil.
+brac.gov.	3600	IN	DS	21571 8 1 c5d681a7f39f036db553a31da6918ec66448a4a8
+brac.gov.	3600	IN	DS	21571 8 2 5165554e37e10b06c3ceb7e4c20bbb2e04c58504a16bac3aa5682dc4323f818a
+brac.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Q2yuS5l135vIZTbU23h5nvhnFPwJq4pmaG1Pe5Gx9KG9lWr7fZl35sv/9XSaBWlB7lW2UTk8FZEsBCifoo+csY8KznEOWJ1oVHt291uHBKqqafkBoQCsqrJOXoxVcEqQuH330GNoYPe2ulDBOyeTskt9IRP9LVkx0RnjpY9IScc=

@@ -1,0 +1,7 @@
+flcensus.gov.	86400	IN	NS	ns1.state.fl.us.
+flcensus.gov.	86400	IN	NS	ns4.state.fl.us.
+flcensus.gov.	86400	IN	NS	mfnorl-ns2.mfn.myflorida.com.
+flcensus.gov.	86400	IN	NS	mfntal-ns2.mfn.myflorida.com.
+flcensus.gov.	86400	IN	NS	mfntex-ns1.mfn.myflorida.com.
+kjc2ja6rak18ktoq51ef15htv2pqi9h7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. HCsZgil8yENc5pv2Pi6PMmfsbOyeecgtwpk/1oxUGYTkx8Z0txKnh9meGYkyl4TjUemGLp0MWjHq2ZbUT0o7iMQbVl9LnuUD8vh1Js2ChNyOJS97Z/oic3XOcvNVdihnIUcyOqbkcDRTm/tWdeqp+nl940BwewJ2qpH2e7i0Twk=
+kjc2ja6rak18ktoq51ef15htv2pqi9h7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kjohcd6ctak98eto4b3mmq1ffujikg25 NS 

@@ -1,0 +1,7 @@
+ru0g2clpp7bej2e2je3duh3drdr8so2u.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. MNDc6E/GTuTwdaSxMu4OAK7tuBHwALeQB9KIkLSrITL/joJczNaBht5h/e/GKHaZ+YQ+ODMcatDLWjdX0oJSUblmqDScXSVFjZI1ymfQQfVvmTMlaNz2lVsDK5Jei5ylIP8cULeTDpU5q3qSVg/iLkjv3GSydlsvI98gwzyUN7w=
+ru0g2clpp7bej2e2je3duh3drdr8so2u.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ru11bcn4qd1hm2lf6ftfe174fsscmpu0 NS 
+vintonva.gov.	86400	IN	NS	ns0.dnsmadeeasy.com.
+vintonva.gov.	86400	IN	NS	ns1.dnsmadeeasy.com.
+vintonva.gov.	86400	IN	NS	ns2.dnsmadeeasy.com.
+vintonva.gov.	86400	IN	NS	ns3.dnsmadeeasy.com.
+vintonva.gov.	86400	IN	NS	ns4.dnsmadeeasy.com.

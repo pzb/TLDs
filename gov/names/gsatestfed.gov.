@@ -1,0 +1,9 @@
+gsatestfed.gov.	86400	IN	NS	a1.verisigndns.com.
+gsatestfed.gov.	86400	IN	NS	a2.verisigndns.com.
+gsatestfed.gov.	86400	IN	NS	a3.verisigndns.com.
+gsatestfed.gov.	86400	IN	NS	u1.verisigndns.com.
+gsatestfed.gov.	86400	IN	NS	u2.verisigndns.com.
+gsatestfed.gov.	86400	IN	NS	u3.verisigndns.com.
+gsatestfed.gov.	3600	IN	DS	56949 8 1 7a2bf0ff327bddfd26d750e5f4917c90c30cd541
+gsatestfed.gov.	3600	IN	DS	56949 8 2 6ee4b07094e8d847a30981b210310804b8db23590cb9c9e7d819618f2ea1ed37
+gsatestfed.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. hoB5a5vlXSU/xOwq7BlaWJZC/PzEywrtg7IOY5TX08vywfDWkEInjXeVDbbp0sL6eAplYUqVErMQ0LfDEXK4Q8qRcyi2owMs+CUPdYECl2jhomR+YShW7OyAZsaalPLJ66eRXeP6Wd7DSE+M3AShTrIs6bya3ZGMdQsMaLXczns=

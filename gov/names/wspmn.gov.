@@ -1,0 +1,4 @@
+li6calr29ld8rkj0kaf8lfbse36ftku7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. TYRlpYUQioCNYf3cMtTHBip0H8BgQ1PVYr1god+BoB8UQcRIGMBqRnEBY1pZxoFupThtksp8ycqor2cFVzyXiPRYUVQcFOEG2HzXyfckCByanyEGM3O9UnynpiHJpBrSl9pRf1UwMEYcPHEQIKD9yRta7RreL4s4JPD5RjqKJBg=
+li6calr29ld8rkj0kaf8lfbse36ftku7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  lik8j63c5l0avgl1s99u8jt5usnehojs NS 
+wspmn.gov.	86400	IN	NS	vns1.state.mn.us.
+wspmn.gov.	86400	IN	NS	vns2.state.mn.us.

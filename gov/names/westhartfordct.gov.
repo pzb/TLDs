@@ -1,0 +1,4 @@
+lo7ept3tms9oc3qo2qnfbh739hkng5ec.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. KzfDBeWm8jq1gw7c8BZ1ZWTUOOFUsIzXHUvmFk9F4NR+juH37LkHGCJ92TY5xqiNt0pDDbRsv8TRA6LT47EOHD5cWVOxlTaRM+40bvM6kU/nizNK797D5KWm1Kp1pIOaMnvN2viLQJCTpVaeH1KQ00AcjpygfkDyGkjDg9r/jZc=
+lo7ept3tms9oc3qo2qnfbh739hkng5ec.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  lok51e8i9lie4683mge9n3jmeqbqcd3q NS 
+westhartfordct.gov.	86400	IN	NS	dbru.br.ns.els-gms.att.net.
+westhartfordct.gov.	86400	IN	NS	dmtu.mt.ns.els-gms.att.net.

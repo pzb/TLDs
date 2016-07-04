@@ -1,0 +1,4 @@
+coloradoui.gov.	86400	IN	NS	dns1.state.co.us.
+coloradoui.gov.	86400	IN	NS	dns2.state.co.us.
+pihdrr5f76pvobj8pkjbbdphgb7eslg7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fvwYPfR845Bvsk+c23Th6hpw+0KkNavAlWs4HLFbbbKkMI/OccwZaYZTDnpXHsLvk3kXeiOIGzoOYRgtuZcsf/2PpSFRXEVHj/vPkqi4h9DJLzhcv9oXQu7gx/px4bz46P0fFZhlb2gqYnD2b8v1FIX9b6hhOc7SRjVDo2LKhvE=
+pihdrr5f76pvobj8pkjbbdphgb7eslg7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  piidkleo48tvsni17nmiblam43nfnf6m NS 

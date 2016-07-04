@@ -1,0 +1,4 @@
+iiutcjti87qu0eu5pe7mmj2cskqp74d6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. J9b1AEgrP42ppQyAALBYKtouKHwQ+tklgUrahaIOL+Ef767lYDP0JnpXJaBV/yA+W0tLootfZ/robM4nvSkokFKJ+0w6M6hc3X5sYQbmtxOGN5SsshqVFP4sVkkyON7eM+0ZT3Rrw/SrdRCJt9127RekGvMze80iSPg7OXte8Bs=
+iiutcjti87qu0eu5pe7mmj2cskqp74d6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ij3vci763tq9d9vmg1lahd18ie3okhif NS 
+nmag.gov.	86400	IN	NS	ns1.twtelecom.net.
+nmag.gov.	86400	IN	NS	ns2.twtelecom.net.

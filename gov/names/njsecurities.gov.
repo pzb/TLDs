@@ -1,0 +1,4 @@
+njsecurities.gov.	86400	IN	NS	ns1.state.nj.us.
+njsecurities.gov.	86400	IN	NS	ns2.state.nj.us.
+u33p5sor0ese0k1riti4f1l9g82q2ca4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. nymjTD8lIlUo9UyCCdtI6RBvSaZOpdsnBz4akZh/HcT9AiF9/1099+4rPw6bvkAr+sfCdDaj1SiPGC7bV+8aGfTd6QXylrIxVr8oiN4GqOPVx9/Qs7uzPJzWs0tKHzMsdMIvjCj13El6pCxCBCJrTlbCxVrGy1AVmjb0dZO4jN4=
+u33p5sor0ese0k1riti4f1l9g82q2ca4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  u3anajfmb2ghb9s0lip37t95vecbtie3 NS 

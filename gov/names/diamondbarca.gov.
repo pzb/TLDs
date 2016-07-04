@@ -1,0 +1,5 @@
+diamondbarca.gov.	86400	IN	NS	ns1.telepacific.net.
+diamondbarca.gov.	86400	IN	NS	ns2.telepacific.net.
+diamondbarca.gov.	86400	IN	NS	ns3.telepacific.net.
+nvh15b5ksu38lqui1vh0p402bfd0fs9r.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. udQZqTOyDdCYEkPVYccrXkMQglc3HeaIakOZqWfTrw0OxRz0b5ODzmO22qZlC6mZrACFjyRbNMRpPQoMLL9V9N8C7N1Kb7LMhVCinNiNGuGA01kVYEUvSWUQSwc645UFovpJMwni8/l+p68DZxYUeWeyBju0MKqDJjk4Pqjj9uo=
+nvh15b5ksu38lqui1vh0p402bfd0fs9r.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  nvm7id149fbhmlbnir1jnj5e3euhdupo NS 

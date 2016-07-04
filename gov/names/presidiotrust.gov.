@@ -1,0 +1,8 @@
+presidiotrust.gov.	86400	IN	NS	zc.akam.net.
+presidiotrust.gov.	86400	IN	NS	use6.akam.net.
+presidiotrust.gov.	86400	IN	NS	usw1.akam.net.
+presidiotrust.gov.	86400	IN	NS	asia9.akam.net.
+presidiotrust.gov.	86400	IN	NS	ns1-145.akam.net.
+presidiotrust.gov.	86400	IN	NS	ns1-176.akam.net.
+presidiotrust.gov.	3600	IN	DS	3432 7 1 cd0119a69de15c134ff5334ca74e6b35dc32ba43
+presidiotrust.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. sd3OmJGJEVDuCcxR5so2ewrxSbzpUqWvZb0hQHNn6KPW9JGoEuMGfw4SaYP9V2jIgmzxeAOqHx1Vfn7c0U1rL3xhlOq3+E9B0WiwKz+0e00GZZIZwuJ3EFpRCSpY3a4K4P5zPICzysgG9srbntFYhqzZkxudncf8vPSDQzzKayA=

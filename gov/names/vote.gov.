@@ -1,0 +1,6 @@
+27c5ta7jb34bj4vajrlk97gp101r18cb.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. BSakQKIYIGOEd8WJkmv7XOYkuRrJUjcXDrpNhJLbqi9r2F60iVv1GEhRqKe2H05wHZMsYVoIWvqoCCjHJNzxyj3Zlk9xjfE/vwgeuQHlgbM/CaBnqdEpZGnO3KTPCN40OXFatL/siZc/c5ulAue7OIyDBD43o0vklc5BnA86U+c=
+27c5ta7jb34bj4vajrlk97gp101r18cb.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  28e1uoap45l708rt6gmmqi7jph9lmpe9 NS 
+vote.gov.	86400	IN	NS	ns-45.awsdns-05.com.
+vote.gov.	86400	IN	NS	ns-579.awsdns-08.net.
+vote.gov.	86400	IN	NS	ns-1110.awsdns-10.org.
+vote.gov.	86400	IN	NS	ns-1655.awsdns-14.co.uk.

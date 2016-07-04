@@ -1,0 +1,6 @@
+56j5jp60kq681hl5vtv287p7s16spmcp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. nqtLVLLICtmldfdleQFFUoF5jvNG94mNAXHdI2Neishz/sFonIup/pLQcMVVi8cnO9AeQxmWQirvS9FJv0HV4MBWc8xm/XbU8jLUWllo3mL7kAF9Ln/deBFdEwNrPI/4EqTy0/VW3BMxDVHdanQs13PGAuI0l0fB7dvLVAODpxw=
+56j5jp60kq681hl5vtv287p7s16spmcp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  56k48n2v1iv9h7f4hj05n62qi9c29jv2 NS 
+house.gov.	86400	IN	NS	chyron.house.gov.
+house.gov.	86400	IN	NS	mercury.house.gov.
+chyron.house.gov.	86400	IN	A	143.228.129.38
+mercury.house.gov.	86400	IN	A	143.231.1.67

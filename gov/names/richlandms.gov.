@@ -1,0 +1,5 @@
+5cp4hdqb64tf0og21n9p9ff5p8de0kuh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. HUPNtl6ey/SlBinvnofK77Mw7JH6m0Z7dEODA+dudA7i6GGV/ElShE7MAfNLuB8EKEsC7+bNmlNDupafuRLWxJYlCwwrvp+tqt9wfp/uzeiJXppqChIpmpayYYq0SQ/b6GTElPIf3s13FXHISW3urMguJBbCQ5rB9P/ErNOLPHk=
+5cp4hdqb64tf0og21n9p9ff5p8de0kuh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5ctn3pr8sujshe60ff118mbu6a4tjv81 NS 
+richlandms.gov.	86400	IN	NS	ns1.biz.rr.com.
+richlandms.gov.	86400	IN	NS	ns2.biz.rr.com.
+richlandms.gov.	86400	IN	NS	dns4.rr.com.

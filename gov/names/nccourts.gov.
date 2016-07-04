@@ -1,0 +1,8 @@
+fol4dlpn57qknnjij9m4rv5f9beuqs4b.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. oPH8YJw06CSKup3kT6diYt9GcXawcYtx7K2u9cVv8TAScOoT9gpjstVVxirgfid8b39tEAb13XzopFY9waJYlIpt0yyZpMxevu6WnlhnvabrN9bNBohdm2CFNyXDTOG5prIb0a1GWXMm0cLNI3aj9Rk72xLOxMXa/tw9U4oVakI=
+fol4dlpn57qknnjij9m4rv5f9beuqs4b.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fone5o89b39p76jf04d3klsf536dokmq NS 
+ns1.nc.gov.	86400	IN	A	149.168.11.11
+ns2.nc.gov.	86400	IN	A	149.168.138.11
+nccourts.gov.	86400	IN	NS	ns1.nc.gov.
+nccourts.gov.	86400	IN	NS	ns1.nccourts.org.
+nccourts.gov.	86400	IN	NS	ns2.nc.gov.
+nccourts.gov.	86400	IN	NS	dmzdns.nccourts.org.

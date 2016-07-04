@@ -1,0 +1,4 @@
+corbin-ky.gov.	86400	IN	NS	ns07.domaincontrol.com.
+corbin-ky.gov.	86400	IN	NS	ns08.domaincontrol.com.
+nctnirpmb2197uhov56a3h1f0orb1svd.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. mK/tGDub0IAgVHVYdQgzssvNmSmPFj9ucGZHMv8eWFM6yWYNo9VIGYXpNMWlDicwXZHacfw3g+SVsLBo5wT9BCEvgigeQmjUuUyyN6RcDMKQ13rxU4wQu0kiSR77TLv4NefTeyoxosOJwvlu2BGtSa6C2J9K7Jq3QrDOJhAWRcc=
+nctnirpmb2197uhov56a3h1f0orb1svd.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  nd04kjii6d54jqjdbmgduejldm7jtrfj NS 

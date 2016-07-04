@@ -1,0 +1,11 @@
+ns05.dol.gov.	86400	IN	A	152.180.11.239
+ns06.dol.gov.	86400	IN	A	152.180.11.238
+ns1.dol.gov.	86400	IN	A	63.106.133.211
+ns2.dol.gov.	86400	IN	A	63.106.133.212
+govloans.gov.	86400	IN	NS	ns1.dol.gov.
+govloans.gov.	86400	IN	NS	ns2.dol.gov.
+govloans.gov.	86400	IN	NS	ns05.dol.gov.
+govloans.gov.	86400	IN	NS	ns06.dol.gov.
+govloans.gov.	3600	IN	DS	33745 8 1 0fb1e539d642929b47f4a2da071ed615b6332ab1
+govloans.gov.	3600	IN	DS	33745 8 2 8f0eb9b12f1a3570a06a47ddb6569e15568b5b964e395c45dfa7f62f15ed6586
+govloans.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. XnqBs5qpeM1QqfOALsMt734v5HVNuSEyrHxO1keCyDZsI3TTgHetFNFCQl7QkBTLinuEEzt1+9GHI2L7nIOH6E32d+rdJ2zks7b9vanTK9p7BIYCivaGgY76d9Vgh70UoY+P1WuAwhO3/VaoG+zzbdAGfXVlSe42nBrKVIGG9/I=

@@ -1,0 +1,5 @@
+4ek4gid86lo09sqjh1r60lbv9efho9ab.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Lu1LxM83w7z3403duqgIkbIzKIUrzUOTXETHYVPPbavr+nwMFvl9dC8B43KLU5ySXGeLtYcKXJmSs3Vv34RaeCkLeYYEk2d6WBD0rIjmqHJ9fW3mP+DqorxJeuqSLjsZy8V2KznC6EF/u/scDHWaGR+9WpB+4gzfkGnyaD7tFAM=
+4ek4gid86lo09sqjh1r60lbv9efho9ab.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4ekb57vue3gocm4l1gj4uhq81bqk3lnq NS 
+duluthmn.gov.	86400	IN	NS	ns1.state.mn.us.
+duluthmn.gov.	86400	IN	NS	ns2.state.mn.us.
+duluthmn.gov.	86400	IN	NS	ns3.state.mn.us.

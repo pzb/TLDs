@@ -1,0 +1,5 @@
+5cjgmju2vvkmag6v0f1h3qhp9o29lgjf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Ul3oxnm5sXVpjRJWM9aP2fqZfAbtLc0R520suVjyKDlcXVnZUmM/fOrSOGZF6iVbjzqV6jBKepDRYEkSRtd+1/s9J83xaVuI36jOR/f51QoxQXGuZAUuzdari6zmAEfRtD4Hc4p1dU9Cu6eXeH7iNOEbyfey3JZBv0sMNTPLcIQ=
+5cjgmju2vvkmag6v0f1h3qhp9o29lgjf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5cp4hdqb64tf0og21n9p9ff5p8de0kuh NS 
+leominster-ma.gov.	86400	IN	NS	ns1.bos.ma.meganet.net.
+leominster-ma.gov.	86400	IN	NS	ns1.prv.ri.meganet.net.
+leominster-ma.gov.	86400	IN	NS	reuben.meganet.net.

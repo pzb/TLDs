@@ -1,0 +1,6 @@
+1pjl1jcl8ecrj72uanqua90gbahk9e0g.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. d0fTmLW1F3sB5xRjvQJY5Rz7zQNJyIh8pWHgSFX4NpmHjIdg7HXpVmf+/rFgF7qIlV3mZzz7c242ax+3sJ/d0pBcjc9Zd0PR1AKFp2/1KI04J0KJfWI0gicYglXrcPuvPu60zCHCoLn69y8IPRabn0BSnJqTByg9xJ1LfG+eOuA=
+1pjl1jcl8ecrj72uanqua90gbahk9e0g.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1pkdh5v4m37g5u6oiasahs2cnohs0dgo NS 
+sugarlandtx.gov.	86400	IN	NS	ns1.sugarlandtx.gov.
+sugarlandtx.gov.	86400	IN	NS	ns1.windstreamhosting.biz.
+sugarlandtx.gov.	86400	IN	NS	ns2.windstreamhosting.biz.
+ns1.sugarlandtx.gov.	86400	IN	A	72.16.81.4

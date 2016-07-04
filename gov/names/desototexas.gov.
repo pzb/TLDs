@@ -1,0 +1,4 @@
+desototexas.gov.	86400	IN	NS	dns1.civicplus.com.
+desototexas.gov.	86400	IN	NS	dns2.civicplus.com.
+l11mqnv1fkpu7u4g71cc8ejojh632cl2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. cboJHA79HSrh2mXsXJLG1D4yi4B1jtdRnbUJWZr6+UbwX3Hi+GTZaLvceStOgVAVqeH+/KF2EtvODlZ777p58rYizMaxeH/yNGxQPZToa0lhLSJAcRVAusqRyZvEsT2ESTNFOjCzMVR6TZw/bHqIqgr5md6PblBNfnIHWt9fRJE=
+l11mqnv1fkpu7u4g71cc8ejojh632cl2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  l14j2t0f02uftps14ovvfvj201nqhokc NS 

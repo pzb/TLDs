@@ -1,0 +1,8 @@
+letsmove.gov.	86400	IN	NS	zc.akam.net.
+letsmove.gov.	86400	IN	NS	use6.akam.net.
+letsmove.gov.	86400	IN	NS	usw1.akam.net.
+letsmove.gov.	86400	IN	NS	asia9.akam.net.
+letsmove.gov.	86400	IN	NS	ns1-145.akam.net.
+letsmove.gov.	86400	IN	NS	ns1-176.akam.net.
+letsmove.gov.	3600	IN	DS	18900 7 1 22095e8fb27cdc2cbbb55334eeeed2ed3296d28e
+letsmove.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. roh1iX6/4AoSUNezFp6/odbKdQotWXHgZ5DWie/gQH7dKzxB2myUXUnkDr2tuLT5aUdpukmICAxcOKKNnpvijRFyyMyYw/D9P5lZZnsc4GN1Vycjhxo6/pQ5gIE/IQtg5L4Bl9jg2tARCToNp48NxGm2SpwSit/bJZxM+ye7AKo=

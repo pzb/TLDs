@@ -1,0 +1,6 @@
+6cvnn0ck2kevu06btjopo9d4iq07a89p.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ny8N4zR+0nEeUo2CM2M7m1VNQA2gawWh64PYIGyChtIMOH65rOgdzxmFNxo4KihBcis5+Y44QEFHn6KxNDL+BPnzmdXvDp0Tc4ohzhOSZppEZIakfjkBJre5o0ACI30FShTJWCMlri9eLf4qpOhrrr9jjt/dgHFDF7QFbCxyA6Q=
+6cvnn0ck2kevu06btjopo9d4iq07a89p.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6d0jfmggd02a0bo2f02vkeo3lo1j6kc8 NS 
+claycountyin.gov.	86400	IN	NS	ns1179.dns.dyn.com.
+claycountyin.gov.	86400	IN	NS	ns2156.dns.dyn.com.
+claycountyin.gov.	86400	IN	NS	ns3148.dns.dyn.com.
+claycountyin.gov.	86400	IN	NS	ns4143.dns.dyn.com.

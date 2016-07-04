@@ -1,0 +1,9 @@
+lcrmscp.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+lcrmscp.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+lcrmscp.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+lcrmscp.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+lcrmscp.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+lcrmscp.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+lcrmscp.gov.	3600	IN	DS	54017 8 1 01d60034b743bf53e75c16d82ac7661085512a53
+lcrmscp.gov.	3600	IN	DS	54017 8 2 f6deaeec49c2afc8dbe39d328aa45b8bd542ab0e96588b14393a468b89cc2083
+lcrmscp.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. aCPvKQWkirKs/KfNsPxq0V/JPotqwmNpZbzt9DjbusBx0kNTD22iffsakE7UzshDvBx7IbfsDqUcvRCSOIFUpGf7AiPNu+45h5GziLeGbxwu1hpO7MKRK8q31SePwHRXZKbU7jkTpK//ALGRMnm/l9J9iueKXAG7MZxADc9Ok4Y=

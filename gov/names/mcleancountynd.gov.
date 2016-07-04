@@ -1,0 +1,4 @@
+gcdq1lig629rcf3vfoq82qt4f6np04uu.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fzFMtIWVKLnbaHG9s9N0aDIb0E+VOi4m/cooFvlubUPKApWyLb5ZiqBNWUKk+j7EaGyDQZol9pu0SdCvz5ARFe7p0xdGSz8WzQF6rO2dCJAmgmmhO0xLqLdb0tbhL+xXJrWp7xfp5sOlVJYXl2y0kuCxkVS6lO3WHymk2HVvVxw=
+gcdq1lig629rcf3vfoq82qt4f6np04uu.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  gchr0585b7631h96fvahrfs4groojujc NS 
+mcleancountynd.gov.	86400	IN	NS	pdns05.domaincontrol.com.
+mcleancountynd.gov.	86400	IN	NS	pdns06.domaincontrol.com.

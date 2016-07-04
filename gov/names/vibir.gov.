@@ -1,0 +1,4 @@
+ohvpins4jb8uoapfgvs11562hiab0nco.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fbGkgyc71N/4pgORNCHBlJIDvpRsPcaFiviZNIJ2kJ2KT9dObWLLr7FZlhthasmU8pYn1bLkPEe5Xt0OOLY/SsC7Sh1O89wdNQCuMpnU6qoi3JmsuCb79JhqKTcH1RBCh+14xr9T/XJsfDoVSQ9RZjAWnkGTia/3ZxwxRzlkg0k=
+ohvpins4jb8uoapfgvs11562hiab0nco.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  oih21dchbtre4s1bj832lvapuog7pqi6 NS 
+vibir.gov.	86400	IN	NS	ns55.domaincontrol.com.
+vibir.gov.	86400	IN	NS	ns56.domaincontrol.com.

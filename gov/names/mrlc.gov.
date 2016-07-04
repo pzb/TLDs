@@ -1,0 +1,9 @@
+mrlc.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+mrlc.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+mrlc.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+mrlc.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+mrlc.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+mrlc.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+mrlc.gov.	3600	IN	DS	422 8 1 beaae30950b7f3ca92386f34ee79e60f99640ac2
+mrlc.gov.	3600	IN	DS	422 8 2 835e0a0cf5fe5e1a12bcf58f58408a8a026e3a8fbe92312f2fa129639d69d1cc
+mrlc.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. AYGXZeT+0XNeUF6Nxh7iAUdZymm5gSs66Q0yEIkH0IxipS/uVR6l665dd1H5bjjBpZqfwnLYd5HpL+DycYFTUI/sj+6HAxBJfmPA03snspIyCmXF66CkD1XWNreMozC7PXNnEJexiwCwdXPR9arnPEVA6w3vhRlCLkCbe4iBUV4=

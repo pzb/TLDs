@@ -1,0 +1,4 @@
+aoq4ok0f8d71472aa8ftvmqokm5g0l32.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. tix3pgawQn3dDho/3XD7z9ZwrT0I6ypJQz+9MrA+lJaRsn5WSP4XxwIulnhQPX7OcMnnZfy3P1bBWsXj22QZ8OORTEBflliTfBxBO79jjoC1AQRGXSZnIj5Ea6L0FsYDV448uK0Wkbj8w9JJS5dfOvREDd4CXel7Ek+BBBswGJg=
+aoq4ok0f8d71472aa8ftvmqokm5g0l32.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  apbp7p6kqmt5ius25c17blk6anj38o1r NS 
+naplescityut.gov.	86400	IN	NS	ns.rackspace.com.
+naplescityut.gov.	86400	IN	NS	ns2.rackspace.com.

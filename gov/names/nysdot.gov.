@@ -1,0 +1,8 @@
+b6n0msdt6sf77e588eg2rigqd6ea033n.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. KtHAVCRM/XSSp1odIAbBXq2p1A3VL+jWjSIqIqVnJ5LuM0WAJk+96DE3J/I2BlVHOPtzy0r+xa9k13TUcNN8hTD/S08plexQXxah7EjARBqkDV9BiAYPLV8y52FqQVj9PLSrbEEo7Qd5r+ZvY9gjTODzxX/sApmzL3IzDP/61no=
+b6n0msdt6sf77e588eg2rigqd6ea033n.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  b70foricphil4taig4jjuvbamec306ao NS 
+ns1.ny.gov.	86400	IN	A	161.11.226.170
+ns2.ny.gov.	86400	IN	A	161.11.228.11
+nysdot.gov.	86400	IN	NS	ns1.ny.gov.
+nysdot.gov.	86400	IN	NS	ns2.ny.gov.
+nysdot.gov.	86400	IN	NS	cbru.br.ns.els-gms.att.net.
+nysdot.gov.	86400	IN	NS	cmtu.mt.ns.els-gms.att.net.

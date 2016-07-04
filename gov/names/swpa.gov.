@@ -1,0 +1,4 @@
+2pog449jvvtjnbn4gsqk2qb2lumoad9g.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. XsITpxRiQ3PwX3EztpTHIfksmg5dR8bcqZ8YEByrcT7k4vD6k7n+06YTpfq9ebFoYt+em63nD1J8oq8IraCLp1XrJhM3ksy72dd/9Xa/wskqZs2MbHaOgciLaCz0I27ftBgpw3F4OXr8uYI6Wv0c3ytHlguOFGKxofaZK9o6FMw=
+2pog449jvvtjnbn4gsqk2qb2lumoad9g.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  2q3rb2aeu32c6q88fl4sp9m3nkcv9tod NS 
+swpa.gov.	86400	IN	NS	dns1.xspedius.net.
+swpa.gov.	86400	IN	NS	dns2.xspedius.net.

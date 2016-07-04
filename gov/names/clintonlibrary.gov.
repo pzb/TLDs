@@ -1,0 +1,7 @@
+clintonlibrary.gov.	86400	IN	NS	sauthns1.qwest.net.
+clintonlibrary.gov.	86400	IN	NS	sauthns2.qwest.net.
+clintonlibrary.gov.	3600	IN	DS	26343 7 1 e1f5174eb67e9053245c52dd9369e9ca87478f31
+clintonlibrary.gov.	3600	IN	DS	26343 7 2 b7c4516f61a452a4fcdf82e61bbf79e27de0a3355702a4813620c76fc5775afa
+clintonlibrary.gov.	3600	IN	DS	58866 7 1 ed616d97e47daf14869319223eb709bf7f848664
+clintonlibrary.gov.	3600	IN	DS	58866 7 2 a5c366b80f1839323d3e3c8e5890052cd7d5317d7ae6bb81278042ad45aa81d8
+clintonlibrary.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. XGBQqPxSmNoxUzcYGVxrLzL11GyoZ7gpCYC8XNg1PGVvAjziRyqWP7+ccWgBEkO7K4JVbYHDvNumlRXBLL/eBvjKS6QQj/F3xn9Mvali8Q3Q5j0eA6oN8KL+t/GE6HDNrFORn39ztUdfcQI5tVPWxYDIe51IQs6+8GDO3tMjxSo=

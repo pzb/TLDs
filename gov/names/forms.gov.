@@ -1,0 +1,15 @@
+forms.gov.	86400	IN	NS	dns.gsa.gov.
+forms.gov.	86400	IN	NS	dns2.gsa.gov.
+forms.gov.	86400	IN	NS	dns3.gsa.gov.
+forms.gov.	86400	IN	NS	dns4.gsa.gov.
+forms.gov.	86400	IN	NS	dns5.gsa.gov.
+forms.gov.	3600	IN	DS	27547 8 1 854f78e9a722a0d1e4fc0f6a903800f9602ed773
+forms.gov.	3600	IN	DS	27547 8 2 ea98a530fac3554f2dc943871f28e04b2c4e1933683288811a01e3edd4cb9a97
+forms.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. SyYRZ21CiKX6jTOMWI24ESe4ryfOcpgBTLi3f2SzelxORLNmWnKhc650zJ6XghXKECtXYgFj6drNJNohIGIHFHG83faRD+QBpMarxFUWnngFD9fwt+pT2V58PhIcsFM5+BaY6Dvd4aDM+bweKnbfFkDrr3GW+LCCqiRsWIKdi6c=
+dns.gsa.gov.	86400	IN	A	159.142.136.198
+dns.gsa.gov.	86400	IN	AAAA	2620:0:150:280f::5
+dns2.gsa.gov.	86400	IN	A	159.142.150.68
+dns3.gsa.gov.	86400	IN	A	52.203.230.235
+dns4.gsa.gov.	86400	IN	A	159.142.69.84
+dns4.gsa.gov.	86400	IN	AAAA	2620:0:150:4013::5
+dns5.gsa.gov.	86400	IN	A	159.142.45.20

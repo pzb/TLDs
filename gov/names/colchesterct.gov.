@@ -1,0 +1,5 @@
+colchesterct.gov.	86400	IN	NS	ns1.infotech-maine.com.
+colchesterct.gov.	86400	IN	NS	ns2.infotech-maine.com.
+colchesterct.gov.	86400	IN	NS	ns3.infotech-maine.com.
+fr3q11ladh7o1ralj1vpit799igtk6b4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. niU2g0vzdoSjiwbh4uhj/v9MODqr7S48srf5MtDcnculbOtS0Fc8N6htcwweVRr0WSFElJp1Y/aho9cEB2J32G3goNv+Cz+Sdd0Bfruyg6XlUslh3Rj1gcIuU1Si6kXMHXkYAWhrfKLab6yyPyrQ/h65q4fF+CKwknF1frqzQLc=
+fr3q11ladh7o1ralj1vpit799igtk6b4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  frhc4p28ntp3idqnlojran29nn2glov9 NS 

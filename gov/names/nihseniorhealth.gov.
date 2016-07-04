@@ -1,0 +1,11 @@
+gslb01.nlm.nih.gov.	86400	IN	A	130.14.252.50
+gslb02.nlm.nih.gov.	86400	IN	A	165.112.6.3
+gslb03.nlm.nih.gov.	86400	IN	A	130.14.252.53
+nihseniorhealth.gov.	86400	IN	NS	gslb01.nlm.nih.gov.
+nihseniorhealth.gov.	86400	IN	NS	gslb02.nlm.nih.gov.
+nihseniorhealth.gov.	86400	IN	NS	gslb03.nlm.nih.gov.
+nihseniorhealth.gov.	3600	IN	DS	36825 7 1 bf0fef657ee01de454f7a6fbf9be135a6c33c25a
+nihseniorhealth.gov.	3600	IN	DS	36825 7 2 b217523c844b27d542ffc5d431086f77688eaac86fca9dcabc94de0e3ec086a9
+nihseniorhealth.gov.	3600	IN	DS	56004 7 1 f652d43487317b221c4e7137f89074bfcfcc7b1d
+nihseniorhealth.gov.	3600	IN	DS	56004 7 2 5ed48830c2f7acb3a82e39e45d6d31a281475f4c3fc3c89257a5f8e7596f2f4a
+nihseniorhealth.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. xrlQKePXzBm1dIZRxd9ieWmvtvJD+ur2kQCYd52yz5kzR0/KB/ggWt3eBcC0zpqwCnub7ELZmcQrx8/HdgXGCPD/rUPWqVNDUUDBpM9QLnHbxlIckm/gN1UKOW4oK8b6xYkjZXfrYeTtWG9NTL4mku5Ey5UaLuMijSCfGW0vqLo=

@@ -1,0 +1,10 @@
+dc.gov.	86400	IN	NS	ns1.washingtondc.gov.
+dc.gov.	86400	IN	NS	ns2.washingtondc.gov.
+dc.gov.	86400	IN	NS	ns3.washingtondc.gov.
+dc.gov.	86400	IN	NS	ns4.washingtondc.gov.
+mjma57agkno8qfpbtq2k3fl450dum589.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fjd05yZADPffR8zckVtDGRMfDsQbzIsD/l2z+/1yX3hVUGQ4EbjxJ9zaxaOyXEoHgZEgRvkM36LfxP2hV+qnBk4c7AdQe3Fe6cOxZqhf50N1EzVlwGlMP98ebJQAtjRQHxDpmLeVKdjVXjUuijIXWzjud2xfsWZJKY9DgwtFEcg=
+mjma57agkno8qfpbtq2k3fl450dum589.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mjv1vq0e4ditehdpsb5bbnna3sad66th NS 
+ns1.washingtondc.gov.	86400	IN	A	164.82.148.141
+ns2.washingtondc.gov.	86400	IN	A	164.82.8.16
+ns3.washingtondc.gov.	86400	IN	A	164.82.148.241
+ns4.washingtondc.gov.	86400	IN	A	164.82.8.17

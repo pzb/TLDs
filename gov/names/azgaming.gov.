@@ -1,0 +1,6 @@
+azgaming.gov.	86400	IN	NS	ns-157.awsdns-19.com.
+azgaming.gov.	86400	IN	NS	ns-584.awsdns-09.net.
+azgaming.gov.	86400	IN	NS	ns-1308.awsdns-35.org.
+azgaming.gov.	86400	IN	NS	ns-1933.awsdns-49.co.uk.
+vjck2cj2lq1j9ftviqc1nf1ct4utrqel.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. tWKi2qpSvs5Srv9zzj4Krfj9RxIyTYA7/adfZGqYwxuM2HRqXcf9e3Me7gCs1XpwGshF9/x/isg8EitHqFcLrBxoSnKecbtZeEmhVXtnHPwOINCgoBjqGqk+SMMuVpdENEfzFA9cgTWSLSlMtsLXgZ/nr/2QCIDY9xLGVvX9lwg=
+vjck2cj2lq1j9ftviqc1nf1ct4utrqel.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vjmo6v02vg2h52jbvm9kqnmmpensv5lu NS 

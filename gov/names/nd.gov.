@@ -1,0 +1,4 @@
+lq7ucslc6nohc2pj87frd0575l6qdii0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hORXhW+4FRv5yTkzKd3Pl8WbdcqhRdY0xo5OCVJ4+sBg4nscWKYSvCImrLe5yBNtnUyDfsRSh4/3o4L2ooJzCWcbgAUs6P65oZHIBBfVRF5nvXZs77H6Z1coN2aRhj8kXcroBPyEI9JtiETKe1tpQzWSoozivKjK2xF0O9Kueeg=
+lq7ucslc6nohc2pj87frd0575l6qdii0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  lqleumc6lthf7q2cp8tktf6e1a31vn49 NS 
+nd.gov.	86400	IN	NS	ns3.ndnic.com.
+nd.gov.	86400	IN	NS	ns3.state.nd.us.

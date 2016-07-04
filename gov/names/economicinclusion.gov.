@@ -1,0 +1,9 @@
+economicinclusion.gov.	86400	IN	NS	ns01.fdic.gov.
+economicinclusion.gov.	86400	IN	NS	ns02.fdic.gov.
+economicinclusion.gov.	86400	IN	NS	ns03.fdic.gov.
+economicinclusion.gov.	3600	IN	DS	24469 8 1 4861d8f0b5241591184c38202af6f3d5f1f968e1
+economicinclusion.gov.	3600	IN	DS	24469 8 2 32d2bd6984005582bfa698c459a69a22351e39209f576b062cab4488df47d7a1
+economicinclusion.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. LUM5DTQUg9FICn+odT/wpJQw3dg5Hj68d99uzjS3LQnXzwemR4Z9FIF2Foq6S+F4FRnifwqiQaq7cQHsKiwEwWZOxAdBQx7+kes9OCDSE3ber7efUCsIi4AdDRzBXy4sq7L3Py6X4lXvumevtFA6be6rEgXQrrjHxkZvq+dXwec=
+ns01.fdic.gov.	86400	IN	A	167.176.6.78
+ns02.fdic.gov.	86400	IN	A	167.176.16.77
+ns03.fdic.gov.	86400	IN	A	167.176.26.77

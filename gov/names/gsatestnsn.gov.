@@ -1,0 +1,8 @@
+gsatestnsn.gov.	86400	IN	NS	a1.verisigndns.com.
+gsatestnsn.gov.	86400	IN	NS	a2.verisigndns.com.
+gsatestnsn.gov.	86400	IN	NS	a3.verisigndns.com.
+gsatestnsn.gov.	86400	IN	NS	u1.verisigndns.com.
+gsatestnsn.gov.	86400	IN	NS	u2.verisigndns.com.
+gsatestnsn.gov.	86400	IN	NS	u3.verisigndns.com.
+jmv5jkah8ogq22i92al7g55jt1o63lg2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. rHWi62D9ykD5oN3WTlHzwR05zCwCP+ZDCjDB13wMf9A/YW+wWfqrL5JIFRTH3tFezu+8c+3du+WddrEqoE0TMJNBnth8BjXVilZ3Iebq4hZIG8kouovQwwzb8KGTBOp+jeaJtQkdSbYngLwKh5BQ+mIhEb8N+tNPR7nzGnt8nWk=
+jmv5jkah8ogq22i92al7g55jt1o63lg2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jnvevou9j50c231hdrgu3cfmo5gni60m NS 

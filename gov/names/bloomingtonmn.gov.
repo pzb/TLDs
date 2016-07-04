@@ -1,0 +1,5 @@
+bloomingtonmn.gov.	86400	IN	NS	a1.verisigndns.com.
+bloomingtonmn.gov.	86400	IN	NS	a2.verisigndns.com.
+bloomingtonmn.gov.	86400	IN	NS	a3.verisigndns.com.
+udai1652hj2d8r4v1pq93m2gmmkqsb3g.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. V21lrRjbNREVPql/G7sxr2Ie6zD41IQBqe0dDIXcfWcfhf/mHRFmNDQbmZIAKp+LMhTMXwQiIboxD/VOTt7KgeI82g3N5Mc8Q3UT0ig57bcF8l3emyOJWvVdGT36ADfLZ1wJyBVBxKhBZ3tABuSzGx3K/oioyDn6WKMH0Jztm/Q=
+udai1652hj2d8r4v1pq93m2gmmkqsb3g.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  udlqnue2phcrblj4olhe008b37rrf397 NS 

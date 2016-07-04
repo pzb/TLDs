@@ -1,0 +1,8 @@
+dpte6kvjlm8dqsi5cv56gu82kf4a07iv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. P+qLarj845SYP7jC7zsZnHIDa0K3vwSZ5BLlQ3AN0dm1mqeHPZEZ8Kz0fa9XBT4K99UXQPTSfeJo9I+K6gHqiSbgzmZml4nFbvKcU27w2QdjendAt9WkCazYtehYP+NPBaFUFNuDrTtkLpEzsob+lLv2ltkA+YpTLRWKnnsWPjU=
+dpte6kvjlm8dqsi5cv56gu82kf4a07iv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dpucnk5iudvs94st0tvtnu6hdeiqpfbn NS 
+mauicounty.gov.	86400	IN	NS	ns1.iplt.twtelecom.net.
+mauicounty.gov.	86400	IN	NS	ns1.milw.twtelecom.net.
+mauicounty.gov.	86400	IN	NS	dns1.hawaii.edu.
+mauicounty.gov.	86400	IN	NS	dns2.hawaii.edu.
+mauicounty.gov.	86400	IN	NS	dns4.hawaii.edu.
+mauicounty.gov.	86400	IN	NS	comdns1.co.maui.hi.us.

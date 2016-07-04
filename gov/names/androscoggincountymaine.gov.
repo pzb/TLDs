@@ -1,0 +1,4 @@
+androscoggincountymaine.gov.	86400	IN	NS	ns1.oxfordnetworks.net.
+androscoggincountymaine.gov.	86400	IN	NS	ns2.oxfordnetworks.net.
+lpainrpmpbda0cuc7bu4tfspi3nnqg3e.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. EML0mP5sS3CXX4veD9nA3DekExgXKOKBjsL9VuYKXCTYut4p7jVliVWkpHjx8wWdoiSikynC69k5AlFjWvlI+Twm/xPqcIEHNf2Mx7xGk2KGyoF+7MHmHHP3BS3xbWPjCOBwNiGazE/rDcNq1Po1/uRz8vLrlctrejkO05vZtU8=
+lpainrpmpbda0cuc7bu4tfspi3nnqg3e.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  lpclfl7sa7btfpeuq675m0v12hd7cp3r NS 

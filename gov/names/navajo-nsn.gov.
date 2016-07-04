@@ -1,0 +1,4 @@
+guodsc1p5prd6k70n8odesaehp2f0jpa.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. OBhYWMOsjLdYfLjU0zn7LjuwerGKK6Ij1mV8ErWbbt37cWb4ZjqYXypo2NF+FFtd+8CVvA8iuDdXi3PYaM8ZSrWMUmC3VEhmHWWNNZlZtb1mWWMzHqMzrpk+T61RUCwRZ0OJG3KLRg7teEd5PYAeWCi77Ela+2+9dgf+cyoYWmM=
+guodsc1p5prd6k70n8odesaehp2f0jpa.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  guqq21962sd3r812761nk1v10t35tabi NS 
+navajo-nsn.gov.	86400	IN	NS	auth.dlls.pa.frontiernet.net.
+navajo-nsn.gov.	86400	IN	NS	auth.roch.ny.frontiernet.net.

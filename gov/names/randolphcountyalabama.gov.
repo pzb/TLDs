@@ -1,0 +1,4 @@
+randolphcountyalabama.gov.	86400	IN	NS	ns15.worldnic.com.
+randolphcountyalabama.gov.	86400	IN	NS	ns16.worldnic.com.
+t3cpmavoj8pbusu2m6njacsb8tueo98u.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Fpf6v4zryalX5ppSd6pV8EleiIaeBZUQc4fwvycE0AhR3oyUChkiEDjhMaBOGjnAMd8b43KO/nA8okXcaqESG/HoiGHzk/aTbOhvmdyPk341E8nDn/1cTi5qJBP59U9f28w/9yo8OgQgzDJHsu11lXApDK5IVagtMPDQ2yesRkI=
+t3cpmavoj8pbusu2m6njacsb8tueo98u.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  t3i206p854f3st4fufan2s5p51r52vod NS 

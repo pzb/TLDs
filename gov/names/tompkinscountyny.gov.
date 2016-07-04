@@ -1,0 +1,5 @@
+ot9vbq4bb3badln7eo0k4a3ulrs6tsk3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. OZIzwPuSw+fARApnYjk6sfdN1ba/jVoXQS5eMlcHv3SFWU2QPaJaG9QNzKzMx+p72SihTNaod2Dqx5s2AWRTu7M85RXduLa+u1kfjQtP+cDLHSU9FH3TMTNwfVUFsU4DbkmujwkHxc4g/p+YDFI5emfLoUCfs/e9Hiv6pPPb8ss=
+ot9vbq4bb3badln7eo0k4a3ulrs6tsk3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  otc8jmogsmf8jdqf5ip2a4of4hubi6j1 NS 
+tompkinscountyny.gov.	86400	IN	NS	dns1.easydns.com.
+tompkinscountyny.gov.	86400	IN	NS	dns2.easydns.net.
+tompkinscountyny.gov.	86400	IN	NS	dns3.easydns.ca.

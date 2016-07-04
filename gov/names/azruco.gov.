@@ -1,0 +1,6 @@
+7s26iekil8a87fm8cdnag2p85ojgqpel.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. jHWCF32aZawHLVhH7DRriUsohQl7ApQ5m29oO8GEDQV30NET00tNzEUnpW5upfAWSCaUOwH3cPjlM6jRan7h2+QQ8azf12tSc87CI/PZKkZ0M3ycrzafy+iFxABrPMAPQmJBUcYNFjj21JZOshuRSL5IANq2obZUMMkxlZITa9w=
+7s26iekil8a87fm8cdnag2p85ojgqpel.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7s368mmph8s2cb18qq30seaucmgqcjrd NS 
+azruco.gov.	86400	IN	NS	ns-293.awsdns-36.com.
+azruco.gov.	86400	IN	NS	ns-671.awsdns-19.net.
+azruco.gov.	86400	IN	NS	ns-1460.awsdns-54.org.
+azruco.gov.	86400	IN	NS	ns-1566.awsdns-03.co.uk.

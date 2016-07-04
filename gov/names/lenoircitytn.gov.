@@ -1,0 +1,4 @@
+0quikm99uf9sdle527ubm4ov499ngtd0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. gtGdadRXc+cYEPbp7si9ieA3rei2MIQjoJYm3Y3SOqHRl+1PT3DaSfWChtCxs7AhUL7pDgDLs7MyiFlDN6vlI1HG7Clp01lsaDn93F0VOrF+2KNL5oyu6z6DK3XMC0OGhanYDPxJqjyu04PkENwSAwCG3MTdSN2IoHwVFH9ZBFs=
+0quikm99uf9sdle527ubm4ov499ngtd0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0r1clklmhb85fg97l9al1n9ihhdce22h NS 
+lenoircitytn.gov.	86400	IN	NS	mns01.domaincontrol.com.
+lenoircitytn.gov.	86400	IN	NS	mns02.domaincontrol.com.

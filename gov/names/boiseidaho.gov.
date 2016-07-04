@@ -1,0 +1,4 @@
+boiseidaho.gov.	86400	IN	NS	pdns05.domaincontrol.com.
+boiseidaho.gov.	86400	IN	NS	pdns06.domaincontrol.com.
+rfgi4dphsm6c92ensa9q8c34mbflnu22.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. RPahFjDDwdijTIzWtn1ssUxCpxye04XnEnyv5WD+3H3Zz68CNFuf93apmVhey+pJd7QSsRbFTYCap/aOgGoZhNtHYnQ3VQiT6nq+cYh25L+ec43x9EVxg40ztu3AU0Vdt93IsKX8wY3b9JmI4440ofX3gi8U6o1rW25ZbmuQTlQ=
+rfgi4dphsm6c92ensa9q8c34mbflnu22.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  rfistqd6gku7dbesdcbpof38c5nsb02p NS 

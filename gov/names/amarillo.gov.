@@ -1,0 +1,4 @@
+amarillo.gov.	86400	IN	NS	roan.ns.cloudflare.com.
+amarillo.gov.	86400	IN	NS	violet.ns.cloudflare.com.
+p2kf9fk3aebgq0uf02bm3cfi3ir0of89.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. r6XmEj7riWNOyDjrCiLMInT18GOwQGuEnGQ07BDdtdFNM9cv2KPl20vasasBPZXIWOXISUBXWeAcup7XG4d+De/WRAGuzpw8nRTrn5mhUhXbCV5X7mzCs28z7i8rKc8Zv5I7jkKmQirtEnXXVA86GXqTYmEYCAW9DWWsMuYvD8s=
+p2kf9fk3aebgq0uf02bm3cfi3ir0of89.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  p2r7gpg6g7gfq6vigf0gh1sa586cn7a0 NS 

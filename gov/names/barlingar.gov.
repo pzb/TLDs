@@ -1,0 +1,4 @@
+1nlro0k096hlkeu9lmll709bqpergs95.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. X3RJgr+TbYIPxvb6MiTFc6lEnmVZHzB7ShyBNdPXubP42KRuCpXrue97WTHNRw3S32EfMk5RZrxUDioWaL9ySIr1ISZTl32bJ4LGxRCxzgxDwev0basgN57UsqHEb6ooWRewtqJ0o5Du+KK4eKFuUoCpF/RLQnTJaNB9OGTtHsY=
+1nlro0k096hlkeu9lmll709bqpergs95.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1nsdpttrkeds720lrr6k64dj6fhs3o87 NS 
+barlingar.gov.	86400	IN	NS	ns13.databasemart.net.
+barlingar.gov.	86400	IN	NS	ns14.databasemart.net.

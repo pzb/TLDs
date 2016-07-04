@@ -1,0 +1,11 @@
+docline.gov.	86400	IN	NS	gslb01.nlm.nih.gov.
+docline.gov.	86400	IN	NS	gslb02.nlm.nih.gov.
+docline.gov.	86400	IN	NS	gslb03.nlm.nih.gov.
+docline.gov.	3600	IN	DS	36825 7 1 f625035479d611f9f8d5c1eac6d0f54cbd5fbbe3
+docline.gov.	3600	IN	DS	36825 7 2 3b95c6bb261e3a05515aa96322c8936ac6bc5b340af57755b70f9be0bd38d200
+docline.gov.	3600	IN	DS	56004 7 1 7494872d77b517e8e4002f3145ca2dff7cb5e340
+docline.gov.	3600	IN	DS	56004 7 2 bbdc104b10214d3cc061e19a76c08b32ef01fdf00392853397b012fb64a61a1d
+docline.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. tAKPj44OhWfTFDI6wU0lKEIFr+TfLs8JyhkFOQeAPAws6+6ItJKJcnCt7o/c+mJ1DAsG20pKUY7O3yjWL9JUa+naNu4AjDD2O4Tt8/EJdiMTbZ0ic2/5cuozvQaptM6/LynkG+UQLfPxhtR2tjqY1RdUEbnW8ixrFiCF7DNsaa4=
+gslb01.nlm.nih.gov.	86400	IN	A	130.14.252.50
+gslb02.nlm.nih.gov.	86400	IN	A	165.112.6.3
+gslb03.nlm.nih.gov.	86400	IN	A	130.14.252.53

@@ -1,0 +1,9 @@
+buildingamerica.gov.	86400	IN	NS	foxbat.doe.gov.
+buildingamerica.gov.	86400	IN	NS	fulcrum.doe.gov.
+buildingamerica.gov.	3600	IN	DS	49696 8 1 ed3db6c374f59df30e898630ffbf2df0b7e12d2f
+buildingamerica.gov.	3600	IN	DS	49696 8 2 1809a42eb004ca5b3aaa332345efcd7a8ba79fb8728ad8bb78b002ebe38fcf91
+buildingamerica.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. c8qDg0KeTn6vyUm9GIZWup3yXXC4efRGOwnXvV4X6W5zyMupqbWnsJCSvcDkPGkZvA2LqFrfmYu85gZEdnSWFIaoGpy9SWQZClj1kNNNEygwVWhV2OluWBc2dAhnIiMiP9sKLzzN7jZ2JsimqI3Rk2ykL9EIjLsJdUVc3Ay4+vs=
+foxbat.doe.gov.	86400	IN	A	205.254.143.110
+foxbat.doe.gov.	86400	IN	AAAA	2607:f368:1000:1000::53
+fulcrum.doe.gov.	86400	IN	A	205.254.144.110
+fulcrum.doe.gov.	86400	IN	AAAA	2607:f368:1000:1100::53

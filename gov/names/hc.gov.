@@ -1,0 +1,8 @@
+hc.gov.	86400	IN	NS	zc.akam.net.
+hc.gov.	86400	IN	NS	use6.akam.net.
+hc.gov.	86400	IN	NS	usw1.akam.net.
+hc.gov.	86400	IN	NS	asia9.akam.net.
+hc.gov.	86400	IN	NS	ns1-145.akam.net.
+hc.gov.	86400	IN	NS	ns1-176.akam.net.
+hc.gov.	3600	IN	DS	54687 7 1 e1dab530b3b92e21674394b90f1774f635c3b4c7
+hc.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Ks7dye2/xDHLPvcEjB4+fwI0A7pv+RTI6JmBxZia4rA/wpWvm4u1PDVazWZfshvyt080tNRQPabBlN9ExJKIOvmPOHCDrbSNr5lEQlEolHb8UfbtCDRvm2wEzNvgwG78RQZ+TIsLOyBDfmmzg2bFu4hT3O+mcsyxGKZuONEtqCc=

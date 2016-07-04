@@ -1,0 +1,6 @@
+azecdh.gov.	86400	IN	NS	ns-252.awsdns-31.com.
+azecdh.gov.	86400	IN	NS	ns-617.awsdns-13.net.
+azecdh.gov.	86400	IN	NS	ns-1394.awsdns-46.org.
+azecdh.gov.	86400	IN	NS	ns-2034.awsdns-62.co.uk.
+sgh72q3buj83k738ts13fk9bq0qgdr05.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. lIyM2ptiX4wLyxRQgA9EvLb7SRZWmP26uAXn7RqcC3Xwxv7KjbBuRwnb4MTb0OLoe6HzxRfBuxhfutxxIteyuCKVtWZE9lOcePssMelLCRPbPoc51Mcn9b6EFyo1SEz6rIDLvhaZPZZri1uh5Y4BguFWDBLyYEmtdz+I9jPEZYI=
+sgh72q3buj83k738ts13fk9bq0qgdr05.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  sgkdf7giabcaf0qni18v7nv2efbsjm50 NS 

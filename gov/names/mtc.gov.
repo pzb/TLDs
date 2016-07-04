@@ -1,0 +1,6 @@
+mtc.gov.	86400	IN	NS	mtc.mtc.gov.
+mtc.gov.	86400	IN	NS	auth1.dns.cogentco.com.
+mtc.gov.	86400	IN	NS	auth2.dns.cogentco.com.
+mtc.mtc.gov.	86400	IN	A	66.28.69.61
+vkfcs79tinre8u16be0i19fbofm4qu7p.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. t4qUW0kCHObpqTtBJ5hd1aKHkXfXUU2YN/dyBreo7WJW7FdURM6FFR/TmT3loP3UaCxmL0ZHAoMJ0E4C8+ke4kwwdHaiLKfeYDpHpAG/scGmfw1zSkGA4e/7lkraiA3yFQnmcjbDNBXlWuze7sB3mqeJs+ehG5SnNIP+A1M2SIY=
+vkfcs79tinre8u16be0i19fbofm4qu7p.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vks8sv80pr8qhovu982p271p23sr8iv8 NS 

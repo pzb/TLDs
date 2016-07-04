@@ -1,0 +1,4 @@
+7tac4c0o6hqo4tm8938jsrf17rhk6bpn.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. XHwn8y2HXXq0elnIQ417wGkkGHwErW4hKYeA6CJUXiSW74dEWNofsrQJGDAijMQt84tU3S9TWlbKVOfrPaoR8oJmZu0Bbl0GKfe5yVxg/tUSs3SE9YujhrwBOGiwXx8s8mRDPzStfwIt3W3epEMx6nQr+3XijOpqrx6kbwrmPl0=
+7tac4c0o6hqo4tm8938jsrf17rhk6bpn.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7tge0pne63c9lvl4e2indmamoe7h29g2 NS 
+okhouse.gov.	86400	IN	NS	lsbsvr.lsb.state.ok.us.
+okhouse.gov.	86400	IN	NS	mainsys.lsb.state.ok.us.

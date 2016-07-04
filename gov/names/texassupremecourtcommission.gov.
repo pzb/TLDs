@@ -1,0 +1,5 @@
+hs8i065gi926lv2hetlftm0f437fmoer.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. G1z66RHAYUJYV3rpQGX3crLJ5Rfe1nmMzBvJSM9E6oaFA1aswkU7neEtC/7AONQGgpuUHraaclp92C5xr3rISctQxjpOAmTUb3l9aZx8Zb8tpA0meWLbWBwpa9T3gDRkHOhY6bKNDefEFezy1lCoccIrR8LeOtqYGreU9pFlhVw=
+hs8i065gi926lv2hetlftm0f437fmoer.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  hshk57ncickj95aujuk8m4s34ts99vrh NS 
+texassupremecourtcommission.gov.	86400	IN	NS	cns1.courts.state.tx.us.
+texassupremecourtcommission.gov.	86400	IN	NS	cns2.courts.state.tx.us.
+texassupremecourtcommission.gov.	86400	IN	NS	cnsw.courts.state.tx.us.

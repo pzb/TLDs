@@ -1,0 +1,4 @@
+7fsc10gcs7b8j4uavv4sdolcedvgono7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. DRH0tFsZ/gNj1uTha/1VJ/KQ2wqSej7OYaad6Zr2KWrCiF1B3Jbv54P427s6wmiDpSL+GzerQOeakuFZZtawb5Gf7x9Zqlbqc8G4EwECIN6nvWqGJEb71ilV8voBoQAH7vV8UVTaMttkWkYzAPGjYqlgqBv/kGmiJ84QB4zDvbs=
+7fsc10gcs7b8j4uavv4sdolcedvgono7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7fsesfs9fln5k57ifrmoua0amjkrrufc NS 
+lowell-or.gov.	86400	IN	NS	ns1.a2webhosting.com.
+lowell-or.gov.	86400	IN	NS	ns2.a2webhosting.com.

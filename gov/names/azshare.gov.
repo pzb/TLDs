@@ -1,0 +1,6 @@
+azshare.gov.	86400	IN	NS	ns-355.awsdns-44.com.
+azshare.gov.	86400	IN	NS	ns-732.awsdns-27.net.
+azshare.gov.	86400	IN	NS	ns-1422.awsdns-49.org.
+azshare.gov.	86400	IN	NS	ns-1626.awsdns-11.co.uk.
+uav7kkpp19u83tarht6innpi1319ap1j.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. PNi6o6S8HopPNoLzTNIwVAO3NSNLDefaMgD2vFUupKsx3rq1WzUFu7FNMYJB9WtjHiq5lX21ht408iBW6Itdk+SJgUkIwk24wGOM8hV7khPeKkMHxKxTl79dbMXIDoSI0PUOs8+H5I6JhxogVfrZ5R5M41saEYXBasFHZRDZT8c=
+uav7kkpp19u83tarht6innpi1319ap1j.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ub0a777osrrrhbdanqievqv9dh0e0e51 NS 

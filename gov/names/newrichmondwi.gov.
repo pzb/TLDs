@@ -1,0 +1,4 @@
+newrichmondwi.gov.	86400	IN	NS	ns1.avenet.net.
+newrichmondwi.gov.	86400	IN	NS	ns2.avenet.net.
+vq2656lt0dtvf1a0l18gv7glgh2cceh8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Chh8iriXWy4dt8peVn/oBxLU/slTw1jdXECD+q/ON0C+MkMhTbKpzBcYAwOz6kukK1ljI6DKBurG/UKg/fvqXMiUN+KboFlQIpH8ZpZ7N02HAd1S494CANs6+ileVTWzbG08vxHzA/bPifCxepmijpao/zytvmWhHptR9MdeYZU=
+vq2656lt0dtvf1a0l18gv7glgh2cceh8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vq4sg19om6htkvu65gscu7s71phljq2g NS 

@@ -1,0 +1,9 @@
+ns1.cdc.gov.	86400	IN	A	198.246.96.61
+ns2.cdc.gov.	86400	IN	A	198.246.96.92
+ns3.cdc.gov.	86400	IN	A	198.246.125.10
+healthindicators.gov.	86400	IN	NS	ns1.cdc.gov.
+healthindicators.gov.	86400	IN	NS	ns2.cdc.gov.
+healthindicators.gov.	86400	IN	NS	ns3.cdc.gov.
+healthindicators.gov.	3600	IN	DS	46221 7 1 7cc264b6c66e87b190f0acc389b42ab808788732
+healthindicators.gov.	3600	IN	DS	46221 7 2 611c45b87b199835a2a3c83fdd946dbf266dffa7e58c3a5bb3ce1e608509cbbc
+healthindicators.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. am1ki3KW3pOY+0eqjZu+bg3vcjJlp213VmQcB9KJ9aqQCgKP9pZIqikoLE1w4MkBB9jEiKfDJnj0aat36GL+ZBgI01cMVW2jq9PwYfTTNRyXOLoloCR5+8JHYwi1Ipsjt+JuWv9ygjFfJdwhOeYK3h6um4lwbKXzcFg1uRlSpMM=

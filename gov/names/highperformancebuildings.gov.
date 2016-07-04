@@ -1,0 +1,9 @@
+foxbat.doe.gov.	86400	IN	A	205.254.143.110
+foxbat.doe.gov.	86400	IN	AAAA	2607:f368:1000:1000::53
+fulcrum.doe.gov.	86400	IN	A	205.254.144.110
+fulcrum.doe.gov.	86400	IN	AAAA	2607:f368:1000:1100::53
+highperformancebuildings.gov.	86400	IN	NS	foxbat.doe.gov.
+highperformancebuildings.gov.	86400	IN	NS	fulcrum.doe.gov.
+highperformancebuildings.gov.	3600	IN	DS	40069 8 1 a2ed7b045148977d77d87a1baf5605967b687d3a
+highperformancebuildings.gov.	3600	IN	DS	40069 8 2 d2a6e2fc9d291a5f88c5bbf0b49ba441131f42a021367a404a17c56e933564ff
+highperformancebuildings.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. iKxNRNnTTGXzuVtn98kXPRzm/w2C1SdaEFpm2P17mg2DL3apwuXmUhQdf8kJu6hfys/0T5K20FT8zjhmOb0Js6sURb7XdoWeILZrARYZiN/hX1Zq3zigpgF7C+Dlltu6VzG2+wJPINfoUC4gM5f9QGzTLVPXxDtCrSZRFbB+rz4=

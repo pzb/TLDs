@@ -1,0 +1,6 @@
+7q8371j798kker5rui5prl08b9b3mbna.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. B0GXXqDa+aa6ipmNF0GaXwnWNkOtxKK9iIzgrTHvM4W59cihQIAeg+lNOC1Y7xF1t1VY3ARIo9sztTSy/n29Bt8Kj5X+e8FfWedw5NiD7U26OoLdxEo1fsEpFR+Q4FGEBWwK/JGTdhxfK6+L/u6xRtaDZvqK9slUznqOclZAJ5Y=
+7q8371j798kker5rui5prl08b9b3mbna.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7qn7j46ns7tvlblfgs9grrgkt76fjm3g NS 
+dns4.tn.gov.	86400	IN	A	170.142.92.58
+dns5.tn.gov.	86400	IN	A	170.141.168.22
+tnquitline.gov.	86400	IN	NS	dns4.tn.gov.
+tnquitline.gov.	86400	IN	NS	dns5.tn.gov.

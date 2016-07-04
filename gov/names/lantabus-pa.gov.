@@ -1,0 +1,4 @@
+g2vui41svk513iip9rda0gr2jhj90i0u.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Q7poVgRj3ALzY9GPbM6LX6d0y/0JAN9zMt5gaqIFV73UGh4fWB46W1mpBj7qgJGXOI3UAXMnD3GNcq7mVefgrCn3vw7vHANu1LBRXEcGgi47JYvHSnIrgbP1RsdLhV+S9NZwJLPrgQ2LFejgxKchhnvQrC6s5BlOxIGOXchQdMY=
+g2vui41svk513iip9rda0gr2jhj90i0u.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  g344822pi0riru8hmbf1rdiedjda3530 NS 
+lantabus-pa.gov.	86400	IN	NS	pdns03.domaincontrol.com.
+lantabus-pa.gov.	86400	IN	NS	pdns04.domaincontrol.com.

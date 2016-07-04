@@ -1,0 +1,4 @@
+jfn0nednh0hmorlp1c9me5jbhtsecrqj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ppphm06MBlsbReu7zxJMnks0Yr3VKcUu4SsFcoqPxiehbgDwM6yI+vy9tXkRvvcSYWaVGVqpsB1nA/Dl+mz1mdRO8HtKQwje4mqQocJQZ3xCMShJ/hCKuS/v2q1F9BJ2X0IGOThQ2wboA4LxwgmmfwiySgTHhZb2otfVoSnCldk=
+jfn0nednh0hmorlp1c9me5jbhtsecrqj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jfqgvpul5uvq4q2dbkudp0h94d5v6p4p NS 
+smithfieldri.gov.	86400	IN	NS	ns1.s418.sureserver.com.
+smithfieldri.gov.	86400	IN	NS	ns2.s418.sureserver.com.

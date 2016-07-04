@@ -1,0 +1,4 @@
+kravdi7occ5qiu0l8v9v4a7te812o09l.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Y4asG1JyCJGUJUy452iW1IhLyTp2y/zDdcQ91RD32R65QKqKYm3dk80l2TLOu/GKxCUelL+sQj4Z4qdGkKclLz1B0mMsGZ7JSWfixknMTCfgBOZMShzdqWQKFSU64U8yn+P9u36HSM6A8bHNjHp/2lrqEM0jIzp4hMrIC09XjOM=
+kravdi7occ5qiu0l8v9v4a7te812o09l.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  krgmreu7kjp7eeigmt336i6qivjgip1m NS 
+rockmart-ga.gov.	86400	IN	NS	ns1.att-websites.com.
+rockmart-ga.gov.	86400	IN	NS	ns2.att-websites.com.

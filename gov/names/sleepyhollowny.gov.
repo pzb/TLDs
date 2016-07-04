@@ -1,0 +1,5 @@
+h4eue4d6ihse62cm5tcfpqvs06tfeukf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. g0/wBpJgabJy5hALEX5Kn6CyKKdQXG183hX+y+eeqkqdw3rOfjvWLKaY5mzngG4mbWHeQBhdnj2W+cHo3ZD3tBYBbp3zt8lhhthDXUe1jZbdmbr/Zy8UhSLj4Nr5rerjSkJNZwEYd9cLzKGu06oPTVqKS5rGK8KNRvBEEiryqNo=
+h4eue4d6ihse62cm5tcfpqvs06tfeukf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  h4naiqe26ib6ipi6io3abol12bd5mos6 NS 
+sleepyhollowny.gov.	86400	IN	NS	ns1.infotech-maine.com.
+sleepyhollowny.gov.	86400	IN	NS	ns2.infotech-maine.com.
+sleepyhollowny.gov.	86400	IN	NS	ns3.infotech-maine.com.

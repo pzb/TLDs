@@ -1,0 +1,4 @@
+iti4df1pi7g74huqmee9l1t2ekaqc6f0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. sT8EqgcS9Y+oDiU2OpltK3cDF/nH1rdGCVAvdItNv2Cjbt2NszphwdZhXTnLkzqfKBY59h5UX4UIjKPCLyCHz8Z1niGi6SRQI9+i9sGraev4S4sZKU25iSqSqwWgjBBkr0ZS1YYs1hOg+r4o7wDsuhMBfGsgxQMTXbsFcOojSNM=
+iti4df1pi7g74huqmee9l1t2ekaqc6f0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  itnqeaj06ggsg9tl2ufajfp1sjc48co5 NS 
+westfrankfort-il.gov.	86400	IN	NS	ns1.p24.dynect.net.
+westfrankfort-il.gov.	86400	IN	NS	ns2.p24.dynect.net.

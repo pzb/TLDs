@@ -1,0 +1,6 @@
+0uuvq29ea50k42spe5o5797m9hltco0p.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. HyNKtESNZeoIzw3vgIcyeTNKla6jyS7/xjSCMTnWlq8WTTMnC3VtELE392UlAMX5V5DYC7idIE2LeZMa9cQxQbtWPcqPhlWspCD7heO18T25zbABljchqAW0YWW8G8GJD51mazzcCpm3bTnVNbZN6+LTiwIOwJJGPRGmPtXkKNs=
+0uuvq29ea50k42spe5o5797m9hltco0p.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0vk2e4p1v011br45n51pu0cgscms3g8u NS 
+thurstoncountywa.gov.	86400	IN	NS	nsoly1.wa.gov.
+thurstoncountywa.gov.	86400	IN	NS	nsspo1.wa.gov.
+nsoly1.wa.gov.	86400	IN	A	147.55.186.3
+nsspo1.wa.gov.	86400	IN	A	147.55.114.3

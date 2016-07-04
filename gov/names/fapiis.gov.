@@ -1,0 +1,6 @@
+fapiis.gov.	86400	IN	NS	ns.jtfgno.mil.
+fapiis.gov.	86400	IN	NS	ns.cybercom.mil.
+fapiis.gov.	86400	IN	NS	ns1.csd.disa.mil.
+fapiis.gov.	3600	IN	DS	3685 8 1 2acba31360f42a1da3178bb1a66ef5a4cae81dea
+fapiis.gov.	3600	IN	DS	3685 8 2 71ed457bf86d8f99e80ab6f494a61db72592a11171e482eb8be8053c23fc7e4d
+fapiis.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. RAI8MhbLHhqBBZ2IM4Q+vft+jlQcnfndBaIHzA+bAQYNicSuTDVQKVzvbLpvJWGAVXlS/RG2uit5GC4IBa464NMySUxxXaHSxjE7Sj04nPPbp701iMpa0arPiM/M6u7V6fS9zhFsYxfOFQpl9m3acJx4G07Y1djJBQxXC1BLuvA=

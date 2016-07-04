@@ -1,0 +1,5 @@
+fayettevillenc.gov.	86400	IN	NS	dns1.easydns.com.
+fayettevillenc.gov.	86400	IN	NS	dns2.easydns.net.
+fayettevillenc.gov.	86400	IN	NS	dns3.easydns.org.
+o6hfja711hjcij1l28s82pqganmk2rka.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wpRitppb4UdwK9kO/eGpPgViIBc2/4wJFEsQtmzyZTttyXVp7fLXKrMTE3nq5htwPDNDc8tYqngEGWhduXdTQq5Sev7/kLQIEqAVvopgRZXMMHb4rESYNJAjbm9tbX4iW/n54ydAxGkT3jWunr7vUy45qjNCuYWr6UYTLs8Vd7k=
+o6hfja711hjcij1l28s82pqganmk2rka.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  o6rv1cal6cd875rltfv83b5m3m9l42ul NS 

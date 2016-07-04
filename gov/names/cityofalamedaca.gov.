@@ -1,0 +1,4 @@
+4n7ervmnvnfhb2hrlgg4kuj885v3m524.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. NGG0swr6XwEkKhorYy1TVciM9s37MpuNYBgrA8DLMMz5bV5sKljSao3Zz+N8LBTSFFJNDDjTTmeYZwuOs/By6e/b8SyHFk012ofiI4F5bGPRfQcirfI1tkAW50wtBXtlWHx9I2xl2DoRi62oZGDtxkBgadCpu39yrub98j8NDhE=
+4n7ervmnvnfhb2hrlgg4kuj885v3m524.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4nckpb8etn4mc4te8pli6hvlicsglfa0 NS 
+cityofalamedaca.gov.	86400	IN	NS	ns1.pbi.net.
+cityofalamedaca.gov.	86400	IN	NS	ns2.pbi.net.

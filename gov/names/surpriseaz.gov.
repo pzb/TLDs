@@ -1,0 +1,5 @@
+bcf2gbifekumc94nosvjuok756qghlcr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. GjCvFFYjeNuKFstEQMoHiGMbheTD1tyS6ZCEtx92e24F90d79y2WpiOzyYMgFa9aR2zbo1M6pLlXnH2ZxL+YQDzI+kolXU5fJB3WKsgwS49PAF/B6Qojzq0f8dobW2uMaBogTLuB/puhLax8g90sBAajM2I3QlWR3PlCTtQdVzw=
+bcf2gbifekumc94nosvjuok756qghlcr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bcrmsuqkqa8965qake9cr1ejdr269ic0 NS 
+surpriseaz.gov.	86400	IN	NS	a1.verisigndns.com.
+surpriseaz.gov.	86400	IN	NS	a2.verisigndns.com.
+surpriseaz.gov.	86400	IN	NS	a3.verisigndns.com.

@@ -1,0 +1,4 @@
+pf178v4ba4e752a4fjphjgthe1mbn77a.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. VeSZ+gYqkFqffsa5JKTscWlSlcxP1lGCsdjxX2Q7pu5bHJqti8msd5p437huh+OyBlj6H/IuGY0PA1TMd/uYXlleb3R16EDlzKhUq9bO3AJCFxuBT5dOmW0A0m0uWqGUq1jm7nLRr59bVqneI/khFdeZdng3taAuyimVA2V1xO0=
+pf178v4ba4e752a4fjphjgthe1mbn77a.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pf9b4tc56lhp3qv2veg6ip60vnr2cpfi NS 
+sanpetecounty-ut.gov.	86400	IN	NS	ns1.manti.com.
+sanpetecounty-ut.gov.	86400	IN	NS	ns2.manti.com.

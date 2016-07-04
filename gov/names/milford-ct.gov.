@@ -1,0 +1,4 @@
+milford-ct.gov.	86400	IN	NS	ns1.infotech-maine.com.
+milford-ct.gov.	86400	IN	NS	ns2.infotech-maine.com.
+v6kbc568nau30e2j0dsrh58vr045033j.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. pRnf4pPI3Zk2zKeh0tQYxGYiPlX0nuGolvhbvUOvbDocHy4Md/oA/aikC9skhOIexew2QJKCmiLr9jW29VbT9y+xEdD1QCAo25pBSXkY+6fe/nuoEO/fGExYax/3JytafLv/HCpWkicRXdPDwCJBgSngxnal1K7VOpjOhZvHbrc=
+v6kbc568nau30e2j0dsrh58vr045033j.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  v6vrlc1g2fq4h0j6fgl74831c9harmdm NS 

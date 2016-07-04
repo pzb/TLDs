@@ -1,0 +1,10 @@
+5ahhcngcfno2kquqj4f3qigi42k86e7j.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. WXIJQf93REEyV7y5byiwqWEB28yI50pRY1DS2Jb7iq/UOejDbhqLPZhmPShFMSNfnfvec/p9Qs8ch4iFw18HfYZ4pZ9VlYDMUmeh+PSKmOQPwNRtmwdJzr/wABFkIv4d5ELERkA/Y0y6WPHWJZqXTL1YPa4oXiQhvPOSp0+NZMQ=
+5ahhcngcfno2kquqj4f3qigi42k86e7j.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5aichnv6n8v08hu8ivfnmm5bjuqv5u4u NS 
+panynj.gov.	86400	IN	NS	tccedns1.panynj.gov.
+panynj.gov.	86400	IN	NS	tccedns2.panynj.gov.
+panynj.gov.	86400	IN	NS	patcedns1.panynj.gov.
+panynj.gov.	86400	IN	NS	patcedns2.panynj.gov.
+patcedns1.panynj.gov.	86400	IN	A	12.1.49.19
+patcedns2.panynj.gov.	86400	IN	A	12.1.49.18
+tccedns1.panynj.gov.	86400	IN	A	206.137.235.80
+tccedns2.panynj.gov.	86400	IN	A	65.254.128.110

@@ -1,0 +1,4 @@
+9puv1lc1jkajvf1u9nanckn25dkdscm3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Qq6+2/Qf+KzRK8hGHpidANTePcIgrlw1AvmVW2qXKhvGUyciFqbZyJ8Ci65VjSfTNLip5Z556EB012G/EZCamw1NCAUQjq3+2G7R8We1CKWwUNZffADQd6OgqsycCWWv2WXOjoegHb3IdmNXt6tl7sNwATBND+x36hKPKJMK7ro=
+9puv1lc1jkajvf1u9nanckn25dkdscm3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9q15g0v068cmpfe35d06n3cofscrm28t NS 
+traversecitymi.gov.	86400	IN	NS	auth0.ns.charter.net.
+traversecitymi.gov.	86400	IN	NS	auth1.ns.charter.net.

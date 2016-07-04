@@ -1,0 +1,5 @@
+96okcgn1buvj7l8btk4cuakl7q639kuv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. GNbFoKXw0Pxi2dR+2HPby1wLqiVTz2X9Z0E77ko3e2jzJmdZxOCcThtrnnLTeShxtd/MQOm7peaeCPbrPyL7DVch6rdf2FGx9AGmO5YvPkpuO+szq6wqean4YEjxGU2kIH03f80n5J1oaD5Bhetx6KTFCDWpJJWPHLGM6KcNBYE=
+96okcgn1buvj7l8btk4cuakl7q639kuv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  96pedl6p040cp4b4ogusel3p5mveq1jh NS 
+dns4.maine.gov.	86400	IN	A	64.223.148.89
+paymaine.gov.	86400	IN	NS	dns.state.me.us.
+paymaine.gov.	86400	IN	NS	dns4.maine.gov.

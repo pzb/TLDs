@@ -1,0 +1,4 @@
+beavercreekohio.gov.	86400	IN	NS	dns1.civicplus.com.
+beavercreekohio.gov.	86400	IN	NS	dns2.civicplus.com.
+l04qdm6ka3083334dmqt3rut4kv2oqac.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. qHtc+xHBBMBGQ5YBbhDRZlugI5H/lamvVdynb5sorPnPWeR8vkR/MXm4kFjNL7RtmS+w2rKZYoYnqOgKkX8f/uHgz8yyXi4DpwKW4WZfVs5LmqQ6Pbeng6L2GVFD/kh5LyQlDEr5rTL9IEqKNJICNO+CEem69hph0ozXYpD2rVc=
+l04qdm6ka3083334dmqt3rut4kv2oqac.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  l06ks8n3unnkojck42ijskf2l9iceok3 NS 

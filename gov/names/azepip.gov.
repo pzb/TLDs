@@ -1,0 +1,6 @@
+gtm1.azahcccs.gov.	86400	IN	A	170.68.81.247
+gtm2.azahcccs.gov.	86400	IN	A	170.68.81.246
+azepip.gov.	86400	IN	NS	gtm1.azahcccs.gov.
+azepip.gov.	86400	IN	NS	gtm2.azahcccs.gov.
+bmju6ikaqm14fu4v3k2vbg35k746psmt.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. JWEBodEcau4w/UaRCw62Sx52gpAnm96KZmP0PiATlJZXZee43dAdMRC5hyT7FOihmSn/K/06Y8uQjKhuxBUWWRmRAsSRqhlGeeRLXLCf8lpstA10h0JcUUX9LRP+0vpIw20O778OLvj4bGX+6oml0fc67uyIGRM2e1b8FebPtwc=
+bmju6ikaqm14fu4v3k2vbg35k746psmt.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bmk6ma8onagohdd9obkrjsunvftmb1tl NS 

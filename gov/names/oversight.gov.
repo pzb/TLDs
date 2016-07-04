@@ -1,0 +1,9 @@
+oversight.gov.	86400	IN	NS	dnssec7.datamtn.com.
+oversight.gov.	86400	IN	NS	dnssec9.datamtn.com.
+oversight.gov.	86400	IN	NS	dnssec10.datamtn.com.
+oversight.gov.	86400	IN	NS	dnssec11.datamtn.com.
+oversight.gov.	86400	IN	NS	dnssec12.datamtn.com.
+oversight.gov.	86400	IN	NS	dnssec14.datamtn.com.
+oversight.gov.	3600	IN	DS	42896 7 1 a28e7eec40a74d532ce6323d57405c410ad4c3f1
+oversight.gov.	3600	IN	DS	42896 7 2 019c703d174173e1fc731206d27d7e3fc9d868d9d400061993b932e88136fe7f
+oversight.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. q8dFL2vhAR06m4GsNz+7o8MNnwqun0n2rHB/cW7qWHG/8kJ2xq17LZys1suJCSY8FLJOj3rmqTBL1g6i/7JATllaRMf4Yn3D9xAoDTSvWLn60bOe5axEj7hfHgRKlJVR0tYgVX3Ys8dKiwhFg+d6ir8f0RWmXoP6XFo0rwurBag=

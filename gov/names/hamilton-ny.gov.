@@ -1,0 +1,4 @@
+c329bt0rqv86676vemd5qn5jegv1th5d.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. r0U7LCluYN8d5ib9pXA9fZqdeFqELqras5EdEine4SRs/S16d/4IFWCpxV0LpCejZ7qNEZ5+2XZ86mv/64krMtzzrm3GjQNFANxNP2Man5Plp8aytZxVIVWX8JT9p6qiFeifLhLC1NsJ9Ka6rCdC7532A+j+wGKupI9cEaRtRUQ=
+c329bt0rqv86676vemd5qn5jegv1th5d.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  c39bond30p43bnigjh0cagl112c7omda NS 
+hamilton-ny.gov.	86400	IN	NS	ns63.domaincontrol.com.
+hamilton-ny.gov.	86400	IN	NS	ns64.domaincontrol.com.

@@ -1,0 +1,4 @@
+bridgeportwv.gov.	86400	IN	NS	ns1.wvinternetservices.com.
+bridgeportwv.gov.	86400	IN	NS	ns2.wvinternetservices.com.
+g0n8jcgugr6s57dof01vbjq9k0k512oe.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. SmXK9yfWMej8ZiFobxQ+uzZtlUpukqouu9B4AJMkevVJuoADJVyp32xTyZCKBMEh3SLgj03BBffwHJhK/gG9siVuLzUB8c4pxUjfW8vVdX1UF44AE7HO7ZdzHPQ+U33RlQK/6TkDlN9dPUSQV8b5p79LL5PgG/9btZiUh0/GqHc=
+g0n8jcgugr6s57dof01vbjq9k0k512oe.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  g0ode6g6tgd4etrnt245k42jg7me4f5h NS 

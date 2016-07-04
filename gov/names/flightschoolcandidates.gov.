@@ -1,0 +1,12 @@
+flightschoolcandidates.gov.	86400	IN	NS	eur2.akam.net.
+flightschoolcandidates.gov.	86400	IN	NS	eur5.akam.net.
+flightschoolcandidates.gov.	86400	IN	NS	use2.akam.net.
+flightschoolcandidates.gov.	86400	IN	NS	use5.akam.net.
+flightschoolcandidates.gov.	86400	IN	NS	usw4.akam.net.
+flightschoolcandidates.gov.	86400	IN	NS	ns1-46.akam.net.
+flightschoolcandidates.gov.	86400	IN	NS	ns1-96.akam.net.
+flightschoolcandidates.gov.	3600	IN	DS	10510 8 1 9a16ca6a8e06758824b18d499bed616ef9dfa285
+flightschoolcandidates.gov.	3600	IN	DS	10510 8 2 95b28b9e4e58c59b0604d3c55939d4aa2f335b8c1205ffb1a532263243a5a796
+flightschoolcandidates.gov.	3600	IN	DS	40790 8 1 a0aebd5e2c604851c5dbabe675ef7e2a9d4cc587
+flightschoolcandidates.gov.	3600	IN	DS	40790 8 2 9323c05203cbd0c0106cb6aa2f2a0a8cba9047dfd2864c8ff17774ec1b804b30
+flightschoolcandidates.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. FuK4UftQkkOPCOf5nBnrqN/DM0KyStUzsZtwZIHb25MmtCUyQrRbS6ZesukZr1fwBcN2IfTWZEfsvkDTz6W/J5n//19JT9AE/pCEyc9tZz/4mxhnklgqw8HDtJg9++rLq+X39IPzbWCrDGeQ4GDIuWKTET6UNra2eZlmN6GWcWQ=

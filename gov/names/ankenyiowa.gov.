@@ -1,0 +1,4 @@
+ankenyiowa.gov.	86400	IN	NS	mns01.domaincontrol.com.
+ankenyiowa.gov.	86400	IN	NS	mns02.domaincontrol.com.
+s3e375obv53mtdlqv4a7b5n2h7gsc0n5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wmJ09RsXatJ6AxTzBmOIjwck+qY/NGnuzaZFsiNQynh+083pw0AnDXb5FTYUbdN/7fKroxIi10eKGySQ3KpB4eo9VFUc2eaNLR5wG49WUYMCOjr/m6sYx2lPOwY9cT4o3gQSfs/lg358og9vNjQPjE2P7i+yrRuk2lPQxc5OHnQ=
+s3e375obv53mtdlqv4a7b5n2h7gsc0n5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  s46neqqtq9kll0tg4e51hmdla0rt77bh NS 

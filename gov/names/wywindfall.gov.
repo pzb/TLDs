@@ -1,0 +1,8 @@
+l4t1h4c6up26b52rdn6rd9bdb0tvdldk.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. siUkrWowgnDNraYi2P8zTgErTnKcQEHx1KIhBZFRxqBSIcE+OBsytLNytMebKQU0rZiK3Psgxty00WeXCAo9vt7VwBKS4z7+YossCvKqpOdqFcm0Jq/CfovHvqBxPZDDg1JMw7rdDEUoSYvtDfarQCDewgmhteYnDvidoi+neks=
+l4t1h4c6up26b52rdn6rd9bdb0tvdldk.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  l4tfj0eu3csdf9ejv6jansme7vtlgufn NS 
+wywindfall.gov.	86400	IN	NS	ns10.dnsmadeeasy.com.
+wywindfall.gov.	86400	IN	NS	ns11.dnsmadeeasy.com.
+wywindfall.gov.	86400	IN	NS	ns12.dnsmadeeasy.com.
+wywindfall.gov.	86400	IN	NS	ns13.dnsmadeeasy.com.
+wywindfall.gov.	86400	IN	NS	ns14.dnsmadeeasy.com.
+wywindfall.gov.	86400	IN	NS	ns15.dnsmadeeasy.com.

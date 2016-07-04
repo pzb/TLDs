@@ -1,0 +1,4 @@
+bayvilleny.gov.	86400	IN	NS	ns8335.hostgator.com.
+bayvilleny.gov.	86400	IN	NS	ns8336.hostgator.com.
+jgp13jabb0i6g9te2eaptlin3gp0p5sc.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. g7kJOLSbiGKIrkDhuGCkhluFowTBJkTk9TMaABu7CTpelwX3zlrW4aJrCtCwpHnMCRmNKaSVQXJhvoRpTOIZG5v3dI1/Ckh+ZynyD4J0TXz2lzGgXlBjsJ4WAuJvV+DlM7BkXCYaY1Z1fUaKepJG1QvPH0rA8HsnSrhM1a11YKY=
+jgp13jabb0i6g9te2eaptlin3gp0p5sc.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jgs1cum9qnuo9dijdkhf0le4g3b1kblg NS 

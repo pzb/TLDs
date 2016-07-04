@@ -1,0 +1,4 @@
+easthamptonny.gov.	86400	IN	NS	ns1.hamptonswebdesign.com.
+easthamptonny.gov.	86400	IN	NS	ns2.hamptonswebdesign.com.
+gn2p42134b8vruesuiesofedhmmc3kal.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. I6rlbmRn8paiXhR0YJ0ZjmiimHU8OJyEGPZ/VdXrlwEvfvoW0fW/kqhzmWWW7qFLcHVLAmc4A3thQi37x/Q15WiXPiNSxPjUjxpWq96FiCUtVGFBfbqYyzYXwcDmiHgaJC5EFUQhzyX6WDZ8Mxzjn8trYd2RACAgXDuK3H6JKiA=
+gn2p42134b8vruesuiesofedhmmc3kal.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  gn66jl3es0iuejqddo5e206mtqm7kcru NS 

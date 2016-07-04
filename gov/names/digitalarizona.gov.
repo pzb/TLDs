@@ -1,0 +1,6 @@
+digitalarizona.gov.	86400	IN	NS	ns-94.awsdns-11.com.
+digitalarizona.gov.	86400	IN	NS	ns-664.awsdns-19.net.
+digitalarizona.gov.	86400	IN	NS	ns-1366.awsdns-42.org.
+digitalarizona.gov.	86400	IN	NS	ns-2028.awsdns-61.co.uk.
+mb4dfgfb432k5495an8c6u6ur8muu8ij.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Ef5a2mEW96e7tKDbYQ+XnJIPoPdp2wmcNoq2jFYgtdnpWxcgKP1RxBhiw0NdZ0EJftjCnbR5atJQDkw8L/ZwARlUwnt7WxYowZ+xhrtBV/Ygx46hQGYJ7dkSKkO1kuhYBo0JmN7wl03qDZD+ItOgqtvckklRBiBD7CecMQ/6Joc=
+mb4dfgfb432k5495an8c6u6ur8muu8ij.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mb5bdd5dkdoidluu3top95dvv8gk1dt3 NS 

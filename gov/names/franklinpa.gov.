@@ -1,0 +1,4 @@
+franklinpa.gov.	86400	IN	NS	ns.usainternet.net.
+franklinpa.gov.	86400	IN	NS	ns2.usainternet.net.
+i3ndt1mvptsdub8jbvg8nhd4sl51usgm.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Amw4fedXZP1P/wC+/oJrVlo4GQ+7J2P0/LKHm59T0/5fd1FOf/zabJE7PU5EJOLo911WQW3wp3QvPn0+ngFN/d3QEHiPjCZQJ428GMAwAWRH1YPbsajUpJVYgNyHuYJvfurjeqCuQvPKtqW0u1fwbGQ623CcyP6Q+9L+3VBwz54=
+i3ndt1mvptsdub8jbvg8nhd4sl51usgm.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  i3pdpopc1ci3bj991rjmgn46mfdnvskt NS 

@@ -1,0 +1,4 @@
+9vuac2128mmsur6bj9ote68hhcj1d9bo.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. OtQtU81AWyKH0bchdEKy0+Tyc2R1GS1eNBbzK09iCIXotENGpmzdrag79BM5Dv0o5YRC6AOH+75dkAlJ/C3OqNM81FFGLlxc8z0q9SnFJny2jVs4XUe63PHx6PAXz/+d6RKM3BVFKPaMT8aXXlhc81Et5/XQXVNkFSLoc4d7J5I=
+9vuac2128mmsur6bj9ote68hhcj1d9bo.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  a01a7gj9srmbcnkgjd7f8dicin4m90g7 NS 
+yamhillcounty-or.gov.	86400	IN	NS	dns1.co.yamhill.or.us.
+yamhillcounty-or.gov.	86400	IN	NS	dns2.co.yamhill.or.us.

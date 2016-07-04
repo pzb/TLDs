@@ -1,0 +1,4 @@
+alfredme.gov.	86400	IN	NS	ns1.avenet.net.
+alfredme.gov.	86400	IN	NS	ns2.avenet.net.
+fa9sva9rbvs5idv547pbenm27dkam3l9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. JWMA4UgTo3alfidcgOjDXrncX00cXh/L6xc+f/s1buOavbXVCQs2QvmdA9KYvPPJ8xY+9p/bBLIYpez4g+X0RcgJAve+1AgSWEAiQlHjjTQeGb0I8O+dImfyV55tZTk2MBFtZHlxj9F4XSDXzLfNkitH84DQqRgldfGI9fRANsQ=
+fa9sva9rbvs5idv547pbenm27dkam3l9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fadhn4d5t96a1tnoqgct9c8vjror0vsi NS 

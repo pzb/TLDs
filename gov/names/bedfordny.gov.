@@ -1,0 +1,7 @@
+bedfordny.gov.	86400	IN	NS	dns01.gpn.register.com.
+bedfordny.gov.	86400	IN	NS	dns02.gpn.register.com.
+bedfordny.gov.	86400	IN	NS	dns03.gpn.register.com.
+bedfordny.gov.	86400	IN	NS	dns04.gpn.register.com.
+bedfordny.gov.	86400	IN	NS	dns05.gpn.register.com.
+sma9d05ffrc71aiempsaafneqer0q8h5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Po19zcdmkvuO520f9LjZh29YvJ5zDmkJausASyfAsTybcOLXKt90coIy6E7CEIgMaBXPKA+kb+gR7hz6j64miUNWgX8C1RfrLt+rFFTEJ5qThkNh0au/XeFs/b5zYXPwQtRahR+qD6CF8aI+1Z7lZmrKiKD8MIbzFN93ikLRg9g=
+sma9d05ffrc71aiempsaafneqer0q8h5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  smah633gqm2pknt50gr0jnb6eo9g80vh NS 

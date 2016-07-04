@@ -1,0 +1,8 @@
+twai.gov.	86400	IN	NS	ns1.twai.gov.
+twai.gov.	86400	IN	NS	ns2.twai.gov.
+twai.gov.	3600	IN	DS	25008 7 1 5c59e84d5b49141b5e6c692d6aed4ad461e226db
+twai.gov.	3600	IN	DS	25008 7 2 427d5ac59a6f0e740b2e13a60e9f113f24809c3e37b32d537ccc3dd7b49a5444
+twai.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. J2pDbr17TpT4emz4FGDF/dtA7bByPo8pxnqibM0sx8BokQ55rMjdKJc55adRVLgYDXyNckyZXe+p7ybmEZm/yhlRSiy0iFNkUoZHC0GXbPgGCgqgnvNcTK0pAdG17Qf/uTT7uwbFueaOs7IwG0toKUSoXlJB+qPGleHBevhW/j4=
+ns1.twai.gov.	86400	IN	A	199.169.194.28
+ns2.twai.gov.	86400	IN	A	199.169.192.28
+ns2.twai.gov.	86400	IN	AAAA	2605:3100:fffd:100::7

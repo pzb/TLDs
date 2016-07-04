@@ -1,0 +1,4 @@
+londonbritaintownship-pa.gov.	86400	IN	NS	ns1.geodns.net.
+londonbritaintownship-pa.gov.	86400	IN	NS	ns2.geodns.net.
+qnv6gpkv44s6kei374ejt8ou2a17mtrt.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. D1ZP+FTgRWh+RIBMiLxt3yQn6vS1qXcvfn3xXsO4KgnX38xhI3agd97FBRAoRtXnqAxVcdCn/WCmr2tlwEzyo5hxtTIuawb6j3oAfUQbLP1A6I4x39/TffrVyfEtZ0T/ms8JbREpYAw/SdcbrOusYVDbE9WnHjP7g5aP/rTUILc=
+qnv6gpkv44s6kei374ejt8ou2a17mtrt.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qo6mdnc8tb3bif6ci391kegjppjnlsc4 NS 

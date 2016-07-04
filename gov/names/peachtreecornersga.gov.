@@ -1,0 +1,5 @@
+d06fkfhsam9o8oafk2a428j14km7ujs0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. aWvXyEmxmRS3jWC62sh3zgg8QrV0sv4YIHqJPl6VcvZ+YJjXatyd2WsFoEwZSbHYA1y4W2ieMjzfgi85t3N3KvGwookcilQ4VXknfeXRRI7+UWt5PY305j2J5OZymxus+CCexJIt+cPmrjDuSAhKcYLPgBuavLFI5SUx0emv6o0=
+d06fkfhsam9o8oafk2a428j14km7ujs0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  d08m6odam1cbt2bsoerak9u70spptdmg NS 
+peachtreecornersga.gov.	86400	IN	NS	dns1.easydns.com.
+peachtreecornersga.gov.	86400	IN	NS	dns2.easydns.net.
+peachtreecornersga.gov.	86400	IN	NS	dns3.easydns.ca.

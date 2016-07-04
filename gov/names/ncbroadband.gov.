@@ -1,0 +1,6 @@
+kt1edjs1js6vvj5avc2oeiqu7sboclor.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. XBXTf150WMRgLKFLcCDzEzogzXqGfWGU7KjhDnGVUKacZwTktkINWPdLMgKkcw8zcgFzPZnZjkbpc5YDk19/6tqvLpqtgR8xIMjlI6u1iqKwGyCUmtcm7jeFxtPJKxNglGrp/PsQtlVpBzZaeR3uyDedx/SdJMX6lWo5atcKmmI=
+kt1edjs1js6vvj5avc2oeiqu7sboclor.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kt293224h6q7qoco6vlgbaao73qb0st1 NS 
+ns1.nc.gov.	86400	IN	A	149.168.11.11
+ns2.nc.gov.	86400	IN	A	149.168.138.11
+ncbroadband.gov.	86400	IN	NS	ns1.nc.gov.
+ncbroadband.gov.	86400	IN	NS	ns2.nc.gov.

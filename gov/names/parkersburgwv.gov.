@@ -1,0 +1,4 @@
+67vje5n66o174rq7818eaj9grdhe2vn5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. VF1Lx6r2d9t3zUTXcgT8cdpP+fCXcFc5PMiaS4tKqCAzCy0FZZVkSOjKpkRLvqMqTf+IPunM37M9qjU+Jt1La8wiET8A9iJhu5q/JVNG810FujLALX7H6kQ04kMh7nhMXr75Lwvt4N7TIVDriFWVaS60nTF5/nLp+EqRe/qwU/M=
+67vje5n66o174rq7818eaj9grdhe2vn5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  680aa6jkma29t7dn03q0ese3nn151l20 NS 
+parkersburgwv.gov.	86400	IN	NS	pdns05.domaincontrol.com.
+parkersburgwv.gov.	86400	IN	NS	pdns06.domaincontrol.com.

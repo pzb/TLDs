@@ -1,0 +1,4 @@
+3uiumji0f82u935iepq4j7mdnitt0te6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. GFKv1ovBGLNuleQTJoxqgbN3eluWLNws1oIsHb2o0vv9sILIh/YHy80wdCjjXYMiXrBnbI1wqQGmUPkz5v+Rys5bo3nWhva13atfcVxsrLETJcPaVj4E4jYmUHlpTYYP9tjWA84zfuGL7llPjP63KKIAgG1sPl9SJJ5e6ZdGDJQ=
+3uiumji0f82u935iepq4j7mdnitt0te6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3uke656cit4pj3ovulb5uoldpref8csf NS 
+bigflatsny.gov.	86400	IN	NS	ns1.infotech-maine.com.
+bigflatsny.gov.	86400	IN	NS	ns2.infotech-maine.com.

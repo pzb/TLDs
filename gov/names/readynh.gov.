@@ -1,0 +1,4 @@
+lc31pgj9rd5spceaqudi2a8osrp13hfa.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. EWY65PFTn3g+pMAVcsKvdYARfm4RMXGEt5z/Jz///zFk5J1IxasiHFraUohdbtpkDdUsiVQLTAf1Bgq/m0nO/ETp0xHcGnOPWHwldpEUMKVNJLP3VJKTH9QEFOuy7s57BtEYHwdyRLIG2xJVmGr7AWnpFPdlH6LIebOJ7EagZ6E=
+lc31pgj9rd5spceaqudi2a8osrp13hfa.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  lc7450jv8ul7j2p112c8qvl6nr8pa8dd NS 
+readynh.gov.	86400	IN	NS	oldman.state.nh.us.
+readynh.gov.	86400	IN	NS	whitemtns.state.nh.us.

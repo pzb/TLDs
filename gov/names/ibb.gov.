@@ -1,0 +1,8 @@
+ibb.gov.	86400	IN	NS	eur6.akam.net.
+ibb.gov.	86400	IN	NS	use5.akam.net.
+ibb.gov.	86400	IN	NS	use9.akam.net.
+ibb.gov.	86400	IN	NS	usw2.akam.net.
+ibb.gov.	86400	IN	NS	ns1-63.akam.net.
+ibb.gov.	86400	IN	NS	ns1-227.akam.net.
+ibb.gov.	3600	IN	DS	61068 7 1 85c13d9fc60a33c3f243609e8113edaee1b46dc1
+ibb.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. W3+IpKd4rVhcboIqkByWoMyXCYuT+M3fqkfrD4BFnMAW+UIwDYZ+Q+CbXu5w49eJAHxaWlDjZzjV5C9C9tGI2n5g3yE9vH2g9/NFkIjwNNnysmRbP8U64fTn/a6KtJ1NVy3eMsxqyQyEXxa9rVlwo+9BjAepGVe51rcu2cbJQcc=

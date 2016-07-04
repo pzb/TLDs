@@ -1,0 +1,6 @@
+2vn1ial01dsjqbma1bn0ka3ttcitdrvp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Uecbst5FIOfYnez8KOAQgL/9CYi5ihm9yL+i+2tki8bCoEX1zDZjtBJHk5o8QfEviVcyRNmsKqcc322cX2EYvyi1kZLcbzBO+OFijhRWnHCdb4beNG3vrPOFQQaZVy34CHenvnZDx9HTdIVExjLsO5Ts0K0bzyGnXAj5BAruBZI=
+2vn1ial01dsjqbma1bn0ka3ttcitdrvp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  2vpdhflmmbeo3ekklgu0am3phamp7ftn NS 
+azre.gov.	86400	IN	NS	ns-51.awsdns-06.com.
+azre.gov.	86400	IN	NS	ns-676.awsdns-20.net.
+azre.gov.	86400	IN	NS	ns-1424.awsdns-50.org.
+azre.gov.	86400	IN	NS	ns-1867.awsdns-41.co.uk.

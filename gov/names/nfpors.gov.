@@ -1,0 +1,9 @@
+nfpors.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+nfpors.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+nfpors.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+nfpors.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+nfpors.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+nfpors.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+nfpors.gov.	3600	IN	DS	21733 7 1 34c21d98cf65b42723841da46ddf81f90277a0d7
+nfpors.gov.	3600	IN	DS	21733 7 2 fffdd94ad4e8f06c3846412fdeb010d85f72a7f90b738d42d703084730bd0595
+nfpors.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. V59Yw4TufZj+iv1OPDB0kj4ZZwbb8MsPW4sLKFd9oJ3OQdWOxkSNG0eVZgLjQxQ5RwF/8fIkqFAhTgtFjnla2LUmdNWyY+p91O7+u+IJB0Mg82KAtXdZXtFFVk/VzzTl9tGGs4yxZpeBAGUoeLwvNG8K0OCS2ZiTVJVIXs0Cux0=

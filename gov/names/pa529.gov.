@@ -1,0 +1,10 @@
+klgq0lo89i8q62ncfn7bfkrne7hmk99r.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. CirXSndz/S9u7FM4Q13vQ1OFH7axNf9l8aZuOGsHit8a4b+qu20Av6ApEzVcdM/Qk8ibhAG0JelAN+SssgCEpauTacV8dY2pMhqk/j95wC80/1+adE5PbXaHEuAcK+eFym38XVeF6JHcJ2GNY6p0ZZ/Tm6SGkMydXDs8B/RHEcc=
+klgq0lo89i8q62ncfn7bfkrne7hmk99r.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  klh0r1mmpjhgb4a43ml8pk3ej38h4p19 NS 
+dns2.pa.gov.	86400	IN	A	164.156.185.10
+dns3.pa.gov.	86400	IN	A	164.156.16.200
+dns4.pa.gov.	86400	IN	A	207.218.103.250
+dns5.pa.gov.	86400	IN	A	164.156.16.201
+pa529.gov.	86400	IN	NS	dns2.pa.gov.
+pa529.gov.	86400	IN	NS	dns3.pa.gov.
+pa529.gov.	86400	IN	NS	dns4.pa.gov.
+pa529.gov.	86400	IN	NS	dns5.pa.gov.

@@ -1,0 +1,4 @@
+corvallisoregon.gov.	86400	IN	NS	ns1.nero.net.
+corvallisoregon.gov.	86400	IN	NS	ns2.nero.net.
+pelug63a98fod7l7gsksg6veltf3c5f8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. vc0x3HjpXA12IGPuNG3S79PcGbnMiVKYaWLL9dbYWA98tDBxMdlN/JpubawMKmcICxDytCJGGlJ+akDAiIyJDZRl9IKsJrzopqNSS6otSKU6H0qO4wGCIJ4WTy5Z2lkVFb4joAPteYMVQxb5LbRIKZXHbHJK2L1nizX+OWYDHE0=
+pelug63a98fod7l7gsksg6veltf3c5f8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  peo3rphpsdo0o3ctnm82924rocvdcfem NS 

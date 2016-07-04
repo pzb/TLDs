@@ -1,0 +1,4 @@
+hu36k1odjhnc3nv0c7rktjuvio583jch.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wxWAwMp78qIxts7tRJgGE+2yUMOUghH9h5sTOxmLpxQitycycRkjYYZiQKo5kcQKiXz9LoWhk6xOggS25qtZ9QreEFNSfs6lH4QqdlJudY4WHFHPMcg4nD1GHZ5GgQmlatdpERUcYcNio/ILf8wdtmj5vz57p91+gG0rT+l9hBE=
+hu36k1odjhnc3nv0c7rktjuvio583jch.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  hu5beh0l0ai3ibf4nu9k6dfudlasfu9n NS 
+willaminaoregon.gov.	86400	IN	NS	ns1.avenet.net.
+willaminaoregon.gov.	86400	IN	NS	ns2.avenet.net.

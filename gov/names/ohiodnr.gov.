@@ -1,0 +1,4 @@
+0sqa169u8rphnqj76qmp6rssntthp7l5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. UpNYd56eA8Ctl4+D/78/9TXo2icjkk4Pj7lojZyRsEpGjMIZVGmZ/pGkV2aFcnmWCjaXJVqS2Ww+Eod/T3oRmNRUD2dYcOgUNYX9dwdGNowCYNGucICYPHQ6Dg+4UuVVl2o46DBgK9kfpBpDs9dronjkHnuBDLP9ZAoPFCpvYTw=
+0sqa169u8rphnqj76qmp6rssntthp7l5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0srau177og5dnemcn56hfgpoe7k3vcnq NS 
+ohiodnr.gov.	86400	IN	NS	ns1.state.oh.us.
+ohiodnr.gov.	86400	IN	NS	ns2.state.oh.us.

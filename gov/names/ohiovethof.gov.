@@ -1,0 +1,4 @@
+61h4c7kv6jhp7mfndj3713l79djn0tk9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. diHrf8cgkFP612iKTY63XvoT+OY9ygMsjS4Z+1XsWM3B36Ua7gjDSKwVTR4rj94OY3+eMZ5TwGVHN+pDXMPq0JsJivUdBHTEW+Mb1kYv8ltdG5sQIrfDPwMB5ZP8ygTYfjQ+aVdH+KuxXxUzg3ut4CvzmXpEKUqkqBHtKJ2pliU=
+61h4c7kv6jhp7mfndj3713l79djn0tk9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  61o7b02fsim6spcu28g3fg0njp0bnnq8 NS 
+ohiovethof.gov.	86400	IN	NS	ns1.state.oh.us.
+ohiovethof.gov.	86400	IN	NS	ns2.state.oh.us.

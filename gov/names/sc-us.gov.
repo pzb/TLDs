@@ -1,0 +1,10 @@
+3llvgi97q3aaetkv4nudt033bpnlca6p.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. R3UHU70zjW8TWrllFOPd0yxoZHdov6zyQr+sANMnvhwjFrdfVD5svCotzDa7YwnaOH0xjFPAuKUy4+VhHLdZnhnRyCuGT8TGL9Emzb4Vn+7wPFdnZeHUFG0cULUY+PdM5arrD4fJWGreTJTW8bk6xJ5kZvr3nb629hJg8iqe8UI=
+3llvgi97q3aaetkv4nudt033bpnlca6p.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3lqni48aq9pe0ojenlah8db9oqfpvgui NS 
+sc-us.gov.	86400	IN	NS	eur2.akam.net.
+sc-us.gov.	86400	IN	NS	eur4.akam.net.
+sc-us.gov.	86400	IN	NS	eur5.akam.net.
+sc-us.gov.	86400	IN	NS	usc5.akam.net.
+sc-us.gov.	86400	IN	NS	usw1.akam.net.
+sc-us.gov.	86400	IN	NS	usw2.akam.net.
+sc-us.gov.	86400	IN	NS	ns1-62.akam.net.
+sc-us.gov.	86400	IN	NS	ns1-216.akam.net.

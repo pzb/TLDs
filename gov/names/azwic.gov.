@@ -1,0 +1,6 @@
+09g5glbmdatvhse63tkjc7jab7ild372.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. IRpTye+s7UCTRdivmr1+Qx2JecgzFJ8WBTcxzaXFdjWvPoBxTwbvRv+IsCunB0aITCYGJjiZjVwIJ7fR+NKYI2wVSL72RkL7obeRxW7rFpEBuolxBz1RiM23GzcnTFdLre+brdo9GQ6Tcp2P4j1D8ALwobzbp8hn5aG8bVIkb0w=
+09g5glbmdatvhse63tkjc7jab7ild372.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  09k5ep6bs724hqv1dub1b9rhd5hj7k0q NS 
+azwic.gov.	86400	IN	NS	ns-482.awsdns-60.com.
+azwic.gov.	86400	IN	NS	ns-763.awsdns-31.net.
+azwic.gov.	86400	IN	NS	ns-1334.awsdns-38.org.
+azwic.gov.	86400	IN	NS	ns-1563.awsdns-03.co.uk.

@@ -1,0 +1,4 @@
+huntingburg-in.gov.	86400	IN	NS	ns1.egovapps.com.
+huntingburg-in.gov.	86400	IN	NS	ns2.egovapps.com.
+j0lir5d4m8b47cp8gh3k0sj3enq8i4qa.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. a+TjAbCkZwrG+W0w2LWAlV5uv45wCB2JcB39nhkZ+QebVZ4vr7BGukZnJcHyC5sjkbB8EP/FkmSYebPg0rYc8bAnwAv4RRPw01FZEfSNsY1G5Url4xpWrAzTtA8B+7aaIzx3n83FNJTDBo2lz39dqeRXbu5qAc82+i09puQb/x8=
+j0lir5d4m8b47cp8gh3k0sj3enq8i4qa.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  j0noj6t26lmk8frqk3ngu4pkq6nmhvv0 NS 

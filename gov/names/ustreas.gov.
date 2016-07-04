@@ -1,0 +1,9 @@
+ns1.treasury.gov.	86400	IN	A	166.123.208.249
+ns1.treasury.gov.	86400	IN	AAAA	2610:108:4000:100a::249
+ns3.treasury.gov.	86400	IN	A	164.95.95.155
+ns3.treasury.gov.	86400	IN	AAAA	2610:108:3000:100a::155
+ustreas.gov.	86400	IN	NS	ns1.treasury.gov.
+ustreas.gov.	86400	IN	NS	ns3.treasury.gov.
+ustreas.gov.	3600	IN	DS	35185 7 1 3a8de30c391c4723b1ce99490fae08ac21a84de0
+ustreas.gov.	3600	IN	DS	35185 7 2 2fb735f56cfb3487d5cb8e026faebfe52814cbf0ed0b36db92435b4a595a5fb5
+ustreas.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. nTqDMKTkBNrUkCBlKdShqC5FyZiwU1Mor2QSRqf4LXx34WV2Bc7E7HFoJcf2793Y5O7sTS9IrrSFl1rD9TF5kPEtsvndeg9gi1m6K/visqKh/BPTsxRN+f4JdmxVHpVkJKy8xOHqNDdkG8o8MZZ3lPta7zMRkk+N7yOvT47FrBg=

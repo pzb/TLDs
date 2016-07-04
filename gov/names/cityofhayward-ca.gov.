@@ -1,0 +1,6 @@
+cityofhayward-ca.gov.	86400	IN	NS	ns1.cityofhayward-ca.gov.
+cityofhayward-ca.gov.	86400	IN	NS	ns2.cityofhayward-ca.gov.
+ns1.cityofhayward-ca.gov.	86400	IN	A	64.172.103.25
+ns2.cityofhayward-ca.gov.	86400	IN	A	64.172.103.15
+fbs23ptt4vdjdsr4eqoignetnocb6qa4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. RyruJWdzJM0FLNeAHZj+uUu4fqB1honvCVoGHeW9LUryCo1Fs9haBr3PYDkORFoeGGjNqVaVOJG60HYB6+CjG88Orp4mzlGQa15oSfI8+WPiB5vG4wNSiLkdLBeu8YL7Qkuls5kqxu+v/mQ3Y6NKEWa3yAaa8DF5jeQ0AwLHhxA=
+fbs23ptt4vdjdsr4eqoignetnocb6qa4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fc9s618qqstra9tv08b394vc0hdtfvpj NS 

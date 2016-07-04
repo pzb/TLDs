@@ -1,0 +1,4 @@
+adak-ak.gov.	86400	IN	NS	mns01.domaincontrol.com.
+adak-ak.gov.	86400	IN	NS	mns02.domaincontrol.com.
+cs6mjvht8ribnhrf9u78ndfl8f190nlc.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ICRxQfb/3XfXfcEAHMH73d+kEYR9X8+BFmygMih1ciKhN+sPKlK2C1kmPeEKHXQjr0gP8iz+QYUFCbeY7SImpcUpN02l4mizzfv3mPYBKfvvwUqe0X206p73uhHvEGxCHCiOn4lrlgSxB9KO8edxLh3NYqYNzr7/SpicCof2QKQ=
+cs6mjvht8ribnhrf9u78ndfl8f190nlc.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  cs726i10q3pise4uoe2ciolpgfu9nbln NS 

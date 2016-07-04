@@ -1,0 +1,4 @@
+ls97m7gg5rhfpe07k6m45oirhqq7q000.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. r9ao3F0c4vWGueKrFQD0slL2egV5fedoUnEasMNai6i71LckDb3nd8VCYNMOpe8GcSsXJXFSXH4pAG0OWlLMpJrGPCHabX8DSXQjAU8bjqruUe/uEa5DfH392a/pvHGFQlPNJ5EqEu1BbmshORUS2c8gcwnMga3tzZEcrS7d6rI=
+ls97m7gg5rhfpe07k6m45oirhqq7q000.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  lseur4de9p4knng4an3pncm3befj2h2t NS 
+manchester-vt.gov.	86400	IN	NS	ns1.hostmonster.com.
+manchester-vt.gov.	86400	IN	NS	ns2.hostmonster.com.

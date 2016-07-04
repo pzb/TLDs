@@ -1,0 +1,6 @@
+missionhillsks.gov.	86400	IN	NS	ns1.jocogov.org.
+missionhillsks.gov.	86400	IN	NS	ns2.jocogov.org.
+missionhillsks.gov.	86400	IN	NS	authns1.centurylink.net.
+missionhillsks.gov.	86400	IN	NS	authns2.centurylink.net.
+oq1pnblcm9a43iivrh65b749m56ana6c.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Fzwrx0GOAhtLKK/pa5BpT2DnrVoBjuin53tquyoG9V287BFnk8E1upr6NuXwE7bvAldmNCnHePMjwsiWOWCG1Y+TjFSomD395G/hHbU1CEj0NqKOsh3Ur7UgzVyXMK2T74cK//naRkoCNNOTUNDQKSYA9xI+xfCsDOFOIfwCRfU=
+oq1pnblcm9a43iivrh65b749m56ana6c.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  oq87gkn88oe48smiudg2dheg5jjb5208 NS 

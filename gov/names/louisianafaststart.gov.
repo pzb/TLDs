@@ -1,0 +1,4 @@
+louisianafaststart.gov.	86400	IN	NS	ns1.lded.state.la.us.
+louisianafaststart.gov.	86400	IN	NS	ns2.lded.state.la.us.
+onkba76bpug41fau63fb953k1fvr52l5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hdtbKOusEMn2H8QBZ7YRDnSw3mg64TZvZOQI3s+TjK8x4W9zZlO6rcZmfPtIudg/M1codShvnDPQ+Ax5LjeBmQt2RvXqGr38G116TVk4FCTio0O2AIJ+QTAuZI3aIGQvQsSv++7JawMi4LR62MnPF4VEH/+6x860QdpqEm5M4lw=
+onkba76bpug41fau63fb953k1fvr52l5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  onojsslqvcmpfakavrnkgt0m5kl9s6pr NS 

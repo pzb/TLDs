@@ -1,0 +1,15 @@
+rh202ns1.355.dhhs.gov.	86400	IN	A	158.74.30.98
+rh202ns1.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2a
+rh202ns2.355.dhhs.gov.	86400	IN	A	158.74.30.99
+rh202ns2.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2b
+rh120ns1.368.dhhs.gov.	86400	IN	A	158.74.30.102
+rh120ns1.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2c
+rh120ns2.368.dhhs.gov.	86400	IN	A	158.74.30.103
+rh120ns2.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2d
+freshempire.gov.	86400	IN	NS	rh120ns1.368.dhhs.gov.
+freshempire.gov.	86400	IN	NS	rh120ns2.368.dhhs.gov.
+freshempire.gov.	86400	IN	NS	rh202ns1.355.dhhs.gov.
+freshempire.gov.	86400	IN	NS	rh202ns2.355.dhhs.gov.
+freshempire.gov.	3600	IN	DS	57801 8 1 152091fa42b65939c7eb8fc7398fa152b7d226de
+freshempire.gov.	3600	IN	DS	57801 8 2 4e92cf6447abcc6220c05559d867c05eb5fe4d3cfea7a0e27df773ae9b617d40
+freshempire.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. tm6aAlYFKYmNbDJ3kvvEkWQHoL26AkIgIWY+/JYGOBuvvXjMFrp1YEUnRffT+itga07jZouPfpSuVDNI5lHYl19Vvfj8kfzVexBWMQ4j/a33+Ebw0ZGPDjDVDVVJ7V7YqfE2G0/a4rMw+nCWw8O/chRYfXJBzVi5CCTYkYfRE4o=

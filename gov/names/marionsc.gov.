@@ -1,0 +1,5 @@
+40005u700tjhcvhta0dshfm7l50eppsj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. gWejOP/sS11O1/y9TBUh8ypqyTfMY+eWTiyl2EmqVq93EdX4EAYVtuOb7X1cyxST6Q1ZkpFj+r5sTEBocTp1OQCxFM7C8GDlosGcoDu9GVS5T/oZqED0fKp1dyG68QPRf4L/qwqPIj12AftGDaGcwNazKEOvQPw0OOTpw07C50Y=
+40005u700tjhcvhta0dshfm7l50eppsj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  401ftl85hgo5mnckt0rup8eut75cq1cd NS 
+marionsc.gov.	86400	IN	NS	dns1.vc3.com.
+marionsc.gov.	86400	IN	NS	dns2.vc3.com.
+marionsc.gov.	86400	IN	NS	dns3.vc3.com.

@@ -1,0 +1,4 @@
+b4taur5l66ubmpseod34psqb859kh1m2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. WgEwO8fdD570tshvX51YtZakRbWKVX/+b/njtKOFXOihvxuBWCLZE33gki8blWZ3XpvKKPa55LgehEiGXz+p1VzOeb+dSFznXtKbhFoML+CvIAYZjfWBgLbutuF7q+Livi1pYs1a9TesknRpFytJ0t13zYhltPzhouNdDK3l1Rk=
+b4taur5l66ubmpseod34psqb859kh1m2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  b54hjjinnv24bq9vplvklv1obi4u3h7r NS 
+yakamafish-nsn.gov.	86400	IN	NS	ns1.noelcomm.com.
+yakamafish-nsn.gov.	86400	IN	NS	ns2.noelcomm.com.

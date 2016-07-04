@@ -1,0 +1,4 @@
+8f7ervvhq286adm9jposgu8m3nrprqf3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. oWCCUJF149ATQxy2rV2S2FDUQ7Y//3ymkfnUrkqOrb/gZmcCngtysHRMjh9sVhP4DM3C3cnMzjWS0tn3y7nYKWx+VwU9Mt91aKSFMLLvNkueGDj0LzfHbHWV0NWsfg3ES5XHBigBEbSO1a6sYOi+B4Lc0sY41eHkZM+7IiPwxYc=
+8f7ervvhq286adm9jposgu8m3nrprqf3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8f8202vipen9qshff9ino16a6k0v7t2p NS 
+ninnekahok.gov.	86400	IN	NS	ns41.domaincontrol.com.
+ninnekahok.gov.	86400	IN	NS	ns42.domaincontrol.com.

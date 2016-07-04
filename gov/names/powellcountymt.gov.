@@ -1,0 +1,4 @@
+mtgrl5c5c6raggdfv78m4q4q0ojd8vqk.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. MGgBur+MF9o384yliLaHZ6Brd6sTrsdFQFSWVY+cCIF5m4ti15saQHSQG2ntaVYicRSUnK7mKutSRfPRcuc2wxznFAwi5w5qVMeryeS2prcIO4rF9GzYgxm7ziasmHgh4J5x/i4lsjfcgwsGUpaOotRWQFWlGYz1VAVbIXRmyBg=
+mtgrl5c5c6raggdfv78m4q4q0ojd8vqk.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mto8rj6bshsga3e07v4vub1riq5oj5g1 NS 
+powellcountymt.gov.	86400	IN	NS	ns1.johnsons.net.
+powellcountymt.gov.	86400	IN	NS	ns2.johnsons.net.

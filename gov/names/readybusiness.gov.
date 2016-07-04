@@ -1,0 +1,12 @@
+readybusiness.gov.	86400	IN	NS	eur2.akam.net.
+readybusiness.gov.	86400	IN	NS	eur5.akam.net.
+readybusiness.gov.	86400	IN	NS	use2.akam.net.
+readybusiness.gov.	86400	IN	NS	use5.akam.net.
+readybusiness.gov.	86400	IN	NS	usw4.akam.net.
+readybusiness.gov.	86400	IN	NS	ns1-46.akam.net.
+readybusiness.gov.	86400	IN	NS	ns1-96.akam.net.
+readybusiness.gov.	3600	IN	DS	53962 8 1 725fe620c2c94aad40aec6936b9b6f69d1819a18
+readybusiness.gov.	3600	IN	DS	53962 8 2 17d68cf872bdf6633d996a1bd536b32ee796be8594e176e9413b5b385393da32
+readybusiness.gov.	3600	IN	DS	60295 8 1 4c6ce90a3aeba6548805227b1c39b979946b23c6
+readybusiness.gov.	3600	IN	DS	60295 8 2 8fcc2a8954a7d8ef7924f0ebaecf873d61ee53d73dcf96ed4e2dee3b4e251a79
+readybusiness.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. aaetY658cQfRQz67yOJw0qOgfg4F4HHJ1Rb8G22xYw2qVUpFgDBdIDdEu7K1DaHmxdRcWlgA5O6HGBcLQlMamJ3r5cXpWSUyqJAMjIFaYTn+PIgktRO2tNC1Fx7hxl/qRNvKRl77kMgw+bL83zKI6LvVQTbR6J4PZO8vZnP8CLI=

@@ -1,0 +1,4 @@
+10r3vj6lpj50qu1dcp37qr1gvform2al.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. RnITCg/BNEVS5tGx5dZfSaPwRsmw4jjNFfGrzV07/PwNSofS7VxoI7ORZefH0VT5eKF1HWb7Xfe0VDXZa/VGcKZcDVz6l4iT6QJF0YgK9mn2mP/desHmWWf/JGa2LnutcCHgDVA39PxI57xKo3LgOhxFNviL9tqdPp+8PQbChTk=
+10r3vj6lpj50qu1dcp37qr1gvform2al.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  10rd1kqb572h1875v5dkgftst3akbata NS 
+grapevinetx.gov.	86400	IN	NS	ns.capnet.state.tx.us.
+grapevinetx.gov.	86400	IN	NS	dns.ci.grapevine.tx.us.

@@ -1,0 +1,6 @@
+8go8ho6t3ciu5emu7atg995cr5qelcg1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. oSkQZRWXzP63L0Ysh8qNRHLNKSzq+O8xIyikC26TPzapW23d3fdx7wHzSMbWSEt73tYq8BjOyGL4fyAyE5D7Ayg3m1/vtGnGbhDHSFnSuXP80y7pA1etSnyjEM3DfcCFvkG5+FgKkzYbamO/ieUMNOUAZcXBRPlVyHEMD0EymCA=
+8go8ho6t3ciu5emu7atg995cr5qelcg1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8gsnvdbdtc36lv5j4gmpd9clkq0tmm0j NS 
+azpsic.gov.	86400	IN	NS	ns-455.awsdns-56.com.
+azpsic.gov.	86400	IN	NS	ns-690.awsdns-22.net.
+azpsic.gov.	86400	IN	NS	ns-1296.awsdns-34.org.
+azpsic.gov.	86400	IN	NS	ns-1554.awsdns-02.co.uk.

@@ -1,0 +1,4 @@
+adrianmi.gov.	86400	IN	NS	ns1.oopgodns.com.
+adrianmi.gov.	86400	IN	NS	ns2.oopgodns.com.
+k34r1uc6206e7gqo6ehcivlp4ue2dibd.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. GWfCwIQGGpp96QXgIQsT7J7hmrlLw4Y/owMwPC49WF258cScDZmeQSyakFU82bna1UeyrtSwJBjB2AseL81nH7/n0y8y/RTMHzIB3Ssv/6zqIM2saKctStijGnKhNDKEqwx63BMS94wUrjprhAMVjV9ewRG0VAT8f/CQHN6jNqo=
+k34r1uc6206e7gqo6ehcivlp4ue2dibd.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  k39mvbheebh9dr1s3omi1s44bm27fiur NS 

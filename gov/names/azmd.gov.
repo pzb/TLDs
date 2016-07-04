@@ -1,0 +1,6 @@
+azmd.gov.	86400	IN	NS	ns-479.awsdns-59.com.
+azmd.gov.	86400	IN	NS	ns-861.awsdns-43.net.
+azmd.gov.	86400	IN	NS	ns-1214.awsdns-23.org.
+azmd.gov.	86400	IN	NS	ns-1569.awsdns-04.co.uk.
+n7t05tfr5cb7mj59snvb6sp3abmcoi24.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. xtyXyi/GYeiklMZryuvFr1FTbbjGiinpFV1qc1iO0gqLHIRK80CpY6N3MTCHBwXih42kXxIZETT3Od1PpIG/zl1TuaAyc9i9KvxtOs98Av7X+8IbGEOUdC7Q47Dxno3txNtnkXSu/cW/UcS9aWQOOA82lKSgbRO4bX9iGAc2KFg=
+n7t05tfr5cb7mj59snvb6sp3abmcoi24.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  n801dlkd5n1rkgla24q8g6qh5h8nle80 NS 

@@ -1,0 +1,4 @@
+g62mfh3m0r0u6h08ceoo08jc2pkgsk6k.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wdkBByulBhieki2kqYQikUaiq4xlGW1sjwmolQ1aXSYR0yYi7uoDl+BGpf0AgF/oHD5aN3Qs6GLvTgXc2CHTKQkZ7M8Mj47XueVeGlhtnY79j1y4eE8vzB0YE1SW7tilADrLy2o6sizRSnD3mZQEM1di3JuxTOBGTeUWBuI2LLc=
+g62mfh3m0r0u6h08ceoo08jc2pkgsk6k.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  g63gpv83mv2sku9rjmgqg7472s9ero0g NS 
+twentyninepalmsbomi-nsn.gov.	86400	IN	NS	ns17.domaincontrol.com.
+twentyninepalmsbomi-nsn.gov.	86400	IN	NS	ns18.domaincontrol.com.

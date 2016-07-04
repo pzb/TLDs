@@ -1,0 +1,6 @@
+5sajoljujp99vngbcpqtk7dthvi9dflg.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. EuHxApXwmxIhoYV06rT8pb0O0B4zRZUXWqIXa6c6NMfv/cy+xkvmaJQjnyTO2DRQj7alcBaTClb13CrCQ7zAFHdrebfI4T8VTXSAQXfmnABWmJOzHnHyLUU23LzUEyB23RqpopndS+wQK3p9YoPiR+RWxe/7+Efg/+7QUmn9zdQ=
+5sajoljujp99vngbcpqtk7dthvi9dflg.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5scjgo9pk3dtjvhvpdh2u6dop0jbjlf8 NS 
+ns1.alacourt.gov.	86400	IN	A	72.159.229.133
+ns2.alacourt.gov.	86400	IN	A	72.159.229.134
+aladna.gov.	86400	IN	NS	ns1.alacourt.gov.
+aladna.gov.	86400	IN	NS	ns2.alacourt.gov.

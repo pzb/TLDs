@@ -1,0 +1,4 @@
+b5c3tdbhle6nddu351mti2bua5qfjclq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Y5KFyRpaS6D59jfOtyKrWDIh2gD2wSjW+zSt8DxEFXCiM2qDTVaO0VjRAXrlICgpDHKnOgTI80KsX3vmwx5x39VyXKSA16o9WmY+BwQ+mMEDilNIm6Pc4pjBuPVnEX7CabwmRqUk0vINJeTXJwQ284N//QFKzfOKAASUuxOUS2Y=
+b5c3tdbhle6nddu351mti2bua5qfjclq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  b5ojrakgb00uinhca7li7g3ncc5nh6c5 NS 
+germantown-tn.gov.	86400	IN	NS	pdns07.domaincontrol.com.
+germantown-tn.gov.	86400	IN	NS	pdns08.domaincontrol.com.

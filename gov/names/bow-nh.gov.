@@ -1,0 +1,4 @@
+4hkb9ttddrm3d44qr6s60384jpqqoj59.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. vwFa+H1GpxSXlPigxgfnKnFkzLBM1BiAAMCvviFyI/p0y8D0d3/nGikbXcFdXJBh+gH2qgL03dpULxfJg30Qtj+GPnDP8eK7jY90VLIik18xEW3Csj2+oktZ//T+Wr4CtxPZfE7+mwOQBeibsVCbbNHTOuXV/2ntVnrb2FYEf2Q=
+4hkb9ttddrm3d44qr6s60384jpqqoj59.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4hp255238e3clnt773iq6scqh8ctj62r NS 
+bow-nh.gov.	86400	IN	NS	ns7.readyhosting.com.
+bow-nh.gov.	86400	IN	NS	ns8.readyhosting.com.

@@ -1,0 +1,14 @@
+ns-jdcd-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcd-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcd-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcw-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcw-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-02.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::6
+usmarshals.gov.	86400	IN	NS	ns-jdcd-01.usdoj.gov.
+usmarshals.gov.	86400	IN	NS	ns-jdcd-02.usdoj.gov.
+usmarshals.gov.	86400	IN	NS	ns-jdcw-01.usdoj.gov.
+usmarshals.gov.	86400	IN	NS	ns-jdcw-02.usdoj.gov.
+usmarshals.gov.	3600	IN	DS	61597 8 1 4477fc4695635c3820eaf9ee7934f0fc6e96b9f8
+usmarshals.gov.	3600	IN	DS	61597 8 2 416b6267cb2032a882a1941ec0bfcc7df7f13e3ec4e297680ea3a9f8bbb7bc0c
+usmarshals.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. BEP5x0pxf2Eq3tt5yjgxG7lmsRK48+QKBLmmpMTH4JsLx1uNj0qpLhbOSgfJQQSm2A7qpXa2pQ66kEaqnVPICKm7dRbYsKBJQfHDtqT0YK7rVDXbsJVDwr7uSXLxQNL0/sYU75q7ZkYo2Lmm8oIkzY98uNDMk3eW7eL52UunPSY=

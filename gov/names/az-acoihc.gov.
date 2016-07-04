@@ -1,0 +1,6 @@
+2n6k2kolbum1bspsdom7u0dgl6npl0su.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. HF7dgxTqjmhnKd5HcUqUM2Fvf/YlCrCyJ/RMmIYe5io04LVC549Sh0yxujaVQPh+759vmpVlN4jhV99YzrZEqoTt9nT30L6GbYTbz1xMDz1SCTB130kpAxm1o+iYU/cnGW03QRonlm+Ics0JaHDPKKSCevhVUaB1O17n26SkQqY=
+2n6k2kolbum1bspsdom7u0dgl6npl0su.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  2nj02ldiqoiguq0hmv64f0fd5majps6i NS 
+az-acoihc.gov.	86400	IN	NS	gtm1.azahcccs.gov.
+az-acoihc.gov.	86400	IN	NS	gtm2.azahcccs.gov.
+gtm1.azahcccs.gov.	86400	IN	A	170.68.81.247
+gtm2.azahcccs.gov.	86400	IN	A	170.68.81.246

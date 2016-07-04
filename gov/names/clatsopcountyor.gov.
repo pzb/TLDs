@@ -1,0 +1,4 @@
+clatsopcountyor.gov.	86400	IN	NS	ns1.ifpdx.com.
+clatsopcountyor.gov.	86400	IN	NS	ns2.ifpdx.com.
+vv1sm2afqkes6r6koasaunkucau1uoef.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. rHKG6hwnyq0P7brZByQ8WHjlYrDmZvBqsZ/6INqkNrW8zbeCCTJu3s8Dy+X35ZztTwtq6Hycj7Vjqv8996JuM6tIKjsS3lo7GBc6nas4WI+PqyHrYgC6P3SjUN7u2nKY20OcLAfJf5lIK6OqJtocWJhZYykDWLQk3TRfNP7/TjI=
+vv1sm2afqkes6r6koasaunkucau1uoef.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vvdg77htuqf7v7ftvrmv22b4tfgt13oj NS 

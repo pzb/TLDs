@@ -1,0 +1,4 @@
+0tic0ji6i7lmhgc95mkqdbedgvksckis.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. MP1hh9udzEzMs1kGNkzEXWIL2OqMXrlnlWn5AzL//7AP/Zn0F0j2YJt8w6X59IZV1WiaI8TQ0YFBPv5P0RXjyNIs6Nijtbw+VJhs0xiGEGEm3LhaAEdlbLcKZWdQXF2f6dUXEgr8iVcCt0U61xXDcR3V841OVBuUg53h2POQBTQ=
+0tic0ji6i7lmhgc95mkqdbedgvksckis.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0to7p4tlpvhgvifjpqhsj6e9j03a53v7 NS 
+brewstervillage-ny.gov.	86400	IN	NS	ns1.mediatemple.net.
+brewstervillage-ny.gov.	86400	IN	NS	ns2.mediatemple.net.

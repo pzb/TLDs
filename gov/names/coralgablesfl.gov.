@@ -1,0 +1,5 @@
+coralgablesfl.gov.	86400	IN	NS	ns1.coralgables.com.
+coralgablesfl.gov.	86400	IN	NS	ns2.coralgables.com.
+coralgablesfl.gov.	86400	IN	NS	ns3.coralgables.com.
+j1tv3nhtqaphqf12qnstokub3ek5a2u0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. I2CizqPnNfOhuwkMRUh20bMuPq4FCdJK8Txwj3tUc0jG+VwpEo4JSzJobIEmBt0xl3Q8oJcd9Oj3XvZNcbX/Nz4AQlPL5h4KDNZt+lxCaaRM+RDDtxULfRLwSyY64VdiuEkNGdfCroQC4BGDBicaqaCzBOtTutJLQyVfqAscktg=
+j1tv3nhtqaphqf12qnstokub3ek5a2u0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  j25jv4r9i8vtpr0e36q55gh3ubgjqsdj NS 

@@ -1,0 +1,7 @@
+7hnapvpm4glaffhbfifqs4uu7jtrohkg.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. oY8sc1eGS6KxFEnScdfXVVjivK8HQkxv0nirJpNsrHMdnl36kZzL9fbrrz9lVdQD4PF8Qz99f7RZX3maowEs2QMV1TVW0JhZxBX53bpFXEY6MdDYaDuEqcs9zv9U54W4S1wgxtw0Ys89ID0L5lnaeE8on54XWDDm6FdftftC6pU=
+7hnapvpm4glaffhbfifqs4uu7jtrohkg.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7htftc8ng4nup7q5k2mmk4l17fmkfb42 NS 
+ns1.iowa.gov.	86400	IN	A	165.206.254.145
+ns3.iowa.gov.	86400	IN	A	209.56.120.13
+iowaculture.gov.	86400	IN	NS	dns.iowaccess.org.
+iowaculture.gov.	86400	IN	NS	ns1.iowa.gov.
+iowaculture.gov.	86400	IN	NS	ns3.iowa.gov.

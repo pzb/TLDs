@@ -1,0 +1,4 @@
+bigsandytx.gov.	86400	IN	NS	ns1.dreamhost.com.
+bigsandytx.gov.	86400	IN	NS	ns2.dreamhost.com.
+eaanqcbroie6birkpmeh8c66ps3pdtgi.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Yr3ehNeaRKztd+3gZBIC7KjfPDxPV6Lj8z783/+QnKALeI8fHAv+l7JHCGNgfjhhJ8lfCPLL+Hj9eY5Tj7mfVqkKKWqDd+qe8yX4JaGgblj4uNFDQ9vV+uUBpMAjplRAYHzMgnwaZw+bxFXwlFs0lje7IEZUd0yF/Gz51mvkjVM=
+eaanqcbroie6birkpmeh8c66ps3pdtgi.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  eaashd6kjq2qlpj9fqht2nhbd50d8aum NS 

@@ -1,0 +1,4 @@
+3nh0ia43kmg1df3engphedjst5re2bau.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. VIapVrmYIkTTyY3NeDkg/5n3XAgcMeQmPceiOIbQM02omqrtSxj9Ut1dy/07nhoqQlIFYqnIA6aIiqlRiBYlOu8i0b6rE1+pqmUV0nnoutwUjCWlLJwOSuOdFjHU2GwofwhgiSmRBchUcHM2i50XMQ6K9eNrBLn+2lepUK/GsP4=
+3nh0ia43kmg1df3engphedjst5re2bau.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3njchfsmhrbh4qvod014r1mu201cfpui NS 
+longviewtx.gov.	86400	IN	NS	ns0.teaminhouse.com.
+longviewtx.gov.	86400	IN	NS	ns1.teaminhouse.com.

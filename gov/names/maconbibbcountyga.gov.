@@ -1,0 +1,4 @@
+536a5jq7aivr83b0nhea5orbc8avm92r.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ogxbNCxlp6+sSPq5kSe/ArGLqvA0YfAzZr+cWrIGfIKcPrt+3UqpmtmLieehXgKBH5awkyzkYpwpZHK5SX4kkym+OvcBnV+OEnS29BsmuKJ202l9nfnUYuU8QvpFtYEvZwPywjl0jgco9mEgNucV1dTI4VQyCE5MaFwgRkPdMcI=
+536a5jq7aivr83b0nhea5orbc8avm92r.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  53hbe2idaber8sk8pn67dvhrqkk4e9nf NS 
+maconbibbcountyga.gov.	86400	IN	NS	bibbns1.co.bibb.ga.us.
+maconbibbcountyga.gov.	86400	IN	NS	bibbns2.co.bibb.ga.us.

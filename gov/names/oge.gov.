@@ -1,0 +1,4 @@
+3thfigv1edrfkm3chobff4a6m6onm1im.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Zhn5bBMLVgEeH0hPGGT11sEhrgJowhUXlOXjMHizcl+kwtD/HyeBVMtmASikPHpiS0iZ6zVdmBlSSPcfhwl7gqannOlGedXxEyIpbipE0YlEikELgnOlZKlx9bxUhwP5X0FbVR8Le3+Md+sG2cxR+tQ0MoTtW0PDaumPl8GocN8=
+3thfigv1edrfkm3chobff4a6m6onm1im.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3tjrnoho0jh9514laq0ibmf2jtndailu NS 
+oge.gov.	86400	IN	NS	cbru.br.ns.els-gms.att.net.
+oge.gov.	86400	IN	NS	cmtu.mt.ns.els-gms.att.net.

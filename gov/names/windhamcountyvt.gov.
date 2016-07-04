@@ -1,0 +1,4 @@
+sa7fgtk1k7j03l3kihv4enh209plqe0n.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. nHg9ZaaE//TmfzSf1rkOHV2IJPC/+AKn36J79BqXL4DH+aF0dONy93UHZepabXMK7DdirQfLBBpKPkNCY9SgzQuekY5S3sjz81rMjmIyjUlOVbbKV+AY9ncuO9dpUbswFZoR3c7cNjHo6V1942VqpguX8I3Pr+uOPp4qvrYHgpQ=
+sa7fgtk1k7j03l3kihv4enh209plqe0n.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  saal0bt3iba0ck1t3oun0rdk815ppthn NS 
+windhamcountyvt.gov.	86400	IN	NS	ns1.moobak.com.
+windhamcountyvt.gov.	86400	IN	NS	ns2.moobak.com.

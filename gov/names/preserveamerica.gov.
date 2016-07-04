@@ -1,0 +1,7 @@
+preserveamerica.gov.	86400	IN	NS	ns1.p30.dynect.net.
+preserveamerica.gov.	86400	IN	NS	ns2.p30.dynect.net.
+preserveamerica.gov.	86400	IN	NS	ns3.p30.dynect.net.
+preserveamerica.gov.	86400	IN	NS	ns4.p30.dynect.net.
+preserveamerica.gov.	3600	IN	DS	11392 5 1 31bc0ab8a08d5b1c84e0bdf7c51cc015181737a2
+preserveamerica.gov.	3600	IN	DS	11392 5 2 241cf544eb4fdcbb53a32d29eac28d88bf3ea22f9cc4c157e5499167f22c17a9
+preserveamerica.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. xgT+IikaumdDhy+CiVFsd71F9SqhZ2hJVww90755buKXhxoL16s8Kg8nwBTNCoVUeRb7fQnTAxaSnRxyZ1fTuXpFooUoOVD8vhzFS3QiRBt3X5jyOt/QHT+j3dG91o/+zWPkvZLis0kTPHofiizCueiqp9BJkpUG7+VXeqPw6TY=

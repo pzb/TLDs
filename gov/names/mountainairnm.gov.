@@ -1,0 +1,4 @@
+m9qfla087djk3usa3stu0jqlsonsj5o2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. xgfyZXgiXYGBSdpCIM1Nx+BVgHno59NuvCsGi9pW2FQ/0sPhjXHMHu5attGmxACDbRH+vRuowTcRWc4e7ewSDR8PWuRZvA/4MSgXnClLwyt1YeXxLkuMn7L0Tj3RqP5O1c07SDuqhXHNIkb8K2x2cvITOsbrSKZ/6DoHg1DA0+0=
+m9qfla087djk3usa3stu0jqlsonsj5o2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ma4chti3io66thvi7fg0qrcg02trab89 NS 
+mountainairnm.gov.	86400	IN	NS	ns1.lobo.com.
+mountainairnm.gov.	86400	IN	NS	ns2.lobo.com.

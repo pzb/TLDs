@@ -1,0 +1,4 @@
+38ub4ml9ao8vbt1rj9agrn5nl0g8973e.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. h7C3bgOI050de3HdMq4RIGqzqUdidWofboFWiI2TyrK80fgEuMoKR+VuIMMO4Tu3GSvg1/iYSIsZVpiL+aYKj1cG4wy6tLNzMYFYEe70jiJAPE6LO7IlEH0eqZS+Iyo/dMIXgjSMPii574j1wadAk3eAFm2JXQxu0jkTFexKKUk=
+38ub4ml9ao8vbt1rj9agrn5nl0g8973e.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  396f9unmumlb8stn13u9jshsohsklhn3 NS 
+mysc.gov.	86400	IN	NS	ns1.net.state.sc.us.
+mysc.gov.	86400	IN	NS	ns2.net.state.sc.us.

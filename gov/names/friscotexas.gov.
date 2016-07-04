@@ -1,0 +1,5 @@
+1o073hjh45djc5bhreen3e4qs6pcs2ur.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. oIBBNZoAJt9cLy5qxOA8kug7dpO1XQMWDKtapBTGwtRNaidFRivCWYMpL7XKYKxGinmTTWCh0jknhUgtA3ByWjH80bKwODXmhNHcGEQVLGuNR0d/Dkk2rqfIqAsuIrJ8+S85lSG6L+HK1s7Y21MaVc21j4vAqxewO+90S69jy/I=
+1o073hjh45djc5bhreen3e4qs6pcs2ur.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1o9d9g8l5i8t4ur078o1f0jg2ir7p6qo NS 
+friscotexas.gov.	86400	IN	NS	ns01.backupdns.com.
+friscotexas.gov.	86400	IN	NS	ns01.friscotexas.gov.
+ns01.friscotexas.gov.	86400	IN	A	72.48.236.5

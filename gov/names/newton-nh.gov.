@@ -1,0 +1,4 @@
+ag7t7o9pjhv33318t1ctfc5lphasrtuq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. V0WMm75Nuxu6IkvHrjYwuSLNGrT9uI4UfGj3fmWvmaI7ieNinthvmL8jhIDCknyApdaACq/rTaX0Mz/pyA5n2BIdkOg/vJA3GM1YPNUS072vrXvo5Kc0O7GPhIHxawcLDJUuUeSB73e/0F1noP6/1oqeMw8/YlsSKTvAoxcgxPo=
+ag7t7o9pjhv33318t1ctfc5lphasrtuq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  agq67fos9af56odmiog3q506ijmegbaa NS 
+newton-nh.gov.	86400	IN	NS	ns1.infotech-maine.com.
+newton-nh.gov.	86400	IN	NS	ns2.infotech-maine.com.

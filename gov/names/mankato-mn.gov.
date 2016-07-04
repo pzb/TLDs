@@ -1,0 +1,4 @@
+bdvfv9hn0b930cp7snc9fnglejgqvbru.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. EiufSVi+j1IC5va2LfPZoyG5blwXf1/SN3Ecw9rwAtx58D8oHKwlOjESvyj2PZBazTHvkNK4QsW2SRY2ovjzz2O+h//mexvqbJPuYTWbCeubH0u6VHm5n/hc2F0DqKimvr75BAndUwhFd97mYSsn+AOkY0yYyhJINVzTRfIcWdk=
+bdvfv9hn0b930cp7snc9fnglejgqvbru.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bdvn6jmpjiqcp1vv8avjck32ect0tvec NS 
+mankato-mn.gov.	86400	IN	NS	ns1.hickorytech.net.
+mankato-mn.gov.	86400	IN	NS	ns2.hickorytech.net.

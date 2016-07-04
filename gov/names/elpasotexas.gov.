@@ -1,0 +1,7 @@
+9f3odrs983udro5anb75ode73au04182.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wE1Z8F6uoq85Yb164yUo7bbtF2GMkaDvdWS6pdKyJikFkWRAi6iBON3DW0GZP8WNuC480RuYVGtVVoUKKpMeYRVhmv7x5HpZQRiuYw/eHNRzQMfUlb1RuXilHAaNWHj4LUCz0mNKyuGDdLmZejLyZoDY8ToSC3W4t0puj9yl1jI=
+9f3odrs983udro5anb75ode73au04182.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9f4tv3g6taon5c5sr7ghgshboeq61h0g NS 
+elpasotexas.gov.	86400	IN	NS	ns1.elpasotexas.gov.
+elpasotexas.gov.	86400	IN	NS	ns2.elpasotexas.gov.
+elpasotexas.gov.	86400	IN	NS	transporter.ci.el-paso.tx.us.
+ns1.elpasotexas.gov.	86400	IN	A	209.194.208.210
+ns2.elpasotexas.gov.	86400	IN	A	209.194.208.14

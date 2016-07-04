@@ -1,0 +1,6 @@
+apps.gov.	86400	IN	NS	ns-238.awsdns-29.com.
+apps.gov.	86400	IN	NS	ns-693.awsdns-22.net.
+apps.gov.	86400	IN	NS	ns-1191.awsdns-20.org.
+apps.gov.	86400	IN	NS	ns-2045.awsdns-63.co.uk.
+epe9fn6k6r09bbldo65aav9ddko3fr1s.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. n1WS9Roj22m4cJ9HrZECv/aozrT19nuBoqc+4wHZ8xBqbHGp95TxiedKM7vr8eNU19BCaeMNYfLjASTbtgO1oF7jLHk7v78AjdqBiuWLRbcEHkhTVoSLMCBa5AupMWfpnpnmWnX7tcBc3XAC6c+VQY6FTOMwu2UjCAc8VeF/TSQ=
+epe9fn6k6r09bbldo65aav9ddko3fr1s.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  epfiircpurgmfhfparbv8823mg885t3d NS 

@@ -1,0 +1,6 @@
+81mqm157m4uab5rf55apcvmfdlvdec1u.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. SURwBZo1PMkMheXXQfFfXev2Y+FZxHlFCqOUeXt7Wa/dSuUutWNFl9R3g1JGKGogf4I78sxWYR/+RFFgqnwUoz9OfYMLE3qudYyI5mKiCDjA3SvpKdI7tAXzr1GZhdnLUFmeKheYY7hKKPq0OMWRH8IoZK2fU3fdKXwwEcCBgII=
+81mqm157m4uab5rf55apcvmfdlvdec1u.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  81o01kcg56f8n1icss9svofv3ucoskqi NS 
+dns4.tn.gov.	86400	IN	A	170.142.92.58
+dns5.tn.gov.	86400	IN	A	170.141.168.22
+tnready.gov.	86400	IN	NS	dns4.tn.gov.
+tnready.gov.	86400	IN	NS	dns5.tn.gov.

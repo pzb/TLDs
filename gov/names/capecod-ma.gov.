@@ -1,0 +1,6 @@
+capecod-ma.gov.	86400	IN	NS	ns1.p29.dynect.net.
+capecod-ma.gov.	86400	IN	NS	ns2.p29.dynect.net.
+capecod-ma.gov.	86400	IN	NS	ns3.p29.dynect.net.
+capecod-ma.gov.	86400	IN	NS	ns4.p29.dynect.net.
+gc6j6pdkl4a0egh2bj6ac42h9uou9nbn.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. EWf40WM3pHrLxKTq8gxISzqkohy4hWeJM8RxdyM5CIgsTZRYNdlxHYCPXNfXez4Up/69KG3fOS1lvGremKg8Pl7xhHcpcdmqGJZYPU7O2JYQebjCgbS2ExKa+2BEqvzSgCMll0nTQ+q5+sm/DYQzaaISw3V55mp4r3D6h7aQWRs=
+gc6j6pdkl4a0egh2bj6ac42h9uou9nbn.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  gcdq1lig629rcf3vfoq82qt4f6np04uu NS 

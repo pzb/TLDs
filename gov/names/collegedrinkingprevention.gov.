@@ -1,0 +1,12 @@
+collegedrinkingprevention.gov.	86400	IN	NS	ns.nih.gov.
+collegedrinkingprevention.gov.	86400	IN	NS	ns2.nih.gov.
+collegedrinkingprevention.gov.	86400	IN	NS	ns3.nih.gov.
+collegedrinkingprevention.gov.	3600	IN	DS	198 7 1 004c3cffd8408a220e9923d725f97a94414f7d48
+collegedrinkingprevention.gov.	3600	IN	DS	198 7 2 ce90adbab0c629961ca2cd590c2e3bb42025c2fef561e85ac1a0ada3cda63c12
+collegedrinkingprevention.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. nv8k3mFhZhuWLk64m588qcQrIXQd5rACJb4jLTr5w72t/sBnhkbieW7PsxmNIvMHRDftUC7cGB2J4g0v2Q83uB7qgVIlnLrDdCU+TEdH6zwcQ+wMzLKck+4dABdugQ5klsTgPHp74IV9laeTPGzm5QgyXT3LoTGs7JExaqClF1U=
+ns.nih.gov.	86400	IN	A	128.231.128.251
+ns.nih.gov.	86400	IN	AAAA	2607:f220:404:101::80e7:80fb
+ns2.nih.gov.	86400	IN	A	128.231.64.1
+ns2.nih.gov.	86400	IN	AAAA	2607:f220:418:4101::80e7:401
+ns3.nih.gov.	86400	IN	A	165.112.4.230
+ns3.nih.gov.	86400	IN	AAAA	2607:f220:402:1801::a570:4e6

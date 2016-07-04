@@ -1,0 +1,4 @@
+johnscreekga.gov.	86400	IN	NS	ns01.domaincontrol.com.
+johnscreekga.gov.	86400	IN	NS	ns02.domaincontrol.com.
+qgkqr6dft26i92gs8p1je2cip1tha8po.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. kA79MU4a4aWHloDE0VUBH1G8o4NeNezkvRvZcx5qiRMOW0w98GW/oyqZaxUnBbSP37jNIcXsG3yMsQf6pbxgfNSCTf4X27WxHEUAC76hpoGiOCf0JJbbl+iB5JGtHaZPtBLVB8aXNJGyo4F9gzWtvURik1I5yE6b3fUl5eM/H4Y=
+qgkqr6dft26i92gs8p1je2cip1tha8po.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qgp8hqlb2cje00ktie3655ri0ha148dt NS 

@@ -1,0 +1,5 @@
+8p59l5aepih479rjgn5b9vk4qldpmcov.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. GUhqdiIhgdTPTUVyw5NVSntlieSkGfp+H1sPOH1Ik4Q27zC+Y2UVddzNs5Vs9ZAGpZ4lkUtauBZxFIeiCtCREOvsBXBKtXAJNvXe+vS40KdkOOccfRJtwdAR81xPo0Rd9yIYOrT9WdRy3V2a62EvpnMQ9b6A1DuIqGTBPZ+q9ss=
+8p59l5aepih479rjgn5b9vk4qldpmcov.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8pfrhm68q00arv5ub73ts3k278vnc2sa NS 
+stow-ma.gov.	86400	IN	NS	ns.amaranth.net.
+stow-ma.gov.	86400	IN	NS	ns2.amaranth.net.
+stow-ma.gov.	86400	IN	NS	ns3.amaranth.net.

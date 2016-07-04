@@ -1,0 +1,4 @@
+houston-ak.gov.	86400	IN	NS	ns1.mtaonline.net.
+houston-ak.gov.	86400	IN	NS	ns2.mtaonline.net.
+s46neqqtq9kll0tg4e51hmdla0rt77bh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. XdUrCG3ILM7uaT7uYtXrZkRJVSaCbsvf9GV9wd44/yc7+6+PudDXLn6IAWYbpEwAXCDjegCLXGAVxQpOC6rmh3QtHeKdtfL6yJWKHczX1Hy0o/5ji62nSxCsuqpty7FTv5+MDjsVpxD3Vmd17A7vqkkkrsO00N4s0NN+qnvwrOc=
+s46neqqtq9kll0tg4e51hmdla0rt77bh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  s4ev1smonie5fl2iri1qjud749fqmv17 NS 

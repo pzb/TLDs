@@ -1,0 +1,6 @@
+az911.gov.	86400	IN	NS	ns-305.awsdns-38.com.
+az911.gov.	86400	IN	NS	ns-900.awsdns-48.net.
+az911.gov.	86400	IN	NS	ns-1118.awsdns-11.org.
+az911.gov.	86400	IN	NS	ns-1780.awsdns-30.co.uk.
+iee0ncv0broe2cajh7d09s2k5mi7flti.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ZRMopc2dFXJYJJ+LmePWKTTtK30a1Gj3qpwq/xxI32Cso9pm+Wi7ILXzMZPP0gLRSTfhaqiJ2rxU5V7OXY8eczIPNaiVvcmqKd9YcO2LHYDypSj/qCkA57HjzJsCQHrdMktspdpLFRHPL66XsUDUki5PaSwGxgP+jTxVslpDXpA=
+iee0ncv0broe2cajh7d09s2k5mi7flti.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ieeh74kt4skkl9n7ogqameejjvdr2bcp NS 

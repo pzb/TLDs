@@ -1,0 +1,6 @@
+re1dj7mcuagft7auctc5ppp4qlco6vie.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. N06lRG6io+iWbsmTW1zsNS835ENXhyizH9VU+G/6cSoFO0AYyTjOc9biYuNSXLqYHrIXia+uxeJWZ9/X8/ZSoayj31ReUVAE6l9vxszDdHqUmPbCqEJpMvwS524gm/JgVfTJPQRMavmVg7iiMTMnLMFHuQNr5RXEH4UWT35nph8=
+re1dj7mcuagft7auctc5ppp4qlco6vie.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  recbjbe9kaof9b9kg40lcl4qsomir6cu NS 
+wellfleet-ma.gov.	86400	IN	NS	ns1.p29.dynect.net.
+wellfleet-ma.gov.	86400	IN	NS	ns2.p29.dynect.net.
+wellfleet-ma.gov.	86400	IN	NS	ns3.p29.dynect.net.
+wellfleet-ma.gov.	86400	IN	NS	ns4.p29.dynect.net.

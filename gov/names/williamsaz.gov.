@@ -1,0 +1,4 @@
+co1rm4n609523721mtq40qi2ha118p52.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ISj0dXJhAXr6Y3sK3bn4odqKK2ObC8w07/nY0Ku9bxpmnyn6fMjLjb4ibncX8rV40sxduuP+mpQIYRO5rCwDPkVRYGQJ3JmPFNX1ARF0q33JOD3H4yM6B8a0dbqyKBNFxNC+QZNwe6DtkpT7Y+NEAB8ukJntxS4VkmnRdxzHiv0=
+co1rm4n609523721mtq40qi2ha118p52.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  co3opdhd34p0q8elrl77ash2f9pd7goc NS 
+williamsaz.gov.	86400	IN	NS	ns51.domaincontrol.com.
+williamsaz.gov.	86400	IN	NS	ns52.domaincontrol.com.

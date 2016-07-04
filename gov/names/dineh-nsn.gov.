@@ -1,0 +1,6 @@
+39oa0cdhp38s86t48hoep2qhen3qpqnf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. tSPJx68beiE2ZLDQM5A+a4boU5RFWIQR8KwqdA+atHkm2bZQh9OM5h01wpBfQGKAoEHueJp7D0zycixEx1XzlaGybUdJPpUyipkPycIz9I7Msd9hTi3JiW82UiOFt94NW6r7SgYz+giCXFrYMoMwxxEAeoZz3NKhfnN/5V6s158=
+39oa0cdhp38s86t48hoep2qhen3qpqnf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3a1hn1fcoe70mt7csrlneu5i5oduk2c6 NS 
+dineh-nsn.gov.	86400	IN	NS	dine.dineh-nsn.gov.
+dineh-nsn.gov.	86400	IN	NS	tsoodzil.dineh-nsn.gov.
+dine.dineh-nsn.gov.	86400	IN	A	12.196.248.2
+tsoodzil.dineh-nsn.gov.	86400	IN	A	12.196.248.3

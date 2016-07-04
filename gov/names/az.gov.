@@ -1,0 +1,6 @@
+a34ks1ed1a9kabmkfa2qrpt221n9csni.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Rw4+Qf3e96f0jSOBEYCl5GIYqsGU3RYgffR5QI/3NS4yk37r3crpdDVtS+jSaCbWLW0HIwj75iNDlMKP5m0FBW0Bq59s/83k4CrSncOVdPBEk9lpTuZ8vNijn2jnQr7wRYalCg/vIvru8b/Jv6EvZiGxAvJW09NcA1GSKlg78YM=
+a34ks1ed1a9kabmkfa2qrpt221n9csni.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  a3544n4obevmfn3opliuq3bq20s97hk5 NS 
+az.gov.	86400	IN	NS	ns-127.awsdns-15.com.
+az.gov.	86400	IN	NS	ns-675.awsdns-20.net.
+az.gov.	86400	IN	NS	ns-1324.awsdns-37.org.
+az.gov.	86400	IN	NS	ns-1968.awsdns-54.co.uk.

@@ -1,0 +1,6 @@
+3gs8jogls08rt1b0804trj5kbn0c680l.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. T5kmNtmwL3CVgFM7NC3A065jJyFFcx8SBtxBwtUcUZUuM7smZCQcjhOIJtmzI4uZoEs2ecykc4RxOdUzwflYe1P6ybErA0uZMmN7E86sfuHjUhYO7nv+BlC47VKUEvt8aYx5lyF1Hd0ySR7Wir5qq8fw4RzfE4aa+b31HeNG8Pc=
+3gs8jogls08rt1b0804trj5kbn0c680l.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3h62m51g5os83csn38a2kmh234ek7kpo NS 
+democraticleader.gov.	86400	IN	NS	chyron.house.gov.
+democraticleader.gov.	86400	IN	NS	mercury.house.gov.
+chyron.house.gov.	86400	IN	A	143.228.129.38
+mercury.house.gov.	86400	IN	A	143.231.1.67

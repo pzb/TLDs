@@ -1,0 +1,14 @@
+firstfreedom.gov.	86400	IN	NS	ns-jdcd-01.usdoj.gov.
+firstfreedom.gov.	86400	IN	NS	ns-jdcd-02.usdoj.gov.
+firstfreedom.gov.	86400	IN	NS	ns-jdcw-01.usdoj.gov.
+firstfreedom.gov.	86400	IN	NS	ns-jdcw-02.usdoj.gov.
+firstfreedom.gov.	3600	IN	DS	61435 8 1 ac68f2a0b0c71422cc187d79ffe6ea8f835f1da2
+firstfreedom.gov.	3600	IN	DS	61435 8 2 6692b80e73cf7576a698b7f6de28b45a4926380a3c0d9b1aa1908e1ed06a447b
+firstfreedom.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. sd753fXWHeb8wbmcatvXLEAY646IgDaleaCJRLAB8rZqjxHj2pFe3DK5aA74BBgdehqXG8hgpJXTG9oCg0iusbwXQSnTbFWxFOdxGdhBPLMbtC0fjG7bRlnoImMBRR3HeWtjPoAcYcoDyHWO76RkzLm4yi9/2L4xRfVHf+8bjgs=
+ns-jdcd-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcd-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcd-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcw-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcw-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-02.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::6

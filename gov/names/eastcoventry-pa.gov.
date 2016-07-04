@@ -1,0 +1,4 @@
+d942ig28psq00qodpe9kpo4satkm3shl.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. JnPDpl3zyYZyzqPypQCqaTURWdeMBYA3q5QkpQhTRP713UXhl2eOLUztS0vBEkIHyG12zdKvvXaBuRhi4T+uAr8+JH1dhtUZjILibCQU+LzbiyAGjC874Ms7ohOjimI+PUvi9EqVLwxbb2kshhYQ4swv46CeNY3MVl5HLoRJWQk=
+d942ig28psq00qodpe9kpo4satkm3shl.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  d9ag40bvrsrbmb0svs7cr5htob7uba1q NS 
+eastcoventry-pa.gov.	86400	IN	NS	dns1.aperion.com.
+eastcoventry-pa.gov.	86400	IN	NS	dns2.aperion.com.

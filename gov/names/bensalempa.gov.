@@ -1,0 +1,4 @@
+0bhm4fcllgi9qv3uhga1p1f57306eh5e.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. J4ZwFVt+nFNt0M4M0NUBV+F4o7jAprRX1syUoXVwdsBjG8vXxixVewAgKKeTasIk8REpbGXriRIRsdBrurh1UazN2WcIwlNx20sXRaHDNW/qzPmDdJyPH0jBefqQw7ay+KGaZytvzc0iIHj3GamZOHl2FmWeUgr+P4VcVfyWw3M=
+0bhm4fcllgi9qv3uhga1p1f57306eh5e.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0bis7l7u9bindhkfgm9c3ar2mnsbfpb0 NS 
+bensalempa.gov.	86400	IN	NS	ns1184.dns.dyn.com.
+bensalempa.gov.	86400	IN	NS	ns2179.dns.dyn.com.

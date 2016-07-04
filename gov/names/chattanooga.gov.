@@ -1,0 +1,4 @@
+c27eiqro8jd8umqhkjin9u9hoa2fs123.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. lONKWUfAvrM7UvirTwq+1QKQSW6vlHIL1NezbM0b1aD3M5Be+ozlYt4KVHgifN65VkF1ogLNEh/DRxZr6ISTGI1ADofnpS88N5hDMtlL4EaQrWgB2oAfhO+jHDFrV4mWfTCSwFcoLCJHwWXTdSAZHdmZnWOBhFUGDV/PLg0EPW4=
+c27eiqro8jd8umqhkjin9u9hoa2fs123.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  c27pnmhjgjiglu02ss88p82uvt16p7hb NS 
+chattanooga.gov.	86400	IN	NS	ns1.epbinternet.net.
+chattanooga.gov.	86400	IN	NS	ns2.epbinternet.net.

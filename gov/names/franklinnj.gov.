@@ -1,0 +1,4 @@
+512v9afl04k8ek7f8v8ig6jh084njqcv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. RbjRl1C/kr3h6efrTbpitAlvJvU7kaf+J8lfzIXNQ+2enl7SBjZmKlddvXs7fTIlkBEzP5SadYt8cejy+3kJwSqkTv0gEr1pHSHw0BxiaFNkauEJsvdqpGEzP1cyE6RUNRYq7bO+++2gA9X8EhGCxZyc8+OfDW+maNhjnDVsWYA=
+512v9afl04k8ek7f8v8ig6jh084njqcv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  515s4q5quie9o63o88ohbbfgplrk65ou NS 
+franklinnj.gov.	86400	IN	NS	dns1.cv.net.
+franklinnj.gov.	86400	IN	NS	dns1.cvnet.com.

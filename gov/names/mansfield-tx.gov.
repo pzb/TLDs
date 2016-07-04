@@ -1,0 +1,5 @@
+kf2gc16ahmqisoedclb59klbasqfntu1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. jpiS2rHmhHDJEdt9ZskgCu8kIsD3bHpUy975T8aJqCB8JY6ZVu92oJcNHX+5cuyg2QvikObPEmGf519SF1+hemwPPBrekVoetmuosj4T0HSlUzUk7tYqZcmgC9ZrlEDA/uuomfMtrXYNvukBCFYzS3bcDxr+7MYBH6MuOFJhTXE=
+kf2gc16ahmqisoedclb59klbasqfntu1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kf9a19easkcqvmbctbdhls2t3cnr97cq NS 
+mansfield-tx.gov.	86400	IN	NS	geopro1.ns.zerigo.net.
+mansfield-tx.gov.	86400	IN	NS	geopro2.ns.zerigo.net.
+mansfield-tx.gov.	86400	IN	NS	geopro4.ns.zerigo.net.

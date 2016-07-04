@@ -1,0 +1,5 @@
+2vpdhflmmbeo3ekklgu0am3phamp7ftn.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. CRXMMkdY3xSGx0C+lIUBMfnxq2ini1y6w7VPCCLJKStQAxlH5O/3g28Ose6wvSfC49b3j2aZ5tGDDMtyyo+BtnUYNMQcG7yWwhas3enlDjwg9unUw8TdXUdXR6ckZ8Q1vyk31YEm+HVcUpXtl1Dq3biU5bzFfaHYBsGG++RFy2I=
+2vpdhflmmbeo3ekklgu0am3phamp7ftn.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  305efethc5hia7lkaa80tkhq9pkri5ii NS 
+alpharetta-ga.gov.	86400	IN	NS	ns1.afsnetworks.com.
+alpharetta-ga.gov.	86400	IN	NS	ns2.afsnetworks.com.
+alpharetta-ga.gov.	86400	IN	NS	ns3.afsnetworks.com.

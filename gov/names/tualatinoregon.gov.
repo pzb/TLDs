@@ -1,0 +1,4 @@
+tualatinoregon.gov.	86400	IN	NS	dns2.the-bug.org.
+tualatinoregon.gov.	86400	IN	NS	sunny2.ci.hillsboro.or.us.
+vrj8jga118i04ls3meu3oaf5pki0tk8u.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. f5oW7MmVfmLQqey30s2JY7WZphtbuKERjpgZA/2cdjoQMeAXxFFoqDLGEgHaLuPBAR+u1llLNvgxr6xzPhRADNkdP/bd2sD7vG6ROAnJe+LCtjzuotiFFYdVFObo/53beYVekNYrkeG9xuBOjnNY68tQc5JfW7dfpk6AqBf4GO4=
+vrj8jga118i04ls3meu3oaf5pki0tk8u.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vrkalh4fnhe8l3upjkq4o6hts80lvvam NS 

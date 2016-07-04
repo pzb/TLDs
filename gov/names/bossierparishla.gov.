@@ -1,0 +1,5 @@
+66fkevusuup0bibqpolctv4jsiq1km9q.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. YiHm2G0GXXiPrlOm6nJAUchlMJotruV1usOgC89Qa+UltXXzbVPrYlHHmAppto1igcAFkPSLETtJ//jqMWkUH0sTAsmT7SAsqjWfo6r8mN6fg+/b9yoZV30JAQbGaMPmTMkWpaj/2rpKXXR2pYRdoVH9Zj7lIYsJqDdt7inArBY=
+66fkevusuup0bibqpolctv4jsiq1km9q.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  66ljf1v2euegq9pfp35pvlu6nu31b707 NS 
+bossierparishla.gov.	86400	IN	NS	ns1.shreveportnetworks.com.
+bossierparishla.gov.	86400	IN	NS	ns2.shreveportnetworks.com.
+bossierparishla.gov.	86400	IN	NS	ns3.shreveportnetworks.com.

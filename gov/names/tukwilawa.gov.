@@ -1,0 +1,4 @@
+1poph5hgcfeot16gcsf01c6mnka40rtu.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. lj9FtkZAaU+/Zo1wreKP3UGm+EoULuo0L5r5TZdq4SeJaM4gCvugBun1Pxth5sFyJ2nwh2LAibw2MGIaN+hbo7edfzmL/gx8ksbIxBXa2zrlHGEl465ycLbfiAisXz4F8oA8+PTh+dF9DT71btICl2viHDh8GTHy565WGeztpUc=
+1poph5hgcfeot16gcsf01c6mnka40rtu.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1psdvuv6o683rc9ivct7qpp69ufcd99h NS 
+tukwilawa.gov.	86400	IN	NS	ns.adhost.com.
+tukwilawa.gov.	86400	IN	NS	ns0.adhost.com.

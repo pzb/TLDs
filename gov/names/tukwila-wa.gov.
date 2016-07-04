@@ -1,0 +1,4 @@
+lja3fl0g6fejn5k6e1ktq11ee2129npt.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. qTX4EZTWgKrzyeB6j1HN678NMbkt4L0ez3Eqwn36+YypwC5oDsXNlYl68qZplFLjXeb7Y38p4UgYeGJkf3+YyX6gwQ2b/pvEAXvWkJ7wSjWwc7mkQjqj4CNVwJ3eHYjzMOyQFIJ0+iJIkMangMO0hRjBS68Mbr4H4QHYk/pArP4=
+lja3fl0g6fejn5k6e1ktq11ee2129npt.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ljbg5l8rtih9pu7q5icjon418s3st2um NS 
+tukwila-wa.gov.	86400	IN	NS	ns.adhost.com.
+tukwila-wa.gov.	86400	IN	NS	ns0.adhost.com.

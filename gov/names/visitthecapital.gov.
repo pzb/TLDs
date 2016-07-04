@@ -1,0 +1,10 @@
+ns1.aoc.gov.	86400	IN	A	161.197.102.14
+ns2.aoc.gov.	86400	IN	A	161.197.100.14
+pr2vr1n3eln8su55od0502suu92b9ous.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Gn1X/1u7AEleLjhtP3DcbLcF0Vuuf10Ee59GtDz+GL0PvI8RsYo/OmbwwtyvtyfQjpB5tGeeMvidJMGgpCsDdc3Cf18jhBw65aiT7oHENqNohMjisXgZi/aPpTw/j6OVWcNW+0dOIjdfwXdJeyRZPk0OhAjKVBFxNSUvF/WVe1Q=
+pr2vr1n3eln8su55od0502suu92b9ous.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pr31nb8aehomo5bvap07hmec8f568itm NS 
+visitthecapital.gov.	86400	IN	NS	ns1.aoc.gov.
+visitthecapital.gov.	86400	IN	NS	ns2.aoc.gov.
+visitthecapital.gov.	86400	IN	NS	auth111.ns.uu.net.
+visitthecapital.gov.	86400	IN	NS	auth120.ns.uu.net.
+visitthecapital.gov.	86400	IN	NS	authns1.centurylink.net.
+visitthecapital.gov.	86400	IN	NS	authns2.centurylink.net.

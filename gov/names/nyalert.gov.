@@ -1,0 +1,6 @@
+brlm9l5aa660ljavpig3d504ihvuemmc.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. jKIJjeJwwlqEWr/0d2hIXNPvm0mckq4PzK68zVlq6+28mfQTr6D2ZaDRU821Q9AEF6ISWiJzOnlqh3qv6iULBl0913wgTP6ZTflhx7KPOexmyrtspuGn2btNZTyz9BEPUdP5/2uXfcoP1e7gfGMrmlpd35JHEfHtEPRdLl6wlMI=
+brlm9l5aa660ljavpig3d504ihvuemmc.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  brs5h0fd01l8pu1i9rvfgpdnfpaat45h NS 
+nyalert.gov.	86400	IN	NS	albgtm01.nyalert.gov.
+nyalert.gov.	86400	IN	NS	hawgtm01.nyalert.gov.
+albgtm01.nyalert.gov.	86400	IN	A	12.184.36.23
+hawgtm01.nyalert.gov.	86400	IN	A	12.170.112.23

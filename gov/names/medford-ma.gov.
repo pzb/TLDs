@@ -1,0 +1,8 @@
+7ns4apse8til96aeggjjrdpipbcutn40.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ETNHkuCY4qcBIiqHnFgg/9hWeYgXudhng3ldpO7TA4uudC0iaMELpXPVYzdyM9L1NH25fOQHYmY6MRrXf8ZA9sW5J1Z3a/2x/08CGtPKsn0H9V/jUCadjg4e07uSeU7C72r5Q/ilf7Y2MSuPsRKSaOexwVfm3HjYFpRW3gqfrfA=
+7ns4apse8til96aeggjjrdpipbcutn40.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7o0f3r24ob86r02doj440j2cgdg5c3sj NS 
+medford-ma.gov.	86400	IN	NS	ns1.bdm.microsoftonline.com.
+medford-ma.gov.	86400	IN	NS	ns1.bluehost.com.
+medford-ma.gov.	86400	IN	NS	ns2.bdm.microsoftonline.com.
+medford-ma.gov.	86400	IN	NS	ns2.bluehost.com.
+medford-ma.gov.	86400	IN	NS	ns3.bdm.microsoftonline.com.
+medford-ma.gov.	86400	IN	NS	ns4.bdm.microsoftonline.com.

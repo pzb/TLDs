@@ -1,0 +1,6 @@
+ns1.in.gov.	86400	IN	A	108.59.49.19
+indianaunclaimed.gov.	86400	IN	NS	ns1.in.gov.
+indianaunclaimed.gov.	86400	IN	NS	ns1.state.in.us.
+indianaunclaimed.gov.	86400	IN	NS	ns2.state.in.us.
+q0eq3l9gj3u1vdilorqpoto14jdcnk78.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. FgSAOdtvEQJkKt9gmuLeiImyHXUPEsiUVvu/fL9T6Z3AMnAcPjzKVo32zPa4SDKyT6QuPEzksQ+uCwC5Bk3cLzzt1lcZh+tEw7qNXgDEXLLrYDz9er+i0UVncWKSTGbFqEHrgl3ZEAxrrzhdxBGYkkcUC39sGg6gR4QxnGto9XQ=
+q0eq3l9gj3u1vdilorqpoto14jdcnk78.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  q0s6m4ugsfeok91cejv87vivrqngvtn2 NS 

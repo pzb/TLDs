@@ -1,0 +1,4 @@
+25nr10aq120nvd16uafpb2t8r4kbkqlp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. SAjyd19o2h0ckdIpa3aTZ9Pfp3hRMEfE8dCsvGC1E+B7bV+NDQ6kUYoh4o4K5ACJj/+DeBvhfM8KiPQ0L3w1TRg0LPWL8KmvqYFYwwvD71z0UND/9CW12eCqVjRc6esGFbMLlLWDrCXPr3k6RaJT8bCGawwZzN9ZYIw/7sfluGM=
+25nr10aq120nvd16uafpb2t8r4kbkqlp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  25v2n85k09uma5guu29a46uu3upm7spp NS 
+augustacountyva.gov.	86400	IN	NS	ns1.lumos.net.
+augustacountyva.gov.	86400	IN	NS	ns2.lumos.net.

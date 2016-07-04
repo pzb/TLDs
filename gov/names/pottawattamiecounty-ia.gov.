@@ -1,0 +1,6 @@
+7ga6qciba4j5g3bmli2i2c9thbie25dj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. NGnUUDhAaIGC4XdTShbSlSjcIOrd1UaW82iccBAEPpRedAWRYvDCTPTvgoPLVzDdsajAOuay82iSz/an9enpcbRQuxvIZCBFoFnKPLcJ83DN2r1TBDuzG4NY34noNmHkCHihWfJMyxFzNPFSyFko8S0XGohr8xn6/NeSinbwGxM=
+7ga6qciba4j5g3bmli2i2c9thbie25dj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7gds96k07o4o9ag23s7ibh0n67995shq NS 
+pottawattamiecounty-ia.gov.	86400	IN	NS	ns1.pottawattamiecounty-ia.gov.
+pottawattamiecounty-ia.gov.	86400	IN	NS	ns2.pottawattamiecounty-ia.gov.
+ns1.pottawattamiecounty-ia.gov.	86400	IN	A	69.63.121.3
+ns2.pottawattamiecounty-ia.gov.	86400	IN	A	69.63.121.4

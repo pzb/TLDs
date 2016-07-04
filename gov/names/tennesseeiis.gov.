@@ -1,0 +1,6 @@
+h63u736kt5da30talfb35bhr61me5j1c.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. dhtluNTJvlWr5cY6SpsXZMB9ZRwkwb3Z5H705+Wwq5+1SFjn20Arh/BCb7eK/3/zF8n5P2MdPXjYBUJQ/vwpx4Pt8HqY+8rzSGheqg9ing4ugdT0iliTlqs7YOXO61A803lgjKAlXEKfMqbV3oJO3JTzIwWuksWGppbs9MDclEc=
+h63u736kt5da30talfb35bhr61me5j1c.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  h64tpo2n89g7jrsv8p3l6d3fe385qdj6 NS 
+tennesseeiis.gov.	86400	IN	NS	dns4.tn.gov.
+tennesseeiis.gov.	86400	IN	NS	dns5.tn.gov.
+dns4.tn.gov.	86400	IN	A	170.142.92.58
+dns5.tn.gov.	86400	IN	A	170.141.168.22

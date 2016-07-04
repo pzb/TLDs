@@ -1,0 +1,4 @@
+ephftfph8verkkv0kmbotgvnclogtug6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. NskNbSDKIWgirGW1OWMi1HNvPk87u7j17Onh6mjvIjLDijQcn9RlcSqAkJ6QAedJjxncZFH6TLNER9LLN1wHuaFX/QFxHqYoxq2oXfxAjSAXOAmn45lTu0YbpfzXqtGv4nxze00eQUxgT/hwaqIis7O9Yqz9tbibc7SsLM2/LGo=
+ephftfph8verkkv0kmbotgvnclogtug6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  epif8lsn5456odpl5a10jgbsf3lc9tib NS 
+marionky.gov.	86400	IN	NS	ns1.lake-productions.net.
+marionky.gov.	86400	IN	NS	ns2.lake-productions.net.

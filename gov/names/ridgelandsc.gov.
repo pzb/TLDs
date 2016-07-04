@@ -1,0 +1,4 @@
+47a58hb73q142kp674j3bc6nrtaebhui.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. J2bmxh1N+5NW55snTNa8YUDBkzXE68wyPZ3I0/P4nGtaLhz+3PNf6OpzfsLR9D7KZ71s04+kueXPrtEwu9MVMVifuJupmyeAaMJxnyd1OuneT5VWbBVcJtEKHRfxfczWgWGFFfcWokkfnZsuUAQ2tlRaSgM9gIzeFciasT62bW4=
+47a58hb73q142kp674j3bc6nrtaebhui.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  47lkef4dqop9dgvjaohk7q1lglaprr1p NS 
+ridgelandsc.gov.	86400	IN	NS	ns51.domaincontrol.com.
+ridgelandsc.gov.	86400	IN	NS	ns52.domaincontrol.com.

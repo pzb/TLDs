@@ -1,0 +1,7 @@
+ns21.loc.gov.	86400	IN	A	140.147.32.166
+ns23.loc.gov.	86400	IN	A	140.147.239.150
+unitedstatescongress.gov.	86400	IN	NS	ns21.loc.gov.
+unitedstatescongress.gov.	86400	IN	NS	ns23.loc.gov.
+unitedstatescongress.gov.	3600	IN	DS	34117 8 1 86cff3a9c02eaff9ec1babb89a5d975d19686eab
+unitedstatescongress.gov.	3600	IN	DS	34117 8 2 61bdafbc573153cd1bf6566bb927445995f74cffc2cd57ce40975fe84bde0532
+unitedstatescongress.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. bD/cqiNZM61oIVp+zO+fZomNjJ3yoJN1DjVkvgj+k8r1K+m4LT6be3C/5069qiOxrBSLAUJH4+biXX6YKUL67N0oyJpS77eHr2GzGaTBP66Ie7TL/eg3vn8RFzmR/BMV68p6QnWmzWztxhvt4PR55RAaxTRUOaksr1rCuoo9VU4=

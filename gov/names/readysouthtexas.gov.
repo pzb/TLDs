@@ -1,0 +1,6 @@
+e1871vbiv6f08bckuv8co73kofeoh0ok.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. rsKkm30fYHDjECFOh05XCdZF78k7/dsqqWyHao7TjGavfcNyX6jE/ajV7CHfB9VEq9rCi1vhH0PBmRnQ1dXtOymRVdqYqfZkgYIzJLH2qprwiB5h5xRgBOVc0nDqLgl4P6b3WSMBP5LVcwTCdEtRKY10jNlui185LLtJ4To/i4A=
+e1871vbiv6f08bckuv8co73kofeoh0ok.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  e18rfqpjt283qv4oeja58rbd4dr2c409 NS 
+readysouthtexas.gov.	86400	IN	NS	ns1.sanantonio.gov.
+readysouthtexas.gov.	86400	IN	NS	ns2.sanantonio.gov.
+ns1.sanantonio.gov.	86400	IN	A	161.226.133.135
+ns2.sanantonio.gov.	86400	IN	A	161.226.134.135

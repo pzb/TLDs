@@ -1,0 +1,4 @@
+9sid9qok0n2krvil77rhgfr357uiupr8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. mHTsEPmjVAmtYUj6/L9zpsL9T89OPiT7tMFNYa5tZHIo+X3jEowpx6i9D7bSOJ1cc1bTGm6Rv0olCCCg8UwYCTeaEkSf1e6cYE3OqjSa5aDMCCobxKpQelkJo+ZC6Sx3g4sDDKvW/CHqk70czaWftf/xJgDKJZPQIhej0/S8zns=
+9sid9qok0n2krvil77rhgfr357uiupr8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9sip90a03lio2m3pq3h7uv64mnmojk9q NS 
+randolphcountync.gov.	86400	IN	NS	pdns01.domaincontrol.com.
+randolphcountync.gov.	86400	IN	NS	pdns02.domaincontrol.com.

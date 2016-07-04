@@ -1,0 +1,15 @@
+fido.gov.	86400	IN	NS	dns.gsa.gov.
+fido.gov.	86400	IN	NS	dns2.gsa.gov.
+fido.gov.	86400	IN	NS	dns3.gsa.gov.
+fido.gov.	86400	IN	NS	dns4.gsa.gov.
+fido.gov.	86400	IN	NS	dns5.gsa.gov.
+fido.gov.	3600	IN	DS	48412 8 1 5768c3c396435756c195f8032d351a9cc4480656
+fido.gov.	3600	IN	DS	48412 8 2 5a93df675041836921795cb4bb52c6b163a83997354b399f74d3d641f67da91d
+fido.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. kW3LV6UTxJGuYsGkpDzvQ6bLqrFtPcKZsODoThzxmEfzvuKT0cvCXybzpdGybmBOzGzf6/hBdYXfxR9XiAUzsPyDkznBpj5325jRPeIhgs7lxi+Z51UV8Lq2HobhbT6fRHHHNtTg1lcFhkXRFHGBbtXXJmuJvU5aRJnvPOoV7MY=
+dns.gsa.gov.	86400	IN	A	159.142.136.198
+dns.gsa.gov.	86400	IN	AAAA	2620:0:150:280f::5
+dns2.gsa.gov.	86400	IN	A	159.142.150.68
+dns3.gsa.gov.	86400	IN	A	52.203.230.235
+dns4.gsa.gov.	86400	IN	A	159.142.69.84
+dns4.gsa.gov.	86400	IN	AAAA	2620:0:150:4013::5
+dns5.gsa.gov.	86400	IN	A	159.142.45.20

@@ -1,0 +1,4 @@
+cityofconway-ar.gov.	86400	IN	NS	ns.conwaycorp.net.
+cityofconway-ar.gov.	86400	IN	NS	ns2.conwaycorp.net.
+s2fmmf2lbi9m77pimbnq4qans40s9nma.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. iAdTSu3Z9rXJUUPrKcanTyzxqbK8ih3rLNlpm97kTjmNjab6h0ecCANLW2ssMLVBVfabKb2OzgKn+EUMismVnVGldhFr4UA1nJFLkfINC/cAV5TuaSyXajtLonaXhF6aa9ulmCeS5aSke6OVf8/Lc7XbxsooujNdTz9cDTSAsBA=
+s2fmmf2lbi9m77pimbnq4qans40s9nma.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  s2gfed551bp8ushh0vnf1hpjkn9dlqjo NS 

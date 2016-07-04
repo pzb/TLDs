@@ -1,0 +1,6 @@
+293337af203l0o6c1q44t73c12finhrd.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. c9Mf/Qqb3/SDfsB7RMHjmbTUfNAzMzefoVesGQ/h1M9P9VerebDDkfDNIx7JgfrVh8Jc8DALFtXz2D5nyvQODTf6t512Kj89H37uTNuFRhkkFLyxzhT3BDJW0cTZD4gC2GZmJNbLh0k7segbqeRtgWQmhGOpSxF3xbuzT605Hr8=
+293337af203l0o6c1q44t73c12finhrd.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  29hf3geqfa4mps0ltvrqipi6cd06drm3 NS 
+capitalregion.gov.	86400	IN	NS	ns1.piersystem.com.
+capitalregion.gov.	86400	IN	NS	ns2.piersystem.com.
+capitalregion.gov.	86400	IN	NS	ns3.piersystem.com.
+capitalregion.gov.	86400	IN	NS	ns4.piersystem.com.

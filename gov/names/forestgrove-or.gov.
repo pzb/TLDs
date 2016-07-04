@@ -1,0 +1,4 @@
+7dt003a2m1kp6naskt2ontht4777hjn3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. SOfQ7Z+h2Qu3a1XNxfy4H1Dccs1Y/b4s3yVDVe1LEA55/QdaBCBq2YxknF3sYDdSgYdkVvo/new+5leWzunbSwRrCScYCtvV7RDatU/2f3I4UAAFOO+BfAdShFnOlPQLHhDHC2aaCMeCgUqZmr5R168VQeFBmoYjBCbBOUSddE4=
+7dt003a2m1kp6naskt2ontht4777hjn3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7dutbuqtj7i5t4oufjpn9lmhd8g2i54m NS 
+forestgrove-or.gov.	86400	IN	NS	dns2.the-bug.org.
+forestgrove-or.gov.	86400	IN	NS	sunny2.ci.hillsboro.or.us.

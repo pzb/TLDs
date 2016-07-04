@@ -1,0 +1,5 @@
+sierravistaaz.gov.	86400	IN	NS	authns1.mpls.qwest.net.
+sierravistaaz.gov.	86400	IN	NS	authns2.dnvr.qwest.net.
+sierravistaaz.gov.	86400	IN	NS	authns3.sttl.qwest.net.
+vqivt0sgmn7iacsug4su090pel3cug75.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. kXQCN+Nz3kyyl6qBn3Uk3eSDOyN3LeIpKLJ/Ckds7J4THKXlSiJBLfnrTskR1lAYpTpcZQdrrCUPFYSYkuoFgO7OHsN4p28YjeE293AZ8ieMmIU3kxESOWigH7vHulB09/JBCy5+h2hcGnaO9KVTA06YsX/h+I/xVxGmCtHWYN4=
+vqivt0sgmn7iacsug4su090pel3cug75.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vr0ne2rfvq9rf2gmrfj352qrpqsi4mfu NS 

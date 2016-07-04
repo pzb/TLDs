@@ -1,0 +1,4 @@
+da1cqhsfr9gvrhnpss83brk3qupko7pp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. T9X4kX4OHYoRxlF+1K1LwqadY6+/wZWMPgUWxbv71Ep+2vVTmkcwHPXQhBSxRyXu885Srcgs64l37T+aKwSevyPJX67LRiMCPrw94sxLXEzJvETg1el0eA+QkQqznaoFKJ0/jJ4YA8Q+pKCUFq9DkphqB4kQ+MPS1CcgkZWdQuw=
+da1cqhsfr9gvrhnpss83brk3qupko7pp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  daaeggt9hgkf60vctqh6qbgr6e6q2g7v NS 
+fulsheartexas.gov.	86400	IN	NS	ns1.softlayer.com.
+fulsheartexas.gov.	86400	IN	NS	ns2.softlayer.com.

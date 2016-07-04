@@ -1,0 +1,7 @@
+ns1.iowa.gov.	86400	IN	A	165.206.254.145
+ns3.iowa.gov.	86400	IN	A	209.56.120.13
+iowagrants.gov.	86400	IN	NS	dns.iowaccess.org.
+iowagrants.gov.	86400	IN	NS	ns1.iowa.gov.
+iowagrants.gov.	86400	IN	NS	ns3.iowa.gov.
+rih0og4rsl3gbqoflmhn0pi5sektp5dr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. kI3xq02auB9vAzILh3E6n9gQAIrWWzN/CnvcQh9HqqMz/AOkbIBLW+qd1sjTyLuHzFxkAIr6yxFwD3DsCRuf6v+tn/GtRfGzyHneG06ZMyQbU5Nn+QEsGVwZpD3IAz4UurzIRWTnm2kR4yc1TEHiUL5eTvXzJvijwmmBc0QpYcQ=
+rih0og4rsl3gbqoflmhn0pi5sektp5dr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  rijqb1m906qeduld4ilu2h2tqbmn6ehe NS 

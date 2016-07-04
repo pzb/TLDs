@@ -1,0 +1,4 @@
+9am4c2af0n3g56bnvqjb6gq4mp45tmt0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. RG1qMUtrskoHcFtiAcZTiNL6MdmB3k8QdG1jqPi9fprxJTgZSAU0KnvRwhncboG1wAtQ7/ssI/KpUj+j/W/IdA+oSogTUJf+tLvMcUYS2ocpx10jvUdhIRwcGhhpwVGAQKZSeipuf/BlE2Q25GXSpwMdgfMThx/vwiTbsSvyy/0=
+9am4c2af0n3g56bnvqjb6gq4mp45tmt0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9av1lbv9vbcs1dc28907sk4a31cabaof NS 
+fortworthtexas.gov.	86400	IN	NS	ns-973.awsdns-57.net.
+fortworthtexas.gov.	86400	IN	NS	ns-1834.awsdns-37.co.uk.

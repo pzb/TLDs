@@ -1,0 +1,4 @@
+gr5d1j6mnbv1jvteia27k8vgk4qgs4vv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Yg/IYbjw80XOWwXfoH6DRLLPf99VYSISs/0CS1/Ym0dsl4R2brQzF8hoXOEYkRnCx9w7e1PxccWqOF6Spp8Ow71GDtYxLppbSWDaaUcnk5mC2XNFY+HyHN6k0QMIui1wWEcB/Psvlo68wfRbkg04fydkN1Ec0cYGSciKlm0ZltY=
+gr5d1j6mnbv1jvteia27k8vgk4qgs4vv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  gs4pgsp59btet1a0ru7ua46eggs3fsfu NS 
+portage-mi.gov.	86400	IN	NS	grr-ns1.goisg.net.
+portage-mi.gov.	86400	IN	NS	hol-ns1.goisg.net.

@@ -1,0 +1,5 @@
+co3r0scnk024a33f23v1q5n64moivj29.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. r65lAjjD3X5jLekyEWHo/+nx6x8JIJsOXgSmtTl7B2N0o/ntIhz1aDZfTI+AqbFrz4kvZ2ylpuq30IZoUorbPXYFZAerZb8CFuyNK3kC8SE7Ivo49goHE3lKwlFA1czitV3A5wfONYdTUQOyAF4HSKgvdeZPbKN5nPTavDG1zcE=
+co3r0scnk024a33f23v1q5n64moivj29.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  cojf8eeapdj9q7numee72ppg646gfle8 NS 
+moriartynm.gov.	86400	IN	NS	ns1.bhinc.com.
+moriartynm.gov.	86400	IN	NS	ns1.twtelecom.net.
+moriartynm.gov.	86400	IN	NS	ns2.twtelecom.net.

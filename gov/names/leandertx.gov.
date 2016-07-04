@@ -1,0 +1,4 @@
+3t9ev5597qrtj78avqg9lq9s3sku9osc.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. n/h74fv8G+pioks/Qx4zCHl9ebkQhnAk8J9vp9jRGKUTD2oxvbtX3HB6Xdrzt7HkEEiFuEAZo1u8IZM77/KAYAgbhEvGb1Pp6xPfPVKJSNLmv3GAHsPsvq7qEFHd3fAcWZmLx/qZVpt0RdYEjUirbnwUwnjHMibXoAcoKqmpDtk=
+3t9ev5597qrtj78avqg9lq9s3sku9osc.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3t9vgtb5gkfa0nchbqp8vmso59qj6qm2 NS 
+leandertx.gov.	86400	IN	NS	ns1.easydns.com.
+leandertx.gov.	86400	IN	NS	ns2.easydns.com.

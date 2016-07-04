@@ -1,0 +1,5 @@
+avq08io1j510tuhui3rpbat7kodt4sqg.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. UjLUv9awIIDes6/MVO639kB1bRClpZmySs0xp8h3wN5R/1kBi8YWiaUKQq5UNdmtWWmQ3ERPABKHTevAMp7MBxJ6JEC0/Ci9HI43b2oRkrAQv8Qx5IlNAtmMgqDPTv0xlJMNeef1RcfUcq/cl/zrHxAEbDwbQR8OKE7wjYmxew0=
+avq08io1j510tuhui3rpbat7kodt4sqg.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  avt9qourf2k0gree6qqqhvj118tsls7e NS 
+hudsonnh.gov.	86400	IN	NS	dns1.easydns.com.
+hudsonnh.gov.	86400	IN	NS	dns2.easydns.net.
+hudsonnh.gov.	86400	IN	NS	dns3.easydns.ca.

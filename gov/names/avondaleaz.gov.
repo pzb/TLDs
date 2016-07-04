@@ -1,0 +1,6 @@
+avondaleaz.gov.	86400	IN	NS	ns1.avondaleaz.gov.
+avondaleaz.gov.	86400	IN	NS	ns2.avondaleaz.gov.
+ns1.avondaleaz.gov.	86400	IN	A	206.81.207.8
+ns2.avondaleaz.gov.	86400	IN	A	206.81.207.9
+qtdd6ajhnlg3j5bmf6sstqnnd9kvb3vc.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Ch17r3r70/0Ypvt175jBW8tqfSxt+w0S1BbF3YPqJtQ09Q4bxP3OiyzqZbcgAPQQVR7jZfS8eAOTjCFMCuzpMl34OtOuY9i0PND8+wB3CuS1lEEnbmaZYG4EZujjdlmv0mvKGpcd89h1QHxo/ndm1/153eHqnK03RwS5plQUWDo=
+qtdd6ajhnlg3j5bmf6sstqnnd9kvb3vc.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qtja7blu301lh9orp0jivrbgoeouunip NS 

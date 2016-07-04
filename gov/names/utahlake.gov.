@@ -1,0 +1,6 @@
+jteloi3pbrj0d0rkhmk4mkn646m9kshs.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. GhUVjV02KuOhb/r9QHw1/0cDDGekZ/tlprfekJ4t+nJqz8h7t6Dzx3KnjM8262L2xtXHZg/NjJsqm/kfz3DCNIcsklUJV/LC64INTBO4vLxSctS0zK2HsjqcOsk+3/BN0/hqzPeAKOB33Z2iohXH29m4ZH13aioBddF65HPUvEA=
+jteloi3pbrj0d0rkhmk4mkn646m9kshs.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jtqm29uplh03tjsat34jukg01ufvtuab NS 
+ns1.utah.gov.	86400	IN	A	204.113.19.5
+ns2.utah.gov.	86400	IN	A	204.113.4.5
+utahlake.gov.	86400	IN	NS	ns1.utah.gov.
+utahlake.gov.	86400	IN	NS	ns2.utah.gov.

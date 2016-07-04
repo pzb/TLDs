@@ -1,0 +1,8 @@
+esp.gov.	86400	IN	NS	a1-61.akam.net.
+esp.gov.	86400	IN	NS	a6-65.akam.net.
+esp.gov.	86400	IN	NS	a7-66.akam.net.
+esp.gov.	86400	IN	NS	a10-66.akam.net.
+esp.gov.	86400	IN	NS	a12-67.akam.net.
+esp.gov.	86400	IN	NS	a13-64.akam.net.
+esp.gov.	3600	IN	DS	13171 8 1 d4c48d77fcec3f58b78f0514924a0b4acbd6a6ea
+esp.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. BgXTnCB6EPkVnOZVCE331RLUzUjhnuACdq6IgqFrCqddRU7F/O2t1fp1OG2vjQfyb5nmgQ2XzhfhLEoa5pehFqbgk/HyfMW2IiCnG01lm0htwxnT/eJcxTrd7u+xh5/G3hmrBW6w9TeNE9+OZN8ubkezYBVJ2y7e+kfIavqB930=

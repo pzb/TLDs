@@ -1,0 +1,12 @@
+fema.gov.	86400	IN	NS	eur2.akam.net.
+fema.gov.	86400	IN	NS	eur5.akam.net.
+fema.gov.	86400	IN	NS	use2.akam.net.
+fema.gov.	86400	IN	NS	use5.akam.net.
+fema.gov.	86400	IN	NS	usw4.akam.net.
+fema.gov.	86400	IN	NS	ns1-46.akam.net.
+fema.gov.	86400	IN	NS	ns1-96.akam.net.
+fema.gov.	3600	IN	DS	28112 8 1 9f83509bf48f6ab848c0efc15a534e0c44cb5823
+fema.gov.	3600	IN	DS	28112 8 2 7618cc7840a9afb5addfd31f17176475870babad8a32b051ed8ad9d0d0d3b43e
+fema.gov.	3600	IN	DS	38614 8 1 74247000a61e26801b9c74251baed2a6b156424c
+fema.gov.	3600	IN	DS	38614 8 2 03a1d988eb813824d7903d045d59847ed7e417c39e20a1d337b8e1e251d44698
+fema.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. mBZRBOafnRFQgvS8ITeD/NBPkcBFIn1ab+QM+Sv9oQTUSd0AyqJc8ZkDSAkQLwc1m5IqBjNLTLzBS/fcU7OoL9Z5ryFCQrGtPcniAyq75uC8mPaqysB6r5/NG4VIz0+BVbUCjeL+Bn+G3gQPxYlC4fNTVhzDY3pkhzfGk67VP5Q=

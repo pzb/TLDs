@@ -1,0 +1,6 @@
+53lnkpvibubicvtoj7cgnepltk5bns71.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. w8kZ9crXzG7JVg9d3A2C/ER0XnX9WUtPIo0wwOChoACqd24jkP0nSdC9ag+CQU1vdnK5pI/OP59ORsUD6W/jV+4Rssq/prYxbHsRgRaqWj19W2E05HcWEnFdf+0Jz4YXYeUVROUkq0nkWOpJlfFzcyXg1zGIGaNiZ1zapF5fTL8=
+53lnkpvibubicvtoj7cgnepltk5bns71.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  53m4rrjhlnbhle9u7f2dbfoev16po8bb NS 
+winslow-me.gov.	86400	IN	NS	ns1.winslow-me.gov.
+winslow-me.gov.	86400	IN	NS	ns2.winslow-me.gov.
+ns1.winslow-me.gov.	86400	IN	A	72.12.68.67
+ns2.winslow-me.gov.	86400	IN	A	72.12.68.68

@@ -1,0 +1,9 @@
+cupcao.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+cupcao.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+cupcao.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+cupcao.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+cupcao.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+cupcao.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+cupcao.gov.	3600	IN	DS	15884 8 1 486475acc2dbdbd52def1cf3f36dd7ceebf95891
+cupcao.gov.	3600	IN	DS	15884 8 2 e0e1b0188f698f7693a302d804ccf54bd15f9ab0882aa99261528013badac280
+cupcao.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. IE7sdrBsiI+i8zoRcP7w/i5AVwUDgImVB38RBXHCX1ZEPViajt9/Yfw44Wkm4msItqcVZ+Ga912CzlkPuuPEAO2FlEmJJBdTfGEkQbxIcFxjQ0UjCN/RWfZHTAtVM5v2f/xR3IjcQjQOjNAOPxTTlCX97pL6Gl+80wypqywB60g=

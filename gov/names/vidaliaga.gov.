@@ -1,0 +1,4 @@
+s0q3kburkorg6ddlvr2cjqor6tal2f4e.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. qhb0Aajwer7o5T19yQ/rznebGbbu2BJTjIr5Iid1wEsG5OYkl7Hw1J+wDp/4NSSxNGaC31w0e5+dUmq1wwcnQlBOV2zGPp/Esc6XAVyb0K6bflrPTL7nUffc7XJ6xCOyLPtETJAvulrv8MIeSp41g5BVW2P3/+EDZ3N/FufQcg4=
+s0q3kburkorg6ddlvr2cjqor6tal2f4e.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  s15mrljtcdpg0d87ekt4lgikeu6dgb9t NS 
+vidaliaga.gov.	86400	IN	NS	ns43.worldnic.com.
+vidaliaga.gov.	86400	IN	NS	ns44.worldnic.com.

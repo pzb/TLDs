@@ -1,0 +1,4 @@
+6uvgsg6bs97mahui7vg9jejuhoomim6l.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Ibe5q2mcS5aAYcMNbI9EA0qGQSvU/oYeX9w262tPlhvSEau4bvLtJoHmaaMqaxwhmr3cShgqM3BJS3vOJTptufZ22eeZDLmZGUbD7YaPZaH3IQYqUKbT7NX1y8fhXCgMFTUSKFd4xN/76gaRXj8EwEOCxM3u4ti6ZQ2H2cioJjM=
+6uvgsg6bs97mahui7vg9jejuhoomim6l.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6v2c0bo4em8me7iqdebt4k3iq7bbedmd NS 
+townofshields-wi.gov.	86400	IN	NS	ns.maqs.net.
+townofshields-wi.gov.	86400	IN	NS	ns.network1.net.

@@ -1,0 +1,4 @@
+76nnqm73tu6068duoi61hf2e9h6e3mdp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. eidKU8LnEht3PycTLwrOgnjAY7Dxk3vzepyZnNMWCKKXkv/kY+C5Kffz4fJqSjjVSlw5mlX9kus0Mz3IfB4LjVquM4Agvj75Uw/5CdPoaIJinWP+yUpSzP19hUPEwdiu7JxVpYsGSnssEmdg/WXoIJ2czyvQl/aRBbDeaMqYfGw=
+76nnqm73tu6068duoi61hf2e9h6e3mdp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  76rblkkif1oevramjg8b5jslui7t23dl NS 
+trumbull-ct.gov.	86400	IN	NS	ns5.zoneedit.com.
+trumbull-ct.gov.	86400	IN	NS	ns12.zoneedit.com.

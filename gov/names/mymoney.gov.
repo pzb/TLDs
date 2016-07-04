@@ -1,0 +1,9 @@
+mymoney.gov.	86400	IN	NS	ns1.treasury.gov.
+mymoney.gov.	86400	IN	NS	ns3.treasury.gov.
+mymoney.gov.	3600	IN	DS	29134 7 1 a24d7199cebfb2820592203aa340a1cbf50d46ac
+mymoney.gov.	3600	IN	DS	29134 7 2 6ae2a3912f9ce9a21172fa81447807c5ccfb1337e4398b35169f77b005bb2196
+mymoney.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. KuZOO4aN4zMVIynPhdw9bNvi2gm6xcMEfn80MZrrVUuOBb1GilKt2PeB4bS0fKXESdDCYi69wkWSNaCeKOa8AcBhSSvZkLAqpxexd4JPW/mHTx9bTw6WKwXe7TqAwTRvjhKCtgvNypfOIvauMdy9fXkK2v2EqpaFY8T+s8XgstE=
+ns1.treasury.gov.	86400	IN	A	166.123.208.249
+ns1.treasury.gov.	86400	IN	AAAA	2610:108:4000:100a::249
+ns3.treasury.gov.	86400	IN	A	164.95.95.155
+ns3.treasury.gov.	86400	IN	AAAA	2610:108:3000:100a::155

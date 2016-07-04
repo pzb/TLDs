@@ -1,0 +1,12 @@
+aviationweather.gov.	86400	IN	NS	ns-e.noaa.gov.
+aviationweather.gov.	86400	IN	NS	ns-mw.noaa.gov.
+aviationweather.gov.	86400	IN	NS	ns-nw.noaa.gov.
+aviationweather.gov.	3600	IN	DS	9013 5 1 db5c73eb503656c8a826c77d9f6aaf33bbae4b33
+aviationweather.gov.	3600	IN	DS	9013 5 2 d4a51bdcbe4bfc940bcda16cf391d04493d1f9a517d21d077ea9ae2ce8488578
+aviationweather.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. p823CJlW3PLQX9fJaBFTGnYXyLGJHU22aTRCMjvJ4HZBtCIkzwOgwVIMB3Z3iVKYEOBBtJ9aVJQyBwDkkcxoxhkHYJ06lKWmYXJUj65nnKj6u/3eL/5V0+AAX8ZXaOtTN9vk9ICqcn/zc9PyH8zEHRuZ3hEUW6D3Eb7toPvDhtc=
+ns-e.noaa.gov.	86400	IN	A	140.90.33.237
+ns-e.noaa.gov.	86400	IN	AAAA	2610:20:8000:8c00::237
+ns-mw.noaa.gov.	86400	IN	A	140.172.17.237
+ns-mw.noaa.gov.	86400	IN	AAAA	2610:20:8800:8c00::237
+ns-nw.noaa.gov.	86400	IN	A	161.55.32.2
+ns-nw.noaa.gov.	86400	IN	AAAA	2610:20:8c00:8c00::2

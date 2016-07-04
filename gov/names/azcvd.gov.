@@ -1,0 +1,6 @@
+azcvd.gov.	86400	IN	NS	ns-232.awsdns-29.com.
+azcvd.gov.	86400	IN	NS	ns-941.awsdns-53.net.
+azcvd.gov.	86400	IN	NS	ns-1141.awsdns-14.org.
+azcvd.gov.	86400	IN	NS	ns-1794.awsdns-32.co.uk.
+iiu6fopslidkjptsi4hehsqfo5v674fl.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. LaoqquaO7OOmnRkzo8c8wm+DS1Kaoy8FT9S4ieXvQ76lb99QOXLs/OqprKpxqBzfrza+RCHYOrwbfws8UcCXLBnrG+MkP5PGWNe7SLsLy22athr/8RooAB81XqjW7UEPb8QnImz1At/URzLYKgtzGahcHMyeDCpg+vPtLnYggL4=
+iiu6fopslidkjptsi4hehsqfo5v674fl.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  iiutcjti87qu0eu5pe7mmj2cskqp74d6 NS 

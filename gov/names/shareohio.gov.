@@ -1,0 +1,4 @@
+37tkegsk4uvlq2f039eghd9pfn87r0j8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. D+sXcfz+pGLjI23RDNO8KS1Xum6slF9VvORcm2mjtQnDRLEeXR0sVmlWt8XXKtnIBWFLJ1oNyG9qWAaS9KXvGLTIuA6rV8Vo3Uuvnx27mKzDI8Z6+HsFENeKhss2w2da9eVavjmtVNB/8HRaGv4n+gldg2G1eJsI5BG2C00cANM=
+37tkegsk4uvlq2f039eghd9pfn87r0j8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  37v9m2s4dj39bm7ul25i3mglc3kme7u6 NS 
+shareohio.gov.	86400	IN	NS	ns1.state.oh.us.
+shareohio.gov.	86400	IN	NS	ns2.state.oh.us.

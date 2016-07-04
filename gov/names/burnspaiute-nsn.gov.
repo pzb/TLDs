@@ -1,0 +1,4 @@
+burnspaiute-nsn.gov.	86400	IN	NS	ns1.fastdns.net.
+burnspaiute-nsn.gov.	86400	IN	NS	ns2.fastdns.net.
+rfistqd6gku7dbesdcbpof38c5nsb02p.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. O3aID9uahBPcpBzWhGJbI13SC7aIwjaoDRGQucaZ/7ZkDMLv5SQR9jmJmDn9Xx2Z71ZYnjCW2s9N1o254ISuDaaCwKSLkz3QcSAZ3yrUn7Dlb/pAsYXKbQObN08tLjE8Z635aVfj5sG0o8DXxL/VTY4lmgNu+LHBCOGjEQ3ID8g=
+rfistqd6gku7dbesdcbpof38c5nsb02p.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  rfqp70cciraov3k7k4pr1q97nbb327r8 NS 

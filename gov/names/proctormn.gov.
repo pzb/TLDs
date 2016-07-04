@@ -1,0 +1,5 @@
+pge2v2dfbkhfm3ed5agih8uphvc8dqrb.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. D9WbKaWMWxkNnrs8mnvV8fVKRdESrwr8DxYqgvJD+qQswZ3mx/sbQff9lOf/3enGeWGVG/YipahYjYufthBYXUc+tN4fQwtnB+fVzaAwnkYPxNxfl/sPBvRqSRmwzNNmlE3Vw/THqokGI4hibzBzQay38j8wTa8lVwHrjria9OQ=
+pge2v2dfbkhfm3ed5agih8uphvc8dqrb.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pghj6auekgq1sjmtb2asgm14a5ujeus7 NS 
+proctormn.gov.	86400	IN	NS	ns1.proctormn.gov.
+proctormn.gov.	86400	IN	NS	ns1.warmerbythelake.com.
+ns1.proctormn.gov.	86400	IN	A	216.251.163.123

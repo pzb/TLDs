@@ -1,0 +1,6 @@
+1b4cci2b1uhgehdljp019i5ufkk8tb28.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. nB1UcoDZ4oQpiGrChKvCLUdywMOZXKv+vXxuov3Q6+xBmksBDb3Cj/Dfx5yDa5jAzqcJ6auQlLO5DWs07RD8c95b+hpCi+/o3jmX5r66Wf7d7cx5eC4jaCNN908Ui4uMjfPoXfFYUa7clQH65gLtS5Gw2RztnRSwYMvBvSxckPE=
+1b4cci2b1uhgehdljp019i5ufkk8tb28.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1b643r9a1q2v0neh242oemb9oplsf79g NS 
+medinamn.gov.	86400	IN	NS	ns1146.dns.dyn.com.
+medinamn.gov.	86400	IN	NS	ns2139.dns.dyn.com.
+medinamn.gov.	86400	IN	NS	ns3175.dns.dyn.com.
+medinamn.gov.	86400	IN	NS	ns4162.dns.dyn.com.

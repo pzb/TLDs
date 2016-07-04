@@ -1,0 +1,7 @@
+a3544n4obevmfn3opliuq3bq20s97hk5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. chGoBJMX4v0z/dY4+Jn4UMoyCQUdDKEbUzgPqYiuhvL1orntxnMyossMs4aB0IfEarGhKNe/J0nmR4edaQlQEv6RFd8LMlNwQrdpXKzzt74lTBJUlpNNaNnR+uPsceVgvshDL5v0KizGtvf39RME68FIL6hs4EAgKbnYp6e9ZgI=
+a3544n4obevmfn3opliuq3bq20s97hk5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  a39qk5h8liefiks8ne824eu02f6va46j NS 
+malibu-ca.gov.	86400	IN	NS	ns0.dnsmadeeasy.com.
+malibu-ca.gov.	86400	IN	NS	ns1.dnsmadeeasy.com.
+malibu-ca.gov.	86400	IN	NS	ns2.dnsmadeeasy.com.
+malibu-ca.gov.	86400	IN	NS	ns3.dnsmadeeasy.com.
+malibu-ca.gov.	86400	IN	NS	ns4.dnsmadeeasy.com.

@@ -1,0 +1,6 @@
+r9ao0vm15b18k93dcea5nbhandr4krdp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. lIau/OWh7JlM8p2m264v/u7FrBwIHPpO7LG40svRzUab/cOE3vEeyXO8iHsm+mqtumsMSNa3IoKrlY473pap2Nv0yvsh2fDyi/Oc5HUr8rJGmHKbnomhWclP+oJyiws1MYJwfU8uREFaptPfxDNwjuZ3g6IsD8OhaWZ9O5pxhd4=
+r9ao0vm15b18k93dcea5nbhandr4krdp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  r9fo545gfp1c5ve5ddt4r12shvkcndqn NS 
+rutherfordcountync.gov.	86400	IN	NS	ns-263.awsdns-32.com.
+rutherfordcountync.gov.	86400	IN	NS	ns-852.awsdns-42.net.
+rutherfordcountync.gov.	86400	IN	NS	ns-1509.awsdns-60.org.
+rutherfordcountync.gov.	86400	IN	NS	ns-2039.awsdns-62.co.uk.

@@ -1,0 +1,14 @@
+namus.gov.	86400	IN	NS	ns-jdcd-01.usdoj.gov.
+namus.gov.	86400	IN	NS	ns-jdcd-02.usdoj.gov.
+namus.gov.	86400	IN	NS	ns-jdcw-01.usdoj.gov.
+namus.gov.	86400	IN	NS	ns-jdcw-02.usdoj.gov.
+namus.gov.	3600	IN	DS	22057 8 1 30493adb4e2307c45e057306dd4ad05cdd1b9a75
+namus.gov.	3600	IN	DS	22057 8 2 a66531e471422e67761f6d6a128c42340e72ac878fee714fe8efdaa597a4418a
+namus.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. IUduKIqRmgiNz1MWnOSRL1l/+vA2tLBMpRVeuvIeSeB1MjoJHYcp+mTUSpibK2jyw1Zkf26ESZBnTe00XAmhM5bmRgm1DPtW4TEbiOeEkfxdll/BMfGRhNWNGtzkJRHidfEjYTX2x/dhf9BjNA1jfFJLJLzZQYUEVJ0WgMPPjH8=
+ns-jdcd-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcd-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcd-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcw-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcw-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-02.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::6

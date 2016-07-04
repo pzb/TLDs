@@ -1,0 +1,6 @@
+accesstn.gov.	86400	IN	NS	dns4.tn.gov.
+accesstn.gov.	86400	IN	NS	dns5.tn.gov.
+schdnpksd9n7jj6mp5egsl16r4thtitm.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. POadLbN322BHxynIUV/KBRmh7yWCz5G58bnKOhkgnpJHbALk38dZ6f0JBSgEk3GiHYs85kQQylw04W/pgxcjhODmzdX0dd/xLZqUxSf7z67PJ5UwZZcgejWiw+7x6iBkhbCQoWaJWiM07ct5F8jsF5zqpBfv4dBgSq4IxYRhy5k=
+schdnpksd9n7jj6mp5egsl16r4thtitm.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  sci61nofekjfo1n03l1v3k0s1j486596 NS 
+dns4.tn.gov.	86400	IN	A	170.142.92.58
+dns5.tn.gov.	86400	IN	A	170.141.168.22

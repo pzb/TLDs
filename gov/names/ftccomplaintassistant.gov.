@@ -1,0 +1,5 @@
+ftccomplaintassistant.gov.	86400	IN	NS	dns1.lmbps.com.
+ftccomplaintassistant.gov.	86400	IN	NS	dns2.lmbps.com.
+ftccomplaintassistant.gov.	3600	IN	DS	20116 8 1 9c231f7d47ae3e54d207b75e889797340de9e603
+ftccomplaintassistant.gov.	3600	IN	DS	20116 8 2 474fffb13d2fb60ef403c7e769bf8c8a62a72057095e726c66e23b0e638fd6b9
+ftccomplaintassistant.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. gdF266VrXG/JF5TGZx7fa9aoEVXnuvuKxurZBrSyu5RXu832siUPSZ7g83oR9k9UWTjkxAYz2zmZcijQFhGrA5OCoIkyiiqzQZPQt6jrAo3fp1yNNZkKVGwlcZOhLaxx2Rzt36VR/GohuImUt0VCOSwLB8PLfXr2rLbmkVV1Mis=

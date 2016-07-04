@@ -1,0 +1,4 @@
+cityofsafford-az.gov.	86400	IN	NS	ns1.avenet.net.
+cityofsafford-az.gov.	86400	IN	NS	ns2.avenet.net.
+u70c78jml242egkcmfu14ndvpnhnqs5b.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Jb0NihmEpDxkBcjDcOZZ1kfxkWWyR185fVQKYFHcc5qXDGquW9nVaFqk+VRoTXQEFzFszn0562pyfV419xwrALXMBCpU8atvpvAa0CsrsLJ+o6MkiiSJnbo+5ic0PGtucfbLIugAEUlC3c9czpXXL9JATOEtsA7euqIpD7q2+kI=
+u70c78jml242egkcmfu14ndvpnhnqs5b.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  u72ohofml0fehj0nqsv7ea5v01rh782o NS 

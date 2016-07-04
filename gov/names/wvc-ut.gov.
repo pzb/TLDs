@@ -1,0 +1,7 @@
+uejnsmu52h4t4ucld7nrd3tst0bfjon6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. tiyUiEMqY7ciGaVzdb6b9cY+zn5eRtn/B3QzD1tJAwXM9MuxJYGJOsrAidPhoaL9yvx3g51KF597r8xTXbTNkg29auPAR4FDMhkglcj+DV/SRy0mcJJmfZiSPb8LrZD4/T9P5UlWpBhW199TEwkl8RAyEb/RD9KwN8rfjhNKeXQ=
+uejnsmu52h4t4ucld7nrd3tst0bfjon6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  uekfnqkej1hvk623csfguh8p91irp2tc NS 
+wvc-ut.gov.	86400	IN	NS	ns1.wvc-ut.gov.
+wvc-ut.gov.	86400	IN	NS	ns2.wvc-ut.gov.
+wvc-ut.gov.	86400	IN	NS	ns2.zoneedit.com.
+ns1.wvc-ut.gov.	86400	IN	A	166.70.44.216
+ns2.wvc-ut.gov.	86400	IN	A	166.70.44.211

@@ -1,0 +1,4 @@
+2mr614019dd9gghsprd92ml9mu35b6ef.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. HMrnoXSlQa8wpBIFty2yfSe1AsH329SnneuZsq1lTKQLM7XPonNQue8IDdoj4gN49QXHzVC1OfIkqG3MDPhak2kqenGwNTXgEsC4oB+LlDUHD4FxWNW43aWd7Um1c1eYcHwnV2MI29MAf0GRodwJxu3rlCAmiD0ivn5t/RTTNS0=
+2mr614019dd9gghsprd92ml9mu35b6ef.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  2n573td0oq5jhh358noq154lj4rqfu0r NS 
+zionsville-in.gov.	86400	IN	NS	ns1.twtelecom.net.
+zionsville-in.gov.	86400	IN	NS	ns2.twtelecom.net.

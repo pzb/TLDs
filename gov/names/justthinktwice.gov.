@@ -1,0 +1,14 @@
+justthinktwice.gov.	86400	IN	NS	ns-jdcd-01.usdoj.gov.
+justthinktwice.gov.	86400	IN	NS	ns-jdcd-02.usdoj.gov.
+justthinktwice.gov.	86400	IN	NS	ns-jdcw-01.usdoj.gov.
+justthinktwice.gov.	86400	IN	NS	ns-jdcw-02.usdoj.gov.
+justthinktwice.gov.	3600	IN	DS	9595 8 1 68114f7102297e4b7d07686e2bf6d0282c7109ad
+justthinktwice.gov.	3600	IN	DS	9595 8 2 4a91f79dd65c6df94004dcaa93bc76b37d01ce1ef3611151aae6697fe2786478
+justthinktwice.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. eJMBsADYVC3KOz/iDMmlmE5lUjTytnRhc1ye82N/18ARn4kZWsc+meFPDa0CX9/EhrxilAM9cSYgd9CwyzTTu+OA5VvpsZLEgmU6234L/MfqziIw+HXdYAVNFWCZ6JtuTCjQCMYKe+SmcJP96fhO4YF/ixGr/IrDRwmqLPQFe+E=
+ns-jdcd-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcd-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcd-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcw-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcw-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-02.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::6

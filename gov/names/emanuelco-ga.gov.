@@ -1,0 +1,4 @@
+2nj02ldiqoiguq0hmv64f0fd5majps6i.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. q4wjtIDRkBkG70RHbfqCHd1vJyoA2pVia3Uh5dNBSlOd1fcLF+cSca1+tr54bwmX7Sw042cwRZcje8MvMwmSxdJzUmOTvzAPh09+yzMKw/98t7pADF+fVOrVrfcExY8lli8JET23apzqlNxR2JBI85ZzTzqAxBbzI3cQntSYNtc=
+2nj02ldiqoiguq0hmv64f0fd5majps6i.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  2npj3h2ln17kql4vt92i9n5h6ifhfofm NS 
+emanuelco-ga.gov.	86400	IN	NS	ns1.pineland.net.
+emanuelco-ga.gov.	86400	IN	NS	ns2.pineland.net.

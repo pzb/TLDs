@@ -1,0 +1,6 @@
+azhs.gov.	86400	IN	NS	ns-345.awsdns-43.com.
+azhs.gov.	86400	IN	NS	ns-990.awsdns-59.net.
+azhs.gov.	86400	IN	NS	ns-1218.awsdns-24.org.
+azhs.gov.	86400	IN	NS	ns-1603.awsdns-08.co.uk.
+glhiulup2e1gv861egebii0si3rtmfpg.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. HHrazgKoCMzDLjMV/3OvDVNPqDYCvAybyEw8Mxa7AKd1Wye7jtqCTNCIFjK71z4sedgIGmOuK/32MxQnCXsRMXco8O6Ir5ghM4zwmK/OCjEFL9N/QkXLunXicac0Ys6cG1sNBOZ/cHSzMYcMYDBfyubDEwx0H5OHqHBSIcO2bo4=
+glhiulup2e1gv861egebii0si3rtmfpg.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  glicb44ntta0epagkuhua5daanm1lojm NS 

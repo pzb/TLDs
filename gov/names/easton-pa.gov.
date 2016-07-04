@@ -1,0 +1,6 @@
+3n4g7l7ategt8opp64ab0fs7rq0i929n.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. WnxSN2iQj4sSTjBBUzwmdX8p73QLCeUksVuVpkle3Go/tTUvYQNVFgHECTsHXbH67SH+aNbf0vZYvEFsb2pVp79hEWtmF2KdnpdypMXeaiRvfjQLx34fGH1j89AHX1Cj4gtnI9Usp6vILmeHQXR125s4RO8hXjNhYFI7FUuNAtE=
+3n4g7l7ategt8opp64ab0fs7rq0i929n.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3n4orediub346ae8dhofeqobho5l4v50 NS 
+easton-pa.gov.	86400	IN	NS	ns1.p27.dynect.net.
+easton-pa.gov.	86400	IN	NS	ns2.p27.dynect.net.
+easton-pa.gov.	86400	IN	NS	ns3.p27.dynect.net.
+easton-pa.gov.	86400	IN	NS	ns4.p27.dynect.net.

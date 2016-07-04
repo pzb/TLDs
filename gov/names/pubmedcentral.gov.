@@ -1,0 +1,18 @@
+lhcns1.nlm.nih.gov.	86400	IN	A	130.14.55.72
+dns1-ncbi.ncbi.nlm.nih.gov.	86400	IN	A	130.14.29.31
+dns2-ncbi.ncbi.nlm.nih.gov.	86400	IN	A	130.14.29.32
+ns.nih.gov.	86400	IN	A	128.231.128.251
+ns.nih.gov.	86400	IN	AAAA	2607:f220:404:101::80e7:80fb
+ns2.nih.gov.	86400	IN	A	128.231.64.1
+ns2.nih.gov.	86400	IN	AAAA	2607:f220:418:4101::80e7:401
+ns3.nih.gov.	86400	IN	A	165.112.4.230
+ns3.nih.gov.	86400	IN	AAAA	2607:f220:402:1801::a570:4e6
+pubmedcentral.gov.	86400	IN	NS	ns.nih.gov.
+pubmedcentral.gov.	86400	IN	NS	ns2.nih.gov.
+pubmedcentral.gov.	86400	IN	NS	ns3.nih.gov.
+pubmedcentral.gov.	86400	IN	NS	lhcns1.nlm.nih.gov.
+pubmedcentral.gov.	86400	IN	NS	dns1-ncbi.ncbi.nlm.nih.gov.
+pubmedcentral.gov.	86400	IN	NS	dns2-ncbi.ncbi.nlm.nih.gov.
+pubmedcentral.gov.	3600	IN	DS	53853 7 1 a1240bc65d56ef753bfb65fbad10fd8cb5895d79
+pubmedcentral.gov.	3600	IN	DS	53853 7 2 ba4329619f68c78fcbc0cba34eb4d0b3076120a7b3110e571fe84a0ef02b6b08
+pubmedcentral.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Lgwcd80yAJZqzaKUc/bkALLU0kuqWr5tIbbemEhqE7Myly4uK7ME5smrOoZ+OxB/Y8C97xEhKaKTOv1VIqKChaV1l9eCAlPASgXkWV0bWrTCzEmeXhYpewdleucHXgXop+u3nWknHIhCcX7kSf/9TlKquO350UVHlHqKi0bRz5c=

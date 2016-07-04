@@ -1,0 +1,5 @@
+1huikk4hgv7vjcrd3mfnb0k72f82l1ss.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ZgLgijviySYQg8np1gP3iTBCCKf++Ie9mfU0ks58p3mUwo4J2mKEqQDCdt7yo3q6ExR200nbLYc8SQ9S2ZkCBq9AwarsedEJxXdMdJnFaX4DPaUxxzCNlcLDO+KhSreeDbNkFcnb7OfT1jv9OT7EZNgJwdq9z6QO3W33z9MVFWA=
+1huikk4hgv7vjcrd3mfnb0k72f82l1ss.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1i1roe0jbikikl6qj23d95nb4bl8eorr NS 
+bellavistaar.gov.	86400	IN	NS	ns1.dreamhost.com.
+bellavistaar.gov.	86400	IN	NS	ns2.dreamhost.com.
+bellavistaar.gov.	86400	IN	NS	ns3.dreamhost.com.

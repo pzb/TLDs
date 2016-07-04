@@ -1,0 +1,4 @@
+6vnanu4ll5gm2t260oihlal6e27vhppb.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. EC0x1+x3yUs5musRI1JtkACtFg3QLiNYj4YufZQFM5lt6LuUN5imewxyUsdV2Q0O03rpMzA34/nMJWZ9IxW3l3SGDwxY/1PXGsvB7VgWdzLIip8cusuCYxoXCU/UEmPEqqiAZoEXwyAjGm/4cXPGaYpapUbzI89G3+l6IERlP5U=
+6vnanu4ll5gm2t260oihlal6e27vhppb.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6vra2nlfvsjf3blr969slgrnevb26j7b NS 
+libertyin.gov.	86400	IN	NS	ns63.domaincontrol.com.
+libertyin.gov.	86400	IN	NS	ns64.domaincontrol.com.

@@ -1,0 +1,7 @@
+fus8lqachepikni1ob23as4pmen0al4s.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. izqVfoAc+fdJSi4EgV3uy+DmXDnIZnFlLk/uchhZ7E7RMTTEze7GF8ijtMKN6QPnF5SRonUaa/vn1yOgJE4s5CKLCHHjfoFRcMWo12QcD6cfC5+MW60pluY+Lt3mS2MMcGVNeKWZsXycqD2wSinJbuBZWfruakPkLABtizZEXJ4=
+fus8lqachepikni1ob23as4pmen0al4s.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fv5hq9ebknb4luode255s4791v72mrht NS 
+ns1.iowa.gov.	86400	IN	A	165.206.254.145
+ns3.iowa.gov.	86400	IN	A	209.56.120.13
+iowadivisionoflabor.gov.	86400	IN	NS	dns.iowaccess.org.
+iowadivisionoflabor.gov.	86400	IN	NS	ns1.iowa.gov.
+iowadivisionoflabor.gov.	86400	IN	NS	ns3.iowa.gov.

@@ -1,0 +1,9 @@
+healthcare.gov.	86400	IN	NS	a1-86.akam.net.
+healthcare.gov.	86400	IN	NS	a3-66.akam.net.
+healthcare.gov.	86400	IN	NS	a8-67.akam.net.
+healthcare.gov.	86400	IN	NS	a10-67.akam.net.
+healthcare.gov.	86400	IN	NS	a13-64.akam.net.
+healthcare.gov.	86400	IN	NS	a24-65.akam.net.
+healthcare.gov.	3600	IN	DS	35040 7 1 c18ce11221997f5b6a8209061c4f4f1f75943855
+healthcare.gov.	3600	IN	DS	35040 7 2 1ad84d4540dc6439a6148f1884730001ca9a21788c7794362d02b14eb185d4e2
+healthcare.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. D7y4tGHHkKji/AvRBq2OJfzP0XBA5Yf/XE5fI+/E3XuvCPpM0R670/PUhICfPXsosNARKQplqYWkBs74RKABJ4ns4Sc+nNUIVU4YOUJScMItNsTvfJe9eCIFCmLZ3Lr6gWyh634kdzxTlr2lBFQQfnBeZTb6qxbMxq0E8yIQQ40=

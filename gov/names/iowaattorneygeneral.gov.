@@ -1,0 +1,7 @@
+ns1.iowa.gov.	86400	IN	A	165.206.254.145
+ns3.iowa.gov.	86400	IN	A	209.56.120.13
+iowaattorneygeneral.gov.	86400	IN	NS	dns.iowaccess.org.
+iowaattorneygeneral.gov.	86400	IN	NS	ns1.iowa.gov.
+iowaattorneygeneral.gov.	86400	IN	NS	ns3.iowa.gov.
+v59ot5u61kfdhkbpktqluh311a5g66iq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fXJWu/XonffdEZqAyM2ch0jHTE1RxVZTK4ud4SjHaDCFfXpyYmhHyeuSb/T2sLaDkoPlRbAqfpM2PuTLJvpt/dToIahZdPdKtLV2qfwOnPxevXD+bYjf70HveqGUKjFw7zDu401dGixZp2lsNiRMBQHqGlgMeaA4LdUMNU6dUMc=
+v59ot5u61kfdhkbpktqluh311a5g66iq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  v59p2bo3f5l4150886teih601pndn1u8 NS 

@@ -1,0 +1,9 @@
+isotopes.gov.	86400	IN	NS	ns0.ornl.gov.
+isotopes.gov.	86400	IN	NS	adns1.es.net.
+isotopes.gov.	86400	IN	NS	adns2.es.net.
+isotopes.gov.	86400	IN	NS	ns0-alt.ornl.gov.
+isotopes.gov.	3600	IN	DS	38318 7 1 78637bce6fd162a80efdf519f9c6a0de685dc06a
+isotopes.gov.	3600	IN	DS	38318 7 2 ed2b252e44f4737ec2585835e9e906b08f5cbb25db057e80a739357ee84b0e84
+isotopes.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. D2qkFHqxLn7xvLXK/WOV873ueR7/MaD8tyW4QWbL4W2Xp8+dV40XH7135OQXuWEyjMfBsnqHExs7npGbV9hfh279xM9fQt/erv+4A9KCIRH1pqDBG7/eCxHLm2iP2XeUIULly//fC8BpeyyoFTQnB6pz/3Wkbx4v1IP86VBVTEk=
+ns0.ornl.gov.	86400	IN	A	128.219.177.244
+ns0-alt.ornl.gov.	86400	IN	A	128.219.177.246

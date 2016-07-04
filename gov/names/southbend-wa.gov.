@@ -1,0 +1,4 @@
+nvm7id149fbhmlbnir1jnj5e3euhdupo.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. sp6y3tZs+Zhxs6m9vI8aHalSxDxIGDhxZm4pOuFNwxNXpKgowS2UXwPafc+McjB45Iw9LQBqd0DUVWUylPmCaxy95AZL59bnsH9rR0S/n5fSYqCs1nMi/fZr+8uW4zd8A5pp+GEqCvoC3nr/xOF831/kjr4bpiD2KmgVTKxgCEs=
+nvm7id149fbhmlbnir1jnj5e3euhdupo.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  nvmks3hqt62plvg2fh62oa7ebiu4tf8o NS 
+southbend-wa.gov.	86400	IN	NS	ns1.createchllc.net.
+southbend-wa.gov.	86400	IN	NS	ns2.createchllc.net.

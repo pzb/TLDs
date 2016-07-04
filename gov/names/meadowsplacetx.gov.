@@ -1,0 +1,4 @@
+jge7jspf3um0ipgo45i7l4d1fe72g85a.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. FiPlyoBcVF86M5eZIxahtOq10iiT7ea1BGfL6Bx4zcSej/uCqIIJ4p5sSOBIY18VvnuCj+kTkP4oEqo+iQ7B8ae5zKJlucxRQqM1mMGHe8pRpCweM+5th5AW01ORg7CqgfA3KtXV7nPHleFsm3cVMWfyQBxiW57YYV2ScCNlK/Y=
+jge7jspf3um0ipgo45i7l4d1fe72g85a.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jgp13jabb0i6g9te2eaptlin3gp0p5sc NS 
+meadowsplacetx.gov.	86400	IN	NS	dns1.datafoundry.com.
+meadowsplacetx.gov.	86400	IN	NS	dns2.datafoundry.com.

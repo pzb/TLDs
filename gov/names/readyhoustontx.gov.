@@ -1,0 +1,6 @@
+4fnp9lb360r40h3anm48ei31grlt6irr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. gVCAoAmb5rr1ENITFRKHyzsnjk/9lcDLgXvrBT4j7z4MmFOM8mfTL+OTecZnhg5f7FKQ3js9IecM1NYbqYE5TQ3sAKYf0MejFjQeBVfW5huxyZsUM9chgN2Dw892XXw0jS845f5AlwsmqW0hvnN5g47k+nWtbgXNsztj+/2VLgk=
+4fnp9lb360r40h3anm48ei31grlt6irr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4g6osc669pen76s98qntk3fprdah4jsn NS 
+dns.cityofhouston.gov.	86400	IN	A	204.235.224.5
+dns2.cityofhouston.gov.	86400	IN	A	204.235.224.7
+readyhoustontx.gov.	86400	IN	NS	dns.cityofhouston.gov.
+readyhoustontx.gov.	86400	IN	NS	dns2.cityofhouston.gov.

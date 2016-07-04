@@ -1,0 +1,6 @@
+absenteeshawneetribe-nsn.gov.	86400	IN	NS	ns1.astribe.com.
+absenteeshawneetribe-nsn.gov.	86400	IN	NS	ns2.astribe.com.
+absenteeshawneetribe-nsn.gov.	86400	IN	NS	ns3.astribe.com.
+absenteeshawneetribe-nsn.gov.	86400	IN	NS	ns4.astribe.com.
+boen06928u8vrrenk19aot916u11t771.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. dvI3D6GMFtvmydG9eZe2DarYQ2J6O/8BrowCHTuf9SjJK2lmiiwS7erYZH82gZp/I4DzLnkLGK9Fro7EeKH82CFexJRmxsql3w4cErgauwqh5Kblk2CxwYMzqH53aAl7/vhjL3o6P+WgjBkI9WyMjvzaifE/IkhzCHf893yhxlM=
+boen06928u8vrrenk19aot916u11t771.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  boid53j7iuu214tjukpu0rpat6tqrlvo NS 

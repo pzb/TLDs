@@ -1,0 +1,7 @@
+angelfirenm.gov.	86400	IN	NS	dns1.name-services.com.
+angelfirenm.gov.	86400	IN	NS	dns2.name-services.com.
+angelfirenm.gov.	86400	IN	NS	dns3.name-services.com.
+angelfirenm.gov.	86400	IN	NS	dns4.name-services.com.
+angelfirenm.gov.	86400	IN	NS	dns5.name-services.com.
+iogfj2rm9nevp2uca2p9hbsppibcvrai.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. gRJhKTWqd+tfv2vyHWnEbpA/IBoauwh0q7svQPolDqF6hnYyLfi8msOye0cSTUvZYT1SFUno690NJRxP10Ei2Tu8DkvKyVGcBxG3hnWnVSoF+bWx7VE8CtbUdoL0jyoEddRcZlnleXaeYzI+q/ByX/AQPdffo952ZdE3X/G5Eu8=
+iogfj2rm9nevp2uca2p9hbsppibcvrai.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ioktismcbdqcetq0910q21a7oq34btn1 NS 

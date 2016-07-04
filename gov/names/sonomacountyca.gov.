@@ -1,0 +1,6 @@
+mbf30ldujaubrklrqm2o55smi1r5fric.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ZgX+gpQF9YfiB+ZOyhPS5te8Pmz+ZadLybWLjNPkMPhFneK8VmX0UAgwMvPmuDklbV8qwnRohfbCtwCW5ylvw3zwE6oPW5SJmMMUsyDqjBH+uFLCQ70B1IJl5JnLbbZ1VsVIB+EkXgFgcz+YrDWNVEGPjqLbOmjY5zivYFD79Sc=
+mbf30ldujaubrklrqm2o55smi1r5fric.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mbmgasi64jlqokvkpjnv87mcric7jogn NS 
+sonomacountyca.gov.	86400	IN	NS	ns1.p06.dynect.net.
+sonomacountyca.gov.	86400	IN	NS	ns2.p06.dynect.net.
+sonomacountyca.gov.	86400	IN	NS	ns3.p06.dynect.net.
+sonomacountyca.gov.	86400	IN	NS	ns4.p06.dynect.net.

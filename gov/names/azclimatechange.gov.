@@ -1,0 +1,6 @@
+azclimatechange.gov.	86400	IN	NS	dns1.azdeq.gov.
+azclimatechange.gov.	86400	IN	NS	dns2.azdeq.gov.
+dns1.azdeq.gov.	86400	IN	A	159.87.10.130
+dns2.azdeq.gov.	86400	IN	A	159.87.13.2
+e744o2mhvtm8lvokjuvmrs92ktgufmde.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ZzEr7IUqpWqo2Ye4g61Ph2gvYYadDWFYKeXWj7iISpM8FHjf0RLInaTYHOrHsq6WKItJKPW0qhlXQOoE4Wau0PFiYhbNDu1+FZdAZ/ZvmKprXmag6XLxevjS0CjBr3d2DM4ukxWkHYKmgRPPXSIUTGeWpfDlhXaOi8MFtg7d39c=
+e744o2mhvtm8lvokjuvmrs92ktgufmde.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  e772m8vbso0vk6a15fga60tpb3cc94lt NS 

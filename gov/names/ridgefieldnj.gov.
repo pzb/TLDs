@@ -1,0 +1,4 @@
+cr16df71mj310rksn7ogh9td6aavchgl.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. E/Ry5KW849qen8PhZ2sbNfuq0VWcYQB67O7SFvn8+CYkDMpdGl/KzZRqdN+Vogujh4lo4YgtEBT5teOXguyOEfD6sKi4ISuBRXEIVTueYEe9ORhZrdx4Q49o0cfIdwMeKu346RJwYOOA9atdhxYHB4CPJnOdLSWO/ptuMDpw1n4=
+cr16df71mj310rksn7ogh9td6aavchgl.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  cr4ah4ju8mbqgkneh2l642g3r5v8lp79 NS 
+ridgefieldnj.gov.	86400	IN	NS	ns1.avenet.net.
+ridgefieldnj.gov.	86400	IN	NS	ns2.avenet.net.

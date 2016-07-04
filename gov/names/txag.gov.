@@ -1,0 +1,4 @@
+rl02fpr8b5kgkb54lh66cvsmadlp8cs7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. x3LEnMKlugB83nQ3bmBszhT1dSKWMQgnGMjPteYMuI93ar2epQaDTrZGCgKhZkDXqurbj0uyaFdLd458pzWh1KE9V7+WtnqtVjZWr+qixAo4pFsGJuuD/zsVXvMn797lvP0kX31cLI2JQVRw8CLtnBboljAXHORXTdaLGr8XuZ8=
+rl02fpr8b5kgkb54lh66cvsmadlp8cs7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  rl3jeio6qif5uetgrqh28hd5k7lkkj74 NS 
+txag.gov.	86400	IN	NS	ns.capnet.state.tx.us.
+txag.gov.	86400	IN	NS	ns5.capnet.state.tx.us.

@@ -1,0 +1,6 @@
+aransascountytx.gov.	86400	IN	NS	ns.aransascounty.net.
+aransascountytx.gov.	86400	IN	NS	ns3.zoneedit.com.
+aransascountytx.gov.	86400	IN	NS	ns9.zoneedit.com.
+aransascountytx.gov.	86400	IN	NS	dns0.zoneedit.com.
+h1jjotif6ag3vel82c7us9l8gue8llbm.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hlMTnz4XthZI1Z2QmJEVGqLMu5cV0LO/2W3VdXUtuzOO61jz9eEWNM5tSsNcJ+Q88yLRR5skATcqvjIlROR+PiNS6/05XHbmtPnnIfs212eCidrDJDj3H0AB1BkYLa4s9o/0FIXcj324prP0G5ta5WOFstyNpfbfHrb8pKJDGAk=
+h1jjotif6ag3vel82c7us9l8gue8llbm.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  h1k1vejmvimiforsmc1vpj0i121aa9om NS 

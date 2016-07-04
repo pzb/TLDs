@@ -1,0 +1,7 @@
+dns01.cns.gov.	86400	IN	A	152.180.8.143
+dns02.cns.gov.	86400	IN	A	152.180.134.207
+servicelearning.gov.	86400	IN	NS	dns01.cns.gov.
+servicelearning.gov.	86400	IN	NS	dns02.cns.gov.
+servicelearning.gov.	3600	IN	DS	63066 7 1 ea42a7213028e16c004c0863679d40dd6dd9c775
+servicelearning.gov.	3600	IN	DS	63066 7 2 e4e9e4dcd07077b178abd231c288ee4f4a2a59a1a70659b5b411f9bb13d5a058
+servicelearning.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. JMbx/sTY1bNyjCYlCByWs6K/2+gDKnRaNzjXUKcq1SD+d7hE1z0wJbaAM7ywlHoHK+FaxZb2W0ozOWiRsBe9wXxgBbhORHJ7RweDFL97U2EdrKaa+ZwcX1zOQoaYbntUi33GM12V3++YQoE78kgU3Q6S8FytnyDzt/Att9+H5Ww=

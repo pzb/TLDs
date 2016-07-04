@@ -1,0 +1,4 @@
+milton-freewater-or.gov.	86400	IN	NS	ns1.intermountaintech.org.
+milton-freewater-or.gov.	86400	IN	NS	ns2.intermountaintech.org.
+r59r68gp9f2mkumpdgaq8p5842t3g5tf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. L8rDtdqRh+dMJcrj+y+QpERLNIkX91aiI6e13EHOxm2ZAbHX4tFXmrsjJER36iI2L9eXZpeHKdr098/WnjBbqOO5W78Lnf6v6Y0wjlzHa3yCPieZQp9tlFbHOujhi/V+jt5S2Gw0EY7JpibAzZYJlxil9RqVTRkGAesXbeDnuoE=
+r59r68gp9f2mkumpdgaq8p5842t3g5tf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  r5dmqt67jsa00396cm3fl6baf3elgcfb NS 

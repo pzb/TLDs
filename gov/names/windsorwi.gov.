@@ -1,0 +1,4 @@
+mj4qd3v0nvjlsvuhuspno359ji6qm0gj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. JezzeRoz2f0V8/WDcgJwZitvqEajc6ja056GWkZ8CYOdJbegpswizUDORHw9X3DHtpqLNXvKMH1wIb/00SrksCPXdUz8EEdkCcw8XEo6r54LPbixKuRYnkDE23ZynKFIC4WQt+QE4A0EcRArenJkme3cTUcmPl34H805TRbGhJg=
+mj4qd3v0nvjlsvuhuspno359ji6qm0gj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mj9s624a4si2n8s04bpnfki9jksf876q NS 
+windsorwi.gov.	86400	IN	NS	ns1.avenet.net.
+windsorwi.gov.	86400	IN	NS	ns2.avenet.net.

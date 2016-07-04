@@ -1,0 +1,4 @@
+brimfieldohio.gov.	86400	IN	NS	ns51.1and1.com.
+brimfieldohio.gov.	86400	IN	NS	ns52.1and1.com.
+nkbf9q5o0codn49blufq28ubo6bi6nig.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. TK8rDOEz512cON/fKceZCbBw4cMhGWe3HceEcK2Vo8Q4br+nDRPxsNu/DUcQpl/iIUnH821SVtJTGRMpK3QwipNJnPmqzKmQeuyWLcS/T2rHvWRrybYpWgNWpjSY1XnPbZE7ACRHf3x1rZAk7wfAjaDOGQ+DILFbudgyfOnqlSc=
+nkbf9q5o0codn49blufq28ubo6bi6nig.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  nkd418c5o86m2j0p64fqmoj8heoh70ns NS 

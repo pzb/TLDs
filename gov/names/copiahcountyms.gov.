@@ -1,0 +1,4 @@
+copiahcountyms.gov.	86400	IN	NS	mace.netdoor.com.
+copiahcountyms.gov.	86400	IN	NS	pike.netdoor.com.
+qip0mefbkj051to7k8fcsiifo84sj9jp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. AEzRvX6zPFs8y/OSfti/1RVx/PRfkXV11jIVStpGswZ2Uu8EUqw+rCKkrJ+iSU7Lr38AHZu2VbRYtJtiEB5AgbKY7g8sbyJKDrBYrMiYccPVLroJZShpSvv8SmGBaApTqnRTzQUfoo/9XwgaRdeq4uSm7nP9vOsBUUpk2a06Oq0=
+qip0mefbkj051to7k8fcsiifo84sj9jp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qjkgmb15gqg25kdv9uuicas68r803jt3 NS 

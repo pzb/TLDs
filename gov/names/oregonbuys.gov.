@@ -1,0 +1,4 @@
+idvr51hm6h9ebo4fh0qirq7mj21jncus.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. cuz4eYCC9OSBxAqgyqp1QZkhWGmZi4YbMwUYs860cpN2WLppsalpK7WY1s5v83RzKIao6mFc7oH9lFAhwTIl/kFDI/JLjacb2MI2sF3MY2az0O9rZekR65ioS6Ucd39oGrionQv7GRjaoitEA+hwp45wzuy3/xqTXFpntxweGc8=
+idvr51hm6h9ebo4fh0qirq7mj21jncus.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ie3msgc4h5gdeohglaka2dfk3jtgt89b NS 
+oregonbuys.gov.	86400	IN	NS	lion.state.or.us.
+oregonbuys.gov.	86400	IN	NS	puma.state.or.us.

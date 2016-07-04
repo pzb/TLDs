@@ -1,0 +1,6 @@
+1f2iabtnuajgtujrksq1f40caht5pq89.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. bNQCSkMOiZfZ5z6eAaIjrYnd+fiJQ7sAdRZ91nxSA/jz5mtBYHha7fm0CmQ6MZMH31P4EFnlMrU4C8Wq9rSxNhhZsIMfWXK6Kev8Sqo/l8MvKL+ZuGsdgtSqhmN1yvsEdBP/x4CWMjXvG1SJ67/r7h5lZCHTyTYaunYb9Mz/blk=
+1f2iabtnuajgtujrksq1f40caht5pq89.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1f9i1edc9p32qirvn7b9bu7d6b355obj NS 
+ns1.nc.gov.	86400	IN	A	149.168.11.11
+ns2.nc.gov.	86400	IN	A	149.168.138.11
+ncopenbook.gov.	86400	IN	NS	ns1.nc.gov.
+ncopenbook.gov.	86400	IN	NS	ns2.nc.gov.

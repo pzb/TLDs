@@ -1,0 +1,7 @@
+2g847efojuvr8j078retkb0u4l37f1on.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hR8p+IgJr7ynIiPtXafrx9c19MJmCkpoTrwJj8qF/DTnamrrnhSXpphVErdT8zYdspQLRhl1m7P7fjRjPQZIyavXsQVFJWHBF9HEP50xoQ2sJi7P/wVlcIoxuqdVQHr79ks4ar2o6tjod9w8s+B73HuXtvPN3ZUjfkwzNmav7kc=
+2g847efojuvr8j078retkb0u4l37f1on.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  2g87ngd5bqb3gc3rsna37rnto35n6fkp NS 
+ns1.iowa.gov.	86400	IN	A	165.206.254.145
+ns3.iowa.gov.	86400	IN	A	209.56.120.13
+iowacore.gov.	86400	IN	NS	dns.iowaccess.org.
+iowacore.gov.	86400	IN	NS	ns1.iowa.gov.
+iowacore.gov.	86400	IN	NS	ns3.iowa.gov.

@@ -1,0 +1,4 @@
+breckinridgecountyky.gov.	86400	IN	NS	ns1.blue.net.
+breckinridgecountyky.gov.	86400	IN	NS	ns2.blue.net.
+eit2jac01d53s0lfd5e7ef7sphrrhe41.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fshC67VgARX2yfJP4APiRwhiNYBybN26JfStBBbpZrCE0wda6b5E5Fj3oVuaBULN38cNlQ/hTIdiRqjUKxUclriiTOWlyI/CPeYf8QFx1sQjOLSFmeLQANnaMZSeXqeMHiCP82I8vaqkMxAh1bkmi93ZFVHd8Xm+BsM/kU3JOhg=
+eit2jac01d53s0lfd5e7ef7sphrrhe41.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  eiuufj2l93ogjl8koohsgh6itf2lu23m NS 

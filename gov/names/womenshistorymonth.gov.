@@ -1,0 +1,7 @@
+ns21.loc.gov.	86400	IN	A	140.147.32.166
+ns23.loc.gov.	86400	IN	A	140.147.239.150
+womenshistorymonth.gov.	86400	IN	NS	ns21.loc.gov.
+womenshistorymonth.gov.	86400	IN	NS	ns23.loc.gov.
+womenshistorymonth.gov.	3600	IN	DS	24439 8 1 70ee1b251e06457b7abb52fad505f5e1230dac93
+womenshistorymonth.gov.	3600	IN	DS	24439 8 2 2cb6890a5dd68d35b686c5887510f0036adc01cb3ba1ad68565a5d0cc5f753ba
+womenshistorymonth.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. uT5igvvtQcfI8b9g/MIC3sf1hket5Yv9ovDhlifJh1euQG84detOUVBLL2pdA50BuvhFXcy1M9LHszz23YOO/E9aWT+UrA0ZNxvGeU9kwZwyQdr+JjlqV+CuJgOMZQbCWcbihXy0Pis7hBA4+ZTx/5FmNY9bMy/oxJnsi7/tIUE=

@@ -1,0 +1,4 @@
+granitefallswa.gov.	86400	IN	NS	ns1.west-datacenter.net.
+granitefallswa.gov.	86400	IN	NS	ns2.west-datacenter.net.
+kdpvoeho08qn3lsfur0p63fn7im5i3jk.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. mBZ3bnZAw5Gwv4qa3UElC1Og+l1LWIIp59PzlFroBqf9AqDyyB9lkmSo3lbtdW8sIsTkp+i6yIl/V+F5+u0bdg0N7fU+8J4T3v1pwZxJUAn7U1gKRhg4kOqOKVXXQqIt1PP7HtG/h6Cdc347ApbO953GVjQmMrHCSuy0eLnvnRs=
+kdpvoeho08qn3lsfur0p63fn7im5i3jk.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kebfs45q24c1sbdnois2f98nv7c7qesc NS 

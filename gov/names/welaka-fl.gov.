@@ -1,0 +1,8 @@
+jbsr93b1ah0v1f3qt3ngr61uitbnsf44.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Og9aNsuOoZZYFzFQ9eVNtiKvMncVlkTImDCgUZXeWe98mpAMnK1cDJ5+utn4aWpuTitzW8PPhppgpAWgeZyEGi7s5remiYr0yCXJhJAx4wvYbNwhjZNvd59SvZxzWe6X+FqCEMZluG4udPzpCEhNXUrCPT6W6PXljMs61H3iSQE=
+jbsr93b1ah0v1f3qt3ngr61uitbnsf44.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jc0orhl5s6ak7hg3g832mhlqk0f305to NS 
+welaka-fl.gov.	86400	IN	NS	ns10.uscomputergroup.com.
+welaka-fl.gov.	86400	IN	NS	ns11.uscomputergroup.com.
+welaka-fl.gov.	86400	IN	NS	ns12.uscomputergroup.com.
+welaka-fl.gov.	86400	IN	NS	ns13.uscomputergroup.com.
+welaka-fl.gov.	86400	IN	NS	ns14.uscomputergroup.com.
+welaka-fl.gov.	86400	IN	NS	ns15.uscomputergroup.com.

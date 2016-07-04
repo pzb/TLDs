@@ -1,0 +1,4 @@
+jveefkedj6ktmgjv8de364ofla5i0181.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. vWu6olO5exUkC5EiwWiqc4bJ+30tWd7WWrS0FsYpYc7oD6O6TOga8KcIFz8FmBidwfHGI4ZGeYVUp1T6AtzCadJHYEg9G73bzJmIVmhfx5KlF8Fxofw4mdXvMaeFi3x33ehrBMePGYqZaNJq/oBaAEjtTaw85S9/EAGbicVcV1c=
+jveefkedj6ktmgjv8de364ofla5i0181.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jvemqbtqjkqf6t8msi5gu0tm1ueolibb NS 
+oregon.gov.	86400	IN	NS	lion.state.or.us.
+oregon.gov.	86400	IN	NS	puma.state.or.us.

@@ -1,0 +1,5 @@
+stb.gov.	86400	IN	NS	sauthns1.qwest.net.
+stb.gov.	86400	IN	NS	sauthns2.qwest.net.
+stb.gov.	3600	IN	DS	33325 7 1 72d77c2f7e7a3e47d3f7b9dfdc3b28d5ae6009de
+stb.gov.	3600	IN	DS	33325 7 2 2ce28e98edbfde179b9ea8f3975142d459b86edb798a0bca75ecb36480ccc5af
+stb.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. AKAlBkGpuAvei4F4FRHhk7qv33/GSqPEceFonODIdDQ6niLnZ/uxPb0JP2k2v3tNzdhJ4t3lMkTMkUDn3aADOAG88s/wX7VKiNYpO8AmNqGpysNHD2a6Z5ijliyG4hCOEZjqMDyzoxdsWJcYWGIQgEWJzCJ0jjjzwKBjxModVtI=

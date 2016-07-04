@@ -1,0 +1,4 @@
+r62aaeacn41u409o6gs29r6fg7fln1mf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. WVnrjZLnc+KFNVInaPpjAFdZP2gJZCWnHa/iTOJefhUNjM7Scidrsx5evqwPbsyvkVXMNzJ0vsmJ3GVyApeTOdLjALqCusSitGdBHud25/Eb+81CyBGR7QeahN5Lh1s/o1puWJil95dYEFlGYzUMsc8cEQfzHjiM5cPacvErPpw=
+r62aaeacn41u409o6gs29r6fg7fln1mf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  r62nr1t6jdr43l69vnserjlttjjprjn0 NS 
+weehawkennj.gov.	86400	IN	NS	mns01.domaincontrol.com.
+weehawkennj.gov.	86400	IN	NS	mns02.domaincontrol.com.

@@ -1,0 +1,4 @@
+heb31k8b9e8seorf1pq0p9t9hdrjqcga.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. KtZcjNb6X29uX8ZeawkNMWI2/jUP+nRMzZuztAjlcYuC2zE0SxXyuSGwv78pHRv2JUhQ+MSHQas5el1TBFH7x64Yj4+NkmXj9jceR8DxjC0k5JS3q1HB3o4jNr2Tr55h0/fa65FjpDOf+xkJG2M4QGvL4E2fiPzXANU/USuwbS8=
+heb31k8b9e8seorf1pq0p9t9hdrjqcga.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  hedkb8c4ghnjn0obk8vpa4ie200e412j NS 
+lafayettela.gov.	86400	IN	NS	ns1.lusfiber.net.
+lafayettela.gov.	86400	IN	NS	ns2.lusfiber.net.

@@ -1,0 +1,7 @@
+5qunjm22dhf9cglsj8lk3mj62mb5mjs3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Fnbyf1HNcwf/M2m1S2NI8FY3p0h1A6rv1Jvd8I2yvEAlCY/K89IFieTeE3alyt8IoChy11i5Bkwkp7LLbyye2t8BzXyymuPHGOWgwYkayprCtI/TXBXd8F82pjyI14gLOWd5RahBQ0St4NFWnI81oGHDdkW3Zndq/ehpdoXzb4Y=
+5qunjm22dhf9cglsj8lk3mj62mb5mjs3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5rbmp7tegl6510e6um2j6i85hllqs0fe NS 
+ns1.iowa.gov.	86400	IN	A	165.206.254.145
+ns3.iowa.gov.	86400	IN	A	209.56.120.13
+iowaaging.gov.	86400	IN	NS	dns.iowaccess.org.
+iowaaging.gov.	86400	IN	NS	ns1.iowa.gov.
+iowaaging.gov.	86400	IN	NS	ns3.iowa.gov.

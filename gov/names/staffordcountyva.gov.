@@ -1,0 +1,10 @@
+m3o946gta7e6t52b5hke2sor76qpsev4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. guzbjzTDk0j860d9iKVJQE8LbN3dffceeoypKb/0oA6q6+yx2j7aNluFpe4ndRtJxpl66GMo4UVFaQyZQ6lasAK4SqOb6yIOYH1BGuufEpwx92AyEPVHRWKJ1K/d1baaVpK+nLRYfHdOEXraZGbRFf6veA6eSQVsvCFRL4IqGzE=
+m3o946gta7e6t52b5hke2sor76qpsev4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  m3r7qfp9c69e8uk6rrl5j9mj32051oc9 NS 
+staffordcountyva.gov.	86400	IN	NS	cnsa.vita.virginia.gov.
+staffordcountyva.gov.	86400	IN	NS	cnsb.vita.virginia.gov.
+staffordcountyva.gov.	86400	IN	NS	snsa.vita.virginia.gov.
+staffordcountyva.gov.	86400	IN	NS	snsb.vita.virginia.gov.
+cnsa.vita.virginia.gov.	86400	IN	A	166.67.65.169
+cnsb.vita.virginia.gov.	86400	IN	A	166.67.65.170
+snsa.vita.virginia.gov.	86400	IN	A	166.67.161.169
+snsb.vita.virginia.gov.	86400	IN	A	166.67.161.170

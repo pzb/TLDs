@@ -1,0 +1,4 @@
+4jul99n5aj62jno1sva67o7qite8hl85.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. qcbRzMPLL8sWWC8lno5G033N4D6oI1NXiwqgJIZjjiNcv74er+HZ7ujzpXx823CUfV8ZXv/jNsNcx1xMzVCTT+qXlh96bTWHdhf5Nl76vACy4pDZLnaxAMt4EL2g5cvnjWfW99L9NQlUSF09a05z8tfeJcC4z24q932fEYsDTcA=
+4jul99n5aj62jno1sva67o7qite8hl85.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4k1ofmaolch8b515gs4lhcucqa5npjtk NS 
+charleston-sc.gov.	86400	IN	NS	dns1.civicplus.com.
+charleston-sc.gov.	86400	IN	NS	dns2.civicplus.com.

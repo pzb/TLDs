@@ -1,0 +1,7 @@
+globalchange.gov.	86400	IN	NS	ns1.p26.dynect.net.
+globalchange.gov.	86400	IN	NS	ns2.p26.dynect.net.
+globalchange.gov.	86400	IN	NS	ns3.p26.dynect.net.
+globalchange.gov.	86400	IN	NS	ns4.p26.dynect.net.
+globalchange.gov.	3600	IN	DS	43126 5 1 6c9b00c8546d766cf0bcfb7da96516fefd0b7fe7
+globalchange.gov.	3600	IN	DS	43126 5 2 af3ec309ca10bac5aff9b2f0e72dd55d5b56765de3dd8b59cd59c73cefb346fe
+globalchange.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Gc5uwEtfdPEcTjF+bMqpS0N727XoiZXmZAVtkVwnTtOQ2FSz9TD6sXCAot7e+k+N0jhqdsxr4fp6davwq2+rwLG7IacSjESVoJ1wFaUQaE3FckzVBQ+KFkgKrzGVEusBVKbNExfWbpGDjE1HjKXDSdo68TyRPtaZPXO0S8Y/3TE=

@@ -1,0 +1,8 @@
+ia.gov.	86400	IN	NS	ns1.iowa.gov.
+ia.gov.	86400	IN	NS	ns2.iowa.gov.
+ia.gov.	86400	IN	NS	ns3.iowa.gov.
+id4epvm4kgkmfm71sj12r3j1tqugg5j6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. BcUEBoIqqTJM5vXn3oOjTxOVVQ/2v66hXi/vwppOvkutISdQWllMVtRjXZsYGo6nbM54IwyDzXlKMrjTh5057Lo9CQEiAPEbpeFO2Jg8nK8BfXjcMFdhBzwJ40b4b+CKaEYC5EYBvIVr5Q+OaueG+8d2qREVcoJshdsW5hdKx/8=
+id4epvm4kgkmfm71sj12r3j1tqugg5j6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  id6kq5j72iut4s90jqo66rbb7t27s8v1 NS 
+ns1.iowa.gov.	86400	IN	A	165.206.254.145
+ns2.iowa.gov.	86400	IN	A	12.104.194.54
+ns3.iowa.gov.	86400	IN	A	209.56.120.13

@@ -1,0 +1,4 @@
+668lq7e89b5egk6egt6q87knqqd0j89d.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. GgrN8vOLZ5Td5c1nCdsJcOtknSn5Sq/VIldNVLVaHwHEIS5FCyBQ8e9+P3u/AC5n7zub+XKP6TvbBubNOpp+IqjhN9O5yn+mapV0Atdbo/edAfS01uyOkfW8ouiSWc/GDM2IhyEgmtcjrVbx/ji9JCGdiIbt7A57hrnP+6TSYe8=
+668lq7e89b5egk6egt6q87knqqd0j89d.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  66bjhhub45e403tppmpmadfcbk1dsehm NS 
+freeholdboroughnj.gov.	86400	IN	NS	ns.liquidweb.com.
+freeholdboroughnj.gov.	86400	IN	NS	ns1.liquidweb.com.

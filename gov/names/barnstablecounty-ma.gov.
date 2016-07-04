@@ -1,0 +1,6 @@
+3go3oedeoug4s7fr6k854c75mdut1pc2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Bibzujw29ZDrcrXtGHU+cUJN+gXR1anC2+XoHerrFCkP7vNQsu2TbIcfA1DT9cjXLvU05CO09pXylZDQ5e+NZiu8MbLBXLYP6UUNe8cfgjGfqLs8glknPLHt/neHKJLKioZjIyi8iTbleZA2O54QDBSU6vaSKuGRu1KFI95sy2Y=
+3go3oedeoug4s7fr6k854c75mdut1pc2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3gs8jogls08rt1b0804trj5kbn0c680l NS 
+barnstablecounty-ma.gov.	86400	IN	NS	ns1.p29.dynect.net.
+barnstablecounty-ma.gov.	86400	IN	NS	ns2.p29.dynect.net.
+barnstablecounty-ma.gov.	86400	IN	NS	ns3.p29.dynect.net.
+barnstablecounty-ma.gov.	86400	IN	NS	ns4.p29.dynect.net.

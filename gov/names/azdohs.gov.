@@ -1,0 +1,6 @@
+azdohs.gov.	86400	IN	NS	ns-303.awsdns-37.com.
+azdohs.gov.	86400	IN	NS	ns-704.awsdns-24.net.
+azdohs.gov.	86400	IN	NS	ns-1108.awsdns-10.org.
+azdohs.gov.	86400	IN	NS	ns-1989.awsdns-56.co.uk.
+kjatpk89rmu4btdldbnij35lhravs0pr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Ps6aMbacX2ivD6z5IY09cRUKFUWrhU8AizBgOCsO/gbwdAaGO8r9TwUpgZ2AipyZGJWWvfu+OCksO+nRxrai04bzpx6wvhns+ptT6UTlCdP2FV0o6uMQYoe5qLKCbkGloyVmU5DBXTD1OdX7+TvLpHF8KgcivGsbtUEjiXA+s00=
+kjatpk89rmu4btdldbnij35lhravs0pr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kjc2ja6rak18ktoq51ef15htv2pqi9h7 NS 

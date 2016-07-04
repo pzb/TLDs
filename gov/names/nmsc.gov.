@@ -1,0 +1,9 @@
+nmsc.gov.	86400	IN	NS	ns1.nmsc.gov.
+nmsc.gov.	86400	IN	NS	ns2.nmsc.gov.
+nmsc.gov.	86400	IN	NS	ns3.nmsc.gov.
+nmsc.gov.	3600	IN	DS	4237 8 1 48071aa459b5ad212c08e77ca45833d73651aeb6
+nmsc.gov.	3600	IN	DS	4237 8 2 9a85c89008dedfd7f800d7397a0069922b1ab8c40a07d37e9d62d3d8cfb6fbee
+nmsc.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. I1SGIqyLSdOqoHlkuR/HU0wj9Lwdh8jXapzqFF+riq+tbvqj0Np1hxU6zoZ93x5sm4N+4UhgS0BZVPVfS16n2kjUUqRk/UuG9A81MpT2RHiCo71ulMijuhj1Fyp13YfHDtDuia14IcNh5gi3MOtrl+rP99vnEUrsG4gpcSWguZI=
+ns1.nmsc.gov.	86400	IN	A	50.79.80.196
+ns2.nmsc.gov.	86400	IN	A	50.79.80.196
+ns3.nmsc.gov.	86400	IN	A	50.79.80.195

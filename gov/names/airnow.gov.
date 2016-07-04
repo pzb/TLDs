@@ -1,0 +1,17 @@
+airnow.gov.	86400	IN	NS	yang.epa.gov.
+airnow.gov.	86400	IN	NS	ying.epa.gov.
+airnow.gov.	86400	IN	NS	folsom.epa.gov.
+airnow.gov.	86400	IN	NS	rikers.epa.gov.
+airnow.gov.	3600	IN	DS	29220 7 1 d2ef38391ead0c035aba237a28362a8b5bac0f69
+airnow.gov.	3600	IN	DS	29220 7 2 ffffd1f6a55df4eea79c1ee8cbafcd6cb00b6f14f532afe6def1fb303e84a7b9
+airnow.gov.	3600	IN	DS	40410 7 1 ba12d3d912272e327818ca8cc29cc84e8f0cba65
+airnow.gov.	3600	IN	DS	40410 7 2 b94ca345833d8a049208dad71fa00852dc000c84a3a57eb1bb4ed7d900bb7c0b
+airnow.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. mJrXxAuqhnSp8yeluREWON6i17xlgOKLZ8O4hWjxkV82tHVgcbKrno2N4rwqAaYmPQOGmzRtwdzQBSh7pU8j8Ll+f61QyiJi3uhPSQNJatr2m07A3zus7TV/yfoilBnk3ro7414Kvj5GH5+oiOqZkPkZao5TBsOKpPM9s6Gi1yk=
+folsom.epa.gov.	86400	IN	A	161.80.10.13
+folsom.epa.gov.	86400	IN	AAAA	2620:117:5071:c::f013
+rikers.epa.gov.	86400	IN	A	161.80.10.12
+rikers.epa.gov.	86400	IN	AAAA	2620:117:5071:c::f012
+yang.epa.gov.	86400	IN	A	134.67.12.8
+yang.epa.gov.	86400	IN	AAAA	2620:117:506f:c::f008
+ying.epa.gov.	86400	IN	A	134.67.12.7
+ying.epa.gov.	86400	IN	AAAA	2620:117:506f:c::f007

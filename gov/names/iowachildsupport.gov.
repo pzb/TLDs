@@ -1,0 +1,7 @@
+8oo5qsgj044uen5icc1dfinkqhuqffd2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. g2C5+xZFOmTUBMVGMWODBORPZUlADLKnJbe8QXs9lffwz9bxED8XXrd5Xn1VrvC7nnjgyyn062RrH/GIX9b3Qa0XAxDz5/0r7OPnshVjtAoSAvIb2r3dVklc0hZbUWtTA+qvtKfNwEKsBNpyLpU4iStuCY0GbFwKowlukTNygBY=
+8oo5qsgj044uen5icc1dfinkqhuqffd2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8p59l5aepih479rjgn5b9vk4qldpmcov NS 
+ns1.iowa.gov.	86400	IN	A	165.206.254.145
+ns3.iowa.gov.	86400	IN	A	209.56.120.13
+iowachildsupport.gov.	86400	IN	NS	dns.iowaccess.org.
+iowachildsupport.gov.	86400	IN	NS	ns1.iowa.gov.
+iowachildsupport.gov.	86400	IN	NS	ns3.iowa.gov.

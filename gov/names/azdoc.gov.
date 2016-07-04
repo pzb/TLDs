@@ -1,0 +1,6 @@
+azdoc.gov.	86400	IN	NS	ns-253.awsdns-31.com.
+azdoc.gov.	86400	IN	NS	ns-798.awsdns-35.net.
+azdoc.gov.	86400	IN	NS	ns-1143.awsdns-14.org.
+azdoc.gov.	86400	IN	NS	ns-2011.awsdns-59.co.uk.
+fj3mocicus7qen3p3hg5c75d0ki4hi3b.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. tb/nBXb50dz8vaoYJzJBv6gYJxmnQNypVE0IQV+n/Quv5Zl0R8cHhPiM0EfU/5P2946MNfV9BRUvb1Zm3VPRMsSHZSivMOGdiIJIBnIztxZU+1OB1AC58qkv3TrO/x1siS3pvgS1E0d0sROxcXsKHYUbvSyZlgSzYcES0OwVv+8=
+fj3mocicus7qen3p3hg5c75d0ki4hi3b.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fj5e260llgpl2thpdle31g2o2gtfdgpp NS 

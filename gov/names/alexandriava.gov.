@@ -1,0 +1,6 @@
+alexandriava.gov.	86400	IN	NS	ns-161.awsdns-20.com.
+alexandriava.gov.	86400	IN	NS	ns-838.awsdns-40.net.
+alexandriava.gov.	86400	IN	NS	ns-1151.awsdns-15.org.
+alexandriava.gov.	86400	IN	NS	ns-1932.awsdns-49.co.uk.
+o214n4e6m7htbvmh05lrb5d8ba7qv05d.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. PQW2VZWCurRydn1FKdBeJzPXUsCz6cvJX+iSxXWWj1HclTbO+YV5ad/9zKmxpaQkwih/q6IKpursbfZJT7HlsUYtg321RvU0DdsubFMv77FC7+Zio/iKDw5gKZAdzkeqrw9QuVq5kT7p0ozAZUaUhbWQbkabsDvmClVfTWUoZug=
+o214n4e6m7htbvmh05lrb5d8ba7qv05d.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  o22kquvi968j8b3esmr6rc4c04a1evad NS 

@@ -1,0 +1,8 @@
+sji.gov.	86400	IN	NS	dnssec9.datamtn.com.
+sji.gov.	86400	IN	NS	dnssec10.datamtn.com.
+sji.gov.	86400	IN	NS	dnssec11.datamtn.com.
+sji.gov.	86400	IN	NS	dnssec12.datamtn.com.
+sji.gov.	86400	IN	NS	dnssec14.datamtn.com.
+sji.gov.	3600	IN	DS	38918 7 1 0b026f56526ccae23db203b9f6daf5324831f005
+sji.gov.	3600	IN	DS	38918 7 2 0617f0f4d8836a526aa13c823c96018c7be675b55a95e38d2b52d37df6982e91
+sji.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. PhvGOGh+j0oieW54sFZMZgkjEjuZ7KZ6FyLXhD7KMLNi0uRdukLTLvig9eZjhlS66MFPT3ND8uzCtpjRdCsVVrGeuvWhssVyddW1PfGd8NAc9X0Zkx/EBvuNvibyZ9+a7tSYigBdhM9MvWyITyoWsaATegtDnEVIPTDJEnJ/QLs=

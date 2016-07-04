@@ -1,0 +1,4 @@
+6u4jcg50dtucu9nbnuo33mcms9oj20qj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. VQw8z+7pFDjvtbD+MPPvhVtl+H/YIsoGTWx7Y0tlyrqjQJtwhfBWnVADQJFi0l6a0P1QuM6lGka+V568/gi0AwCV90291GbsLdJr6YU7y5vagtFFEGEcFjoO90JWfkQhjVd24C/KJgbIQ57bxSenN45hnLMJEM0OD8kiXgfYVY8=
+6u4jcg50dtucu9nbnuo33mcms9oj20qj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6u6hs2iqkg7agn6kcgalopr6nrdq6j12 NS 
+narberthpa.gov.	86400	IN	NS	pdns05.domaincontrol.com.
+narberthpa.gov.	86400	IN	NS	pdns06.domaincontrol.com.

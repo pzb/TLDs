@@ -1,0 +1,4 @@
+4dad4c4a9atrc1lsbalrq6aof7lrs0si.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. CU5NnTRCXybLVG0yuBMk116ccwzqXon9fieqLwbDr/u55Mu9MteWW8dFYC/yh5eg3nq51lzJu4pJ1Tn+jTPOp5ieAzyxZ0cJXAB4IsWCD90MNMwOsv8Tk3Hsy2bILY67Scw9SNF6Y0Qy6TI9B1r5odOoHOGr0bJO2bhiRVTuhnA=
+4dad4c4a9atrc1lsbalrq6aof7lrs0si.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4db5dgh75rgrbcdhhir4ubs2pmeo7lc6 NS 
+oregonbenefitsonline.gov.	86400	IN	NS	lion.state.or.us.
+oregonbenefitsonline.gov.	86400	IN	NS	puma.state.or.us.

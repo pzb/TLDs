@@ -1,0 +1,4 @@
+colonie-ny.gov.	86400	IN	NS	ns4.zoneedit.com.
+colonie-ny.gov.	86400	IN	NS	ns13.zoneedit.com.
+pta1n11crm6cuvjrl87a9ns2cvsf43bu.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. pwls2vAg7bG1osatICN3k1d6BJuvUhYOiJTLI1ZipridtN+p0j7ItkucsRZ4apNLlsSNLGte3oEmk7AlMD7jmjE7i4ZXXsOQVv2OMZSw/VeeS9DzMbyS2rbcKbK68jkFZKy+aLQ2jOpFlDjCklmKX113sZP/wpgrdeo25Ygi8uA=
+pta1n11crm6cuvjrl87a9ns2cvsf43bu.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ptkgn4n59n6qf5f9qkj1ma6i7gnldjh9 NS 

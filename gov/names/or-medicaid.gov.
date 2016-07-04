@@ -1,0 +1,4 @@
+e7lo7n3liuaensaijmpo69g9ofg8f5l4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. BG7+g7gd0jUi+08J5UxfMFlTLvHeqhvwxIuzRKNN+4P9LNIjEPfu6QOAid96EX2llURrPbq4UA1Lc/yFxk+WP96+Mof104Zh54TAKQfXQX5734BH8xLxxBBof0BwpKNMmkF+U+TUNaDLHZ2YSb+RRmCE1GE+Bs4cV9rTQaNwyCs=
+e7lo7n3liuaensaijmpo69g9ofg8f5l4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  e7ou3b6pr5hck9pacmj935gfc7fbmc7d NS 
+or-medicaid.gov.	86400	IN	NS	lion.state.or.us.
+or-medicaid.gov.	86400	IN	NS	puma.state.or.us.

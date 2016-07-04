@@ -1,0 +1,8 @@
+fsafeds.gov.	86400	IN	NS	a1-12.akam.net.
+fsafeds.gov.	86400	IN	NS	a5-67.akam.net.
+fsafeds.gov.	86400	IN	NS	a11-67.akam.net.
+fsafeds.gov.	86400	IN	NS	a14-64.akam.net.
+fsafeds.gov.	86400	IN	NS	a18-65.akam.net.
+fsafeds.gov.	86400	IN	NS	a20-66.akam.net.
+fsafeds.gov.	3600	IN	DS	65131 8 1 d74bb0920810781ff998c18dcb0105fedddbc481
+fsafeds.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. lTsEofuBXkuilzilkejLpGl8ZTghMkusDJO2wdbvv3qVmhwoV+6ayJbKYYxlB09GSOA1wc0XtwFb9M+lUURU3sIAvOHlk4fRoj4pS+7JbfeKLl1Bd8XVjsF4ZR6sXAQWz7VjdljFT49PNmEG3c5YZMYzUfr91kOOIdVJebf9hrI=

@@ -1,0 +1,6 @@
+bouog5pfurgeb9vptoaukgsaptjliqjm.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hT1gFpX4NSH86csT1FFJCWcVDfR82vvezTDOWmDAsIgdNUrGkmFfVhkFCzD0OHdCjgK3OXjgzQi4YBwFSzs+VV1dMeLKy8/Lzqx/42yjgDHqcCynXvCYVk3SiUXmea53vf2le43qkGM7sltKUx9SmKqHR+Mrlt0WiKijpglbLwo=
+bouog5pfurgeb9vptoaukgsaptjliqjm.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bp06c0ovf92uo8dtai1t24mk1b7hop1p NS 
+tnk12.gov.	86400	IN	NS	ns1.tennk12.net.
+tnk12.gov.	86400	IN	NS	ns2.tennk12.net.
+tnk12.gov.	86400	IN	NS	ns3.tennk12.net.
+tnk12.gov.	86400	IN	NS	ns4.tennk12.net.

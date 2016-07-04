@@ -1,0 +1,14 @@
+reentry.gov.	86400	IN	NS	ns-jdcd-01.usdoj.gov.
+reentry.gov.	86400	IN	NS	ns-jdcd-02.usdoj.gov.
+reentry.gov.	86400	IN	NS	ns-jdcw-01.usdoj.gov.
+reentry.gov.	86400	IN	NS	ns-jdcw-02.usdoj.gov.
+reentry.gov.	3600	IN	DS	29125 8 1 b8fc3667ddf95806b60d40bba266a2a34bc26916
+reentry.gov.	3600	IN	DS	29125 8 2 6a2f634be5f24c800d303aaf32a4da8f132f22d12a10b13b7a9d5ab75db55c0a
+reentry.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. GX7/h5zNQTk3YaAALbwYhjrrQsPNlSy5uzWaApJ1KbYermYAjQfAcQ+RmdDQu0Fakqa1ILGhgvs+vdTMQBsEawI94t9N3YeCZEUv8c5VdFbl/k8/0Rf36oH2jgNJTtcKOlL+r+GIxFbazdGl8ojdwC5/dEHtzGdu3OCmYr+FqeI=
+ns-jdcd-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcd-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcd-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcw-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcw-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-02.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::6

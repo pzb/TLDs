@@ -1,0 +1,4 @@
+ipswichma.gov.	86400	IN	NS	dns1.civicplus.com.
+ipswichma.gov.	86400	IN	NS	dns2.civicplus.com.
+pt7m0u3f4d9slggau8oksr9rogir1nr6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. jICTWHtB9m0GagpApgSKsSAN+v945BpNsKiRIdR44mzh/YfwledrnV7+dMYbYtRQtOGSbuhJMXpcoGyo11VGCIX1jxL2Y5a1Tqq7022Tu52/kxXkmNsyY5zrWID04WNTNAqtWXH3NFaqhRw3013lVKPMaQulVJ5vsl/zPTQ0bR8=
+pt7m0u3f4d9slggau8oksr9rogir1nr6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pta1n11crm6cuvjrl87a9ns2cvsf43bu NS 

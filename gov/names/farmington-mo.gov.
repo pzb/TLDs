@@ -1,0 +1,4 @@
+at9og4jq0o2bm4dohobmaohovcf4lsrm.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. jKOhIVqsY3zQJkE4qjISpsMbZLXsMTwxwsuX/e8h21Rqb5hXPWYBPNbNP9IZ7dQUn14pxz+EYs9aWrd7f1arpDi2yf57zKj5PrIJglYSE3PF0hS8QSwYgzx8TP9GD+jypgQrkftSn3nN1O862sRBfE/FCPSRYJeZBdUOYoPuVcg=
+at9og4jq0o2bm4dohobmaohovcf4lsrm.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ataaj1o93ggu8knbga86f32dfcqks1m9 NS 
+farmington-mo.gov.	86400	IN	NS	ns2.eclink.com.
+farmington-mo.gov.	86400	IN	NS	ns3.eclink.com.

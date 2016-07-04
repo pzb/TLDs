@@ -1,0 +1,4 @@
+ceciltownship-pa.gov.	86400	IN	NS	ns1.avenet.net.
+ceciltownship-pa.gov.	86400	IN	NS	ns2.avenet.net.
+ed6eum7d202p6suful71sbb7seag5ro4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. GHIOlawdVj20OdaP5SWz5oYhthrFUpC9p4UUfEeFB3lKjQEAj11p3mGek+wZ7Za6eu0hUwlfXppN5NlB3m892jOksqTa+MDIFr5VwGDodFKYBgJ53saqZALowjPJ2oDVV5315D39vkBNvmFgBZ3c/Gs7rExMvsyn71IG9+mYD7s=
+ed6eum7d202p6suful71sbb7seag5ro4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  edgsfpujaga0b4reibm6f5nuhsjv3rg3 NS 

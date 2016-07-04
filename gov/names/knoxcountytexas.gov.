@@ -1,0 +1,4 @@
+knoxcountytexas.gov.	86400	IN	NS	ns1.wf.net.
+knoxcountytexas.gov.	86400	IN	NS	ns2.wf.net.
+nr51mum3572faaocptfkdupeapbigthv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. CBfE2HF+EmEgeov/0Ks8+a4jmkYeG5SzQXiyI4dQH6KDGLdIg+RJ1pFa6R8BjCOox9A7DrLyNlaqISbK1/aIJHtBpppr4TstOy1GHi9YY5+tNOwoeCXMbNg1Ta35CAcxWpZF/XYOuc8YCmYh9a5arA8+EzYPWORfSOwQLv+fDC4=
+nr51mum3572faaocptfkdupeapbigthv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  nrjq4qag0jocuapp277lfpg51lrn57bj NS 

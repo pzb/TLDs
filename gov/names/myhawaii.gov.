@@ -1,0 +1,6 @@
+bmirhigpasmdj8g1acr0mu714boi60p2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. GkswDxLa9qQnusVcnz7EL9xXRCrd/jmegJx+EUGWXSW3WNyhXxJCn7OFdsAjo7k1Zfr5o2wIQWaqGIk6TccGLgmvIUTFXZ2XolsEopwt637hiq/J7LTgnwrVF3fGpxQJKK4qzq8aAInJ1ZUNSY1G/tRJy0MOqV8yRJrPPMZQKCo=
+bmirhigpasmdj8g1acr0mu714boi60p2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bmju6ikaqm14fu4v3k2vbg35k746psmt NS 
+hee1.icsd.hawaii.gov.	86400	IN	A	132.160.216.4
+hee2.icsd.hawaii.gov.	86400	IN	A	132.160.216.22
+myhawaii.gov.	86400	IN	NS	hee1.icsd.hawaii.gov.
+myhawaii.gov.	86400	IN	NS	hee2.icsd.hawaii.gov.

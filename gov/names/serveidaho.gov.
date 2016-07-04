@@ -1,0 +1,11 @@
+adm-dns2.idaho.gov.	86400	IN	A	192.102.16.252
+admdns.idaho.gov.	86400	IN	A	192.102.16.251
+soa1.idaho.gov.	86400	IN	A	164.165.252.15
+soa2.idaho.gov.	86400	IN	A	164.165.252.16
+serveidaho.gov.	86400	IN	NS	soa1.idaho.gov.
+serveidaho.gov.	86400	IN	NS	soa2.idaho.gov.
+serveidaho.gov.	86400	IN	NS	admdns.idaho.gov.
+serveidaho.gov.	86400	IN	NS	adm-dns2.idaho.gov.
+serveidaho.gov.	3600	IN	DS	34162 8 1 4704c7796b55decb4b65ea94b42dd873baea964e
+serveidaho.gov.	3600	IN	DS	34162 8 2 6850a3445a1415204410ed3be7407dcbbe3a06adf30e4337294519180b58b7a1
+serveidaho.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Fks6ihB/RTQURirC3FKtcPmZffLkBMJ0hEDty/mhnOJ0YA5aL+pm8jK+pPs5N30FVOl3Zql2Hcm3kilfti0sorzAeQ4eCn5SOqfjDCCkeHpvvv1zBj+1l5mT/TxUHsVsbLGswcAyqQrYOcSsTPicNZ6oxDrD8dCkjoa1tmL7rxY=

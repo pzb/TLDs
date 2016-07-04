@@ -1,0 +1,6 @@
+ejjscipio1c9n8l4j98ig5vt89c2qbng.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. PW/U2tEX0Nm28M+anf/xpP4W/k2LDdC783+peaxY6UVjYYmhlcdSHmjfB2tWLHD0igSCyf3SkD9XX9wxeu8h/wXKX3gCUXkVSq2qI54uoUXVCuB3TkXrdrGiRUcwXlffH5mICApBhIO2psuQXapL+lLsiX0iPGcr7bSNPvdqV6I=
+ejjscipio1c9n8l4j98ig5vt89c2qbng.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ek22qcrsdhv7pddje8pos54re9r6u2to NS 
+ns1.nc.gov.	86400	IN	A	149.168.11.11
+ns2.nc.gov.	86400	IN	A	149.168.138.11
+ncdor.gov.	86400	IN	NS	ns1.nc.gov.
+ncdor.gov.	86400	IN	NS	ns2.nc.gov.

@@ -1,0 +1,6 @@
+emtq5o19s4ous5qqed84va965qaonp7s.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. TZoFDF3tSYAwKsFaI4DsWk8oR0M73Fg9usm6h/Jeubx5RU+T9wzWxUmSsEckQcYPuBz/6WCA3eQ50sriXSHeNpIzxzGEke0d9tuFCfPMIBm1uAFWRQT7ZdSWhjcyoUOeL0BvmPJbsuhW0W4mzs5lL2E5dmGqC+3/BIkWfy28PFs=
+emtq5o19s4ous5qqed84va965qaonp7s.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  en2i63u6ifo4d99dl7qkh30m58bnn5nj NS 
+frankfort-ky.gov.	86400	IN	NS	dns1.frankfort-ky.gov.
+frankfort-ky.gov.	86400	IN	NS	dns2.frankfort-ky.gov.
+dns1.frankfort-ky.gov.	86400	IN	A	216.206.216.6
+dns2.frankfort-ky.gov.	86400	IN	A	216.206.216.7

@@ -1,0 +1,11 @@
+lcacommons.gov.	86400	IN	NS	ns1.usda.gov.
+lcacommons.gov.	86400	IN	NS	ns2.usda.gov.
+lcacommons.gov.	3600	IN	DS	58321 8 1 a2cc33246071a2b0bf147de87d15f80757cd8b86
+lcacommons.gov.	3600	IN	DS	58321 8 2 2be88b501ddf8a38917a27b4007f9f54c7ca2b76bac57ce8fda752da38e4a7c9
+lcacommons.gov.	3600	IN	DS	61114 8 1 9a810bbb9552865b87880ca18edfb2fc342a9e7d
+lcacommons.gov.	3600	IN	DS	61114 8 2 c03c5a2e01a50001735d084856a83f046117a839eb1efc6acf4f6a3da50a6295
+lcacommons.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. IxiLYQXHUhg2sA55kcGkiRzijcHln5WMxYbmD860j9H/R3bPNbq3QgfMfCWQGpFZu6LeQCCagpAoEHkJ3qaXKkolk26Tsf3P8i9t7UShBkSRlTLqraFXJ2lzyspPuPU36Fj0zyaISMTFM8kck2ul4pIUZHxCgpDDotg2Nm7KQGQ=
+ns1.usda.gov.	86400	IN	A	199.141.126.202
+ns1.usda.gov.	86400	IN	AAAA	2600:12f0:0:ac04::202
+ns2.usda.gov.	86400	IN	A	199.141.126.206
+ns2.usda.gov.	86400	IN	AAAA	2600:12f0:0:ac04::206

@@ -1,0 +1,7 @@
+7c74392ur08i2q46u37ppi45nu4lfepj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. jVenxVxmdQY2Tatmy9yHWOlFxxwU7pQ37Okk9UW5dSEqYyDHyxE/VudK4XWKaL4fJ5HALMAO9voUGMtKQ3Zh5u6OCjQzDqm7R/atvM/h9nIpG0eHm2l/WLLqiD2zMMk9lkOMP/bwN+1MsHWzTahgLpU1EuB/Tbmjt7bP1gfhR34=
+7c74392ur08i2q46u37ppi45nu4lfepj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7c8kpj4k4rljpsvvi22fmk54uvdgh2gk NS 
+iahealthlink.gov.	86400	IN	NS	dns.iowaccess.org.
+iahealthlink.gov.	86400	IN	NS	ns1.iowa.gov.
+iahealthlink.gov.	86400	IN	NS	ns3.iowa.gov.
+ns1.iowa.gov.	86400	IN	A	165.206.254.145
+ns3.iowa.gov.	86400	IN	A	209.56.120.13

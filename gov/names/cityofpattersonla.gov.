@@ -1,0 +1,4 @@
+cityofpattersonla.gov.	86400	IN	NS	ns1.mediatemple.net.
+cityofpattersonla.gov.	86400	IN	NS	ns2.mediatemple.net.
+pp2hk5g63le0mm19ea98t8lcf9temdql.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. KCzupauxwkxUmqhYeaU2oePBsgN7Y5n7ee3hvbXpW6hkjVIiamNA5+Wqf5GjkCVuUGyO7I74Muo6VnZ3RaAxrsSXwBaQ/T/W2iV7f72WINPl7vjeowtS/Jt/TCTYPcjJuyuJXIh170FigCmecY7ehjSvAtavi0NOD68bxiL/bZw=
+pp2hk5g63le0mm19ea98t8lcf9temdql.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ppejos4e9pnohm2jgkmma9j1v5i8870p NS 

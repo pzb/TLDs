@@ -1,0 +1,6 @@
+i8i1jibrc5opcf6kanflr0jo6ranqg6s.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. viQaJN4Ira/UJFpp/8XRWi57FEYslqVjDAXakj4kH/WHXI5fayxL/S/ChANBHlqtTPk8gKtM4kb4SnmI+GMfnQNO38KihyBNkxXej9NAac1zyNJosTyQ34dPiNn8KmgSe92FGz1/0ecBMKQ366wTQD+4kMNebawieFWyMvMss+A=
+i8i1jibrc5opcf6kanflr0jo6ranqg6s.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  i8itom13oahaqo2lsn5jg9cbdudr28pq NS 
+truro-ma.gov.	86400	IN	NS	ns1.p29.dynect.net.
+truro-ma.gov.	86400	IN	NS	ns2.p29.dynect.net.
+truro-ma.gov.	86400	IN	NS	ns3.p29.dynect.net.
+truro-ma.gov.	86400	IN	NS	ns4.p29.dynect.net.

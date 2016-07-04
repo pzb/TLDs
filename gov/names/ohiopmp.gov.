@@ -1,0 +1,6 @@
+g06gkn1t2qt3qtqfelm547k4un3catrf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. a0QSwwkgDRolpd789mxoIg79NVD0P29tiauZ+pOYb9F+zl61boO+XFpKQVEA1FtUR6S9JurJLC0AflB5AGYgb0INsgw9A5l84Fj/t+L+JbfAQFMQyQNvIwIYi4tFlpu/vwjwWgd3KcBNy/6SbCoSBDT5lCCXCKqtCit8KEg0FlM=
+g06gkn1t2qt3qtqfelm547k4un3catrf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  g0ecls8vinlr6as3h66bii8s9ssiqs3s NS 
+ohiopmp.gov.	86400	IN	NS	ns1.dnsexit.com.
+ohiopmp.gov.	86400	IN	NS	ns2.dnsexit.com.
+ohiopmp.gov.	86400	IN	NS	ns2.zoneedit.com.
+ohiopmp.gov.	86400	IN	NS	ns17.zoneedit.com.

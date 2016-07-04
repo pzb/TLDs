@@ -1,0 +1,4 @@
+h1k1vejmvimiforsmc1vpj0i121aa9om.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ZjnAdhCrfGn+L6+ZhE2hmrbr84xJ2oBiyQWg/VA1n7WnK08/qSymgCI3e4gBmwMa9SuJ5n70HsfhvX1wvEHUbrXNR3n3ApftNvLOBh2fr4oluRjcdF9DO+3+JF3zAbWkylbDHG+bqPVt/XUXqnp1Z4nUZTGZ1a5yCJN+Qb48W3o=
+h1k1vejmvimiforsmc1vpj0i121aa9om.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  h1v37f1sna547lgr8t032vg4tlj1vqsf NS 
+littlerockar.gov.	86400	IN	NS	ns.aristotle.net.
+littlerockar.gov.	86400	IN	NS	ns1.aristotle.net.

@@ -1,0 +1,4 @@
+midlandtexas.gov.	86400	IN	NS	ns3.lsn.net.
+midlandtexas.gov.	86400	IN	NS	ns4.lsn.net.
+qut827dtc2f9q9c6cp7vf0p8h4vnn2m7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. dtuCRP7vyboW8OnyX43E7JngsyISHcGUku/6UO40RkYjDam2oeUs292nODzaael3rT+mbZxTsnTLeyGU9GDyeoNpbbQuZDHx5sw7QXs/pGI/lUifiI0jU8XhOEATGkjjXFSFSyB1mp7RAPUhjWbU/E7FPizcLVMUfcDEIb81q80=
+qut827dtc2f9q9c6cp7vf0p8h4vnn2m7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qv3jpme5haiu797om252grin1gteb3e4 NS 

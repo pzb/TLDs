@@ -1,0 +1,4 @@
+fercalt.gov.	86400	IN	NS	a.dns.hostway.net.
+fercalt.gov.	86400	IN	NS	b.dns.hostway.net.
+tspk23btnol24t2pd4bbupl956c2gtan.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. svIhoq/PiO+nIoglicpBrblNQxd8a4lg3TfxzgEMDhQo8E0hkqNtiJwR2N4+15CSzQLO50YDkR6l1s0b6P/6lWDUlflfpUmLlHI+BPP7xP+BOUPf/sGQv1K2FiQxtzeqdcosLio/SFMZJPVclrcdF0r1NYVa5v0582cYujfnTsM=
+tspk23btnol24t2pd4bbupl956c2gtan.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  tsush717ub0dv25bto26prvabt6si5j3 NS 

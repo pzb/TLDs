@@ -1,0 +1,11 @@
+endingthedocumentgame.gov.	86400	IN	NS	gslb01.nlm.nih.gov.
+endingthedocumentgame.gov.	86400	IN	NS	gslb02.nlm.nih.gov.
+endingthedocumentgame.gov.	86400	IN	NS	gslb03.nlm.nih.gov.
+endingthedocumentgame.gov.	3600	IN	DS	36825 7 1 e342d3b6411ab730f410d67d73af262b0b955aba
+endingthedocumentgame.gov.	3600	IN	DS	36825 7 2 4cdc30531e82bd210001c042185aace43d3cfcd6b1fe363d51e2815b7dd6b703
+endingthedocumentgame.gov.	3600	IN	DS	56004 7 1 3bd365397c6ed151c9b50dcfe962c9e88c1a6eaa
+endingthedocumentgame.gov.	3600	IN	DS	56004 7 2 fcdfd80b8242f46868c5f2a162b20a8ee8a01d2f897cea0d8b00067055d2c15e
+endingthedocumentgame.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. qhiTpDxMOKo0iCjcI2XgVbSr73aoQOqvUUH1815TpvoAgBpa2Pkkmvo0Qtj1xDXDRJozSMWc09XWkoED+FjuCiHW+IQQurpELAXiKfHxktm7L7LkL8DS3TbdKT5ydPego49eqQTzgrd/ntwCWGEDVG/3M9x0izUvZFFbGRPTD7k=
+gslb01.nlm.nih.gov.	86400	IN	A	130.14.252.50
+gslb02.nlm.nih.gov.	86400	IN	A	165.112.6.3
+gslb03.nlm.nih.gov.	86400	IN	A	130.14.252.53

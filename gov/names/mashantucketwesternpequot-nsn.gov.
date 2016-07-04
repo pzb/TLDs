@@ -1,0 +1,4 @@
+mashantucketwesternpequot-nsn.gov.	86400	IN	NS	ns1.mptn.org.
+mashantucketwesternpequot-nsn.gov.	86400	IN	NS	ns2.mptn.org.
+sh6dttf8vapq94mnfscckbrluhb1nd88.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. S9NgGKVVsUDp6vcJtImGmpQPfH+vGRyI1mhMbkKeUKHGeLKjDdj3e2rXv9Y4vCUpSHJrgeoBtpxUD5VQBtYoRdoDVN+lrYER/558+XL5HMk2ZdZQNFTwYS7aNdHDSzFajLp2IjEMnRMDUHqqmRvV+EgdKo6yR9vo4GbPnw4jo+M=
+sh6dttf8vapq94mnfscckbrluhb1nd88.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  sh6qbnmntkan8ts6joftsen5isdtofco NS 

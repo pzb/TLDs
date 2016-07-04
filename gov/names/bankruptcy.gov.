@@ -1,0 +1,8 @@
+04cpnp3cvmvv5k1auifs9gpascab1rn9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. YXDq3pKCBtPT05M3sGtd7rKty8RHEKtQbNA0q+suGNL6xppQxiECYJD+dIwlusFX3qpdGpN6dZn6LVHY5JDcTuvjPMiHqjApCwZdpiLZqNQ8UVSqPKCXLlWH0k5Xh7LKP6vetc4Geut9x21sgXgyQlQWXkZbqvf1QVOoCc+zfj8=
+04cpnp3cvmvv5k1auifs9gpascab1rn9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  04hd54e16kqf0gaf5g9nrsn3vu41894j NS 
+bankruptcy.gov.	86400	IN	NS	a2-66.akam.net.
+bankruptcy.gov.	86400	IN	NS	a7-64.akam.net.
+bankruptcy.gov.	86400	IN	NS	a1-221.akam.net.
+bankruptcy.gov.	86400	IN	NS	a11-64.akam.net.
+bankruptcy.gov.	86400	IN	NS	a16-65.akam.net.
+bankruptcy.gov.	86400	IN	NS	a24-67.akam.net.

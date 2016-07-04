@@ -1,0 +1,4 @@
+r58uff449cmveouipgsbipmkakudfhkd.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. YxQ4WuvmVyXvDaeUYHPPjyYYtA2tjuGmKGm7+OM7u0faKkTxDBabaJspKHWM5Au9V7OzyzZQPDwRCc+pL9rzDlhzVF5qMB7XVqWVtFiRrJfvTkoGSQbPE0rQa/3FDHfDI8v5O9NEKlD+vQJsUEGhtzQDwK/9Pu/CYqjklW7d+nI=
+r58uff449cmveouipgsbipmkakudfhkd.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  r59r68gp9f2mkumpdgaq8p5842t3g5tf NS 
+tupperlakeny.gov.	86400	IN	NS	ns1.avenet.net.
+tupperlakeny.gov.	86400	IN	NS	ns2.avenet.net.

@@ -1,0 +1,5 @@
+lymenh.gov.	86400	IN	NS	ns1.infotech-maine.com.
+lymenh.gov.	86400	IN	NS	ns2.infotech-maine.com.
+lymenh.gov.	86400	IN	NS	ns3.infotech-maine.com.
+r5ttec3ja3i15tc9p05vcuksijq1a3rf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. bzZ7dBHvm4Poag3YPxJf5/DEbgjDPoyk9rivEDX0faj+qnYbp1Dw1mkQOZpbBzc5YXwvhOEbfIcLjCGeUAcJaMvS0FaOrz7YWVmNe1JwFbfxfpByQYgyPNLw+biH7/TNvZCAZ3TAfXiWQHlnz9yb32Pr1QqlI500dUAzPi3SO3Y=
+r5ttec3ja3i15tc9p05vcuksijq1a3rf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  r62aaeacn41u409o6gs29r6fg7fln1mf NS 

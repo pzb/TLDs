@@ -1,0 +1,4 @@
+amityarkansas.gov.	86400	IN	NS	ns1.iwscm.com.
+amityarkansas.gov.	86400	IN	NS	ns2.iwscm.com.
+utkl0s9bhojjmpmqfsan1esqilfok40r.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. dMO3XMnvaWqxAMZIGwtMFssyhwTpElqXgvbJUBdGGn9q5QC3JEtHsgP+rH9VqJ5ZLk137AXNJO1iwvgwWuD6v8DgA3OirkssZFCZ4zOPJyoJ82Z7ruI+E9wUIojdu2tf7AcnDeGvncXfdBwnBaW65MqoonQM+4s25wYK+5E4CmI=
+utkl0s9bhojjmpmqfsan1esqilfok40r.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  utok0rt30haf0oi33lpg7clgovp3c9je NS 

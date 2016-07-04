@@ -1,0 +1,9 @@
+evergladesrestoration.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+evergladesrestoration.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+evergladesrestoration.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+evergladesrestoration.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+evergladesrestoration.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+evergladesrestoration.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+evergladesrestoration.gov.	3600	IN	DS	8281 8 1 9d96dbd9d2a1678dd28956aa9a6965c64c89c61c
+evergladesrestoration.gov.	3600	IN	DS	8281 8 2 92594304098d262e09d259be455b16b3a901199304e3b9294109cbde7313100c
+evergladesrestoration.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. m7+R/JkBVgb0LbVMr53i/17ju4Y16GtNIT3k+r4XQhOeP8N6vVVlccXOJpAgDzSAbvjTi93liLHapL6/S/Q6mqVvN+na9ysLEuJZVZBLBXQBSTQ/WxygPzbSK2NZZJbzll2mm/ebBDlm2lmkh/xOclcBeYki9oe+QgU4uyzuRNA=

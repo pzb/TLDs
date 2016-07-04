@@ -1,0 +1,4 @@
+1d7jajhucp4ul98s532rmqatn42mqm8v.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wvfqgWZa4hME1SMco0nMrjIaIUlvqI/chFcAiDmY9j+7jvxAE4ovYG0pO4sdJiA9n3u9Wiuktmaor2pqqFAmZC9uW2/pkG0JaS/Xaqb0l4bXofoEINk/k73R/EwRxjXAB1wFPeXJoCxeuD/po1JME6x8okdaoJ/rpJVnCXcSxV8=
+1d7jajhucp4ul98s532rmqatn42mqm8v.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1dh5ggce5g92aqm32unb1rsjfbo0adf9 NS 
+hazardky.gov.	86400	IN	NS	ns89.worldnic.com.
+hazardky.gov.	86400	IN	NS	ns90.worldnic.com.

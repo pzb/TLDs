@@ -1,0 +1,9 @@
+alir5fa5tn26iumdbqgvehjg96j2psls.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. C2DfzctW9hMxn8oXyjAK6otKlUSjJhbBVCdtvLRNtuxSpLk/Qbf8QtK1hnJ08WBxr0BMydw5YtyBOkwTGTuGnNPN55bh5Yhf7q/Q9/HY1t09qcOsj4BXqqkB1Bq5T7ADkFl6zQGx+2QEs+v2SdVCYUtsJKfTMwFKcQ+vclQICxo=
+alir5fa5tn26iumdbqgvehjg96j2psls.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  almom569lqlkhirubqt2jss8ite58s6q NS 
+azstateparks.gov.	86400	IN	NS	dns2.azstateparks.gov.
+azstateparks.gov.	86400	IN	NS	orion.azstateparks.gov.
+azstateparks.gov.	86400	IN	NS	ns1193.dns.dyn.com.
+azstateparks.gov.	86400	IN	NS	ns3181.dns.dyn.com.
+azstateparks.gov.	86400	IN	NS	ns4195.dns.dyn.com.
+dns2.azstateparks.gov.	86400	IN	A	159.87.28.106
+orion.azstateparks.gov.	86400	IN	A	159.87.28.200

@@ -1,0 +1,7 @@
+dns01.cns.gov.	86400	IN	A	152.180.8.143
+dns02.cns.gov.	86400	IN	A	152.180.134.207
+volunteeringinamerica.gov.	86400	IN	NS	dns01.cns.gov.
+volunteeringinamerica.gov.	86400	IN	NS	dns02.cns.gov.
+volunteeringinamerica.gov.	3600	IN	DS	34635 7 1 fc28ef3271931a4490670867aa3b3ec172fa17a3
+volunteeringinamerica.gov.	3600	IN	DS	34635 7 2 b16b27201e65030d6bf47e164afc9d65f2297241212b0c7145d67107699d0c5f
+volunteeringinamerica.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. egw5eP4ndrWZcAuWgryBwUe/lGICZVdfo2s/L4s5lKDMUGdBYCuk+yQetC55IxdNn5LHxso9ctZh8zvk95W/iEWyN3xpnzCErJOYBFiCy2YxV98rW8pviAl0LibhHJlUeqng55WoHb0lgCjXU34oADAOpueIDl/LXgMOL4sskgs=

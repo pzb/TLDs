@@ -1,0 +1,4 @@
+6ftk1of254qofieu8nski19sr3kff9e9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. XmTcjQrB701KFMhcGMcM6oNnu+q43lI4uZb60SKU5LpvXtGAJwecs7MusqvvcyfJYDaS0zvqPvvy14nJon7FmTXDodn+TB3OnlD0BwfMKFMRmZfh4YOn6F6LWzBrvj7KMn6bUCevimUKIahBFvamiK3BY7Zj+bzAv/ZVJEtTWi8=
+6ftk1of254qofieu8nski19sr3kff9e9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6ftm5i6pvi1cibm2f02gjeelc0176d8d NS 
+ellington-ct.gov.	86400	IN	NS	ns1.computercompany.net.
+ellington-ct.gov.	86400	IN	NS	ns2.computercompany.net.

@@ -1,0 +1,14 @@
+bjs.gov.	86400	IN	NS	ns-jdcd-01.usdoj.gov.
+bjs.gov.	86400	IN	NS	ns-jdcd-02.usdoj.gov.
+bjs.gov.	86400	IN	NS	ns-jdcw-01.usdoj.gov.
+bjs.gov.	86400	IN	NS	ns-jdcw-02.usdoj.gov.
+bjs.gov.	3600	IN	DS	27289 8 1 2433c2dde875c61484cecaec600f93a97977e9a1
+bjs.gov.	3600	IN	DS	27289 8 2 1cff085c8a86100e2554bc7cc2e4ea687df3f06646e48cc1d7000cb9b0e7354c
+bjs.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. FucgkDR+6H9uLPTPD53pSRieBzKRBJIY1nSB1W+Zgi59a5bfsoX2huOmRmc/A4rrqkcDiI5b8dwdY5lwnwwI3fsIMnrNKeDK1kgToUCU6Q5KL/bfoBvcc4a8go4KhPLKtAjElpFk1BlphLmz/siHWOs/B8rkrcx0YULT07MKeFw=
+ns-jdcd-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcd-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcd-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcw-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcw-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-02.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::6

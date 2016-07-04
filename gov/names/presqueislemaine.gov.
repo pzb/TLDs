@@ -1,0 +1,4 @@
+presqueislemaine.gov.	86400	IN	NS	mns01.domaincontrol.com.
+presqueislemaine.gov.	86400	IN	NS	mns02.domaincontrol.com.
+q91jeig38jma6ecm5cbktq6n0b70qki0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. iCIEggg3IFpudM0xPukcsDFu+SyBC9Jsjbj/W3Dk7zLGg7GHh7rtz6dPD4ogDCepKdYPqSR+v3RJ0d+T3BxP/vqEfhbheFM+ah1Ly4kHFgxLjBKju47PnFeHQUvJvs6nLEO1APh3TQvEZ5kGdYNPoLceuKdfcH/eqKEQ76JtZ/k=
+q91jeig38jma6ecm5cbktq6n0b70qki0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  q95olhovru5epgcl313hmev984kpel13 NS 

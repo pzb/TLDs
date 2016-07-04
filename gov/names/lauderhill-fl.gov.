@@ -1,0 +1,4 @@
+ibtaav543etm2rne1qa77q5tbvm8v3ec.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fr1HHbLHrnC1YB/RIXb7E//g6AJfB3j+O8bHfxTLaCeBD4Y9Lt+jzWst27I8WwLA6puSDGoqN/z9pMV8f+6ZX6JtMmlnc3rT8Dfd3pJZLhaG5+4XX3z1qgTTQA7FzaT2qB0Ie0lDX/XSGqp85AAeFUMZ4JYf3a6rGnfxuzdKYE0=
+ibtaav543etm2rne1qa77q5tbvm8v3ec.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ibuhppksi4d2fhpmdbei2bqmro6p1i6l NS 
+lauderhill-fl.gov.	86400	IN	NS	remote1.easydns.com.
+lauderhill-fl.gov.	86400	IN	NS	remote2.easydns.com.

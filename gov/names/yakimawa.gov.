@@ -1,0 +1,8 @@
+55aqjiqho9d6p9dca1pkflklgng9qssg.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. AIeiwphzoIFOBzxY8bZzL0G5d2jiYNa8bon1WgXXdju5ENzxLHwXQIHrfxj2gwgC1GPq1/Vo9XIkYvuyU73xK+Mnwak0+T/JUvnAmOFekaCbnfLuEvOMSpkLyaXmTLkxzrL1aIrdRht596tBFoAoRMe8DftAk1YbUGxcpNKyVGU=
+55aqjiqho9d6p9dca1pkflklgng9qssg.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  55eot2op50bh8n8qo43vkjmsiqbohml8 NS 
+yakimawa.gov.	86400	IN	NS	ns10.dnsmadeeasy.com.
+yakimawa.gov.	86400	IN	NS	ns11.dnsmadeeasy.com.
+yakimawa.gov.	86400	IN	NS	ns12.dnsmadeeasy.com.
+yakimawa.gov.	86400	IN	NS	ns13.dnsmadeeasy.com.
+yakimawa.gov.	86400	IN	NS	ns14.dnsmadeeasy.com.
+yakimawa.gov.	86400	IN	NS	ns15.dnsmadeeasy.com.

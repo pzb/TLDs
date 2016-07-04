@@ -1,0 +1,15 @@
+frpp-pa.gov.	86400	IN	NS	dns.gsa.gov.
+frpp-pa.gov.	86400	IN	NS	dns2.gsa.gov.
+frpp-pa.gov.	86400	IN	NS	dns3.gsa.gov.
+frpp-pa.gov.	86400	IN	NS	dns4.gsa.gov.
+frpp-pa.gov.	86400	IN	NS	dns5.gsa.gov.
+frpp-pa.gov.	3600	IN	DS	45866 8 1 697b428945003f16fc29336aa53f06f1b0e2c508
+frpp-pa.gov.	3600	IN	DS	45866 8 2 df0a9756c080feb55e0175d25c73c8fcccffc825fd2241b66a6a343eabf72ab1
+frpp-pa.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. mEJ6dXL9RKoGm6qaGeMEgYSk5yz2jIY5Mb6kb6a7YNQQbnE6banrkOGcnu4QH7cOPT/h6C/2xq/VFZR/mq7QSZT1UlS+dEq+MvzIxUkvjC/bU68CX8zpc88sZmfrKlCSmB1q53yP7cMnQsQsykJdYePxifAFxXOhM04Lepjm1VM=
+dns.gsa.gov.	86400	IN	A	159.142.136.198
+dns.gsa.gov.	86400	IN	AAAA	2620:0:150:280f::5
+dns2.gsa.gov.	86400	IN	A	159.142.150.68
+dns3.gsa.gov.	86400	IN	A	52.203.230.235
+dns4.gsa.gov.	86400	IN	A	159.142.69.84
+dns4.gsa.gov.	86400	IN	AAAA	2620:0:150:4013::5
+dns5.gsa.gov.	86400	IN	A	159.142.45.20

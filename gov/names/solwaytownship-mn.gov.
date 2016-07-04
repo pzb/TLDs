@@ -1,0 +1,4 @@
+hlparqtqacrr81b8e5jfg219af5akn7i.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. EPsgNhqA288Mpc/4iTp05tV/i+L+vbjZzFLkKiMV+bYZEM5vPwt9VKzcB6nOiQjFvq4VmwXFLRmVBNVT3Ch4Gtv058Div68OL2r6N8P57BjaPKMQr/8rpLAVGb8jfeiDnMp3CV2ols2mtAGVWBWgS+7dQhXOh+ywDNjou+nunbQ=
+hlparqtqacrr81b8e5jfg219af5akn7i.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  hlpng98ms7vpbvfi63va4gbff56s0pod NS 
+solwaytownship-mn.gov.	86400	IN	NS	ns1.avenet.net.
+solwaytownship-mn.gov.	86400	IN	NS	ns2.avenet.net.

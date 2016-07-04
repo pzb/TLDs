@@ -1,0 +1,11 @@
+locatorplus.gov.	86400	IN	NS	gslb01.nlm.nih.gov.
+locatorplus.gov.	86400	IN	NS	gslb02.nlm.nih.gov.
+locatorplus.gov.	86400	IN	NS	gslb03.nlm.nih.gov.
+locatorplus.gov.	3600	IN	DS	36825 7 1 d57996864632436302c3db72fefe9a02be77051b
+locatorplus.gov.	3600	IN	DS	36825 7 2 80528038bc2c3dd901e5328276255e5411bb6d2ad92620afc97af0b268034ab7
+locatorplus.gov.	3600	IN	DS	56004 7 1 e12afb9a0179de967b557b714bbc96982a84dcd4
+locatorplus.gov.	3600	IN	DS	56004 7 2 5927e3746cbb334654783123c52e8d71048b0320f2ad3a9405e72443b2bd368a
+locatorplus.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. h7s8dCdUYX1J4ln8qp5h+1hMmT9h+J70wPccX03El0qAxrWmWWZya/pUDPEWlovgx1LAp76L9K3PIuItTE6aRW2x5RQUL+xesHh5/JBZLa9O4O30r8k9xtIdnnAAMcTQqpRB0OGfvWfsNCqYh7sMk2m0dAJDg0E79ZADNhA0P0w=
+gslb01.nlm.nih.gov.	86400	IN	A	130.14.252.50
+gslb02.nlm.nih.gov.	86400	IN	A	165.112.6.3
+gslb03.nlm.nih.gov.	86400	IN	A	130.14.252.53

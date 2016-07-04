@@ -1,0 +1,4 @@
+cityofcoweta-ok.gov.	86400	IN	NS	ns1.3essentials.com.
+cityofcoweta-ok.gov.	86400	IN	NS	ns2.3essentials.com.
+dfng84m52si1hqtog1hg6vo2oie4h8sm.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. bIjuA6HNhC1vzKDZe25gElJHchoB8d4zWuiRJmMXiDZkxAb1Hgqu22JoaoOh9iPv1586CpEN8oU9/HBM2ZUw8L5rA3YIYZNJdqGEpFsHp7554UnGp4GJC5B3ZzhDNHsC/OblXlEYVpdZHqq1CGqknvVICGd+BOr1mv3C6+2K1h0=
+dfng84m52si1hqtog1hg6vo2oie4h8sm.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dg1s1l5fdv4m22vkhs1atpg3bfns7cl7 NS 

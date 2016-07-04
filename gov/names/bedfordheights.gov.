@@ -1,0 +1,4 @@
+bedfordheights.gov.	86400	IN	NS	ns1.mediatemple.net.
+bedfordheights.gov.	86400	IN	NS	ns2.mediatemple.net.
+jlav5omk41ii29eao62armqniibm4prf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. GkrYzGlk9Bv0JpzYkIO0WxJmYBoiyNCW0Ss1xu+wOxgh1llfMfXqyrTFNByFdiyb+m8Rl+Ta4J3ehZrHe5nwAPQPzfsYwnizPf0qeMmrJcT81voOLt0OrpAXISb9RO+wy7l4rAUbQtCMKGVF0NvZ2cpULMCDiKVrbqG2dEejP0Q=
+jlav5omk41ii29eao62armqniibm4prf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jlb2aiu2mmfi0vfng6u1rofcqrmts2l5 NS 

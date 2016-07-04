@@ -1,0 +1,12 @@
+ns.nih.gov.	86400	IN	A	128.231.128.251
+ns.nih.gov.	86400	IN	AAAA	2607:f220:404:101::80e7:80fb
+ns2.nih.gov.	86400	IN	A	128.231.64.1
+ns2.nih.gov.	86400	IN	AAAA	2607:f220:418:4101::80e7:401
+ns3.nih.gov.	86400	IN	A	165.112.4.230
+ns3.nih.gov.	86400	IN	AAAA	2607:f220:402:1801::a570:4e6
+tissueengineering.gov.	86400	IN	NS	ns.nih.gov.
+tissueengineering.gov.	86400	IN	NS	ns2.nih.gov.
+tissueengineering.gov.	86400	IN	NS	ns3.nih.gov.
+tissueengineering.gov.	3600	IN	DS	48933 7 1 49e62bb406624cfda2390957a67c7f683bced93e
+tissueengineering.gov.	3600	IN	DS	48933 7 2 6df95e38579442e1226a707f52d96dc25f9655ce0b0cb27fa54cf33a0f75ae65
+tissueengineering.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. vAX3Cr0VcMI1fkRzwdG/Y3MAg/hWytJTtTCvILmuDCwZ3szcws+QIiMdbNHW2MYoYEFm21I5kDUZXdDOmBAuCSGiCE4HWDrus75srg/g7rLRJEm/PGCD7790OR/v4Iwxph7msgE91pKTIkkeTwVa4Cx8VYheEXcE9Z3MIEOLd6A=

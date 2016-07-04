@@ -1,0 +1,4 @@
+cityofbowmanga.gov.	86400	IN	NS	ns1.unitedsystech.com.
+cityofbowmanga.gov.	86400	IN	NS	ns2.unitedsystech.com.
+il7sbd34ofnqhq75aofvca09m9fchp40.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. rbSoN1DN5D1Ad1fluFQGHCl0NSouW/1dt8cfJjk6fIK+ktHVybHTykyrNhiVWgTDKB4tWf25NZwVoqkD8aWFIv44c19ze8bLkbVOy3fegXQq+bSPTMIQU/QnALZ4XIl1dYm9QaArFHFvK3N7fkECE7A67WQnUYWm0E25R49fU84=
+il7sbd34ofnqhq75aofvca09m9fchp40.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ilnte3lgd2cg2biqrtov99q8op4i0r6q NS 

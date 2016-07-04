@@ -1,0 +1,6 @@
+2v55rbgreac638r5ba2pbmguh8ejvtp4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. H72oti9ZO36MUHDcielTEkZfiiCPkaY9Ow2vsyiCNJDWk/iAMiLdhSqGxatq8pl6cjOQvnloprD2fRe0uRfBnXoICZDR8cuzV9+MmU5DFXHUArulGQUl/Irma6kNhd+gp7wZPDp+e1fza474IXF4l5jU53jM4Vwd/r3wfVgS5No=
+2v55rbgreac638r5ba2pbmguh8ejvtp4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  2vai2dqub5m1b9umh2kffo8jq5nsj246 NS 
+azparks.gov.	86400	IN	NS	dns2.azparks.gov.
+azparks.gov.	86400	IN	NS	orion.azparks.gov.
+dns2.azparks.gov.	86400	IN	A	159.87.28.106
+orion.azparks.gov.	86400	IN	A	159.87.28.200

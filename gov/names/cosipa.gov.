@@ -1,0 +1,4 @@
+cosipa.gov.	86400	IN	NS	dns1.state.co.us.
+cosipa.gov.	86400	IN	NS	dns2.state.co.us.
+q115cvrscgni6vhjjem3vjhb451u00hp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. TKABht821PFQ1T6zSVe+aVRfMCjacnLmd2DDiFKvpQAKxevF1nsqTjaqM4ij+FSH5ew3JM3ywWFIkM+VYknJrBVh+Jmbmns2hP1ljsZ3BDrZ7zjJDZhI/poo7Fjw5+YIGLoNQpCWvRL9pFIEuJkMe2nvKfQYDk7bvGnN55qXDjM=
+q115cvrscgni6vhjjem3vjhb451u00hp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  q17gttvgn8tpiuug82pmmveb1uf3l2gb NS 

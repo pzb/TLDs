@@ -1,0 +1,6 @@
+684tl4b4q57hgf06tc2craenigub39ql.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. iJC6qfP4K+aVjXEow0gA8HiRvqlJQdcNSwpPo2VudQ9N01Q2gt9KBhIKvey8emvnUvrOqIRNHFgC9ko2E3d6OIKKYo1KXNewgl0qPHeOUucTLJnEmy+z4gvyACwSFDXipC4qgRPp5TSjHmuK4/8og7xHzVOccDJ1PFV1SVA5fn8=
+684tl4b4q57hgf06tc2craenigub39ql.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  687tmqpmbfc4glpk4c0f9bapnb133596 NS 
+townofpoughkeepsie-ny.gov.	86400	IN	NS	dns1.townofpoughkeepsie-ny.gov.
+townofpoughkeepsie-ny.gov.	86400	IN	NS	dns2.townofpoughkeepsie-ny.gov.
+dns1.townofpoughkeepsie-ny.gov.	86400	IN	A	96.233.200.103
+dns2.townofpoughkeepsie-ny.gov.	86400	IN	A	96.233.200.104

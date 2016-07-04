@@ -1,0 +1,15 @@
+rh202ns1.355.dhhs.gov.	86400	IN	A	158.74.30.98
+rh202ns1.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2a
+rh202ns2.355.dhhs.gov.	86400	IN	A	158.74.30.99
+rh202ns2.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2b
+rh120ns1.368.dhhs.gov.	86400	IN	A	158.74.30.102
+rh120ns1.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2c
+rh120ns2.368.dhhs.gov.	86400	IN	A	158.74.30.103
+rh120ns2.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2d
+idealab.gov.	86400	IN	NS	rh120ns1.368.dhhs.gov.
+idealab.gov.	86400	IN	NS	rh120ns2.368.dhhs.gov.
+idealab.gov.	86400	IN	NS	rh202ns1.355.dhhs.gov.
+idealab.gov.	86400	IN	NS	rh202ns2.355.dhhs.gov.
+idealab.gov.	3600	IN	DS	9828 8 1 da452de6c1e5aaa6b41381979a52b7966f1233fb
+idealab.gov.	3600	IN	DS	9828 8 2 bb7515a541b9e0edd018ef59aa8bc24718e8e10c495ca5312100cc4ff33b08c3
+idealab.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. mlsramIjgIgnFU/piP6xOQgNKg45+G1Bui/ojkPY8WLwPdukrSZUyZsFVoo6KS/tZwy6YZCS/x9AlIdz1NfoM+w3oZwHjHGrtplL9DjJM/cqRN+XvHaIdrpxNzIXy6sqkebV/MVirOO+4feH2TVceEzP1el2Doov1TX4PUJ1+ho=

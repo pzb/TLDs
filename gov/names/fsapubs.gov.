@@ -1,0 +1,5 @@
+fsapubs.gov.	86400	IN	NS	sauthns1.qwest.net.
+fsapubs.gov.	86400	IN	NS	sauthns2.qwest.net.
+fsapubs.gov.	3600	IN	DS	26175 7 1 3c130b7c9d6ea6bb00d1c0d805f330cbca217d33
+fsapubs.gov.	3600	IN	DS	26175 7 2 6851965c6e1c3fdbad76c8b1ca29aabcab1558d92826a80cbff302aa7ac65443
+fsapubs.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. xyDhA8ExVmTfq3ea/BmVuMGUhRX9/6C61OonwE0TPyV6UcFFUQWk9vfBZwbYvTej5/xOqMRQvmFqlMAPNPU9X7rt7kJ1tpZmVjXug5TzFZysFB6uN5zvCEAnzQNz5lrydRgGrPjnJY3mgL8o++vkEIUVECk26N8hcGsQcmdsNHw=

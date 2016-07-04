@@ -1,0 +1,6 @@
+28svrard7dl13efc3ionapvpbkqumvaf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. o8tPt6+tz/x1uBwaqJI9n5myREI+Uxi0WpN2sPRnnjhCfB+Jj5kaqinnwzwlgYtEeJnu2z6Bs7U26xX/Gu7vP9iPPQCocce92qyG2OFT/GSZayJz2lzk7iHE/BwEgDKyEOw6nNznRP3AogekHPy7aE6BbYiqjNDhsGgFrOkRl1s=
+28svrard7dl13efc3ionapvpbkqumvaf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  293337af203l0o6c1q44t73c12finhrd NS 
+csce.gov.	86400	IN	NS	chyron.house.gov.
+csce.gov.	86400	IN	NS	mercury.house.gov.
+chyron.house.gov.	86400	IN	A	143.228.129.38
+mercury.house.gov.	86400	IN	A	143.231.1.67

@@ -1,0 +1,4 @@
+5e9a3i164fk9l05i9kak8d2q1ud96868.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. WCn0k4XWEWZ3pjcRg8qBYxOGcMlWcaENnar/7yiYuRAj+97uRO64dXBUogYydTcdvQrsCleG7vldtnw+poxkymFUJgcuYv/VRVnFb2PZfc7z9Hcbc5fOYWTedxNW9X1dRp6rqJry9RfdNTUX6FGKooB4G93yyd0mMkxg99afFYE=
+5e9a3i164fk9l05i9kak8d2q1ud96868.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5eigqvqdb3t58a625a349ama3cheo2d6 NS 
+amerywi.gov.	86400	IN	NS	mns01.domaincontrol.com.
+amerywi.gov.	86400	IN	NS	mns02.domaincontrol.com.

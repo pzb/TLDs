@@ -1,0 +1,6 @@
+l2vo41nqnep3tj17ga2disrtdfdr07bq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. XeJj2EjX9pd3NAD9nM/LrDCKuJQmzAKj9NwqDIYnmkB1m+eaYvKZIp1LRl2/UJx+WjehBNMNeircFvtEUf3HisaW6+Dwz3uikZ8J/0UzSqTQe4hhGxHWErBJoysLBTmjoTBo068icXsXwiMdT8lLwJU0jymYtTQJTi5DUQI3geU=
+l2vo41nqnep3tj17ga2disrtdfdr07bq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  l30qghe10drdq3aqc6nltgcqlom3t5qk NS 
+ohioheretohelp.gov.	86400	IN	NS	ns1.state.oh.us.
+ohioheretohelp.gov.	86400	IN	NS	ns2.state.oh.us.
+ohioheretohelp.gov.	86400	IN	NS	ns3.state.oh.us.
+ohioheretohelp.gov.	86400	IN	NS	ns4.state.oh.us.

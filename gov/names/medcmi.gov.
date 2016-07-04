@@ -1,0 +1,5 @@
+1v0ea5jjpl3lqq2ql4mn67caie2lfd65.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. llG14M6Po9KsyHvIK7L5E20s3bzL/rm515GQDpHZ2wuhRH2tJyyYUFsRDDfBrY8nChB8AVPRCUntJCnzwxoyvZiyKf9yYkAJPT+b+wJ1eIxv/NdtWKpyPo3fVtqs0xfu8IUD0gpXEEp19qoNIua02kuWxLbdeq57lFkc7XAxRW8=
+1v0ea5jjpl3lqq2ql4mn67caie2lfd65.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1vupqr66jb2mto4d1a6749l8u5er2q71 NS 
+medcmi.gov.	86400	IN	NS	dns1.easydns.com.
+medcmi.gov.	86400	IN	NS	dns2.easydns.net.
+medcmi.gov.	86400	IN	NS	dns3.easydns.org.

@@ -1,0 +1,7 @@
+fordlibrarymuseum.gov.	86400	IN	NS	sauthns1.qwest.net.
+fordlibrarymuseum.gov.	86400	IN	NS	sauthns2.qwest.net.
+fordlibrarymuseum.gov.	3600	IN	DS	46689 7 1 34cb16db6f72e821b77564cf09488d135f7bbbc1
+fordlibrarymuseum.gov.	3600	IN	DS	46689 7 2 e77742a453234269d8c0d8be1cb590774fee80f52cd8643f83eb06712e005a7f
+fordlibrarymuseum.gov.	3600	IN	DS	65443 7 1 78cadbbcd4d8b593abe9a323f0dad9ba4cf62045
+fordlibrarymuseum.gov.	3600	IN	DS	65443 7 2 494a783a49d1689f5efc972c8815a53d8b40f291b418a1e617146a408faab793
+fordlibrarymuseum.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Vc1llK7uarypMJiNflkLo+TqLB3oiDckqyeoFRCgAURHBxNkXgjg3RL0ACfYrb75KbMzU5wWiRr8rfPTxCh2hZBVHyE/5cKFPMezFncrIG6LXWNXjSPOtMo0k7okIgk3r2QkpnPVFLiG+y3ol0G89wPuWGZ1rvMtDnpE0LZQBpE=

@@ -1,0 +1,5 @@
+lauderdalecountyal.gov.	86400	IN	NS	ns1.dnspark.net.
+lauderdalecountyal.gov.	86400	IN	NS	ns3.dnspark.net.
+lauderdalecountyal.gov.	86400	IN	NS	ns5.dnspark.net.
+qeautp6ea44v9jrrcaj5rk0aafa1ca9d.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ijeBagJb3eYzD/wMxBCWhFU2G0TzpofnPEr/WgXCz9Db2fzS0Ab5OAUOghgvL8xfiCMUhGDrEspxSG57OjsS3cr/8BEEeE+EdDhSYB2CjyRoocckBASSFVvF+NeP7aiQMle9EyScQ2gmiD9A37ADAVjMt60eTZgzxnCkkm7hLjQ=
+qeautp6ea44v9jrrcaj5rk0aafa1ca9d.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qebb3eb8teuv5n32fjb6nib4i66so64h NS 

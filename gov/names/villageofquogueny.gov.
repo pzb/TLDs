@@ -1,0 +1,8 @@
+d6pqgq1sdgu7jfch5khbkm3ko1amsg5c.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. aIz9djrsLt3a9of5CZcD3aijX/SkJ3dlHuj5ifjvp7CKPcDWC26U8ZA0vuj2nZOcKZAqDmX7AY+dORUuwPYSU7mVxeJV6qRx6w+8y0HbU+Lk568ADsLG+hgS7w8Lb/tyhVhBIJ+h+Uzw+LAI44P9B6eLyu0LuSO4WwJhxtGc3Xg=
+d6pqgq1sdgu7jfch5khbkm3ko1amsg5c.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  d6q03melhm07t2spifd22an7h33gd8ju NS 
+villageofquogueny.gov.	86400	IN	NS	ns10.dnsmadeeasy.com.
+villageofquogueny.gov.	86400	IN	NS	ns11.dnsmadeeasy.com.
+villageofquogueny.gov.	86400	IN	NS	ns12.dnsmadeeasy.com.
+villageofquogueny.gov.	86400	IN	NS	ns13.dnsmadeeasy.com.
+villageofquogueny.gov.	86400	IN	NS	ns14.dnsmadeeasy.com.
+villageofquogueny.gov.	86400	IN	NS	ns15.dnsmadeeasy.com.

@@ -1,0 +1,15 @@
+dns.gsa.gov.	86400	IN	A	159.142.136.198
+dns.gsa.gov.	86400	IN	AAAA	2620:0:150:280f::5
+dns2.gsa.gov.	86400	IN	A	159.142.150.68
+dns3.gsa.gov.	86400	IN	A	52.203.230.235
+dns4.gsa.gov.	86400	IN	A	159.142.69.84
+dns4.gsa.gov.	86400	IN	AAAA	2620:0:150:4013::5
+dns5.gsa.gov.	86400	IN	A	159.142.45.20
+kids.gov.	86400	IN	NS	dns.gsa.gov.
+kids.gov.	86400	IN	NS	dns2.gsa.gov.
+kids.gov.	86400	IN	NS	dns3.gsa.gov.
+kids.gov.	86400	IN	NS	dns4.gsa.gov.
+kids.gov.	86400	IN	NS	dns5.gsa.gov.
+kids.gov.	3600	IN	DS	2185 8 1 a661a85add6e48b2e4e54474393623a0ad68028b
+kids.gov.	3600	IN	DS	2185 8 2 db7796b158663abd970c50719435f3782fcb5a93dd867443a9e93062f4f4111d
+kids.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. q2BDZw0t8eIQoU3+oqBZBxynRCCiowtxZybhkJrzSD0cqxJC07pf1vEOxgKYx0/Jk0a1rMzCW1JuilS106kSV0LPT8VWZAfCpwDXRFGs+E3767Oky/snB9rLClEeAmjnR8vSIM3bgRZusMezvyF8Doj0vnkJVFmHX8nawql0tgw=

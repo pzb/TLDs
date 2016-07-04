@@ -1,0 +1,10 @@
+greenvillenc.gov.	86400	IN	NS	dns1.greenvillenc.gov.
+greenvillenc.gov.	86400	IN	NS	dns2.greenvillenc.gov.
+greenvillenc.gov.	86400	IN	NS	dns1alt.greenvillenc.gov.
+greenvillenc.gov.	86400	IN	NS	dns2alt.greenvillenc.gov.
+dns1.greenvillenc.gov.	86400	IN	A	198.85.220.51
+dns1alt.greenvillenc.gov.	86400	IN	A	173.219.97.6
+dns2.greenvillenc.gov.	86400	IN	A	198.85.220.52
+dns2alt.greenvillenc.gov.	86400	IN	A	173.219.97.7
+i8sfabo0fbvbkm44lsfses05d5aorfm8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. kW5qrhkqvpL3u6fxh/qky7dkBNXofB1pPz1VzgHHkEtfh6Tn9DTGccpjESEyB3grzUZKOxzff/ayixMHz4IHXuja8VBbg8u1QFVrG2lhEaBSAq1+DYj0QLokdOkPCLh3WeAZ0Fg8QY4imN+a8thw/Z8fQwMRl2mledytYMHZ5vU=
+i8sfabo0fbvbkm44lsfses05d5aorfm8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  i8st30tnl3hhr57q7ikl3clslukel1gs NS 

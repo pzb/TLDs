@@ -1,0 +1,7 @@
+usgcrp.gov.	86400	IN	NS	ns1.p26.dynect.net.
+usgcrp.gov.	86400	IN	NS	ns2.p26.dynect.net.
+usgcrp.gov.	86400	IN	NS	ns3.p26.dynect.net.
+usgcrp.gov.	86400	IN	NS	ns4.p26.dynect.net.
+usgcrp.gov.	3600	IN	DS	42214 5 1 d5cffd3fdfc619c9e5eba1a87b337b5faedbc00e
+usgcrp.gov.	3600	IN	DS	42214 5 2 690e82668cf3f622b0a2a0d7d7907384fe01d083ede58ee335b67cdbde88b276
+usgcrp.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. VYMiry+V1DDjrRAu9RGNuArcnPd8xVvPMNgerzLCJdxNA60XIFt0vFVKd++e86juf+RYhW2tJVhvNYvhf6MHP7wkhXIvrso3o85Z3jFhKyeyiD8vnZIXo1Ik+aTpIus6OT2Rn6IcvSszIj/8qU/3agKg+iAFJmMkXmPqjb3YcDs=

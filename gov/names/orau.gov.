@@ -1,0 +1,5 @@
+orau.gov.	86400	IN	NS	ns1.orau.org.
+orau.gov.	86400	IN	NS	adns1.es.net.
+orau.gov.	86400	IN	NS	adns2.es.net.
+orau.gov.	3600	IN	DS	25621 8 2 bd66b01b7a45da15b6615eb2538f6bf9b0e0ce85ec4bb787d5292690f6aed490
+orau.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. c4J4MhcBUqeHqEDwACdFkF0d/9thQnEtaN8BhidmeCApU6qU4bGUxbN0irAs+s+uwTb4egcRblyNNc4aqjB6XD1q0gF7Lj+pDzUK/godjqgkisyo9PvAhriQr50nLRlc5gy+xfvUAdmn9oX2kwlHgPJ6RBZV0Nnd9uqdxHFe5oY=

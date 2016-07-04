@@ -1,0 +1,6 @@
+1hovsb2s7qm6qfr1e45a40smo0vv6k2v.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. yF1KrpEUAsHlnSz15tZlhx58BPe41SS6u8cHft80L2tVufEin318AiDlhUlVHZYST59Lr1kg0Z2jPQEknO6MSOwoozxnViexWk5WTaFcinjiyxy8BHJ5Ngd9dHWfdn4H4km6SLNIcej3n6gYKti3mBrmnmA3PyYKPq85muL4tek=
+1hovsb2s7qm6qfr1e45a40smo0vv6k2v.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1hsucvloj7nhg0432akebqo6cacgfcs6 NS 
+azpharmacy.gov.	86400	IN	NS	ns-153.awsdns-19.com.
+azpharmacy.gov.	86400	IN	NS	ns-861.awsdns-43.net.
+azpharmacy.gov.	86400	IN	NS	ns-1523.awsdns-62.org.
+azpharmacy.gov.	86400	IN	NS	ns-1663.awsdns-15.co.uk.

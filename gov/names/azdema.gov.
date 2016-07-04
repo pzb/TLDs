@@ -1,0 +1,6 @@
+18aro3e4kmabnjb085kpvv16u2ki6f0q.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. dF1S24XX0ahvMmJgzKSxbu4IYAELId160ZtITJW82hCuE/o/VeTbCT7y0fxc2mm5EXMx8smaALQnOtbv+VGlRpzF485oBxry4VE1yKhnaDX3HY4NmMxkla5eGjJSDsXsjGRZQxlYs9g2VH/l+umZbFed4iWBfUhYbU5vTSY3Q8k=
+18aro3e4kmabnjb085kpvv16u2ki6f0q.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  18b4ae97mnjs0bciloab045paf7bjp2g NS 
+azdema.gov.	86400	IN	NS	ns-123.awsdns-15.com.
+azdema.gov.	86400	IN	NS	ns-868.awsdns-44.net.
+azdema.gov.	86400	IN	NS	ns-1240.awsdns-27.org.
+azdema.gov.	86400	IN	NS	ns-1993.awsdns-57.co.uk.

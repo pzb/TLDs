@@ -1,0 +1,4 @@
+6vs3lf6enq7ekuom4rk96s7vgvlsj8f0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hMdtsvZyo02UIDSXmQx99tziGxpvYw4WTxcPwfAvygG+v6WrlS8I7p3U2UKoUBCJ350MGVNJ/x8rcHHLXdekiEU5NpgQjWKTKZ14jkahO/Xhbojd7Hdat+FmQBn0NhdjI7+Ln/AUvdY2/35xDEem3XBeFvhxLsw3hubqjxrxf88=
+6vs3lf6enq7ekuom4rk96s7vgvlsj8f0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  70b6n5lqakjbb6cp6915lnhsgjj8gepj NS 
+kansasready.gov.	86400	IN	NS	ns1.ksdoim.com.
+kansasready.gov.	86400	IN	NS	ns2.ksdoim.com.

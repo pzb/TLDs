@@ -1,0 +1,4 @@
+7t3nu6iqoildu4eldcqdg0re16hvicfn.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. LCO0/8gyPOfZMiSsTPdnxbZizOd0REthRkDR5vUO0KUGWP0zNQtPbc/UaSH8YOsFKYdgCZULBiVJf17rN91N1d3bUSKKwma3OEbnOwcvsFNzUpe2U7sUMSImJQWlQbZeVCES3v2Ktp01q5HjrII3N9fcn+EP9+iaX9bj+7uaQ50=
+7t3nu6iqoildu4eldcqdg0re16hvicfn.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7t8p2pccglbn1e01dp18cud0r9l6navf NS 
+rstwater-nsn.gov.	86400	IN	NS	ns1.gwtc.net.
+rstwater-nsn.gov.	86400	IN	NS	ns2.gwtc.net.

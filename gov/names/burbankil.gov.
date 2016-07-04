@@ -1,0 +1,8 @@
+burbankil.gov.	86400	IN	NS	ns1.easydns.com.
+burbankil.gov.	86400	IN	NS	ns2.easydns.com.
+burbankil.gov.	86400	IN	NS	ns3.easydns.org.
+burbankil.gov.	86400	IN	NS	ns6.easydns.net.
+burbankil.gov.	86400	IN	NS	remote1.easydns.com.
+burbankil.gov.	86400	IN	NS	remote2.easydns.com.
+moege9195shqd2cm2lietb5mkvab4m97.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. U6/77Sq7nj5Nl7dl/v25uYFVrI3yuMb9qNKroRB/poZQd+/wNTwJe5z8e9p/Hp7lVn/ggyXBcpuHHGtFxTVFLvv22QBSJGtPB2zKyI+g31/nvqdnFWzY92Q++ujRzQ1kRQgbuAZ4bA5h7Dr2lCtVE1y8dHsG6KHtE8f0v0Uw9j8=
+moege9195shqd2cm2lietb5mkvab4m97.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mogtk4bj077j2dvjfb5n2v6757fceph3 NS 

@@ -1,0 +1,4 @@
+2ktj7h962dlcvddlv5nb1bqi4uhs0huf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. tkS5t9gDyWCu0EaA1nz1qn+OJGQE91P2pWnx4lLYhngCFU+4uPrzcujz+UPem6AAE5B9JzR6HdtkkSr6znVMKL1RSlKhBpFzFveQzaU2bUQiAjhZH2AI+uaxgn6LXlJv2pRMeMk4j4Sx9GBa6RNLv9Pq+LHtO0a3OwAJyyzKYbQ=
+2ktj7h962dlcvddlv5nb1bqi4uhs0huf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  2l5t3friid28eg1j65m19j1eajvooujl NS 
+northforkrancheria-nsn.gov.	86400	IN	NS	ns1.netptc.net.
+northforkrancheria-nsn.gov.	86400	IN	NS	ns2.netptc.net.

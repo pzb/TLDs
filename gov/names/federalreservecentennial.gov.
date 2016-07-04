@@ -1,0 +1,8 @@
+federalreservecentennial.gov.	86400	IN	NS	a5-65.akam.net.
+federalreservecentennial.gov.	86400	IN	NS	a1-166.akam.net.
+federalreservecentennial.gov.	86400	IN	NS	a10-65.akam.net.
+federalreservecentennial.gov.	86400	IN	NS	a11-66.akam.net.
+federalreservecentennial.gov.	86400	IN	NS	a16-67.akam.net.
+federalreservecentennial.gov.	86400	IN	NS	a28-64.akam.net.
+federalreservecentennial.gov.	3600	IN	DS	47880 7 1 8c4cbefc1e7ae6bbb147a2c60d87f4e17027530b
+federalreservecentennial.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. lEkvj3l9c459AvGHMVkttM4m0hjGtOAQZ9SobSy07IUE1z6dJcrNwN6Sapu4pLS2dnmLQGKpbOua6ec5UTsNa7dvJonSWZ6CWu/+Apd/4bSTHku4bLFdi25S06AwSINH93n5FHRRGTZg8KLAR3iVl6m1FclXfmQBZS6r0uDV1U4=

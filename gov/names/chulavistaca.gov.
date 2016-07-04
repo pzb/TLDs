@@ -1,0 +1,4 @@
+7k9dn75ijg7j2jv5h4149fv7ue1jorcm.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. v767RSsonoMKz8ou4cB2xvdWMA+007KUWv3RoSG8+6yyc+6kLnJ6GTLukMzYZvoDIlQEkPgIDNPSnPSIXdFG1/vxcR0jRkiiop1Z33CkDGcgG7mUCDJW2E/sZXZb8oNxtjyMySSJGVE73V21cz+Dlf9KOIWmRv4dFR12tYzOy4Y=
+7k9dn75ijg7j2jv5h4149fv7ue1jorcm.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7kjupkd66mdk0p105d5683llmido90nk NS 
+chulavistaca.gov.	86400	IN	NS	ns1.cox-sd.net.
+chulavistaca.gov.	86400	IN	NS	ns2.cox-sd.net.

@@ -1,0 +1,4 @@
+947u62stdrsjbcbi2avaecu4pg1pgup8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. gx7o6jz6TkgmbZmI1UquixesyP1GWyqz3+JUn540wlAK1zF1Tf67jUf2m9Mra/Xp4eRlUKUsswdHDfsn71TjgRXM6YRj4+QuZT3lqntI6EZh3aWjJvRrBurXzepJkqoYetS/+KNVSjVtDb8EsS6seYkI3wJg2fwwdMisQzWl6Ps=
+947u62stdrsjbcbi2avaecu4pg1pgup8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  94dr8tlhb72cti8m93flsh4om220ooi9 NS 
+brazoscountytx.gov.	86400	IN	NS	bcns1.co.brazos.tx.us.
+brazoscountytx.gov.	86400	IN	NS	bcns2.co.brazos.tx.us.

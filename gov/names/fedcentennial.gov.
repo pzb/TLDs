@@ -1,0 +1,9 @@
+fedcentennial.gov.	86400	IN	NS	ns3.frb.gov.
+fedcentennial.gov.	86400	IN	NS	ns4.frb.gov.
+fedcentennial.gov.	86400	IN	NS	ns5.frb.gov.
+fedcentennial.gov.	3600	IN	DS	32979 7 1 b66c2569a4097d8833accb101713c147c4662640
+fedcentennial.gov.	3600	IN	DS	32979 7 2 dae3b332c22e245537d0d5512630b2a25af61780a694102822697d6aab602a69
+fedcentennial.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. e6tDAkUCQ85fM1ZPRAJyBELNteWraTK6mrvEzxVXhjR77TgylzlyFSDH2P+6hpEvB8aKx0kDhLkHjdLYb4RukKRRBVYz8e8jen5WY7wWYW1Kg9qiiu/f/ihGQ6QGwPXttCWZR0CZv+8Ld+/Tdqm3B9npuhVrVR/f8AdqCMbmlL8=
+ns3.frb.gov.	86400	IN	A	132.200.32.112
+ns4.frb.gov.	86400	IN	A	132.200.32.113
+ns5.frb.gov.	86400	IN	A	192.26.194.134

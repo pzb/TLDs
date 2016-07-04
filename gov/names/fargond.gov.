@@ -1,0 +1,4 @@
+fargond.gov.	86400	IN	NS	ns3.ndnic.com.
+fargond.gov.	86400	IN	NS	ns3.state.nd.us.
+rksbtga4nsbv6tpq9i5f410437cbomq5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Br9soNfkqwy9hK9KLgPgwrp+heTPS9mKi4MWkfb174Z3h4VfZ9WLGnhF1iJ6Whs8bxbw1vE8D9B6DHI5hDPJCLqep7SDCuUnaJ8malzmMYwNh2LrKdEvIyUVOHD294VbthfclhyFjLgP/sVwk3JowqUcIPSsyUGrzpXybjRIPVE=
+rksbtga4nsbv6tpq9i5f410437cbomq5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  rl02fpr8b5kgkb54lh66cvsmadlp8cs7 NS 

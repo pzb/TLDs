@@ -1,0 +1,6 @@
+9ieptp29pdl16q08oi5a44v4srfs5m4l.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. P26Djp1Aw8ony1FmLhveAy1AdyU3N2bItSAySnQdAb96KdvPFnse4TPnqC/N8YjtyObLtXP9n3ojyoj/FvixIwnJAw3B90CkcH/oW/6YxH0T/cKM6OUe4vGRpEujeSWGjgiNM0zeoPOVKE4YheRLkErrJI+p1sH8Eii0PJnKT44=
+9ieptp29pdl16q08oi5a44v4srfs5m4l.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9if3t6tdh1nn0q155ov55vdhm53qot3h NS 
+columbusoh.gov.	86400	IN	NS	ns1.easydns.com.
+columbusoh.gov.	86400	IN	NS	ns2.easydns.com.
+columbusoh.gov.	86400	IN	NS	remote1.easydns.com.
+columbusoh.gov.	86400	IN	NS	remote2.easydns.com.

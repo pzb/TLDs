@@ -1,0 +1,4 @@
+hopi-nsn.gov.	86400	IN	NS	max.ns.cloudflare.com.
+hopi-nsn.gov.	86400	IN	NS	zoe.ns.cloudflare.com.
+uujvjjrfes5qtnp3649goporjn22tk60.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. GwJadwz9At1vfecxeGaoRU7p4psbwKekCMyiMAzh1X8ldkXrxg4LGVUxkutEOXuFjAJW/Yy2TEm3sw/YKarNddO+MDlni11xvXoOJKYYAR6JcKFMe7ZasUxcVmeEjQtKXPcyoBCy/vRe+T4KM/zFeDV3a4qQExX/mBexggMswuc=
+uujvjjrfes5qtnp3649goporjn22tk60.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  uuln2kotq2ppu91tnu4rofstrtscpnmv NS 

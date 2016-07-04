@@ -1,0 +1,6 @@
+0vk2e4p1v011br45n51pu0cgscms3g8u.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. QAMKdxH9olQCvF1e+ywKJ/wFKLuLrJZbVbtNYaQ/MbtEXAJOBtBgTmrh8QPsoqnb1GRZEuUrBbQvfSaj3xi13e/Ws3Q2X5nSr57g3jx+cxJxkhTVpQYoAUwVJCctFQL8b490ZfAaCav+4DCr31kyUL9G1Wl7W57M3vvWRAb14J0=
+0vk2e4p1v011br45n51pu0cgscms3g8u.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0vshaggoe06tta1pgo303i3mgv6s4mp5 NS 
+greenfield-ma.gov.	86400	IN	NS	ns-17.awsdns-02.com.
+greenfield-ma.gov.	86400	IN	NS	ns-831.awsdns-39.net.
+greenfield-ma.gov.	86400	IN	NS	ns-1221.awsdns-24.org.
+greenfield-ma.gov.	86400	IN	NS	ns-1991.awsdns-56.co.uk.

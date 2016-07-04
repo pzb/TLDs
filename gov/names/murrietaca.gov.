@@ -1,0 +1,4 @@
+murrietaca.gov.	86400	IN	NS	mns01.domaincontrol.com.
+murrietaca.gov.	86400	IN	NS	mns02.domaincontrol.com.
+rqv9u0ocek37tfhafqgshu28eksqeoek.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. puhxK1vl8WRUVidaAbzIv/p9cUP6wMEFfGz0scYJ2ON7YciQbYJR9N/eGLhXLdYba4VozyWWrtbbOQTk1Yd7O6258vWvor1Pa3AAh06DlSGbRoVC2RlrWsU2uxsz/SbEfn/hkmo2JoeOCRn9T11jtdhNDGgoC/ts79KNlSHOdSA=
+rqv9u0ocek37tfhafqgshu28eksqeoek.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  rr0kj15i3e7qb5qf5qv5eas6ujvtb9h0 NS 

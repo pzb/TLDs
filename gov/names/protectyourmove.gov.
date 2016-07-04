@@ -1,0 +1,9 @@
+edns1.dot.gov.	86400	IN	A	204.68.194.100
+edns2.dot.gov.	86400	IN	A	204.68.194.200
+edns3.dot.gov.	86400	IN	A	204.68.195.200
+protectyourmove.gov.	86400	IN	NS	edns1.dot.gov.
+protectyourmove.gov.	86400	IN	NS	edns2.dot.gov.
+protectyourmove.gov.	86400	IN	NS	edns3.dot.gov.
+protectyourmove.gov.	3600	IN	DS	53206 8 1 ed4517e6d6e2d82b01c207159c0069ceb8696c1a
+protectyourmove.gov.	3600	IN	DS	53206 8 2 e4f11354fc17c49ba3e91780c8288a6e20f8190441072a09bb89b91390c0a08d
+protectyourmove.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. o/jZqQHIBbSDB0kl+aYhYymx/XUuW0sMSnw+NGCZ1UEDT6yaV7KiBKsWO+l48JvrjS4crwvWjylOtBmqrx3mTLjNmOS9hQ+WOfjurwXJ9ZNkNGyBJ4/g9MiHQ+htIBcV4tMErrcbYWqWG+E3pMaCOr1XkqFmxPL+df9ZYWpFlDM=

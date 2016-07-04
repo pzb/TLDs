@@ -1,0 +1,4 @@
+mvpd.gov.	86400	IN	NS	auth1.dns.cogentco.com.
+mvpd.gov.	86400	IN	NS	auth2.dns.cogentco.com.
+t2sf67cl1sbnv8psep5nrl1rqfdmg8t8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. B/94ekW/cd9vieaHSSAjRrUXvpix/8xrEEwKz0u+asKFWeOvci9bPMZ2ydimyFxjJYId0Urj4S8GfVq53nBCZ0scufscM+gDbY6Y/MZdEKRR1I1jxYTGhhlo4WPGF9Nz1QrOxxXk1iBO3itDC/pY1bRX6KC76c8l/SNHQtKE6ZM=
+t2sf67cl1sbnv8psep5nrl1rqfdmg8t8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  t36ankavd4idikmd8v6f2q7n583e9tgq NS 

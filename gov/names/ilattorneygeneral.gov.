@@ -1,0 +1,4 @@
+cmn319oj7jvfb3u3t1tulvdvak9rjd2j.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wr13pPOmOdBnQAEnr9B2jXSFupm/Y+CjYL5h8b2WcWD0SA79tHM02sJIB0VK3DEQx6i/g1fe98gD5l1c0vxpjwbDB4AvxtZb908dMvOHceeU7G06G6VF+Bcqo+YGRrrKG4lGSiDjv1rx722CrTXaobJy3qwAi8wcbSuxLl3VUf0=
+cmn319oj7jvfb3u3t1tulvdvak9rjd2j.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  cmrh95sblv03k1opq8v3hiavv5fgu3d4 NS 
+ilattorneygeneral.gov.	86400	IN	NS	ns1.ilattorneygeneral.net.
+ilattorneygeneral.gov.	86400	IN	NS	ns2.ilattorneygeneral.net.

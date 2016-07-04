@@ -1,0 +1,12 @@
+globe.gov.	86400	IN	NS	ns1.nasa.gov.
+globe.gov.	86400	IN	NS	ns2.nasa.gov.
+globe.gov.	86400	IN	NS	ns3.nasa.gov.
+globe.gov.	3600	IN	DS	7729 8 1 b7ba3680d4b438dc1ba4d9e745a833cb7e317de2
+globe.gov.	3600	IN	DS	7729 8 2 fa3d28ed1253dda55c47a73f2c3151e35ef9d7cccf06df1b985ace0f17827c71
+globe.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. xA8KiC/wx15n+51HG7CDLuNuraN4ZTYwTh9IDgxNjX2/Y/f0BF2ons2tkp/vAr1u6c8PgkPvCyVl/dq++4PMQWghaKjr2VqDAn/RvalJSutVVi1+wM8leZdKD/elykC3b+A5lUiaqL6nU9cll+kTxjbZBYF7jb8hdAhEVB54N3k=
+ns1.nasa.gov.	86400	IN	A	198.116.4.189
+ns1.nasa.gov.	86400	IN	AAAA	2001:4d0:8300:401::189
+ns2.nasa.gov.	86400	IN	A	198.116.4.185
+ns2.nasa.gov.	86400	IN	AAAA	2001:4d0:2300:401::185
+ns3.nasa.gov.	86400	IN	A	198.116.4.181
+ns3.nasa.gov.	86400	IN	AAAA	2001:4d0:6300:401::181

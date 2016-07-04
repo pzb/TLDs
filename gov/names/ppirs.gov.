@@ -1,0 +1,6 @@
+ppirs.gov.	86400	IN	NS	ns.jtfgno.mil.
+ppirs.gov.	86400	IN	NS	ns.cybercom.mil.
+ppirs.gov.	86400	IN	NS	ns1.csd.disa.mil.
+ppirs.gov.	3600	IN	DS	48799 8 1 278975e34423e672f6312a892c55433b23e12db3
+ppirs.gov.	3600	IN	DS	48799 8 2 5b583f3309b99e2d78309480b56f1c4ed6a31e06e025af68e2153251996bdd8b
+ppirs.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. k1cEl8DJZgCAO4IoAn2x9tzireaHh/cbOrvq/VPbskKE8oyLTFftCQu3z8FcRerg2Od1AYXXurG8Gl82OfetPpPN2fCjFhubYtFqcSnm34Hh4v61Wdl8YK0QGQ6MoAUcB1ZOQ/2ppxJ8wnxR6VogTFnf2iWxKp8bvZD/AKsnxoo=

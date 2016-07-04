@@ -1,0 +1,4 @@
+h1v37f1sna547lgr8t032vg4tlj1vqsf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. nH8CsGWrc2P9bqt/ntgphLnsnWivyTjuNltXvF/2o21TmGWL4DiCA57rQbB0EiCwvtRaPAlzzRkyqQed3pOP4KQmmcEsHgTuIw9DkVqGaC/jcm7Th9nyzDuvlGMG9CoBGZMUxbHhU2z5uxQNDbV6iHVuu7RP84LpqAllMjHDxNI=
+h1v37f1sna547lgr8t032vg4tlj1vqsf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  h2csp40k946ac1s4ql2baqion6eak3o4 NS 
+meadeky.gov.	86400	IN	NS	ns43.domaincontrol.com.
+meadeky.gov.	86400	IN	NS	ns44.domaincontrol.com.

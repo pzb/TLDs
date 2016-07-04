@@ -1,0 +1,4 @@
+bowlinggreen-mo.gov.	86400	IN	NS	dns1.civicplus.com.
+bowlinggreen-mo.gov.	86400	IN	NS	dns2.civicplus.com.
+l997k4nb8q69olu97vpbpebahis5d7fs.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. lmeRpnBVn+KX9z9ocjl1KK65usfCGsYNNEejVIZN18bxl3BRR20NWHP72Zl/SHbaa7zCUfOawOycZk1lCGXinUpBOFC1Z2imETeakPi8Fap8XzpeFuHGZh1eyIni40wIRSPQjCjba1a1VyRbesN/GpUERyyYpYdxIO/GBeRrr0c=
+l997k4nb8q69olu97vpbpebahis5d7fs.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  l9bf1pkei3krj1qlgcbns7foqbdek7o1 NS 

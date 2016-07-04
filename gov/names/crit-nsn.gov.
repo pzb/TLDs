@@ -1,0 +1,4 @@
+crit-nsn.gov.	86400	IN	NS	ns1.convergentaz.net.
+crit-nsn.gov.	86400	IN	NS	ns2.convergentaz.net.
+tnt9o1n91nuj8ibf2eiecpiaoj0novcl.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. RPS9Oq5MPCeJSHylnfNd6qeZg3mIvZFS/uhNS8oLXXwctmM9utHTX7OkEeTw6yJFpE5MTa/CcWpppg0kLzXfQ7IQWJVgKJQLop7V/bLK552DC4UFeEiEyE+pRW4mabnh9qUBcOAC2TfLIOyuZOFya8U6hTDgfr5eycjR5vX0GME=
+tnt9o1n91nuj8ibf2eiecpiaoj0novcl.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  to12sg9k434agtajnuv6hqfq4e90tbot NS 

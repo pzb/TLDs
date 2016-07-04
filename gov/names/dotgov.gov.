@@ -1,0 +1,28 @@
+dotgov.gov.	3600	IN	SOA	a.gov-servers.net. nstld.verisign-grs.com. 1467609001 10800 3600 604800 3600
+dotgov.gov.	60	IN	A	69.58.186.123
+dotgov.gov.	3600	IN	NS	a.gov-servers.net.
+dotgov.gov.	3600	IN	NS	b.gov-servers.net.
+dotgov.gov.	3600	IN	MX	1 aspmx.l.google.com.
+dotgov.gov.	3600	IN	MX	5 alt1.aspmx.l.google.com.
+dotgov.gov.	3600	IN	MX	5 alt2.aspmx.l.google.com.
+dotgov.gov.	3600	IN	MX	10 aspmx2.googlemail.com.
+dotgov.gov.	3600	IN	MX	10 aspmx3.googlemail.com.
+dotgov.gov.	3600	IN	MX	100 dotgov.gov.s6a1.psmtp.com.
+dotgov.gov.	3600	IN	MX	200 dotgov.gov.s6a2.psmtp.com.
+dotgov.gov.	3600	IN	MX	300 dotgov.gov.s6b1.psmtp.com.
+dotgov.gov.	3600	IN	MX	400 dotgov.gov.s6b2.psmtp.com.
+dotgov.gov.	3600	IN	TXT	"v=spf1 include:spf-e.verisign.com include:spf-w.verisign.com include:spf-i.verisign.com include:spf-p.verisign.com include:spf.postini.com include:_spf.webinfinity.com include:_spf.google.com ~all"
+dotgov.gov.	3600	IN	RP	registrar.dotgov.gov. registrar.dotgov.gov.
+dotgov.gov.	60	IN	AAAA	2620:74:14:2c00::7b
+dotgov.gov.	60	IN	RRSIG	A 8 2 60 20160711041133 20160704041133 56339 dotgov.gov. iEauKvg9z9ThRw3JpugT9gTgj17zPhJBUPOn6MUSPjknmdYYhZMZVmzNz9eHUgq5uriOdK7p50bqSWIosWbLIi2OfJjT85wsOqBhn7gBszYZRtW60sXGv/FNlcXNhtaDTcAPA+stVXy7R5kWXtcv3ZR7ygqJkty5VOIL7baCE58=
+dotgov.gov.	3600	IN	RRSIG	NS 8 2 3600 20160711041133 20160704041133 56339 dotgov.gov. ca9J4HJ77Q0kntWCJf+E8Xw3Afht0y9yLyDNGrdYb124c3/O/mP9QR1ktgQUcibLb51SBeBsrff2cMi1qHaRyLO/qxCfnJtH+JC2kgvHRn35rxXQ0Nau/qktHJq7kfGixnPcGYu14mmu2z82Qd7FHEtgV2PTehLp9CI44nseYoI=
+dotgov.gov.	3600	IN	RRSIG	SOA 8 2 3600 20160711041133 20160704041133 56339 dotgov.gov. a3v3+bGjQTAnjsxgJKxsvutI++1emfG1KM2ul7UIAwwvLEDSG/+fO2GcqqhsYBpHt1B4ntGcsuyG5aA6I2FRRduYJwEwNLqZDgiikLX5STs8FN31AdQejSOAgCuFSpR3KTi4+psR5ARRRi4f1vITWlLxovw8z3kOPQNAUTmM2oU=
+dotgov.gov.	3600	IN	RRSIG	MX 8 2 3600 20160711041133 20160704041133 56339 dotgov.gov. U+CKvR9T4MSVyUica5bPoLO3KBJrWJzBIovrqEWwk8aP/2O+xroZIXqMmzICOVubmjpsw5IkW/ZlWmsxnyjm7Uxy4p31ni1aDeK9HY6RogxBuivTSOh6Lpj0bRCy7laA0vCaS755DSyhJ7xXTCjeCiWqc2DzTeDxpCL2B/qMZNI=
+dotgov.gov.	3600	IN	RRSIG	TXT 8 2 3600 20160711041133 20160704041133 56339 dotgov.gov. RRlHziBvuusClWUtAFBBFFzbUY4PSdsVbisXyXNCGsH5uGcQF0rCAJ4ZqvA2I9/L9ed+cQkfoJZD22tuEJF+5VMfX+AV7jtCCdzQxqxTDpE3HVLdQO+U/EEOO++WWYofevBlKuOfins13Cj30tKGNCXO0Mkl/z93YSM5vfYWR6k=
+dotgov.gov.	3600	IN	RRSIG	RP 8 2 3600 20160711041133 20160704041133 56339 dotgov.gov. lKplgKSGDx527xU72cEl8YeZnaU/O3HlEt5g75fqrrrvuYDNnzvFyYQ9NWhXU15M6Y8PgvDaJNu499B4JzXvah3R1Ftu2bpVbZPjhMt/2mpJCS3kAZQImhoOPPrzcPXklhAqgSTAaByElDvnRtXmbXYEJ1f6XZn8/22ozxOoObY=
+dotgov.gov.	60	IN	RRSIG	AAAA 8 2 60 20160711041133 20160704041133 56339 dotgov.gov. quleqAkwPXXvJBuHqmAwwq62p8N6fmJbFng2ASpqGvFj33ykCCaRWpz8gijw7vB5k4ihvMTmKg3IPJKsDYVMyYu55s97F39R7BlYRnJEhBbzZtKqnCjEQhGa3lwW/qzNoelu8qYxPVvwJwF+l7DPfPAgQpwLN/ERvExWt+bjkbY=
+dotgov.gov.	3600	IN	RRSIG	DNSKEY 8 2 86400 20160717211647 20160702211147 9549 dotgov.gov. s8dMGmqdvs+8+R6757TNv/4MJ+VEyvuUq7I+y9LiNN68eo+FCT73IW70+VrVZ7iigI4dRw45aMnbmTHv6tWl7h4YW71MxXCAAGS4Hd0xRLhXxc2gdZd+vm/DXumnRwMvnS+3Fd8B/IzrMLQQ0SD9wW5Qt5vmy0LNF76DdeE+ZOAJe8J6xcrlMAnNgDx4Kb7vHS9NXpwfsbPhT0wx+jOob8b0b7RDhQdYW+YFxGQhk6OxuCnjKeU+DO+9TFkJv/7VE8bSByrYVZSv5tZ+cxFC/sAQ73Su2MvWO/hvDVndiM8c2JEhOpCRpR8Tn63KEIkvUK8PJtQIrtQlNE6DkB2oGw==
+dotgov.gov.	300	IN	RRSIG	NSEC3PARAM 8 2 300 20160711041133 20160704041133 56339 dotgov.gov. Dpl398DkufOOt+iNZQBQi/I3b/eTmJLPyK7LihYRCiIQ9Lne19si+V7ad1QMQgYfXNVXyKBkZ19bG5zQi5BYWoEtPbczCa4fkbH2BO1gRj1dUfKr6WvUQ3MThkGBqKHofltuAnWthkLCe5SkoJikm0EHY3KjqRE3euAB51mK4eY=
+dotgov.gov.	3600	IN	DNSKEY	256 3 8 AQOrCOCxDwh+U+jomNsXreCRUGYPMVfW+VxzAv56R0M5nwhkTBiU7ZnzL0eKFDcmOe6HSQ2uSLbpLG7nxaYbuslwLaX/JkHsd6+02IZNoFSuaQYFQO7uBv3Da1P6dcd8l2LaD4gGqS3bGNp5q94kHtWfVRJaT6yXcWGw1DYRzjvBvw== ;{id = 56339 (zsk), size = 1024b}
+dotgov.gov.	3600	IN	DNSKEY	257 3 8 AQPHRqMhaugJAZ1JtvSV/KuU2fKs+jxCWZRRQj1sAYFZTNCTq6trCe4Yqk2AWueBvBRXTNtDwFLFl3UoQkJf5SDnL+jqbLqdIqUL5Fg552iju3IlYWnunkxN/QzXcuI+ohJ2DQZAOzQbIIFRSTYFAEzBqksEeQ7v1Qepg4bo0ZRhx5y8sV7BpZiqTsFqjjuixAmcgBYrMjsOjYW1UdbQ7IB/9K52zU8+ANmTZt9QCjo6Bt6LtYvRzo3ev2e332vRgp19xhYjmRehMZ4DbRFzYad4b1IrG7nthYKUAgKkcbQ+0NzHohMLWeXU0yvQ/S21henV2DeQcmwvHeKwO2LLBx8T ;{id = 9549 (ksk), size = 2048b}
+dotgov.gov.	300	IN	NSEC3PARAM	1 0 8 4c44934802d3 

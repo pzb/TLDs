@@ -1,0 +1,4 @@
+eprb5hapscqmns7e027a4qtdeqo0073d.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ilaxmZzZchGMvp5yUwqEFNggL9/zw6B00W6buiCou5G2/ecTy46LVn4F82rSOq5F/00xhKftTW5LXBj+O3RvTopEwyNiLnyzKd5UAUMW2QK02ewtr0ABcZLZeNVBb/vmLmaV+/lsx+mm2C50sKy9+vkXk0bO3mg4uYUzGh5h9ag=
+eprb5hapscqmns7e027a4qtdeqo0073d.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  eptv3ujs2sv0pqkvq8s6564h5c4d8qm1 NS 
+soboba-nsn.gov.	86400	IN	NS	ns25.domaincontrol.com.
+soboba-nsn.gov.	86400	IN	NS	ns26.domaincontrol.com.

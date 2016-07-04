@@ -1,0 +1,5 @@
+8bsggc4u6i0u7ruroaged5i99hbc7uhr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. EElNTXAOhsV1QBqcn5G1IIE2eqobPj6clL7x4cQYFGGYc4aDaj/STlgT90iWjIRCW/Z0gEMqMXst/83l5oD2rO1PlEMA4DnAUjLBzff31ljsUgeOO+Xd47rwj6zSbljOMR7snafsoBG/bFT0RtHw8cufVzQoyNK0mcj6jfByEY8=
+8bsggc4u6i0u7ruroaged5i99hbc7uhr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8c22kv7b7oqngrb704srgmkg34u3r4tb NS 
+njcourts.gov.	86400	IN	NS	a1.verisigndns.com.
+njcourts.gov.	86400	IN	NS	a2.verisigndns.com.
+njcourts.gov.	86400	IN	NS	a3.verisigndns.com.

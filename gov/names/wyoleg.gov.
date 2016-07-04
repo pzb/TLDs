@@ -1,0 +1,4 @@
+7tppiqloogm8qic6mk8lk49q9r5rh9hs.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. VOuQhl+QUnOWMgXywY9REhy36QwqxcL8IPbOT8pNiPdmNkD1rkbDXOTa82qbjHmSKPgDsvRXOLPiT5Xocftl3L2eFm+U175bkyZVV1tOEirieJlBeyxni7mQsVVi9zdbLI5ySZcCbfYASq0XTKkRDNo3joA+z/4/qr+NxS/D/HQ=
+7tppiqloogm8qic6mk8lk49q9r5rh9hs.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7tql10v8i6496elui1305esc59mc55ci NS 
+wyoleg.gov.	86400	IN	NS	pdns01.domaincontrol.com.
+wyoleg.gov.	86400	IN	NS	pdns02.domaincontrol.com.

@@ -1,0 +1,7 @@
+8fch64je8f43cgevut51gv7smbjtu5ph.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. AnvT8jpIDd48wji3mV0WgW4CIY4fFkXbIXfOSVcpA6BGqdld48ky5PRJymEOjd4VLrRp1O3hRfYCM3fPDp/jSRD7ImbxTdFQDiEaKumbvsVFZ5a/cKuO81Dy1+RRbqwZzDPAfRG7HLDKRrjZ7fOtKBEG9quM4k0jq9ClNUSFfg0=
+8fch64je8f43cgevut51gv7smbjtu5ph.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8fna872cimjh6c9g5v6nkcbpjj7v6d3b NS 
+macoupincountyil.gov.	86400	IN	NS	dns1.name-services.com.
+macoupincountyil.gov.	86400	IN	NS	dns2.name-services.com.
+macoupincountyil.gov.	86400	IN	NS	dns3.name-services.com.
+macoupincountyil.gov.	86400	IN	NS	dns4.name-services.com.
+macoupincountyil.gov.	86400	IN	NS	dns5.name-services.com.

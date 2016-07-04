@@ -1,0 +1,7 @@
+5gmo04lm9id960u42vakstihk0v093gv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. GJ+GN+ixxLl5VMeYIf38ODKHU9f4Hhi+zB4uXTJ5vY/TJ8N5ryLUrnEy1QAht3HX41qu8tcKXFAM07Lturitj1DN4d4ADzPv/XWboBSek3hc1Q3XhSv7FBGi/C95DUpUQCHis8WBrK/ZMR9fo2y+POJbO86aR5SfXHXv4USC17Q=
+5gmo04lm9id960u42vakstihk0v093gv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5goeu8rtai628pdki458p4hu8op7ip02 NS 
+mashpeema.gov.	86400	IN	NS	ns10.dnsmadeeasy.com.
+mashpeema.gov.	86400	IN	NS	ns11.dnsmadeeasy.com.
+mashpeema.gov.	86400	IN	NS	ns12.dnsmadeeasy.com.
+mashpeema.gov.	86400	IN	NS	ns13.dnsmadeeasy.com.
+mashpeema.gov.	86400	IN	NS	ns14.dnsmadeeasy.com.

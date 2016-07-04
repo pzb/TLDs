@@ -1,0 +1,6 @@
+groton-ct.gov.	86400	IN	NS	ns1.groton-ct.gov.
+groton-ct.gov.	86400	IN	NS	ns2.groton-ct.gov.
+ns1.groton-ct.gov.	86400	IN	A	67.231.65.165
+ns2.groton-ct.gov.	86400	IN	A	67.231.65.166
+sofj3orapqq1o66pser8muga83fdqvcr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. MrE9Ye4j8YbUclClNuYot/yzrdfl1zSaXK6yaOVfle1Ucs5qGjasW9Vr/L/ZmHgqq0NN73b4A/UvtV5FQMMxPlIk2RzI3pepZHWt2An0GM/Z8y7Qh/uYSCosPvccYwVV5mtnn42ECpvb9sJcIQ7FcdbdqdZmmlIfU8zTyW96px8=
+sofj3orapqq1o66pser8muga83fdqvcr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  sojcg2niic3q50frt9js5al6narrqh7r NS 

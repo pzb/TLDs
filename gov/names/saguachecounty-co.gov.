@@ -1,0 +1,4 @@
+ievskajm75rkkj0n69rd85vekr33r25g.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. VLV8jECi5EMfuOaZZvK8NY+Q7tzsyx/LymTCGF0qFp2Er+b7fPrJ77SrMVkLgOVfltpdVdVfZmCGzF0Cn5fyfWty/XkLjO7SgOIPldHc/Mqho50awHZDQQ5SAAGjB3r1IIxmyTILXNuxkhyIWk7Y8vlQHWjPnvCQBFgosDlEB0M=
+ievskajm75rkkj0n69rd85vekr33r25g.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  if06s8lcigjqk3dtsvc0cljf0ift2pik NS 
+saguachecounty-co.gov.	86400	IN	NS	ns57.1and1.com.
+saguachecounty-co.gov.	86400	IN	NS	ns58.1and1.com.

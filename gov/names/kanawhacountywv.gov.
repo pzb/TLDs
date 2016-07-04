@@ -1,0 +1,4 @@
+kanawhacountywv.gov.	86400	IN	NS	ns2.ezwv.com.
+kanawhacountywv.gov.	86400	IN	NS	nameserver.ezwv.com.
+pvphk1gt89gulbu3p1qlpe0t8djfadp9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. LA1NFyy7bOxlFzClWK93XGkW7urI+uQQnNf+nHhYn/tnoPj26YKniX1ppPKMB41s9tC8E7pfZt2vlBJHTWyy3UWChgqeyarzDsvuLyvlpEO0k+3sSc3P9sAjWd9y4CVkXsH68zd3GFGDShoaFwl/VOMX0M0XQPDn6l1gdk67PbA=
+pvphk1gt89gulbu3p1qlpe0t8djfadp9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pvsmqh323c7oshuqtvrtks5g7nkmm8ps NS 

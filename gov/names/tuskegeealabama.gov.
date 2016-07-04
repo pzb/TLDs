@@ -1,0 +1,4 @@
+ospe2vb4kh43mqmpcmvh8lerrto56cud.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ARsdFTVycwr9FdHwQ4QhOll5n5fvaknb1Cur6vZzwMTo8ybB6z6fubw6gabXtOqrlWfFqM54LdlBnygz+xH8VxKuftOZHdvTGJ29vaZDOS/YYPEUDNVi3V6ekluQn4wT2IJZoakCIT/2cvqXYW/l1DVcGJQw3sZEweZvahd9oLo=
+ospe2vb4kh43mqmpcmvh8lerrto56cud.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ot9vbq4bb3badln7eo0k4a3ulrs6tsk3 NS 
+tuskegeealabama.gov.	86400	IN	NS	ns1.deltacom.net.
+tuskegeealabama.gov.	86400	IN	NS	ns2.deltacom.net.

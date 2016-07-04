@@ -1,0 +1,4 @@
+glicb44ntta0epagkuhua5daanm1lojm.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. vJ8ZTd2yQ//c1htzJnwDUPxThquQ7p8iUE6xXdrLv32h1kdAcLpu6MfisZgr14vx2zbMcdHQXg47gypr+FoIgKftqDFk2ETuhod8zAoILeGYqZ6HxmultG6f5gACWBIzq+89g9sz6luSzuBmniEBSPCj4zqen5U5fb7GCZtxQwc=
+glicb44ntta0epagkuhua5daanm1lojm.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  glncej0io1kg9vkdn7vlm1e2d4v67pq1 NS 
+grantspassoregon.gov.	86400	IN	NS	ns.mind.net.
+grantspassoregon.gov.	86400	IN	NS	ns2.mind.net.

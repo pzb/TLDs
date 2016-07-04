@@ -1,0 +1,5 @@
+3tjrnoho0jh9514laq0ibmf2jtndailu.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. rlZ/gx/6sZWth4Df34Jxr/gKRj0zS37MMxVa+rlzyMruHUB8QQrwEj4YVF2pKkKnKq7fMRFiWk0+NXdLuyLQyOikdHmN8/UJiH7uo13KXVhxarKxf5x0CgLmUd6BYDGWZWHKVqtbL+BwinKRQ4m3xVwOOmzp8Zydeg8XqkkPMSY=
+3tjrnoho0jh9514laq0ibmf2jtndailu.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3u3hfpm77lfl0tuus88e6f61i0but97u NS 
+dextermi.gov.	86400	IN	NS	dns1.easydns.com.
+dextermi.gov.	86400	IN	NS	dns2.easydns.net.
+dextermi.gov.	86400	IN	NS	dns3.easydns.ca.

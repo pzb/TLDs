@@ -1,0 +1,6 @@
+21pg0skbtg0234vgno27vq68d36cv1h7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. DAv/yCJfN12pm4l/BsKF8eXL15NJ8DCR/ckMwWctgXp8KN4roOFVDaoclSVOXE75SH7zN5LTMpqPD/RF06hur/izqQKwLakUmrrA2Qt+R3a6l8k/ki9iwzrybXtqeTLytV25MjFWWXoB76ylePBYTP3S4d4foXJaFF/3f2BIpAc=
+21pg0skbtg0234vgno27vq68d36cv1h7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  21q54li4av2v32aod6ll583tbjic3dq9 NS 
+bart.gov.	86400	IN	NS	ns.bart.gov.
+bart.gov.	86400	IN	NS	ns1.twtelecom.net.
+bart.gov.	86400	IN	NS	ns2.twtelecom.net.
+ns.bart.gov.	86400	IN	A	148.165.3.10

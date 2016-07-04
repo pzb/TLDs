@@ -1,0 +1,14 @@
+rh202ns1.355.dhhs.gov.	86400	IN	A	158.74.30.98
+rh202ns1.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2a
+rh202ns2.355.dhhs.gov.	86400	IN	A	158.74.30.99
+rh202ns2.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2b
+rh120ns1.368.dhhs.gov.	86400	IN	A	158.74.30.102
+rh120ns1.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2c
+rh120ns2.368.dhhs.gov.	86400	IN	A	158.74.30.103
+rh120ns2.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2d
+stopalcoholabuse.gov.	86400	IN	NS	rh120ns1.368.dhhs.gov.
+stopalcoholabuse.gov.	86400	IN	NS	rh120ns2.368.dhhs.gov.
+stopalcoholabuse.gov.	86400	IN	NS	rh202ns1.355.dhhs.gov.
+stopalcoholabuse.gov.	86400	IN	NS	rh202ns2.355.dhhs.gov.
+stopalcoholabuse.gov.	3600	IN	DS	22281 8 2 0c844ceec6e2fc9585c3b6e054c3a4eb8881d520052d3d7186a7625060209233
+stopalcoholabuse.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. EqjdxMQ9MB0A4aMnuSm7MUMToei5ovhoBXlX3/W04dn1PUQ51GFVG5f2/HRl/oX82YaXwOHqNyZlQJ3WG5yYUeFokU+LAQluuk+x0TwGuIA2lvsAWZd5/Rse3otQrpNDiBA9DYVcPpo7ewBaWYKIt/cKfuDNWJDHofiHZ2pxC3E=

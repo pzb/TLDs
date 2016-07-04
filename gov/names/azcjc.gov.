@@ -1,0 +1,6 @@
+azcjc.gov.	86400	IN	NS	ns-129.awsdns-16.com.
+azcjc.gov.	86400	IN	NS	ns-554.awsdns-05.net.
+azcjc.gov.	86400	IN	NS	ns-1500.awsdns-59.org.
+azcjc.gov.	86400	IN	NS	ns-1816.awsdns-35.co.uk.
+r3jtes6hvrmumnkl2rg0uooet98dk481.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Qhr6adEqWWPK9r+CjuXqprGI2PHp2wEidHTcHFZYm8YaaRRdcWlTDYwy1Osj6Ot7REnwNyCpCgwwpYbbFnslOiWeZWOLyPwSKiAzDn2PxKgdz1tdvzQTcALTI4WbvRNvS0EHdYIjQjdiaRp6iwviL2EmwLQtM8oXtU/D6KDN6Qc=
+r3jtes6hvrmumnkl2rg0uooet98dk481.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  r3mvep5elut68r8mbmaj0abuv9e890of NS 

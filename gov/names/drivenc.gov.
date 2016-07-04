@@ -1,0 +1,6 @@
+drivenc.gov.	86400	IN	NS	ns1.nc.gov.
+drivenc.gov.	86400	IN	NS	ns2.nc.gov.
+ns1.nc.gov.	86400	IN	A	149.168.11.11
+ns2.nc.gov.	86400	IN	A	149.168.138.11
+steq92shor77q4ctfkkbesmtqbeq95p6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. kwtFOBrd4kpO4493SdywNE6tOX7XC+St97fEhZLFy3Twt21FyCWa/SUFapaPmXiqvUbaY/5qk5uBeVO95dwyzKkl2pqVIMj1gPrX7yLVF9cbJMl4V2RbsMQRdHkekCKb/5ldj57VTeh9g96UNGylfr1ClG8+b9brRdGpK9BLAJ4=
+steq92shor77q4ctfkkbesmtqbeq95p6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  stjfhqrfhk8u4pcvn9kjjq595oe1q1qi NS 

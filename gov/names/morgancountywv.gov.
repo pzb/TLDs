@@ -1,0 +1,4 @@
+382tmmic2eiq282aj720nmrra9lqs1k7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. glupYh2mLR7/ZewrcvSVwRFIiwoK8rjmv8bTEH3FbaPpnbn2qx43t1+1buMljkNHK5NGuX0MY35ClPDndq2taNQcY0ODM1jBOLMf3COsvGENhmydyGUMCMjwyvCxb5r06atlag1T005LBzk+xxdLcCzy+5uGUCIj7phS1qywCWM=
+382tmmic2eiq282aj720nmrra9lqs1k7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  38477m0pk4o0d88klp43sg3o93k64d2p NS 
+morgancountywv.gov.	86400	IN	NS	ns53.domaincontrol.com.
+morgancountywv.gov.	86400	IN	NS	ns54.domaincontrol.com.

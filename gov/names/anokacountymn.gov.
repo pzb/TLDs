@@ -1,0 +1,4 @@
+4pf0ih327h4kjpp5bf1fg1krb5fkvjud.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. LwGTEM7AfHSwRICVlQMrCuObZ849pqmqJL6GRdO9XUEHkzRkohdpfxpZeXhDraJWvgdALOqYAGppWXVPCnlKXGVgJi0DePbnW66LlDtCMPTm3vP4nibqbAgmOAlrAtMf4q+aWlDC5pDW5/6LiqYcMKAyp47qjzGHrPHeXTqqKac=
+4pf0ih327h4kjpp5bf1fg1krb5fkvjud.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4pgd7gbv6rdspppu5ng4h2oh7k37p8ic NS 
+anokacountymn.gov.	86400	IN	NS	dns1.civicplus.com.
+anokacountymn.gov.	86400	IN	NS	dns2.civicplus.com.

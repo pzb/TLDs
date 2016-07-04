@@ -1,0 +1,4 @@
+cityofmillenga.gov.	86400	IN	NS	ns1.cityofmillen-ga.org.
+cityofmillenga.gov.	86400	IN	NS	ns2.cityofmillen-ga.org.
+s24vrdi6jvgm0r2ajp8ji3m7esks96i6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. HOZsYo4kvdYuH4xzyDLPxDp0moPj2/q9WN0wjTzmmnze8uDFj9HjTESe2+RKeZki8i2bfUbjPXQe0qna2OtEFNA70UlVcN4RRwe9OtouWVgT31CGEgjmv+ZBG5YTHKtWeyQOc9BrgWnSycJ2jsJ+tROSiiqTV9J8wrG5rTwVY5A=
+s24vrdi6jvgm0r2ajp8ji3m7esks96i6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  s2anhmjdnibljv95ebgnil3ftdssrfmn NS 

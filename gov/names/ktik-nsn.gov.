@@ -1,0 +1,4 @@
+c67kcn91seldom8h795a3e56bk3jbbq9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. vvGsIh+ZRrp0lIv4dV171lK0HSppAnxT/3HP5tPOQhKgoJfuIiRY+g9Akp28FAPIJ4PH3JjCYbAxmVjXe3fRhsns6M+cyRBhXA63H3wRHL8yK0s0ijSI4+X+LZLF7LrpXCcrckTNe2G/8P3P4tX48lnweHlDuiMJI5aYVwPHVbE=
+c67kcn91seldom8h795a3e56bk3jbbq9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  c6a36sitlkaslbo3nin40taiais654h8 NS 
+ktik-nsn.gov.	86400	IN	NS	ns1.netfirms.com.
+ktik-nsn.gov.	86400	IN	NS	ns2.netfirms.com.

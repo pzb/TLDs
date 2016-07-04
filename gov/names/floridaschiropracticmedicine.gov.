@@ -1,0 +1,4 @@
+floridaschiropracticmedicine.gov.	86400	IN	NS	ns1.mqawebteam.com.
+floridaschiropracticmedicine.gov.	86400	IN	NS	ns2.mqawebteam.com.
+kb2o77bcqgqfbgl79f7vusqr1ujp1qr9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. jKnSMIPIU9p4S/Lg7rZs6HtTWH/3pgsTJqqnoF4j0AH7ka7HUU8ski9lwR+IDAKRp744uuM4m2joGcqCIM966QEFiXstund3+MSzZyZRUz0JiAv6/IR/Sr1Fy/k5JsAFELaaQm6qbx5ZGSNsIixbZ0DMUNReW1yp6HVDb0CSBYc=
+kb2o77bcqgqfbgl79f7vusqr1ujp1qr9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kbgilaspghlhs2bjnff9vns9skpm3s4q NS 

@@ -1,0 +1,7 @@
+r5dmqt67jsa00396cm3fl6baf3elgcfb.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. exas5J+rbgfu13HCP6tUQZ72ctG5lpzBQ89XJVbwHHZklDtqCQaVhGxUNFyVpXEU7Ch+SNBt9+hufpdcWDu4rSTCdfFgaKty4mDPz1PHkpQPI+l6cx5L2oNnII8l8foWi37OR7r2sN5p8yUbCptnX7Dxj0ftBX9yuBT1Jpj5rcI=
+r5dmqt67jsa00396cm3fl6baf3elgcfb.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  r5hm35d2cspds08lv2s0sg1sjalk1efo NS 
+bigred3.wi.gov.	86400	IN	A	165.189.56.3
+wisconsin.gov.	86400	IN	NS	dns.uw-mad.wiscnet.net.
+wisconsin.gov.	86400	IN	NS	dns.uw-mil.wiscnet.net.
+wisconsin.gov.	86400	IN	NS	bigred.state.wi.us.
+wisconsin.gov.	86400	IN	NS	bigred3.wi.gov.

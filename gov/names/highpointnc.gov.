@@ -1,0 +1,8 @@
+highpointnc.gov.	86400	IN	NS	beowulf.highpointnc.gov.
+highpointnc.gov.	86400	IN	NS	dmzserv.highpointnc.gov.
+highpointnc.gov.	86400	IN	NS	dmzserv2.highpointnc.gov.
+beowulf.highpointnc.gov.	86400	IN	A	216.237.226.50
+dmzserv.highpointnc.gov.	86400	IN	A	70.61.112.200
+dmzserv2.highpointnc.gov.	86400	IN	A	216.237.226.51
+lgbm8no0becfi1g6qj4svlgucjdrouf7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. PlcmVqHGV4B26o/ryzXnGIzx71MlfMvWDICXSpp1IKeB93+VifGDjxu/uU5hO3GPvfd04+nOgeaSMyKWP15Qpjfy3uG+gjBHK87CuiF0TpcBbdZzUxu/JKu5Z3vZDILQgHJJSQUNW8km1UZAg4DHW6VteikUR7BeHhZnUrfBxGY=
+lgbm8no0becfi1g6qj4svlgucjdrouf7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  lgu0s52v6n76oq2d8fphbctr9acnqifk NS 

@@ -1,0 +1,5 @@
+7tge0pne63c9lvl4e2indmamoe7h29g2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. n31FxrUqQNRZbz28kqRQkL+Kucwb3+43JZAQYIdLAavrhjmfTSOn07yZWzoiuAVzFwNLFeJfBZ7WUzQk7qvv+YebQ4uFfnitkdvsrPas5TxUZ7vtKQRtcvhk0r1JwdFm/3ymWHj7lPPHhUIO9L6CYeZcMM+nr6aJNnGf93r0bnQ=
+7tge0pne63c9lvl4e2indmamoe7h29g2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7thh7qcd1b8dcue6tugka213pjjupouv NS 
+romi.gov.	86400	IN	NS	dns1.merit.net.
+romi.gov.	86400	IN	NS	dns2.merit.net.
+romi.gov.	86400	IN	NS	dns3.merit.net.

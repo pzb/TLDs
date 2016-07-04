@@ -1,0 +1,4 @@
+511tx.gov.	86400	IN	NS	ns.capnet.state.tx.us.
+511tx.gov.	86400	IN	NS	ns5.capnet.state.tx.us.
+7giphumced22es9ricsvgu0n6mq7jmsc.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. MMk8bTxGOIJ2uzOgG35VJ4zynMgAk0CD/HdhsSsyfoMS4jTPYKGIL8qe2ttuJkyUzfzCZ4QrhKbB5Ge/97h1rXy9buXLPnqvG1Aa1JeE9HtMETq6BXTkqSTikeiv0ie3cGnHsVxqFyesCWDsXS3utYPuZWrGFFb3pu65ao1Kcno=
+7giphumced22es9ricsvgu0n6mq7jmsc.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7grm6b41ll7am9pip01jbl9u5rts0mj2 NS 

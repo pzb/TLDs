@@ -1,0 +1,15 @@
+aapi.gov.	86400	IN	NS	eduftcdnsp01.ed.gov.
+aapi.gov.	86400	IN	NS	eduftcdnsp02.ed.gov.
+aapi.gov.	86400	IN	NS	eduptcdnsp01.ed.gov.
+aapi.gov.	86400	IN	NS	eduptcdnsp02.ed.gov.
+aapi.gov.	3600	IN	DS	24880 7 1 01ab12dae37b381d5a5610ed63304228a499d584
+aapi.gov.	3600	IN	DS	24880 7 2 87accad9b9ebc6e33fb8029bad1e69a4b47d0dc0bc7e5fd2b4598d42c3fb79b3
+aapi.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. qnsF/Km4tksyfU2hmSI+gqtCB0oOqWK/llctGWPiaEkSk+k/k+QASJ+tBTlDCf/04YHHoJg+V7JgsaXJ/0/PUE9FESn6jq3OaQlfbStriaVKzi1u7SEwtgJUBmC9PvOovVoE0d8ZUcFc+gbCYuqAq3IZdJrWITV+gjmjdYMhTmE=
+eduftcdnsp01.ed.gov.	86400	IN	A	165.224.21.6
+eduftcdnsp01.ed.gov.	86400	IN	AAAA	2610:e8:907f:1:cd99:4fb7:bb7:2213
+eduftcdnsp02.ed.gov.	86400	IN	A	165.224.21.5
+eduftcdnsp02.ed.gov.	86400	IN	AAAA	2610:e8:907f:1:d093:1118:adf3:7473
+eduptcdnsp01.ed.gov.	86400	IN	A	165.224.212.6
+eduptcdnsp01.ed.gov.	86400	IN	AAAA	2610:e8:9080:1:88dc:90ef:b68:490
+eduptcdnsp02.ed.gov.	86400	IN	A	165.224.212.5
+eduptcdnsp02.ed.gov.	86400	IN	AAAA	2610:e8:9080:1:8c49:4c6a:b596:f07b

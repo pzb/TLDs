@@ -1,0 +1,8 @@
+whitehousedrugpolicy.gov.	86400	IN	NS	zc.akam.net.
+whitehousedrugpolicy.gov.	86400	IN	NS	use6.akam.net.
+whitehousedrugpolicy.gov.	86400	IN	NS	usw1.akam.net.
+whitehousedrugpolicy.gov.	86400	IN	NS	asia9.akam.net.
+whitehousedrugpolicy.gov.	86400	IN	NS	ns1-145.akam.net.
+whitehousedrugpolicy.gov.	86400	IN	NS	ns1-176.akam.net.
+whitehousedrugpolicy.gov.	3600	IN	DS	24441 7 1 0ef64e01efd495eb67b035bf3888c238aed782dd
+whitehousedrugpolicy.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. rg2lRnLUkot0Z1BhiG5DxkkieOaN+8ujaaCwhA6Pgy0Kc+FNNXYCA/5m/wrEEePiqdKVXc9cI/slFedYoGRv/DSVfvzVE7r9IBduiqhbmTMZ72si3Hs4WdBUgUsDzgn4/1L4zXsGgX5FaPIf1GU8+jenECXy6z8SOATOzCCkDVU=

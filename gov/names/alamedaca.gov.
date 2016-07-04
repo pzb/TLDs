@@ -1,0 +1,7 @@
+ae5p1fntvoq5kt4i0ob0jgmtqr8bkrkk.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. x3yHo1GQq2UN4MQtvWwh20P/vGpDk5rlLjxoQDs6dWdkMqTqA+/SEnB0QhxOuwy6iNwA/KdGg28fAIjS1Cpctn8WJa7kwXzBwEyB2uOZEQO53ECeH3eRIRqEd1B8Tt1OqV+Ji5l11FAJCwlySG45BxVB0cChXLb5LuwMhtXHN/Q=
+ae5p1fntvoq5kt4i0ob0jgmtqr8bkrkk.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ae7o1odl6olog5tjoloef2d9p1li93j9 NS 
+alamedaca.gov.	86400	IN	NS	dns1.name-services.com.
+alamedaca.gov.	86400	IN	NS	dns2.name-services.com.
+alamedaca.gov.	86400	IN	NS	dns3.name-services.com.
+alamedaca.gov.	86400	IN	NS	dns4.name-services.com.
+alamedaca.gov.	86400	IN	NS	dns5.name-services.com.

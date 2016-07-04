@@ -1,0 +1,4 @@
+7irduvk0k081oif87q2rv1mb4r8ij02v.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. nYUIUHD1hSH0DHI+o4TcTg8QiFhe9ELp9lREiaEn5cP34U9uiAWoWad2zzbpv/uME/msS8NlrXshiWWHmahXk6TlmR8FDV/3JqhPIviU2kjzN6oXWcLvBCBCdFaJ/9X3Ii8gDMS47P4AApcKr5OXcFUgmN9OT/+iJQarGUuQJKw=
+7irduvk0k081oif87q2rv1mb4r8ij02v.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7itu1pa3pak7g88d13dltd8deh0fhgd5 NS 
+calaisvermont.gov.	86400	IN	NS	ns1.avenet.net.
+calaisvermont.gov.	86400	IN	NS	ns2.avenet.net.

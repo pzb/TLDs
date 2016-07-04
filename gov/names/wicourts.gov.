@@ -1,0 +1,6 @@
+jt9qt809dt0ij6f5f1hc3514ti8ahbab.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. UabHMnA6p9SKtWRjhtJD7mlqHFIPKjrzNnHoH+rkqFZ583mxdmSWTimL4YZjoLkUGFU0I1oKBfPtdP3Pv8Bt+VNmFXnntaeoW3X01wsshDy+sTVxZW33w717uq9jef2wrQ9Y/Rjg+YO15KLFNn0abkm7exnyWUyc/unFdXcJ6ZQ=
+jt9qt809dt0ij6f5f1hc3514ti8ahbab.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jteloi3pbrj0d0rkhmk4mkn646m9kshs NS 
+wicourts.gov.	86400	IN	NS	dns.wicourts.gov.
+wicourts.gov.	86400	IN	NS	dns2.wicourts.gov.
+dns.wicourts.gov.	86400	IN	A	165.219.90.9
+dns2.wicourts.gov.	86400	IN	A	165.219.80.9

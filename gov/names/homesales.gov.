@@ -1,0 +1,7 @@
+homesales.gov.	86400	IN	NS	hudgate.hud.gov.
+homesales.gov.	86400	IN	NS	hudgater.hud.gov.
+homesales.gov.	3600	IN	DS	17898 7 1 712ce7905b8eace72e2501d6eac41ff2368c3dfc
+homesales.gov.	3600	IN	DS	17898 7 2 672e52c4b5574bf4f8fbe00d0d165b40c659fc7be3bd9c6151c3bd9db3df39ef
+homesales.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. V5CAG8L6qC0/2+zpqBU0RgKJSHC3d4LLhBvS5bu9NWRGOvpr7+wzUcz2K2ZoP5pFEqwqh+xlOvr6cli9M3o5Z2htf/AaMskmFqnKcdeBxoyGgQhYsbCA32kwXEwZ9dI+ha5PUE4bLWyyW0ZevJXnrgYhCo7Tymu/+OUi24JL58w=
+hudgate.hud.gov.	86400	IN	A	170.97.67.16
+hudgater.hud.gov.	86400	IN	A	170.97.167.16

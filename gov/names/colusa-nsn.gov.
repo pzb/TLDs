@@ -1,0 +1,7 @@
+3gcffdu6jq9efkt24p49l168bc36oqlr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. eIgJM6NFqR7v3gHYcDk2p7OHy3Pt9LGwVHG7AA1Zg5X+XyvH01tnSzvzbdb37yzEWI2Ug0xy1kSD43eeOkNlB9jyvNw8M1dNnv5fi8zRBUxtTIXJ/P/Yl2oS86WXmOWoM9RpmCs/Aq34UwseFRfOeMuNWZ0Hc65SW8U+d5uUMj8=
+3gcffdu6jq9efkt24p49l168bc36oqlr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3gkga2r7bia8it23e4b8tdpmd7lj5bdj NS 
+colusa-nsn.gov.	86400	IN	NS	ns1.he.net.
+colusa-nsn.gov.	86400	IN	NS	ns2.he.net.
+colusa-nsn.gov.	86400	IN	NS	ns3.he.net.
+colusa-nsn.gov.	86400	IN	NS	ns4.he.net.
+colusa-nsn.gov.	86400	IN	NS	ns5.he.net.

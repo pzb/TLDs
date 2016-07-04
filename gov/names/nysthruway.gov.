@@ -1,0 +1,6 @@
+esv0mo5hb4u5fd6rotachaelqplivnch.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. gfElsxP/HyAwjXWmp6KtYktzaAUqpSn/OXG2HYz555kyq148Peeo/TvdfBXR0chx+ckBCAZesKDlMPdMSD6ZkX+cljjioAe+t9riyLJ2fETScKRnknjXQRQmHAbm+VXeRLDqQzSytLtsIj+SesXWcKDsXZdQHs85rdziCm+1nSg=
+esv0mo5hb4u5fd6rotachaelqplivnch.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  et04j2p3r970km0aebbdr98jii1gsmnr NS 
+nysthruway.gov.	86400	IN	NS	ns1.nysthruway.gov.
+nysthruway.gov.	86400	IN	NS	ns2.nysthruway.gov.
+ns1.nysthruway.gov.	86400	IN	A	161.11.122.51
+ns2.nysthruway.gov.	86400	IN	A	66.192.38.212

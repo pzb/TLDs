@@ -1,0 +1,4 @@
+goliadcountytx.gov.	86400	IN	NS	ns51.domaincontrol.com.
+goliadcountytx.gov.	86400	IN	NS	ns52.domaincontrol.com.
+j6a478li1jp9fmoa6p1qcdm4lshladsd.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Rb6BgP0SeruNtMvq5opob9u2d5sa+IbaHcTv45XkGRA2v2IarguPi86TxOmBbRKAwtThNsuvjCQoGg91MEXmKI+BUVTPs1F28sMj1RFhCVy8k+46LOjvXMwNQ9lxnBVd3RKxEFD593/4RrSgwl6wL7jZq7beTrLEtsP/SGMfuk0=
+j6a478li1jp9fmoa6p1qcdm4lshladsd.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  j6aed9mu3pjklp6pjmok86hu0p6ikoe0 NS 

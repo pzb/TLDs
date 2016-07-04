@@ -1,0 +1,4 @@
+1k2otjrlknu46o1n7uhlfsfcvpr1v5th.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. LQbbfTEgbhFn6CDAGFa86vibuV0piXVUE5z0zPYyN4+VF3Wi+qAgWBi2cbTPRJb8khUjwNTIAxeVNVpc/p1ODtfS8ee0hYJny2yE/yl6uJvx3uMP0xr7/Rv+KNaZMeWLebt1rPymRI1TLIcWLpvMIzPvjDFGtO1kk3qjeYdxEIc=
+1k2otjrlknu46o1n7uhlfsfcvpr1v5th.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1k3m4u39hdhjr06rgfu2en5v97rjed6o NS 
+logancountyco.gov.	86400	IN	NS	ns1.kci.net.
+logancountyco.gov.	86400	IN	NS	ns2.kci.net.

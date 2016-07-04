@@ -1,0 +1,6 @@
+6m1adr5ma7ateueg9214h8g5q269d78n.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. aTzWMVZcyOU5/DnagQgJwV1CU8o23s/taKg8r3em1nyIMFyrFwvzYEdEflxnFaWbsKvZjVYjSr2/S+7GgDtIp2RGBjfl3znPmNSboJn9A6GsNlLL0rS94Gunws7CupbjHh+RZItKrlFvNTCXA0V/vSPwtfEWn5khhGdpDExIMX4=
+6m1adr5ma7ateueg9214h8g5q269d78n.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6m555smgv16ivpc27ufofe0g7920nl73 NS 
+azwpf.gov.	86400	IN	NS	ns-23.awsdns-02.com.
+azwpf.gov.	86400	IN	NS	ns-784.awsdns-34.net.
+azwpf.gov.	86400	IN	NS	ns-1424.awsdns-50.org.
+azwpf.gov.	86400	IN	NS	ns-1769.awsdns-29.co.uk.

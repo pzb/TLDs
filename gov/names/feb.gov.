@@ -1,0 +1,8 @@
+feb.gov.	86400	IN	NS	a1-12.akam.net.
+feb.gov.	86400	IN	NS	a5-67.akam.net.
+feb.gov.	86400	IN	NS	a11-67.akam.net.
+feb.gov.	86400	IN	NS	a14-64.akam.net.
+feb.gov.	86400	IN	NS	a18-65.akam.net.
+feb.gov.	86400	IN	NS	a20-66.akam.net.
+feb.gov.	3600	IN	DS	39784 8 1 7c6c362c09378ff49d0070228cc6a16faacd8382
+feb.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. QoLyPFdpC4zuCJdtMlBBd66PEub5mr09MG5gehoHUhhprgqHkczR8r32IldutK5M5ILRSVHl7JcPCqOANTvPfkmZt3zwMQ0C/HvORYhXwBkm2F3rJbzcyJNZAG3R5MTVf5/r7FxwUhl1y9mK+kMfPqK/9hC1wRqOPfv2GISvXRo=

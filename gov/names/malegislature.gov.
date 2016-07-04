@@ -1,0 +1,6 @@
+malegislature.gov.	86400	IN	NS	internet-dns1.state.ma.us.
+malegislature.gov.	86400	IN	NS	internet-dns2.state.ma.us.
+malegislature.gov.	86400	IN	NS	internet-dns3.state.ma.us.
+malegislature.gov.	3600	IN	DS	10140 7 1 dfcaf0b998773127e5cf25c460db84214e600abe
+malegislature.gov.	3600	IN	DS	10140 7 2 f3e82f3b5495bb32536af7a4055b003e1aac0d1ae6b4af854edd159a9c3a4378
+malegislature.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. xqRdxHlcAjdy+TZTvN5ENcex0seDk83X59Elm0c56c1FhHH0WhYM2wBJbQ/W5mTeYFyOalnqCAizwgrRyMDAY9omBfZTxaMS0f0kiunUvi64ffYpXsQsZPcVE8n+GtVZTap8rpqIUlTR0KRB7CMQEN3LXkILOa/jA0uSrSL4wRI=

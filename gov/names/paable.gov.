@@ -1,0 +1,10 @@
+dns2.pa.gov.	86400	IN	A	164.156.185.10
+dns3.pa.gov.	86400	IN	A	164.156.16.200
+dns4.pa.gov.	86400	IN	A	207.218.103.250
+dns5.pa.gov.	86400	IN	A	164.156.16.201
+paable.gov.	86400	IN	NS	dns2.pa.gov.
+paable.gov.	86400	IN	NS	dns3.pa.gov.
+paable.gov.	86400	IN	NS	dns4.pa.gov.
+paable.gov.	86400	IN	NS	dns5.pa.gov.
+rn3c46rui0o64f5sjo1e1i77qhvjugc7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fchM8UsgWYS8HdQiu9oQFIrbos8gjAqsgju230TcnWhWraEi/I0Ru3PMFGDdrRYSY+4zGhanmxnEJTegVDI784UfF7zcDzr2w2fI4veVgqycU+E4JhLBHlbUw/tlfu0Td1GikKw/Nx+2qvWhlqoxLZ9Bpvw51mo0dHFBmI9QPv8=
+rn3c46rui0o64f5sjo1e1i77qhvjugc7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  rn4jq9359acl2ju0nrqgt48tp11ipbtn NS 

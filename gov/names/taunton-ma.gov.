@@ -1,0 +1,5 @@
+074hschbc8da8da81q231gu7v608nhmm.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. xEIaOS1mo8XgESrAnmDnrlyOvey0irDoJlOwbvmj+6k+Avqc7yqt1zpkX98RqQYiujuJjWT5qyDH/HIO1rK0xXXNHEweiPigsDsW5FvZaNflp+EjfQX8EQ0mZEMbL9+uEMOdYtpKq8rruUNPNgSG/BocERjeXC+yhNXn41rg0dg=
+074hschbc8da8da81q231gu7v608nhmm.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  077qt1p22crk07utv1fn5re00pe2pgd6 NS 
+taunton-ma.gov.	86400	IN	NS	ns1.infotech-maine.com.
+taunton-ma.gov.	86400	IN	NS	ns2.infotech-maine.com.
+taunton-ma.gov.	86400	IN	NS	ns3.infotech-maine.com.

@@ -1,0 +1,6 @@
+fedpartnership.gov.	86400	IN	NS	ns1.federalreserve.org.
+fedpartnership.gov.	86400	IN	NS	ns2.federalreserve.org.
+fedpartnership.gov.	86400	IN	NS	ns3.federalreserve.org.
+fedpartnership.gov.	3600	IN	DS	23523 7 1 50db1755002ed7331dcd3f1386a42eab4ec307ee
+fedpartnership.gov.	3600	IN	DS	23523 7 2 7b4c8a48f0dccbaee58fc7fa660ec3fc1ab2c74f12ed7933cf4495b557803147
+fedpartnership.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. rJHgwoEDmGW0MM6TwazI+EMeo3ExAFAnI/r7xgyWY0SOZNu1z2n7MVaOB1UP/dH9ZPAXmbjGYqPHJIwmMtG9UKR+fTtJ/TZMM1nlUOXsnlCXvCrgdVBFMgqdZneiH2P7wfhgrSpqfIsO3doAsW4HHma4jQAXOLs6xFwyBiclpNs=

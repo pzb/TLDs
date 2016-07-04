@@ -1,0 +1,4 @@
+bakersfield-ca.gov.	86400	IN	NS	ns1.bakersfield.ca.us.
+bakersfield-ca.gov.	86400	IN	NS	ns2.bakersfield.ca.us.
+p03htfttvlt5san8rn1kg7al0ik3ukis.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. gvuYcLT7mNaI7rjAiuoF14OX1TgOxfuloDLU3cdD3natu/K3q5Z6Luh9QYMHjfaQahBlGAw7Bk8wJZlM9+BvUxKb6Gt6cRs1KXuWey4ybTKD4wFlBPly5nxpzG5fWIRP4CVhzGwuzZq3WoPgyNhDMl/i7Spo0pHCcrJTwal1gd0=
+p03htfttvlt5san8rn1kg7al0ik3ukis.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  p05q78nq25epl25635b6bt7gajhg3dbr NS 

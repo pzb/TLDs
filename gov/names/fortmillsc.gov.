@@ -1,0 +1,4 @@
+dhjlr3qavld6ccbuh4mrjh1a52vbdflu.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. RvYeDRhURBQDGG+WXAeJZeSBGPUvWvNmaO0BcFyJznF9D3lcp/g2KSA2M7PmkH3gHuhqgVQjLGclswwnmJ9tpH+1ykDPcFAVR+1NmSaB8koqdGlTK6jwdszDE/5RVicIy+xLVkLfsO9SEdxV9JjKdYbxbGk1kXrarIb/5e/e61g=
+dhjlr3qavld6ccbuh4mrjh1a52vbdflu.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dhvdnsp9du23aqcfnshtfc25158jams9 NS 
+fortmillsc.gov.	86400	IN	NS	pdns03.domaincontrol.com.
+fortmillsc.gov.	86400	IN	NS	pdns04.domaincontrol.com.

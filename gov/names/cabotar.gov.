@@ -1,0 +1,4 @@
+9ve0jtfu54u8iaak19qj40ofnhdun9i2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. mGzTWp/mXdon71t4N9ZvIztnUu+foooyqvkEeHXuMRwgpi1jdDQ9gtbEjqUH5J9KK8W7+T+6JCmDIj2ZMcxsdRqTDXLmaKkRg9nGcUJU3BvyQERuxGetWzRzpBLcWoVDdF5DeXb9YnIBT/GblFN/3EStDceYjzzLl3rQuOjRsTg=
+9ve0jtfu54u8iaak19qj40ofnhdun9i2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9vea43hchvof73nchvjnka2ta3t1vtk0 NS 
+cabotar.gov.	86400	IN	NS	ns1.egovapps.com.
+cabotar.gov.	86400	IN	NS	ns2.egovapps.com.

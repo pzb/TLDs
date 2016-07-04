@@ -1,0 +1,4 @@
+ru50i14n397i5ev95n7guh8jh3ht5r97.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hXTJ2DLDP6Ls6E//PZPRNv6csdhdMNVH/cGakfQx4aAAxA9fuWj4ZgJK04OFM8v7eHzzN9y6wX6ZFPbB3Dz3MaZryZglARAjVFndEdcNd47TKbOP8yTwj67fzdHcATAlO0UZtvoTl0/iO/vs1Ik0uuII6cmZemyDCfc1+7+Og0E=
+ru50i14n397i5ev95n7guh8jh3ht5r97.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  rucnftulolgfonrvjbhogsfr27d2o758 NS 
+victorvilleca.gov.	86400	IN	NS	ns1.ci.victorville.ca.us.
+victorvilleca.gov.	86400	IN	NS	ns2.ci.victorville.ca.us.

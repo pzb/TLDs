@@ -1,0 +1,5 @@
+identitytheft.gov.	86400	IN	NS	dns1.lmbps.com.
+identitytheft.gov.	86400	IN	NS	dns2.lmbps.com.
+identitytheft.gov.	3600	IN	DS	17257 8 1 6168350d900b3178130e0ed78c633ac8c46d84bf
+identitytheft.gov.	3600	IN	DS	17257 8 2 060fdfbd476fdc9e3f0adb9132847a5945094ec18950f4be7100adf6e2693e1b
+identitytheft.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. TFqhRAPA52p3wGvwm1wfzHsgTeJyRX1LqIZNUK/Y7N097Gt28v9Ms/gmADxy3WJioNc4wFb6BmVVfuEYikpEKIZTKMWnshYwwWXxhbP9u6MvqwiovOLkBRGELkGk0nWeR/eQNWGF1A4Bw59ZnQr4nezpc7g9JEGgs63Ppd3Rfj8=

@@ -1,0 +1,4 @@
+ohlid47ke2mc9fq2fmf580l055kpr4ru.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. cWKcZiploA7Cuql5Hej/LnQoNO8H9ARyB++qqxMyLkAYDGOQabC51eR+j8D/vvjlXocurrsVaiTbKj3GJ4cyqIlpPdidmMtfixqwCC3b3RwWCRlbOAhE6LtbapB8Vlm+FvvNvQG1tvDcwop+mF6aeGKmcqehbav7/n46/8l17vA=
+ohlid47ke2mc9fq2fmf580l055kpr4ru.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ohp6vrir9klgh7el5lq445rgv782ta96 NS 
+sycuan-nsn.gov.	86400	IN	NS	ns1.cox-sd.net.
+sycuan-nsn.gov.	86400	IN	NS	ns2.cox-sd.net.

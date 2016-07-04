@@ -1,0 +1,6 @@
+cqe58b7q2ajdie3lbdtedg5rsevcsbe2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. CtkU2IheM0Pgf8NdC2ROYmidm8FH1anpykZTpt0/NTW080uy5r4ef+85plcijYQ9m4PDovx/xRg3Pz/qinC/Xlzj8qWMh1qEsO7fl0jNJcT3KLOODyxgFrxI4ufeO9T+TC63KgfzE44y7P975F5ft9hj9r4sI47jwbTo7BMoGcY=
+cqe58b7q2ajdie3lbdtedg5rsevcsbe2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  cqin4e3h39ol7niuvgtdj3bt9nk7slrf NS 
+galesburg-il.gov.	86400	IN	NS	ns1176.dns.dyn.com.
+galesburg-il.gov.	86400	IN	NS	ns2163.dns.dyn.com.
+galesburg-il.gov.	86400	IN	NS	ns3166.dns.dyn.com.
+galesburg-il.gov.	86400	IN	NS	ns4178.dns.dyn.com.

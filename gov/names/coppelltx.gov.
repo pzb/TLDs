@@ -1,0 +1,4 @@
+coppelltx.gov.	86400	IN	NS	dca-ans-01.inet.qwest.net.
+coppelltx.gov.	86400	IN	NS	svl-ans-01.inet.qwest.net.
+pne51apr8dqctsnlgd34bbn5mmph1vh3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Yq85fsoyg5ja8yvN4IdIn10bDRda4aKYqRsvq4VoWZqHSepnPnJv2/5/TRuq+v5QEs1UZqReG4xm636FLICtgvNFGt2nmL5zw/3HljCg/D5O/sHt8jxAjQ6lXjzoCHf3RsnEIP3oQacdYwuHCj0t3fZdZks7dUoGbLt2hmABsVM=
+pne51apr8dqctsnlgd34bbn5mmph1vh3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pne8hbr3k3h7rns59jg4m2b8ug8phnom NS 

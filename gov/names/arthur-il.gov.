@@ -1,0 +1,4 @@
+arthur-il.gov.	86400	IN	NS	ns1.avenet.net.
+arthur-il.gov.	86400	IN	NS	ns2.avenet.net.
+nkm3h7ba02votjt3nr2hmpc3mv4dadn8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. PC1b9yP6Jbmdu8Z2FmMPm+1uVwFZ1io6ea680Yc3SPoGOZ5zWGx4r3/6elGbmkztoAVQNlqTe6G/4UeC6SZ1pr5iUu+pr5irZG03it4OKG45UVWmBT4kidEuBATcg48zIwZvRdJJ1vzlGsC0SL31e8mqWaToF9q21krDddWLPas=
+nkm3h7ba02votjt3nr2hmpc3mv4dadn8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  nkni3ov1eoohmmuisuijfejrrtrdroqm NS 

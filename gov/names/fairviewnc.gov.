@@ -1,0 +1,4 @@
+fairviewnc.gov.	86400	IN	NS	ns1.relsoft.net.
+fairviewnc.gov.	86400	IN	NS	ns2.relsoft.net.
+jf2cisl1d6tu08pl5v8li85fk24vr695.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. uN2BiWsw1RFepp3sRP5yvfJ1RLBQADGy3h/090kFV1L3fmpysOWt8GUQ7SjNXX2WhmKohc5+vlLoCNc+k3sE8ySv5d/4uGR0JUup8UjX7TR72MinhZZh+A25R8J6DDHTLPJuRVy96loI1y2avSw1ri+wmfa4tXe5MefNBlDMblM=
+jf2cisl1d6tu08pl5v8li85fk24vr695.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jf3sj8g3etj0jk30jv0ihk00bk19t5ah NS 

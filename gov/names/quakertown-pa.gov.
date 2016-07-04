@@ -1,0 +1,4 @@
+quakertown-pa.gov.	86400	IN	NS	ns.quakerweb.net.
+quakertown-pa.gov.	86400	IN	NS	ns1.quakerweb.net.
+smah633gqm2pknt50gr0jnb6eo9g80vh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. TZNfNdHB5SbbiyYKrVYRti565yV/knm7H/wV0VMfQnDWuT7iqkAv6I/gRkQyeihtPNneWK2MdUeeh4m1mffWRNDYdJVEqWV1VVJcd0QKCL+FKZaHTQJXhpdRDUsFP4z/Qkb8A+CoJUWQ5F+qRHoG9llJQmhEfEpazB7A4DXUUno=
+smah633gqm2pknt50gr0jnb6eo9g80vh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  smainmd5bdfiivgvuidg1rc89ml1b9l7 NS 

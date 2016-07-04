@@ -1,0 +1,9 @@
+execsec.gov.	86400	IN	NS	ns1.usda.gov.
+execsec.gov.	86400	IN	NS	ns2.usda.gov.
+execsec.gov.	3600	IN	DS	9892 8 1 8003c05aba22101e86798e7d0c1ed648a75f2060
+execsec.gov.	3600	IN	DS	9892 8 2 81950383cd98f3fede85097b97eb23e0402923cf9d031fe0b6899100ee470829
+execsec.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. TPhhlzF94IRZOwLmxJUp0zDe8sAoXhVyk7RBUj4rpBg3cNub/ygL/lvuOS9Iwu0e7mY4aU00KCjvMJfwd0US8ow5JmcPpRu7dxbnhH6q7Q/gvWadbR1hXBje7mMSaSlmjzvIZ+gNmaNWw6jg33BKPLNV/8CqSS+k/4WlUjvap6w=
+ns1.usda.gov.	86400	IN	A	199.141.126.202
+ns1.usda.gov.	86400	IN	AAAA	2600:12f0:0:ac04::202
+ns2.usda.gov.	86400	IN	A	199.141.126.206
+ns2.usda.gov.	86400	IN	AAAA	2600:12f0:0:ac04::206

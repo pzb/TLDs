@@ -1,0 +1,4 @@
+1uaj9o6l0vjh37feis2fs2cb9ifd9ilq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. KdJOkJgD2kcX+tl5pkKJs6ArF/pfeGxZ/JHzicJYi4EO6dkvUpF1aSALeadfQuZWg5ic1ZH2x4QvfG3zQfuu5H6yo2HecpqDVMaEmzR25cYUoVENcWz+osFP7t3EDrFWnfJdMYnaMewQ7YMqFI02XTL77BGPtf3MUFR1eBCBABY=
+1uaj9o6l0vjh37feis2fs2cb9ifd9ilq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1ujajjrt6lf38qophrl04oijiircfslj NS 
+carlsbadca.gov.	86400	IN	NS	cbru.br.ns.els-gms.att.net.
+carlsbadca.gov.	86400	IN	NS	cmtu.mt.ns.els-gms.att.net.

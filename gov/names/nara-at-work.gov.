@@ -1,0 +1,6 @@
+a2dns1.nara.gov.	86400	IN	A	207.245.190.18
+a2dns2.nara.gov.	86400	IN	A	207.245.190.34
+nara-at-work.gov.	86400	IN	NS	a2dns1.nara.gov.
+nara-at-work.gov.	86400	IN	NS	a2dns2.nara.gov.
+sgqor76jgr1rv3tqqidk5vjrf2q1203k.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. bDCsnFq0o7M3Pm+jrZfH0Hmw3r4gnJhreOhuY1RdFcawBendFDlv7AzJ3CoSLbJfesveXidsZOW3RAXBVfLg5xWcsamv5dX4YVmBfhAyUY2zH7oSRXpM/9y5jClEyxmc34+B1htCLttvCxSgO94p3IepSzabwFC+y3zgRMUpaLM=
+sgqor76jgr1rv3tqqidk5vjrf2q1203k.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  sh3qra4kcmajt8eu5tut13pmf0rpb0d4 NS 

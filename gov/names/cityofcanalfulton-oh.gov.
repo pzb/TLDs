@@ -1,0 +1,4 @@
+cityofcanalfulton-oh.gov.	86400	IN	NS	dns1.tmslink.net.
+cityofcanalfulton-oh.gov.	86400	IN	NS	dns2.tmslink.net.
+ssghu2787tsg5cj0890l0fc88f31ch6q.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. xM5nhO6nZPK1EfzHK/VAaBoky5eerT9lqeE8RierMJ9lqchQOZnpX6psDHNN+z6ht1zXKXBoBzc3kwQA+ETM6REuhXovVU2NcV4cieN6mG3oLE+aUpr8s2VOumLaSRA/kDVzFADz7IRQks6EcLtSZ6SIkiwxZDe5Y6zjFuYkba4=
+ssghu2787tsg5cj0890l0fc88f31ch6q.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ssks9vema220qnp4gdjfck93vunfjj4k NS 

@@ -1,0 +1,4 @@
+c9goaac2pt6v35p4dfaghj17hh2t95cb.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. kYpLtOpfwH5kt3LCZDYf61O3dRaipQr1u1QnSq6dq4vSa0niXujJXmQxJgRWmO2ybU931hbH+BcZ0Er8G/ypjKplD8HuF9I1F87DdH5l8JvQpb+du50zYwrdMS4VfOaTnfe5iDx8ZgR6JRu4Rfg2ZcQwwdMnGUZ1sAwbkeSRxkw=
+c9goaac2pt6v35p4dfaghj17hh2t95cb.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  c9h7adpp50sunodkq031ktigmvq6c5qi NS 
+charlestown-nh.gov.	86400	IN	NS	ns1.mydyndns.org.
+charlestown-nh.gov.	86400	IN	NS	ns2.mydyndns.org.

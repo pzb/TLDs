@@ -1,0 +1,6 @@
+04c8c30p5g5rh1qv1hurhs6rkm5aaeld.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. M945mteu+hldpmP6bt4ROhIUaVDREEIb4xjLfTwe1BtKccUxJ+zlElkZB5E6xuxy9XyLwDxMpVYwcJYIZie12SuP73bAPcDrcXrLJBC7VlCU8u068MBgajPQrztKVciCLX+HGLe0AY0eXip85gZVBMOHi5j5n6yRYTdGF1ZWEEo=
+04c8c30p5g5rh1qv1hurhs6rkm5aaeld.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  04cpnp3cvmvv5k1auifs9gpascab1rn9 NS 
+rileycountyks.gov.	86400	IN	NS	ns.rileycountyks.gov.
+rileycountyks.gov.	86400	IN	NS	ns2.rileycountyks.gov.
+ns.rileycountyks.gov.	86400	IN	A	24.248.151.5
+ns2.rileycountyks.gov.	86400	IN	A	24.248.151.7

@@ -1,0 +1,4 @@
+8fna872cimjh6c9g5v6nkcbpjj7v6d3b.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. frAOsQUaOM7qRVEXhk6o2wXXT8eYK+mFiF5tGA4pdLWvR6UNRnmQ4C43RxcFDBXQa6Olar80Wywg4dJvAGD4GHISgi0A40IiW837VkmsWMe1KiZuzottBvfDkcpMiy0pe58MpQQ9vgsjKsFJFCdG8y50k0DToPf2duqLRyQezSE=
+8fna872cimjh6c9g5v6nkcbpjj7v6d3b.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8g1uiue62htkj10hv2ki5ost80q2ph83 NS 
+clairton-pa.gov.	86400	IN	NS	ns1.bobcop.com.
+clairton-pa.gov.	86400	IN	NS	ns2.bobcop.com.

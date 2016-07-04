@@ -1,0 +1,9 @@
+landfire.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+landfire.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+landfire.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+landfire.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+landfire.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+landfire.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+landfire.gov.	3600	IN	DS	63062 8 1 5f9327429fbed1cf255411d467d750f281ab5bf4
+landfire.gov.	3600	IN	DS	63062 8 2 9f5a48facf398d5d4f7059315614b868c6d49a2503c524883c53ec0677c9e760
+landfire.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ATuueYVZ2F/80CIuXS2By+TCeL6S2G2S+kT4WnuaeEpLngL2e54vURTpKsxf+hgCSpEsOyueUnWiBoKd14AtuZUDCFYtPZqwwj8qNCQar9cXg4XM7QLQp3NNhwDaIU6hiK5YhiUMX8vW7p1nH7YEw3e5famV0pP2kzf3n3kWVSs=

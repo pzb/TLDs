@@ -1,0 +1,7 @@
+consumerfinancial.gov.	86400	IN	NS	sauthns1.qwest.net.
+consumerfinancial.gov.	86400	IN	NS	sauthns2.qwest.net.
+consumerfinancial.gov.	3600	IN	DS	48336 7 1 d571258a7ba4333aee7e9a58b80e500ef26372d4
+consumerfinancial.gov.	3600	IN	DS	48336 7 2 72d17238030a9339574f6b1d20c393be985d48de05575d61fbd55668748946a9
+consumerfinancial.gov.	3600	IN	DS	49401 7 1 3f258a334d42eec814e0604388678a6366c29b8c
+consumerfinancial.gov.	3600	IN	DS	49401 7 2 48ac5be5c5ed1254f89615e1d1ed9d6ad234bf7dc77f05db732390a8f0ee2da5
+consumerfinancial.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ciu/PHy2UW3HLSYF/yElC/whPnpCq3Z4aFR4G32OVz3QK5YyHuMA1tMM/C8TxjHxb8MOLgP/0ZBUIv5GxYWcqzBuG4/Eirfe6Dz0Qek5H3WRH0coviIqjMwgKdpEvWHrtbCGhtkfwH7inuQcuHkQ5zMRAxqRG1uCxUvqcgAMxrs=

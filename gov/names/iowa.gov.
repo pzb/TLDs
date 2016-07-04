@@ -1,0 +1,8 @@
+7erpabbb6rm3so02cfnannllmstcsn16.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. LxeBzEgs4Gtu0BVY16Q/naDmQ2aP0j1VTsQHkpu0ANayMviG9u9zsLHHcxzN21MaQQ9BPwmIprlNalcERxrtirhq5vGGG5R+WOCkWUJjpwDXPDGuQEbieyeUki7qLEtoq1Wsp/TaT1JscPwgQTw8/F1OrhSetYb0rgip9Lcrw6A=
+7erpabbb6rm3so02cfnannllmstcsn16.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7fb6vo9u380tg9cjnuucphurkoekq84i NS 
+iowa.gov.	86400	IN	NS	ns1.iowa.gov.
+iowa.gov.	86400	IN	NS	ns2.iowa.gov.
+iowa.gov.	86400	IN	NS	ns3.iowa.gov.
+ns1.iowa.gov.	86400	IN	A	165.206.254.145
+ns2.iowa.gov.	86400	IN	A	12.104.194.54
+ns3.iowa.gov.	86400	IN	A	209.56.120.13

@@ -1,0 +1,4 @@
+b8sltr2u024c0fk7ilphnn9gl6n7j64b.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. CQwICKIEdnah2GEdMiAWkhLNqvlAs1KE39W2XngCVTKyxH7xO+Ed7dZjTQTePqEQDDlXBqzQz0sBrLh+hSIfhWeIcUzNZF7uLv9JWrM9/sqvjx2TBzxyZGJMXcy6Boq6WwUN7l5f8RniX/1lUZAa1BIJrJNCqQua+a+Vqt8bglM=
+b8sltr2u024c0fk7ilphnn9gl6n7j64b.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  b8tg56jdulqd0tqkrrdi9r1jbpo5tm8i NS 
+brightonco.gov.	86400	IN	NS	mns01.domaincontrol.com.
+brightonco.gov.	86400	IN	NS	mns02.domaincontrol.com.

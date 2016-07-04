@@ -1,0 +1,5 @@
+gov.	172800	IN	NS	a.gov-servers.net.
+gov.	172800	IN	NS	b.gov-servers.net.
+gov.	172800	IN	RRSIG	NS 8 1 172800 20160711041014 20160704041014 26663 gov. m3tJJn3PWC9jtQCz7VdJFI3VFFDE3fXQUktsdhimcuTSxhuyBmSwJqhZ5YS9k19h8jbjbwr58KqpngvoI8pWgsf4X9bC1Jf5dpgE0TIBEjNKCH3oaeM9rHr1Tk6oOXQ5O6Git1STAfHqcH5C9y+lviJ/ldhCrh/ge0t6z+oTnM0=
+vrsn-end-of-zone-marker-dummy-record.gov.	86400	IN	TXT	"plenus"
+vrsn-end-of-zone-marker-dummy-record.gov.	86400	IN	RRSIG	TXT 8 2 86400 20160711041014 20160704041014 26663 gov. PiRJWJcdIFk6+xDDVNWaeJicSkCygBKmhjMZYj0af1b9n1f05dBVxjzJTy9BR//9AmHxLMggh4hdHqzhD660CL1g04MCJrHv40eYAnsy+B3TCe5B1Rviq0iMkl7dG9nzI9PZRY4X2BbUMMB9yxERzq/bz3KSX5VupM3VcELRjwE=

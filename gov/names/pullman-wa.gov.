@@ -1,0 +1,4 @@
+o866dbfm8ta7maabgf73sl3fmugkaspe.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. u3KiguFtQ3v+LdwX/xcvnkA4nLLgj6XY+SlFe3qWSpGydIRZqIn3CrtSz3P3S79EzqNgxMnD9MfMYqbilKOKDxpOjC4gvCKDHEeEHm4RNil4MtpjBp9Fr2REINpBrHeKYNpxVrdqA6MgFkYoD6xzi1KosMXIvOybS7WBnwXDXLE=
+o866dbfm8ta7maabgf73sl3fmugkaspe.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  o8b71a5olevfav27s3cgt952jvbggrpk NS 
+pullman-wa.gov.	86400	IN	NS	ns1.turbonet.com.
+pullman-wa.gov.	86400	IN	NS	ns2.turbonet.com.

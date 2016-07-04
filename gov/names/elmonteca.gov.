@@ -1,0 +1,4 @@
+elmonteca.gov.	86400	IN	NS	ns.cosmoslink.net.
+elmonteca.gov.	86400	IN	NS	ns3.cosmoslink.net.
+i99lgodoqmf0j1vhd7nh4jc2b8qi4d9v.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. GJM80BQzpzlLuDGeL0I0O+6z/EXIYjoDMBqZ2iF/wfgceilytmV9+qxY2hYu+yz+1aUgavz/k2Aa1CcTVkw3Ox5SkJK1hAfowfP2wx7X6rqs8wn9u8vWm8FR4Sylw21bt1+l1j6KkalNEmDoNFgoeP0wXGkJBND5jKa6mpSvusk=
+i99lgodoqmf0j1vhd7nh4jc2b8qi4d9v.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  i9eq42jvhqam379eap786gp8hve5kkhd NS 

@@ -1,0 +1,9 @@
+fbiic.gov.	86400	IN	NS	a5-65.akam.net.
+fbiic.gov.	86400	IN	NS	a1-166.akam.net.
+fbiic.gov.	86400	IN	NS	a10-65.akam.net.
+fbiic.gov.	86400	IN	NS	a11-66.akam.net.
+fbiic.gov.	86400	IN	NS	a16-67.akam.net.
+fbiic.gov.	86400	IN	NS	a28-64.akam.net.
+fbiic.gov.	3600	IN	DS	60037 8 1 a818de85c4aa206088d5715875cdeda8f2496aae
+fbiic.gov.	3600	IN	DS	60037 8 2 a5854a742e2e2d8ab0203d70a3081546e56f5ad127a393bde8154269727fd8cd
+fbiic.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. NBcwCHL8YTzCFCUb/u0LqdVIRoAL/hIQt/qrKAyuBC4csY+8bf592+myUGx9sV4/QsL64EBTyvD0e/Y695tTodR24fzMXcQkH++3W6lSrMfnzP4tGEgYoFco1FEijHFgN+L8Azrqpsz52lWrTRGbog0ZQgIq/lZAipfCDnE4cyQ=

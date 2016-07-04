@@ -1,0 +1,4 @@
+1teqsdi9m2frgrl3lvkmkuchblhfavfh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. xbxegRlt4X7CNscZsmtO1yk+xJb/C9gVAnJ04Ap4/EIz4sdrB9v2+2Rk77fDjh5O75U/50APZzlPQEljz5jQKLSSfP/UnhKSrgAq3GkO++QS+gzXopditwjSDC9ZgOHaQAGm7X/38omjop3ppEEW1zUc4hMPiV90rphHiY4neWo=
+1teqsdi9m2frgrl3lvkmkuchblhfavfh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1tl7ndnkoidl4iuaantq0vn27u2vtl38 NS 
+minnetonka-mn.gov.	86400	IN	NS	ns1.state.mn.us.
+minnetonka-mn.gov.	86400	IN	NS	ns2.state.mn.us.

@@ -1,0 +1,9 @@
+fhfa.gov.	86400	IN	NS	ns01.fhfa.gov.
+fhfa.gov.	86400	IN	NS	ns02.fhfa.gov.
+fhfa.gov.	86400	IN	NS	ns03.fhfa.gov.
+fhfa.gov.	3600	IN	DS	3318 7 1 e185492e149f8a673b01f74e6e38fece6fab86c9
+fhfa.gov.	3600	IN	DS	3318 7 2 4bfc91bba7f6a88cdb8eb9c53db136e21bfdd96867ff211786a460dc7268d028
+fhfa.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. jNm1AkrH4r6kZLpiwps3tr6maNJUbL36D9Ed6B2CvRSW0ZJvmk6mC6ogEtqSFxZm0wlW/hV6zQXXGZ5TxL0TuURBoxqCiQW5ksyFWusCVBlFld2S+2PY52SUHhqoGXBdesQeMyhGQv+m+9tpr9EJqVVXiw91HFNM6HdCH/E3uLE=
+ns01.fhfa.gov.	86400	IN	A	12.183.70.4
+ns02.fhfa.gov.	86400	IN	A	12.183.70.5
+ns03.fhfa.gov.	86400	IN	A	12.183.69.4

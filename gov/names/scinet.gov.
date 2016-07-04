@@ -1,0 +1,10 @@
+qr02i90ha0j204utkja2a0djj8gtm201.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. LQJ2DzsTb4kkaFmbLPTV3WvmGM28UeGv20p/Auzv9NvPXIW//K1xKL6KV96z9KCAQtRPgJ9Qf+oJvTZId0Smb/cLqLt2SXuPoAc4xDNEIh6Oig5OeYZtR4izgm5fkgi6VXcrlqesNa9pEJy2ok/3sHbKPEpsr/58al0ryKVMTvs=
+qr02i90ha0j204utkja2a0djj8gtm201.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qr1td2eahusnb39tqd9qu3d00apnenkl NS 
+scinet.gov.	86400	IN	NS	eur2.akam.net.
+scinet.gov.	86400	IN	NS	eur4.akam.net.
+scinet.gov.	86400	IN	NS	eur5.akam.net.
+scinet.gov.	86400	IN	NS	usc5.akam.net.
+scinet.gov.	86400	IN	NS	usw1.akam.net.
+scinet.gov.	86400	IN	NS	usw2.akam.net.
+scinet.gov.	86400	IN	NS	ns1-62.akam.net.
+scinet.gov.	86400	IN	NS	ns1-216.akam.net.

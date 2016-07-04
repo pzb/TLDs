@@ -1,0 +1,6 @@
+nhbv1ulonoui791uggenbgkbdl078t0q.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. HT1dDEzhoX1S47vAWKBuisCgMhK4OtgjeM3Pu59qZpvzAC8Jb6O6IRZobnT1IzznzbKdUyowlXBG34YlQ3at/B7Ia9XYaUH9rGMFmPzdopgbGAUBiekB+3tKSTR58MMFwO/xawW710IXRWpjojSrrME+jn8TxVNLtOI+JpvaMho=
+nhbv1ulonoui791uggenbgkbdl078t0q.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  nhfjja2594o0f66i91tth4p1617ns87d NS 
+qaaz.gov.	86400	IN	NS	ns-142.awsdns-17.com.
+qaaz.gov.	86400	IN	NS	ns-829.awsdns-39.net.
+qaaz.gov.	86400	IN	NS	ns-1470.awsdns-55.org.
+qaaz.gov.	86400	IN	NS	ns-1654.awsdns-14.co.uk.

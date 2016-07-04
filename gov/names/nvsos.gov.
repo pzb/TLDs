@@ -1,0 +1,5 @@
+l8ijavv44ch4kabd6k4lfeu4468jifqr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. IKYP4dsi+IPbbuJ4ExtGYb12dbzod2vYI72srO0XrNEZAVPgm3gwU009iD09UFVGfsEBvmtzpiXXj/+vJLRBIhWIbyWrPJt2UrJskt5cQqbLhLv3IBHvw7VZ+UPKAh+qJP9u75QYkxdf+ZJatMG4bz1tOnHeSzei9uLoXm/Hh1g=
+l8ijavv44ch4kabd6k4lfeu4468jifqr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  l8o1fsh6sb03pnn8c6sakr4gjen140ep NS 
+nvsos.gov.	86400	IN	NS	ns1.state.nv.us.
+nvsos.gov.	86400	IN	NS	ns2.state.nv.us.
+nvsos.gov.	86400	IN	NS	ns3.state.nv.us.

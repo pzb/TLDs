@@ -1,0 +1,4 @@
+alasafe.gov.	86400	IN	NS	ns1.acjic.state.al.us.
+alasafe.gov.	86400	IN	NS	ns2.acjic.state.al.us.
+f8ia21eb5qmi10er99gpuu38mfq8sguk.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ezeYDlFt3IReO7pXVgNqoJpGjKtF8jxbkolqfjSwrSL9J28BJLfuKQmFVh1Z5YmDuV5owa4K/fxtXP55nE7WrnZ5gkYlUthWSyB0ZS82C/QNFM0PfdOD6SnQDHpWdXmg5Eghhz2BwSD13jKNwZ15V+Rwg+8q3CwP3L9t8G7ZGNc=
+f8ia21eb5qmi10er99gpuu38mfq8sguk.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  f8kc408r4nhkci5feuukmf5upl2bd6a2 NS 

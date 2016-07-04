@@ -1,0 +1,4 @@
+coldspringky.gov.	86400	IN	NS	ns1.nkol.net.
+coldspringky.gov.	86400	IN	NS	ns2.nkol.net.
+pqaptfts29rjlbl64didfkcu4j8fn6un.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. kWS+oH376MnBKiTJnPV8uGZSbxiK34IFQhJr7MMJe14GRWPa1tHSvp1rDKL06lgc1XTe6KEAyUPe9cukXa260Y0+r43n6P3Ml8vaqs5IB+tLs3lRaCr+H3cZfKRSqB1Rmy3Ein2VJJxNAqPvI8LzbrcOF/OMfeh5BIvwPc7iw5g=
+pqaptfts29rjlbl64didfkcu4j8fn6un.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pqggefisbruaf6ig5d7iv2b00eqkddb1 NS 

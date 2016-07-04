@@ -1,0 +1,4 @@
+bayside-wi.gov.	86400	IN	NS	ns1.tcsprime.com.
+bayside-wi.gov.	86400	IN	NS	ns2.tcsprime.com.
+eqb11hljiugvvurtpsp27aueqpj7k64e.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. x7J5cNHGss5RJboPw82Q/i/Mq9F+fZPx6ompJi9EBVzmyinUKSzuBhNBW9X4e4AkakCV8QoSCrXXMHFC4jljNzJPP4t2Z5JuoqWVjnKX4Fg9DKhJ4ej11qPeZAhmt/hd48K4bGhyZWkvk4Jl6bS/BZTxO2/PthE3EPNPBn2lZw8=
+eqb11hljiugvvurtpsp27aueqpj7k64e.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  eqb3mpofvctad6ku1tv2o015n60vs54v NS 

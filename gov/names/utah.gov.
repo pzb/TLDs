@@ -1,0 +1,6 @@
+pfn1bkhqmhn7vuf2k8cjgvmrbdkb3cp4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. p8sWSIiWcJ10z1u3dBQN3zz3rAce4rHfrZ3A3QTgB8qIbFgfC4O9AnFAilLqm8WAm8GbcsNjiM+WFQZiewCN0nTi43I+j033LuDWN3ZkWYvzQI98q0LMO/WoES+VAQS2VRCQhUDzyqLiw1Uav3GC4tF/MW3D+4ii5dVzeiH4r6k=
+pfn1bkhqmhn7vuf2k8cjgvmrbdkb3cp4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pfqtvkhde0afggjdfnhe2cgs3dtkl5ku NS 
+utah.gov.	86400	IN	NS	ns1.utah.gov.
+utah.gov.	86400	IN	NS	ns2.utah.gov.
+ns1.utah.gov.	86400	IN	A	204.113.19.5
+ns2.utah.gov.	86400	IN	A	204.113.4.5

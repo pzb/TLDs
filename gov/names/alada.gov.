@@ -1,0 +1,6 @@
+ns1.alacourt.gov.	86400	IN	A	72.159.229.133
+ns2.alacourt.gov.	86400	IN	A	72.159.229.134
+alada.gov.	86400	IN	NS	ns1.alacourt.gov.
+alada.gov.	86400	IN	NS	ns2.alacourt.gov.
+kd3rq97rs4iskcaa05capdbj2g3ef1t3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. q44wfmwLe/Bi4v/9K2pRPel64hAVXkG2zbYgvrtCLNBNq1HDWXYlKZcpPeeDTJQ8o1gItCKWRfWp9BFeBTngdx73eIO3eoxbJ9b9R9qca668yqCUDKI5uad5z96oxkggjQbY72dkqdEQKPXYkdXpOsWgM2o2Wil+JCW66Tm+kwQ=
+kd3rq97rs4iskcaa05capdbj2g3ef1t3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kd52seq8c5fo42ms82ho8i670fno6dbr NS 

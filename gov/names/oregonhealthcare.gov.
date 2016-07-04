@@ -1,0 +1,4 @@
+oregonhealthcare.gov.	86400	IN	NS	lion.state.or.us.
+oregonhealthcare.gov.	86400	IN	NS	puma.state.or.us.
+vgspfp015c398d28hdo6ufrhubu70e5u.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fkrWVBVBM1gAC69TzLybMs0tyibg2O4hcydtbUwTlUWsAc23LUtczrugGejU34PGJBCopopza/3rljdCVjKwQGGCfpnFdkpCqbBoPJjC20pfb9EOvWH5g/gpTd+fuc3zVAvuDv+dIgPLwELlcnKqdOB/IgfZH5jqNuJy0ivDebM=
+vgspfp015c398d28hdo6ufrhubu70e5u.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vgumgscboclmvue0fuudmts56bl22t58 NS 

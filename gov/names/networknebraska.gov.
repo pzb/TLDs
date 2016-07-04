@@ -1,0 +1,4 @@
+kvuvlinrgm6a0i3sovp3d7i9qh31m8j1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. jbG4uh8kmFVSiFD8YLcfuXXz0Xwe+rLUnN2U8vaeEZTx+vipsmGOT33KR9vR1TrlaAqM6jphbuiw0EaRUKfwBkyRIVWzzezfFdqLrrZdvPbSF7ZJnXIfRTgESIxKo+X8a7bjD6pRWl1WZ8jfUQ4ykQQbvBHtoRs1CBzQxia3Ip4=
+kvuvlinrgm6a0i3sovp3d7i9qh31m8j1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  l04qdm6ka3083334dmqt3rut4kv2oqac NS 
+networknebraska.gov.	86400	IN	NS	dns1.doc.state.ne.us.
+networknebraska.gov.	86400	IN	NS	dns2.doc.state.ne.us.

@@ -1,0 +1,4 @@
+auburnny.gov.	86400	IN	NS	ns1.infotech-maine.com.
+auburnny.gov.	86400	IN	NS	ns2.infotech-maine.com.
+rmt1li43tmpv1ga5bq5oqnhdhvrfl8qo.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. QJn7iEotRm1LIdDWm8GaKhkyD1KTORQPQlFZ+HkJ+VOIfDJZZ9K95ve3AImOBPZyFrBKkxMrqWsyWq6smJBX2Lpcm8m3YO0ulX9eTbuVKYs7CcQXO6Wuka+TfTGOEhO340Dk0Eo7bO3fIQ8SxruASdG+L0O2FHRe8gp4WunU1/8=
+rmt1li43tmpv1ga5bq5oqnhdhvrfl8qo.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  rn3c46rui0o64f5sjo1e1i77qhvjugc7 NS 

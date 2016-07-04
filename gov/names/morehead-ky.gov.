@@ -1,0 +1,4 @@
+1cklsv4cal5i7gh0scl301j048s3v1dr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. UausLEHy/aEG2D2Y7x+mObLIi1kqHyxveEOLcrSLjsYPdPrj7anCEA5jBWKds9Tcjss0IImB4RrJ0PYlNgoJazX5y6cAjQhW56BxQu5gtfQatCgv5qzISg4+oF2C265u/LkngtM505j7g6kxkaXNkPg1Q1IUaFqxk1oP0FC7pRQ=
+1cklsv4cal5i7gh0scl301j048s3v1dr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1crjvid4gmqpjtp5upa5mlv0r9bn590i NS 
+morehead-ky.gov.	86400	IN	NS	ns1.asoshared.com.
+morehead-ky.gov.	86400	IN	NS	ns2.asoshared.com.

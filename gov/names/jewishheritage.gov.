@@ -1,0 +1,7 @@
+jewishheritage.gov.	86400	IN	NS	ns21.loc.gov.
+jewishheritage.gov.	86400	IN	NS	ns23.loc.gov.
+jewishheritage.gov.	3600	IN	DS	43084 8 1 2a4dcc5b45a1dc896ec8b341cc40f4ed05851989
+jewishheritage.gov.	3600	IN	DS	43084 8 2 0ee0e31d033ae4585235fbf9262785189deaf689b508e105da454302b7036858
+jewishheritage.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. BnKMAAp0y0952biDtlayDrwvCPpr+AnyJF+R7qK1W6AckBC4YPzBEKu73vhWDegIgp321aGmk7dvGw6Q/4UFiW4zH/2orMYFfE878bOdLHnpmfcfsXW0pgt5G1Q7xvcRbvjyR8uCkytah73jhDMWc8XiiawCQqJLgYpBbOlMKRI=
+ns21.loc.gov.	86400	IN	A	140.147.32.166
+ns23.loc.gov.	86400	IN	A	140.147.239.150

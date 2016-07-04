@@ -1,0 +1,4 @@
+bastroptx.gov.	86400	IN	NS	pdns05.domaincontrol.com.
+bastroptx.gov.	86400	IN	NS	pdns06.domaincontrol.com.
+pt679rq2ppgil3nruda2tqkfcdrkg3aj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Rjb4p9Pc7yUOgyoPvuYnTpNYpHqkJ6Ip3+WwrpdvINGByUOs9u+7UjxFyPSNm8irVxRkVO1VnKtbxdBDOD5nEkdrNXERKELkpCzZBlTPch0n7lU93/0oADKlVvLXhCxCfr374qbHgOxlufUxQ4VfzrbatNwjr2s0JCdshUP9YDA=
+pt679rq2ppgil3nruda2tqkfcdrkg3aj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pt7m0u3f4d9slggau8oksr9rogir1nr6 NS 

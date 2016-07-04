@@ -1,0 +1,7 @@
+onlinewbc.gov.	86400	IN	NS	scotch.sba.gov.
+onlinewbc.gov.	86400	IN	NS	newganges.sba.gov.
+onlinewbc.gov.	3600	IN	DS	27781 8 1 47554e193a60413844e17ec8180e26ea0eee5950
+onlinewbc.gov.	3600	IN	DS	27781 8 2 8efb1363edfb9c9a3b2593cce969de44edd341b628a85f961a677f816ad5d4ac
+onlinewbc.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. qLrKXB6oRtUTwcrImiTBaN7wjfG0WJweIoYcggviW+seC0m5Xo+ef1DKrPXg3T/7VusO+NJxVrlVblKrWOfbj4hDRjbEANU5qsmHIgISwRe1iR84a4OxLzBCn3FO3mlZ1v+7WYipahPq5fWFenhKKXQ1cIOEQtjZ4/GrYc6BM6U=
+newganges.sba.gov.	86400	IN	A	165.110.249.32
+scotch.sba.gov.	86400	IN	A	165.110.249.30

@@ -1,0 +1,4 @@
+8q9gba5f4ueqniv7pssam4aibu81s5ii.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. JJs0h4hbLpuxPPUeYyJtuYqUdR/+0TwKe7TBsuBaL1sDvffzYc3AhsoAANoa4918xc6AhNX7nWTJ7wV1/Ykel06Qbh8vLJOcsVFHtQceqs8XwVknnnDkGY0H2zv7I6CCc62da518C15MlotMJlnytMitS2pcJyjdRA4I8QUgT/c=
+8q9gba5f4ueqniv7pssam4aibu81s5ii.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8qbtgcq5l2f6loq4t37g47htoiovd6ik NS 
+fallscityoregon.gov.	86400	IN	NS	ns1.bluehost.com.
+fallscityoregon.gov.	86400	IN	NS	ns2.bluehost.com.

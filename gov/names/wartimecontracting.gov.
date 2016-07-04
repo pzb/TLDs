@@ -1,0 +1,7 @@
+wartimecontracting.gov.	86400	IN	NS	sauthns1.qwest.net.
+wartimecontracting.gov.	86400	IN	NS	sauthns2.qwest.net.
+wartimecontracting.gov.	3600	IN	DS	10029 7 1 af35018c6ab34b6b9a4c04ee7f7be169e75a08cc
+wartimecontracting.gov.	3600	IN	DS	10029 7 2 ff8ad3b5388d1422cfa7d425084f70cd85141baffbd3eeae66ebbc649ba65dc7
+wartimecontracting.gov.	3600	IN	DS	47223 7 1 6eaf23a10a8f05315cbd02f4375dc193801dc9b6
+wartimecontracting.gov.	3600	IN	DS	47223 7 2 e97e513f7fb58ef615625c416c970a1898a3e2a3b8e751b988f6475ac6deea60
+wartimecontracting.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ht91UrBi1V1heWEgfZMF/DcEie3qPfRc7ZuiSVvVNlMPKcOCm2UCK0cpD4jQgVPCnE8GKto7VT/GjTUlmrD+E9FGaDCsV6jidxW+Bro2NEKkrV3P4da0ubPXdqnLDSdYWXSn8aTv+pYfC4HkjTUxtPr5XoMoNGAiDI978iMj34U=

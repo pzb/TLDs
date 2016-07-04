@@ -1,0 +1,12 @@
+cpnireporting.gov.	86400	IN	NS	eur2.akam.net.
+cpnireporting.gov.	86400	IN	NS	eur5.akam.net.
+cpnireporting.gov.	86400	IN	NS	use2.akam.net.
+cpnireporting.gov.	86400	IN	NS	use5.akam.net.
+cpnireporting.gov.	86400	IN	NS	usw4.akam.net.
+cpnireporting.gov.	86400	IN	NS	ns1-46.akam.net.
+cpnireporting.gov.	86400	IN	NS	ns1-96.akam.net.
+cpnireporting.gov.	3600	IN	DS	35467 8 1 2453b504f534ffc0612178459942e2659f9e4ed4
+cpnireporting.gov.	3600	IN	DS	35467 8 2 f4329d9d92a7def9ddc14ee5930f13d33a5162e75f31052caa35ff556279e1ca
+cpnireporting.gov.	3600	IN	DS	50009 8 1 a5d05e23385f62fd5b9236ae9f5c0bb71e0ee156
+cpnireporting.gov.	3600	IN	DS	50009 8 2 c2fef622ace20e1e7ccfec98d18800a7c1cc2b4f0bcb6fae334b50893c309eeb
+cpnireporting.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. HH3DRzc8R3gdKMLJ1rA+Ad34G+5ofr+8bQsGBqqG9Fd6XY+MzOdJBbJd5sVByDYjx75KKwhhQh4p8sBMUgqcYI+fr8Tlbld7m5ovdQqcWwlcQpLWzl/J9GnrMpTbmNekgjPNn+wSt0A29SqsB7JDWYEXTwCC/gy+qRjk1mQBI70=

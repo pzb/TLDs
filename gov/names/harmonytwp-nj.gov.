@@ -1,0 +1,8 @@
+atf1to16rmct2kmkcskj5tqgp82g0ga7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. i1JNqX6/a5h3+s5R6pBOhPSG8I3HLhKrn2BcYjzscTWkS/u50qXUXvnDzFnzzBmb3wqpuckxxCtA4+f1ao4MnQkfzaySbVGgY1wgWXl0fySsZEetVhm+8cg/J87Q1lcosaMJfhU//XFfAMWBjyQdLnuYnEnNsi2ZFNtIH3X0JVw=
+atf1to16rmct2kmkcskj5tqgp82g0ga7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  atmms4pmdhl1chfk9f0vh4lajfljq8ef NS 
+harmonytwp-nj.gov.	86400	IN	NS	dns1.ptd.net.
+harmonytwp-nj.gov.	86400	IN	NS	dns2.ptd.net.
+harmonytwp-nj.gov.	86400	IN	NS	dns3.ptd.net.
+harmonytwp-nj.gov.	86400	IN	NS	dns4.ptd.net.
+harmonytwp-nj.gov.	86400	IN	NS	dns5.ptd.net.
+harmonytwp-nj.gov.	86400	IN	NS	dns6.ptd.net.

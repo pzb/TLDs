@@ -1,0 +1,4 @@
+5335h7te962kuq26hbkbmjjenpkrmgdj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. V1kI2MANs2fvbGSmwFkzaJXMBVD/FabqUjAO+yjmopIROshWyuU8Vbek4yNnUrzQzACXegdIFSmScN/H0EWTNZyyWjuTvP4nNXbDyH+1qygXhNoEvBpJG/3hkvh4qYjX8YXxc8I0S6saHrhMd94bdGPPxSGryj2Pb9cglk3GxCA=
+5335h7te962kuq26hbkbmjjenpkrmgdj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  536a5jq7aivr83b0nhea5orbc8avm92r NS 
+boydcountyky.gov.	86400	IN	NS	ns7.readyhosting.com.
+boydcountyky.gov.	86400	IN	NS	ns8.readyhosting.com.

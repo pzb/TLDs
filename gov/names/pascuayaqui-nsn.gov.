@@ -1,0 +1,4 @@
+bfmj8ermia5hj8jueaeijb04urtslat5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ZvcY/5GcxiECGUY6fIwXzs/FPzXAJ7TSmwORcjguHC9mh8av//895MaKMKy1zAn9rMwxueeSmlrbdmLAbbk6Kjbt1Y0xajBGh7jRlk1MOKsSAd5+n9Uup5onpAjl3+26sUCfE9jyRu75JoGqphlUzWmcYGbrjCDPKEFDImT+bVI=
+bfmj8ermia5hj8jueaeijb04urtslat5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bfqnoi7ijjo4iijdl1k7ns7b4p5o5o3p NS 
+pascuayaqui-nsn.gov.	86400	IN	NS	dns.gci-net.com.
+pascuayaqui-nsn.gov.	86400	IN	NS	dns2.gci-net.com.

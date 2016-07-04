@@ -1,0 +1,6 @@
+f4fqullnb4qbk8kuj7kdrs6gp9mvl9lg.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. pa4sCOEHFHnLAhVtSvhhXLSjVz/IHppl26uITB3VszniiDHZHoDAxQ9ik7ag9vVJMrCtIbsrpwHCqs06S42gchT2bZ1UY4ivc4EZ2CVYLA4SEi1XewmLpzcRIByl1cFKBczHAHuufWZk52x0pWOrYnvoHl47XpzFi2/xEpXWdlE=
+f4fqullnb4qbk8kuj7kdrs6gp9mvl9lg.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  f4rq3ht3fl3ieieak5nhija7mcl9a69i NS 
+ns1.sd.gov.	86400	IN	A	164.154.62.76
+ns2.sd.gov.	86400	IN	A	164.154.62.77
+sdauditor.gov.	86400	IN	NS	ns1.sd.gov.
+sdauditor.gov.	86400	IN	NS	ns2.sd.gov.

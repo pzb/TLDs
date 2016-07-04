@@ -1,0 +1,6 @@
+edns1.alabama.gov.	86400	IN	A	216.226.178.11
+edns2.alabama.gov.	86400	IN	A	216.226.178.12
+mhuffo1ae5oa78d0h7mo6j11b1tfja4f.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. vt+S81P2xvSe6Svl2Z9h7BhqPUWtk+pNtltKMp4d7OQXjIn3UDeYN/OS3EELmWsiloCfs/jHgCEhs6GHScRYVjopVXXG7PRnAkrE8E31AtfOYe/JqF3mY1JkOCkLVkc++2Asby4n8I5qOxyhM20mRkHPyH/RHC2s2T3Oc+MZnzI=
+mhuffo1ae5oa78d0h7mo6j11b1tfja4f.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mi6aa1fd1s1tgnfb5025ksj6bo3t2onq NS 
+servealabama.gov.	86400	IN	NS	edns1.alabama.gov.
+servealabama.gov.	86400	IN	NS	edns2.alabama.gov.

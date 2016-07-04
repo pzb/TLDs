@@ -1,0 +1,8 @@
+odni.gov.	86400	IN	NS	a1-22.akam.net.
+odni.gov.	86400	IN	NS	a3-64.akam.net.
+odni.gov.	86400	IN	NS	a12-65.akam.net.
+odni.gov.	86400	IN	NS	a13-65.akam.net.
+odni.gov.	86400	IN	NS	a16-67.akam.net.
+odni.gov.	86400	IN	NS	a22-66.akam.net.
+odni.gov.	3600	IN	DS	55405 8 1 46d61e5160c05bca0f095c90487c1fe87b16efdd
+odni.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. LPwLUQl35xTBdjctW+aFSB7ZnlN+NQhOQDdheDliZqAfkPrTPf1VZlLCby38bbXfwPnKkbxrkPyEL18Ad0us6IbBqZUlc73aAvTZFl+yfD2Q9PQa8FF1U32hOj3TELrm6XwCIlv2glIDQrnHXKdgBNANeSvwGZ6UQm9cNqbEMnA=

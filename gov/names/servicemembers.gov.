@@ -1,0 +1,14 @@
+servicemembers.gov.	86400	IN	NS	ns-jdcd-01.usdoj.gov.
+servicemembers.gov.	86400	IN	NS	ns-jdcd-02.usdoj.gov.
+servicemembers.gov.	86400	IN	NS	ns-jdcw-01.usdoj.gov.
+servicemembers.gov.	86400	IN	NS	ns-jdcw-02.usdoj.gov.
+servicemembers.gov.	3600	IN	DS	41329 8 1 24b950600251825a41489d7f4ce76114d9c211a9
+servicemembers.gov.	3600	IN	DS	41329 8 2 3683a54c8a6db9beffcb43cb05595c2053d6d08be7fb55ce4400e3be4582932a
+servicemembers.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Ij7/nT8bxGWRT5sgLcy3twDYsafSo0UxhhyobCkut8TQ795ck0Hfj18Zm9/EAyxkgLuT8D8VQLHGZJYjjtyvidAxltjsdmA/wOzu5EaLVwU5vo9XecqlJzC44+g7Z3ejJ/cZKJwbdCmdp4stgqMsTfjgMWBJLM4K5GhexdpxEEI=
+ns-jdcd-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcd-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcd-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcw-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcw-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-02.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::6

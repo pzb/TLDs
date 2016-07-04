@@ -1,0 +1,4 @@
+5dsef6uan906rphtr59ort17or3ns90h.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. P/6W0F2vyZJYpXkRZjNCkBRl0WE87d/+vW8U64EYAoo8i4ZPmAX8bEOCBYqm/+PVE8v2H2y6NeSbxoZ9HKg2ctFVykzEUJyEJ/poA7Ljbditv2isweOWPPrm2didl8nq4r+oJmvlCRYlw39Cz4H4zA7Giq1VqQYnATCDGxs+r5s=
+5dsef6uan906rphtr59ort17or3ns90h.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5e2afqbucaita6m662g1nh6jpitop403 NS 
+fortmadison-ia.gov.	86400	IN	NS	ns5.zoneedit.com.
+fortmadison-ia.gov.	86400	IN	NS	ns12.zoneedit.com.

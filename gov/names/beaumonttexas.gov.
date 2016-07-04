@@ -1,0 +1,6 @@
+beaumonttexas.gov.	86400	IN	NS	ns1.beaumonttexas.gov.
+beaumonttexas.gov.	86400	IN	NS	ns2.beaumonttexas.gov.
+ns1.beaumonttexas.gov.	86400	IN	A	198.57.232.140
+ns2.beaumonttexas.gov.	86400	IN	A	198.57.232.139
+hm63i3n0pv81271f4ti8aro4r1quphu2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. cF0wsdX9lwbdpyLbMikJE0QoOWvzzki3knBM2nSZE2D+pvo/CLxTMjCfY2fKRXhBhmPu6Oev1gOyBVvJP4b30ml8RCRE0cl5a5NRR07vLJMwhkZ7gSMeL9myzCzW9OWITz/Kn1vQjmW4le5sR5awDf/KyLe7xsRp2VSbnqB6I+0=
+hm63i3n0pv81271f4ti8aro4r1quphu2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  hm8m04lusqits3619e5763h99at5v59g NS 

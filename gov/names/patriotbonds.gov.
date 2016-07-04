@@ -1,0 +1,9 @@
+patriotbonds.gov.	86400	IN	NS	ns1.treasury.gov.
+patriotbonds.gov.	86400	IN	NS	ns3.treasury.gov.
+patriotbonds.gov.	3600	IN	DS	10840 7 1 e2592b86b508e83910c9dbf2dff939596c5dbb6f
+patriotbonds.gov.	3600	IN	DS	10840 7 2 24eeea4d2d232b4b0f7fca69efe0897c3b1d5d42e22db8e51e39f741b51fa32d
+patriotbonds.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. JjkJW+AmMOirH0aIQ/biPEU25xwI8GxBS9YkkX5n6VfDoyqREN6tZqldwq4SX/i/o3wDz3dprZg87hqeDFz7KBGQPUd2HCKvty7fZTp5wYdVpSoFy7ZvFCnB3AOZxh/f+7QOcsaHzSdBaSo1YYheRdLQAbHGFwSdH4kypZcbthU=
+ns1.treasury.gov.	86400	IN	A	166.123.208.249
+ns1.treasury.gov.	86400	IN	AAAA	2610:108:4000:100a::249
+ns3.treasury.gov.	86400	IN	A	164.95.95.155
+ns3.treasury.gov.	86400	IN	AAAA	2610:108:3000:100a::155

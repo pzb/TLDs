@@ -1,0 +1,4 @@
+fkb3t1mvfavq912gemu73os15nnn4qc7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. PsaMrhWDItjKM1guGH+bCjLW5ko5ilMYn/RoUQkznCrXdjDgQx63+BEO2nc5DYvZ8YVmY2wkQYEBu+WOCx3g+xwu0WB8FozbS4DpaqbjxZ62F7Nt+UqkWI3SWOW7BoWhImVrGF0cbq8WzWpqfpQSAojwVtbuAAkfw40OafmQdNg=
+fkb3t1mvfavq912gemu73os15nnn4qc7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fkkrdqtakui5qm45ugcr7jlvogvepanm NS 
+tachi-yokut-nsn.gov.	86400	IN	NS	ns3.toriangroup.com.
+tachi-yokut-nsn.gov.	86400	IN	NS	ns4.toriangroup.com.

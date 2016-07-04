@@ -1,0 +1,11 @@
+ns5.net.ca.gov.	86400	IN	A	134.186.254.247
+ns6.net.ca.gov.	86400	IN	A	158.96.0.249
+ns7.net.ca.gov.	86400	IN	A	165.235.254.249
+cahwnet.gov.	86400	IN	NS	ns5.net.ca.gov.
+cahwnet.gov.	86400	IN	NS	ns6.net.ca.gov.
+cahwnet.gov.	86400	IN	NS	ns7.net.ca.gov.
+cahwnet.gov.	3600	IN	DS	10465 8 1 4afc411193cc377ab9972928517f976014db7692
+cahwnet.gov.	3600	IN	DS	10465 8 2 8de22a6e9ddbf185b116148f9ca99fbef2ffc48c865d506cc7d55716ed0a2539
+cahwnet.gov.	3600	IN	DS	26059 8 1 95de69d1b2ea692dc723852684825c16d9166153
+cahwnet.gov.	3600	IN	DS	26059 8 2 4633c5bbf549fd0417fbaa1b42ae4aee49234918c7a234bba8277f72e09fe73e
+cahwnet.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. OLxUj4fmEvxXgRiF8txxAl8Yn9bk2l+lOvHunmKDL7mGbiyP9/7w21xjk+LP+YtiMmXRpec7H9jTsYeI6ygrtR6BsFZ7uP8dnvMFstUjoTVJ6GTU4ImcxCNyuWXSgfJjLNhhiA4N7x3asb9ZhzcjkCOCZ1nCqS/MuSl+u1qrU/s=

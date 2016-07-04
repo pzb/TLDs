@@ -1,0 +1,8 @@
+telework.gov.	86400	IN	NS	a1-12.akam.net.
+telework.gov.	86400	IN	NS	a5-67.akam.net.
+telework.gov.	86400	IN	NS	a11-67.akam.net.
+telework.gov.	86400	IN	NS	a14-64.akam.net.
+telework.gov.	86400	IN	NS	a18-65.akam.net.
+telework.gov.	86400	IN	NS	a20-66.akam.net.
+telework.gov.	3600	IN	DS	51994 8 1 1f46eb158824b78ffd21e76d66cfe34e82453cca
+telework.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. vvFMKvvP5ZVp1gQZ9kpTHtoIzf25OO7AuqKqb20h77Mlny9aIzoCpoT+/KSDynjS013MQAaNjNEGe8ewtCONf+2RjfMlUPPptB41VvrmUSqdnAekuD3i7IfYnpBgF4BiDkRz4dmqhKsOZjeArkPEGXix+X/dl1NXgRvemL9nffU=

@@ -1,0 +1,4 @@
+branford-ct.gov.	86400	IN	NS	alpha.recol.net.
+branford-ct.gov.	86400	IN	NS	zhora.recol.net.
+fpuaqb9j6rd3tk8enfej15077ga869j8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. JiCBdPPPmiyDlHlY6ag4gY2OvO1J2/84RIFrA1dCGa0xA90otJts4XtiPEwjnYaj8XcdV0togIBEKRoIFao0lpzG6wwxzFeVDyf81tcsN96ZLYeCNP9qqaPY2LcMnsmYcTJV5wbJtaSV3qGraPkFu3KT3SmyRXiGeKAsoTZG6O4=
+fpuaqb9j6rd3tk8enfej15077ga869j8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fq6vkbc2jro4qbbiav7ij38e602ugnb4 NS 

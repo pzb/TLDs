@@ -1,0 +1,6 @@
+g2qaalo9ri81ruajjud69undbjf97a9e.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. DCXwc3ulx63G5v2RxSndeflDrFfAbQ2FxlVsWEpKxEiqmn4fqf41yS46BmD5+DhRtyptaCQ/Yd1MlX9NpzS+0UbFgB2XLLyqHO/vcVUZsLuILo0efmhGDQOyPCIEvSAyCJuFmwBppgRziAcJetUzkN9RYg0l+G7Ko1ptlEbDU0s=
+g2qaalo9ri81ruajjud69undbjf97a9e.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  g2vui41svk513iip9rda0gr2jhj90i0u NS 
+safesd.gov.	86400	IN	NS	ns1.sd.gov.
+safesd.gov.	86400	IN	NS	ns2.sd.gov.
+ns1.sd.gov.	86400	IN	A	164.154.62.76
+ns2.sd.gov.	86400	IN	A	164.154.62.77

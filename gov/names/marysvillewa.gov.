@@ -1,0 +1,6 @@
+lf78nldcjgc1pasp1hjgaiicj2kaqr9e.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. AY6ucGV6p1DVbpiTh9jmaCvAmsR9UAUj754DVFBvfjjHlYyR7QVVdvKgL842AtlFkaH5eNdYyC3iKRV2IItH/vtHMdAhPUb/7cC6Oy2cbkZX/oLJDjS9Q85Nrv2wPA9DVhSp0LLIviqIX7rxz9JScbrVjiZYpsmtoqaLR3hWxqk=
+lf78nldcjgc1pasp1hjgaiicj2kaqr9e.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  lfc7ka962hap1vjluapd4a3g5872novs NS 
+marysvillewa.gov.	86400	IN	NS	ns-95.awsdns-11.com.
+marysvillewa.gov.	86400	IN	NS	ns-669.awsdns-19.net.
+marysvillewa.gov.	86400	IN	NS	ns-1419.awsdns-49.org.
+marysvillewa.gov.	86400	IN	NS	ns-1850.awsdns-39.co.uk.

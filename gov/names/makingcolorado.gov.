@@ -1,0 +1,4 @@
+9kdgfl7a5c1di4np6ii326hv8ndgemiq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hdk4OCsuuPoolvyV1YTjW6SNTphdyIpz3OJtZpzF6HsazZsgjZghOQpL7WTFi/aNFHJOU6fpaCOZ9IM391KY4K/6Z4DovgUCb8PQHPfdi78PqlgoFC3ZOaBUQ1OyLlYh3+Ent3m/TuVfxPd81itBBEKNm05jmTXZUaxHy/R3eWg=
+9kdgfl7a5c1di4np6ii326hv8ndgemiq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9keqq7aeont1qagpv4h4e8jjr4f9pnh9 NS 
+makingcolorado.gov.	86400	IN	NS	ns1.mediatemple.net.
+makingcolorado.gov.	86400	IN	NS	ns2.mediatemple.net.

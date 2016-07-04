@@ -1,0 +1,8 @@
+a0gng7g20m3aofa98poh0cq4gm5r7ufu.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. M2Ptf5p5v2fzYIJFplZxacnxFrU/m6ceEQOpd+6pT3ebLhayEkczRjLnd298sIIA3OHXlR4x+YJ5+A4uGENt+bBSU6rBtAVrUUOOITQjOC4rd70fDaQHrDVSBkIMAt3sapnU028vIAIrm1aVL88cJgbKHLyX2CSkW7dg/TDzplk=
+a0gng7g20m3aofa98poh0cq4gm5r7ufu.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  a0qpmpjvqjgl529dr697h0io5n084t47 NS 
+bethel-ct.gov.	86400	IN	NS	ns10.dnsmadeeasy.com.
+bethel-ct.gov.	86400	IN	NS	ns11.dnsmadeeasy.com.
+bethel-ct.gov.	86400	IN	NS	ns12.dnsmadeeasy.com.
+bethel-ct.gov.	86400	IN	NS	ns13.dnsmadeeasy.com.
+bethel-ct.gov.	86400	IN	NS	ns14.dnsmadeeasy.com.
+bethel-ct.gov.	86400	IN	NS	ns15.dnsmadeeasy.com.

@@ -1,0 +1,6 @@
+a5eg9souu9uql1l1v9agnvurpgsnu87u.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. JPlcrTuKlxFLUm/xxgkdbzXxjMrANffZoykyaBYmoxDYTBqv5REOw3lE+O4QesWyojVeuYlyTvvkcnyd5RxfmdsVat3JuVErKkvXbN87EIWfQdI3GLtQMqqt1BQ8Bb5Ye6o80KQwDI4vdqSL6E41krIrz77w1FeVXW1pJLURvpA=
+a5eg9souu9uql1l1v9agnvurpgsnu87u.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  a5gojptg7tjq63o03d0oa7ikgvic04c0 NS 
+aikencountysc.gov.	86400	IN	NS	dns3.infoave.net.
+aikencountysc.gov.	86400	IN	NS	dns4.infoave.net.
+aikencountysc.gov.	86400	IN	NS	acns1.aikencountysc.gov.
+acns1.aikencountysc.gov.	86400	IN	A	65.111.136.2

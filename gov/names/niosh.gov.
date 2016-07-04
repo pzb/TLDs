@@ -1,0 +1,9 @@
+icdc-us-ns1.cdc.gov.	86400	IN	A	198.246.96.61
+icdc-us-ns2.cdc.gov.	86400	IN	A	198.246.96.92
+icdc-us-ns3.cdc.gov.	86400	IN	A	198.246.125.10
+niosh.gov.	86400	IN	NS	icdc-us-ns1.cdc.gov.
+niosh.gov.	86400	IN	NS	icdc-us-ns2.cdc.gov.
+niosh.gov.	86400	IN	NS	icdc-us-ns3.cdc.gov.
+niosh.gov.	3600	IN	DS	30501 7 1 73585a115357cbafdd357980caea79329a01422b
+niosh.gov.	3600	IN	DS	30501 7 2 ac933fa09c70f6ec305cedba6330a65f055abac6665626fba6dc7feeb6a8550f
+niosh.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. OoBu0leI/9lJHd2BdDtmgl7hejl9bcJaJYQkjfrTnhQAEatmYEjL/Hi0yyUSrHyLSZEoFMIzRod3yfUSVQv+35fDuwz1QZneIslxATxDDuCdUDVgyatSEoUVLJb3/bTv5StNWvaQcC/2TOuEk7xLRpsNAZDvkQug7/aFU+Hp9TM=

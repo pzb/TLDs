@@ -1,0 +1,5 @@
+32d9eb4udgfkou2gtelsj4cj2k3744uf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. sVtbxoQU+v0xp/t4w1j8Xu0Vnmj2W9GxTMX9F1ckptDKg5eIgJbLA4gnW3+HhXYBZgurlok3PXLJ9CTdTagj65du6eXuh5oSsmSubxiSYTuM6+vG06iMynAhtkubdobwoxm5aUiZpGp0XhapwcH/juBTWi0Z7d6G/wzLu43qyig=
+32d9eb4udgfkou2gtelsj4cj2k3744uf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  32k8b871uor7utqmogb2setevisrldsa NS 
+glendaleca.gov.	86400	IN	NS	dns1.easydns.com.
+glendaleca.gov.	86400	IN	NS	dns2.easydns.net.
+glendaleca.gov.	86400	IN	NS	dns3.easydns.org.

@@ -1,0 +1,9 @@
+fccuniversity.gov.	86400	IN	NS	a7-67.akam.net.
+fccuniversity.gov.	86400	IN	NS	a1-166.akam.net.
+fccuniversity.gov.	86400	IN	NS	a13-67.akam.net.
+fccuniversity.gov.	86400	IN	NS	a20-64.akam.net.
+fccuniversity.gov.	86400	IN	NS	a22-65.akam.net.
+fccuniversity.gov.	86400	IN	NS	a24-66.akam.net.
+fccuniversity.gov.	3600	IN	DS	19915 8 1 36ea74c3d55125b72ef59498236e2a0db6edea3f
+fccuniversity.gov.	3600	IN	DS	19915 8 2 41e3e5f5179e0b436f577b6fd329767fe5a8153841e1dc5b6439c95877d6ca50
+fccuniversity.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. tHcsiE5UvzVFdDsU2IRdBTkh4wZciNpLjQnG+ESupBloy3fWMgsZuxCub7oiRYWfqWBV6yDhSP+XCASLhxiw6tZxskEgx+1fylp7Uc+wBsr/hty0133aQi7fH4KTHHbrA6hAc/BIPshWkzUvzx7cvd+/I45s+qToUwsB1P6bLOQ=

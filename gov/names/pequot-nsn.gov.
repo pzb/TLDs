@@ -1,0 +1,4 @@
+63f1uohe1eg0qemdifd729np3giol8ca.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. oBNAsHL3qSmbM9yZNDDsUAQ2wuLULpL7ZlmPeSG4ct31G0kkErcFIc85Jyxlp1VidS2US7e2AaW6j+cBBa8X2/WDFUe/CfUJPRWpiKAYNe+R51z8U4ojC0sbWSuv4+Ro00HQyqfyc3qWRlRtUC8pXrgIzb//oCn7Ej664swWgdw=
+63f1uohe1eg0qemdifd729np3giol8ca.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  63fpj53alfqb8iffvl6arc837kdofra0 NS 
+pequot-nsn.gov.	86400	IN	NS	ns1.mptn.org.
+pequot-nsn.gov.	86400	IN	NS	ns2.mptn.org.

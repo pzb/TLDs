@@ -1,0 +1,11 @@
+nwcg.gov.	86400	IN	NS	ns1.nitc.usda.gov.
+nwcg.gov.	86400	IN	NS	ns2.nitc.usda.gov.
+nwcg.gov.	86400	IN	NS	ns3.han.nitc.usda.gov.
+nwcg.gov.	86400	IN	NS	ns4.han.nitc.usda.gov.
+nwcg.gov.	3600	IN	DS	29283 10 1 61b03d4b63c0c238d788a47f57fdcbd4414892fc
+nwcg.gov.	3600	IN	DS	29283 10 2 5465824e6e9fc8a59652aadfb7e951c0b6ca566df30e68b8592dc92de85d6b4b
+nwcg.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. PCvoNFTdIch3ew7wUpfNh5LvSBqcJw4rkdV+Lmrm0CO/NJp7Nea+67DC13wl71D6SjqGXhNV2aV7vd7jAEwq1gQ4js26fnGCRj/7h+c8GAeS/yOIzZ3+yey6ewbtg7prdnDo09WiUyFQyjmK+35k48Qp4M3Dpg3bAg8pM5iuT9w=
+ns3.han.nitc.usda.gov.	86400	IN	A	199.134.208.70
+ns4.han.nitc.usda.gov.	86400	IN	A	199.134.208.90
+ns1.nitc.usda.gov.	86400	IN	A	199.134.227.5
+ns2.nitc.usda.gov.	86400	IN	A	199.134.227.132

@@ -1,0 +1,11 @@
+ns1.treasury.gov.	86400	IN	A	166.123.208.249
+ns1.treasury.gov.	86400	IN	AAAA	2610:108:4000:100a::249
+ns3.treasury.gov.	86400	IN	A	164.95.95.155
+ns3.treasury.gov.	86400	IN	AAAA	2610:108:3000:100a::155
+usmint.gov.	86400	IN	NS	ns1.treasury.gov.
+usmint.gov.	86400	IN	NS	ns3.treasury.gov.
+usmint.gov.	3600	IN	DS	24333 7 1 728e9a9a2580be7f651a01f4c9dfcd66082fa97b
+usmint.gov.	3600	IN	DS	24333 7 2 9311dda1fd7dd2e7b30ac94eabdc7058f6345a7ac74c79932a0e3bd94a4a65e9
+usmint.gov.	3600	IN	DS	40869 7 1 56463d51ec495adec302f9d216c6e6b595cee076
+usmint.gov.	3600	IN	DS	40869 7 2 60886f3aec9fecca18d6dedd74922dfbbe7cc0a99acc460ab8340de0826aea67
+usmint.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. bf/ajZRnWnOfjWkfD61XdDxvxJ9CBRYrVJTSgct2SZWKgWk+wHuPK42R2VuwzYXZQa5vZQ3fs/zBftmk6ElQdUB0N8BB33Nm/sM+hmz1w6I4bShQ+NKskgwrSYVMLj7ZcJ8YoE2aXDWOj7PCZD89DLx8PpWlLzbq/WJcv8CeaPQ=

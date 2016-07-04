@@ -1,0 +1,6 @@
+ns1.azag.gov.	86400	IN	A	159.87.87.50
+ns2.azag.gov.	86400	IN	A	159.87.62.150
+azmortgageresource.gov.	86400	IN	NS	ns1.azag.gov.
+azmortgageresource.gov.	86400	IN	NS	ns2.azag.gov.
+vmin8h5or16oips2dck09b43l1b52imb.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. dlFNX9dqejqyhXm6/VV33gr6Jt/jcOMYbonnjhi88GJgq1fe5dAqM95yWnYhnZuN0fzsorJO9opFEAyqxtmnHS9+kGuar3XcdHWFyzV+5Y4VnD3xDmSvwbXjMUTWOZegB6HwePvZxAwQGagZm33JZZj3r7VT6Q5LsdmfbEWaEKA=
+vmin8h5or16oips2dck09b43l1b52imb.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vmj00h9i647edmuj2eqtdrbi9osnqrs8 NS 

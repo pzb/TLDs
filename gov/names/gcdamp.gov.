@@ -1,0 +1,9 @@
+gcdamp.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+gcdamp.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+gcdamp.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+gcdamp.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+gcdamp.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+gcdamp.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+gcdamp.gov.	3600	IN	DS	54731 8 1 1872a62c39185017e30c8bc93fd74de0cb902f03
+gcdamp.gov.	3600	IN	DS	54731 8 2 eb85ed9f04f186d51dfaf520a69138ff0e3492ce70688981030391583b9f90c2
+gcdamp.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. A/nEgKzV72jhkt/IRO1f9Eie9Z3Pm4mIQR7y9BbSHgfGGK6MUplPpgCQdjHnKNLQV6jrRRMQddZVgHGSoADfgOMw9683B3OLAZFr9V/vvdMh5cxJA2AYAu/YxiiySPlKe0urGG68QxNyFjvQbv8/GEkvv6yj3ti1yVg1518FMHc=

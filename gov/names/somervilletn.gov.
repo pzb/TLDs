@@ -1,0 +1,4 @@
+somervilletn.gov.	86400	IN	NS	pdns07.domaincontrol.com.
+somervilletn.gov.	86400	IN	NS	pdns08.domaincontrol.com.
+uucs1invggjd8a7v564jsa7h9g9mmhto.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. RiYrfI0nsuhXe10xJIorEkmSoCgQqxKNqYiuWJQM6wmIGfWJ8QJQlq8RZ01lFWqjCWL6Ai3/EbGa0+Y15c1vF9Ljm+eafvXSrCFdcoG6HBPt5cDYF5F3NmdJWwkWV5FPuZKSmvEKoUG2gow4XqLxyI5ZEXNBmNI0ibTIGcZNwkI=
+uucs1invggjd8a7v564jsa7h9g9mmhto.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  uujvjjrfes5qtnp3649goporjn22tk60 NS 

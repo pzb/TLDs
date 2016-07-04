@@ -1,0 +1,8 @@
+jbh8djb8af6p9ev9vihlieq1isn55dee.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. xq27R8e6Db+C5D/mb56Henaj815EimfRG1bVHmml4uC3jc7go9wn+BWJRXnPYH9SYPiG4ugBWfjUsA8txl4+1+bGZDwwDUUzofWn0+FKwQRmjkKPES1h8s9TIRq28Xh5WkEYZh5uzUELU2eiHPxTUBZ2ejFrYK1vxOyuAN7uUrY=
+jbh8djb8af6p9ev9vihlieq1isn55dee.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jbht4t2i8n162klitr17ubncab4tj5up NS 
+mich.gov.	86400	IN	NS	a1-35.akam.net.
+mich.gov.	86400	IN	NS	a5-65.akam.net.
+mich.gov.	86400	IN	NS	a11-66.akam.net.
+mich.gov.	86400	IN	NS	a12-67.akam.net.
+mich.gov.	86400	IN	NS	a18-64.akam.net.
+mich.gov.	86400	IN	NS	a24-65.akam.net.

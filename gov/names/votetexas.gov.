@@ -1,0 +1,4 @@
+9qr1d2gv7mdmftskfrk036ujoqobvugq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. NYNnAoLU8zBBfWDld8GREnSolX+B6mFHSQp5ACsQ1zugBrcwK/lGlvOeMo7W6NOQWj6ZNIS4SkxjCK2aJBE4mZSlw6FHOVZQwqOMIofjnag2gdb9d8kWLkUDxLxDtpcspt7Ql9eQOJulSoF3G7sp2G0icpASr/GTyhiiGx5/hGc=
+9qr1d2gv7mdmftskfrk036ujoqobvugq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9r6gjseadstd6krdkm94s1onbbsh20uc NS 
+votetexas.gov.	86400	IN	NS	ns.capnet.state.tx.us.
+votetexas.gov.	86400	IN	NS	ns5.capnet.state.tx.us.

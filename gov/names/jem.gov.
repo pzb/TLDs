@@ -1,0 +1,9 @@
+jem.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+jem.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+jem.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+jem.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+jem.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+jem.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+jem.gov.	3600	IN	DS	33407 8 1 fb7ee82b9b07e23f37c3717d84d83a4603762ef4
+jem.gov.	3600	IN	DS	33407 8 2 b96fd641abcdd0d47397b6748435da902e1965491e1358df0a93f651279ac97d
+jem.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ag3hq9SV/OXyaHC5WCiNDICX5X6i6yAs+HEUIlLoYyRfucdgjY9Cvdxq3JOpig5JGcdINe9KLxHAj9wxeRVCw656TWmvYsp0rDG1M+NVTiS88j18Er06f23c+CEOLFHHfDBcrrERM9lXYBaz4zqXuTOOA0YPalNNkPdusCr4VI8=

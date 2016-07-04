@@ -1,0 +1,12 @@
+clubdrugs.gov.	86400	IN	NS	ns.nih.gov.
+clubdrugs.gov.	86400	IN	NS	ns2.nih.gov.
+clubdrugs.gov.	86400	IN	NS	ns3.nih.gov.
+clubdrugs.gov.	3600	IN	DS	50019 7 1 087cfd8b5053d541e0fdde83f8a625bf2f71691e
+clubdrugs.gov.	3600	IN	DS	50019 7 2 c55f5120e84f33cfd62e399cd931502cec14e4c468c7a03451768045a257c553
+clubdrugs.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. MooubsouJhO602o2OreO93ipekcvdZSgJRxQnSwupmiw60mfQblnxcgJMFaLebenwus58mqo/AquPDFCK4+kFe+WCzInX64WXYLmjR/LXqpzSB2j7XguAOc1rubB8U2zX3CDqjV3GevRPWdP69Ks69FhBDUMz2+K1UXjva7rdUk=
+ns.nih.gov.	86400	IN	A	128.231.128.251
+ns.nih.gov.	86400	IN	AAAA	2607:f220:404:101::80e7:80fb
+ns2.nih.gov.	86400	IN	A	128.231.64.1
+ns2.nih.gov.	86400	IN	AAAA	2607:f220:418:4101::80e7:401
+ns3.nih.gov.	86400	IN	A	165.112.4.230
+ns3.nih.gov.	86400	IN	AAAA	2607:f220:402:1801::a570:4e6

@@ -1,0 +1,7 @@
+dns01.osha.gov.	86400	IN	A	152.180.134.69
+dns02.osha.gov.	86400	IN	A	152.180.6.12
+whistleblowers.gov.	86400	IN	NS	dns01.osha.gov.
+whistleblowers.gov.	86400	IN	NS	dns02.osha.gov.
+whistleblowers.gov.	3600	IN	DS	25742 8 1 eea717179c2ab5b3221c38a944f32eea0eebddde
+whistleblowers.gov.	3600	IN	DS	25742 8 2 5be03f9180bdea953e04e571f28236de1013cee31c7e572c0e53bc832bf6aba0
+whistleblowers.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. acnUAJ9/bjh+Nsdhm3946kpwYKEayMuEp/2QXJWwnT0a8jc2WlE1o/DblQmCAvTxtGv9Wc+N+nKK27eenMqQQ9lZ5mb7HS7BdeovN4QPsuVcjvyMgGfRpVNGXz7cUxwm9jBE4dkXARwRrrC5RBHEn0jDVGJFz5mRG2vIvS4Rn2I=

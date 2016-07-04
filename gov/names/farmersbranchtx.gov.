@@ -1,0 +1,4 @@
+farmersbranchtx.gov.	86400	IN	NS	dns1.civicplus.com.
+farmersbranchtx.gov.	86400	IN	NS	dns2.civicplus.com.
+t40kolc6n37u6s1q24c8gp20qd3vkp9d.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. lamhny+r10MESsgfTVPABWlzZML/gGQgUBrBphVz7qfLkru50hcWZdT999eB5do4V94AMTqYRAbs6Mc+R1+FpjzthNWWDGQ9v+5m1/nK78DYl2mv6pycdN33LOSeII7SRc5O5sW9bQtPvuTQ1Ij8+vhn+x6ryeEuvrXsBIlbTco=
+t40kolc6n37u6s1q24c8gp20qd3vkp9d.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  t4i41u8blm93s5pipvm9in0r26gnvvq9 NS 

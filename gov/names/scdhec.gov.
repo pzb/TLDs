@@ -1,0 +1,6 @@
+73p78fl86nt508crlmugnk078g4ql536.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Kb6bi7fHAfE4Ap3DH91/kzVAtH+r0UaGefi7GAuLUP4qKSxH/Q5gzO2af4Ai9E9uUzOCUUHrhdEdfqW5+s1YpS46aSQNYYlXFfeZ6X7/JvuV7yFk6L6OkoL4DvQ+4gZwpV4hy6OIprwvFIpBySiSb2bR9LG7ZHomw844RDvGOzk=
+73p78fl86nt508crlmugnk078g4ql536.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  73s6n7qo07q992aburplblred35u1u69 NS 
+dns1.dhec.sc.gov.	86400	IN	A	74.254.77.40
+dns2.dhec.sc.gov.	86400	IN	A	74.254.77.8
+scdhec.gov.	86400	IN	NS	dns1.dhec.sc.gov.
+scdhec.gov.	86400	IN	NS	dns2.dhec.sc.gov.

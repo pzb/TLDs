@@ -1,0 +1,4 @@
+3pef3rr7u039rvedpq0gggjv5osjmi3u.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. M3SnxiTsgQrCn6C/qASzcC43oJPDj1XGN+hrkWjrCV5Wx45caUt2R1pT42Myc1WJRTmCbuspltyt+PuA522+JP40GKgySKqvaC8TQ3UDuGvhyKjYy/czNwG26xzDig9sQBSA4xH61xy/WnaWT/z18XFEmWEyMrvv0V5kN60t/hQ=
+3pef3rr7u039rvedpq0gggjv5osjmi3u.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3pk9fmhqhpogli723j9q776d8vsj4n9g NS 
+rogersar.gov.	86400	IN	NS	cbru.br.ns.els-gms.att.net.
+rogersar.gov.	86400	IN	NS	cmtu.mt.ns.els-gms.att.net.

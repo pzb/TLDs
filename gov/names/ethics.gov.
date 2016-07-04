@@ -1,0 +1,8 @@
+ethics.gov.	86400	IN	NS	zc.akam.net.
+ethics.gov.	86400	IN	NS	use6.akam.net.
+ethics.gov.	86400	IN	NS	usw1.akam.net.
+ethics.gov.	86400	IN	NS	asia9.akam.net.
+ethics.gov.	86400	IN	NS	ns1-145.akam.net.
+ethics.gov.	86400	IN	NS	ns1-176.akam.net.
+ethics.gov.	3600	IN	DS	21777 7 1 c749425fb6bf65255f0d45f39e5bbe9b8ada5a79
+ethics.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. c9k80BXI8TVa6s4zxvP0bRDAOsnWK4erxNUURG7Ly7YpSCXzNiA6+xEP8tANctD2rRoglsOcwIYoqs6WUdeZMAPNaFzif6sa3hQR4AZfYtCwF51vHsJuwe3j8rMPWO3Le4N1mcycrs00EDonNSvPVzFu4FFI4toLs+ArgOOzNVU=

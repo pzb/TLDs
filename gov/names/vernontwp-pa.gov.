@@ -1,0 +1,6 @@
+06rkl8cfokek5mbov7btiu36i3uku7so.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. h4tgherjJqFjRAPHHfONx7X6YIVyfCXfLDhBT0QJcOQKD8LBnkroYjpV/bWQieCQPVtvlLrkrkT3dgoT7BazHtg3UYr4FQmxCpGyCioTYE/oNSppsC3rKWmzwDmCZ5ggj7XqLKiq4bB/yETRLKpT0mwqyrVQRhK6Vlz67jf1mdk=
+06rkl8cfokek5mbov7btiu36i3uku7so.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  06ttnbea9jku0n7m5f6d57crh2e6tobi NS 
+vernontwp-pa.gov.	86400	IN	NS	ns1.carrierzone.com.
+vernontwp-pa.gov.	86400	IN	NS	ns2.carrierzone.com.
+vernontwp-pa.gov.	86400	IN	NS	ns3.carrierzone.com.
+vernontwp-pa.gov.	86400	IN	NS	ns4.carrierzone.com.

@@ -1,0 +1,4 @@
+8m8hidem0ndg804ll66b37ehkgepuj8a.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. AM8YM3pWDuM23y3FV13E+cPSwNQ8LQrnae+xiuYZbJUCAG5bpDFqq/AFoIeyVgyR89LZt2AA3FWSmPw7qJGI7VMUuyRk66zXrW0YM1NHbEjFRTUqVo0IHmgheRLt3tFWAdsrnrns5179u0coKV0K2lS6FPstncvDew6hxH3BYPk=
+8m8hidem0ndg804ll66b37ehkgepuj8a.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8m8ml1mmpcuja99q3ggedp2bmurbv67e NS 
+wethepeople.gov.	86400	IN	NS	cbru.br.ns.els-gms.att.net.
+wethepeople.gov.	86400	IN	NS	cmtu.mt.ns.els-gms.att.net.

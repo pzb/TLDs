@@ -1,0 +1,4 @@
+659ee4i9jl1bhrsao78svs52ajshcil7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. f7a25yHz9Psddp+DbhGCgyh5KeG2v7ueFVEwQ/EXuEPyZK0m+n9LS2CjRyHmp2KTqqegBK3X6k8AwyInCwUODPzSoOkxj+keoxXTBmSpTPRyGTHz1xomR2ENbFi1AzC8qvBJBblJATFG9Ppdi68ZODWsDVjbRjSfiH39xkhLtgE=
+659ee4i9jl1bhrsao78svs52ajshcil7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  65grs4kkv0qkelqg2stu47v7ljfgeo0a NS 
+arlingtonwa.gov.	86400	IN	NS	mns01.domaincontrol.com.
+arlingtonwa.gov.	86400	IN	NS	mns02.domaincontrol.com.

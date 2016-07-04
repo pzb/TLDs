@@ -1,0 +1,4 @@
+ctalert.gov.	86400	IN	NS	info.das.state.ct.us.
+ctalert.gov.	86400	IN	NS	auth120.ns.uu.net.
+qc4f7umqi6rt2phepmu1jjg84qstq8ii.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. eqLGwF4SIruVry2c7coaCtVBRf1r2SViuOjz1Hg5QyNLX8kSz6bgsceSsJ+uccYAdRvq1ldJLkUjMie2TE8ytpBahKLpVYxwJwIXUrtN6ptzpvRc5v0eBTrddfzmrK0NfNk5FD57tMxjlrIXUwlzvordwJbctW5A/WCLehdemrQ=
+qc4f7umqi6rt2phepmu1jjg84qstq8ii.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qc65hbct6jq6hjb9l5t3b7o8at3ehvul NS 

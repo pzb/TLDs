@@ -1,0 +1,5 @@
+19f22g11phedljdpfrij89kuaokm2k6h.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. oMYLssmr78V2s1kokMEaPwsyIzUNdifx5v/1ke3lI6ySouqjq94tO9ttAr+UNpbGPBfgy79DDrDRwQKrtgX3+AOEIOGxSgwhWRY2ubpBRnDup24NRisHdadVB/kNeZ1AT6eCCpGKNrZXZrJSQe6RLSV6B/0aom7JSj1Th8VmXSc=
+19f22g11phedljdpfrij89kuaokm2k6h.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  19n8ivtv6c42q9pme8jnlj1s8dqqsc80 NS 
+mansfieldct.gov.	86400	IN	NS	a1.verisigndns.com.
+mansfieldct.gov.	86400	IN	NS	a2.verisigndns.com.
+mansfieldct.gov.	86400	IN	NS	a3.verisigndns.com.

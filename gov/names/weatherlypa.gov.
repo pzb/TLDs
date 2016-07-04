@@ -1,0 +1,4 @@
+ugl4kn7i161akuje73i2v3r92elqvi45.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Bac8Z+pky+OgJoYSmZqWt3nO+m/7V+Qg00vtvQUUQckGYvksgQdjgww6KSde+1Xrpr4FfbOTh1fJrqAme7ukXClExT1k6alvqvGxD8o9WI3VVmR8D/k6bwzVKLzFRxt+kO18E/d/+MILuWyvIkDIIOvZqmairzU83PIPzJY06sU=
+ugl4kn7i161akuje73i2v3r92elqvi45.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ugnlsjflil8ngtakjo5dsbcghid71l7r NS 
+weatherlypa.gov.	86400	IN	NS	ns1.ptd.net.
+weatherlypa.gov.	86400	IN	NS	ns2.ptd.net.

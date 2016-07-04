@@ -1,0 +1,14 @@
+rh202ns1.355.dhhs.gov.	86400	IN	A	158.74.30.98
+rh202ns1.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2a
+rh202ns2.355.dhhs.gov.	86400	IN	A	158.74.30.99
+rh202ns2.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2b
+rh120ns1.368.dhhs.gov.	86400	IN	A	158.74.30.102
+rh120ns1.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2c
+rh120ns2.368.dhhs.gov.	86400	IN	A	158.74.30.103
+rh120ns2.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2d
+health.gov.	86400	IN	NS	rh120ns1.368.dhhs.gov.
+health.gov.	86400	IN	NS	rh120ns2.368.dhhs.gov.
+health.gov.	86400	IN	NS	rh202ns1.355.dhhs.gov.
+health.gov.	86400	IN	NS	rh202ns2.355.dhhs.gov.
+health.gov.	3600	IN	DS	63849 8 2 74b830ba41a80e7575611dc9caad137afb8a688c19f9f605fcb3ddbf882e935b
+health.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. bCh5a1l1PELnTWcZJYvYwnpI/yxaUGXHVkKvXFf6rN7NizQCz558cnupAivQQguzewHmRGl6Q6NoIU5PKhBdQ4wNR5HL320BInuEY2tFNyp6zQUu/1Xd5+AOY1v1HBoXbJxQghadiDOhYVEvJj0Z1KpKS/UiKGDso5bGlDUJ5gw=

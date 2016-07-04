@@ -1,0 +1,6 @@
+00evkkfqpg1gqbjie6ju5g0ab9h3kbpl.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. BAn58O/2NuYqpm8pM3iHtYm83xFxiXX8bAKhMkJZVX6upaGy2SahEHPbAydp+ISF1E/lzYk1FB6vH22mlfWA19wJrN8yuG8yA4dMHCzdPXs7rmeOIO8sAaH/eSv9CQxn/LLvKlG/Su9Zhjtk8oJdLOji0dP2L+SfX0uj4aPiuA0=
+00evkkfqpg1gqbjie6ju5g0ab9h3kbpl.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  00nppkrr25jh10pvhrdj0usl1n5v59lg NS 
+villageofnewtownohio.gov.	86400	IN	NS	ns12.cloudns.net.
+villageofnewtownohio.gov.	86400	IN	NS	pns13.cloudns.net.
+villageofnewtownohio.gov.	86400	IN	NS	pns16.cloudns.net.
+villageofnewtownohio.gov.	86400	IN	NS	vps1299.imagenetusa.com.

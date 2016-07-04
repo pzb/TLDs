@@ -1,0 +1,11 @@
+ignet.gov.	86400	IN	NS	dnssec7.datamtn.com.
+ignet.gov.	86400	IN	NS	dnssec9.datamtn.com.
+ignet.gov.	86400	IN	NS	dnssec10.datamtn.com.
+ignet.gov.	86400	IN	NS	dnssec11.datamtn.com.
+ignet.gov.	86400	IN	NS	dnssec12.datamtn.com.
+ignet.gov.	86400	IN	NS	dnssec14.datamtn.com.
+ignet.gov.	3600	IN	DS	32522 7 1 c7bdedec7626c2de4fc5787bd17def2ddc42e9f0
+ignet.gov.	3600	IN	DS	32522 7 2 2e9c6a0400df46e67febfcd3c94784f8f62741c3b35680c7b549f610d12abf5c
+ignet.gov.	3600	IN	DS	34115 7 1 050048c25de4da40d8b871263696ba2e9ce2ae85
+ignet.gov.	3600	IN	DS	34115 7 2 351ee252322a3b2455d3fc01a1aebbf4d3cb755bb8556009b6a7a25e7a796d6f
+ignet.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. cd62eSJJyIUfcPMIoQwDvwhkDPcJLn1ALlmN6mnWNTxx3Z0msO9nV5xtz7HYP87kiNf3QxDPzTvkSuZm1G17UmB+jE3YWsB1BgpxN2HhUZD+zgzABnTNkNefnnrC4wNS6nXJYeOzVUAdPz5DD/T0Io9UoRhPcEZ7kdGtlwpQlA0=

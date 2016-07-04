@@ -1,0 +1,4 @@
+davie-fl.gov.	86400	IN	NS	jay.ns.cloudflare.com.
+davie-fl.gov.	86400	IN	NS	chan.ns.cloudflare.com.
+itnqeaj06ggsg9tl2ufajfp1sjc48co5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. x86yv6xeTk3DAOGKR0+cS4TwVE473ny/eIRwFK6GOr1iKOtn0tdRVcftuj3PQ86MJFKMGHFAl37z5SdsCfPHKgF278VoySi8HEyQ7rYamm5UQc5FDQAwE0FKT1PzMyLdfU4n0ex1RwlIC7uUq/g5YFst0m8f9xGfRq8LLfK3OKE=
+itnqeaj06ggsg9tl2ufajfp1sjc48co5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  itoost4jcn6ic2fn8l3ikribmlq6nd8j NS 

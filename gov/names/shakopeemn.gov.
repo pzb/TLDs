@@ -1,0 +1,5 @@
+pmdm5lauc8osde5d2vqph6epsjv5s33c.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. b1abOnAT/064Lvp/4pa7xmSYMbz0n65wjEEpdLLCtXpcecejQFWwJNimZuq5swKgyfGEthcaAmb69Qabe5INKbwfNYQT1z/lQpXXHqe5d+KcNdsrtdLHcAEcajjIoO+iNVc7kbwzmi3SgHO3E0hzPVXhdcRecY4/IQHOPa6BMho=
+pmdm5lauc8osde5d2vqph6epsjv5s33c.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pn7chfrhq7vt7cnkhb9fm5ee3mi1agim NS 
+shakopeemn.gov.	86400	IN	NS	ns1.state.mn.us.
+shakopeemn.gov.	86400	IN	NS	ns2.state.mn.us.
+shakopeemn.gov.	86400	IN	NS	ns3.state.mn.us.

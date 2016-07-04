@@ -1,0 +1,5 @@
+3r6hreml0ed4c1rv75u5i1vsc6lpntin.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. bNGuYrIAAEIJlv4Kwz7VVe6YoJ1WxjnMHOi8/+KHeZqlEVmws6ceNfxUaXWYskSCEOAym76JtRL8m6dQfaL8AC/1DDtRx19Zyx43xl6xiD2ICKZA759c6ngn3jcI1c6Ovr+c2NxwbhqtNDcTk2cbXrMqwS2tzphfrnfHW32GXLg=
+3r6hreml0ed4c1rv75u5i1vsc6lpntin.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3rp22fs3vh1gp8sm9v3p9fp8e585frc6 NS 
+wiconnections2030.gov.	86400	IN	NS	dns.uw-mad.wiscnet.net.
+wiconnections2030.gov.	86400	IN	NS	dns.uw-mil.wiscnet.net.
+wiconnections2030.gov.	86400	IN	NS	bigred.state.wi.us.

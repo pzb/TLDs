@@ -1,0 +1,8 @@
+0kg7628l5nf6dv34maggltebugta3a7u.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ZthJM9OStHocU6hexwCjomRQxmBKvz2EkHXXwgkTNa8CrM3Q9R8A0XLw8w35OeppPs0JY6R0thJfXxOlCUNwFAsmNKzvbQZ78uwtxgA74Ef3J3fud9ZpTapbDESi1Grt8hlt4nV0f9UIGX7BaNGM6omKM31KKc3iBu2Qy4Ua03U=
+0kg7628l5nf6dv34maggltebugta3a7u.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0kmiu3c23p9rnfndnl7kjg985k3op4q9 NS 
+newmexico.gov.	86400	IN	NS	ns1.newmexico.gov.
+newmexico.gov.	86400	IN	NS	ns2.newmexico.gov.
+newmexico.gov.	86400	IN	NS	ns3.newmexico.gov.
+ns1.newmexico.gov.	86400	IN	A	164.64.1.2
+ns2.newmexico.gov.	86400	IN	A	164.64.3.5
+ns3.newmexico.gov.	86400	IN	A	164.64.39.50

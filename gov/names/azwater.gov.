@@ -1,0 +1,6 @@
+azwater.gov.	86400	IN	NS	ns-227.awsdns-28.com.
+azwater.gov.	86400	IN	NS	ns-845.awsdns-41.net.
+azwater.gov.	86400	IN	NS	ns-1078.awsdns-06.org.
+azwater.gov.	86400	IN	NS	ns-1979.awsdns-55.co.uk.
+eu1bea05cj0g1ij9615j3ibl0jj7o0mm.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. obF/CGK5KoWvw6hZtCdHh46Ug1HsCp9MwcoHP2atBZUjCWXK8W3TDqqKHyz/k0I+B17cxSgz+2u07SNsqwk5faenMeEIgdpoqPpLtYyvqghNtY/Cws8BeWy58LgG6Sn6KqTIymLFLEN93Ikua2bEA/uezxMJxzpnqx8p6nky0ZY=
+eu1bea05cj0g1ij9615j3ibl0jj7o0mm.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  euan7hfj5r9oj0308meqct48kdlh3n6c NS 

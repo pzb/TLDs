@@ -1,0 +1,10 @@
+4bipdnuv0p5atvubr08g0joaga4p6k0d.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. A9s+0XRZRDvV37HDA81aDbJUOMniLz4vBoWx8qSbEFyPRUKnq5AoU9xnJrlYvwByusriUkriBSZQVmHgfBTxJ1BwA/rBWyZ3QGesKRFMO5DP0KYiFAYZ5EdxgBXIsMgBEgt9ksA0buZCAHeEA1XmsKaPuuC/mYRmeUI5WkmcVkk=
+4bipdnuv0p5atvubr08g0joaga4p6k0d.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4bk7u0mdl29qbmq4eidu274bs91ra9o0 NS 
+ns1.aoc.gov.	86400	IN	A	161.197.102.14
+ns2.aoc.gov.	86400	IN	A	161.197.100.14
+usbg.gov.	86400	IN	NS	ns1.aoc.gov.
+usbg.gov.	86400	IN	NS	ns2.aoc.gov.
+usbg.gov.	86400	IN	NS	auth111.ns.uu.net.
+usbg.gov.	86400	IN	NS	auth120.ns.uu.net.
+usbg.gov.	86400	IN	NS	authns1.centurylink.net.
+usbg.gov.	86400	IN	NS	authns2.centurylink.net.

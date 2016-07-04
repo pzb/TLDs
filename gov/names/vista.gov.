@@ -1,0 +1,7 @@
+dns01.cns.gov.	86400	IN	A	152.180.8.143
+dns02.cns.gov.	86400	IN	A	152.180.134.207
+vista.gov.	86400	IN	NS	dns01.cns.gov.
+vista.gov.	86400	IN	NS	dns02.cns.gov.
+vista.gov.	3600	IN	DS	62535 7 1 4328239265a324008ecd93b6c0b82b3e64acc65a
+vista.gov.	3600	IN	DS	62535 7 2 e3504c075107a0fd35e5aeabfa74ad9f6fd32381811be0b34694d32ab57390ec
+vista.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. SnwsmqaXp8uvoW/rJmrvgqbfQuJtNjHLc9ba/tMWhxVL2n78h1SYt/3Po4J6HmAFVf41fxFzx53n6EeNPjjCNtwsZAzZby5mjvnGDsmptxDPhpW3LWghhGrb1cPSYntDgYGsWYSLekmNKtY9XPo3yLPpO3BjDrvXjDO0XuEVkgs=

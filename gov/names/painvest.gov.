@@ -1,0 +1,10 @@
+1crjvid4gmqpjtp5upa5mlv0r9bn590i.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. oFUEQz3jtBO/iRBzuIGEk9u8smUnjoRrt0QIGlKCtiWKcEYZ3sw+x02M/ngTec/hVYlMMrKEZ36Oj/P6e2nprRHijH4YMNSPXi0dVVJVBEf5qIEwTzShHVH/nU/vMCBTGyD4oPlXb4eOhcNoQ51X5xLTQb/nyn031n5acpxsiPY=
+1crjvid4gmqpjtp5upa5mlv0r9bn590i.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1d7jajhucp4ul98s532rmqatn42mqm8v NS 
+dns2.pa.gov.	86400	IN	A	164.156.185.10
+dns3.pa.gov.	86400	IN	A	164.156.16.200
+dns4.pa.gov.	86400	IN	A	207.218.103.250
+dns5.pa.gov.	86400	IN	A	164.156.16.201
+painvest.gov.	86400	IN	NS	dns2.pa.gov.
+painvest.gov.	86400	IN	NS	dns3.pa.gov.
+painvest.gov.	86400	IN	NS	dns4.pa.gov.
+painvest.gov.	86400	IN	NS	dns5.pa.gov.

@@ -1,0 +1,4 @@
+glncej0io1kg9vkdn7vlm1e2d4v67pq1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. qfhAB1sN4LZDzkoCOwq+KB/6lTTf++bA31ye0pzyE8QikaM4LsbvPDSvPkktsyPCqie1pBKsWXU8WBv+C6LWf9ah/t6w+wK3U81Yzbx9sV42xUTCRP1lyNHOHH0EjbxHin8h7Ml7s82Z2rRz/tUzOtBRA2RQLmWxVmFxKY5OaWA=
+glncej0io1kg9vkdn7vlm1e2d4v67pq1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  glpu955vgcfdspndi131r2lda5joopah NS 
+poarchcreekindians-nsn.gov.	86400	IN	NS	mns01.domaincontrol.com.
+poarchcreekindians-nsn.gov.	86400	IN	NS	mns02.domaincontrol.com.

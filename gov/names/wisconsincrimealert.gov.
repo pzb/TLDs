@@ -1,0 +1,4 @@
+lmtj31tv6dr6takuj6sga0eh2hu7qvoc.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. R5gulcYDXily/5vrHLvbp4oaxvgJZmyRxpCS1UK7VwNPPj3ECeRPKXLiTYPRvlYFdeeZ5qZhGEeDNLXcUp+9uOLtZWVEr/ZmmMCjcsDhnunaFDDbXSFnpyshuwlCvyyOtKfPdJnhe9pbeUZMWLA9ouw/1q2Cd7MirAFmKiuiqFk=
+lmtj31tv6dr6takuj6sga0eh2hu7qvoc.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  lmuemkvkrquskikb8chr5jjc13t354lr NS 
+wisconsincrimealert.gov.	86400	IN	NS	ns2287.hostgator.com.
+wisconsincrimealert.gov.	86400	IN	NS	ns2288.hostgator.com.

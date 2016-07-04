@@ -1,0 +1,6 @@
+7h5qvvtdpms4ui618akujqndkrst4i7c.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. sjbVGLvi26igHTyHVreSoxXrfU6xd9aOqxto6rn7YkLoYmpi3AS3BxzXrhr/OjWlrzFU4tU8hYSDRbk+ABgHkwoLhEho2xtziFhCW7VS2q8BsaUdebqLor730tj0SvyojCydgijCEcBLLswuCtOmuAhIW3Wfsv+atUSTCppnWHk=
+7h5qvvtdpms4ui618akujqndkrst4i7c.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7h8l1jj9oh34vrqd5290l56ritd83jcp NS 
+capitalregionupdates.gov.	86400	IN	NS	ns1.piersystem.com.
+capitalregionupdates.gov.	86400	IN	NS	ns2.piersystem.com.
+capitalregionupdates.gov.	86400	IN	NS	ns3.piersystem.com.
+capitalregionupdates.gov.	86400	IN	NS	ns4.piersystem.com.

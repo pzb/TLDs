@@ -1,0 +1,5 @@
+ochadkvgsqluleom2f9n3ltn83coqj55.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. QlQT8Yv4CsJgBKFjcOCt7WkR+jZiPU/sszvqOTZ/1eq+fdw1bMtG8MJgisvlrj4inG6BspOrpaiW89OHTONyEjEZGVI4LaXqFHjOgEeZ0z0lOowUGYf/rGHaDQ1JSw7tQsy/+u5kGh5At2SG9Y899266i+cB+IgTjXuZwOx02f0=
+ochadkvgsqluleom2f9n3ltn83coqj55.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ociqhidv2ajq298lmvdtmo0t4c9rm29k NS 
+txdps.gov.	86400	IN	NS	ns.tx.net.
+txdps.gov.	86400	IN	NS	ns.capnet.state.tx.us.
+txdps.gov.	86400	IN	NS	ns5.capnet.state.tx.us.

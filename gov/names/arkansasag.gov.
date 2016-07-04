@@ -1,0 +1,4 @@
+7pfo80kpemur4crneet90ki4ja3ubp1t.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. aRtW3l8HaFXKCPmNTmj7MDNKYqFsZCieOTZHyB8rjDxgaEoC3Y7TIhwu5VbbIXcTphNynRDYYa1DW9FADOBhYhxCKS+yWTZ2ao09UQeuy9pydjJFMgzuQE/qMgd13Onmt/vxYbsX3RL0wfOQbaHvVoLLMDgq1qXgB46c4TB6DV8=
+7pfo80kpemur4crneet90ki4ja3ubp1t.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7phedu6pvmblpd55sq53q6nf3ri23gd3 NS 
+arkansasag.gov.	86400	IN	NS	dcs.state.ar.us.
+arkansasag.gov.	86400	IN	NS	achilles.k12.ar.us.

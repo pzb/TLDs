@@ -1,0 +1,6 @@
+aftac.gov.	86400	IN	NS	dsos.aftac.gov.
+aftac.gov.	86400	IN	NS	dstork.aftac.gov.
+dsos.aftac.gov.	86400	IN	A	198.201.84.11
+dstork.aftac.gov.	86400	IN	A	198.201.84.12
+koa2iji7dn7nnsp74ua799so5gojmo8v.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. I92wYg5bDeDyBi89NZ2xGOFsqD/I+2OR/n+hzXXvmk/hi7XAfLZ6JyZD+qNFBa3jQBguJGStcKnjG34pRyJSzHXKrjx00s2ttxDd1PqRhwXxZ7cvS8bs49uUIcPr9URd9K5t0Bj11e+N41uwDiMDD/foJchp0EjTszqxTrlhakg=
+koa2iji7dn7nnsp74ua799so5gojmo8v.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kofok1il37f6nh6d7tdctktd1j8vmblh NS 

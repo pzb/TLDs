@@ -1,0 +1,11 @@
+adm-dns2.idaho.gov.	86400	IN	A	192.102.16.252
+adm-dns3.idaho.gov.	86400	IN	A	192.102.16.253
+adm-dns4.idaho.gov.	86400	IN	A	192.102.16.254
+admdns.idaho.gov.	86400	IN	A	192.102.16.251
+visitidaho.gov.	86400	IN	NS	admdns.idaho.gov.
+visitidaho.gov.	86400	IN	NS	adm-dns2.idaho.gov.
+visitidaho.gov.	86400	IN	NS	adm-dns3.idaho.gov.
+visitidaho.gov.	86400	IN	NS	adm-dns4.idaho.gov.
+visitidaho.gov.	3600	IN	DS	34429 8 1 caa2a0fafbbaeb209806cb988e52bae689c5dc13
+visitidaho.gov.	3600	IN	DS	34429 8 2 3d37a7dbb0801573350e812ec58c96e62fe339b636e7f9b0dbdec3aa75cef002
+visitidaho.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. kjRBAsDMzseJ7B/4qfoaicfBHXLOIe+++2wCVNWDHDrh6jhuoVxRER+gPn3c69UOwCnJ/eSOkVFn9G+iGdCWN+6jRLB8kyok9eZO38U20jV4KtsweMcXV4tjqUT3TcqvqgPwDu+UPG0t8j80vaf1uMTRG9ro/8+U/i17aRdbn1U=

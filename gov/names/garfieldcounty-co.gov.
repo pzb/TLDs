@@ -1,0 +1,5 @@
+garfieldcounty-co.gov.	86400	IN	NS	ns1.lnhi.net.
+garfieldcounty-co.gov.	86400	IN	NS	ns2.lnhi.net.
+garfieldcounty-co.gov.	86400	IN	NS	ns3.lnhi.net.
+qbn894lubnr6gvve46ge7un2k151p4ed.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. x59s7EYFwKVo6hkBajcjt1qGDswZiba3c1iHwAcssl/7Gzi/CelW+jPDjGh/jLSsCcmVRE0mpJL0VCNvpQTQUCRAj8SOmKVdwKv//EG7J/c0ojOiWJgDeLMrQWg/RN4oY5hyyPw5eaGMm6FfyPBe/youe4mK3ZdsAaKto2iNYdI=
+qbn894lubnr6gvve46ge7un2k151p4ed.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qboglfeh6dm9n0ir6pf4e9th45nvhkbf NS 

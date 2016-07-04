@@ -1,0 +1,6 @@
+jpqn43o6c0m5husaic5jobhrk4juvn14.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. I2z4232RXzQQEfRRv1qasuijZb7sBu4XBQK4dsEZsCuYYU3N/0E/ZiB1mgvG7PCW3JcQgiJl98LWZmJ3vri0qrfVeMP5IYdQa5/l3LfyUL2WTcNwyev7wcZxaJiwejl9PHO0+m9Ui+EGafnHN/htdu8TjIKCNn8U1wPZKkcvaY8=
+jpqn43o6c0m5husaic5jobhrk4juvn14.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jq1vj7me9n6glu0oq736rv7paecv03bd NS 
+kcmo.gov.	86400	IN	NS	pubdns1.kcmo.org.
+kcmo.gov.	86400	IN	NS	pubdns2.kcmo.org.
+kcmo.gov.	86400	IN	NS	pubdns3.kcmo.org.
+kcmo.gov.	86400	IN	NS	pubdns4.kcmo.org.

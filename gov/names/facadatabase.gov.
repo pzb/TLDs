@@ -1,0 +1,15 @@
+facadatabase.gov.	86400	IN	NS	dns.gsa.gov.
+facadatabase.gov.	86400	IN	NS	dns2.gsa.gov.
+facadatabase.gov.	86400	IN	NS	dns3.gsa.gov.
+facadatabase.gov.	86400	IN	NS	dns4.gsa.gov.
+facadatabase.gov.	86400	IN	NS	dns5.gsa.gov.
+facadatabase.gov.	3600	IN	DS	36125 8 1 56c9c90c75819cf0d084b319ed1016971b67188a
+facadatabase.gov.	3600	IN	DS	36125 8 2 1c896d0d1adbf60d6daed96532ed65a312f4177f723277f83c33af7f4eac1e38
+facadatabase.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. B9d7gEpd0/0KdPq5P3SH2et2VhBln4Gtbp0D/geHdDxz4VjK7B6o8T4tXjy9wq27IDkgTeQkJ2SsOJwXq8ummqvKAia1e9QATfHeAuUWXaDPCSNfGHsLluN5uTbMwms60ifKS0LxIvOI+4pz1aLBgdqS66yu5bxQzJ0FdvmKT6M=
+dns.gsa.gov.	86400	IN	A	159.142.136.198
+dns.gsa.gov.	86400	IN	AAAA	2620:0:150:280f::5
+dns2.gsa.gov.	86400	IN	A	159.142.150.68
+dns3.gsa.gov.	86400	IN	A	52.203.230.235
+dns4.gsa.gov.	86400	IN	A	159.142.69.84
+dns4.gsa.gov.	86400	IN	AAAA	2620:0:150:4013::5
+dns5.gsa.gov.	86400	IN	A	159.142.45.20

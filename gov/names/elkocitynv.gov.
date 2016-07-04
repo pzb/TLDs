@@ -1,0 +1,6 @@
+elkocitynv.gov.	86400	IN	NS	ns-500.awsdns-62.com.
+elkocitynv.gov.	86400	IN	NS	ns-524.awsdns-01.net.
+elkocitynv.gov.	86400	IN	NS	ns-1285.awsdns-32.org.
+elkocitynv.gov.	86400	IN	NS	ns-1728.awsdns-24.co.uk.
+tuhoal7h1inp2qj1fvu4olea9k511cso.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. xVU7beUVq2p836o3TheCh1c0Qhed1GoVJXWTBBZP3syo9r092qR6uNuVLD6fZghTi6k3XSMkU7r64uOX12RXU0iMPnlwQg13NK4cqqSKNhQ4VVawNvYaRH839lvAZklYUUg9jrAzShQ6nSqyufzX4Q2gWDZCvrTxbLk3HAYcUOk=
+tuhoal7h1inp2qj1fvu4olea9k511cso.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  tuqvpumojfkoop591n3oigqi9cjccbt8 NS 

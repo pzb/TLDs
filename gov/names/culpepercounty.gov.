@@ -1,0 +1,4 @@
+culpepercounty.gov.	86400	IN	NS	cbru.br.ns.els-gms.att.net.
+culpepercounty.gov.	86400	IN	NS	cmtu.mt.ns.els-gms.att.net.
+jhn64jnnqp1av6kcb573q200bh3df2f2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. q32FUmeqRn05kDpwKut0SAO7EQe6rpMOI4/XH7GmnmbEIo3WxU36rU8DKgjAkh+x4xMUasAD9IBNIUdqCU9mS/DEkTYM4teMS73HC/vSDF8K+PMsDZuhZxRWwfkyMY/2cSZBMvljDjT+twrCkfqfJOZv4JE3MRZycuPOyasbFPU=
+jhn64jnnqp1av6kcb573q200bh3df2f2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ji04fi93i12at49c18vh63mnof8bq4fo NS 

@@ -1,0 +1,4 @@
+cityofmarionwi.gov.	86400	IN	NS	ns03.domaincontrol.com.
+cityofmarionwi.gov.	86400	IN	NS	ns04.domaincontrol.com.
+njhri7sp4kccvimvojraddf4bd5mhvaa.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. O3Cm3E2L+UmzL8GnztV1IwxOY0hIxqFueYvYQiOHGfSrx7VIVhQQOBEJH6WThpxoM6BsAigvoyltIHEXY7AZvB60EE5vexQSKb0VBqHhb5k2BDqKvxc3x2It0uq3zY7mqcp/ysymbV5edqH0QC6bKBaNUz00ArNq/U0EczK+nK0=
+njhri7sp4kccvimvojraddf4bd5mhvaa.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  njkaasmu6u25m0hkv75s87tddep8rv1o NS 

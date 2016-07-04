@@ -1,0 +1,4 @@
+buo98585m9bolp3ee0enit7adjausma9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. O7ibHIMt0krsNUQPwihgdDxsWUH71NiQIkZqSpSeIvrSGESIKWBac9vlOBPa7KCXXeWQYAsZ8SUS1+N+vzoqOaPeOitgiM2eF8waOtRDxQqGtdmdtAEznE+p4dCzAZQzEYCxAyZcxZjq2OPW5zhtuw1EWEKdb4k7j1WhChep0RQ=
+buo98585m9bolp3ee0enit7adjausma9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bv02poq36odbsvi26qp450ggi0ofderi NS 
+jamestownri.gov.	86400	IN	NS	ns1.p16.dynect.net.
+jamestownri.gov.	86400	IN	NS	name1.oshean.org.

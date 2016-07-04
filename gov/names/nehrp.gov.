@@ -1,0 +1,7 @@
+nehrp.gov.	86400	IN	NS	bea.nist.gov.
+nehrp.gov.	86400	IN	NS	gea.nist.gov.
+nehrp.gov.	3600	IN	DS	57960 7 1 a93abaa19dfecc9a0ba095a111ed518d3f5ee340
+nehrp.gov.	3600	IN	DS	57960 7 2 cb839e0676cdfa798af278f7a864e1ddbabb12ec6d55c4d40638dae50feabf3e
+nehrp.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. vQaiTJUgOOfl9Is2kqa0NrLtrU35J8/QicLigTn1i9zTszpKA6QBD3OpG3NK/XTFZvAax+KU3FwS+V+CprefHyi/EWu/C8agAol+jm4LASY7+6PDqdAWrBDIdJIHHfz1R8IkSU30HF82F+8zt6cS0Zg2E0u4YUNGqN28bMf8tbQ=
+bea.nist.gov.	86400	IN	A	132.163.4.10
+gea.nist.gov.	86400	IN	A	129.6.13.3

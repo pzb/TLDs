@@ -1,0 +1,7 @@
+consumerfinancialprotectionbureau.gov.	86400	IN	NS	sauthns1.qwest.net.
+consumerfinancialprotectionbureau.gov.	86400	IN	NS	sauthns2.qwest.net.
+consumerfinancialprotectionbureau.gov.	3600	IN	DS	23196 7 1 9be358197b915fd40fad0c74424f1366f93788cb
+consumerfinancialprotectionbureau.gov.	3600	IN	DS	23196 7 2 abe2d1dec494ab85c8214d7eded23732144d826c04e5c91dc184400142d942ba
+consumerfinancialprotectionbureau.gov.	3600	IN	DS	41115 7 1 8612bd5b6292bda35270572343a3b335739d89d9
+consumerfinancialprotectionbureau.gov.	3600	IN	DS	41115 7 2 7f70e98217abccdb6dfc750fc62a234e1f2ef94e9d9788a343d4484b1935058c
+consumerfinancialprotectionbureau.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. gszQ7pv5lI4EjPImoCbLEHL/lg7flPu2OA3xcOwyOzdvpz1Sw5xeUiuFwxHVDOPEumRNzU7U6lvu0jpsIunnSfYb8BJrLglFRKLsQ7C53P89OYf0GFzpiB932yBMSBnSQsiS41Dp2d6Eb3prNZgbwU7kUmaDnaG2Lnar7e1lwzY=

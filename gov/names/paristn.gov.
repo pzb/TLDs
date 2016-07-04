@@ -1,0 +1,5 @@
+60kju8ku6cm07dp9cac9i0dd75vvkild.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. TjKgIswO6PHWv+Fubyg9RPx4QhAB0TVuv2vQwiWotlUg8M9o8NX+65MonsudZ74XxPSMSzNJGDFDNVy6uYJBXLgcI1HCvaepHuZJoikH42SmwlJ6+hjAMLLUszcVnWuOvHdkUtQGWjow16dE8c/aj35v9Z/ehhTN87j1zm6qnZE=
+60kju8ku6cm07dp9cac9i0dd75vvkild.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  60rg0lebokc5rjqoebb0il9qfug3gtlk NS 
+paristn.gov.	86400	IN	NS	ns1.mddservices.com.
+paristn.gov.	86400	IN	NS	ns2.mddservices.com.
+paristn.gov.	86400	IN	NS	ns3.mddservices.com.

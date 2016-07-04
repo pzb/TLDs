@@ -1,0 +1,9 @@
+dod.gov.	86400	IN	NS	beast.dma.mil.
+dod.gov.	86400	IN	NS	beauty.dma.mil.
+dod.gov.	86400	IN	NS	kaucher.dma.mil.
+dod.gov.	86400	IN	NS	russell.dma.mil.
+dod.gov.	3600	IN	DS	14662 8 1 6bbec30fd7fcd90a833513098405c872ecf46be8
+dod.gov.	3600	IN	DS	14662 8 2 bec2ad42cedc7e830f690c8565cdb42ddb44bae07b9e927e8fade168b0212d46
+dod.gov.	3600	IN	DS	61801 8 1 8a91daafbea087a4dd6619c631f81305a1d83df4
+dod.gov.	3600	IN	DS	61801 8 2 0cb73ab1874372c93c543a725c4006db1742b5ca42a84cfd0e7b237bdd81358c
+dod.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. V/lAQCTd2oa3KGFXjvkuypxTjX2S3EpP6vX4Q24SvSWCehNftnBzk0TSFIbRIBnaoH9axac2m4QSD06dZWdKPpsiXjCOviL/X6Ds4bc6pCf3zq5fgXwOezRhTz4o1tsOBm0mlS+bH1MUulue1NWkr+DU72K7HkUqsYxwEINbE6Q=

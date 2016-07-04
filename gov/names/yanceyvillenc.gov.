@@ -1,0 +1,4 @@
+6ofk7j5otf1g42lljigmc9kohcdq5b64.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. sWX10vRvT7yKi4vWxBgusHUELJoRz0mnDaHIjk3RA2BujXV3YbCBh5Q4ixhuwsXduOtjDihOyH96pjQprnXm4/bULqj/2MvoFie1KNAW4AW3KSaAuAWX8PTcuriakE8+58ey41oFt3bRJhsGWpyc7SSUSiJr636+OuqZ9Bn7CKA=
+6ofk7j5otf1g42lljigmc9kohcdq5b64.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6ol6f2775k11r1rhh188dgkh86hg2tkl NS 
+yanceyvillenc.gov.	86400	IN	NS	ns1.avenet.net.
+yanceyvillenc.gov.	86400	IN	NS	ns2.avenet.net.

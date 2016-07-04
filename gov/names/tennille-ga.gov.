@@ -1,0 +1,4 @@
+tennille-ga.gov.	86400	IN	NS	ns5.softcomca.com.
+tennille-ga.gov.	86400	IN	NS	ns6.softcomca.com.
+u0djl73opderg6joqdjlduvmc9hen0d3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. dhgdlMZO2ExIlkO8WWObP4IvV9ZzPizIcvIkSNmgVNFzJHDfkCziaqFyS/CE9wgXC0cFboOO8Iv0yuh5EPLSo7ssFco1I2yszmz4nGpt3ORkrGHqx/G1G/XWlqx0jxDMb4aklAZI0WtHShcXg4NmZQVo2iJLz1p17x3HTdKQ3Pk=
+u0djl73opderg6joqdjlduvmc9hen0d3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  u0friigfbguksmv96iarf20h86onuod9 NS 

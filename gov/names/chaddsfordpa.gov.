@@ -1,0 +1,5 @@
+chaddsfordpa.gov.	86400	IN	NS	ns1.lnhi.net.
+chaddsfordpa.gov.	86400	IN	NS	ns2.lnhi.net.
+chaddsfordpa.gov.	86400	IN	NS	ns3.lnhi.net.
+gchr0585b7631h96fvahrfs4groojujc.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. KmqusUoPNjSpUqKV1DxjDYGgWuYBMcSE+YBJ7PGl5EGiwdrUx7OKRNR+NOWhTmPLTdP5PsGn0HP0yYCDXLEsJJU5ztIfs6oqWI2AC4isjpnnVX0TOHfBWv+M3XdVvpAXAXHQbIS+61xpEhOPmXOmwgtwzyCnHHttZ2g0BnSmbIo=
+gchr0585b7631h96fvahrfs4groojujc.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  gcmv4vgi0nd6jkte8kjmibgda5lueddh NS 

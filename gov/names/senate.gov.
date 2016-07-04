@@ -1,0 +1,8 @@
+senate.gov.	86400	IN	NS	use1.akam.net.
+senate.gov.	86400	IN	NS	use4.akam.net.
+senate.gov.	86400	IN	NS	use5.akam.net.
+senate.gov.	86400	IN	NS	usw2.akam.net.
+senate.gov.	86400	IN	NS	ns1-139.akam.net.
+senate.gov.	86400	IN	NS	ns1-201.akam.net.
+senate.gov.	3600	IN	DS	62946 7 1 c72a7b588658140cdaf1054a4b6d69b855893bae
+senate.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. WpOWbBRoJIacEz/zIYPF5GDUseli1wyvGJHAmaFJqzGuLISZZbn1ljdgGGBreS12MtnlxvHxhtQJg6w2X3Q5N35hA73QPC20WYBbwhM24qvPge9hWdloslt4l1IlNhSC1mPp0YHBOaOo+2PVFSlBrFhhhuz3Eh85w0E07MmJJiE=

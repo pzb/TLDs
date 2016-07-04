@@ -1,0 +1,4 @@
+basslakewi.gov.	86400	IN	NS	ns1.airstreamcomm.net.
+basslakewi.gov.	86400	IN	NS	ns2.airstreamcomm.net.
+m6h3r2j4aeo4e59rc5p8640sl36jktgn.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Gm8d8Pzr+oFYoWqyojE1N6bsU3dahU/tXBAgTQQaxyJJ3hu83WGsqgQC21KOg+vywdwECc4qWrakWr9mXdGdtFMnEqktigBWlPkoo7bRqJCBblt6Fy9J311s+CqOr91sCNCE7+fOKyH0B4NLdutiEG3ajadMfInbalYFkNcelWo=
+m6h3r2j4aeo4e59rc5p8640sl36jktgn.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  m6mr7pg73l67dsrf4lfs6i6p0tiap7qm NS 

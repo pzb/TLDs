@@ -1,0 +1,6 @@
+1pm7k5cj4tppdlp52a2248mj8q9qu2k1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. bYVN/DsVAlSAezDmtS8mBjqdzAYiYVhoX+9A9ZELTcQNx/YS6laDPRWqHaVA8BfMt4m0SqOsQBnM3aNRFTDuYNScgAoZ/S/ckygz+Ib7FzYbUAnOQDNdT6tM9C1fG6eNv5VKDpQ3Ya3djmVb3kltflbuZ0S/GJfFOT6qHKvqMkM=
+1pm7k5cj4tppdlp52a2248mj8q9qu2k1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1poph5hgcfeot16gcsf01c6mnka40rtu NS 
+azbtr.gov.	86400	IN	NS	ns-396.awsdns-49.com.
+azbtr.gov.	86400	IN	NS	ns-769.awsdns-32.net.
+azbtr.gov.	86400	IN	NS	ns-1112.awsdns-11.org.
+azbtr.gov.	86400	IN	NS	ns-1763.awsdns-28.co.uk.

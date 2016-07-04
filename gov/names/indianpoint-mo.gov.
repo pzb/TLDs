@@ -1,0 +1,4 @@
+indianpoint-mo.gov.	86400	IN	NS	ns1.rhostjh.com.
+indianpoint-mo.gov.	86400	IN	NS	ns2.rhostjh.com.
+kn92t69ktrtq1nhnv0fu8agnt70me9en.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. um9LWWj24bvjaHzr/fi1ZuyJWYCAW5rCinLICHYiKyPmjUny35VSfskN4Jmlf3cZ/1ND5NS/sqVmIUpM75ORxWXE+XrxlH1chBDN62rGOB22Maga8kVVSHAiJWep5L6Zf5gs4y31yd4AyCn68bVKc0R3Jrh344IaISsEI+ATl6o=
+kn92t69ktrtq1nhnv0fu8agnt70me9en.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  knbl94q8i167jnuqkmbhcm7bo2mj7mc3 NS 

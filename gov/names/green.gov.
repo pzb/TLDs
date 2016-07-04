@@ -1,0 +1,9 @@
+green.gov.	86400	IN	NS	zc.akam.net.
+green.gov.	86400	IN	NS	use6.akam.net.
+green.gov.	86400	IN	NS	usw1.akam.net.
+green.gov.	86400	IN	NS	asia9.akam.net.
+green.gov.	86400	IN	NS	ns1-145.akam.net.
+green.gov.	86400	IN	NS	ns1-176.akam.net.
+green.gov.	3600	IN	DS	47904 7 1 781c707c705165566f8275936f2296f3185aebd3
+green.gov.	3600	IN	DS	47904 7 2 62f9f315dd86485884308ec148d268856147f12acef299b882471cd63fdde27c
+green.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. uW/Oge0R0Q7cEew42a4sPMD3rwNPvtBlFehmvU0QVW3t2mqsQaYekQjBGq17AnMPw0RHYVSuvipJR8rMJysoPa4HPNfVsHGVOZWKiEKeMOST12FseVonjpEtvNyoV6FD04ZKneAK++ixav/hPFONn0NJ9TqLYpY7EQFh0Ot2YaU=

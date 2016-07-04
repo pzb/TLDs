@@ -1,0 +1,4 @@
+cfmlmlamipc8s6tkkten436p4pl679ve.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. TrpEMN5usCmLT+Jo3+gI+Juyg7Azc6gL/cl6X+ChN79SndjLZqB0+PwSLX2pJK43vVkmNXOahzklrZVcSdEuPVq8SXGd9V/FnY2j5hhgpe1pq4uTpsGzqvEg74t+TXQDiZGTP0sFWG/kuXXKb5GWTQTfCC3U+vnij9lxMN29RnU=
+cfmlmlamipc8s6tkkten436p4pl679ve.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  cgane2ao5b8rrs7ghtq6mu9cee8anat4 NS 
+middletown-ct.gov.	86400	IN	NS	alpha.recol.net.
+middletown-ct.gov.	86400	IN	NS	zhora.recol.net.

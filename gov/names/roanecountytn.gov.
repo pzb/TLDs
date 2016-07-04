@@ -1,0 +1,4 @@
+6stakba377opelekkt79be73n2jcfg1e.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. njcb0i6bX/r0bGeDVNl1FpJlRsOpzXMD4BpVuQazsh8oB5iTHxYvGNFz8VVnCThJFtftMv6n9QaBFY0hvgaQIPb9d/kC1ONoFakS2D51PAk+AmHfYl2M6SccKqNoEEu9VDHgxkjndEbHTbq3UN0XqJMa6d8ynyfMnOrqJ6Hy1BI=
+6stakba377opelekkt79be73n2jcfg1e.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6t4kitbdl3v89j652f3d3ue660ien04v NS 
+roanecountytn.gov.	86400	IN	NS	ns1.knoxweb7.com.
+roanecountytn.gov.	86400	IN	NS	ns2.knoxweb7.com.

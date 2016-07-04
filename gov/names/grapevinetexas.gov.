@@ -1,0 +1,4 @@
+grapevinetexas.gov.	86400	IN	NS	ns.capnet.state.tx.us.
+grapevinetexas.gov.	86400	IN	NS	dns.ci.grapevine.tx.us.
+jo91mi9ubrgpoqmoav62eat2htk1i71f.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. vq8ayKGYOPG4YtZ99n3v4XUe/+XT4Hen4sjiQDYhJ55hFIr8pY8AkCgPmKbBPWJSobpaUlmqUDiQk86/ZFr/m7JMvfuJMp6OSW3j5AyCLDlgiYg0SKTivnUD+9ooatKR8Hbv+eI+cEaJwxUdecGjzDsb/ZVcnsQcft1ZDUqDuXI=
+jo91mi9ubrgpoqmoav62eat2htk1i71f.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  joud973oi98u1jcgdq10s7kkoaum92kc NS 

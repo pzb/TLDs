@@ -1,0 +1,5 @@
+bighorncountywy.gov.	86400	IN	NS	dns.tcinc.net.
+bighorncountywy.gov.	86400	IN	NS	nse1.tribcsp.com.
+bighorncountywy.gov.	86400	IN	NS	nse2.tribcsp.com.
+epp7of3pb3upmrf6gf0erne23f70jcd2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. VNeqXDIwpJe/c15Em5bmSLbGz4ey0NDXrwmm0f8I62TWAN+jCJpsTuoplNI0xys41ZNdEVgyJBL2PSajXlnn085YygTukYBGaO+M+CaRlB0RoasMH+OlZLtLMClO1t2ydobgwemLujEeyZXrTo2qCxw/vivsGFZh1HrdwAjWHkg=
+epp7of3pb3upmrf6gf0erne23f70jcd2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  epqoln7pnso0cuvb83n8tot8q42t1qo5 NS 

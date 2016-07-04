@@ -1,0 +1,6 @@
+b3qa5sr6jqgd966ko9msh3o5nie1vcdk.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. cxR06wqtfNy+VaUd/3hlRwF6KBGxhGoMpcXoJ8B3FCVFw4EeQ5aJ1pz2GuYR8z+EiptBuvicK7xsWSPyIa6tYVwjgT8e6hsG4tOILk9R5YZn0MZOINGFwQscAy2ai9/EkfiXP/GJdzR3ua0d6kfMrkTKgrkQot7H7bQVARNZZns=
+b3qa5sr6jqgd966ko9msh3o5nie1vcdk.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  b3s716jr2135vp9lgon3rg3m4hd2gk0k NS 
+westutx.gov.	86400	IN	NS	ns1132.dns.dyn.com.
+westutx.gov.	86400	IN	NS	ns2150.dns.dyn.com.
+westutx.gov.	86400	IN	NS	ns3130.dns.dyn.com.
+westutx.gov.	86400	IN	NS	ns4130.dns.dyn.com.

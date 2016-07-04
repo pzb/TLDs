@@ -1,0 +1,4 @@
+dpo5gn6eor4itrq36mlc4crc4blht24n.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. L7hY+U1TXgzTi9C7MNl38Bh0F1yLK6UVa+RtfZ8JVaELOsZUIvJIunXzUxNunfBqfl25KVOFCengaNjj+pCTuf1eabo2Oz2bPCIFVwkndWc/dMWH20m99I9BgxKEMqZK9dtovaWTK1vlFOGKHqxVsWPuWWPSwgK2Mkk8NWQku1w=
+dpo5gn6eor4itrq36mlc4crc4blht24n.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dpqm54mj5vap848pe6jl5rn7dc4nbuhb NS 
+greyforest-tx.gov.	86400	IN	NS	ns1.tejasdigitalmedia.com.
+greyforest-tx.gov.	86400	IN	NS	ns2.tejasdigitalmedia.com.

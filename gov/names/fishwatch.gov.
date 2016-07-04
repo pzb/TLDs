@@ -1,0 +1,12 @@
+fishwatch.gov.	86400	IN	NS	ns-e.noaa.gov.
+fishwatch.gov.	86400	IN	NS	ns-mw.noaa.gov.
+fishwatch.gov.	86400	IN	NS	ns-nw.noaa.gov.
+fishwatch.gov.	3600	IN	DS	5881 5 1 d4f7fedd6b83418d5d70696477916c93016a3ef1
+fishwatch.gov.	3600	IN	DS	5881 5 2 bceb818f1aa141a53da7b2eb68544566d30892e4238bc80b029fed9ae3855d1e
+fishwatch.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. rj0vWqiVsJTw6v96VAyDySRyV9/i/cCisQP7pKoB4S0DxrcqnFyqJ99yj1NEpwm7S8WnLxv0/JRalca13lluKmy//WezBM4QT8LNyIU02f9d4BUnp1S6HKMwDU1xEFAoMvLx7n4DMrlhZj++Xj60OKep3lAsVq2+dgwT5qdfAOA=
+ns-e.noaa.gov.	86400	IN	A	140.90.33.237
+ns-e.noaa.gov.	86400	IN	AAAA	2610:20:8000:8c00::237
+ns-mw.noaa.gov.	86400	IN	A	140.172.17.237
+ns-mw.noaa.gov.	86400	IN	AAAA	2610:20:8800:8c00::237
+ns-nw.noaa.gov.	86400	IN	A	161.55.32.2
+ns-nw.noaa.gov.	86400	IN	AAAA	2610:20:8c00:8c00::2

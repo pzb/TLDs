@@ -1,0 +1,4 @@
+b9rmavd43ibp7ppmd5rtq0djl5j3puf0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. LmvYg9Quaxy/WomyLRKGAsFnYP9qjKYHQJMEBxhLmFFy82qp0e7sGt9Gp/hwLv7/+q1POtZIyDht0dykCMZlGqsndh72kZvg1rRwACWLFt+MIo+VArRVpwOgR6oQiXhXISxniUf9W0vz55JMuwdV5Fo+zrI/M2de1YO+oX7HkPg=
+b9rmavd43ibp7ppmd5rtq0djl5j3puf0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ba3699sqoeojfh1bna3epv04c0f9o61g NS 
+pottertwp-pa.gov.	86400	IN	NS	dns1.microlite.com.
+pottertwp-pa.gov.	86400	IN	NS	dns2.microlite.com.

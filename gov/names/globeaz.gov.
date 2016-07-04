@@ -1,0 +1,4 @@
+c1q03d5mcpb3polqg8jfkeuvu125ukjo.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. jKPL77/BI8XQ8XPRTLLJ9biiHoFQg01U7vWsRLl3cPgTamrehnLQ/5WA5G8aSzrhwiLiY58+W5fvop0rSrEwtiM3dSgBDRMKWDLky97z5+jdV7D1t2h6NEjN8h8P3jE8mKZGbz3axFbzIvlsfIFT1zJKJvWX9i44ztZ/J/B1q9w=
+c1q03d5mcpb3polqg8jfkeuvu125ukjo.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  c21kc74345i23ensd7o22a6l2vq8kkk4 NS 
+globeaz.gov.	86400	IN	NS	ns1.bctconsulting.com.
+globeaz.gov.	86400	IN	NS	ns2.bctconsulting.com.

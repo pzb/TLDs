@@ -1,0 +1,4 @@
+dbqhup64gvpe3jh2m9pui2a243e495p9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. i3rwNhWWY/oBiuUS8e0IDEfSib7uSmjjxoHkE6U+jSZyXuuuNXClAL5uY0u6+UwhVxrmM7Qr+N6/PLDQCexyN8R3cqV1BFU+xfPAR0BfjPwkAWBxe9UHLzYH17x8Y5XYDGhXwHxA1hiKa2C9KMAkTq+iIavBEx/WlQheg+JsdcA=
+dbqhup64gvpe3jh2m9pui2a243e495p9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dbu0kk5kuvaop7l2seppn4bdiu2ostid NS 
+eastwindsor-ct.gov.	86400	IN	NS	ns1.infotech-maine.com.
+eastwindsor-ct.gov.	86400	IN	NS	ns2.infotech-maine.com.

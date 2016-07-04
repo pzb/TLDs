@@ -1,0 +1,4 @@
+sugarland-citytx.gov.	86400	IN	NS	ns1.vericenter.com.
+sugarland-citytx.gov.	86400	IN	NS	ns2.vericenter.com.
+uhaqtse2pr75cakt15r9dhfe4cvo2l03.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. G6SUFhtJsvUArEOgQkXPlxHR6KGpEDel+98XkT3iLoEHFP2TSotB3jc4VftN7lI2TPJl0NYhXHwsOK5cfJv8OwiqOJrHI70FmhnuHOoxEbIyaox24rVbLBNQ7RwroMXP4CM7A4SqYDJ73M/CgVK/i1wUD9S3V/WkRnTgsogbeHg=
+uhaqtse2pr75cakt15r9dhfe4cvo2l03.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  uhok1qu34574a2udrns21hsglb7m1g89 NS 

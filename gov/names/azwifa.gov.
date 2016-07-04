@@ -1,0 +1,6 @@
+7t24ij74q80m2q58upkcn37sreri8225.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Zi50Qg9UXeG/lXOa9llNzZdqQVOolGUJSbDkvybh3bXAO40KX+F/LU6NrhruMOBIBK4OSCUgHS7nUcH/9bklXgS6J9ZXnn+nkXsZ+BVkZEETtxQ+KwdEZKSE5vgxJFULwTrfO+85KZLxWWr3fiVUs3X90K/opTgowfwmsYFb1Y0=
+7t24ij74q80m2q58upkcn37sreri8225.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7t2iuoiv1mt71fvlphj6nn8j32oghjld NS 
+azwifa.gov.	86400	IN	NS	ns01.domaincontrol.com.
+azwifa.gov.	86400	IN	NS	ns02.domaincontrol.com.
+azwifa.gov.	86400	IN	NS	wsc1.jomax.net.
+azwifa.gov.	86400	IN	NS	wsc2.jomax.net.

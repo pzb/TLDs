@@ -1,0 +1,6 @@
+198a0b5te97oli87qra9udspg32i8no3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. gS2Wzxjz4bxoOoWtREWYhCz3MLQy/yAVKkyd6mJYbsAEMIqmsJXQrlIYcHm5p1E+kJK6xmW3VCRC3Ev8oRLZDsiOHgw0yrWqZ3+IilQgZ9DuEvWnDwre6imTq/4ZpN/THYVuOXrY3Z0p9fNzxGmr8c1PzjTQMR1cyQvIJ3m1TSI=
+198a0b5te97oli87qra9udspg32i8no3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  19eisvphao0f1v8ig5lrnjjuikracq7a NS 
+maurycounty-tn.gov.	86400	IN	NS	dns1.maurycounty-tn.gov.
+maurycounty-tn.gov.	86400	IN	NS	dns2.maurycounty-tn.gov.
+dns1.maurycounty-tn.gov.	86400	IN	A	66.211.16.166
+dns2.maurycounty-tn.gov.	86400	IN	A	66.211.16.167

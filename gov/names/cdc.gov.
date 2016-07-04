@@ -1,0 +1,11 @@
+cdc.gov.	86400	IN	NS	ns1.cdc.gov.
+cdc.gov.	86400	IN	NS	ns2.cdc.gov.
+cdc.gov.	86400	IN	NS	ns3.cdc.gov.
+cdc.gov.	86400	IN	NS	auth00.ns.uu.net.
+cdc.gov.	86400	IN	NS	auth100.ns.uu.net.
+cdc.gov.	3600	IN	DS	58630 7 1 28f6ff09e75afa1792eec059ae69333bc2b388d7
+cdc.gov.	3600	IN	DS	58630 7 2 7c2eca833ab3efce91989e7ecdd99326addb53267dcb5af23a5b6a4be9a1dfa2
+cdc.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. QsH0hwso5iM/VxbymLDepj2QxYBTb2jYuUJDwvbgLl+e0FMZ2cQ1OJ0O8r8SfLSAMNMLgyK21p8Q03SoDHj6N6Yazz31++rod4pNlthQ6Uq52UO3mjUFGCZclSzDxGgYkjI/4ObNv5VoB3WO02pShcjX9fTpSiAYW61zeKxhEQQ=
+ns1.cdc.gov.	86400	IN	A	198.246.96.61
+ns2.cdc.gov.	86400	IN	A	198.246.96.92
+ns3.cdc.gov.	86400	IN	A	198.246.125.10

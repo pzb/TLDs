@@ -1,0 +1,7 @@
+fec.gov.	86400	IN	NS	ns1.savvis.net.
+fec.gov.	86400	IN	NS	ns2.savvis.net.
+fec.gov.	86400	IN	NS	ns3.savvis.net.
+fec.gov.	86400	IN	NS	ns4.savvis.net.
+fec.gov.	86400	IN	NS	ns5.savvis.net.
+ptkgn4n59n6qf5f9qkj1ma6i7gnldjh9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hVLhI4sTS/bdjEqHGNjdu+rtFij0gvozcq8hsveh6P9rBdHPFtaTYpKZ3Ccd/aCt42ZtqqiiQi7SPCf4mhgEoAzEbR5jarqfG80pLy83ND9HMS2JdtWTrov7DfQh0rnMknoMaIi3pqst+zgzXO6RGJInDZXgy4Hrup+zLB2m9pI=
+ptkgn4n59n6qf5f9qkj1ma6i7gnldjh9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pto867f5pbn3c9g51jure6nlu69rnahc NS 

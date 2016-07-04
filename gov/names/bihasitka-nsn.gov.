@@ -1,0 +1,4 @@
+bihasitka-nsn.gov.	86400	IN	NS	ns1.chicagowebs.com.
+bihasitka-nsn.gov.	86400	IN	NS	ns2.chicagowebs.com.
+f0efmd5brfkponpvguee7rjc5kbv2btt.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. xr+y31Gf6wjVjt8n7XYAVTn6ySuye8d/l3XaqUIlsyUltwlzwu9xevsjRnvJKRhG+z3P6KVNHKfaEAd7fJlwpfFQQUhAAVopJV2hNTbnpXSW9yn3gEjY4hBJnLJnIv9K/PoURWYAu0j0e/Nq3m8zh09zFEkKqlST1jCrSq6vCio=
+f0efmd5brfkponpvguee7rjc5kbv2btt.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  f0gfhu2eaarrq23k94vaqem4fik8j0us NS 

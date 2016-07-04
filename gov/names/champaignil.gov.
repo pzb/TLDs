@@ -1,0 +1,4 @@
+champaignil.gov.	86400	IN	NS	ns1.illinois.net.
+champaignil.gov.	86400	IN	NS	ns2.illinois.net.
+rucnftulolgfonrvjbhogsfr27d2o758.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. moS97pMfKtjxTytCdSVKoKGzfalA6Xf43I/UIxxAM2KJn7xqmWiwZg1U5l+BKovORoUDEIvD6ZQJqjify/Az+fjWoPhNDCW29YHdEupjglBbQbc7DkVkiP6Wjvzsl8E1DpWTnpE8P6T5Nq1AswimgPvqP4Bi7ndUX0J8byhH0VU=
+rucnftulolgfonrvjbhogsfr27d2o758.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  rudjmg5ipole0ndg2bmof2g1j497husd NS 

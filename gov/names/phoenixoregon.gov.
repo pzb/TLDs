@@ -1,0 +1,4 @@
+3dom4bv5mdejmj7s1r30oj3v9446iqc4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. c+RdKL7tzAOiPsC+6LfdcrQPgV5WArKuys3L8xb6POBxRuzTPq3icX69MdHGVpEmWsxkXsckdqTF1fDVXyQyxc57I7jiD2URy9mHjFD5HhfKoznZpIeo/nvBFUuLWQBpWjLVB/SiCMAbSqNIXZuK5+ho3BF6Yb7Ht+E3D2qAGtk=
+3dom4bv5mdejmj7s1r30oj3v9446iqc4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3dpipmk96r084abr2s2qpdbj501thppb NS 
+phoenixoregon.gov.	86400	IN	NS	ns1.datacenterwest.com.
+phoenixoregon.gov.	86400	IN	NS	ns2.datacenterwest.com.

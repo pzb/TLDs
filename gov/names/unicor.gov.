@@ -1,0 +1,14 @@
+unicor.gov.	86400	IN	NS	ns-jdcd-01.usdoj.gov.
+unicor.gov.	86400	IN	NS	ns-jdcd-02.usdoj.gov.
+unicor.gov.	86400	IN	NS	ns-jdcw-01.usdoj.gov.
+unicor.gov.	86400	IN	NS	ns-jdcw-02.usdoj.gov.
+unicor.gov.	3600	IN	DS	8794 8 1 4d2f7995d611e420060df4f95a957cec3cb6c12f
+unicor.gov.	3600	IN	DS	8794 8 2 8f2e0a5126258de216ba45dad4cb24add45c4c828c532b3caa338fe2cc767318
+unicor.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. enFOoY9Jdf9ruRnAkFyy0rB3HspKfPIW2T8DQDbA80Od263UvIlMeehXXj85/XAZ2U0nSxsnkAtE3bWD5vmj7ufJknGB/dSWB3vaui6+8gbgxmneckEl6rh209hvgskY3A1JakEd7CZwbpDLP6X0QyTmFLZlc9fbEUmdXY27wRQ=
+ns-jdcd-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcd-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcd-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcw-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcw-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-02.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::6

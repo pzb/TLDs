@@ -1,0 +1,4 @@
+btpg5t04jjr50rl1mdtj0mfierv0eeuu.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. C1/CVOlS6fzMg6+osovAsNZqrEgQMtSxX/Cu3CKRWuxcKkYyquB4vg/Yd0bRBlgzPHsTvMIx/zdMUIusK/33fQjCx3NsUDbdY0j+O37IQIBPbe0aG5GPzqusggN3cEQ93yaL8YoiiztI10KQiZ8JZ+UtipNvdS0bVKND/zUisrk=
+btpg5t04jjr50rl1mdtj0mfierv0eeuu.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  btrhrf57eo5ta6t1h183jabji7hgrjnm NS 
+yorkcountypa.gov.	86400	IN	NS	ns.sourcedns.com.
+yorkcountypa.gov.	86400	IN	NS	ns1.sourcedns.com.

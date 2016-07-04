@@ -1,0 +1,5 @@
+brookfieldct.gov.	86400	IN	NS	ns1.infotech-maine.com.
+brookfieldct.gov.	86400	IN	NS	ns2.infotech-maine.com.
+brookfieldct.gov.	86400	IN	NS	ns3.infotech-maine.com.
+umuhfm2i8mf9q2m9kv92k0e0jt5iotcq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wPs02c+i2HGRJtnmfH+DweRBDuTeKw3SPrHzKsNjKTXBShbfvHfD6UJadtQpH+LwHl3ezw8BpUF7VliBagZXweH2Nv1Msa9pQ5SKnseLGZXb4EQczdKuFCBPVrNMVyw6wvYkc4yKA0dPjdlaO15b1zM67EFlZhd4LR/ss7wM/RU=
+umuhfm2i8mf9q2m9kv92k0e0jt5iotcq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  un8ukq7lqsdvbi1nscsqo2cq5tj9cmm6 NS 

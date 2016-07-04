@@ -1,0 +1,9 @@
+feedthefuture.gov.	86400	IN	NS	ns1.terrenap.net.
+feedthefuture.gov.	86400	IN	NS	ns2.terrenap.net.
+feedthefuture.gov.	86400	IN	NS	ns05.usaid.gov.
+feedthefuture.gov.	86400	IN	NS	ns06.usaid.gov.
+feedthefuture.gov.	3600	IN	DS	11764 8 1 5d8034c2d913f117cd6995acf518734d184b17e7
+feedthefuture.gov.	3600	IN	DS	11764 8 2 1f4e09972320a09d923f5b974ce5b24239cb6f2c4cbc4d1ca5506fca689bebc7
+feedthefuture.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. f/dCBG1MkHH+MCwG4Do6DLfSMWtOowKhOyN9rO99SlasLlYC2ozWGeMhB8/Wa4No3DbDsx8OwUF5veuE9+avfJF1a4kEBUwWHHDNP9zuMBv1drrhR/kwMwq6SEDQPbTScqcolzlz2nolcEK+r50Qbr8ppMqvM2GsejWks+Yi3mA=
+ns05.usaid.gov.	86400	IN	A	12.14.13.231
+ns06.usaid.gov.	86400	IN	A	12.14.13.170

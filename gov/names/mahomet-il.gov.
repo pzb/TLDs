@@ -1,0 +1,7 @@
+f1ui0qsg21jc47gact6k30m7kgcdhucs.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fL3KchJ9nPQQeaLHY5MEI8aEVAfJq07WzoT6Wxt/j6MPpEQt50K0gQG+po9sxFaTkIyZZRxrp8okuXC8hFN5ittKIn+V/7xMt5DQY94T0sgpzq8CoVxhNInF0N0SIYPku6G7hkC3emSgVTQ67ymw5VORQVL58BHmSa7YWpGnurM=
+f1ui0qsg21jc47gact6k30m7kgcdhucs.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  f1v98adhhjfdpvpafcjvjhu7ghl4q36v NS 
+mahomet-il.gov.	86400	IN	NS	ns0.mtk-dns.net.
+mahomet-il.gov.	86400	IN	NS	ns1.mtk-dns.net.
+mahomet-il.gov.	86400	IN	NS	ns2.mtk-dns.net.
+mahomet-il.gov.	86400	IN	NS	ns3.mtk-dns.net.
+mahomet-il.gov.	86400	IN	NS	ns4.mtk-dns.net.

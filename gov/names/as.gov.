@@ -1,0 +1,4 @@
+95m2fh436bhhunjeiaupukku0qr0edvv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. gDunq4oqR6vGRT+lftWoE6E4wLi2Smy91R2VssOZlHIjlP3YR1aU69Gzkvd5t3XekVfr9ZJAJTaYzYvaU1eEl3uzS0TPbOpuL337G9wTlU8cWN4jyKJD39ThjK+FyKjFoadJpzqPMhRNE6WbSFpbtQCpi444QviOqXVgK9wu/LA=
+95m2fh436bhhunjeiaupukku0qr0edvv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  95oak0ujuhbpfpmg1p51ai0hqdjgd9lt NS 
+as.gov.	86400	IN	NS	ns1.linode.com.
+as.gov.	86400	IN	NS	ns2.linode.com.

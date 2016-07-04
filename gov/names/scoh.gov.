@@ -1,0 +1,6 @@
+7fea9b87b3r2op1a3m57l3n9co7a3l7j.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wYlBTypmXBs62nEndfs/E5Dko1FJfg8xO8EGB02vwkc8cjMNPRVtKxGeBIlomG0RYjO/O1LWc7OZPvvXGwDlh8FqzLuB5RT4msYmVoM9z3uV3ptaXSMxFnAPspur9bOjgFgp9PqPyO+gtXW1dN/Ipiphe0mqqMXrLU2z2UIaXuo=
+7fea9b87b3r2op1a3m57l3n9co7a3l7j.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7fng8d91si47085pinoa44naj6tcn693 NS 
+scoh.gov.	86400	IN	NS	ns1.state.oh.us.
+scoh.gov.	86400	IN	NS	ns2.state.oh.us.
+scoh.gov.	86400	IN	NS	ns3.state.oh.us.
+scoh.gov.	86400	IN	NS	ns4.state.oh.us.

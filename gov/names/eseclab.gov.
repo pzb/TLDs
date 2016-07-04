@@ -1,0 +1,11 @@
+eseclab.gov.	86400	IN	NS	ns1.eseclab.gov.
+eseclab.gov.	86400	IN	NS	ns2.eseclab.gov.
+eseclab.gov.	86400	IN	NS	ns3.eseclab.gov.
+eseclab.gov.	3600	IN	DS	10236 10 1 014b70621536c6a3345b8411c06e50b1dfa7d0ed
+eseclab.gov.	3600	IN	DS	10236 10 2 ff2b82d194d994ca8268f146002baa1078e0ddcbc439ff54bf5e92bdb1eacbfd
+eseclab.gov.	3600	IN	DS	47383 5 1 73e346fdd4a019704dc2e10f6c2382c1b3ce4fef
+eseclab.gov.	3600	IN	DS	47383 5 2 e9486a497aa97f820d50c7628cbcc0d27e1a3a7a42aa1ca6977d231662cc6359
+eseclab.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. m1zQC2tB8ki1Z0Msfu+6Vug77iChygnOQeG/L4eWV2Aq+d2TKm5HueyWULZLXy3XKvGJ8skkvKuifO9F+amcVxZv7EKqZYuzLitmNZs4l/nnBmXbaWp4/4mOR18Xq1gZ35WX5AS+MIyx98fiz8fCW+WyQaWzPT7GfETO3Hj+mOw=
+ns1.eseclab.gov.	86400	IN	A	63.234.40.73
+ns2.eseclab.gov.	86400	IN	A	63.234.40.76
+ns3.eseclab.gov.	86400	IN	A	63.234.40.71

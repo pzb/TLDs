@@ -1,0 +1,9 @@
+youthrules.gov.	86400	IN	NS	a5-64.akam.net.
+youthrules.gov.	86400	IN	NS	a6-65.akam.net.
+youthrules.gov.	86400	IN	NS	a7-66.akam.net.
+youthrules.gov.	86400	IN	NS	a1-165.akam.net.
+youthrules.gov.	86400	IN	NS	a10-66.akam.net.
+youthrules.gov.	86400	IN	NS	a24-67.akam.net.
+youthrules.gov.	3600	IN	DS	65146 8 1 f417fdce10801c0c0461a606b7021702eb6be107
+youthrules.gov.	3600	IN	DS	65146 8 2 4900e99e6e961b05e1da4716f524d0c389ed6991da2b32d040421d22fee68e1b
+youthrules.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. sRQxZAXZZdiSr43UFUtZY5AN49PmH5+hDTa0jtXIXUpIo43e8xBvoOqwxnoxuGiEf2SPL+qGK/MbjIKEMoWOo4BWtimfqEefMUb7Befzy1frNy8vkCqta+TlzoS2fSD+VrRGgqpKCroVW10f+QiMveZCAMOdz9ArRQBpT6hC1fs=

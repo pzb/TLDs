@@ -1,0 +1,11 @@
+gpaens2.doc.gov.	86400	IN	A	170.110.225.13
+hchbens1.doc.gov.	86400	IN	A	170.110.225.11
+mbda.gov.	86400	IN	NS	dnssec7.datamtn.com.
+mbda.gov.	86400	IN	NS	dnssec9.datamtn.com.
+mbda.gov.	86400	IN	NS	gpaens2.doc.gov.
+mbda.gov.	86400	IN	NS	dnssec10.datamtn.com.
+mbda.gov.	86400	IN	NS	dnssec11.datamtn.com.
+mbda.gov.	86400	IN	NS	hchbens1.doc.gov.
+mbda.gov.	3600	IN	DS	11101 8 1 2f63f253697cf5f4732bc7a12d15ea61a8df6302
+mbda.gov.	3600	IN	DS	11101 8 2 a8153fb3f89fe66c8ffff68a1c7339c4c307a760ba5963d95b17a2aa2c1646ec
+mbda.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. drdOgn4NVXdei5/AOXGncFW47IMdcBKiT6BvY8+565BPTZ92MSKHCtial7bC1OBE4ixt24Sn0gcAPDzbhm/ME0duZFZ77U7v/bDyO9KLm99XzJuDH/41jw3vYuqeELok5FZCqoTAARPDN47xkzLLlUV7kWNxKHxCZ4zE4APvWZU=

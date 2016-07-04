@@ -1,0 +1,6 @@
+0lu1m0ivb49i9u52r20je2p8sbjenn66.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. C7hQMfqrl+S+7AdNAi/Qh457/iVQEjxzW9xOJta7Ts9KreWVKGQZ5Tj9qH3jVF6Mt+U+sfP1wClaPuDbSapFahgFGoT18xYRuA6l6RKAphf5wnUSCExmcgK7NfqJOpH2OBIOj4YwL27u+o18vr621jiEScs6e7JL3v0hn9ZJAio=
+0lu1m0ivb49i9u52r20je2p8sbjenn66.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0m1gfh04q2sgk8pn29m26g8tkc8e8b9d NS 
+agutah.gov.	86400	IN	NS	ns1.utah.gov.
+agutah.gov.	86400	IN	NS	ns2.utah.gov.
+ns1.utah.gov.	86400	IN	A	204.113.19.5
+ns2.utah.gov.	86400	IN	A	204.113.4.5

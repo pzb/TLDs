@@ -1,0 +1,4 @@
+cathedralcity.gov.	86400	IN	NS	ns12.zoneedit.com.
+cathedralcity.gov.	86400	IN	NS	ns14.zoneedit.com.
+mm4c84e6dpban881cec6mquf9ecgec5r.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. H47JHoQ7Uv2c1DSZGNCieEd5i0NhNLtr2pOroxJLYxb/OnqobnzLdVRPIeqGZTQv66Cn2XMx7mQ4ilyuD2QwAHE4fPFiBL5HGbgeABn1zgQ+bl+TwQkVZpaf2BODIbWaZmZ8q2iYSEAZdK0qrgGeeGgTmoZuWNjwbxTTuSohp0s=
+mm4c84e6dpban881cec6mquf9ecgec5r.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mme39e3ametk5efs064llir0fhpkn594 NS 

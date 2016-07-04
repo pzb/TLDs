@@ -1,0 +1,4 @@
+6ij4qvi126e5opqu9jue79kiaimrgm30.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ZeJ8P0ZxYvBexXWIEoAbWFUxi6DKVPeRPF7hrVR63HDf8nLr8GJ5V6c59mR6nVmfv9SxGqEtlGveyz3FBl2yWLhn1ZDjjZUW2LCQx54zMzU6Z7KGv1L2XfhRFPqqY8JzdPsJ8zC9lpKRwJ9D+2lH28VJtQ5KKu/z5GE6pvcZGwE=
+6ij4qvi126e5opqu9jue79kiaimrgm30.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6is7sndhk3280sfrakkgtbg27bntjb8n NS 
+birminghamal.gov.	86400	IN	NS	ns1.birmingham.al.us.
+birminghamal.gov.	86400	IN	NS	ns2.birmingham.al.us.

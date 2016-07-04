@@ -1,0 +1,4 @@
+6qevgm9c7j71elcq2ndtgfjf042tn85u.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. TP4kO0y5U6ncP8o2kn+S/+4UY09rQ0O8/1tUvW45h8m1Z+FpbjxvjCFqZXlKJJz41M432qwo7ZfUNvVBmXpZw1Y2itboyPKYRApY2P8I0wLK0f/YBzJEtc7+YaybO2OaoNqJB8QoQ5oxuqoF1mDms1QXaNsKptuCWk6hFJrcBZk=
+6qevgm9c7j71elcq2ndtgfjf042tn85u.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6qivp755g5nc1t9k90qnmbb04v9c3u03 NS 
+oregonattorneygeneral.gov.	86400	IN	NS	lion.state.or.us.
+oregonattorneygeneral.gov.	86400	IN	NS	puma.state.or.us.

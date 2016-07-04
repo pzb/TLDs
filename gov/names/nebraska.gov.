@@ -1,0 +1,4 @@
+6k69m8dj3fc77iv8t39q0nm3gps0fplb.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. nBuFUF7KXG/dzVE+t+cAw+QqPPf2GibzMmUyYaPkpbvZtTo2hpzu6mpv2txZ582/hRbEpQblrcTc1BIHRfTsMUm/oWN0O9iw0a8AWClq4FesUgqPQw9xHF2v8oZ3h3EpXu49b5GKLDxtEZwlzpGqy89c6ipBhcu9ZgfhZsr+2HU=
+6k69m8dj3fc77iv8t39q0nm3gps0fplb.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6kh1pt9amk9k78rihssmlun8hpdlkt2n NS 
+nebraska.gov.	86400	IN	NS	dns1.doc.state.ne.us.
+nebraska.gov.	86400	IN	NS	dns2.doc.state.ne.us.

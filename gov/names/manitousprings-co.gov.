@@ -1,0 +1,4 @@
+manitousprings-co.gov.	86400	IN	NS	dca-ans-01.inet.qwest.net.
+manitousprings-co.gov.	86400	IN	NS	svl-ans-01.inet.qwest.net.
+orit0m732vq14vr8iq99m39m7vjcolng.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. VvyduSBExpgwlqCQxvtmorV9PFqjEhucAtl/GUQXZe5WJIKGjpebs03Umj2memseFSZKhNIjGVOE1gNkE7AkzS3pllkRfNB0bqkfAHkTsnka8WrgQ9ZbJP125on54V0qOVcZzUziJz+qZAAdCThd1YI335WZxQzq9gsJSVf9Tfw=
+orit0m732vq14vr8iq99m39m7vjcolng.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  os7cnaa3bnhlhftqlt2m1294bt710nhd NS 

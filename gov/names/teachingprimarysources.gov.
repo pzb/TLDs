@@ -1,0 +1,7 @@
+ns21.loc.gov.	86400	IN	A	140.147.32.166
+ns23.loc.gov.	86400	IN	A	140.147.239.150
+teachingprimarysources.gov.	86400	IN	NS	ns21.loc.gov.
+teachingprimarysources.gov.	86400	IN	NS	ns23.loc.gov.
+teachingprimarysources.gov.	3600	IN	DS	33904 8 1 ed1e42461709749f2a1a1e0ee900947de4066e15
+teachingprimarysources.gov.	3600	IN	DS	33904 8 2 c6829f56c02c6c1ce240ccda1aaa925a51fb08551d65af163833b7a0357bccbf
+teachingprimarysources.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. WEVLzWaLLNHdhRGbs8pGJFA27+YDs9uZzNTjNuZFfmcs3rDM8FhDEm+4OmHNCTcRubgx+hnGVEIoQMPyYIsKkcv0yXvlptmDYn1EvQd9v6PjnaYNCCHK5z0lj171DHTMve6zdgLCKm03IqPwU/CpWJ9bS8T4V0WojaxXyfE309w=

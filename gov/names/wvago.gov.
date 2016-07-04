@@ -1,0 +1,4 @@
+c3tlqndpa64fvt72uhr1v7cpufh8j3ct.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. YGH0NlcMaVkwdxJOpAljGo5rcSTPvpo13Y4CjAcy4xNFa6uQ2H/me3UPzTk3bke1ztskskqiUXe28k5+lnANjTaW1/dOHUGddAbsYamzgju7E7O9RFvq4p3NYQv7H7FDnVV/wFYMUD/VqtlcjGKCkYOME8XICGhAI/BjNtpi1Fo=
+c3tlqndpa64fvt72uhr1v7cpufh8j3ct.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  c471v8ad47s4husia89fflvm18qncvj8 NS 
+wvago.gov.	86400	IN	NS	dns.state.wv.us.
+wvago.gov.	86400	IN	NS	dns3.state.wv.us.

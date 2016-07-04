@@ -1,0 +1,4 @@
+cityofaikensc.gov.	86400	IN	NS	ns2.easydns.com.
+cityofaikensc.gov.	86400	IN	NS	remote1.easydns.com.
+m20fkaeho35c7jniol10ncck10eosnkq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. oshaWOswZJm7tsNJHAoLpFWbKu15NPoyCXZPBkEard8fbyFj5CEf/M8+AKT1PgCasWvIiyQSENHpPgAChfa29hI0bg1XwMCXseyk7PbS3GPJUZZ+idxPTjxuoOjUmP4FOkIvF+8PT4unPWZWOeC1Oq2k+NzwyuIRDuzs/d7igY8=
+m20fkaeho35c7jniol10ncck10eosnkq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  m27t57bt60j0mbp0d1fm9hn229n8hcf8 NS 

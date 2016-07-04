@@ -1,0 +1,4 @@
+dickinsontexas.gov.	86400	IN	NS	ns1.pslightwave.com.
+dickinsontexas.gov.	86400	IN	NS	ns2.pslightwave.com.
+h3uk34gp9b873ak6rnq3phgc87ga80b2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. xo3SyJ4t8/ZybszmCnaO9NBmSqDAQB1Uxac3EzCAIU0tBmh6r8TIwGSk60r0nUn1frl2l+xRQWTJcqq+m+oMEEreBTm7oXzIqcv5jVjeMi+CA4TJKUUwGUaprjns6qYWTf53xy1oq4tkgzD+sekLeh2s4Mfqx2UbbDv/0fdwaDg=
+h3uk34gp9b873ak6rnq3phgc87ga80b2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  h46vvsi1lngib3g94b3di4uen5bvvsui NS 

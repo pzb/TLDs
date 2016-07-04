@@ -1,0 +1,6 @@
+5n68eptv4cu7jo177ir0tlro49ljtk82.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. JpX98enWuqdFjaSfeC8pMmNjbZe3utare3CQ8I/HZhbaiMKh8TLAfBkH7EKhQgubwuaYrpeZlXhhVgFv7F77hVhzB8veQFLkRG6R/TT/X2NNlT+gfOfrIz4OEykZzklIS+RcNl1geygUbc5+podN3pwXP2iha5mfGi2dXyVf4B4=
+5n68eptv4cu7jo177ir0tlro49ljtk82.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5ndrcflktapeuco7ik5cpoo0grkv5ucn NS 
+northadams-ma.gov.	86400	IN	NS	ns1134.dns.dyn.com.
+northadams-ma.gov.	86400	IN	NS	ns2195.dns.dyn.com.
+northadams-ma.gov.	86400	IN	NS	ns3140.dns.dyn.com.
+northadams-ma.gov.	86400	IN	NS	ns4140.dns.dyn.com.

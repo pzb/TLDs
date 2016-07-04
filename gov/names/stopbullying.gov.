@@ -1,0 +1,14 @@
+rh202ns1.355.dhhs.gov.	86400	IN	A	158.74.30.98
+rh202ns1.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2a
+rh202ns2.355.dhhs.gov.	86400	IN	A	158.74.30.99
+rh202ns2.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2b
+rh120ns1.368.dhhs.gov.	86400	IN	A	158.74.30.102
+rh120ns1.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2c
+rh120ns2.368.dhhs.gov.	86400	IN	A	158.74.30.103
+rh120ns2.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2d
+stopbullying.gov.	86400	IN	NS	rh120ns1.368.dhhs.gov.
+stopbullying.gov.	86400	IN	NS	rh120ns2.368.dhhs.gov.
+stopbullying.gov.	86400	IN	NS	rh202ns1.355.dhhs.gov.
+stopbullying.gov.	86400	IN	NS	rh202ns2.355.dhhs.gov.
+stopbullying.gov.	3600	IN	DS	26625 8 2 f702eb1dffcb69d216d82fd6356c27e3b9c5cc28dedd308f8617e9b8827983f3
+stopbullying.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. qkOy0WXVByC8ngSDvEQmFSokMku5cDN8rclNG6Q/WZdBRL/NOXMNuqsI1L8GHtVDugJH72JAmhbdd4oXA2PmA432ZhgQkOXa3CY+X9D0Cvs1eLU42oIioTZCBhXVHKhOhk+C8OZsZxzZV+B//Q6gREV37HPTP2AcftDEATyq+60=

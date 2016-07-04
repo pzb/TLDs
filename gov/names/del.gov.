@@ -1,0 +1,6 @@
+del.gov.	86400	IN	NS	ns01.delaware.gov.
+del.gov.	86400	IN	NS	ns02.delaware.gov.
+ns01.delaware.gov.	86400	IN	A	167.21.64.10
+ns02.delaware.gov.	86400	IN	A	167.21.96.10
+eqjd37p1oaje32sn93lslcntkp2n5g23.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Q7l6MHHYet292biYLnmvOABO/G0zQD93uVWVDMITlwRXmzwIUBSD4xrPZ6tJbrWnbvRdSsJPZ0OAFZAMSNMG2NEPoVrnvm6f2b/oRfqPLQ+EY/hSMJBVvo0EeoB833FNe0W/8yvMiyZxltABoe5ry8UuCCc3EqXezVyaRXFJcrM=
+eqjd37p1oaje32sn93lslcntkp2n5g23.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  eqk9ou64a4sac3ddshne43gb5ma113ag NS 

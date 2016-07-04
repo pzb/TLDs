@@ -1,0 +1,6 @@
+20clb0tdc16qnkkfvhfab9babtl03q5b.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Pws5DUGhyv6ZF8sSpWXyvsitQD+lfdT1PGDTlNh0a5Envdks2KTsukrRG+6ffBmUJfSNUKvKZRQw+1AmG1qnLj25cX8KipUurjHSsnDMGt48dDSrBTJj0wDoCwxFq6/BLQtjeEfa3pAgoQZvQTLRxFsmRtbRf0bP+STq4S9/9Iw=
+20clb0tdc16qnkkfvhfab9babtl03q5b.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  20mssbb67ibusr4n4gl87tu7rq1domq8 NS 
+azdoh.gov.	86400	IN	NS	ns-313.awsdns-39.com.
+azdoh.gov.	86400	IN	NS	ns-989.awsdns-59.net.
+azdoh.gov.	86400	IN	NS	ns-1028.awsdns-00.org.
+azdoh.gov.	86400	IN	NS	ns-1718.awsdns-22.co.uk.

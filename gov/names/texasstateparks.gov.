@@ -1,0 +1,4 @@
+5v4uv9c1fokf082tvvnkhu8jip1qm60c.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. GSLAi9AMMjoQ4DxJ8cqDseIFO6ZZAb7KhPnAa3KsifLKFynzzYjjgGCvqtSGn135e5rThldlm4uOYinPnfT9O+IfchC+h2ssv1sohIJlfq/Tc0V/iOF7fMCJCgTPFrTVfFEKSuRvKxxup6Hyl/aww4gZS9QYEoHdLXQKgBl4sH8=
+5v4uv9c1fokf082tvvnkhu8jip1qm60c.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5vdbnntltvdmvc1hpcdnqnkbvdjp1tvc NS 
+texasstateparks.gov.	86400	IN	NS	ns.tpwd.state.tx.us.
+texasstateparks.gov.	86400	IN	NS	ns.capnet.state.tx.us.

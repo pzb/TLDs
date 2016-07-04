@@ -1,0 +1,4 @@
+boyceva.gov.	86400	IN	NS	ns1.mediatemple.net.
+boyceva.gov.	86400	IN	NS	ns2.mediatemple.net.
+k5fffpfhn7bamil2ke2vnaljn1rnmg65.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. JQns9u2PB7EbybzG7/n17g3PR77Sm/3sDASOoRMwdu6Xf/dXGjgCpoOABUyKphyLvs40QiUa9zpZURG1y9pX28idtEtmG6rnV3vXDPNAL47QPUZ8k/c6fOmph8kwMvRVcfKKtnpjaYg/4oqoq0Ud+hiBHZf0HSqSCrn6lvT4EGg=
+k5fffpfhn7bamil2ke2vnaljn1rnmg65.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  k5fplc0ci738snnjkcu8ltago3u0qu3k NS 

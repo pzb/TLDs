@@ -1,0 +1,4 @@
+459t4cm7dhsvdta0uqeuchhlu22tec41.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. KpGBAqbluqNF5bYnO4Fgou/nfIXLf8Fcwc7mjZ/NbAMan9z6ecT48z+WYUR5SpPWoQyfTNSDOg4nRQ46KblgRLzxeJ4VSE+rFtyAlyYKEZceAnymXxOtXzCAY1TK/d9JokL/KK+JVZKTG6DbKsGjey7ueW6QGCJKO9HIYrugdBo=
+459t4cm7dhsvdta0uqeuchhlu22tec41.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  45debvc1e25pq2ette71qkrifhff5abc NS 
+blendontownship-mi.gov.	86400	IN	NS	ns3.secureserver.net.
+blendontownship-mi.gov.	86400	IN	NS	ns4.secureserver.net.

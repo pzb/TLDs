@@ -1,0 +1,6 @@
+linndalevillage-oh.gov.	86400	IN	NS	ns1.afraid.org.
+linndalevillage-oh.gov.	86400	IN	NS	ns2.afraid.org.
+linndalevillage-oh.gov.	86400	IN	NS	ns3.afraid.org.
+linndalevillage-oh.gov.	86400	IN	NS	ns4.afraid.org.
+recbjbe9kaof9b9kg40lcl4qsomir6cu.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Z8HBdJfiqZH7XjHDFBt2WW4POTGRUCmTKDXIGxQXU79j4s9HeqlwIoJGLx8ZZ4nLMtYi/hNc8pDPmN20LQVri1Rd6d7Ztlfsf1nFI5WlzCcsG2Dl+PFLgO04bgHAHpBCtv+mds08yVU5+5Uc8dvv90iU3zEQdBVuoD69zrzpokk=
+recbjbe9kaof9b9kg40lcl4qsomir6cu.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  reo4dj1lq3hfr8kr7l42i2g4kbqlenqo NS 

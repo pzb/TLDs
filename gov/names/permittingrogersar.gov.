@@ -1,0 +1,4 @@
+permittingrogersar.gov.	86400	IN	NS	cbru.br.ns.els-gms.att.net.
+permittingrogersar.gov.	86400	IN	NS	cmtu.mt.ns.els-gms.att.net.
+qvsrs54o0q3q8rm16cls0q4cm9e0h39q.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ll5wU+Imf+VhqvuXjKzHcguX7ppDJILP+tGWszuSFAqqjOEtliWljZHlIav9EMX6pjgNtcx7Le3RAk1Hh4YoAwbEJfVt2MH98akJ7J33JirWUXx5vQoWAUpwobamx0FMrp463sxil7+1OCCsfhq0UVh9oI6AxTRTYfv/sJONBfQ=
+qvsrs54o0q3q8rm16cls0q4cm9e0h39q.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  r0ccv4m1hcsgfkfrrgn4vfsb3h7vnuho NS 

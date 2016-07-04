@@ -1,0 +1,4 @@
+fui8cbc79dhm3pqfet00ljnlsrarqee0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. auczTCZyAtVBmjkvWykdWXjsysoT1PEfVf4Fdr6YQdCh06z38bvz7xM8W8W+hXKXaybxGlsX2UlbFJLlZl8nt4HE+UqQFEj9jlsDG+tTbSaNjwjoGhfhwUs/0zSRFZJQhEU+9I/CkF+zq1UQfE6AImT2pi7dgeAHXMZOCZltClQ=
+fui8cbc79dhm3pqfet00ljnlsrarqee0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  furptp8invvcrklrrp63kgk9anq5s1hr NS 
+morgancounty-oh.gov.	86400	IN	NS	ns6347.hostgator.com.
+morgancounty-oh.gov.	86400	IN	NS	ns6348.hostgator.com.

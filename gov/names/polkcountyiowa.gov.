@@ -1,0 +1,4 @@
+h7mkhvhhc7n4hcp1gf2an6en55jap5qm.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. AaBq+kdOWkr3tYZn/uOHUUitXpNCQx6A/1+o6FKoOMuR7U17vyfBFjJHHwMzoOUDE+nYPq5dsBROXpLg1ObWPoxkYbLF0Q1cBmnbPNNID92GhpbPJ48taIMT0oGb1/q4qC0TD+InrsBwOAjGDit7dka1zJnxOnOR+Dk90uVSUnU=
+h7mkhvhhc7n4hcp1gf2an6en55jap5qm.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  h7n2b9b953r8lh17ko4ne0ga23tgm3qp NS 
+polkcountyiowa.gov.	86400	IN	NS	ns1.co.polk.ia.us.
+polkcountyiowa.gov.	86400	IN	NS	ns2.co.polk.ia.us.

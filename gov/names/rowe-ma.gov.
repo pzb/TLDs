@@ -1,0 +1,4 @@
+80h34mjsqfdiqutjm8fsc98o1iv03enr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Ouf5USv+Dp+fD8taThm4ezg/T2zh/p3cpaBdo8giIsh1WgQisS8DigPot+aLa3eOoiDGNxGwhu5nUA8ulf/re8Jo5NVlTVZqB9qQgJ3wzBpvVfgNX34ZZ5OeG52TUFKoZYINeMAFzMlc3LhQAFcz4Je81k1MIdbNqciYCR+uU3o=
+80h34mjsqfdiqutjm8fsc98o1iv03enr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  80p7up4htd470dfiov704iv7e201ha9t NS 
+rowe-ma.gov.	86400	IN	NS	ns1.infotech-maine.com.
+rowe-ma.gov.	86400	IN	NS	ns2.infotech-maine.com.

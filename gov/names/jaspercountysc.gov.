@@ -1,0 +1,4 @@
+jaspercountysc.gov.	86400	IN	NS	ns29.1and1.com.
+jaspercountysc.gov.	86400	IN	NS	ns30.1and1.com.
+si9sk2g19gihsp178k4sscmr7kds0536.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. KuX4qbzEvTujpqKgyOeBEqBpReFjC+pprD1DQTukA8I2plv5EKHyOq7n7ZbLmEaI3DQ5lqRy5njhxao+e04Z5FWu6b0Jy7O+EsTWVo8aKfnI8aA387+Ysy6sOiaETjpNL65OLymWKA9yMBI7wpuiio0cGHZvd8h6rMaB07jot90=
+si9sk2g19gihsp178k4sscmr7kds0536.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  sidpb7o8vpajtl2ctg3uklosrksa2l7k NS 

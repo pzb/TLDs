@@ -1,0 +1,4 @@
+bentoncountyar.gov.	86400	IN	NS	cbru.br.ns.els-gms.att.net.
+bentoncountyar.gov.	86400	IN	NS	cmtu.mt.ns.els-gms.att.net.
+u3o3k4lgqg2c7ch4pqmus4dp7vt3hk4q.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. lJUjg783hV3B09b4rqZ4Vmp9IRRsx7fmbDgDe4AijjWaGhz5HwXmW0nNS6Tos+dLersWblqA33TKL+SA6/bEMXbbNdW4O93mXrEvmGzPZA3rMLjfKHBObvAH4tDDkomaVSjhR4w776+5Pst2atcyh6648WYyTaPtwzG7lFwIXco=
+u3o3k4lgqg2c7ch4pqmus4dp7vt3hk4q.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  u3vehruhvie9glo73mf1pg4af4girlh8 NS 

@@ -1,0 +1,4 @@
+d7nm35f52b5h6h0o2pe3khk2knlhg4no.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. X+Jyfewy9nq7SxjCEh1GFXuiJ5y5iTZZTZ09tZB+/wK60CS8ILOCS/As7+VfEsq1oK+jrVfgIDFKY7QQHDKJOgEaGP5PuU0meoAOjIZWn2WaUj5+/t3pnKpR1sa85byijbb/Vfv548NMn+9XIAHYfjqjn9GaUllkweXUQRL1iZo=
+d7nm35f52b5h6h0o2pe3khk2knlhg4no.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  d7npodvsbbdb6fe3ck8758md3dhl32mn NS 
+ohiocountyky.gov.	86400	IN	NS	pdns05.domaincontrol.com.
+ohiocountyky.gov.	86400	IN	NS	pdns06.domaincontrol.com.

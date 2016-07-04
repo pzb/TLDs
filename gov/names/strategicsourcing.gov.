@@ -1,0 +1,15 @@
+dns.gsa.gov.	86400	IN	A	159.142.136.198
+dns.gsa.gov.	86400	IN	AAAA	2620:0:150:280f::5
+dns2.gsa.gov.	86400	IN	A	159.142.150.68
+dns3.gsa.gov.	86400	IN	A	52.203.230.235
+dns4.gsa.gov.	86400	IN	A	159.142.69.84
+dns4.gsa.gov.	86400	IN	AAAA	2620:0:150:4013::5
+dns5.gsa.gov.	86400	IN	A	159.142.45.20
+strategicsourcing.gov.	86400	IN	NS	dns.gsa.gov.
+strategicsourcing.gov.	86400	IN	NS	dns2.gsa.gov.
+strategicsourcing.gov.	86400	IN	NS	dns3.gsa.gov.
+strategicsourcing.gov.	86400	IN	NS	dns4.gsa.gov.
+strategicsourcing.gov.	86400	IN	NS	dns5.gsa.gov.
+strategicsourcing.gov.	3600	IN	DS	13466 8 1 6852f6ff2c3f0660c97da30e6892883bce1671b6
+strategicsourcing.gov.	3600	IN	DS	13466 8 2 33f2c8c7ba8d66818e6c8a1fb4e9b8e883b9c2e779fadf4c02a830c545414295
+strategicsourcing.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Kru6GiVJkFoXmg/FbtPZCemwZXdNNyGZyaT6fi/psatevDiu0lR8whEiFFFLEc9/9/EIZLL7Ahgv3bxz+2VJJJ4yeFuGd17oTAH6jHCjjqIXT4/NHO0OhzCgM/o68iIAoBq/jDhAnPACEsi1/fOfc3z3XIUrrwT8sjhJ4JKjyFY=

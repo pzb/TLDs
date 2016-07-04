@@ -1,0 +1,6 @@
+azminorityhealth.gov.	86400	IN	NS	ns-381.awsdns-47.com.
+azminorityhealth.gov.	86400	IN	NS	ns-959.awsdns-55.net.
+azminorityhealth.gov.	86400	IN	NS	ns-1064.awsdns-05.org.
+azminorityhealth.gov.	86400	IN	NS	ns-1702.awsdns-20.co.uk.
+ipfa0ufkh842vki6rcubqr9nbrn11uus.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. yDDemoDvd5hywObJr50j7UBjp2vMXPWxDol8r9xwKSLR02Zpx9xEYTi5u5rp060lm1LXWgQ6lREFScvCemurvs2cIpYzu/htVqTHNyJxMJsF/+GcdeXmEWBK32m+i76h0C42U6ne+CRXQboua4LelK7Gfnn1NlVI1WzJ4E4tU5U=
+ipfa0ufkh842vki6rcubqr9nbrn11uus.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ipiqu0c9fetp03v5kmeqs1prt9krovuf NS 

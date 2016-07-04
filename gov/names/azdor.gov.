@@ -1,0 +1,8 @@
+azdor.gov.	86400	IN	NS	dns1.state.az.us.
+azdor.gov.	86400	IN	NS	dns2.state.az.us.
+azdor.gov.	86400	IN	NS	ns-123.awsdns-15.com.
+azdor.gov.	86400	IN	NS	ns-1012.awsdns-62.net.
+azdor.gov.	86400	IN	NS	ns-1330.awsdns-38.org.
+azdor.gov.	86400	IN	NS	ns-1724.awsdns-23.co.uk.
+kgnb6hginnaam29id4lhncaqnl3uj1mt.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. JwnWfzD3FyOmz5OPVJCnKP381bbmOq7O2CTZ99JCK8ZAuUUoyMlDbvOvDKnIThMHxRTGKJb3YMstCYLYNlCr2vM3KwJi+uVgvaC/NGWbIqmIGOc9Us2b/zMM7mr415MG0fs6CFs3XQFtzakdLrQzrDcaFdCns7yKIH0OE51ZSJs=
+kgnb6hginnaam29id4lhncaqnl3uj1mt.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kgoef9of7ir1mnngqbpqnrtnvbiu1vc9 NS 

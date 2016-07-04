@@ -1,0 +1,4 @@
+1sdquo9jana457942c4f2s7a8uul4ql2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. mvVvpAmiage+eEcnGyuCB4iTEh3BIhPPcZzbfs467gaZ3RWfiXL51f8SEpSmP0rBhQSjGdnNXSTxXboC3AgthbHt8V06S8IXOnXF9utybSGZ83vmmTkFuW+UyanDkzbwqhVr39oxoLGvf/HnRv61/6UE7l6L/HEEekQZcPc5b4M=
+1sdquo9jana457942c4f2s7a8uul4ql2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1teqsdi9m2frgrl3lvkmkuchblhfavfh NS 
+pineplains-ny.gov.	86400	IN	NS	ns1.digitaltowpath.org.
+pineplains-ny.gov.	86400	IN	NS	ns2.digitaltowpath.org.

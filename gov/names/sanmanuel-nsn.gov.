@@ -1,0 +1,4 @@
+1a982dnp73lskd6770ocip6tu8gnkvjf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. oZdNMDICSBPE9hzoNdh9ww634aRA2uyBuE9n8vr8iY9L7CjVnOWiY3cbBbDM86t4xgqw+TvH7JblyP7+Ekx+R24i+SPrebpPs+t1dtGwgFte+KuCLUeyuZDZOP9uzg4qBBom0dKaHB6VLdPtz4lzDp2Yy41gy6uQLqxMgl/8Ufg=
+1a982dnp73lskd6770ocip6tu8gnkvjf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1abvl6esqc8ku43saami9of8ofv2942v NS 
+sanmanuel-nsn.gov.	86400	IN	NS	cbru.br.ns.els-gms.att.net.
+sanmanuel-nsn.gov.	86400	IN	NS	cmtu.mt.ns.els-gms.att.net.

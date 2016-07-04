@@ -1,0 +1,4 @@
+fremontnc.gov.	86400	IN	NS	ns10.dnsmadeeasy.com.
+fremontnc.gov.	86400	IN	NS	ns11.dnsmadeeasy.com.
+jq2j2hfgvpllq5iliu8qm9qjg93f0maj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. OuVusRs45VcGyNffwA9lm2LXW6J4OyciNzewD634QREIKCbv5hTDPCx+naCSqUDWA5O75H6n9fwKQTK2Bthntk+JkI2jmZ2u1Vp/3mMqVN6RjG+RbhSlP04wpgYfjHtXag7R1PHYO7RrcXFWLaFcf82GwsKJF7QrJoI658SsFd0=
+jq2j2hfgvpllq5iliu8qm9qjg93f0maj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jqdjej77dln09mheqnhga17ffp4s0mm4 NS 

@@ -1,0 +1,4 @@
+simontontexas.gov.	86400	IN	NS	ns35.domaincontrol.com.
+simontontexas.gov.	86400	IN	NS	ns36.domaincontrol.com.
+u131bra2uvojg6mkqc8mtcc6to61ot72.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. bH8fkFmHHxpA9nfslIEbEAaqKJFkxDEzwAbkiHJ0oOs38oPcse6sxj+ynhNoY7Z1BkXsSW1o14o/H8zfvg7uUm3SnNPVJYiTzpvswvQUo+7SfpLML5FQnSheuwqhUsheHmfGsDV9VonDfTvi2QaZU4OV1kEpLKi5S17gN7Jacow=
+u131bra2uvojg6mkqc8mtcc6to61ot72.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  u13b2duot9lv9p3a17a6omlms4811ppl NS 

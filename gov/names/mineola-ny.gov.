@@ -1,0 +1,4 @@
+mineola-ny.gov.	86400	IN	NS	a.dns.hostway.net.
+mineola-ny.gov.	86400	IN	NS	b.dns.hostway.net.
+nqdaqsitbh97ciumkfko3u0m7hk8s6ca.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. aPL0ZS8bjZUNzMqr332FWrhQ886yjpI1NTYXURsgNKl4t7GsNulPXS0lQGZJTah7dd9DAOfN/hYwWQ2e4JXnpQqlNAjkf3QaN2utYVTxCfdJ0/CAiNjSpTA8f1yNzxEJJXTmdttAi8xpV0NrylNDWJxW4DunpMyhwMC85Y7V9Qg=
+nqdaqsitbh97ciumkfko3u0m7hk8s6ca.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  nqi3p3onktmp42g7og538j4q6qt3a7sh NS 

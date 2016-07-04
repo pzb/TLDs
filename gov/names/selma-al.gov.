@@ -1,0 +1,4 @@
+l2vgisr6m60sccb5gcc7mb136too3b4p.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. vokQwBqe9DgKv431NF8kyrgTnZTITRKQz3/tdPfzInuGP7IzhrR2n291v6+MQIb+WvKk0uSFyMhO/nu8p9gmUT/TM2HWPB2xpl1dCPuCCQv7+gtA8LYhqH0krww/w72hbkeZN18YZhawijihpGjrPn8hqAHHTro7ZKmISQum340=
+l2vgisr6m60sccb5gcc7mb136too3b4p.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  l2vo41nqnep3tj17ga2disrtdfdr07bq NS 
+selma-al.gov.	86400	IN	NS	ns1.startlogic.com.
+selma-al.gov.	86400	IN	NS	ns2.startlogic.com.

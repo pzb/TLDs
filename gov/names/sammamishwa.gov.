@@ -1,0 +1,14 @@
+0pfkjrq6f00kgnld7gfutd2a5uktv53g.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. t2aBNBROUdGvgdRbcwYiX54gAtSjPL1o7EyRHSjW3+NBm+zebeoGvf7aUWkRhVjn0quRFCTSQye0Utr/mo4vuj3dMa/ognkbNQ3TZ6CFfaROFvGyukDVBfO5qWJ0nIdgy6843hpbbJR+2xisxU+3YccIDssTc2ykyG+VVFD0CjE=
+0pfkjrq6f00kgnld7gfutd2a5uktv53g.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0pm9gqa14aevhojfh3ntkoavp8ogj470 NS 
+sammamishwa.gov.	86400	IN	NS	ns0.sammamishwa.gov.
+sammamishwa.gov.	86400	IN	NS	ns1.sammamishwa.gov.
+sammamishwa.gov.	86400	IN	NS	ns2.sammamishwa.gov.
+sammamishwa.gov.	86400	IN	NS	ns3.sammamishwa.gov.
+sammamishwa.gov.	86400	IN	NS	ns4.sammamishwa.gov.
+sammamishwa.gov.	86400	IN	NS	ns5.sammamishwa.gov.
+ns0.sammamishwa.gov.	86400	IN	A	208.94.148.4
+ns1.sammamishwa.gov.	86400	IN	A	208.80.124.4
+ns2.sammamishwa.gov.	86400	IN	A	208.80.126.4
+ns3.sammamishwa.gov.	86400	IN	A	208.80.125.4
+ns4.sammamishwa.gov.	86400	IN	A	208.80.127.4
+ns5.sammamishwa.gov.	86400	IN	A	208.94.149.4

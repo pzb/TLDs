@@ -1,0 +1,4 @@
+macombcountymi.gov.	86400	IN	NS	dns7.ns.thelinuxfix.com.
+macombcountymi.gov.	86400	IN	NS	dns8.ns.thelinuxfix.com.
+ok46bfsohm9edfokarvhoubqu31gt874.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. oUrpUkvlkxPWWMD9AQhDSXOoG+7J1aTPDWTsj3d0ypX9n4OODHKWbZ4GIq8SEBwdOjQOicjkfuWVCNwXVmylS/pHzC+WpOBONyAzGzmGLehRW9/ybz9G0JpVNELZ1aiqaVcpXhHskJhEYJs1vJ2SUhknl/wdlLQIONRuPrEy/y8=
+ok46bfsohm9edfokarvhoubqu31gt874.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ok73o41dfehgi99v2k0icvjltbbngk0d NS 

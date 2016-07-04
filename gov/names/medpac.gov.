@@ -1,0 +1,5 @@
+ft6u5u4ipgdlvpm089fona45o4545oeu.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. oc/tvP9bsPpISEb0w69UXJy0C6qI7+xM7IcVsBaTkCuN+v5V2nBu7nYiizb8URP90IUoOM3PM3mLKcrIlbUoaucvxcVVzaU6zEjxcRaJPbj09TWibYiSBCGAhTE6N6m27O/S7dq7NrS6gE9psQW56MlsSd8rr0WDpoeKEcpUui4=
+ft6u5u4ipgdlvpm089fona45o4545oeu.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ftcurd7erj5d17j4krvmiepjoa83smls NS 
+medpac.gov.	86400	IN	NS	ns1.lnhi.net.
+medpac.gov.	86400	IN	NS	ns2.lnhi.net.
+medpac.gov.	86400	IN	NS	ns3.lnhi.net.

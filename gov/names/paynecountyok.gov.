@@ -1,0 +1,4 @@
+96hi4qfs01ncvov4tag7embtdrfkq7gr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. G4bcShniAs9uIDmhvoHSH/PYq+/u5ANcxCo5hup+LDE7DbcnOJONKXKSPVv2eQSmL61pqRj1ikud87/3ZFcOYptSlrKtaexA3+iAYRiHc1C8R3j/NG/px/H3xTs//sa3ltA7AAf6cXmYZlkQToCWnUvE87zL0wT8KSGm+6llYpA=
+96hi4qfs01ncvov4tag7embtdrfkq7gr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  96okcgn1buvj7l8btk4cuakl7q639kuv NS 
+paynecountyok.gov.	86400	IN	NS	ns1.rhostbh.com.
+paynecountyok.gov.	86400	IN	NS	ns2.rhostbh.com.

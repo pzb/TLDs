@@ -1,0 +1,4 @@
+3vdhp19insaouls4n8alvoop0k9o8h2h.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. oml8h9hpkxf/B1UHrXJnC3R0XXyrZ93e6SwZD03YXp3wxNLK0mL+1w7oGWT71wSZZFUNhPI6fck1qig7jR+vvk4rCKb2cE1baZapjpEMFobiXonjT3DMDmG/Z7YHShQJIdoUGn/cQNiAYZHS3I1JeO6v9BRTRJWA9NEy0Tkhg2E=
+3vdhp19insaouls4n8alvoop0k9o8h2h.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3vfaumgbf4lansik716lptm6h4kc7ccd NS 
+amsterdamny.gov.	86400	IN	NS	ns1.enginesofcreation.net.
+amsterdamny.gov.	86400	IN	NS	ns2.enginesofcreation.net.

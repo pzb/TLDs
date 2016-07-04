@@ -1,0 +1,4 @@
+co.gov.	86400	IN	NS	dns1.state.co.us.
+co.gov.	86400	IN	NS	dns2.state.co.us.
+dk4aqkniu2505j9hg0dqftp2jbsv0ris.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. dSdzcOoj0M6+MYXvjMVcDp9QO3Bp9Itg4v2w/fVWx7urk17htmjy4Fho3SR3ZGCN3KvhpQJgXU4q1aemLl2HMa1T/y4/6UIyjMiW0VFLqDj0l7vbxfsLRqyqJmvc0flgbfC55zh4DhCViOSzTmjYJGxUE/yGmN4lWANHzAgJ770=
+dk4aqkniu2505j9hg0dqftp2jbsv0ris.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dkb43hu139n3uj4ed8g62l1fqsqg5u5m NS 

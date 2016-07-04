@@ -1,0 +1,6 @@
+e1o3mjqha88vghpeu0o6fcti75k5sn34.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. xFFdpIPXbUnq+zmpUD4Smq3K8ohblyPJeg6TzR7rtZzct17HpRr18pJ2TPsgHw9DqRHGShQZ1O6l83kHH8LUzrXeiYuCxYh9KzA+1Jbr2FlJtbf6C7NwTPATljp5Xj+b2y2ucHnMjWUzyF5bmZRzxPctJb3ocTJ6Oyn7GdCGRIs=
+e1o3mjqha88vghpeu0o6fcti75k5sn34.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  e26t8hos01d2e25toi79m56mjsantml7 NS 
+newtownohio.gov.	86400	IN	NS	ns12.cloudns.net.
+newtownohio.gov.	86400	IN	NS	pns13.cloudns.net.
+newtownohio.gov.	86400	IN	NS	pns16.cloudns.net.
+newtownohio.gov.	86400	IN	NS	vps1299.imagenetusa.com.

@@ -1,0 +1,9 @@
+openinternet.gov.	86400	IN	NS	a7-67.akam.net.
+openinternet.gov.	86400	IN	NS	a1-166.akam.net.
+openinternet.gov.	86400	IN	NS	a13-67.akam.net.
+openinternet.gov.	86400	IN	NS	a20-64.akam.net.
+openinternet.gov.	86400	IN	NS	a22-65.akam.net.
+openinternet.gov.	86400	IN	NS	a24-66.akam.net.
+openinternet.gov.	3600	IN	DS	23554 8 1 af4f8d6dd4d32d5b38cf299e2e81964fd13476f7
+openinternet.gov.	3600	IN	DS	23554 8 2 cee8fe44edafe288e840dfee891b274a5a751adf1794f206dc2f30747b6128f3
+openinternet.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. sVTmnVnnfDgSDuTiFOGYaUfuzUQOw3ZZfhN2Fwu6bVumz78v5LJwAQ118no2nKmtHkOnRNtk2jQj42+42TfWLE1tohPy2J3BDNuZRi/zwspHe4iGyNXsAqNs9ckKLlHLVaEMDMw+aDjRBpM/ZdKYl8zITcZu+SlmcGBjey6k83o=

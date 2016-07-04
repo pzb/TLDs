@@ -1,0 +1,10 @@
+lv8i2sviakorhk889bhbpbrtord2qbda.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wfBpiV4EDytrvMQqzArMdorl6hUR9vFP4vDOPGqpapFQQOnSkH6PoCWadm2AbkA9Z+JCKG5yqA+8P0mDB3iMBNtex8rralfS4jQZRxOJv9pbZHpJtXwYmcddGKqLlVf5oXNSsYBjhMtItCbvqnATR8KSHggM5FxzNOogMtDhfVs=
+lv8i2sviakorhk889bhbpbrtord2qbda.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  lva1ndafgtl0vmsd61eki3hqdh9kadgu NS 
+scus.gov.	86400	IN	NS	eur2.akam.net.
+scus.gov.	86400	IN	NS	eur4.akam.net.
+scus.gov.	86400	IN	NS	eur5.akam.net.
+scus.gov.	86400	IN	NS	usc5.akam.net.
+scus.gov.	86400	IN	NS	usw1.akam.net.
+scus.gov.	86400	IN	NS	usw2.akam.net.
+scus.gov.	86400	IN	NS	ns1-62.akam.net.
+scus.gov.	86400	IN	NS	ns1-216.akam.net.

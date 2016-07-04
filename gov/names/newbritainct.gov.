@@ -1,0 +1,4 @@
+newbritainct.gov.	86400	IN	NS	ns5.xdf.net.
+newbritainct.gov.	86400	IN	NS	ns6.xdf.net.
+v75belv0js7j8753curf08k65fn0q6v4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. UTBH6/+2VqTAlkWnWrmw5EtGdwNg2Q61mK85eBvCDGTAq36Cgyk53DhNdIx+THffHzHgBAlEyHp9anDM59kRk53gDdA143geEMhwl8NRGyvikqtOPjZSIKnpvysRr8Ewj5K4/E1RzY3SEj0secgYG3Tdiz8yi8IJWV/dZpKwBdo=
+v75belv0js7j8753curf08k65fn0q6v4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  v7653phva0gg0tgvscmikc6modrbe8t8 NS 

@@ -1,0 +1,6 @@
+cityolympia-wa.gov.	86400	IN	NS	disdns1.wa.gov.
+cityolympia-wa.gov.	86400	IN	NS	disdns2.wa.gov.
+turddudvbb23fdj20e1v3n43na22aj4h.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wYwpDePpV1rw7ndXjtZzhXM1IXSrzRByv1Lo0A0TjGtePRh80nug0Ep3MxVzknR1W3cZw4gIkzkjuKg/vXPDFrk3/yFgUhv5yWMxHVF/9k+cz1Dss4KhXsXkdZWsg7IxbDFe4HOeyP+pSFt3QRrTUtwQCZIyCfJ55JJARdS6eLI=
+turddudvbb23fdj20e1v3n43na22aj4h.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  tvq1l3pm6g72j4pqib5t51ivb4t2q04j NS 
+disdns1.wa.gov.	86400	IN	A	147.55.96.32
+disdns2.wa.gov.	86400	IN	A	147.55.48.32

@@ -1,0 +1,4 @@
+b3jaf94ptsbco0mufg6i1qbq53i6odf2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. PCNl7RC5LXYdFicp62fdkP7TquXP+NGzoWotz186NhTE9+YivUrDFZRfXX3ORRUqOzrI6ctMtJMaXIKXaFEXt3JmVhMwphHDovHAJRZhqP7jqqkVuJ4HtRybhDw1toW886yyTT03iNKDsvA9jlGZKK+JIGK7JTwdf/kudB1GqcU=
+b3jaf94ptsbco0mufg6i1qbq53i6odf2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  b3l1qj06aonun8pj7oe32oajdv3fl7bv NS 
+wenatcheewa.gov.	86400	IN	NS	ns1.nwinternet.com.
+wenatcheewa.gov.	86400	IN	NS	ns2.nwinternet.com.

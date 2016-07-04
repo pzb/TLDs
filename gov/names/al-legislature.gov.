@@ -1,0 +1,4 @@
+al-legislature.gov.	86400	IN	NS	ns3.asc.edu.
+al-legislature.gov.	86400	IN	NS	asnsvr.asc.edu.
+h8a19htr123i67f5f4nri1nn01ck5dco.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. I9jUZMuC40aXCV09yJXxM3ZqgOk0KdKzUOXM8cDIg34gcBRwg1xQGMnn1yLHf8q+36AeisAxm1XlQ6R0ze4Q92QNupxMYQMgAi1sF4jcA0ftqFDX9W1bbNEmT0W4I+RzP/LZKoaohsi6YpjDgu6WTACSr3OfTCX+EU5jfAitLyk=
+h8a19htr123i67f5f4nri1nn01ck5dco.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  h8d6c7d3tisdgtb1l2nj02moi1u6v6fc NS 

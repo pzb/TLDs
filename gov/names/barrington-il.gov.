@@ -1,0 +1,4 @@
+3u3onthgtb0m6v14phesf6elubu4v22a.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. QmoVnq5fcSNuG/Ba/ZME+wlOrUD/PW2HugoFNS6MnXHnOLVC/8EsD96Dr3gmEimLY2lsL+knC79Wkogn2/6xDn11xN86WTss5SRzyTw+fyNVNrUim+k8dvl3vgkp2OC9hTQZk9p9+XZuryuJfS5bi64UR7z0Hr3SjwmI24KGtJc=
+3u3onthgtb0m6v14phesf6elubu4v22a.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3ued72g9d2is9g1oaf956t0a9qpvgv4k NS 
+barrington-il.gov.	86400	IN	NS	ns1.visioninternet.com.
+barrington-il.gov.	86400	IN	NS	ns2.visioninternet.com.

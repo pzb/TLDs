@@ -1,0 +1,9 @@
+ns01.fhfa.gov.	86400	IN	A	12.183.70.4
+ns02.fhfa.gov.	86400	IN	A	12.183.70.5
+ns03.fhfa.gov.	86400	IN	A	12.183.69.4
+fhfaoig.gov.	86400	IN	NS	ns01.fhfa.gov.
+fhfaoig.gov.	86400	IN	NS	ns02.fhfa.gov.
+fhfaoig.gov.	86400	IN	NS	ns03.fhfa.gov.
+fhfaoig.gov.	3600	IN	DS	15609 7 1 f164f0457d7f75b523c96df9f2b4a74917444dfc
+fhfaoig.gov.	3600	IN	DS	15609 7 2 da301a4a687502f8d50b52176ef6257982f04c4a1fa99d3e3bdc3fe81769fb7c
+fhfaoig.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ZAFyHD9M4pWulfbo4qHi6O+PCpwzmpiSXPYQw/Z+OnTq1d9RL6YbiYjur/sw723Wf84asSltzojyz7/8MkD7DGWpC7PywRBfPauam/SAEn03sMd99RICZO0vTEoZ10ROXD62lruMpJozn8BhlDpXqW/7qD8qtBVMc8Xy48sQlHk=

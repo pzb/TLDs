@@ -1,0 +1,4 @@
+8s3reordpqp0uahqcc04bc1e4q182tfo.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. J9fV9HHTPkh1ljBerz0LbB9ZR6egak1Uad5U38AaebO2uPEN+r/6s69j9BRyhvZcu5lXNHjlKkfK9RJkmA8rYaC6aon0YK+wlVuhGYreLX/z9zoNLh6NxOLf/dfjX1bsIZPBEDcSd8Iy+gEhx/xnFLnCef3H+8f61iqq1vTR7cQ=
+8s3reordpqp0uahqcc04bc1e4q182tfo.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8s40jb8cm6oqrctvl0cn55gta9bqhter NS 
+lymect.gov.	86400	IN	NS	ns89.worldnic.com.
+lymect.gov.	86400	IN	NS	ns90.worldnic.com.

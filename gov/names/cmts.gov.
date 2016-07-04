@@ -1,0 +1,8 @@
+an6ett9v61s3f9j8e3rjkjtqfj034hkl.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Lepswk6VIbkE5RchTS7ypClVSLBlgwLVukWUHsK76+jEnDJ6gz0TY9MQhpNKBuQ2k5sFRWuHAbmA6vnclx+4KI/niB8UptLMKa/U2Xl0P7zqrNUP0jtn4TKwTuxYuix78yBaoVCmMEG7IC6Rn7vb6QHn+iil63BIt42hbJEowYk=
+an6ett9v61s3f9j8e3rjkjtqfj034hkl.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  an8c7qgueoc8v3rgufu12o3dknuod4bp NS 
+cmts.gov.	86400	IN	NS	edns1.dot.gov.
+cmts.gov.	86400	IN	NS	edns2.dot.gov.
+cmts.gov.	86400	IN	NS	edns3.dot.gov.
+edns1.dot.gov.	86400	IN	A	204.68.194.100
+edns2.dot.gov.	86400	IN	A	204.68.194.200
+edns3.dot.gov.	86400	IN	A	204.68.195.200

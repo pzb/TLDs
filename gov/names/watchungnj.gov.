@@ -1,0 +1,4 @@
+mpqgrir1gdngjoddpkmfmr5e93slsl97.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. HKTFcbnGkXCpil+0hoScUB5foa+qewM6LmzuzSwryARDL85Z64bg6+kprb6O7WyPIfPv9zcMbC3FG/1u8RleJS5xbJnCeJF+YZYC9qnEuQMPBbRoJJOlTjFqDzkuAd3cKASB3x/VHQhV/AdemeM3vg9jy9HXS50di0uZ0Ypm/pY=
+mpqgrir1gdngjoddpkmfmr5e93slsl97.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mptelhjbph14qf0e1q7od08j04qi5j4t NS 
+watchungnj.gov.	86400	IN	NS	ns1.hostmonster.com.
+watchungnj.gov.	86400	IN	NS	ns2.hostmonster.com.

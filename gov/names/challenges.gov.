@@ -1,0 +1,15 @@
+challenges.gov.	86400	IN	NS	dns.gsa.gov.
+challenges.gov.	86400	IN	NS	dns2.gsa.gov.
+challenges.gov.	86400	IN	NS	dns3.gsa.gov.
+challenges.gov.	86400	IN	NS	dns4.gsa.gov.
+challenges.gov.	86400	IN	NS	dns5.gsa.gov.
+challenges.gov.	3600	IN	DS	50284 8 1 698f2a12a78b209ba6a0dae3495e329e2549a6d1
+challenges.gov.	3600	IN	DS	50284 8 2 dfd2ac724059b0c9066a4dd3d45c20f40df5f93153628059499e068df5cb6251
+challenges.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ENhSCF0w+YjxEslQs6+y56CToDHKlt0QMMFXX8diUjphetuN+tnPyuFuJ4G3ZwS8BPoVoZ2u2pYFKjzXy7JGcFIsAewl6wxdNfqn29jzPKjb+FwWgLgzwczA7jcrBLedO+TbL6PYPO1vZaEhkQeS61jJ5kMPX7ZTVwHzR+JLg1s=
+dns.gsa.gov.	86400	IN	A	159.142.136.198
+dns.gsa.gov.	86400	IN	AAAA	2620:0:150:280f::5
+dns2.gsa.gov.	86400	IN	A	159.142.150.68
+dns3.gsa.gov.	86400	IN	A	52.203.230.235
+dns4.gsa.gov.	86400	IN	A	159.142.69.84
+dns4.gsa.gov.	86400	IN	AAAA	2620:0:150:4013::5
+dns5.gsa.gov.	86400	IN	A	159.142.45.20

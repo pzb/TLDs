@@ -1,0 +1,9 @@
+sierrawild.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+sierrawild.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+sierrawild.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+sierrawild.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+sierrawild.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+sierrawild.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+sierrawild.gov.	3600	IN	DS	39309 7 1 7dd5e97de2e299dec85881f388704cafda5a92ac
+sierrawild.gov.	3600	IN	DS	39309 7 2 1297bcbf801d6b645c6c18986f1485654cd67d20a5ec594f63bf1006370cf358
+sierrawild.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ebspukunT5lXb4fBeQ1pEf/Fd6tqUp06u0nlvY+UB0xmAkBzwsOZ9LMepY4VGtuYFK1KPNb/ifk5RDYdDZSS7m0hlO44rZdX0qqw69sogTi67l0u/MX6v2HrOFtvQs1S8T+ewrz098TOlaJXCK4Gh2nqAJtoYOI7eCxADVUx2kQ=

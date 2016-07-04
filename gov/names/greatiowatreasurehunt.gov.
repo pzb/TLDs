@@ -1,0 +1,7 @@
+greatiowatreasurehunt.gov.	86400	IN	NS	dns.iowaccess.org.
+greatiowatreasurehunt.gov.	86400	IN	NS	ns1.iowa.gov.
+greatiowatreasurehunt.gov.	86400	IN	NS	ns3.iowa.gov.
+ns1.iowa.gov.	86400	IN	A	165.206.254.145
+ns3.iowa.gov.	86400	IN	A	209.56.120.13
+nr3m5pm1afshgb856habqb50gda8jkk9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. pMWLW4cBEX55/B2pr8Iux/TjfWDLzM7Idq5KsX+sgY+SQHosN0svUnDNy8urimUcEp7hYzX49v/iRgUWp06Qt8fsG0Xs1pK/s1XqUbJj5tOcHszXLM9Z8zKLA+GQlJsxtEJSlcP0Z4fbEnxccW+MtEs+fPQ8VK035UmjDc7ip/M=
+nr3m5pm1afshgb856habqb50gda8jkk9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  nr51mum3572faaocptfkdupeapbigthv NS 

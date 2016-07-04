@@ -1,0 +1,5 @@
+vermonthealthconnect.gov.	86400	IN	NS	ns1.state.vt.us.
+vermonthealthconnect.gov.	86400	IN	NS	ns2.state.vt.us.
+vermonthealthconnect.gov.	3600	IN	DS	36529 8 1 3c9cec35573d64dd1a808907f3db97ae853449bf
+vermonthealthconnect.gov.	3600	IN	DS	36529 8 2 8734fcc96a05f68ea204ac0c808a3966cc44133caf2e2689b1a21a5e7a68c14b
+vermonthealthconnect.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. j1/qVKUKuzqhbytK+evyV93q+6vgy2GHphS+RI+QXuScMtYDTEa6dv2GDxurS5KoRTvN0SKaEgte2V/5HEFQ5aJWFkByXPcurEAkS0hclDIN7enQddR8/KzVDB8u44FZLmi75mHcKHd8hPVUDSp0s8Sdsl7hUGmEnRzsNbf5lMQ=

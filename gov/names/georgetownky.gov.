@@ -1,0 +1,5 @@
+3sk4faodrfh9qib6kpmvvi8rfodhaf32.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wLKpJoa7F2BklpLajfNOrj0Oa1/qtjYSNYHLtb2hDBxbIwbOAa8Oov+WS/of/Xds3u+6vUPRFmOcqHfCABSgyerrzNisTa1sHMpieJ/ssvtqXOzHXT9cl3jXv0JWUA6sHkO3752QG6tm7IpEB2PqyFa51IK9w6g18yYU5XiuW/E=
+3sk4faodrfh9qib6kpmvvi8rfodhaf32.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3t3pq6pm41iqhee9thrin95eagoa6ghf NS 
+georgetownky.gov.	86400	IN	NS	dns1.easydns.com.
+georgetownky.gov.	86400	IN	NS	dns2.easydns.net.
+georgetownky.gov.	86400	IN	NS	dns3.easydns.ca.

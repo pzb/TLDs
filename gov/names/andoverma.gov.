@@ -1,0 +1,6 @@
+9me27nu4shdcpmfsffcam2t34unnolmq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. xgBjyUJvrvBBJGmoZgwAnd2qMsdy6H0fJJjG88J0/II3b/Pjo8S/WhqWZwUetoijOX/TIMQ5KJ81QkyddgjUYHmMsL3DM/ZHIcweNCgpKWIZKPx2eozPgr9yiZz2poroKX3yFEzDHdwKtyXtReQBr8oEC7m2tRyPvfKf5Afq/So=
+9me27nu4shdcpmfsffcam2t34unnolmq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9mm1qo86lagcaciodbtcn6tt962lktrl NS 
+andoverma.gov.	86400	IN	NS	ns1.andoverma.us.
+andoverma.gov.	86400	IN	NS	ns2.andoverma.us.
+andoverma.gov.	86400	IN	NS	ns3.andoverma.us.
+andoverma.gov.	86400	IN	NS	ns4.andoverma.us.

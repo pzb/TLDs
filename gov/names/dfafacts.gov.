@@ -1,0 +1,11 @@
+dfafacts.gov.	86400	IN	NS	ns1.terrenap.net.
+dfafacts.gov.	86400	IN	NS	ns2.terrenap.net.
+dfafacts.gov.	86400	IN	NS	ns05.usaid.gov.
+dfafacts.gov.	86400	IN	NS	ns06.usaid.gov.
+dfafacts.gov.	3600	IN	DS	13339 8 1 85942188edee96dc79dfb7502cbaa2d9fc26c4eb
+dfafacts.gov.	3600	IN	DS	13339 8 2 d346023b42d42b85fd7ffbdd1fbf4944129a9050cc54d6ceda0939941fbd99ad
+dfafacts.gov.	3600	IN	DS	38539 8 1 b95f6d91de0e6f7c54e0bc50ff4a1946e2137872
+dfafacts.gov.	3600	IN	DS	38539 8 2 7e88ba8200d931635c1f776f2c7db4b4fe133c4b61cb391d629b606f94a11ce6
+dfafacts.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. MWBpgjPP65JaUCeKvcT7D4JYRWwT/wePK/6FCocLrJ9BSJwUprgQqph4nr1CIrbEjTzeZk0TgEM+vzzHmKpwAWW0HLMRs7vte7lF7NgLNUFPNbq260xBHkOMsNBKcyz+5otIbmfdbDZuCiZxgOwSoisl7+XfZ928XXs7m0NHpGk=
+ns05.usaid.gov.	86400	IN	A	12.14.13.231
+ns06.usaid.gov.	86400	IN	A	12.14.13.170

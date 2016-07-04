@@ -1,0 +1,6 @@
+24v7hdhdadumq482t210qo5ggrj2tho3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. l9/TDT1bGKHhz73Y25pzO8dGvXcZibdCfZagA4EiHBwS1dbd3C2uPVvIzCUKiziWnN80WBEm+hZkEeGX/GaK57ODnlrcAXVsxjNRYZk/pYcn6IIztRKN2Q4+FMoI4s4uEj1HmWtqsPYcxtkEbYv+vX/OSzzQieg+7LymRHMJeek=
+24v7hdhdadumq482t210qo5ggrj2tho3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  2521olrm0874faecrbuvo3q3jkubmke4 NS 
+glendale-wi.gov.	86400	IN	NS	ns1142.dns.dyn.com.
+glendale-wi.gov.	86400	IN	NS	ns2135.dns.dyn.com.
+glendale-wi.gov.	86400	IN	NS	ns3162.dns.dyn.com.
+glendale-wi.gov.	86400	IN	NS	ns4158.dns.dyn.com.

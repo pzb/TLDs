@@ -1,0 +1,9 @@
+edns1.dot.gov.	86400	IN	A	204.68.194.100
+edns2.dot.gov.	86400	IN	A	204.68.194.200
+edns3.dot.gov.	86400	IN	A	204.68.195.200
+ntdprogram.gov.	86400	IN	NS	edns1.dot.gov.
+ntdprogram.gov.	86400	IN	NS	edns2.dot.gov.
+ntdprogram.gov.	86400	IN	NS	edns3.dot.gov.
+ntdprogram.gov.	3600	IN	DS	31132 8 1 dd3890a135f5e13464a3c3fd900401249912467c
+ntdprogram.gov.	3600	IN	DS	31132 8 2 2fa34dca2bf1333cbe4f39eb40157277e4abb7481d31925e817204aeabad39aa
+ntdprogram.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. FTqGJk5uHMOfOckQm0jzssSUxG1/L96iZbom2T+vv0z2W5bO4EV3eOCfQjiNq0bAbTOe+KWtzAfBI0Uchb0xJr83CNuHRXkYB8/gc6dFHU16W9BEPBjrqSM3U5goV8nzqh110jXpeN1/Crg3Y+Voh8RyemKTRgDPswqV9srpFWU=

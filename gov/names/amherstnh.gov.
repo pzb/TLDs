@@ -1,0 +1,7 @@
+amherstnh.gov.	86400	IN	NS	ns1.p02.dynect.net.
+amherstnh.gov.	86400	IN	NS	ns2.p02.dynect.net.
+amherstnh.gov.	86400	IN	NS	ns3.p02.dynect.net.
+amherstnh.gov.	86400	IN	NS	ns4.p02.dynect.net.
+amherstnh.gov.	3600	IN	DS	63637 5 1 9108f0bda5678c769f21a9386b422f82a577de2d
+amherstnh.gov.	3600	IN	DS	63637 5 2 1369f0ca5916aece91be5a60d511c2347ceedb72ee1c5db4f2f44465d66b9748
+amherstnh.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ZEaJGH4qTwKKSj+qSRAGn8Pqin0cNs7U20xqH4w/nS5ZyyUmFKAWtJBR3lUCk4gnzACyNeRUcr1QgIgO+hPkwMbZkq0kziCV+Wuvp59Ziusl+Mh68EKRh5v2+71OpMv6eg8Pk3g67GQWl2B6FildxBddLcchROtC/ZTUkrH+DUc=

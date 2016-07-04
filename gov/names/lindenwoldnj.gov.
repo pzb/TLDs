@@ -1,0 +1,4 @@
+jupcsa612p9qsp55k4j49ofdg5sh53in.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. vqx0s9WNmA+xbxv/UhGswanU2UUSjLmUfDXMVzfzUq5S04FEP2cC9M98ypWUAxuPypOh30ewCuIP20t38S9ibBqBl9NE9RjqAcqKuSYPHTKsEb7H+WQ20J0wWvA3+9ifpiB0OYm4/ha+jzr9+quLPsaoGX4ZyyxnzbuLvk0seNs=
+jupcsa612p9qsp55k4j49ofdg5sh53in.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  juqd1qkjj06u4rg5k1gg7r0to4912kn1 NS 
+lindenwoldnj.gov.	86400	IN	NS	ns19a.nameservers.net.
+lindenwoldnj.gov.	86400	IN	NS	ns19b.nameservers.net.

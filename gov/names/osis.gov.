@@ -1,0 +1,6 @@
+g4ccomn3qa2d57paanrppkkfroiiejel.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. NeVwWNwHwCx7BLnfq49pI6+oYGil1N7eJA5fqNh9h7Z1vlBakCLe/M54zOanzsTJxLBg0PJHfIy1lZR5mV3Yuko21CWwSgdsMUidfOhIF8q8OfskPbdYxh/uNU2+FtP3iRFY5nhQZMjCSMcsmcIeHhtRv4orRaWXrLqDBLJOcXU=
+g4ccomn3qa2d57paanrppkkfroiiejel.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  g4hlvldql9rkgk3itv7t39gi51v9bvni NS 
+nsn.intelink.gov.	86400	IN	A	67.133.98.240
+nsn2.intelink.gov.	86400	IN	A	67.133.98.240
+osis.gov.	86400	IN	NS	nsn.intelink.gov.
+osis.gov.	86400	IN	NS	nsn2.intelink.gov.

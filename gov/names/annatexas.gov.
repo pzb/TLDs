@@ -1,0 +1,4 @@
+annatexas.gov.	86400	IN	NS	dns1.civicplus.com.
+annatexas.gov.	86400	IN	NS	dns2.civicplus.com.
+d3hv2nngoj7f2pa94la2g4eokpve259u.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. DMPEpHQd2nJE54L+p6j4knJ0L1lYWzdwMrXQwYYpLdEIKwUlUfFrTue6EoPeNsF21UcxM2S1nvm5Gdw3hd2vdaZ8jbBXE4zU37W9n9AKSH+kH1BXatBpC2B9Tml1dVdF+vJaXZiSIUbcmNbHfnlDnN+tog11jA4L09cNlKkzl6o=
+d3hv2nngoj7f2pa94la2g4eokpve259u.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  d3kn9rtdfq1ghut1n3n0cql93upillvl NS 

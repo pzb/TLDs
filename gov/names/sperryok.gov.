@@ -1,0 +1,4 @@
+js4kldakv96nlernv7g6am8qv6m851t6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. YHgt7y1Zn9PP8czCqNwSX9wtoBVIIwLdKKwShuxvTll351ZU6yXqieLBXpyZueNDKf8MyFpxd/CqxIE7i9zfmaIFVBsPXjzaAb2e5zInJNqwV7AUkhZS+NlMvKbBl9bpbW5c2kTgtKdov1/4vhDQzcPuSLbLcqUyPvtyyUMPcSE=
+js4kldakv96nlernv7g6am8qv6m851t6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jsid0a0topvfamooutrsuem9ffvbcq3o NS 
+sperryok.gov.	86400	IN	NS	faith.logixcom.net.
+sperryok.gov.	86400	IN	NS	meredith.logixcom.net.

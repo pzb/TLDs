@@ -1,0 +1,6 @@
+7t2iuoiv1mt71fvlphj6nn8j32oghjld.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. uT2AeYcSXMeBwi9L4cziFdSxZbvGwy2Y7ZUnPJlxgya4NPoNFY+ow8aWx+P02zom5jlxT+RRv6GPVftoHE0teybCxWffV23gAl1bz3D8IQRDj0aoStnykAHyX8zi7brZIQlARTK/ZB7Xq0iCGilWEXxwItkMZ7cr9ON6AYs9ps8=
+7t2iuoiv1mt71fvlphj6nn8j32oghjld.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7t3nu6iqoildu4eldcqdg0re16hvicfn NS 
+troymi.gov.	86400	IN	NS	ns1.troymi.gov.
+troymi.gov.	86400	IN	NS	ns2.troymi.gov.
+ns1.troymi.gov.	86400	IN	A	67.38.83.5
+ns2.troymi.gov.	86400	IN	A	96.94.136.33

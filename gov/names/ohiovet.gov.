@@ -1,0 +1,4 @@
+ohiovet.gov.	86400	IN	NS	ns1.state.oh.us.
+ohiovet.gov.	86400	IN	NS	ns2.state.oh.us.
+sfa0raqgoa0abnft99tsoa31126569cg.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. j2ryxcJ1/z2f/RRr5yRv2uLL62+iV9BWkl2sx7klj9qvD1YUACOZxn2RaamUem/G22/SBSuyPU7KDsD9O+vAGsgd2Kp0Msqkr+bAQpr0fwdaCXgGsxLvGyo7BjXQL6OPodkw2jAUVsl3C3qTP1ToaMgtEa1OCxZd5fhC/Fl57vw=
+sfa0raqgoa0abnft99tsoa31126569cg.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  sfb2hqmg0kj9angti8mve1q7ep3fnpth NS 

@@ -1,0 +1,4 @@
+56m415lr8vi16hh5m7rm7ff29se3r3u8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. QZQ5sB8Hv1MqmRp3j4Ex8YrU2myaawznEr75jcGHGvCfz++1zGDMxQoTnLCXUFicGTzPIymxRxIooCX3yknWXVn1ZRFvz76qAPPMcMyngUWZ76+rAuKQDhUTZyyJ5SOhlkuMj/begf7CQZZHnDtSmUHqHLoVJ8i/qU3tz0iZw8c=
+56m415lr8vi16hh5m7rm7ff29se3r3u8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  57174b3onhr9elch1gmlmnl13u9ehcdp NS 
+jeffersontownky.gov.	86400	IN	NS	dns1.civicplus.com.
+jeffersontownky.gov.	86400	IN	NS	dns2.civicplus.com.

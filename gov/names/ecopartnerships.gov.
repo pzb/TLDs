@@ -1,0 +1,7 @@
+ecopartnerships.gov.	86400	IN	NS	authns1.centurylink.net.
+ecopartnerships.gov.	86400	IN	NS	authns2.centurylink.net.
+ecopartnerships.gov.	86400	IN	NS	tpsns11.terrenap.net.
+ecopartnerships.gov.	86400	IN	NS	tpsns12.terrenap.net.
+ecopartnerships.gov.	3600	IN	DS	21834 7 1 8c1ed12992c7b28831db105d4511834468d4376d
+ecopartnerships.gov.	3600	IN	DS	21834 7 2 2532970fb0b28178a2e344898652567193b2422d149ff37645d0b35c18afe6ab
+ecopartnerships.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. RcpJxe7KlyJhf73mLdwYhGIQi8J+RssQU4PoVoFWRu37z/IJfXjmIkAyh4aenvj607YG6QyTfcIgQkQAd+iU+B/JmF9u5fh9tCtXaUZpslrhnsF6Epk6m1NfZ/4d0AnZT+QRlAgaiAQPHBJagQ26KtmBpzi/VFMfRd8nJcfwBEc=

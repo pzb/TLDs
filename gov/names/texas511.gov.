@@ -1,0 +1,4 @@
+34bs6p6ppunneu5h63ehnr3mnjgsp84v.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. faLP6vdVr5HZSqeJS4t41Uh7d9iftxISf0pZlNUY2SAipiVfZleiIIZPAYVrboT0+mJWf+Zb3kJJXbTFds89fsG4gVdABIsOsiY1VunsvylrHkeEk5PT1yZs5cUAXtY8m2nNVkbMowPoYtpiOPbUb8oDqwnvtGqitzg1uBbDhSk=
+34bs6p6ppunneu5h63ehnr3mnjgsp84v.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  34uogimi24106o5km4d946m3kho7btko NS 
+texas511.gov.	86400	IN	NS	ns.capnet.state.tx.us.
+texas511.gov.	86400	IN	NS	ns5.capnet.state.tx.us.

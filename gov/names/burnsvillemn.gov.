@@ -1,0 +1,4 @@
+burnsvillemn.gov.	86400	IN	NS	ns1.state.mn.us.
+burnsvillemn.gov.	86400	IN	NS	ns2.state.mn.us.
+sdl7jcjc9f2jhso7ukkgs5ntd1bf98v6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. rly7ClaV6q4VO9IzvyapArruCjpzAmzj5MydrvjsdrN4qlK0g62dmzgdXfFQAokdDVK1yQOZFbBMFU0z53MA/WUba4EaypfcNK3/CQ0uFPQXPuZrlfgM23Ucn2zcjQH0XGvmAmFhITV9cwEDj1VfVyfmVj0ORYHQ9DXF/y3TuI0=
+sdl7jcjc9f2jhso7ukkgs5ntd1bf98v6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  secnq4krbtoo0fqfs7ckskrlcm7ugd7e NS 

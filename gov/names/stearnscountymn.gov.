@@ -1,0 +1,5 @@
+2hkaskus9cj78ump7pc2afgbsgld63vp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. JfSVKyo0C5CzO+KLILfdj9893TMUHdMIRpOhWBnOQ9VjJA7Oi1SIQUtJivLBDem9aNtHOhp/ebpMF5JyvqptlOXQJjwNKKu91AAmBjme3QA3ce5wGh0eaWq3NDXoTGgw6KWe3PlyBYBt/pZhZAbped37+71HC+HpItUhJrG2BKA=
+2hkaskus9cj78ump7pc2afgbsgld63vp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  2hlhl3u4770ntkb4ep7h1v2v1l4jb29n NS 
+stearnscountymn.gov.	86400	IN	NS	ns1.state.mn.us.
+stearnscountymn.gov.	86400	IN	NS	ns2.state.mn.us.
+stearnscountymn.gov.	86400	IN	NS	ns3.state.mn.us.

@@ -1,0 +1,4 @@
+pb9v3nh3b898fdba5eb5bn7mbh5v3u1j.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. JSUAnZ8qWnUzv2kwLH9GTOagEiyNrrilqUFfLVYoV906W2uxxwDo/bduTKsrQ4bnjHjIAzlPmq7WTsMD4hE/Lq+0KG3UHLdWak+dRN6UNE5FZ6OibuZvYlecr+KMknRih/wsIjlGvGjULecRi7T6wk+++qouvb36Hu0JYkulQCE=
+pb9v3nh3b898fdba5eb5bn7mbh5v3u1j.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pbe4fh152t2ec4k0g7df2bmf06nvhvpm NS 
+somertonaz.gov.	86400	IN	NS	ns51.domaincontrol.com.
+somertonaz.gov.	86400	IN	NS	ns52.domaincontrol.com.

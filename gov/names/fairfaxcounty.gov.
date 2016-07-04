@@ -1,0 +1,10 @@
+fairfaxcounty.gov.	86400	IN	NS	ns1.fairfax.va.us.
+fairfaxcounty.gov.	86400	IN	NS	ns2.fairfax.va.us.
+fairfaxcounty.gov.	86400	IN	NS	ns11.fairfaxcounty.gov.
+fairfaxcounty.gov.	86400	IN	NS	ns21.fairfaxcounty.gov.
+fairfaxcounty.gov.	86400	IN	NS	ns31.fairfaxcounty.gov.
+ns11.fairfaxcounty.gov.	86400	IN	A	166.94.11.19
+ns21.fairfaxcounty.gov.	86400	IN	A	166.94.15.20
+ns31.fairfaxcounty.gov.	86400	IN	A	166.94.192.31
+ouiepn1c5f0cbdniulouncdg27gvei2t.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. nJoBEe1n0tRu39Yuy5nABwpShfaJPaJu73sUCayX+BVsmN+2+ZkXGDEH2RDsIiLD2aJIq+fesg7vVOQL6eUvjyyBgvouAJvfXDetkyxgFZldrZ4oHeSu9yMItnFSCAg8d3csmCItHQcThGlikJHAaRJ7y5opyIG6nIemT/yPi+4=
+ouiepn1c5f0cbdniulouncdg27gvei2t.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ouih020q6id46hd1lkbngvdbu2rtmmr6 NS 

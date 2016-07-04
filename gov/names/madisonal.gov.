@@ -1,0 +1,4 @@
+madisonal.gov.	86400	IN	NS	ns.inlinenet.net.
+madisonal.gov.	86400	IN	NS	ns1.inlinenet.net.
+neabgjga1f7ku72ecvtnku7h365kor1f.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. drw7m9S465hRcKpMoWYzlsLkN+VOFacNeyxYxhsOmgvg2rmB9R8MRmXbhpipk8KCMsWe9lDWoNrB2UrJexIcAInWwSo0yEb7X678Irzj8eQJb50l1t3r+jfCSf6Ix3R5G/pZ6THBFt61gj/FvGB3l4xLyYy6PlKNZdonFU/OgdA=
+neabgjga1f7ku72ecvtnku7h365kor1f.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  negl91cvqqq469afnr7hdt32eft3oegt NS 

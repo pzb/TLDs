@@ -1,0 +1,4 @@
+1hk9vape8u22hu8vkeujgdtnu6lfg8ok.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. W3HG/RUGR5GU2ul279aDkg/SuLg5Wtsh82VlWFU6R3lDYTOx8I6bsdzrUKTlYHdXHbK8lFvTphZafr3N1g/x+trXSKbwp+n6rQBeZ6jAS2T0FxW1N9xzXgiapVhEz3hYYtr9pIdm7feWSL73yh7jy3qED8Y/hJH45PC0Wu9f1PI=
+1hk9vape8u22hu8vkeujgdtnu6lfg8ok.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1hli6j83rqm86v816rue9g0v7po2o29n NS 
+cambriacountypa.gov.	86400	IN	NS	ns1.co.cambria.pa.us.
+cambriacountypa.gov.	86400	IN	NS	ns2.co.cambria.pa.us.

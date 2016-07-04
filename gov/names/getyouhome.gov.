@@ -1,0 +1,5 @@
+getyouhome.gov.	86400	IN	NS	sauthns1.qwest.net.
+getyouhome.gov.	86400	IN	NS	sauthns2.qwest.net.
+getyouhome.gov.	3600	IN	DS	23601 7 1 bdfd4cc3697b282e6ebbc67019b477f55141c051
+getyouhome.gov.	3600	IN	DS	23601 7 2 5df85d872fc3f3f8ed8e6245e558086a0ec44212ec2c5f03db1a7bee7870eccc
+getyouhome.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ha9ba+kXmYH+jU2J3xH9XxXRn1tqTkWUe/P5RZ3ErPRo13pS5n0GzzJtzJSD001w64LEeAoYVFeBe4Ao94LswQx0oDQpFeQTVJPQWsBpW9ceoq2HMV1EGZ81oF24LU9jcCitCHuJqd7HRwIbWmM7HT0lawrVcfu6F14Hv3nk12Q=

@@ -1,0 +1,4 @@
+31btn4ctobk8rqaq2mq3nvaa5al15clb.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. BRIEVS4wY8+Y17oS4mggFnDpRN/zT3VKFUR2Ljubb0pjbyCs1szU4wcHYCmBLcGkfo1/hw7UCRJ9TFCd7TnMj7tWehtXbP2xsovo/gLwRwEyddFenEzC4TLCiAeL+elPGA3nv5/XFWtznvUQ3zs5XwE2sECyT3/nbk7fSNIlftg=
+31btn4ctobk8rqaq2mq3nvaa5al15clb.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  31db5lvu2bs1hv2v0enkg6hv83hm9k7h NS 
+fromberg-mt.gov.	86400	IN	NS	ns7.worldnic.com.
+fromberg-mt.gov.	86400	IN	NS	ns8.worldnic.com.

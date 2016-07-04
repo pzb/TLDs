@@ -1,0 +1,5 @@
+0a7jkhlvnpchjt3ldc22stm3jbr7tl36.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Z+v6kAG5R/RWuROpZJ3ecw8zRafBQxrhcbjgGUquiwGILUJ/LUeRymlF9Kj5ZMhP9tzvAC5du/dIi6BI2H6k+YkVPMK0fnl54zEtHbCElkll9qFmPrGiCz+xKLZ93uS0BQeuNpFQ1/SSS1sJkY7UNi9hO7Ksjyn+Zne9jUvxtSs=
+0a7jkhlvnpchjt3ldc22stm3jbr7tl36.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0aosjvrv2dtjddqu1hanfgj550hk1g09 NS 
+dallascountyiowa.gov.	86400	IN	NS	ns1.lightedge.com.
+dallascountyiowa.gov.	86400	IN	NS	ns2.lightedge.com.
+dallascountyiowa.gov.	86400	IN	NS	ns3.lightedge.com.

@@ -1,0 +1,4 @@
+gardnerkansas.gov.	86400	IN	NS	ns12.zoneedit.com.
+gardnerkansas.gov.	86400	IN	NS	ns14.zoneedit.com.
+peoepqlv6mh9jkdrmdanr16v27r6q43f.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. B6xWgv30bppDiYebvjBh6Q9eEqRBPPXk7tk0etCfL8IxWc1+x17Xv5A4ZNeYOvmgPvYdpH2Ie25p3QfH/lh/XPL0y35bL7ytRZ+O23fOvy2phPMt/I7aHqlwTujWofuNQln5MU1Eu+L09+Lvjvn5v/S08noa4GqdOAsTUicC8Sw=
+peoepqlv6mh9jkdrmdanr16v27r6q43f.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  peqb2fomm0pg07g61fvc8lq96ucl6e10 NS 

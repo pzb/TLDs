@@ -1,0 +1,4 @@
+fp3j1k5griem5i7rei3efjhfkg4pnqnn.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. QAh4zII26MPFED0AZDo+6B3WUaQAwlUObcIApWPTjFiZztYTZ5oZDm3Dc94m3APpHnYS4ZT3oQhNMOpJFU+WUQullV4Eakkpl8OWUllILTd9RHMKZrHo+H88a2S6p//oTuWHi4YsEewMhCbvXWe50HtlnUsdHnd7M9tpdNSwQq4=
+fp3j1k5griem5i7rei3efjhfkg4pnqnn.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fp4r0ucfdsd0ce1lvrg557mucv1ggada NS 
+longviewtexas.gov.	86400	IN	NS	max.ns.cloudflare.com.
+longviewtexas.gov.	86400	IN	NS	cortney.ns.cloudflare.com.

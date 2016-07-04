@@ -1,0 +1,4 @@
+irvingtonny.gov.	86400	IN	NS	dns1.civicplus.com.
+irvingtonny.gov.	86400	IN	NS	dns2.civicplus.com.
+pbh6eb4cjgg2vq2jvb59kpp5t2rpkh14.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ew55VP3AAIgUXgioclyeGSFxEjLjzrYFK0goLbs+jt1TolrUxgvOgr008pyGfsEtuDOBoxb9vhGNK+TP5JVhL6cYNH1YiMBDkzGmNQDCpWxbm87kGHUUbX3ArRei7Kl200/OggCFfA24+lc7G14gepDCysfTDZYY98ZXFviJlB8=
+pbh6eb4cjgg2vq2jvb59kpp5t2rpkh14.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pbl0g29e9qvctsl4o6miiqiue3e8gqu8 NS 

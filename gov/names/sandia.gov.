@@ -1,0 +1,17 @@
+sandia.gov.	86400	IN	NS	ns1.ca.sandia.gov.
+sandia.gov.	86400	IN	NS	ns2.ca.sandia.gov.
+sandia.gov.	86400	IN	NS	ns8.sandia.gov.
+sandia.gov.	86400	IN	NS	ns9.sandia.gov.
+sandia.gov.	3600	IN	DS	20739 7 1 3ca461ff5496bc72a772056489d944621eda774e
+sandia.gov.	3600	IN	DS	20739 7 2 0c5f4cdff8824665acd1d8a132951b193c59fa7fe6cf7b1f82484c25b410cdc6
+sandia.gov.	3600	IN	DS	36033 7 1 e33b4526cecf2a1b7c733d645b30cd5c912d9538
+sandia.gov.	3600	IN	DS	36033 7 2 4677626abe69fd1d8dd8e5de10533d2b264a91a7bf1ab3a6bffc4c408a3752ff
+sandia.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. qa/YS1BHfzbeoBdW4bz+eBPdevqn6o3+NkKco4MYn2v/yfKdT0+6b8pY60YwtXck3TuqirufVGp6in8F3QtGBPoCMtCwGr/MsqoLv/hSKPo+8+QucLCf39e3Ys1Jxr/keQDjB/xfYSHxGa9uouKPjoWj3FiWpaxyoYF4ULggzNw=
+ns1.ca.sandia.gov.	86400	IN	A	198.206.219.65
+ns1.ca.sandia.gov.	86400	IN	AAAA	2620:106:6000:40::65
+ns2.ca.sandia.gov.	86400	IN	A	198.206.219.66
+ns2.ca.sandia.gov.	86400	IN	AAAA	2620:106:6000:40::66
+ns8.sandia.gov.	86400	IN	A	132.175.7.209
+ns8.sandia.gov.	86400	IN	AAAA	2620:106:6008:7:f0::209
+ns9.sandia.gov.	86400	IN	A	132.175.7.210
+ns9.sandia.gov.	86400	IN	AAAA	2620:106:6008:7:f0::210

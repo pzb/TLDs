@@ -1,0 +1,8 @@
+hshk57ncickj95aujuk8m4s34ts99vrh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. do4oLxuj03mC1DtzfMf7+THfZu5gT40+oqXn06WE1IPEZBFEawjaYSsXSVH5xJqOgD1t8LKGlXfF+YuBgcC5T/+5sg6yRCwk0JT2hw9KzkKSWCve+rlWu1xlLL3+aLNqhaIX3aQcHeMxL1JwyLWgrLh+1cL4dnQiKu+YyTezskM=
+hshk57ncickj95aujuk8m4s34ts99vrh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  hsjh5ht60oj92hj6bm8hr3ui3i9u5hsn NS 
+ns1.ny.gov.	86400	IN	A	161.11.226.170
+ns2.ny.gov.	86400	IN	A	161.11.228.11
+nyopenforbusiness.gov.	86400	IN	NS	ns1.ny.gov.
+nyopenforbusiness.gov.	86400	IN	NS	ns2.ny.gov.
+nyopenforbusiness.gov.	86400	IN	NS	cbru.br.ns.els-gms.att.net.
+nyopenforbusiness.gov.	86400	IN	NS	cmtu.mt.ns.els-gms.att.net.

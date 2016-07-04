@@ -1,0 +1,7 @@
+commission.gov.	86400	IN	NS	ns21.loc.gov.
+commission.gov.	86400	IN	NS	ns23.loc.gov.
+commission.gov.	3600	IN	DS	51334 8 1 b9d306a44f879350b7a86d1fb77bb26cab03b006
+commission.gov.	3600	IN	DS	51334 8 2 21d0c64beb75afff5c8cd9952b136c24c6ce95f7e1030273545b904f928176e3
+commission.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. cGcB7Qj/ohClww2tmIRGp4xydmHotHdcFuqgnNbQ2wj2M5KTNOItVsqWgbLWvnXzP9BCNFswdajytX/PtETJ8pyCn1cgf4+gHjLviT+nS/kJRWOkI7xX597ntZKnIKJ0Fe2jDYLWOD3afwgDdAqSdw9tFOwgdoF9ul10ZRmgb40=
+ns21.loc.gov.	86400	IN	A	140.147.32.166
+ns23.loc.gov.	86400	IN	A	140.147.239.150

@@ -1,0 +1,4 @@
+6tfut2np9qv5bucu4qm1vlosbbqk9otr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. XKO9K17lNCl9RyNP2tqOeE/0K8aoqRCsnfADjxTmFNa8etcQXjB9glccaLdoqfQJRkL+UdsddNFd2H/zGjh+pKV3GcumU21yTsjHTPkXibVW2pEgQL1AdbynGBW5ZnkZZ9SiUiPoL1RzfDH21ZTZrJGYc9kyFLAdY0S4VISshq0=
+6tfut2np9qv5bucu4qm1vlosbbqk9otr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6tkbrpqgbnv3k3l08sqevtgcf83a48tj NS 
+oregonvotes.gov.	86400	IN	NS	lion.state.or.us.
+oregonvotes.gov.	86400	IN	NS	puma.state.or.us.

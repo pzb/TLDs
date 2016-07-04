@@ -1,0 +1,4 @@
+12ej19n7rf21p6jscqmlf2c2rpa9rl7h.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. rrkltfANO5SXJi2dCr8Xbdo+mobTKABJ7iYpH+DyEy87/9aAetDDLg29iWGfX6YtDoWYKZ9BU04MccYes6fohUDcIjbIlkOj6/J6mZwcvOglbQKCZuFCnF93B369Ha2/xvCMZi/waZI+r0Qc5HZXnywAL8oWeQD21w304Lb+sk8=
+12ej19n7rf21p6jscqmlf2c2rpa9rl7h.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  12ia64qpbpce322fg3bhb89hq2km797n NS 
+santamonicaca.gov.	86400	IN	NS	dns1.smgov.net.
+santamonicaca.gov.	86400	IN	NS	dns2.smgov.net.

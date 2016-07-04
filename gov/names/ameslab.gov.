@@ -1,0 +1,9 @@
+9lu6cieul9eoubplcrhidmc292ag9tgg.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. D/ocKQOjR5CW9mTLNTrxmHWvZduissCfUcb95UXjHCl8vV9rroQycO76ZidQrouvwDg4mjtGOk8s5jCLu5dfRDAWiZ4tLaaErHKzFWZhQ6tySfg5jm/ObpIu7g1d5m4KcVghPcKt1QGm2seKUxvSCunzWIilFDOb15qj+QX5okk=
+9lu6cieul9eoubplcrhidmc292ag9tgg.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9m63iv72sicm52o5b41n2e9pansfqqif NS 
+ameslab.gov.	86400	IN	NS	adns1.es.net.
+ameslab.gov.	86400	IN	NS	adns2.es.net.
+ameslab.gov.	86400	IN	NS	dns-2.iastate.edu.
+ameslab.gov.	86400	IN	NS	fiber.ameslab.gov.
+ameslab.gov.	86400	IN	NS	scsds.ameslab.gov.
+fiber.ameslab.gov.	86400	IN	A	147.155.1.77
+scsds.ameslab.gov.	86400	IN	A	147.155.1.1

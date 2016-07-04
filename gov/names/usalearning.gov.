@@ -1,0 +1,8 @@
+usalearning.gov.	86400	IN	NS	a1-12.akam.net.
+usalearning.gov.	86400	IN	NS	a5-67.akam.net.
+usalearning.gov.	86400	IN	NS	a11-67.akam.net.
+usalearning.gov.	86400	IN	NS	a14-64.akam.net.
+usalearning.gov.	86400	IN	NS	a18-65.akam.net.
+usalearning.gov.	86400	IN	NS	a20-66.akam.net.
+usalearning.gov.	3600	IN	DS	31759 8 1 7700b0f6caeb1dc2e7860301a2ff843824ea76bb
+usalearning.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. cm3FyozTmo9IHbpvEDqpyekvbB4M4EaLLbKPf+nl9LvaB3mV8pB7pJnj8lfOa6ikdgmIIyDAoNUQGqG8rUgOXNOyHsjcEGXtR0yw7Ddo24FxHY4TjgpfwnE4CyZ65OPvPQabZw85hdhBk6hBjdbHoqENhOVwnJGZ0+/3/JxEugI=

@@ -1,0 +1,7 @@
+disasterhousing.gov.	86400	IN	NS	hudgate.hud.gov.
+disasterhousing.gov.	86400	IN	NS	hudgater.hud.gov.
+disasterhousing.gov.	3600	IN	DS	11001 7 1 6c632313704b0f9283de5466dc3e4c6386356e0f
+disasterhousing.gov.	3600	IN	DS	11001 7 2 307e63197b098f2faad8743030f733eb3d23961d85ceddb5722f77fbc426cbfc
+disasterhousing.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. WAg/GR4G9BUowT6G/YqqzxrYO3DQw6+CMqK7bnurxePnmDx8rOG041cDHTtpFN8mDjOZfsZZqZfSqIgRb4BO/q9gulPs/BB0++96ikKICG1/pKc57qDnVDrjQciS+UIvDp6aB2KmznMyuqaSv+94tjZCYT5wO4H6J1f4hh/BKLY=
+hudgate.hud.gov.	86400	IN	A	170.97.67.16
+hudgater.hud.gov.	86400	IN	A	170.97.167.16

@@ -1,0 +1,5 @@
+haadfqk29u8ngu6jkvr57f6kmtkbmnkb.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. qVOB1Ti27IEqLvQn81iykHOyQRbkWCvTBUOsgYEB2V3p4sb2tzvzxMTrN7eR6mPCPvW8qVmKBHdAyVS+qDY1p0w3mQY62XnH+qSFj6qbHsSPE4VfFpSMC96fmEuKMfPSP1Z0VyMofa24zXmzsgwRGYHIOpeZH25Zio8z5bfBEIs=
+haadfqk29u8ngu6jkvr57f6kmtkbmnkb.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  hamtk41t86t61ee2aud4h0kdsej8h0cj NS 
+uplandca.gov.	86400	IN	NS	ns-251.awsdns-31.com.
+uplandca.gov.	86400	IN	NS	ns-799.awsdns-35.net.
+uplandca.gov.	86400	IN	NS	ns-1494.awsdns-58.org.

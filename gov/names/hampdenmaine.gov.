@@ -1,0 +1,4 @@
+8jslcer4i2dgsotnv2d0sa7f6reu2fgn.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. nxCUoPLAaJ4SjCvPAugJ0pMjqZAJF+gZYEnZX7uHaG15Ku2wnxCkMcq7q6CWMk1ehlK/Z+PY+r369+/kiEs9E5uY17mgi9juisYBeqCIUFX99k8ZmB47pJiakMfUwwuxMy6zflmo6t9U9ut9mmUiTQy+EyiaHUvR5KDVVPSSPq8=
+8jslcer4i2dgsotnv2d0sa7f6reu2fgn.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8k24vk2dd6shrhl4g9jr6nnq5tfqsfs1 NS 
+hampdenmaine.gov.	86400	IN	NS	ns2.zoneedit.com.
+hampdenmaine.gov.	86400	IN	NS	ns4.zoneedit.com.

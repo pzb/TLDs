@@ -1,0 +1,4 @@
+lorenatx.gov.	86400	IN	NS	mns01.domaincontrol.com.
+lorenatx.gov.	86400	IN	NS	mns02.domaincontrol.com.
+s2hqc8tjf9s2hu3kk5dmq1dub2gnbt50.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. WYevARl0xMBoKYDjFy2Pi1Pqy5KlkUqgove9lGwBelaAgK/6En8Xc6vh56MihrepcLHyqxP+Cgb2xohcfS09Ico2olcAA2YsF+vO7qqaWe22DIvouuDJlzw3dlPuvJtjScyXy+Sn3qLkwSznZi7HfBMAuTpHNigiKAr9hI+PpVo=
+s2hqc8tjf9s2hu3kk5dmq1dub2gnbt50.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  s33n9jkib4pauknik615ph1e2ggvarsf NS 

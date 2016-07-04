@@ -1,0 +1,9 @@
+firescience.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+firescience.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+firescience.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+firescience.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+firescience.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+firescience.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+firescience.gov.	3600	IN	DS	63400 7 1 00325fb499ffcf19e167c65386d3ff07bce4b80e
+firescience.gov.	3600	IN	DS	63400 7 2 1c8598ce343cd0efb07d48061806ba85ecfb20066fb70c3924bc396ba74e9621
+firescience.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. AW+8vyKSf6I/425zXLE/F0zSVAv1B4Lc1eG8dL2zS1RQINewyglZOI2R6goMK9+f0rMYgyJzuURpMIoUmZTRBad+y14U7dJojmxe6fyTFllQxFLgrt77Jg7rey5emI+9IjS2IYZAUPI6QAZ1l+dEOOzGk/xsn70WL5NGCOQsE/0=

@@ -1,0 +1,6 @@
+hee1.icsd.hawaii.gov.	86400	IN	A	132.160.216.4
+hee2.icsd.hawaii.gov.	86400	IN	A	132.160.216.22
+kauai.gov.	86400	IN	NS	hee1.icsd.hawaii.gov.
+kauai.gov.	86400	IN	NS	hee2.icsd.hawaii.gov.
+o40htd9u07tsm1d591fqsumc2c5h5o0v.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wYAGEffSMTIWI87JAhDwV8N/1Nre4ONE178DI6aRYaj7sy2XiPEfXhc6MUlt94v3UjV3kdD6HKrJr8siTR7/ZrLYizuQQyMysqwXe5RTFmL9PTwsNdG83adk+EImuHVQE9RYmW+905T0jQzt3lZkV4qVfFSHRbb5Bh3CWXor0B0=
+o40htd9u07tsm1d591fqsumc2c5h5o0v.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  o4b25ctit8v5quma24po3cvk14moa6ce NS 

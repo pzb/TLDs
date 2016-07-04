@@ -1,0 +1,4 @@
+h3gqd58vli5femt4sp8hui54isii3c5r.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. RsEXjHNLtxlgzRZkGsupnz19/I7rXvSdZB2OZo+0ZS1rW2D6U/GUsakPQ/4eR9ItOUfVP0UXcapAZkPFtJ8LLvFMxSvKqJMJshv/lpmfN5ba5F1jZYWkMVcUinpVhL85OTJJeH2DDvGIM5/1Fv+B6jpUt+89f6Rd+UV5up41SwE=
+h3gqd58vli5femt4sp8hui54isii3c5r.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  h3lbfebsg3c57b38lcmhr0pkq1hr1kkf NS 
+townofriverheadny.gov.	86400	IN	NS	ns1.peer1.net.
+townofriverheadny.gov.	86400	IN	NS	ns2.peer1.net.

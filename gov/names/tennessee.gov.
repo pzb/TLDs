@@ -1,0 +1,6 @@
+lste4hsmkcuemcd548kmo903g9p9evs1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. oBS5mQedCZhUYmOBA20y0MtIVXuY7ZwsJB7om4uu8DOPFmyr607imieMjVTtCuK2uSOMfvBoMQApVeEwpePGtZjIfaQv53XjyGZCXUNJ1uy8tfqm9CuIxdn77eQg2LmSJ1KyL03eGo+6bXzRceZw/NGWs41fruDP0xnNTGumHQk=
+lste4hsmkcuemcd548kmo903g9p9evs1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  lt7qgsv4h47tp0fl8uul7koajlvsjdcu NS 
+tennessee.gov.	86400	IN	NS	dns4.tn.gov.
+tennessee.gov.	86400	IN	NS	dns5.tn.gov.
+dns4.tn.gov.	86400	IN	A	170.142.92.58
+dns5.tn.gov.	86400	IN	A	170.141.168.22

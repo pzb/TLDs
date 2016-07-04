@@ -1,0 +1,11 @@
+yang.epa.gov.	86400	IN	A	134.67.12.8
+yang.epa.gov.	86400	IN	AAAA	2620:117:506f:c::f008
+ying.epa.gov.	86400	IN	A	134.67.12.7
+ying.epa.gov.	86400	IN	AAAA	2620:117:506f:c::f007
+urbanwaters.gov.	86400	IN	NS	yang.epa.gov.
+urbanwaters.gov.	86400	IN	NS	ying.epa.gov.
+urbanwaters.gov.	3600	IN	DS	14595 7 1 0fc0b262850d9d134712ebbcda033a471ee6a98a
+urbanwaters.gov.	3600	IN	DS	14595 7 2 62d43a46d1cd0c007929b8a59f858159ed1befb3bfd51c1948f3b73a9548c135
+urbanwaters.gov.	3600	IN	DS	36660 7 1 8b10112e59cb2807f06ceb08b39245999e761c47
+urbanwaters.gov.	3600	IN	DS	36660 7 2 325c3727cb2c94489a71134d2a00bceab3ff9464aff44c670f8815dd2bce6365
+urbanwaters.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. fqnNzc08bhERx+rAMltYRJjjDaQEvr+CnnH5c+Cr2XJhZh22DFTQbZlmCO++hhbAQ1ZrVmzRR6RB3Z92urdDGTjydiw4bE5pKg6RsB0yGzhcuQSReA5AbmdWY92gQWNDKjFDiZRolLNZFwTF91BSwaVJUOrWjsZBXmFIa3eiOiE=

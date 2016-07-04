@@ -1,0 +1,7 @@
+erie.gov.	86400	IN	NS	ns1.co.erie.ny.us.
+erie.gov.	86400	IN	NS	ns1.erie.gov.
+erie.gov.	86400	IN	NS	ns2.erie.gov.
+ns1.erie.gov.	86400	IN	A	144.71.169.18
+ns2.erie.gov.	86400	IN	A	144.71.169.19
+tf669s8sbmlatpamuseq2iddo43ofogh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. jYqEXKYmWvhNZ/V3sAi6RDS1p1kIJaInrRyXSXluYFMgqyOwo7VPz9PF/DhFZiesXm1cEOHveT4mpsI1nbV7n7Aejg/bokvhZ7+dU5fuC4a8OsNaCkXX6ympHMF+7Z1o9kKr7bM4cJ56z7MmOlDXO6y4wjs9OVd32bOxxUZZAuM=
+tf669s8sbmlatpamuseq2iddo43ofogh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  tfvpuqvq3ivt98ds4fhpkcl7seci601k NS 

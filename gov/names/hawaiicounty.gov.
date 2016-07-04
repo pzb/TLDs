@@ -1,0 +1,4 @@
+0r5q11447qeevq5m3rak9ajkeb5oprm8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. om4tMgZTyEUoYvt9E05H/BRquECnfapqrxLbVCDci0LK7VzQ5sZqY6EgOEQmmP8lHFzC/CpiGybFuaHgixQtVcfDfDe6dfHjcnEVUj0loaoxtKS3zuncXg5MpsOhxi9kfa90H7Ay64hZgRMj56uNxNkESyVB262AuFfBdBNGi9A=
+0r5q11447qeevq5m3rak9ajkeb5oprm8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0r95vdoqvbhfm01ln5qftllqhln2ccqc NS 
+hawaiicounty.gov.	86400	IN	NS	ns.pacificprotech.com.
+hawaiicounty.gov.	86400	IN	NS	ns1.pacificprotech.com.

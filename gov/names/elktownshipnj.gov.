@@ -1,0 +1,4 @@
+elktownshipnj.gov.	86400	IN	NS	ns5.aitdns.com.
+elktownshipnj.gov.	86400	IN	NS	ns6.aitdns.com.
+p7iipa512ig91g876sgvg8pv4kmehbbq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. WbF4uF0Ff9Bw5J4PbhmrwAQ+FwAaybrdqslLwKFWlayp9Q1OicwwshZDEUbtNea/UTMeNWrFsgqs4KavJiUQDtpYldu9dVCF6zn8cVQbjsMU+Zkr0LhZe21TpJwu6qbzGyAXdYMyzi0c8gWhW04BkNikV/fn3/J87E7S5b4qFXA=
+p7iipa512ig91g876sgvg8pv4kmehbbq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  p7oec5esd7lr09ac3nntq4ecoqkchcij NS 

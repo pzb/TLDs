@@ -1,0 +1,7 @@
+48v0ggnpfq33dom9n96qsn1cka02i9td.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hX1rQNaYjuatM1Pq56rCSxCHJxD8sefWLETJgtfrm+yq1nswH1RwBfC7+ap1mXkaAQA3jvljNulG57k9HwE4S52fnh85Y7fmKVTe+V3uJFanlbL29HYHieHVdmDn5PFf+/cRAwrKIdgFKs1XJYsyuo8XBCYbDnhm+NTbMmFcNT8=
+48v0ggnpfq33dom9n96qsn1cka02i9td.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  491iq21b6nt7groccmufpk1od63eb3f2 NS 
+maryville-tn.gov.	86400	IN	NS	ns5.dnsmadeeasy.com.
+maryville-tn.gov.	86400	IN	NS	ns6.dnsmadeeasy.com.
+maryville-tn.gov.	86400	IN	NS	ns7.dnsmadeeasy.com.
+maryville-tn.gov.	86400	IN	NS	mubdc1.ci.maryville.tn.us.
+maryville-tn.gov.	86400	IN	NS	mubdc2.ci.maryville.tn.us.

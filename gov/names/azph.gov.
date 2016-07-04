@@ -1,0 +1,6 @@
+azph.gov.	86400	IN	NS	ns-105.awsdns-13.com.
+azph.gov.	86400	IN	NS	ns-1018.awsdns-63.net.
+azph.gov.	86400	IN	NS	ns-1400.awsdns-47.org.
+azph.gov.	86400	IN	NS	ns-1756.awsdns-27.co.uk.
+fviu14p62k6jcpah1l7d9d80ic5rg3mt.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. bJtItWwzRumX87oNzC+we1CDwDDkwLDWgRC6vA90FRewY23KNaH5ox03kxFkkGhOBmahL7SFR3u2BglQ/gv8YOorYe8d8xXP9gqoHQgOwSt5vphcXCPdJSFDO7g1eCg92SGlpyEu2/hTbtg5UJ5WAvTHLBSuzeEA/7G9Mwvpm+U=
+fviu14p62k6jcpah1l7d9d80ic5rg3mt.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fvrsr5j8ma2qpj9td6tfnf9h7v1dfjvf NS 

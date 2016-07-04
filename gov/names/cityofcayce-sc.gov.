@@ -1,0 +1,6 @@
+cityofcayce-sc.gov.	86400	IN	NS	ns2.intermedia.net.
+cityofcayce-sc.gov.	86400	IN	NS	ns3.intermedia.net.
+cityofcayce-sc.gov.	86400	IN	NS	ns4.intermedia.net.
+cityofcayce-sc.gov.	86400	IN	NS	ns5.intermedia.net.
+iv8t0ttab52055l5tak9rif3burv4dvb.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. lBnXKSKTm73EQsQC52x8lOmCCdsRGVKpLgQJKd5VFcsUHtZBwiOAsfBdKRPAIDsnuMNP/CWFp39j6hp1uBEkkabtmEXWA3j6VjBzvOigoXjEISXQCkQncux8LWOZ7AN23/6QhZxp9Wa8uquH3D6MtCrKoL7aRI8DH6CqHO+Cyv8=
+iv8t0ttab52055l5tak9rif3burv4dvb.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ivavmvj64ad0odlfnna51dh5b0vk0g5o NS 

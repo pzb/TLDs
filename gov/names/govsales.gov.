@@ -1,0 +1,15 @@
+govsales.gov.	86400	IN	NS	dns.gsa.gov.
+govsales.gov.	86400	IN	NS	dns2.gsa.gov.
+govsales.gov.	86400	IN	NS	dns3.gsa.gov.
+govsales.gov.	86400	IN	NS	dns4.gsa.gov.
+govsales.gov.	86400	IN	NS	dns5.gsa.gov.
+govsales.gov.	3600	IN	DS	16840 8 1 8692dcb25d48d358e8da5b9ccef8d6942f4af295
+govsales.gov.	3600	IN	DS	16840 8 2 925f63af74f1cad468cb3488990cc7469463c21ceee8736eeea49281b8f70406
+govsales.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. o9zxEtLCMBltDFI0WYu1ETIBQl654ASxcbs4XQb6wNmpYkERfxurmXkaGxG02V14QaseFW0QDiQjEfi/H5bo+1MqJ6flFM+7V+hcF5kiDXCc2QVqwXWLlre2Q/UThTw9RVee1o7kBCTXbt84+w9SG8KhIuQeozGkiKu/68oX0zk=
+dns.gsa.gov.	86400	IN	A	159.142.136.198
+dns.gsa.gov.	86400	IN	AAAA	2620:0:150:280f::5
+dns2.gsa.gov.	86400	IN	A	159.142.150.68
+dns3.gsa.gov.	86400	IN	A	52.203.230.235
+dns4.gsa.gov.	86400	IN	A	159.142.69.84
+dns4.gsa.gov.	86400	IN	AAAA	2620:0:150:4013::5
+dns5.gsa.gov.	86400	IN	A	159.142.45.20

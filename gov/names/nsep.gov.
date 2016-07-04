@@ -1,0 +1,4 @@
+20t2338vlig1ut345bprqh4pglq31rtk.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. cCpYdTccREDzXauYRJJqTnlWsic1g5nGu56JNasmNyqc6L8UCzdRJD9A74f4HWrTgGza03h2scvBIGVz5zBjCgyCXDlk3W7uVrow/00Wyc/0WAdu7tufMU/tXIYnUalA7tDceD0VCYas2LkBGUZ3EnBG90ZNeQUcUGSufkYQgAI=
+20t2338vlig1ut345bprqh4pglq31rtk.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  212rkfg56k2s2qjc3vd185hg1lm2a9s1 NS 
+nsep.gov.	86400	IN	NS	mns01.domaincontrol.com.
+nsep.gov.	86400	IN	NS	mns02.domaincontrol.com.

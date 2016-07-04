@@ -1,0 +1,4 @@
+5aot2tu23vpvhsm9vg028mpqlbne2pmq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. HMLqclETqGQeb1dqYVf+WV3zMSo+mWA6RZHUBEdwDm7A5SlGeCq9dRRqAw/likMZ9yoykTccSYLjbwnk/o388KQ2nQyuyeiM+MGPMOpceVJwr0+XAygzS+WdcUBv2iVXJjXHVbAg1Zt7Ko4iOGzvLtfKBXXMMCVkpk3zYRY1TG0=
+5aot2tu23vpvhsm9vg028mpqlbne2pmq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5apbt3isfg58mg3aanetv1naifckid6i NS 
+berthold-nd.gov.	86400	IN	NS	ns.inmotionhosting.com.
+berthold-nd.gov.	86400	IN	NS	ns2.inmotionhosting.com.

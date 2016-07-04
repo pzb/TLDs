@@ -1,0 +1,5 @@
+8ml97nhdm4678epem197og3g6ou2n4nc.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wIC6KiriabrPIvrgtAbAur+OQuFTVtk+8pyB3bkJgLWEDiakiDQiT2RK62G8Y/lNXjcpnnGu8lZi+/ixWXYgqSO+BBRghnsbCilXTOm4k+g405aMJv2Uazgru72+Dm6cP7GO8anAfkIH0IsnU7psIfpCchXNATVlIfB6MAaZe4k=
+8ml97nhdm4678epem197og3g6ou2n4nc.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8mlffchrd1mjd1rsod8s3amkklqtc1uv NS 
+mncourts.gov.	86400	IN	NS	ns1.state.mn.us.
+mncourts.gov.	86400	IN	NS	ns2.state.mn.us.
+mncourts.gov.	86400	IN	NS	ns3.state.mn.us.

@@ -1,0 +1,4 @@
+icohptf5en86svv1does6knbr7g49jhs.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. kZ9xZdpujoigiVvszNEQ2ueF2dXVmilIAv3XMV143HdY1iMGIxi+UJnpo0gq+9C5YCT0vCcuCuVOfX6996oOAxAzdLTs8zJifTp6nv7oIBdBLienXvjeiWRh2iRasfU9memEamhxCJB4wac6tICDnl2EC4Um5j4vYg3tTKAG1qk=
+icohptf5en86svv1does6knbr7g49jhs.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  icvp87cbbpe9trh0lshrnp9o075kosdb NS 
+mukilteowa.gov.	86400	IN	NS	pdns05.domaincontrol.com.
+mukilteowa.gov.	86400	IN	NS	pdns06.domaincontrol.com.

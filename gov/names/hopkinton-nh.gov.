@@ -1,0 +1,4 @@
+hopkinton-nh.gov.	86400	IN	NS	ns1.infotech-maine.com.
+hopkinton-nh.gov.	86400	IN	NS	ns2.infotech-maine.com.
+i0ceh4o04gpahki8n7pj4sf0h0fg94hk.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. GMrgQ/D4Yro2+ondLN4c9LexW44xHdHx3PSu3GjkDWWVyxlxTUqFkV254GDqUMn5U5Mk8micd6FhAs3+CLLqoFwSSmd8vvJcxGiP9B4XhOAMHBYrKyYX4jLaxm2FUNMCLy7Z1GdbwYO/jTV3XMKaPDLBhFMwhmD09qhbctShfaI=
+i0ceh4o04gpahki8n7pj4sf0h0fg94hk.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  i0chh949f9kapesl135g3vigjbh9ctl2 NS 

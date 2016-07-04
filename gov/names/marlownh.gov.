@@ -1,0 +1,4 @@
+bh7v0k13uu64mttj5bsmemps6k4jm8oh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. iiXH9oT5jKcnnwCnsXvo1HuDW15NO8YJ+8Dnpk3RtsNplWEKLrnotVgC2AyzmFn4N0obeBiL3LN34l6OggXN7ujojG/nBb7F/dZ/3Jz6jiMaiMmI8jM6foKnAWMYJ00bxQWivb1CdoI5JhoGnfyEFKVCG+CjiEKfs/bj5OQspBw=
+bh7v0k13uu64mttj5bsmemps6k4jm8oh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bhgdr3c30p84tpojc2qric1f40b2b2mj NS 
+marlownh.gov.	86400	IN	NS	ns1.infotech-maine.com.
+marlownh.gov.	86400	IN	NS	ns2.infotech-maine.com.

@@ -1,0 +1,10 @@
+hee1.icsd.hawaii.gov.	86400	IN	A	132.160.216.4
+hee2.icsd.hawaii.gov.	86400	IN	A	132.160.216.22
+hi.gov.	86400	IN	NS	dns1.hawaii.edu.
+hi.gov.	86400	IN	NS	dns2.hawaii.edu.
+hi.gov.	86400	IN	NS	dns3.hawaii.edu.
+hi.gov.	86400	IN	NS	dns4.hawaii.edu.
+hi.gov.	86400	IN	NS	hee1.icsd.hawaii.gov.
+hi.gov.	86400	IN	NS	hee2.icsd.hawaii.gov.
+hnlendijjbilh54u96d6rj25e8dk7k0h.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. YWsCTg+JZRl3lOolsXvj5sq+VYKN/Jfq2KN6NgRR4uMI0qqB1eb9SGze/k16IIfu4G4avBnpdc5kv4apBsp9nutyOy7c/F6PP4je1BUI0zHumFereZUltkbf8nqVLKAMk65Qm/JlqTlt4+lDwrhlBzH/EXfds/isK1XPI8s9CyQ=
+hnlendijjbilh54u96d6rj25e8dk7k0h.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ho0d9deh8u6rfuuqmp3ah3jqfqscpcar NS 

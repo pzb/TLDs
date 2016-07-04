@@ -1,0 +1,6 @@
+azland.gov.	86400	IN	NS	ns-27.awsdns-03.com.
+azland.gov.	86400	IN	NS	ns-924.awsdns-51.net.
+azland.gov.	86400	IN	NS	ns-1375.awsdns-43.org.
+azland.gov.	86400	IN	NS	ns-1690.awsdns-19.co.uk.
+gq3bm6ng1goumrc0q2bsip08lfqireat.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. WB/V8OsUpSZWYdQQY3mxGAzTOcM4GvkIPj5oDnMKF5dkD3F2bd6f7fIdViyHSthe5auEx73pfKhdD0sG3RpIXtE/CFxTHq0iclxfecPBYpY79bC3/kX3ksCluTRn+0wFDFwp1vKiDXYnZ5TydwHewNR8SZaueSw5Pe5ONxVqdsQ=
+gq3bm6ng1goumrc0q2bsip08lfqireat.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  gq6kaf69f97ciu541ntahq9pp2co0oc2 NS 

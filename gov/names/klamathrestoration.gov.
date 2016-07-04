@@ -1,0 +1,9 @@
+klamathrestoration.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+klamathrestoration.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+klamathrestoration.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+klamathrestoration.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+klamathrestoration.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+klamathrestoration.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+klamathrestoration.gov.	3600	IN	DS	35071 8 1 c1d39026626e44112bfdd1cda33b18a1dfc7e6eb
+klamathrestoration.gov.	3600	IN	DS	35071 8 2 0386b9b5759e19423be3157478e2e5de3e9a535c8ae6304e28c096590f330d8d
+klamathrestoration.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. B8I1r4mqTfgDOvqe7bxRsPCCPykIuo3kYMPBkPpv+M8LFesU22rDPvaCoORi9Hn6dp241EZGHFCeVLpHb2VSCzhxqJdfA/g5gQ0foBLSjTCOadVgLgFVNC/6ORFRCTrEYZmTc4zE+YBl17eFV2+BbfIvPvjntTp14Dmwqk+bToU=

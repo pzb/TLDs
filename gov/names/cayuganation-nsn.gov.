@@ -1,0 +1,4 @@
+cayuganation-nsn.gov.	86400	IN	NS	ns1.algonquinstudios.net.
+cayuganation-nsn.gov.	86400	IN	NS	ns2.algonquinstudios.net.
+sv683sc995fuqffmaae73fdkuvjqnq6n.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. PqEN3XHGq3cXXFJDotPC8+kOLOSq4bYNmQ4IDGQAeHHLXBIUXfxIV8nG7Z5TzwGSfDUpjH/BOaoOtoOriqpLEYJT2jCcbQ8mibguyorsR2u1nUSFp/AEZiEs2CRoLlpcIClXEr6dkx+OQwJqEYsZ/1SP5MzQChwl0YM5jGkAExM=
+sv683sc995fuqffmaae73fdkuvjqnq6n.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  sv6jj6m5pgqe6f8kla4s708utj3os1d4 NS 

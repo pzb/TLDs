@@ -1,0 +1,8 @@
+fedshirevets.gov.	86400	IN	NS	a1-12.akam.net.
+fedshirevets.gov.	86400	IN	NS	a5-67.akam.net.
+fedshirevets.gov.	86400	IN	NS	a11-67.akam.net.
+fedshirevets.gov.	86400	IN	NS	a14-64.akam.net.
+fedshirevets.gov.	86400	IN	NS	a18-65.akam.net.
+fedshirevets.gov.	86400	IN	NS	a20-66.akam.net.
+fedshirevets.gov.	3600	IN	DS	21817 8 1 656fd18842241dd742a765067d7cbd5032db1a14
+fedshirevets.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. wdmZoqoiySd1O9drGKukfRdRmUgC9Chl70y+/+GKcc8LE6gG5sQWXtkC0d+ZJGLi+y/6LbGF/bmgs9DuOdpAAuuDp2tkzMjId3p0tRkUcOg1qb0bpAQWvdz9uvcm4Lkk7YtZtf0JxRxfyY7oraYZYKMIHxwmU6PhKMbOg7jaiqU=

@@ -1,0 +1,4 @@
+aa45cop7qa5u1fs7v7h93cv1002dsnik.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. k6pzZZo3fNhKcyHJ+EZlWFPgHRGLOfJdD3AVlSpRsf6hR1liNtvy4Npv8vUy5xJ0QsU28e6okZ3KkLq9UVhrhYVr4x6ohr5r2R61wJgX5T2MqhJEzWzUuYUfyrl9gO1jaMy8sR0ufHsW3/akwORXMqs/ZlodmhwozIIhotgmb5g=
+aa45cop7qa5u1fs7v7h93cv1002dsnik.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  aafsrj2h6ghc2afddnt8q8m3f8o1sfd6 NS 
+cityoffarmersville-ca.gov.	86400	IN	NS	dns1.stabletransit.com.
+cityoffarmersville-ca.gov.	86400	IN	NS	dns2.stabletransit.com.

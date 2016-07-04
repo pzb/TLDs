@@ -1,0 +1,7 @@
+newganges.sba.gov.	86400	IN	A	165.110.249.32
+scotch.sba.gov.	86400	IN	A	165.110.249.30
+womenbiz.gov.	86400	IN	NS	scotch.sba.gov.
+womenbiz.gov.	86400	IN	NS	newganges.sba.gov.
+womenbiz.gov.	3600	IN	DS	41644 8 1 c8604a9f79bfc62817ae2f94b6bc59b269073755
+womenbiz.gov.	3600	IN	DS	41644 8 2 795bfb4636bc6bd73644fe5a418506f199adcb1a8885bc0ec4babe5f2faa673c
+womenbiz.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. XOX8NE5pie9t15JjbLI8RgcMUOHoD/g4saPqFK2eMls7E/Jd70nWgK50GsNtmpJjADn5iuwCtXin1z/yUgI8xBEU14LnoVSQh0Z/SFe+9PlDkfys90jbwSZlDHEl74QIhVvTPO2dHV3XCOCiZWVTIU8xt6k6MYN2/GGOWxliER4=

@@ -1,0 +1,4 @@
+ab4rf92httn4osp563geq0ci1k37gdmh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. L6t6/D/uT23Qmx0sGCpSiX+Hu0bdB4Oo7BrLWh7Ja8r9CT87nTxymf576uQNMPYKhqPD7NEhhtZ5mEDHsTJFY19wa0tVfzHSn2D3vUeFK8pVi8KcOhsNKC7hgimxKpgIOeLo/GKSo7GdAvUxuyu2x9iHm0dX8lDyr+pW/ppSyy0=
+ab4rf92httn4osp563geq0ci1k37gdmh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  abb6a9l9kvgq79minuv0hbppf2d4q99c NS 
+edgewoodky.gov.	86400	IN	NS	ns1.nkol.net.
+edgewoodky.gov.	86400	IN	NS	ns2.nkol.net.

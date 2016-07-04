@@ -1,0 +1,6 @@
+a3teukcmgeofsa6jku3mm1pj3sn9gsc4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Nn7+hNTenPgBucntZno3ODzCKVMCAS/23OXLImwhY1Js7vJLGigoOcdiIWz1twCroMwMyON65lOy6SgkFmCOyZNTGKSUzSAb8+TtPGLc3+rl+V8CNUwzwSfH7renz8WXeXHNAswiCZwxXioql3jqjrD3pI1C4R3wjLvwZNLlOyk=
+a3teukcmgeofsa6jku3mm1pj3sn9gsc4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  a417etudgpmid586b2m7rqbh1stpgq30 NS 
+azgohs.gov.	86400	IN	NS	ns-132.awsdns-16.com.
+azgohs.gov.	86400	IN	NS	ns-804.awsdns-36.net.
+azgohs.gov.	86400	IN	NS	ns-1095.awsdns-08.org.
+azgohs.gov.	86400	IN	NS	ns-2046.awsdns-63.co.uk.

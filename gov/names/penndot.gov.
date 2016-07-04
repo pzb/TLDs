@@ -1,0 +1,6 @@
+8ptjgunth7ftd0jthljcanqnkgtuvqmf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. S0IvrJc/OZZmK8ROsoDFBdkMI6OTdu4yqSV1zV7pSwyFLp2/VNGR1znluHNfxaSecAio71/02I1o/khQP+ZHt/qOJvkIobcYIBVgbP9Fk6Qm6eLejf2Iz/zJigtk9NRgv0Z43tyJP5omk9UsJBTUJJAdKTZ8Fl/BZCj8H0a4kb8=
+8ptjgunth7ftd0jthljcanqnkgtuvqmf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8q9gba5f4ueqniv7pssam4aibu81s5ii NS 
+dns2.pa.gov.	86400	IN	A	164.156.185.10
+dns3.pa.gov.	86400	IN	A	164.156.16.200
+penndot.gov.	86400	IN	NS	dns2.pa.gov.
+penndot.gov.	86400	IN	NS	dns3.pa.gov.

@@ -1,0 +1,7 @@
+macpac.gov.	86400	IN	NS	ns1.p13.dynect.net.
+macpac.gov.	86400	IN	NS	ns2.p13.dynect.net.
+macpac.gov.	86400	IN	NS	ns3.p13.dynect.net.
+macpac.gov.	86400	IN	NS	ns4.p13.dynect.net.
+macpac.gov.	3600	IN	DS	6748 5 1 eddc458054d188a5958b80f06a962805a3be312b
+macpac.gov.	3600	IN	DS	6748 5 2 a826d902214f25a1bf875ad3e3f75656bf82bfd5a32b3bf40e300c507d0b53a9
+macpac.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. MfD5zrG06W2k5q4f3lVjUCKACljOK0YbLO73bNcO9RJVBSmgyFmw7kbt9cJfKisdCvBDHt/uN55e3kPd32EujTKSbBOq5yFsSwsS0iQlMjm4qCRJEFIAVymemgmYozbKqoiX/otkhystjar9awzNims8xyqo04Hni/Gu5UGiAOM=

@@ -1,0 +1,4 @@
+jd9roq050a1hn05aa6amm3j7bl6r1fuo.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. pAYBspdBqciMYpWBqHwboNXBzPe/8EIlaERoajqAJ2V6Q/a/CfBdPDDJpV1LKBDKQMOp+dFWF3NQ4iLW1Jluw02jcKgk+/5xdsSM5PP8NpOaVDm3d4yOftxZPpLd9QnnlbZfze/1AOgqTsZ+tDvroRi1SMX36faXcGdk3FIpNog=
+jd9roq050a1hn05aa6amm3j7bl6r1fuo.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jdbqj7tuvhepmvghpouq81s1mnk6askq NS 
+lauderdalebythesea-fl.gov.	86400	IN	NS	pdns01.domaincontrol.com.
+lauderdalebythesea-fl.gov.	86400	IN	NS	pdns02.domaincontrol.com.

@@ -1,0 +1,14 @@
+ahrq.gov.	86400	IN	NS	rh120ns1.368.dhhs.gov.
+ahrq.gov.	86400	IN	NS	rh120ns2.368.dhhs.gov.
+ahrq.gov.	86400	IN	NS	rh202ns1.355.dhhs.gov.
+ahrq.gov.	86400	IN	NS	rh202ns2.355.dhhs.gov.
+ahrq.gov.	3600	IN	DS	29856 8 2 d867f3769848cee334b2c26b010b79bf806f0ced07d56fe0bde558a193a6821f
+ahrq.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. XlwZBExRzc+3sMGVpBNbu/puDVdejuRl3lF7gzwT3Pg1dJh7VHjlSZjelhF4/UFTPGOcDlkH/FpCxY28pqTWaonAA1yhSWTOQktBYaHI8EJkSaw3MPxf1D8scSLi/179konqIdGdpJ7XjJv+ehI3EVTnTklZqljoLix3zCBaBhM=
+rh202ns1.355.dhhs.gov.	86400	IN	A	158.74.30.98
+rh202ns1.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2a
+rh202ns2.355.dhhs.gov.	86400	IN	A	158.74.30.99
+rh202ns2.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2b
+rh120ns1.368.dhhs.gov.	86400	IN	A	158.74.30.102
+rh120ns1.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2c
+rh120ns2.368.dhhs.gov.	86400	IN	A	158.74.30.103
+rh120ns2.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2d

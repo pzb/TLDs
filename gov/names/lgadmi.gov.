@@ -1,0 +1,4 @@
+g05ll82tp38oqlhj03udh1ol7d219569.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. giDbkfd3HCRR39ErS+DaA2+u0po6M1sdulIexVQdu1qmjMeZfxVEok9sS5ZxK/WcXxpbobMh4YOFAJ5FtVoVuiGmgeYRR22XRVba5bFWoMGNfsFu7CKjQabax2DiKM2MnyzZhLsSQ38q6siRMhqN5JJ/aAAqua9ntm2SFj3ACUc=
+g05ll82tp38oqlhj03udh1ol7d219569.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  g06gkn1t2qt3qtqfelm547k4un3catrf NS 
+lgadmi.gov.	86400	IN	NS	ext-dns1.state.mi.us.
+lgadmi.gov.	86400	IN	NS	ext-dns2.state.mi.us.

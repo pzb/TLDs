@@ -1,0 +1,6 @@
+cll54umgh0174gmjd0d9i3h79hevj11a.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wUCjby+fayFmu8cN+DXPKP58cau33Gz8W2QK7Wh6ryEa6mjsrhnCthNHlMbVpE7l7ShOWa72PJ7wNSE63DtZjTAu1Jl3P2S/up8ozpKrlshotgbAe4W+0NVH2JBrbJ6rYIg+3NGWEqUBGJk5iLtvGkJaRGq9R+bCWTSNCGcRkT4=
+cll54umgh0174gmjd0d9i3h79hevj11a.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  clv1h2sl80abp138t0r17fo1tsndi93j NS 
+rsa-al.gov.	86400	IN	NS	ns1.rsa-al.gov.
+rsa-al.gov.	86400	IN	NS	ns2.rsa-al.gov.
+ns1.rsa-al.gov.	86400	IN	A	74.254.150.10
+ns2.rsa-al.gov.	86400	IN	A	74.254.150.11

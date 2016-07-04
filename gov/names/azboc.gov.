@@ -1,0 +1,6 @@
+3kq79skuh2hrd7fbat77ln8tbam4je3n.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. yDxJiwA8ja+UVhpe9jpd8MID1GIpUsPp3SNDb6MQ11H4H1dCY8vavgOWIOw5fBWdunLoosL1wMHy0WjgHHMBg0NTE/NVPQFx88Ru/13i7qCdPTFsYDpuWB6az0MnCTnfLbzjgw4RdA7dxFtEyC6AWxBnEEnk/fWkCg5zdsGTv7s=
+3kq79skuh2hrd7fbat77ln8tbam4je3n.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3l5hd7id6ehu1m1r67a18fdb98to2n5r NS 
+azboc.gov.	86400	IN	NS	ns-479.awsdns-59.com.
+azboc.gov.	86400	IN	NS	ns-884.awsdns-46.net.
+azboc.gov.	86400	IN	NS	ns-1265.awsdns-30.org.
+azboc.gov.	86400	IN	NS	ns-1601.awsdns-08.co.uk.

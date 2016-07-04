@@ -1,0 +1,4 @@
+lajolla-nsn.gov.	86400	IN	NS	mns01.domaincontrol.com.
+lajolla-nsn.gov.	86400	IN	NS	mns02.domaincontrol.com.
+uij92vltc2q6pqafsr7d73fpve4hf759.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. CJ0O6cQuyei9Zg1NMDL8DxqgT9bOltEnIy4zd7aOxbNbCj6/SWosRz6u3UnzmzWJvortVees8IBstg3WFxLNCbGvTwGV5/6PMxEz7CgXVTE46i/ugWtYKJynschzb6diGl51x3puTlMuezF7zxQOvsUVy6vOtN8dhlrOnh7PEH4=
+uij92vltc2q6pqafsr7d73fpve4hf759.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  uims2l8pon17m7r7eke5snbtk9f86eem NS 

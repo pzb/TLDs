@@ -1,0 +1,6 @@
+1upmsv2be95i8kv5on88jpk1sfsagu52.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. iOXXVbPOTA+86CdH0kTpvMzmjmLMNOjqBbpKI56lpLYxsvX9g2tiltiqn6740JxYegYL9BF0aQXjpvbLDskUrToTInbdFdz90tgRNSKHJFmeewCOgFW3HrTlSt0QN8ovOzrrift+jONUKxPIdv3iqLIX7jjsOKnsXfex4ZI5FcA=
+1upmsv2be95i8kv5on88jpk1sfsagu52.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1utbr4sc6t43k9qrcf70bpp5dso4ps4f NS 
+atlasalabama.gov.	86400	IN	NS	ns1.p04.dynect.net.
+atlasalabama.gov.	86400	IN	NS	ns2.p04.dynect.net.
+atlasalabama.gov.	86400	IN	NS	ns3.p04.dynect.net.
+atlasalabama.gov.	86400	IN	NS	ns4.p04.dynect.net.

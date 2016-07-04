@@ -1,0 +1,4 @@
+bar2kp6ccuiji00eq0rvt42q4ufpjjvt.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. m1gLMxSWdI6ptHXOIw/rMlV4/4qiDL11WTKCejCiDMK1wW6TSoM7Rs+KfjQ1Q5agsrKRUtiYi/cYiE5wwoJUbGt927v5M28REJ89EqfmGlFhAwqTg27bOekh5XXINWdTK1b94hfQQ4ePqRRCoCLnTkbauDCuWrF9lPwXDw3b/aM=
+bar2kp6ccuiji00eq0rvt42q4ufpjjvt.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bart2pv33pqf1ik7n1te40cm0rpkbs78 NS 
+duncanok.gov.	86400	IN	NS	pdns03.domaincontrol.com.
+duncanok.gov.	86400	IN	NS	pdns04.domaincontrol.com.

@@ -1,0 +1,4 @@
+51mogbidj1frilel401f01d457uvls27.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. W6exbpUUOBvI5iQxZpB6QF2ojT6keubTg653B5wW13qEd8UYM4SZw62nikahF4SYa/6qzFIjFUO396njhPpc+yJ0xTWytiK1sJXn2W0zsyc7QB5tcjfNUy27Q2mzWJxg6kfucGWOapybLLWPoiz2o5NmaPGA2vCPPlUm1gC9Hqk=
+51mogbidj1frilel401f01d457uvls27.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  51nprf5l75opcp85ear9260ogqnlgahr NS 
+griggscountynd.gov.	86400	IN	NS	ns3.ndnic.com.
+griggscountynd.gov.	86400	IN	NS	ns3.state.nd.us.

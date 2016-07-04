@@ -1,0 +1,9 @@
+bankcustomer.gov.	86400	IN	NS	ns1.treasury.gov.
+bankcustomer.gov.	86400	IN	NS	ns3.treasury.gov.
+bankcustomer.gov.	3600	IN	DS	37158 7 1 29735e95a5eb6b713bd69c3c824f7eb7d1a5b22d
+bankcustomer.gov.	3600	IN	DS	37158 7 2 6fd1cf324bf08933b229f9345be3a95629ac5f9cc3ec001ed5d0cef1134513a8
+bankcustomer.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. kaLgx1l4DWOUOSJoIPF39H5g+7J0aSr/i2qtaS+ZNpeDqYsDCb9ipEZm2kJ63ztlGjcIhZBNbcTMw+Qs/wZtGt624OoQRxsydJTB8dvgbuVpW/cxUNn0kN8VHAIevX2QFsPCG/meqQnSihH4lN9Nql7U4JaG4pdFdN1+IpwnFmk=
+ns1.treasury.gov.	86400	IN	A	166.123.208.249
+ns1.treasury.gov.	86400	IN	AAAA	2610:108:4000:100a::249
+ns3.treasury.gov.	86400	IN	A	164.95.95.155
+ns3.treasury.gov.	86400	IN	AAAA	2610:108:3000:100a::155

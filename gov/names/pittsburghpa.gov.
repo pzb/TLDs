@@ -1,0 +1,6 @@
+pittsburghpa.gov.	86400	IN	NS	a-ns.pittsburghpa.gov.
+pittsburghpa.gov.	86400	IN	NS	b-ns.pittsburghpa.gov.
+a-ns.pittsburghpa.gov.	86400	IN	A	205.141.188.188
+b-ns.pittsburghpa.gov.	86400	IN	A	205.141.189.189
+ri12vlqv3r5bb6ggfvf5gn7s78j5sp1f.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. TLdCf4G0UJwTgNOL2WlhbTXER4XQzKUMDO3f/JE+6MGug0XROo5gqpuVIyLyyivc3YazgwP36MDQgHvrx6VAG4R3ENbuz6FrUDatGfY95SkB3YZoIurXacaAszQae2P8tOvdgkKac9OM2p8a6yIb2KbTyBCXoB3mp+vRqgEE0yo=
+ri12vlqv3r5bb6ggfvf5gn7s78j5sp1f.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ricvc1fotjimc7ld7dc0615s8nc0f8nv NS 

@@ -1,0 +1,6 @@
+redmond.gov.	86400	IN	NS	ns-403.awsdns-50.com.
+redmond.gov.	86400	IN	NS	ns-609.awsdns-12.net.
+redmond.gov.	86400	IN	NS	ns-1379.awsdns-44.org.
+redmond.gov.	86400	IN	NS	ns-1737.awsdns-25.co.uk.
+u0odis30atv7ko9sg352pfcrb84fi0u1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Cqf6pP0MToV973Fa1xlSFxmEZa3sUwq17lLgaesz9nlLMatGUcDsl/jBxb0PYhvjgTTjTawyZ/QVEycYTSimPGz8s0R9o7o/jHIt6z7IdROmm8Xy4V03+EreMNiyu8qKxQyEJOajyMa0THnVcdZRIfqQlbtfeaU6TOCh4auvTuc=
+u0odis30atv7ko9sg352pfcrb84fi0u1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  u0tvd9a6ut3m5mhtjs6snd1ij823ocp4 NS 

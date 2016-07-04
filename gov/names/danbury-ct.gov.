@@ -1,0 +1,7 @@
+danbury-ct.gov.	86400	IN	NS	a.ns.zerigo.net.
+danbury-ct.gov.	86400	IN	NS	b.ns.zerigo.net.
+danbury-ct.gov.	86400	IN	NS	c.ns.zerigo.net.
+danbury-ct.gov.	86400	IN	NS	d.ns.zerigo.net.
+danbury-ct.gov.	86400	IN	NS	e.ns.zerigo.net.
+u72ohofml0fehj0nqsv7ea5v01rh782o.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. rDVsau4ntqscUNSEhXAdJjidkrF5UBmK7zBsOUj7iao0GxacSVnEummgPtkL7w4huCagkRlVSRYM7+WoBV2pIYlZ1G80gZVxOUDPQb4ccTppdvx+OqwKLwpxMRZwSwNTWx8r1bOWbipbPZd/mvdpVYa9+KsAx1wvsXmKsPcmJOE=
+u72ohofml0fehj0nqsv7ea5v01rh782o.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  u74j1dc10ecelodff0jith69i6v6ph0d NS 

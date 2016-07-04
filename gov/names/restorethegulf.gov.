@@ -1,0 +1,12 @@
+ns-e.noaa.gov.	86400	IN	A	140.90.33.237
+ns-e.noaa.gov.	86400	IN	AAAA	2610:20:8000:8c00::237
+ns-mw.noaa.gov.	86400	IN	A	140.172.17.237
+ns-mw.noaa.gov.	86400	IN	AAAA	2610:20:8800:8c00::237
+ns-nw.noaa.gov.	86400	IN	A	161.55.32.2
+ns-nw.noaa.gov.	86400	IN	AAAA	2610:20:8c00:8c00::2
+restorethegulf.gov.	86400	IN	NS	ns-e.noaa.gov.
+restorethegulf.gov.	86400	IN	NS	ns-mw.noaa.gov.
+restorethegulf.gov.	86400	IN	NS	ns-nw.noaa.gov.
+restorethegulf.gov.	3600	IN	DS	35296 5 1 1e83aef735d729fd28b6ea3262667ee57a32025e
+restorethegulf.gov.	3600	IN	DS	35296 5 2 ae7549f384f7f21b2c33d4be745b244531abb5f41f3dbadbc0aea560a51e2465
+restorethegulf.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. qj05ICbI/GjMwP2FLE+ilnEeoaq1Np4W/CE46IhC7fyHv84fMwJ63Z0Kbld41wNTvxu3tdP8/euLgrHXdUq11imrb7S9hCJYtrFd/LfwtfpeRC2U+GYqzOte5k0RK/1wUdC3POQziAUfKlP74KytjF5U2TtW1jraxFj57og/1I0=

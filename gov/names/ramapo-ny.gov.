@@ -1,0 +1,4 @@
+f02mb3f8ccujavt74abiug9iqte8tiv6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hclqFkmlTI0mYdzmtpbRxqwWPogGHeJEznMutshGTr+n4klyWsMcvUFFJi8DIddO+ptaANcLuRNFFTTVroMejrT/xu/fPTAPELHKAxd7zHYaiOY5JoBejsW7aJOocx8a+Xt3HPS2meG1D5W4flQ0e9sXC+/NmPdGvp8/ldG52CE=
+f02mb3f8ccujavt74abiug9iqte8tiv6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  f05dm2s6kvs5vvcjhvn1shdsldhu45oj NS 
+ramapo-ny.gov.	86400	IN	NS	ns2.hvi.net.
+ramapo-ny.gov.	86400	IN	NS	hvis1.hvi.net.

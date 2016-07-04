@@ -1,0 +1,4 @@
+4art0796r1juit5clirgcluda7m73jn7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. S6k/f6lushQfYAS8BxB5EPt1lLLoHkwNuvfncqknsmkpUTrEQIq746H+EfSlk4E4/4sI8s4kQdTIR9TpwSuJXZVou5MPr804u1ABu6AbakXOgZBQseliKI0FCB9XMDA3UXgysAu5H3jGxpUZxZnZNsHInoxhgu0SwQFmLGfumL0=
+4art0796r1juit5clirgcluda7m73jn7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4b0g6umealgg76nhsp584610sgecbq1d NS 
+westfieldnj.gov.	86400	IN	NS	ns1.avenet.net.
+westfieldnj.gov.	86400	IN	NS	ns2.avenet.net.

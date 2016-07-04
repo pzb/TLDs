@@ -1,0 +1,6 @@
+nqr26gu7kgpk0pq6smu4sd6e1dcbopat.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. M1IUygwQbXfA1J+V/XtQVKRa5iibIc9IrmRog37JrZT5kavZEwfbXJlrrymW469EwsBktuzSzSmBi/bMf3TpILmsEbTDQ18gfOljYNmJysMk5jq+7o6NuLULtBzi92kYihAJagCLgEwRL+tcwMKQwANOll1KJ1W+NXUtTuFdX6U=
+nqr26gu7kgpk0pq6smu4sd6e1dcbopat.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  nr0l887r50hvb5i0vui1ml0nfblukku3 NS 
+dns1.dhec.sc.gov.	86400	IN	A	74.254.77.40
+dns2.dhec.sc.gov.	86400	IN	A	74.254.77.8
+scserv.gov.	86400	IN	NS	dns1.dhec.sc.gov.
+scserv.gov.	86400	IN	NS	dns2.dhec.sc.gov.

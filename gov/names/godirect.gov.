@@ -1,0 +1,6 @@
+godirect.gov.	86400	IN	NS	ns1.federalreserve.org.
+godirect.gov.	86400	IN	NS	ns2.federalreserve.org.
+godirect.gov.	86400	IN	NS	ns3.federalreserve.org.
+godirect.gov.	3600	IN	DS	49806 7 1 5c0bcf8fdcf7a4f936e5183438e084e1812e9ce5
+godirect.gov.	3600	IN	DS	49806 7 2 c51f24c91447a43aa167b34610dabda78ae43c3ed31f4d1c1c302069eb82b001
+godirect.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. W5PBo1LFxpZenIwDZBdIV0rMWJ7cprUg7R3wr/LfOIWjrgfQS7LUMzoYL2thxJDK4yoDxwIE0XDsMGnJqjGeAYdNvQV6MlEfmUhl6I78puMSWMi2S76CFUpUyW67I7ZLH2ut1J0H7rqwJkVXvv9zMpfNx9yn1J4jNp4LGrmaREM=

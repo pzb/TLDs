@@ -1,0 +1,6 @@
+enchsbl05a7tlu330addr06pup2ms47r.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Ub4admhGaQgbvJIFAEIxU/Z1rgzmpPyXtG+09VFNEHYvG2bDFFZA4oTjz2ENVGjy7LBfd4OYjxpmzkmXEG80J6SON41zxkAn9WGAYMgGKZK1vrppXQ63pmKZjG9tWG+zk6y3mVzhWDzSl8C1Ir40oyB7n1WvZ/qdwJ3mhpYlt7g=
+enchsbl05a7tlu330addr06pup2ms47r.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  enehcfjo38thgij8q1m79pddh1sp4phj NS 
+ilga.gov.	86400	IN	NS	ns1.ilga.gov.
+ilga.gov.	86400	IN	NS	ns2.ilga.gov.
+ns1.ilga.gov.	86400	IN	A	12.43.67.20
+ns2.ilga.gov.	86400	IN	A	12.43.67.20

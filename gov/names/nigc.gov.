@@ -1,0 +1,4 @@
+g2fb9rufpl382lakgvvmotk879f5e3e4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Og4OtjZ8m5fB2JZTKX5rLWW3Uo6zkhBpAgtpwe2k9QTHEd2CyNvMGL1x6Fcfzyl0cIOYd1NHFKV7CR7Q0ogJiLuo8Y37oSasPP7jho/6wMsHiQr2PuETI0abyMGj4d9SRmgtf2VFFpSdu8u+pO4xV+3TdSAbZDPwUEUSosifepc=
+g2fb9rufpl382lakgvvmotk879f5e3e4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  g2lgfbeejfsei82a03lo3fh1vc7lpqeb NS 
+nigc.gov.	86400	IN	NS	auth111.ns.uu.net.
+nigc.gov.	86400	IN	NS	auth120.ns.uu.net.

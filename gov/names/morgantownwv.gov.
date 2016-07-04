@@ -1,0 +1,3 @@
+j8a278m4k8fjr2jva8rv0blktthn9bvs.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. KUEP8RXyml8VUvgx8cb1e+/d2Wiw10VwL4CbffBk3ZJdj0ozuIihXBBZC4laditGCrRrLMfkfsUatcZZ12OSkIoT2E3q6ny8P+XLFvrqo52vQ6aKDO3hpAdpePGf2qHV5vXH7DDc0ImAz+uOGD51o5g2w080LPWmPxRQLdI6nqQ=
+j8a278m4k8fjr2jva8rv0blktthn9bvs.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  j8qtd8skhc4iabs84ae5umdabl7fuk11 NS 
+morgantownwv.gov.	86400	IN	NS	mns01.domaincontrol.com.

@@ -1,0 +1,9 @@
+edns1.dot.gov.	86400	IN	A	204.68.194.100
+edns2.dot.gov.	86400	IN	A	204.68.194.200
+edns3.dot.gov.	86400	IN	A	204.68.195.200
+sharetheroadsafely.gov.	86400	IN	NS	edns1.dot.gov.
+sharetheroadsafely.gov.	86400	IN	NS	edns2.dot.gov.
+sharetheroadsafely.gov.	86400	IN	NS	edns3.dot.gov.
+sharetheroadsafely.gov.	3600	IN	DS	54481 8 1 d4c2f439cc26c5e358dcf88fe341fe3cbafaead2
+sharetheroadsafely.gov.	3600	IN	DS	54481 8 2 0f675a91a4f69b70bd181388da171f60f1a1538ac42d8ff44db83c426234a9b9
+sharetheroadsafely.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. TqCc7MPf0sF73QQqlXvFZ/ZZpMD0L4Zwb7ZVqmAYGeSvO7+tpqCj6d6xO7+Awwtkwb0x+kj57QiOENZMmgwT7JNdMbRSn7Z2+d24jNJYWrGki5KbUUHBYE9BjvZmKkZNJ6KKDv8ksWoXXJT7c9C901vsYJCLewqLgPZ0/T4/XjY=

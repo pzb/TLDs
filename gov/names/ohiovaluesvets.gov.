@@ -1,0 +1,4 @@
+ohiovaluesvets.gov.	86400	IN	NS	ns1.state.oh.us.
+ohiovaluesvets.gov.	86400	IN	NS	ns2.state.oh.us.
+u976lgfn3bk5gq31si6rdfbger5tgs5g.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. sn+UkkRTgvFag9rmf8uQSBV7er8ulTt9n8bdnU5aCmaHKMJDOfm7nJ8Ro8zCTM0vpJuGq8RNatNL0N+JKF9FO2K8DBh7dEIbLahH7xaE+R/oKs4n1bGBJKGZW6t9EXWr+oqooXy5bdP8eG5+WvnUpvTPpueujLuuCuOXLxXvcAI=
+u976lgfn3bk5gq31si6rdfbger5tgs5g.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  u98ik4ub7j61pg89se4nslmilg26t8sm NS 

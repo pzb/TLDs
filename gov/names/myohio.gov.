@@ -1,0 +1,5 @@
+mak4anbm7dqu0skb19tq4hfp7ndlnc6o.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. maIHgiWGLBkyR+8i4nbryg9rgMETqjC0HHzwndC8nlIld1GnQE9iwP7BGNyBpIRr+bWkj+I+dQa3QHIKKQwArFkS6nuYNku74oICW5MGY3CuXrI1lDYBI/1aK6FrmYMv/LwGd/QiSyDRKoPjjs3jjII0o1WB6usqEzOnftPt0fs=
+mak4anbm7dqu0skb19tq4hfp7ndlnc6o.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  maktpqgsc4qafigricoacpbs9fvluh21 NS 
+myohio.gov.	86400	IN	NS	ns2.state.oh.us.
+myohio.gov.	86400	IN	NS	ns3.state.oh.us.
+myohio.gov.	86400	IN	NS	ns4.state.oh.us.

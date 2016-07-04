@@ -1,0 +1,8 @@
+llmbjcp6uifpk545ig0rf29e6mtc8k75.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. m5MTdDiuLjrt+Cj/LNaO+L89NMNFGZlIDQNeo6GubXNoFkUsq1F5GKNXHkikwIk6B7jW6F6lWmyMWDiJv6WPBu39s8QPv/CWfCHChho48vFHcfUtXgUdfB3rRgnodJpsL2gVhUHjOVCQPxRXxTgBnplvVomuDu7O31fPhnDqYw4=
+llmbjcp6uifpk545ig0rf29e6mtc8k75.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  llnrq03mkjvto3kjr7u270umqcs26cu1 NS 
+miamidade.gov.	86400	IN	NS	sdns1.miamidade.gov.
+miamidade.gov.	86400	IN	NS	sdns2.miamidade.gov.
+miamidade.gov.	86400	IN	NS	sdns3.miamidade.gov.
+sdns1.miamidade.gov.	86400	IN	A	65.87.113.10
+sdns2.miamidade.gov.	86400	IN	A	65.87.113.14
+sdns3.miamidade.gov.	86400	IN	A	65.87.113.16

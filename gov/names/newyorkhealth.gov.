@@ -1,0 +1,7 @@
+84imbb66gi5li636o8ug2on1j1ku0ttr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. A8V0NGiHA3RiHlHIUrWIy5QYgwDDWV79E1z8M4ONTEQt57TK7VboiEBXYIFPfNxlc6FYgZirrHmLSb8BiozUUjY6BoR5Bxdmvi3H60GRfJnJnAhuSMDgdQD0fNmDwkaMI2T3BekopAsm1O9T70rtOldnDbNOeDM18TGvuMpI0do=
+84imbb66gi5li636o8ug2on1j1ku0ttr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  84m36tsfko3kbqhctdnq76orhe8c489c NS 
+newyorkhealth.gov.	86400	IN	NS	ns1.iplt.twtelecom.net.
+newyorkhealth.gov.	86400	IN	NS	ns1.milw.twtelecom.net.
+newyorkhealth.gov.	86400	IN	NS	dbru.br.ns.els-gms.att.net.
+newyorkhealth.gov.	86400	IN	NS	dmtu.mt.ns.els-gms.att.net.
+newyorkhealth.gov.	86400	IN	NS	beacon.health.state.ny.us.

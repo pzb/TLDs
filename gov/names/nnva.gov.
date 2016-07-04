@@ -1,0 +1,10 @@
+dbqdhfefpmgn6ot5otqq5emv1grdc573.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. IQTwBBNbg51DRpcgtVPijbxb3SDiM5Vd/TXQCl34WtvFAefhm8/RhDQfAECEY5cJaKv9cxAaxBO/5g5jrfz2aTDyWItJBjLbakYlgVAyorxqdPCrm5q/q+ygkZFpge4AtVMFm1rfwJIiOhqC60lZTqJtFpPUd5B3WS5TXBaS72o=
+dbqdhfefpmgn6ot5otqq5emv1grdc573.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dbqhup64gvpe3jh2m9pui2a243e495p9 NS 
+nnva.gov.	86400	IN	NS	nspub1.nnva.gov.
+nnva.gov.	86400	IN	NS	nspub2.nnva.gov.
+nnva.gov.	86400	IN	NS	nspub3.nnva.gov.
+nnva.gov.	86400	IN	NS	nspub4.nnva.gov.
+nspub1.nnva.gov.	86400	IN	A	216.54.50.158
+nspub2.nnva.gov.	86400	IN	A	208.94.148.13
+nspub3.nnva.gov.	86400	IN	A	208.80.124.13
+nspub4.nnva.gov.	86400	IN	A	208.80.126.13

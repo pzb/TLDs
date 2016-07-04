@@ -1,0 +1,4 @@
+9nv5vu1ggklebgm1ghc2taue0342lakh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. red01MLQFRHpzbDVLrBSII0GwYPn1CHLiSjEksxFoY9Oa/gvaU/kog+YNOvkZ6g8ac460hkliEuXFX2Javx/KL9es+L+htP5RgPL731pErJiwLFGmyr0Q5YzVIVKFTnNBbgHwLqcnhDrjmtINwl09XAxKqCEdmNlizwMhKQwGHk=
+9nv5vu1ggklebgm1ghc2taue0342lakh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9o9sq0j9f56um9a59qomdv04qi3n5c05 NS 
+nmlegis.gov.	86400	IN	NS	ns1.twtelecom.net.
+nmlegis.gov.	86400	IN	NS	ns2.twtelecom.net.

@@ -1,0 +1,9 @@
+ncrc.gov.	86400	IN	NS	ns0.ornl.gov.
+ncrc.gov.	86400	IN	NS	adns1.es.net.
+ncrc.gov.	86400	IN	NS	adns2.es.net.
+ncrc.gov.	86400	IN	NS	ns0-alt.ornl.gov.
+ncrc.gov.	3600	IN	DS	8612 7 1 9d39cb8922d8a17a5d034b996554b0e37b045ab2
+ncrc.gov.	3600	IN	DS	8612 7 2 b5bae868180859eccfa89180cbea53b2a8c29ac2bbce7378a432c314537b7208
+ncrc.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. jwTL3yrn/InOpXzp072rJaL26jAc88MeLEF5Tqj5342BojjwKw4d+534apyEJpWyrQtaso6gt6KsAOZXHsKUu7AfRea6utqg+Zd5bHvUodZ/dy3izIFomZjU59MZiNOy4PekBYVi75sjC/k0+wLZfoS0KaAQPE82Una++O48rKw=
+ns0.ornl.gov.	86400	IN	A	128.219.177.244
+ns0-alt.ornl.gov.	86400	IN	A	128.219.177.246

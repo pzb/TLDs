@@ -1,0 +1,6 @@
+azsurplus.gov.	86400	IN	NS	ns-202.awsdns-25.com.
+azsurplus.gov.	86400	IN	NS	ns-846.awsdns-41.net.
+azsurplus.gov.	86400	IN	NS	ns-1112.awsdns-11.org.
+azsurplus.gov.	86400	IN	NS	ns-1965.awsdns-53.co.uk.
+g63gpv83mv2sku9rjmgqg7472s9ero0g.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. prFF8cCWO9cY1IsNLTDtk5Vop5lZcytJmOo124jgEhmfgqZcfgjKAvnGa14oUovLBS6e/f3P09OEDiZDPDNu/mcsrSwXUSsog4xOP87LwHrn5XcLdwUKJ+v8UwfT1qvki3uDufNUC82pC8KtbjMcbky1wQqyzR4i0+xhj9aPhyk=
+g63gpv83mv2sku9rjmgqg7472s9ero0g.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  g6hogejbdq8s27sqla9flg2p4i79iioe NS 

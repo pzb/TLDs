@@ -1,0 +1,7 @@
+dapbc4rp0uon02900glhpm3dhf6etgrg.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. rWBZMrEx7sRLVQwiFXse+TSDfNVMNwJwIMPB3iUUdolUMlmUcfrAGk/p0ky4KXYQig94x7l0P6efybhLG83cxPlW9F1uloBve0hJRHiYGLgaJ4C+7FmqD0fvRJeQ0Q8HHw7uZUb9x2rojeU4JdhC6rbA4JMm1fz4bknvUIBnJyI=
+dapbc4rp0uon02900glhpm3dhf6etgrg.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  daqj1sca3f3cpj3hsr6snkghuf882mj1 NS 
+scottsdaleaz.gov.	86400	IN	NS	ns0.dnsmadeeasy.com.
+scottsdaleaz.gov.	86400	IN	NS	ns1.dnsmadeeasy.com.
+scottsdaleaz.gov.	86400	IN	NS	ns2.dnsmadeeasy.com.
+scottsdaleaz.gov.	86400	IN	NS	ns3.dnsmadeeasy.com.
+scottsdaleaz.gov.	86400	IN	NS	ns4.dnsmadeeasy.com.

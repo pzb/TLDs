@@ -1,0 +1,4 @@
+9if3t6tdh1nn0q155ov55vdhm53qot3h.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. xTyy7bXhRTazdA6JI40btvgq3rbdKq3Ss8GXojZU1OnLRxNI61qxOW/KPauWeP2TYTa/qUNBWPS3easoaPBAUhOV/xsrMnD8NenEZ50xJ88QvpzH70y9QU8SlFuv7PrpzXuoh18R10Z7ADrC4LUL1wWiEsB0lYMGzkV9zMuDusw=
+9if3t6tdh1nn0q155ov55vdhm53qot3h.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9ig1ir4pn4no6kvmg4javs7ukp9ibhnb NS 
+paxtonfl.gov.	86400	IN	NS	ns1.fatcow.com.
+paxtonfl.gov.	86400	IN	NS	ns2.fatcow.com.

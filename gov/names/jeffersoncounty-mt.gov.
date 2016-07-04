@@ -1,0 +1,4 @@
+jeffersoncounty-mt.gov.	86400	IN	NS	ns1.transaria.net.
+jeffersoncounty-mt.gov.	86400	IN	NS	ns2.transaria.net.
+n32gopu1k0qps4v9ktj2jpg4au0a7f39.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. YvS1+aiMeWzUiSw9FCs4dSqkuG7K4O4XQyexr21RWpOr1x6yWO9HRqSrx3s1jqD5x03WYz818yz5BeKUNQ3OZgN8OQK4kFd8hkEcFOcZc5pGB74UPaRtD+h8GW1K0f11vYbICaN1TDyYjm89q2E6kP24wvQn+0mJImdwxpkHDX8=
+n32gopu1k0qps4v9ktj2jpg4au0a7f39.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  n3bh2jjtfcnu0o06joqto5ui3r2i2hgj NS 

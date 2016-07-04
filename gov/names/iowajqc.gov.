@@ -1,0 +1,4 @@
+iowajqc.gov.	86400	IN	NS	ns.state.ia.us.
+iowajqc.gov.	86400	IN	NS	dns1.state.ia.us.
+njkaasmu6u25m0hkv75s87tddep8rv1o.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. UpeYTf1yM+ImbiRWOk5yhoyX2t8NcN1nCt2YwLe+AtoOWzz4XO4H6dG77xcShhBGExsvfm9bVZK5MD+KtZE9jJrv74IwbN8aubWFzSCLPWayTn2HbQXgGvXIhkJeiS5KTcIev216uHjw9PA+larQouEFj3+XtFDhU8YRQ4e8FIg=
+njkaasmu6u25m0hkv75s87tddep8rv1o.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  njl4m797q2jtm18ermlsvldt6rcdadhs NS 

@@ -1,0 +1,7 @@
+uspsoig.gov.	86400	IN	NS	auth111.ns.uu.net.
+uspsoig.gov.	86400	IN	NS	auth120.ns.uu.net.
+uspsoig.gov.	3600	IN	DS	6988 7 1 6b6ccfbaa353775aad1d10d5b2c2550642cded33
+uspsoig.gov.	3600	IN	DS	6988 7 2 3c77e7ba12a60e3916b4b025581da6dff2a79b1ad65bb0d4a6c9243d8d84a3a6
+uspsoig.gov.	3600	IN	DS	12468 7 1 544adf41294e2af87e5da2e4aa96d1b87dc9f7ba
+uspsoig.gov.	3600	IN	DS	12468 7 2 04e5042ea57a85cc4d6236e53813abe02d702cbedfa746cf705f01983a4289d7
+uspsoig.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. htPlwxH+tygfC3UhCFSFjMds/WrDzMqxi4lvKd2RgLcqc98EsIkG8tl07X+y2GkefT5ztcAiggALf5Y8GApQxyn1o3uPwfCLfILCMjMi9U7lCXvP//0GyU/f0w+hSzUMJPMb36vNnLgk3GybAu9M6JUPxFDxvhoKIr9HPWthqzc=

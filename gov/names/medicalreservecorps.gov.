@@ -1,0 +1,14 @@
+rh202ns1.355.dhhs.gov.	86400	IN	A	158.74.30.98
+rh202ns1.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2a
+rh202ns2.355.dhhs.gov.	86400	IN	A	158.74.30.99
+rh202ns2.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2b
+rh120ns1.368.dhhs.gov.	86400	IN	A	158.74.30.102
+rh120ns1.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2c
+rh120ns2.368.dhhs.gov.	86400	IN	A	158.74.30.103
+rh120ns2.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2d
+medicalreservecorps.gov.	86400	IN	NS	rh120ns1.368.dhhs.gov.
+medicalreservecorps.gov.	86400	IN	NS	rh120ns2.368.dhhs.gov.
+medicalreservecorps.gov.	86400	IN	NS	rh202ns1.355.dhhs.gov.
+medicalreservecorps.gov.	86400	IN	NS	rh202ns2.355.dhhs.gov.
+medicalreservecorps.gov.	3600	IN	DS	27303 8 2 83842c516d0fda4b6e3f8131a27e291bed95237438a65ba56fdda138ce40618c
+medicalreservecorps.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ndvRPRupHs4RaegyYaYk2451MUZCbji+dzOTL/vTZetlcVt05xfbG3dJbc40zPfP/OiAOqY/ZHOI+9LZ4tI4Hc8J7lRXT8JJOy4tQr0R4uPNdU2KwylXTgNwc5X6TYguvzddzBWWlmAj0y8+IlEp2rDN35cfcjryXWCNl9b0loE=

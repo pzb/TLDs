@@ -1,0 +1,4 @@
+aberdeenwa.gov.	86400	IN	NS	ns9.zoneedit.com.
+aberdeenwa.gov.	86400	IN	NS	ns13.zoneedit.com.
+hk976qgm27qldc6nbfgc0uhfs3t5m214.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. nxAg8T32HgliREHUm6LgH/z/vTSaefEUNIsPuF5w2NfD+nb72WY2eRWQ+THiBjWb2vpxQq8qUjxZYzAIOnWNSBr+V7XwPTJA5XWqjLwOnxkrIQWcofUP9k6fNFc9prQGd3OBPxqa5wT6imM0E1YqaofNMs8LpCMIJMvGbaGTD4I=
+hk976qgm27qldc6nbfgc0uhfs3t5m214.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  hka79d1g3ngff11tpi6nijk743m2h6gc NS 

@@ -1,0 +1,10 @@
+ethvm2u67v1ru65np8g4lrqbvvah2fgs.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. GVA70NkKEsUNhn1qa0Aqh/k9+Zw7XuY8G/qORAYwQTuZG/fLYDfuQiYNLwYxgRGa+zpk7EM0KBqx2d3Fq8ZIq0TxGEB08t1w5qOL8h3sMVk6IZvCSZlagM+j53GSZSzNL75M7yVxmSm5ZsudkzgXDLfp9eMgN1NqgRLQyvppW8Y=
+ethvm2u67v1ru65np8g4lrqbvvah2fgs.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  etl0f8iqsjmgt8ubet5tun4uhr0406ss NS 
+nycourthelp.gov.	86400	IN	NS	ns.courts.state.ny.us.
+nycourthelp.gov.	86400	IN	NS	ns1.twtelecom.net.
+nycourthelp.gov.	86400	IN	NS	ns1.fibertechdns.com.
+nycourthelp.gov.	86400	IN	NS	ns2.courts.state.ny.us.
+nycourthelp.gov.	86400	IN	NS	ns2.twtelecom.net.
+nycourthelp.gov.	86400	IN	NS	ns2.fibertechdns.com.
+nycourthelp.gov.	86400	IN	NS	auth1.dns.cogentco.com.
+nycourthelp.gov.	86400	IN	NS	auth2.dns.cogentco.com.

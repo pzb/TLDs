@@ -1,0 +1,4 @@
+b2f04nudq75f3i63jlr5q8628f8f8vl3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. VJlTuLDn13ebHmTsKFuSQ3FlSpdco6rJhplPfMcyiJmy3ZFlymSqMN8dg7swSUSjzoz//tZD4nyywLaawlbmtTtp+2waCA/Z+NZCEtrGOeU9rVzCroSFGlJSHfyKU0MW3sM6jLfVLnwYE2AXw8pJTu2Ccazo9V2Ttj4G7igLcro=
+b2f04nudq75f3i63jlr5q8628f8f8vl3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  b316cg8m97dvogp3u942jde7ctq7pou3 NS 
+crestedbutte-co.gov.	86400	IN	NS	ns.internetconet.net.
+crestedbutte-co.gov.	86400	IN	NS	ns1.internetconet.net.

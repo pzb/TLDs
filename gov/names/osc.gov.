@@ -1,0 +1,6 @@
+osc.gov.	86400	IN	NS	a1.verisigndns.com.
+osc.gov.	86400	IN	NS	a2.verisigndns.com.
+osc.gov.	86400	IN	NS	a3.verisigndns.com.
+osc.gov.	3600	IN	DS	47976 8 1 85828510c1e580ea209c041e3453acadff345594
+osc.gov.	3600	IN	DS	47976 8 2 3793804b75b0aa0179f04150cfd1bf9fd20f67b184a5c45294943d6d03b84fc7
+osc.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. nNazTrXICbtRgPtXrguuSY/6k6NzJBaZ6NuvfZWPXVYdcHIgVlSjp/J6RF7ybTCWmIv7dfQihS6jNDD+IaE3jnUbYfmELMUW20xtuDpthId68HCy9agumL6cM8tiQnPmJub4wrt9JhNNPF+PUQ+Hety3jNCBfxv+oZYoXkjapLM=

@@ -1,0 +1,4 @@
+av5mscg9lu053hee9803sor7a1763tia.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. uBHg4hiXB0nk3C7bNbEIrGxEY5GrSXhOv0RNvju1yq2gO2iEiMeJN/iW1WwLKh6/5EkVG8oYY/4A2/t6kXgyEdnkY8sHOZbed6RIRQNvH0xjXFcGkOcG+sXbRmmkm6GGwAPSK0VgLWRb/TujAsI5eyki6AgV09DCJUOMX/nh0pQ=
+av5mscg9lu053hee9803sor7a1763tia.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  av83smfj8l9n0rnccn9p03keoc373col NS 
+wvsao.gov.	86400	IN	NS	dns.state.wv.us.
+wvsao.gov.	86400	IN	NS	dns3.state.wv.us.

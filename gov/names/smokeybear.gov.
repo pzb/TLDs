@@ -1,0 +1,9 @@
+smokeybear.gov.	86400	IN	NS	ns1.usda.gov.
+smokeybear.gov.	86400	IN	NS	ns2.usda.gov.
+smokeybear.gov.	3600	IN	DS	58336 8 1 2f6b97576489dc42cdcf6761cef7e0d844472848
+smokeybear.gov.	3600	IN	DS	58336 8 2 d67ee8e9938aa5e524dbed06be6eda2438f215cbcf4e9253c61fde8bce189810
+smokeybear.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. EuZb6pq3edNvzn8dyGM57kMV0iAvbaJ6615y+xjsjb4eie1oOyanxN6UGFoRRVEJszfeclaBWxj5RHqkgrBr57LDvhmfyo0MjHavceUTJEt3A1m8RuRCwyMxSXHZVmwtGA5t3ersQsUEKhdzXulI2unhw/Nv9WZdGifCoAmgO/w=
+ns1.usda.gov.	86400	IN	A	199.141.126.202
+ns1.usda.gov.	86400	IN	AAAA	2600:12f0:0:ac04::202
+ns2.usda.gov.	86400	IN	A	199.141.126.206
+ns2.usda.gov.	86400	IN	AAAA	2600:12f0:0:ac04::206

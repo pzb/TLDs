@@ -1,0 +1,5 @@
+pi07etgrms652rsc6o05sfblnci6es5g.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. PVB1cewoLjkhIZaqk3EfjWDXATqKl7RpE2JJZswuk4ZQo4YWpgzt16DalfO4DbdPGqKit6LiVldk/JKKfVupv0WVBkM+a/hpE0+qM5u/7FPbIL4XaljFEJBv1U9bjZtOG9bpIp8pmHN0FEgICCF84T+zJ0L6sxZnMSCgcd89dRk=
+pi07etgrms652rsc6o05sfblnci6es5g.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pi4e39nfsbmoo82e92qpjrmn9kkbtts4 NS 
+villageofgouverneurny.gov.	86400	IN	NS	ns.larryweldon.com.
+villageofgouverneurny.gov.	86400	IN	NS	ns.villageofgouverneurny.gov.
+ns.villageofgouverneurny.gov.	86400	IN	A	24.213.204.182

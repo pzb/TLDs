@@ -1,0 +1,6 @@
+chicoca.gov.	86400	IN	NS	ns-224.awsdns-28.com.
+chicoca.gov.	86400	IN	NS	ns-854.awsdns-42.net.
+chicoca.gov.	86400	IN	NS	ns-1442.awsdns-52.org.
+chicoca.gov.	86400	IN	NS	ns-1629.awsdns-11.co.uk.
+o93gjbngac2jhcvatrq9gg7uf6efau4s.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. QkxelX/9ohTv9BXiqr1O6IqCxT3gmDJQB7jCFb1XYUhG29hgYeXEXHwlidXBMZ8vZGHfvfAzQBxC+BsTyG/4f6mLIrwjf+T+Fqsa5T0CLlsBJrw6D376EAxDERkH22kNTIR0fFf58UqFgfyL1Gzew14Lk4wydTNfp2NilITpdj0=
+o93gjbngac2jhcvatrq9gg7uf6efau4s.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  o93l560kigof2cc4edpu499npnurorbn NS 

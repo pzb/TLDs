@@ -1,0 +1,4 @@
+54dvs1d8ael9tth66pq7p1ka0af7d7r4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. HF80yMnsy0Y0Iz8k4QO0EiO3ZZ86PIErm+y5XEegP+SdPAYcO/4rd1ERtvqoSLR9DNrUwB/deEawABuRPUrXY192f+Y/T1rnzgF/emr9QUxPxBpLdRM2Qi9NLf/Sipqb9jFi09VdyYvMYNri+daPuspirE0YTczP3SlbGGfD6sU=
+54dvs1d8ael9tth66pq7p1ka0af7d7r4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  54fbcv6nt397f2v98rr26u9s32h1h0ke NS 
+franklincountymaine.gov.	86400	IN	NS	ns1.domain.com.
+franklincountymaine.gov.	86400	IN	NS	ns2.domain.com.

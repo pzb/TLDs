@@ -1,0 +1,9 @@
+amtrakoig.gov.	86400	IN	NS	pdns1.ultradns.net.
+amtrakoig.gov.	86400	IN	NS	pdns2.ultradns.net.
+amtrakoig.gov.	86400	IN	NS	pdns3.ultradns.org.
+amtrakoig.gov.	86400	IN	NS	pdns4.ultradns.org.
+amtrakoig.gov.	86400	IN	NS	pdns5.ultradns.info.
+amtrakoig.gov.	86400	IN	NS	pdns6.ultradns.co.uk.
+amtrakoig.gov.	3600	IN	DS	10871 8 1 1159ada1fe7bfef44dd471409c1304d71c7ab494
+amtrakoig.gov.	3600	IN	DS	10871 8 2 4ef3197158ed59b98daf316f71b33cbecbfff44aebe36e32e4dbedbb98b2cf76
+amtrakoig.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. PRYfgOOyVGU1eIhKMXSqaJrjMD3ueIfKy7LHAvB2UHeV+fWZmYc7685FW5TUGXIqmtxptc6VHH9sTtgZYCZfN26TnCucKCadViLFldiWxGvqn15AJdnljgtBp4g3Is1TcLyWheWr4QRInx0smF318TYf4YUIQtsZfNp3Om4Y5Ts=

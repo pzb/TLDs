@@ -1,0 +1,4 @@
+navajocountyaz.gov.	86400	IN	NS	auth.lkv.mn.frontiernet.net.
+navajocountyaz.gov.	86400	IN	NS	auth01.roc.ny.frontiernet.net.
+vtj245g4g33f0m0eltqf6cpu4mj4p27j.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wWeKhTdiIOEZz/9OLuxBinPd972kYQjXR8bWxooEOSMKfqIH5Taj3U8lCOnuoHEEbHG6VeNcMsXJ3dEvz+gDyC3BpMoEie3DDC9tdAu8UdIS7VIVWWhuLB54RXe8/nIZvZDSbJejDV9B2y2v7ilgqVHEIe5hac+VRjbH0WtWBU4=
+vtj245g4g33f0m0eltqf6cpu4mj4p27j.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vu6cletpqoj55nviudv2rv2jd8muoeg1 NS 

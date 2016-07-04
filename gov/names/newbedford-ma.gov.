@@ -1,0 +1,4 @@
+e9n8803o1vlqvdj2jfeb0bukc0ta0iqu.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. qZlGgyYOhuh5V9NswLNoRT7YCzDdb43P+XzcIyIjc1WXROGT8hNFs1nPvjK2PSb6D6NUsCUKpF2kTvlmvTLCjT45aZ+AFshmJ+/bfmN0r9kV/Ms7G5kQnacUwBfT4iec66uCCFqfW1ivONajQAHfz/AUS/P4bHxLicSCDqUKb48=
+e9n8803o1vlqvdj2jfeb0bukc0ta0iqu.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  e9qif75vulnbm3j2l6ukhac658ceqf0t NS 
+newbedford-ma.gov.	86400	IN	NS	freud.mecnet.net.
+newbedford-ma.gov.	86400	IN	NS	darwin.mecnet.net.

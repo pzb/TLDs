@@ -1,0 +1,6 @@
+bosque.gov.	86400	IN	NS	fsdns1.fs.fed.us.
+bosque.gov.	86400	IN	NS	fsdns3.fs.fed.us.
+bosque.gov.	86400	IN	NS	fsdns4.fs.fed.us.
+bosque.gov.	3600	IN	DS	22582 8 1 52cf887a3f3d25a027d581af1047f68f22d5423e
+bosque.gov.	3600	IN	DS	22582 8 2 86b5e86738c02b2bb148d4dd133932cae85412d6e1fef06c5688b79788c0b737
+bosque.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. sXFEchpUis9oZ39G6p5RUaFaJN1Wx2p/8ogHgr6GY6omA+FkeRa6VGBZIHaosr8XiFHtyQb4kBRRnwlTKDM/55GhLhMu7R9Iu3djnGYogUuPpd+EigQkamN+GJThYqzNae95VCgCKGypYU2qc8EWCGm3arCvlcZrzjX1i2bEeB8=

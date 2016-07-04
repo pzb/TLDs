@@ -1,0 +1,4 @@
+dgelo7peiib145q21ut1ritiginj2g5t.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Zil1ahB2HSPwGbM8cI8+gSqs4lKiODEOLw1bGFTMiZacIJAKAyqhvf9+cQPNKcCxaTG11aOpfNfanmpNiZV2dpqAaGfFfeGVhgOfConbXFhoD1N7OEpvp13PSXxOfu9SteKpVq++pMy3xzz9Lsn6YhAj/2NvZiV5/hUMr1Qkp3U=
+dgelo7peiib145q21ut1ritiginj2g5t.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dgnossq04su9lst08klhthmf62p8bu9q NS 
+oregonstudentaid.gov.	86400	IN	NS	lion.state.or.us.
+oregonstudentaid.gov.	86400	IN	NS	puma.state.or.us.

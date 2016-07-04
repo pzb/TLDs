@@ -1,0 +1,4 @@
+elizabethtownky.gov.	86400	IN	NS	ns1.blue.net.
+elizabethtownky.gov.	86400	IN	NS	ns2.blue.net.
+ktks1iallsk6lk4gtjpo18ojra3m1e9u.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. iJxrhQYPC12oh3Dpkp2ObRZNiN5HiSL6h8i5N9G+7PD4zEcA35SOysbpM+8HTHuoMUH7kI7qW+4NjMv5FaebeIPsk8JyhouDOy5Nk7VIRVRHfjXoio+N4Jlv4BtN4RtCIero9iKeY5DUbAr8gmpx2Bz6ZkzlYI20xSeJCJRCmws=
+ktks1iallsk6lk4gtjpo18ojra3m1e9u.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ktmrfdeft157mko91kdnudnkkln7f86q NS 

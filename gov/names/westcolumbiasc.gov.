@@ -1,0 +1,4 @@
+oj4oo14d12fsin61iccbf7jnl381q5a9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. cK1RD3bmQJhj3Rb2CYa1okKhcciG8Db1Aqwfn7qP2mNDDTl92Z7giTrKqVfBOkTVGAghkRipzpNNxqstQrhZquGgwm70casw+YktoBFuO0jA2i97SxyiflPLFieVz1kWhpHhlbIXVeyvzLxDdTHDK7xqtZt4T/rHx4lRGhNSXwE=
+oj4oo14d12fsin61iccbf7jnl381q5a9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  oj4rk550rb8cnjehle1lv3llth3evfsr NS 
+westcolumbiasc.gov.	86400	IN	NS	nola.ns.cloudflare.com.
+westcolumbiasc.gov.	86400	IN	NS	rocky.ns.cloudflare.com.

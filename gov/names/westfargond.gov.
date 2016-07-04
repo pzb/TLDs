@@ -1,0 +1,4 @@
+lboj7724gbra3msujlf7g542d0ccqftt.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. AQ69TJCyd1wrS8GDd4kqd6C/yDp4/XDcrGAUiJIUXadTfqR7Q9U054BGDPTynUoNV7zKr7npxzytEXmhLp2xi1n5mwWkUopbta9t6qjlUrT0+ZVFJwBbDjmlnLupMhhu1pNPgVjiWRrw+d3NB8xxEC9EYTDYlBSLwrj+3d5f89o=
+lboj7724gbra3msujlf7g542d0ccqftt.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  lc1aujceo320b0gk4li79t6hter6krmk NS 
+westfargond.gov.	86400	IN	NS	ns3.ndnic.com.
+westfargond.gov.	86400	IN	NS	ns3.state.nd.us.

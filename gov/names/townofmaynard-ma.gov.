@@ -1,0 +1,4 @@
+fn3aujckgvigi4med6csq3arvube40l7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. V9MWCxBeYuqBROqWej76GtibOzSwiCkiPa0bz9E6bZsTYZIgx/VbGbFtIH1nQWg6h+dukleLnPNojBBTE+DkcdsDOiNzMIGFGrnlAGzrdJebwrMFJokZXp0KGPJ9U8TjiBkMvGI/rKPZiuB9PLSn+bLa+u8pPBz6skOXVeZVCHk=
+fn3aujckgvigi4med6csq3arvube40l7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fn3rhv7gnq1sccsmkua9gvkb7qlfruh3 NS 
+townofmaynard-ma.gov.	86400	IN	NS	ns.liquidweb.com.
+townofmaynard-ma.gov.	86400	IN	NS	ns1.liquidweb.com.

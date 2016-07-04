@@ -1,0 +1,4 @@
+knqlh2ade7bpii0mo1gssjddfeft5rnt.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. gF8r1zJDpe6IlLrBAfHlNjyQpyyFYf3qpBdmBeZA7qj8uCOEEhmMZqss0gkeH5OYOgIJlbXWWJlNpuhfsNR/kjA4sIK5t1H+LBehbL93s7nB+NexQYTvOj6de2gFLH1MwzUOTcWtmbdjQccZTtWVFOQ9Ipq+1Dq3CFnxnpmCsqk=
+knqlh2ade7bpii0mo1gssjddfeft5rnt.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  knshqi3prbtis0njp5jk91smfqhpg7e9 NS 
+portagemi.gov.	86400	IN	NS	e0.ns.dataconstructs.com.
+portagemi.gov.	86400	IN	NS	e1.ns.dataconstructs.com.

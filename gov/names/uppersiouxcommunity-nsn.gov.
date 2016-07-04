@@ -1,0 +1,6 @@
+rqtt73e956l1g0tos1o6untp5tb1gl4q.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. UtP+Tv514LEEiKEU7vczpS12a4PliGqjhki29AEhh+ey4f7YIM2h5YaiStcvJFLORdW9LmsJDMDTgxrgo/UvrmYjMFQi++q3Et755zFomMRoo5cs85ZXJtUb6XuPZqSLsdVqo9ob9pnXEDasVKMiiMeb3fWWseV2eBlsZpjeIZQ=
+rqtt73e956l1g0tos1o6untp5tb1gl4q.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  rqtuln25b17ircaj8nqpfoepe90etndj NS 
+uppersiouxcommunity-nsn.gov.	86400	IN	NS	ns1.dnsexit.com.
+uppersiouxcommunity-nsn.gov.	86400	IN	NS	ns3.dnsexit.com.
+uppersiouxcommunity-nsn.gov.	86400	IN	NS	ns4.dnsexit.com.
+uppersiouxcommunity-nsn.gov.	86400	IN	NS	ns2-3.dnsexit.com.

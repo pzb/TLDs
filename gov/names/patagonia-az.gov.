@@ -1,0 +1,4 @@
+patagonia-az.gov.	86400	IN	NS	ns15.domaincontrol.com.
+patagonia-az.gov.	86400	IN	NS	ns16.domaincontrol.com.
+t4i41u8blm93s5pipvm9in0r26gnvvq9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. a4vwwuHwYFaiYJZdG7o35QTAuuir1Qo8ZdDBG/FxFmpB5o1APWwS4/E8p21BS/4tqcpf4BWlQi2Y+AnMhdBxwrY/xjF+cGjgD7P+1HUuyizvdXz6H7fnwx5u/RpkS5PRPajL7ghjZHV2l7/uWfo7WEOIPw5vKuscfq+DuwsgU/0=
+t4i41u8blm93s5pipvm9in0r26gnvvq9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  t4k4lfej4ncg8vt6cq23f378t66dv7qj NS 

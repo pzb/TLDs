@@ -1,0 +1,4 @@
+05qnb40392o08i9k0gs05el41tb3tim4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. U48vGFn9kne5WlkMXu5m68vprCCT9+C2a9Rkc/wFPcSEQPmT7YQLWuQ8p8bwtfbNiNXRwZ9mcaiAME+i0igRoegRWEEddIMIk2QJpTxmVaaJytGE4Ip7VlOn/4IglcVWf/tx6wpUNEY69+xh+hkHN3qiluIUpcosV0mSZ5lL1og=
+05qnb40392o08i9k0gs05el41tb3tim4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  05viorvcvb2kimdv96o6dvjajmad66p1 NS 
+coralgables-fl.gov.	86400	IN	NS	ns1.coralgables.com.
+coralgables-fl.gov.	86400	IN	NS	ns2.coralgables.com.

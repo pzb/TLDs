@@ -1,0 +1,9 @@
+mms.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+mms.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+mms.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+mms.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+mms.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+mms.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+mms.gov.	3600	IN	DS	59387 8 1 499417e8df12b591d3520eeff38affa0a2b7a40e
+mms.gov.	3600	IN	DS	59387 8 2 08335f3cc8432fc4efd60ab729e1243dd223e431e1028e77fcec97a04f090b81
+mms.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. mrHF8Rzo7OpVABygsDj7o9hnw8xUeHxhz7pMW53Vu7RTSGTow4dUwxpCjag7J+MZVrgfNak3vs9hbmAfK4cL2pjj/DPQLkWG+3APmtqi+1xo+ZPpwWHtDxY1PuWjTzmxcGL1N0cHpC8Dk7Ev6QiTYJqTRTFudaFpSs8e1HvwWlE=

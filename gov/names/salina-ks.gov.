@@ -1,0 +1,6 @@
+salina-ks.gov.	86400	IN	NS	ns1.ourwebhost.com.
+salina-ks.gov.	86400	IN	NS	ns4.ourwebhost.com.
+salina-ks.gov.	86400	IN	NS	jobs.salina-ks.gov.
+jobs.salina-ks.gov.	86400	IN	A	66.210.13.230
+tk7b21ose96ejccoqvp6m5churce7qt0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. tmR25B/K1BYjkpo+9Gy3vClskTitFrGHm9lQdV673jez71B7PvtrEpmRSuDwzgriCsdQTAj7SM0kNAXGXUIOToOc1pLzJ7wfDrmkQsA8wNajm3WnWkp4s4Ml6jgmo2Hs4OqrV4dXZT3Zz95ODD0QV0XlHzeWSpO+HDYGza2rHsI=
+tk7b21ose96ejccoqvp6m5churce7qt0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  tkb2fpe199fe7kjqoipdmf3m5eqt35vk NS 

@@ -1,0 +1,7 @@
+ns1.gpo.gov.	86400	IN	A	162.140.64.100
+ns2.gpo.gov.	86400	IN	A	162.140.252.180
+openworld.gov.	86400	IN	NS	ns1.gpo.gov.
+openworld.gov.	86400	IN	NS	ns2.gpo.gov.
+openworld.gov.	3600	IN	DS	11286 7 1 bb7a9db2f6539cab753eac390ca6afab98008ecb
+openworld.gov.	3600	IN	DS	11286 7 2 2caebac260960754ba40d3bee36945464505d8a8fb7f9ef4c8e884264f489658
+openworld.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. mWE7nJ0EDTUsjJLz9W2x5BKsoBMtteZIwcaEAaCPndT+r6di8Dl/9b/eYp8Sc68xv8kcLU1ldozeunmFukghrc0qWoBu/7HkKb0jpq06D9aFAzxXxyJNj7HO/51f0xyKa8QrmOy6/RYhyxDnVY4qdbI4Ry061Ft6JlFVAR5ZNkA=

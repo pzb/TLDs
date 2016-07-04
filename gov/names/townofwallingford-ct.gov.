@@ -1,0 +1,4 @@
+p2jt5hgctai8au2rg06j778ngio8ipd4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. AHYuwb9YcVeSssGmBEVWySqOORdOK+Tz2RH26Srqz9qQIOpZ565AugRko0frddi9b0uN145C+dt9N0YQfQh8rSgnDSq84hasD9+33b8s0b4a+nK9wC3GMjnOYjL412pefEf92gUC0jbMS84qfXj6Ecp6fE4CNVSrVMgIKXc8zsU=
+p2jt5hgctai8au2rg06j778ngio8ipd4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  p2kf9fk3aebgq0uf02bm3cfi3ir0of89 NS 
+townofwallingford-ct.gov.	86400	IN	NS	topgun.exposure.com.
+townofwallingford-ct.gov.	86400	IN	NS	patriot.exposure.com.

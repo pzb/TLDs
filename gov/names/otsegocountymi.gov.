@@ -1,0 +1,4 @@
+jqru8f3ivgo66ateah428a588lfd1ssq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. dDRIEHJvn78zWTdA7prk/6w8TvEY5P4QF+r9nBLqgrq3tnCQ1/RjWX4lRfOHeT15V1uOhUdvCl/cHnsDB6Y3X1FJS36zryVry0P80xwUnFgquq7a64qBwlE1H9qOrTP3Cb/0Kq1Vfhv60PL6Z2DuWPCj1yhjXClm4/tb6nuc+jk=
+jqru8f3ivgo66ateah428a588lfd1ssq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jr3l8i1rgjuv5pttvbg4i2dn3n9q5lm5 NS 
+otsegocountymi.gov.	86400	IN	NS	ns2.gaslightmedia.com.
+otsegocountymi.gov.	86400	IN	NS	harbor.gaslightmedia.com.

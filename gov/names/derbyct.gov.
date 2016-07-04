@@ -1,0 +1,4 @@
+3mt8bft8tnjfdg99pg8m9c3mp8329eu6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. EiCusDDcnqhwUvSrlWX0lQLytzhDP5SdtyoA5ORNyZVbOo+OuPNQ7347qHz2nvJ8HquDYQ02J24goiu9xbLTrOiz2aWDagCrLivf+qjIcUteath50cILvi5KY6zn3e0iAOui2/jU2ioK9IuAcIUlFwfBHSVsrrz7Ko21clDXSfg=
+3mt8bft8tnjfdg99pg8m9c3mp8329eu6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3n3d61snub4tcbvj89ihqvsp6hdgh5j1 NS 
+derbyct.gov.	86400	IN	NS	ns8.zoneedit.com.
+derbyct.gov.	86400	IN	NS	ns12.zoneedit.com.

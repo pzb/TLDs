@@ -1,0 +1,5 @@
+ijlh1obckkn0m0po3okkmbc74teb2065.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. LndEzEpPF1WvV+VGRZ3ojoRo9ut0+J1Po9THjOQ0K7ugLMVjnREp80pzJUTxvyEn78fciR+O3y9zRVGiNfr2vMdqo3EmtrvOqZsOKNiVW1jloTB2zM0ZEGq2adPQW2hZ8YCAUrYk/hWlvwIS2x4w53VlIC2saaVTffqyl8BSSa0=
+ijlh1obckkn0m0po3okkmbc74teb2065.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ijp72314ke4sfdubedfnthp75v7j3bsj NS 
+webster-nh.gov.	86400	IN	NS	ns1.infotech-maine.com.
+webster-nh.gov.	86400	IN	NS	ns2.infotech-maine.com.
+webster-nh.gov.	86400	IN	NS	ns3.infotech-maine.com.

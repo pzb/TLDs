@@ -1,0 +1,4 @@
+59lciok2uoqskc8p8cp0d4ccq121346m.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. atGbMN1sB+RApzNoHk4W37K/3xTHVHV2VRz5OKYT38LSbFeAIQQr/qZoBB97Eu3Mz8zwnZx24DRZhctzFHGecJbfSgnQ23hmUC5fE084ssQ9X/itCkfKYx5JDMsXKWewknJB4sfPIH2HsAgndQaTTP1e20HPHALpI/uQrDDr9Fw=
+59lciok2uoqskc8p8cp0d4ccq121346m.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  59lmnbq2mmhgbtldsdftjuv3b4rmb0pg NS 
+open-dc.gov.	86400	IN	NS	ns1.mediatemple.net.
+open-dc.gov.	86400	IN	NS	ns2.mediatemple.net.

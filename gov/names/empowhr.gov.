@@ -1,0 +1,11 @@
+empowhr.gov.	86400	IN	NS	ns1.nfc.usda.gov.
+empowhr.gov.	86400	IN	NS	ns2.nfc.usda.gov.
+empowhr.gov.	86400	IN	NS	ns3.nfc.usda.gov.
+empowhr.gov.	3600	IN	DS	33729 7 1 e949142f5c02fab2d48c38a2f59e017d3244aa7c
+empowhr.gov.	3600	IN	DS	33729 7 2 ce5d60c147bb31df00d0171450027f7623d46411ed1cb712109ba5d8ead7bf0a
+empowhr.gov.	3600	IN	DS	62673 7 1 2ae16312b19792b68ecc6eb6e39680554c59d73a
+empowhr.gov.	3600	IN	DS	62673 7 2 7fa354d4ad285be3860302d786523e696da6feb386c4ac82d74a7008a5da7ca2
+empowhr.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. qbSglmeUx77FHUAUhf9Rveqi31gJpHbW0QHvN1CiDfjAwc/YGxHYxVyzLQ+ofyVNOYX9NtjLCEwMdHA86aAxfNlP5mOT4b5ys+9G5QJX5zUzVrp0xIYs2gKHBrFD/JfHa/q0MWHzd8lsiNm3eNzQSO0uwYZH2pUyUOKYaJv59T0=
+ns1.nfc.usda.gov.	86400	IN	A	199.139.193.199
+ns2.nfc.usda.gov.	86400	IN	A	199.134.107.68
+ns3.nfc.usda.gov.	86400	IN	A	199.141.107.68

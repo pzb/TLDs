@@ -1,0 +1,4 @@
+iqotroo9u4li6nsgmv8ae2m55gp6n410.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. HFmMN7Zte3cATESdsXiX52af3cXoAhpyl9n824voMEjZ9M2sq1K2vRDtCZEiRaNe9B2BZNvZZTnQFJ0kHK91KdNda8JEn4SGZIE8q0tF1LyOkeeRXf5Ojhtt5gd2JfUsFlAemvRZ6pr+5XtqFF/yP05rvK3JYtZh3hh4L3Ts39A=
+iqotroo9u4li6nsgmv8ae2m55gp6n410.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ir0g5bmrhfv5pdp7gd6usdh5rmgcl14s NS 
+townofsmyrna-tn.gov.	86400	IN	NS	ns1.townofsmyrna.net.
+townofsmyrna-tn.gov.	86400	IN	NS	ns2.townofsmyrna.net.

@@ -1,0 +1,10 @@
+mdeogoajth4gt9ql07q8f33li6j5rehn.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. rg71PBHQv+OwauHEVCJKjvmCwmb9sBaHZ+wKaUH7d7GhwzKs+c2/8bwylqCpcVbFQoY4vKMNRz675jPhdZJO/vMRwx8EURTmJ0q9nrm7DbS6e99HOF028NRMIqZMJzuAWzWtnSfu2E5ltB+oO/fLzGH9ncM2x5rYVWbD+QcwfAc=
+mdeogoajth4gt9ql07q8f33li6j5rehn.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mdl6i1ifovupqkg62ktgut9vnhtle10g NS 
+scdhhs.gov.	86400	IN	NS	dns2.scdhhs.gov.
+scdhhs.gov.	86400	IN	NS	dns3.scdhhs.gov.
+scdhhs.gov.	86400	IN	NS	dns4.scdhhs.gov.
+scdhhs.gov.	86400	IN	NS	dhhs-dns1.scdhhs.gov.
+dhhs-dns1.scdhhs.gov.	86400	IN	A	167.7.227.61
+dns2.scdhhs.gov.	86400	IN	A	167.7.227.62
+dns3.scdhhs.gov.	86400	IN	A	130.127.255.206
+dns4.scdhhs.gov.	86400	IN	A	130.127.255.207

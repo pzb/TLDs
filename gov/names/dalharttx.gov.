@@ -1,0 +1,4 @@
+dalharttx.gov.	86400	IN	NS	ns1.dnspark.com.
+dalharttx.gov.	86400	IN	NS	ns2.dnspark.net.
+uac1vu6e73adorpuara3f1ab8atbb1aq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. p9Nm6eB6yqIE0Jo4OLvQRnfU6BBDd/+8n03C2mR0EUr4cTDeGT8gweI0BQ+HybYs8Hdufy90h+t75lg1FvHilwk1Fg3y/4GjlM8oT6WhYYA1UaB4uHpqgrhPHv5x/eHIT0oGs0S55xxP3ypWbgAbjrQaNjkQ/xZAD81ShTOFMAw=
+uac1vu6e73adorpuara3f1ab8atbb1aq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  uao5oq7f9jvrskqbk12mvfgq85jq4co4 NS 

@@ -1,0 +1,14 @@
+rh202ns1.355.dhhs.gov.	86400	IN	A	158.74.30.98
+rh202ns1.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2a
+rh202ns2.355.dhhs.gov.	86400	IN	A	158.74.30.99
+rh202ns2.355.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2b
+rh120ns1.368.dhhs.gov.	86400	IN	A	158.74.30.102
+rh120ns1.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2c
+rh120ns2.368.dhhs.gov.	86400	IN	A	158.74.30.103
+rh120ns2.368.dhhs.gov.	86400	IN	AAAA	2607:f220:0:1::2d
+mentalhealth.gov.	86400	IN	NS	rh120ns1.368.dhhs.gov.
+mentalhealth.gov.	86400	IN	NS	rh120ns2.368.dhhs.gov.
+mentalhealth.gov.	86400	IN	NS	rh202ns1.355.dhhs.gov.
+mentalhealth.gov.	86400	IN	NS	rh202ns2.355.dhhs.gov.
+mentalhealth.gov.	3600	IN	DS	58479 8 2 3938818af2718cd09b0cd5bc383562db674bd8abc490bee9182e42f5dee70f80
+mentalhealth.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. YhBfagy4UyCyHUaYmNZYfBsstGYd8Nod1ualHJkvrqBn+UVY+7c6Me1cwJxrCvjMh3M0QNkAGebLwSkHMbMk60H279TH7ZVFnmDrzmavJgYcn+WyZRPD3V//B0UumwZ4YB1zIGgM1mOZznyZnvGJ/xRoCM+QwpHDSq+sCTJgzmE=

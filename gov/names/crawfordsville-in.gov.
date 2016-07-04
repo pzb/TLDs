@@ -1,0 +1,5 @@
+8tncgmvg9503mjqf9dqbegk7pv2vajn7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. T4Frkh208k72smGYCh/1xLK/nabNdEjUVH9IcBg8LOaRohSyuPph+xDYll91yTAnfGq/G/Ga/lWTLEzTROLgSypagu0NEjHB72tiMp1wf5bwp0OQY+9jygCpRkmcZlPuXTVtPcm+WPK3Li1ZzZynZFKhLiPTk0xcpVs/eDuXLAw=
+8tncgmvg9503mjqf9dqbegk7pv2vajn7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8tol2km0466c08fnnpcv4oosa12enqk2 NS 
+crawfordsville-in.gov.	86400	IN	NS	ns1.wintek.com.
+crawfordsville-in.gov.	86400	IN	NS	ns2.wintek.com.
+crawfordsville-in.gov.	86400	IN	NS	ns3.wintek.com.

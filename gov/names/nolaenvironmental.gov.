@@ -1,0 +1,9 @@
+nolaenvironmental.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+nolaenvironmental.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+nolaenvironmental.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+nolaenvironmental.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+nolaenvironmental.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+nolaenvironmental.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+nolaenvironmental.gov.	3600	IN	DS	29305 8 1 d7834642ede77b9115e342ae3682044e350b32c8
+nolaenvironmental.gov.	3600	IN	DS	29305 8 2 266ed91a7d58ce58de50bfbe0be2bb41f86c8f84b7958a2f0463c60b8c1953eb
+nolaenvironmental.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. C7evRxVS6m/gJ7S3r7fbX8YFZ2Mp2P5HR/9OdYJ3GkKmQLpFIF/ERfZjckSQU6kD8G0kuaam+Q1MBu+DswLW7LQkAvnHOo278Ga2vz2uz48f9tUKJoT9McjGBxfgnrgVYlmkZOhoyFZXIZ6YtsL5m3xtr8eApAowxdB8fuh1CvY=

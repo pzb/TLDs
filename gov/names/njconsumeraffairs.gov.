@@ -1,0 +1,4 @@
+i0kj573ulgsq7d1n92u36uhlaaql5tic.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. UAIvwVS9S6QCDjoIcpYrDTbNbN3a0LDCfXIlQ70akVo88yfwsEF8ihzlBvw3WGjOzEVvnj4ZagcU7jwk8pXPxOjOi8mUHQDk5sF+IBkNfT9UAXj2CC5EhAZSlE27sv7WVJ4TsnprL2ZUIqYzZEBc1mTEH0dZQYJmPT6/ivDGpHY=
+i0kj573ulgsq7d1n92u36uhlaaql5tic.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  i0ql3rnroufc1jd6urokkvcobkihpj6n NS 
+njconsumeraffairs.gov.	86400	IN	NS	ns1.state.nj.us.
+njconsumeraffairs.gov.	86400	IN	NS	ns2.state.nj.us.

@@ -1,0 +1,9 @@
+anstaskforce.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+anstaskforce.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+anstaskforce.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+anstaskforce.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+anstaskforce.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+anstaskforce.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+anstaskforce.gov.	3600	IN	DS	24359 8 1 32ed263c3e8c2ed3e0b2cac548b6ccf14a1b258b
+anstaskforce.gov.	3600	IN	DS	24359 8 2 c9ea5bb1e6202d2924663d7c0c41a3a6fe042a68db0efaa57006bdc59690baf2
+anstaskforce.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. nyXD2HNf77pS7/xDAe1wAxC/cXSLbVrErSZfF7S/3cvNHAfawZNb8xyj576o9gJ2TRLUZtCdvo/B3UT8nDnwM9KbepikcfFEIaqwJChP9b8tDuD63Eiv4G/53b2JwQWzahxdJQMbF5Jc84IXdMx9YwNaH5+NF3WySAftuwoNEqI=

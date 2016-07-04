@@ -1,0 +1,6 @@
+c2t0ao0n73gksg25okbvou3g5ckqgp4t.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. k/UfySDs5DchFJ7+VS5TM/XXnpwiedRuKYZZAofUi928MgopX9xGn2UW6CzOalnxRby+zpkTbkXdIymtKY9jIv7UaDAdJ118R5gJGZNBRZEgCsv/4dZUQ/N2aKuIuv3y3qZtj4ia/ojRatwqeugZXlaJzgpI2aBauPXJF+Ig9qc=
+c2t0ao0n73gksg25okbvou3g5ckqgp4t.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  c329bt0rqv86676vemd5qn5jegv1th5d NS 
+williamsoncounty-tn.gov.	86400	IN	NS	simon.williamsoncounty-tn.gov.
+williamsoncounty-tn.gov.	86400	IN	NS	fezzik.williamsoncounty-tn.gov.
+fezzik.williamsoncounty-tn.gov.	86400	IN	A	72.237.174.25
+simon.williamsoncounty-tn.gov.	86400	IN	A	72.237.174.8

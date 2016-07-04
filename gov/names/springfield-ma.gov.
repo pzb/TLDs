@@ -1,0 +1,4 @@
+itcor3m95qq9b5gmnp3rcq3cpsncn2tu.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. iQo9tKKF+L4cbjMsCzXziA18SC5LhPy/xZUP48eI8lCH0UR26zbH7xvCmt1udtFjxPyLTL/FqOsxrXhmqEfhHNxi1L709El6C007/KiqvT5mHWCA0kzPtqLW2nTjDb4re0hhEEup+i+QHHBn7HbErWJyEqijR/ZKsuOOckWxxXY=
+itcor3m95qq9b5gmnp3rcq3cpsncn2tu.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  itd5eu90a5npf7cav7asteec290r6sca NS 
+springfield-ma.gov.	86400	IN	NS	dns1.springfieldcityhall.com.
+springfield-ma.gov.	86400	IN	NS	dns2.springfieldcityhall.com.

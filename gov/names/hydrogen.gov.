@@ -1,0 +1,9 @@
+foxbat.doe.gov.	86400	IN	A	205.254.143.110
+foxbat.doe.gov.	86400	IN	AAAA	2607:f368:1000:1000::53
+fulcrum.doe.gov.	86400	IN	A	205.254.144.110
+fulcrum.doe.gov.	86400	IN	AAAA	2607:f368:1000:1100::53
+hydrogen.gov.	86400	IN	NS	foxbat.doe.gov.
+hydrogen.gov.	86400	IN	NS	fulcrum.doe.gov.
+hydrogen.gov.	3600	IN	DS	27937 8 1 28ecfc898502f73cea198d1c1a8cadd10c8a8393
+hydrogen.gov.	3600	IN	DS	27937 8 2 4e67111aff92d13b471b372f4b2ba5622e18bea8d3354e8f8dd796b77c39d888
+hydrogen.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. op1ZQMhB1eo0MSKbcPVxt3OfprAD8Ov0ZeyUNuwtn6XMviMuPrxKy52bT5QlnVBT1o1hAoN5JxAOorTBiBt7efuv2KDYpiFt2DNdSWe2EwjTDOlp2s1x+o5qtIRaVFlilIIBJJnR9FVQq5wPcwwxERg8c3GIK4ejq5x16TEjVgU=

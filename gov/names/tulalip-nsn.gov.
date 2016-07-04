@@ -1,0 +1,5 @@
+7mpn57paibi9bsjldcqimuihu7gu8a6d.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Me2DgorlVU/Z5EzhCG6SvjaF11Wqyk8XCxxLxERyc2hhLa7mhRCPXOYS4FmLF7+vQ13pd8O0FBCzsuRu9KRGXSNOVMNhaZ3h8/zYD1u9KqEBSRRMfGK0Wk3LQHt9Gk0/ZMLixXDXza7OwCLqx6X2AB948RwjEkW4RD/WB9QgrKo=
+7mpn57paibi9bsjldcqimuihu7gu8a6d.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7ms2ku8ajahkvfs0jab6qq6f3ue8gjrv NS 
+tulalip-nsn.gov.	86400	IN	NS	ns1.tulalipdata.com.
+tulalip-nsn.gov.	86400	IN	NS	ns2.tulalipdata.com.
+tulalip-nsn.gov.	86400	IN	NS	ns3.tulalipdata.com.

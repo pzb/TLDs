@@ -1,0 +1,5 @@
+gqfu1ikp8276pp73uhnmfoq0dcfbmf53.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. iJlNWaMsRDWdOnCmqSbDMxqWlroFEn1j+BY4xJepIw+7EOX8S0OjYslnPA9gUeC3uwRIVEk6VgwTPTE5y8Yy8fXW8hK/GyXlvCasNJpTcdcGFHUSvplD8xcrQDA+n6N9kT+28cZaoII31Kt3TCFqBlrSpyj1vw9BMb1Fj8QYA8U=
+gqfu1ikp8276pp73uhnmfoq0dcfbmf53.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  gr5d1j6mnbv1jvteia27k8vgk4qgs4vv NS 
+indianolaiowa.gov.	86400	IN	NS	ec2.nolasoft.com.
+indianolaiowa.gov.	86400	IN	NS	dsm1.nolasoft.com.
+indianolaiowa.gov.	86400	IN	NS	hive.nolasoft.com.

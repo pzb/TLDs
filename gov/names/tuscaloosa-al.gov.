@@ -1,0 +1,4 @@
+iab63hk5309to5vi9s1r1upjvsj52ucs.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. uUpgJLWhI6SWegferc9A1HBBeIrYer74gSia3wSHkJ2M8Hsk+0RnT48MhV6Si85Gsz3LWhYuM6S0z6ACy/g8E9Qrhl1IxdV9L5YnGy4kTsGAOw/o1tIii2PQxxl2K8+8kH2olRYn9Kbitp8nggOHSwEbAfHbBQjX3a8LW7oGhN8=
+iab63hk5309to5vi9s1r1upjvsj52ucs.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  iabutrcr8vp5gmmbbpsh0tumjtp5ig4c NS 
+tuscaloosa-al.gov.	86400	IN	NS	ns3.teklinks.com.
+tuscaloosa-al.gov.	86400	IN	NS	ns4.teklinks.com.

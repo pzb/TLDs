@@ -1,0 +1,13 @@
+safecomprogram.gov.	86400	IN	NS	eur2.akam.net.
+safecomprogram.gov.	86400	IN	NS	usc2.akam.net.
+safecomprogram.gov.	86400	IN	NS	use1.akam.net.
+safecomprogram.gov.	86400	IN	NS	use3.akam.net.
+safecomprogram.gov.	86400	IN	NS	usw3.akam.net.
+safecomprogram.gov.	86400	IN	NS	usw4.akam.net.
+safecomprogram.gov.	86400	IN	NS	asia2.akam.net.
+safecomprogram.gov.	86400	IN	NS	asia3.akam.net.
+safecomprogram.gov.	3600	IN	DS	23422 8 1 97167ffaa67480a47ba98a117d19aa8d54b2450a
+safecomprogram.gov.	3600	IN	DS	23422 8 2 3612b0ba4b1ab9d83405809097686e56811cfa2959e1714798565ce737a03926
+safecomprogram.gov.	3600	IN	DS	34861 8 1 ec730dba46219003743f88e8fcc598c539daf589
+safecomprogram.gov.	3600	IN	DS	34861 8 2 d71424433723825366d946eaaf528ba187cbbc6d6cd0a31dc706e7480eb73548
+safecomprogram.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. YVPVq6CLzXgmIzWdd95psX0oOBDGEJO+RZahD1V7krBEInCclr7vtvSXF6A+u4TLNIYhS8YOnW4QBl/TS9D80R6F89RXqsw0FKaL2WJNSWMsHnHzGuniPEfubycWqzKq5KN8pYmIzW/xSXSkDdQsD+xaQWxRx0FuauUY7T3TmLA=

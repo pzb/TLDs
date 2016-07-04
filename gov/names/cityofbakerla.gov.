@@ -1,0 +1,4 @@
+cityofbakerla.gov.	86400	IN	NS	ns1.c2dinc.com.
+cityofbakerla.gov.	86400	IN	NS	ns2.c2dinc.com.
+j0i78iipdaiofje9rdu050n87av6tpbr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. h7AJ99vcB33YAvr1+sbk6Lbe7eaqpgsMtoGMJ4owqa/gEtn5TfBbIZ0EJiPj8tnu5Sa2daqzicF7/ELwtXEUMC7YsmKw55PU8O5xQExXMrYIoOZdBynq6MyLLvx2IqoawpDRRdfG2ymlAi0f7IeSToUNz3b5MssQyx3hMLiceoE=
+j0i78iipdaiofje9rdu050n87av6tpbr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  j0lir5d4m8b47cp8gh3k0sj3enq8i4qa NS 

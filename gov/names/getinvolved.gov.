@@ -1,0 +1,7 @@
+dns01.cns.gov.	86400	IN	A	152.180.8.143
+dns02.cns.gov.	86400	IN	A	152.180.134.207
+getinvolved.gov.	86400	IN	NS	dns01.cns.gov.
+getinvolved.gov.	86400	IN	NS	dns02.cns.gov.
+getinvolved.gov.	3600	IN	DS	60090 7 1 aa9babc24403c286259dcbc5c7557598dc638f1b
+getinvolved.gov.	3600	IN	DS	60090 7 2 3003a478defd75615fb9e52f264d9cf1e6bac933db5a5b1f69ce697276b91cee
+getinvolved.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. gf+szwwTVDp4L4992l2TYqlgngmSIoTrgmubV8F7T2Cjt0pYX3g2ojreAGSzqP5pxqta2/cV2DiW1kRkb5wa2G2lugedDIKGAuqSM10P1o5TgyUdyM2SJtsu4iLV4ge+vYsINDfCdB1f23bE2gYhf01wWq4kSPimIkRceTdvYDA=

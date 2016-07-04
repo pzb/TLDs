@@ -1,0 +1,4 @@
+8nm4gc5arnpbp9m38s23mp6jqr3k3ufk.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. oy/19K7ogo3rFOdu5hd/5GwnqpDpdYQl1O/2PX0THnvStCeNq1aWBg2rDIcCcLcGwSbYgDd4ZQH4CtCVKgWat+wLYkwad8dP0bPW8cevet09aCmh/zQDaAf/GjKFVEcaXK4Ht6JauElrw9rdPUnjTZBNOLUlsASxXJpKRylseOk=
+8nm4gc5arnpbp9m38s23mp6jqr3k3ufk.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8nn9bjlvhbgfop7b0159ahjsauk39d37 NS 
+fargo-nd.gov.	86400	IN	NS	ns3.ndnic.com.
+fargo-nd.gov.	86400	IN	NS	ns3.state.nd.us.

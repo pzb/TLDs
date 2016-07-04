@@ -1,0 +1,4 @@
+corningar.gov.	86400	IN	NS	ns1.springdesigns.net.
+corningar.gov.	86400	IN	NS	ns2.springdesigns.net.
+oenv4g1a84l9ugjctv0107044n1a1m13.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Mh8nukchfHnMVg+YDpyZxqBd0IHb8qu/x4CwadJJerytCMOEMztr27s6laWPW3/U5InKiFSCJOHCCJADP3bhYJnvCLLM0466P7l6BDhAs9aPRipBj20sEG6n2Qv+CUAZAwD3jBf1Sn8fNLpwz1tUmHKCAhBc2vRLdlGwzfetAoc=
+oenv4g1a84l9ugjctv0107044n1a1m13.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  oerl72649022vfgm0e2jb9eg9mqk3eub NS 

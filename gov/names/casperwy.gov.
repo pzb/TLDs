@@ -1,0 +1,4 @@
+casperwy.gov.	86400	IN	NS	nse1.tribcsp.com.
+casperwy.gov.	86400	IN	NS	nse2.tribcsp.com.
+lc7450jv8ul7j2p112c8qvl6nr8pa8dd.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. A7imh0U03ULnrxz0fTAfwRbY8emkpnJLp6HzY9cpGxDdigER1YSwhd8tOFfhBlFUW/mTYeq0gRqqiynp0Ax7P/fHxBGU4/cDQDNYa/amU3LlfwmFMXMlT442UeMR/YYvzxNbc0TwrimYOpJP91YdAnDlM0TU/VYdoK9/3Enohcg=
+lc7450jv8ul7j2p112c8qvl6nr8pa8dd.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  lcen6q216eaad1c26997duungp45kg6g NS 

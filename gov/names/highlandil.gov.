@@ -1,0 +1,6 @@
+highlandil.gov.	86400	IN	NS	ns1147.dns.dyn.com.
+highlandil.gov.	86400	IN	NS	ns2194.dns.dyn.com.
+highlandil.gov.	86400	IN	NS	ns3136.dns.dyn.com.
+highlandil.gov.	86400	IN	NS	ns4166.dns.dyn.com.
+koulkggmt1g8cpjhl09l3j0phhut26mq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. MGEUF6s2Tg23SberJpkrHdmJDOFa78pAsX2y9XkNct1Z/zePFLf1qX7uiA5BxGEeU/O0Os1AuBXfM9Maot4/aMoVYnHX8CqKniCswbIxtIhjMiOkJnNKO9g1+/0ox4DH+3J90nBxSCX0NBOAsCcrk2L7TjeCIJosMVNowil3yJQ=
+koulkggmt1g8cpjhl09l3j0phhut26mq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kpn2pocomv9eprbb55ju58gmj00fv9fl NS 

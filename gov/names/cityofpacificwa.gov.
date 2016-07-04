@@ -1,0 +1,6 @@
+7tmtrf6rjbm7f3nh1sm5l3uoo1cf28n8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. AJccwRlctBnD6ztPjD7S/yjhMA6ULQufbqAPcWV2sl0XeHDcjsJNkwSRNspG+yfaBrAzFRwP/y39l+GrqfjR2ftjQkUYRKgA2SpbSNRIInfhJBT8kjB8pnW6ahkyFpOtLtBm0aAo/WGJsUplwUyQLtctSNInklADmL97ZTvpMzU=
+7tmtrf6rjbm7f3nh1sm5l3uoo1cf28n8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7tppiqloogm8qic6mk8lk49q9r5rh9hs NS 
+cityofpacificwa.gov.	86400	IN	NS	nsone.kingcounty.gov.
+cityofpacificwa.gov.	86400	IN	NS	nsthree.kingcounty.gov.
+nsone.kingcounty.gov.	86400	IN	A	146.129.240.198
+nsthree.kingcounty.gov.	86400	IN	A	146.129.240.204

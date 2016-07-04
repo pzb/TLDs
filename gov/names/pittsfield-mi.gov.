@@ -1,0 +1,5 @@
+pittsfield-mi.gov.	86400	IN	NS	ns1.lnhi.net.
+pittsfield-mi.gov.	86400	IN	NS	ns2.lnhi.net.
+pittsfield-mi.gov.	86400	IN	NS	ns3.lnhi.net.
+pv11p0hdmct2ik3rmhjtd6k04rba0cao.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. qnnXKNOg0uqHUyRwU5lD/5ExxSPPH8CxtsmTn7/NgQWbIxbO3Z/jtuZbiFYWa7YgMLazmaTUbXwNcuZ+3D9JRk4sAMitAsmxzT+xsWCCpa+CVh9wytglMvZlIcPVb3JSWKlkx8jCA15a/P8K8TWN4bfXB+WeRUyCncKfXSCUpag=
+pv11p0hdmct2ik3rmhjtd6k04rba0cao.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pv1l8uripuvj98bso5sjl2pmf56re41m NS 

@@ -1,0 +1,6 @@
+ns1.gpo.gov.	86400	IN	A	162.140.64.100
+ns2.gpo.gov.	86400	IN	A	162.140.252.180
+uscapitolpolice.gov.	86400	IN	NS	ns1.gpo.gov.
+uscapitolpolice.gov.	86400	IN	NS	ns2.gpo.gov.
+uscapitolpolice.gov.	3600	IN	DS	2511 7 1 6b16466fad3e7c8342751d55f9771ab019b24aca
+uscapitolpolice.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. S7bT8Oyjd9TO5ELMQpvALrRQ6RRuAcFa1xSih29OKfx7NPOLJ0RJ4pIJB6iSneDlFSwU4ILIkNqC8l3pLH7dm2ipQR0X2PA+r0htwysKunchBTHGOJ5g+GjhDxX3UiLIF9JlTVQs01Fy1Z5P6qTn0Kt83X1fITZc3ajd3Id+XXw=

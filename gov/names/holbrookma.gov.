@@ -1,0 +1,4 @@
+aj0ma4r5p3hk13ojb0sd39p2smoqsu6c.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. TvI9Nw5pbZW2rbUOMITZ8J8eQUoObd3WWMxkvSRrLuePjRpYq0IBT8bGk241w9cAK/w2u4/NX5L2nP4lnTx3ykTMO3Ib7/wrAt00VcBnDSuQTlnqMOA67yNaBXW2Km8cqZzWCaG5Q5y+HqtgkWOJh8EVZSKxMWF80WUsCC8bai8=
+aj0ma4r5p3hk13ojb0sd39p2smoqsu6c.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  aj4fgdp7dotaq286up4ka7rle5183ubt NS 
+holbrookma.gov.	86400	IN	NS	ns1.infotech-maine.com.
+holbrookma.gov.	86400	IN	NS	ns2.infotech-maine.com.

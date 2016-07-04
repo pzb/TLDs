@@ -1,0 +1,10 @@
+milwaukee.gov.	86400	IN	NS	itmddns1x.milwaukee.gov.
+milwaukee.gov.	86400	IN	NS	itmddns2x.milwaukee.gov.
+milwaukee.gov.	86400	IN	NS	itmddns3x.milwaukee.gov.
+milwaukee.gov.	86400	IN	NS	itmddns4x.milwaukee.gov.
+itmddns1x.milwaukee.gov.	86400	IN	A	216.54.131.209
+itmddns2x.milwaukee.gov.	86400	IN	A	216.56.88.112
+itmddns3x.milwaukee.gov.	86400	IN	A	216.54.131.210
+itmddns4x.milwaukee.gov.	86400	IN	A	216.56.88.113
+ov60g5769i8tpfqnch7jsshbrbp6pkjb.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. T9Q2ClgSla7gARudTg3nkfD9ukTQqnCfHF6CLys8jgYEeVVaFepl83Aimjtjb/HxsnuZ/VL3J7lqKVzXcyXxoWiv2c28AqfyMycSnLI8011imq2od06+pE9IhJb8Exke+6p1BddbcbJh1tcW3EwGSRfhDG594c5V9LPi3TOJ6Fw=
+ov60g5769i8tpfqnch7jsshbrbp6pkjb.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ov9rlc0ve0853n9o30rb9neb47oqccph NS 

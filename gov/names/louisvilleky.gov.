@@ -1,0 +1,6 @@
+k8d9um6ss5338lpk9lka703kj21p55o4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. n6goC8YmNtCIicK77sGwfbbhmdXHudTIstADAl8LRZ2iKpCY/Y87rZEd2r0kC+uroqAQTjSVsKgNhf7LUQ4NtY/qcdnOs4jlBF9JO8Cqe4l5wUSALc171DXMVBosjAEK9EU0AkeG8k4H9/lUBsAJ50z60AtjC1bBV8we6BW2rz8=
+k8d9um6ss5338lpk9lka703kj21p55o4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  k8df428en3lbppu77ts103km5jao4oh5 NS 
+louisvilleky.gov.	86400	IN	NS	dns1.louisvilleky.gov.
+louisvilleky.gov.	86400	IN	NS	dns2.louisvilleky.gov.
+dns1.louisvilleky.gov.	86400	IN	A	199.201.216.3
+dns2.louisvilleky.gov.	86400	IN	A	199.201.216.4

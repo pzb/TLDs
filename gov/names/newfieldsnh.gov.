@@ -1,0 +1,4 @@
+kdegtb9t8ss4j4bcticm5o0pipua17e4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. sOX/PnGJD7Wa48zv8tjB3t/rxYVF85CsqYbuVpGWAEIzZlIDNYQzT4oxyEsS5Xo82SAFvjccH0NXpfu/IA9HXwgctpq4OVk9Bcv7r572a7+RYJqF/Iux3J+CpWJVFLrImw7mzNH12rvqarW9XbGXec4XXKV1qp7LK30+tg223rU=
+kdegtb9t8ss4j4bcticm5o0pipua17e4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kdj20t5n726olks6em1p64snvrsagibg NS 
+newfieldsnh.gov.	86400	IN	NS	ns1.techevolution.com.
+newfieldsnh.gov.	86400	IN	NS	ns2.techevolution.com.

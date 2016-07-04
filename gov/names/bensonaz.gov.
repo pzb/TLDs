@@ -1,0 +1,4 @@
+bensonaz.gov.	86400	IN	NS	ns2.intermedia.net.
+bensonaz.gov.	86400	IN	NS	ns3.intermedia.net.
+evgec3dk0pbvlngvujmo1jb8puu7s15g.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. oKSWP4r/bRFgqQB5PCvDEukRGZkFDf7PrxbDKb8ASS3OZH45Z9dEtO0t7BCTnKKz9XqTqfjfopAqmYPDK4TBX4NuBbgnTE0VDa/J7dyPiEdxRihNRMNzFcMgyO8bpZ3wnYiO3wIP979oi7SWiPUl/wrfAIf02KQ9K6lnJcIgX+w=
+evgec3dk0pbvlngvujmo1jb8puu7s15g.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  evj7hs7492f8tbp2su9f1gdr741b021d NS 

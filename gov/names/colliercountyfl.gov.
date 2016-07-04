@@ -1,0 +1,5 @@
+colliercountyfl.gov.	86400	IN	NS	dns-auth-3.centurylinkservices.net.
+colliercountyfl.gov.	86400	IN	NS	dns-auth-4.centurylinkservices.net.
+colliercountyfl.gov.	86400	IN	NS	dns-auth-5.centurylinkservices.net.
+dv4t1bhbjql09f5sq5r70p0bva3faim2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Aw4Zc3GyxWBpSNqGWCCo84yw8gqO1tg55vn1PJ+mTlcVGmhFTGlcTEO0ta7aqzxTOZGmid2Bf+iJGPwu81mACb3RBw3iUeOfacAkxu1epZP+fypemjF+of2WAL5Ap6nsFH9KYBAVHFRVtLqYs0MiXwxoWNz9h9cdE59pm3uUpVk=
+dv4t1bhbjql09f5sq5r70p0bva3faim2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dv5compvqiufmcle0cgd1nc2j0snl5d1 NS 

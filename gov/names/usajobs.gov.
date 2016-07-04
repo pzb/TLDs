@@ -1,0 +1,8 @@
+usajobs.gov.	86400	IN	NS	a1-14.akam.net.
+usajobs.gov.	86400	IN	NS	a5-65.akam.net.
+usajobs.gov.	86400	IN	NS	a11-64.akam.net.
+usajobs.gov.	86400	IN	NS	a12-65.akam.net.
+usajobs.gov.	86400	IN	NS	a18-64.akam.net.
+usajobs.gov.	86400	IN	NS	a22-66.akam.net.
+usajobs.gov.	3600	IN	DS	25312 8 1 36f584e73fc7c06cd993650244e0d551c0210d33
+usajobs.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. dTeLmQhVqsQ6MJLw8YgwbxD63GQCfACmTQJyzOFax10nOkLnRvkcUEazq7nPs991QfFq8i+YS56Y8qlSdy6W+YxJG8gAw99nNtQW3BL1SCyf0JDDHfaOYTAEcH32Ggdo2tiyZAmYLOmouZL56ks1vNxN28caW4bIEXNpdTR5+8M=

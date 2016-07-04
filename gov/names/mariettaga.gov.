@@ -1,0 +1,5 @@
+46c17v2qifhe5ctub7hdq2efko90q9up.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Zi3pvs9aY46ATtONwuthzXJuQPSmBLxM8FuPdxlr7nGhBBawpZK4Ti56FXn4BXfuATKFlLmga7AdkYp7DkJxn/AejHXWaM4pSX7Kjvnyc6OVZwemk3r2VQCxOeBpLpDiGAY0mdxmbqnn4v6s1czyXZGtWqbErBYKLVRYCtlvsNI=
+46c17v2qifhe5ctub7hdq2efko90q9up.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  46rguv556d32ek3ma9ut4l9a1nj8jdhg NS 
+mariettaga.gov.	86400	IN	NS	ns1.cl.bellsouth.net.
+mariettaga.gov.	86400	IN	NS	ns2.cl.bellsouth.net.
+mariettaga.gov.	86400	IN	NS	ns3.cl.bellsouth.net.

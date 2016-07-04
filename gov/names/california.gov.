@@ -1,0 +1,11 @@
+ns5.net.ca.gov.	86400	IN	A	134.186.254.247
+ns6.net.ca.gov.	86400	IN	A	158.96.0.249
+ns7.net.ca.gov.	86400	IN	A	165.235.254.249
+california.gov.	86400	IN	NS	ns5.net.ca.gov.
+california.gov.	86400	IN	NS	ns6.net.ca.gov.
+california.gov.	86400	IN	NS	ns7.net.ca.gov.
+california.gov.	3600	IN	DS	19171 8 1 41dff8cc039eebc235732acb13bd0c4c030f149a
+california.gov.	3600	IN	DS	19171 8 2 63c0cb70d62c8f0a644714c1471014af773c4c684b6bc71f24d05c5857957fb8
+california.gov.	3600	IN	DS	25114 8 1 de07c878b5215b4e254c6e56c18b455a7c57242d
+california.gov.	3600	IN	DS	25114 8 2 8387f4fae2293a155fd3b74c83059c662ed86493565ab796a9a63ed600e78889
+california.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ZqrLaFeL5J1ta6dJgbgOdJQFyJPXo4deJ5KSJpP13sA3S/d7ZznyTMLXNfCd6urDuBYgeH2Ie24dwtHCwZx04IEEj+gxTP1jWAwiSw0zJ8ASmACtu3jQvgfGHv4Z/Vw2qwJbTDQxd/s5PyIZumB/tM6TXmJFXrFyEn5iBU3z/Dk=

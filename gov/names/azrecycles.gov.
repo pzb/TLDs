@@ -1,0 +1,6 @@
+dns1.azdeq.gov.	86400	IN	A	159.87.10.130
+dns2.azdeq.gov.	86400	IN	A	159.87.13.2
+azrecycles.gov.	86400	IN	NS	dns1.azdeq.gov.
+azrecycles.gov.	86400	IN	NS	dns2.azdeq.gov.
+s33n9jkib4pauknik615ph1e2ggvarsf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. WuPychdKd5fm5pF55oseDA38ZFiMpmG6sf1qrhkUUw7LXgnL5IuTWo1acVfOiEVJqYEZ611oWF/J92OWxcR/XTGUcBQLoZq5tBXlO7wkdfKuQtGxe5MoDj+kZKJZrvxpeOqyOnXulSw4fSbiv3uz0bMXAKtEPK2WInLgPcRaexQ=
+s33n9jkib4pauknik615ph1e2ggvarsf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  s3bco9j5scsidthkulhto5d5onrvgqdv NS 

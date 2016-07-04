@@ -1,0 +1,4 @@
+fdjgapd5vetv9ge1eujr9v3sglj1ifos.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ZjWCkuT/eOmCVU/tp44VKVWroyGQP0SIUT6/E20lt69WkaaN/PTCQXk0+4DKC8eEe0eIZiu+hKU9VeC/YJqmchncP8Y/lHTAsnVkKTMiuE/Vb/yfSrg5wrAhWnRk5yaeJPc5KYqSKaKZbLuXB6pIz1h0fVAJfDHmsZQXYQy0E6Y=
+fdjgapd5vetv9ge1eujr9v3sglj1ifos.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fdsb2ljsmf5tbsjl7d4objs7obbu79m4 NS 
+murrayky.gov.	86400	IN	NS	mns01.domaincontrol.com.
+murrayky.gov.	86400	IN	NS	mns02.domaincontrol.com.

@@ -1,0 +1,10 @@
+doe.gov.	86400	IN	NS	ns1.es.net.
+doe.gov.	86400	IN	NS	foxbat.doe.gov.
+doe.gov.	86400	IN	NS	fulcrum.doe.gov.
+doe.gov.	3600	IN	DS	47056 8 1 b5c9e43ea5cde2228552aa535dbaafda5d4244e9
+doe.gov.	3600	IN	DS	47056 8 2 4a6a3bc6ce1223e93d13d17431ecafe6986da0149895f1b8396df27d198c0be6
+doe.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Dg0Sb4vyC3qchm4VW29dUkKkKana/CietXpjZoxAyViuFUMUiw6dsyHtaQAbiUlb2zi8u8e3pprhP9+zoa8rLOdiLQbyMtepu4U5NyXS1iaNhKG59895obzAOQUvnkF9F0LWUG7k3PXeiGhsppxGZHttI0pVWhZisvlqKv5eq+Q=
+foxbat.doe.gov.	86400	IN	A	205.254.143.110
+foxbat.doe.gov.	86400	IN	AAAA	2607:f368:1000:1000::53
+fulcrum.doe.gov.	86400	IN	A	205.254.144.110
+fulcrum.doe.gov.	86400	IN	AAAA	2607:f368:1000:1100::53

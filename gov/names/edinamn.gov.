@@ -1,0 +1,5 @@
+edinamn.gov.	86400	IN	NS	ns1.state.mn.us.
+edinamn.gov.	86400	IN	NS	ns2.state.mn.us.
+edinamn.gov.	86400	IN	NS	ns3.state.mn.us.
+n3euskhis1mc89o83m3o35eq100rvl9k.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Is0IdqYoOQqAUWq1t7/36alhWu/zuY51XM6HIDcGPwuxrTw5qwlZeF+kJRLwJwxxDhUg+2/WQZLG0w5RXc4hbrWtPnvZyVF2TAxzWXfoIsuS+ODqqNXi23nmxOqJ/IkVOl6HixosthgDipCaj3Ndo29mZT+mKnb0otkeXynSl3Q=
+n3euskhis1mc89o83m3o35eq100rvl9k.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  n4ud1o5h8st32c3f0ahril2ki2q7qp5o NS 

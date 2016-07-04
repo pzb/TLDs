@@ -1,0 +1,4 @@
+4nckpb8etn4mc4te8pli6hvlicsglfa0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. YblbgR3mV92IRNydCyuIKen9X3BD1j8vZkBCzunyc6cv5swtJH4lzXaLD6ZeX1852DTBr3pWDBbzAMDJM8r3BlVmoCPoxFY04mGvBcHxSKTmv3TKkO5wGfKwJcupCEivdspGkeKei+3JrAMAOlhzwygCIlQXHznrSnlcK0fEnWg=
+4nckpb8etn4mc4te8pli6hvlicsglfa0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4ng3jeg0gfdkju48g9l1b1u8pm53aq7h NS 
+meridenct.gov.	86400	IN	NS	ns1.fandotech.com.
+meridenct.gov.	86400	IN	NS	ns2.fandotech.com.

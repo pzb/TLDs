@@ -1,0 +1,5 @@
+trousdalecountytn.gov.	86400	IN	NS	ns2.bisonline.com.
+trousdalecountytn.gov.	86400	IN	NS	ns3.bisonline.com.
+trousdalecountytn.gov.	3600	IN	DS	62152 5 1 62104693086b35684f95305d5aa8722f6e3aeb6e
+trousdalecountytn.gov.	3600	IN	DS	62152 5 2 0a4c9588124f67489a6775fc6c16e6ab2f4c01baabb20c1ee38b8f6b25ae79ba
+trousdalecountytn.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. s4YL2EtUtQP+cPy5OErsZjgIVNMFzUFuOxKLjqacprjHXmnKRcnYt2Kb879FfaIurXHu0T3v/y/sN/zn80H1afcacsqFbkmCmpTbX+X1cmseK8XebVckxntgjMQoULAqTqSV91bevfKK5OfUu2SWYgeKp9+V1inq80KG52UnCJ8=

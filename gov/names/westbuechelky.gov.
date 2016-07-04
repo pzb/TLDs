@@ -1,0 +1,5 @@
+h0jre91pu1va18ipiokcce3o731rkk0l.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. M0bzgOF8ke73K7/ZW8i5PPrFCKaa1olVDQGXfZUcw0Ep5TiBPkKmZC5lRMgqsNd+SS+NABPLq58kzoutXztNRxh4rOUMviIMdGRyteMxaN1OpmjskVTcyHo3RAihdXv9bqm2orrcOgeERA27iydXBF1FFdnVFtgSisAWR/HOPnk=
+h0jre91pu1va18ipiokcce3o731rkk0l.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  h0qr2urfnigp1paevicob84mf9n9sf0u NS 
+westbuechelky.gov.	86400	IN	NS	freedns1.registrar-servers.com.
+westbuechelky.gov.	86400	IN	NS	freedns3.registrar-servers.com.
+westbuechelky.gov.	86400	IN	NS	freedns5.registrar-servers.com.

@@ -1,0 +1,6 @@
+9gab5p0rcuslqi05n55929hvglbqc83i.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. sQN9sGH/4R3XWga/Q4kGloCINNT7pAlnzJipzbIMHEGHDQc/5lEro5pBxARsnAcSmT+O0cA0m27XTsUFEHK54zA1iFzmHbympAlU1IQLONFi4+kH0PorlHcDNkjw1yg9PsmNgHfwD+vsLHKt0VdLyiFi2zhG1O41M1Dx5zbbPs8=
+9gab5p0rcuslqi05n55929hvglbqc83i.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9gnq8regnh1tri2s4buscj1tmerutch4 NS 
+prattvilleal.gov.	86400	IN	NS	mns01.domaincontrol.com.
+prattvilleal.gov.	86400	IN	NS	mns02.domaincontrol.com.
+prattvilleal.gov.	86400	IN	NS	pdns01.domaincontrol.com.
+prattvilleal.gov.	86400	IN	NS	pdns02.domaincontrol.com.

@@ -1,0 +1,12 @@
+9vnm19l1l8aarfesiu7k0dgcrk660221.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. SmxEJ4Q4eRqWbcLAR0aKAfEoCRj710uxEmmRMycOuOSqRAaWxexoLmu2HytnsGdXwNnoqUy5/foojiHC5vg2gcrLvCp0x57lAjGcfWw1hXu9xdB/i3SK8EENNAAe9Vo34oceyYExbukkdhC25WvwbT17rHY2iHMOtaRCZSFaeyM=
+9vnm19l1l8aarfesiu7k0dgcrk660221.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9vuac2128mmsur6bj9ote68hhcj1d9bo NS 
+cityofkingman.gov.	86400	IN	NS	ns0.cityofkingman.gov.
+cityofkingman.gov.	86400	IN	NS	ns1.cityofkingman.gov.
+cityofkingman.gov.	86400	IN	NS	ns2.cityofkingman.gov.
+cityofkingman.gov.	86400	IN	NS	ns3.cityofkingman.gov.
+cityofkingman.gov.	86400	IN	NS	ns4.cityofkingman.gov.
+ns0.cityofkingman.gov.	86400	IN	A	208.94.148.2
+ns1.cityofkingman.gov.	86400	IN	A	208.80.124.2
+ns2.cityofkingman.gov.	86400	IN	A	208.80.126.2
+ns3.cityofkingman.gov.	86400	IN	A	208.80.125.2
+ns4.cityofkingman.gov.	86400	IN	A	208.80.127.2

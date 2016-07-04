@@ -1,0 +1,5 @@
+nevada.gov.	86400	IN	NS	ns1.state.nv.us.
+nevada.gov.	86400	IN	NS	ns2.state.nv.us.
+nevada.gov.	86400	IN	NS	ns3.state.nv.us.
+vdio7l9cjfriutnf9vnhrjj6jsfd4ruk.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. gQBC/p4EkDhQmap0/edKrAUu8JjwnDbLuMBAbJV0E1z4CweF9g1G5ebu2gwkkaBq40gjHbvPv35aFyRnvun0XZLpM0CzZbuB8z6z4cA7Eg14OVZ4VLmjByfN/C2pcj7/4OKzD22DNUxOuRi/5qFDpJOKRlAZKiE7hCgtzKZmcd8=
+vdio7l9cjfriutnf9vnhrjj6jsfd4ruk.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vdn8hrhvndihqpmujluer5m9epcfuekv NS 

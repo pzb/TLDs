@@ -1,0 +1,7 @@
+1psdvuv6o683rc9ivct7qpp69ufcd99h.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. DQe5OxLJWTITh6VSmIFsoyrb/EvL4Rcdwq2t29eTD86XjLz8YLaaVQ341VQkSfVKq1ZT9b0J1eOzk7jFriLs1bgzRN7+1zDilmmDRhTkr0AWGHxcaIVdXpm3V0ICI1VvaocYqfO0dFnR4+xVmj4i//w27VS3i4gAR1QeanNa1Uc=
+1psdvuv6o683rc9ivct7qpp69ufcd99h.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1qkndq0ahmndfunj792oj7seb68t579e NS 
+perrytownship-in.gov.	86400	IN	NS	ns0.dnsmadeeasy.com.
+perrytownship-in.gov.	86400	IN	NS	ns1.dnsmadeeasy.com.
+perrytownship-in.gov.	86400	IN	NS	ns2.dnsmadeeasy.com.
+perrytownship-in.gov.	86400	IN	NS	ns3.dnsmadeeasy.com.
+perrytownship-in.gov.	86400	IN	NS	ns4.dnsmadeeasy.com.

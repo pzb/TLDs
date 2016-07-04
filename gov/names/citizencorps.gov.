@@ -1,0 +1,13 @@
+citizencorps.gov.	86400	IN	NS	eur2.akam.net.
+citizencorps.gov.	86400	IN	NS	usc2.akam.net.
+citizencorps.gov.	86400	IN	NS	use1.akam.net.
+citizencorps.gov.	86400	IN	NS	use3.akam.net.
+citizencorps.gov.	86400	IN	NS	usw3.akam.net.
+citizencorps.gov.	86400	IN	NS	usw4.akam.net.
+citizencorps.gov.	86400	IN	NS	asia2.akam.net.
+citizencorps.gov.	86400	IN	NS	asia3.akam.net.
+citizencorps.gov.	3600	IN	DS	35207 8 1 bd8794217ec8ba75d6b37e0995e1c581e8dfe60e
+citizencorps.gov.	3600	IN	DS	35207 8 2 00774ac1f0ce24dcae581558df10682465f3e6094e875a0ec51d3aed91dcc387
+citizencorps.gov.	3600	IN	DS	45346 8 1 96cb8f66ebf12a1133e046d4c3125faf3401025d
+citizencorps.gov.	3600	IN	DS	45346 8 2 5e43903bf80f07ab4df3474549a24864c98cec020fa34651c1501ce5379cd31e
+citizencorps.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. onv381dJac9lWkhxq11i25IE/FpwMU5kkkw5DiUh5booe4ocxSXkLuDBewoOej0bts9k0O7t0yDMaYbtmLTMZ1D3nobC1otWwI+lpNtbTnwSrUfOPtFBx4xFyzZcfpNTJztStpFEgRuBUK94hdk9PDwfHDJZRX+dVDiAfQ47XkI=

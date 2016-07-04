@@ -1,0 +1,4 @@
+43mmvv86r59cbo4h81l2cqnjornj41h8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. sfc5ycaHUWPMwIidxzRBM8szf9SC8wxKPGtTd66oGAS9FSlNytplRWvARhHEJ0btf7qcMlSaWOscKxrdlbXrvdQL77ByO97WgEWhKRC+T9XLwesL5YCvDKmdQLcstct8fYZKRtnCb6jNg4nUeuBCLv6y3aOCJJnCh23u3lK1HBc=
+43mmvv86r59cbo4h81l2cqnjornj41h8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  43q9j4rd5urbn1rgtaeqt7nf28n7ru61 NS 
+oklegislature.gov.	86400	IN	NS	lsb.lsb.state.ok.us.
+oklegislature.gov.	86400	IN	NS	mainsys-win2003.lsb.state.ok.us.

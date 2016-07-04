@@ -1,0 +1,14 @@
+justice.gov.	86400	IN	NS	ns-jdcd-01.usdoj.gov.
+justice.gov.	86400	IN	NS	ns-jdcd-02.usdoj.gov.
+justice.gov.	86400	IN	NS	ns-jdcw-01.usdoj.gov.
+justice.gov.	86400	IN	NS	ns-jdcw-02.usdoj.gov.
+justice.gov.	3600	IN	DS	61861 8 1 cdaeecad6fd1d5652f4aec37a0ddb46396fc0927
+justice.gov.	3600	IN	DS	61861 8 2 d4d31ae7f180a594be940171f7244337cee0161dfe658496e2cd248c67623902
+justice.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. NCwlIrVVOL37IlMLpgC7JYzQsSM+URrZK3GW/lUYHxlfRSwILz3iYC10snhIBtwSFjfSMxBm53vkxEYzxW5bMi/jUAWsYX9cfAtCYXPBVm6gayckjYY5seb8XGqm1M4G/tn5is6uALRVcvBqtazovhZm14GhjS8ZIhb8gDzge5E=
+ns-jdcd-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcd-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcd-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcw-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcw-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-02.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::6

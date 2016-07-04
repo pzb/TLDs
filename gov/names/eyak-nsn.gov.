@@ -1,0 +1,7 @@
+49ku6iefg3asnplh331k5t10nupvc1f6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. DeWasLWNUlF5gjaLQS9CYc5MLAwok3bTSt/OBWjQZeoxWKfDHs/BrZ1JNaYZztEMnDo4VujGm2XSP5dh8GaYQovrDdmNM7tXnvZXwo1o3H5zAqx/Zeo9p9RufutoMHiCsIJN3Z5tsPWziNzM4xvAWN+VsgvCYyM+ZeJzVKdrXeE=
+49ku6iefg3asnplh331k5t10nupvc1f6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  49l0j4p4lurtvmqfdelbpsrrn086crql NS 
+eyak-nsn.gov.	86400	IN	NS	ns0.dnsmadeeasy.com.
+eyak-nsn.gov.	86400	IN	NS	ns1.dnsmadeeasy.com.
+eyak-nsn.gov.	86400	IN	NS	ns2.dnsmadeeasy.com.
+eyak-nsn.gov.	86400	IN	NS	ns3.dnsmadeeasy.com.
+eyak-nsn.gov.	86400	IN	NS	ns4.dnsmadeeasy.com.

@@ -1,0 +1,4 @@
+45q6gbki4or9t9ev36172fook7jj9c6h.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. XyhVfvXtTBVDx1n1HRxBI95iilE5t8Ml5hYSI2JV8IvTFRKTvLzbf1ohSvpJYNwRZ+xzNTdr/xok+oFMVzr82QVa85JNEVImJ5himPwdh6S99Sz9bkQmtajpjq2a6MlPRuRyNT6U0SmUep5zbk0T0gRDJwqoY044Z/cLHzF9l+E=
+45q6gbki4or9t9ev36172fook7jj9c6h.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  45sn4pkf2i8cdgvhn0iqp7m8qim8l1vk NS 
+nantucket-ma.gov.	86400	IN	NS	dns1.civicplus.com.
+nantucket-ma.gov.	86400	IN	NS	dns2.civicplus.com.

@@ -1,0 +1,7 @@
+reaganlibrary.gov.	86400	IN	NS	sauthns1.qwest.net.
+reaganlibrary.gov.	86400	IN	NS	sauthns2.qwest.net.
+reaganlibrary.gov.	3600	IN	DS	32103 7 1 baf95dd295b383fa1e85c52810fe5dd18265a10a
+reaganlibrary.gov.	3600	IN	DS	32103 7 2 aabb9f8847612a86bc98ac054350053016458298e093ab4c0ecd943e450b7b79
+reaganlibrary.gov.	3600	IN	DS	37318 7 1 ad8600df8b0d79a7eedb4ce2bd62083ea4692353
+reaganlibrary.gov.	3600	IN	DS	37318 7 2 8c9ba743e06d27e87fbcba175c8f7fa92bb8fdad5b9f62bee8246b447b5cf9ab
+reaganlibrary.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. KRpmeiHww5wpgzK393UjNRqqm+XT6nP9NQ+kLeCy9vH55MUFSBg4La/lSpH0Rlyp3/EiHj+1H/UrbJBaV2oveZ2593lllK+BJR+nrdd+R67dEml3xl79+AnE5xNkw8HAJsqdHPEkWBGS2zQMtf2KPqRAefPSzmUyWr816VGNRQk=

@@ -1,0 +1,6 @@
+64hucgj351jaeqc0hgkqcjr5roqop03d.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. yCZsUX+7Z988dvwp2g+uY2gX24RU6LrspgRNjdXICXwqIOJFzXcyDmKG0KnBYn6JFU/mE5sMAij7wM5P1YTXqNI3JH9gFhyd9cddeNDpIS4OND3LeC39CwDTfrtSl9EQvy22uHGshvyxogpfjwSnNTalQNyNzkBN26o+CeMkfP0=
+64hucgj351jaeqc0hgkqcjr5roqop03d.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  64ir4e88q8u4hj1k7rvtkiapsrq2vhg8 NS 
+nebraskacityne.gov.	86400	IN	NS	ns1.nebraskacityne.gov.
+nebraskacityne.gov.	86400	IN	NS	ns2.nebraskacityne.gov.
+ns1.nebraskacityne.gov.	86400	IN	A	162.253.233.11
+ns2.nebraskacityne.gov.	86400	IN	A	162.253.233.12

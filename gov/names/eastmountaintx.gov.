@@ -1,0 +1,6 @@
+c471v8ad47s4husia89fflvm18qncvj8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. IoQTQ09hj2AFBLOALBM0DqiXTGfWqyrEiOD/18frRMEzvQRvP5QXiURBMgvm06sihHPrqprMm/nmABNg9Sf9cwf6hxX7meaxvTvaOussjCUHPr4hoH6igtiECaAKZ0qbdRxsfXVu3wK1lvLvcHiJ8zucWjp0qQhrXRJizd08QmQ=
+c471v8ad47s4husia89fflvm18qncvj8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  c49cmmgpeg7qs64g3fl37cmpvrdj53pf NS 
+eastmountaintx.gov.	86400	IN	NS	ns0.wixdns.net.
+eastmountaintx.gov.	86400	IN	NS	ns0.teaminhouse.com.
+eastmountaintx.gov.	86400	IN	NS	ns1.wixdns.net.
+eastmountaintx.gov.	86400	IN	NS	ns1.teaminhouse.com.

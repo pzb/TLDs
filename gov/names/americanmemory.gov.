@@ -1,0 +1,7 @@
+americanmemory.gov.	86400	IN	NS	ns21.loc.gov.
+americanmemory.gov.	86400	IN	NS	ns23.loc.gov.
+americanmemory.gov.	3600	IN	DS	12769 8 1 55d0b39ef1c79fcf479fe71ceae7933b029ad00f
+americanmemory.gov.	3600	IN	DS	12769 8 2 be6a1140ff44b91522dffadb25afe8bb6743fe478a1994d97aefc1c0fb90de25
+americanmemory.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. OiBIXqygLl5Q03ZxI/Z1w+1AamJa5AUm8JzD8IAql/XZo9F5u9WS5vtZeQrpo69aR/b9/6BpUW7gQUww2CEH7lIXdjCAsQccTHy51AT/bFXMEYswwegy5KAO2+AZMYMgShU+PBpgXNNl5TGkx3p+jpF2s9lSWY+bXNsLINEncaM=
+ns21.loc.gov.	86400	IN	A	140.147.32.166
+ns23.loc.gov.	86400	IN	A	140.147.239.150

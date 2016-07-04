@@ -1,0 +1,4 @@
+4pgd7gbv6rdspppu5ng4h2oh7k37p8ic.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. jZ1AKaN4vmpNPyq7pr7sguuYLhOLyjUhYJegMZ0hiWv+3wWP3jx+SwdFTP9fhegygqIyUsxBNdNVVTmHtXlWVy7qnfGmIm/7/raTOZauYMJNzEO8fbtXZp4fIwdLPogXXdtn7hI1CmKwzpVkzauwZlsskge8Acadh4ENJBOusxM=
+4pgd7gbv6rdspppu5ng4h2oh7k37p8ic.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4pnhaqs7l0o87fdqs8ghn1gj6m75a6hc NS 
+lincolnca.gov.	86400	IN	NS	ns.rackspace.com.
+lincolnca.gov.	86400	IN	NS	ns2.rackspace.com.

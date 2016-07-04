@@ -1,0 +1,4 @@
+dt6hdu6sq9csd6j3tq8o6071hcpalnp1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. owVswL7Xefjtr9YMG4cfJSuPpflIg0JeIntZ2lSVASzcThF4P6sMbASQL/+IIZXp4fBIfRliY5YWn4wvgN0w32+hPyBgIFYKm85dSzKogamTBJ1DQ+n9J8WnZaXPRjU92YNLhfFe7tWsJ7ZdfzstGcHzk/IL4Fee+IjJb5XKf7g=
+dt6hdu6sq9csd6j3tq8o6071hcpalnp1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dt6ntbuo42tro2thessbvq2gp2qi6gvb NS 
+fortworth-texas.gov.	86400	IN	NS	ns-973.awsdns-57.net.
+fortworth-texas.gov.	86400	IN	NS	ns-1834.awsdns-37.co.uk.

@@ -1,0 +1,4 @@
+7fr9c73cepe925kne4i25gqs7k83tet3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. JzBqHUezDlGx2mcHZrRH1/J169IKARKnoOGf2c9ddhRY8ka/WcOQDGqFpvo5qxvs6QFsVqSJ+jhF8ND64Xqc5WyIiNrUj1LHSnkEdKt7z2oP+7vWOBekkuIg1Yd6ekmbpyUpl7MDRiTRzoGfUvvtcZhSmKznmhIOHiUDcrLlwVE=
+7fr9c73cepe925kne4i25gqs7k83tet3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7fsc10gcs7b8j4uavv4sdolcedvgono7 NS 
+crossroadstx.gov.	86400	IN	NS	ns75.domaincontrol.com.
+crossroadstx.gov.	86400	IN	NS	ns76.domaincontrol.com.

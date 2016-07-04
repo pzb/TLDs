@@ -1,0 +1,4 @@
+0uf6h0f1er9udkp29ae05gtt8r2o3kr7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. X0vDTh1AAOBIOnDulzWiep2tEP265+GjR7Co9bftMuWz24n7SpIPjvx1pW+WNyD4YirgALmD/NwSeg2WZQYPPSetnFugAl5q9KgJtCbgNwZzQnmJaBztDhU0yCuKnIeFV07Qe+Kliaod4vFyoLJqbGjUyN2PbdFyKrPBYNa6+B8=
+0uf6h0f1er9udkp29ae05gtt8r2o3kr7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0ui41ehbb0ksrl339edjbqhvptjv702p NS 
+huntingtonny.gov.	86400	IN	NS	pdns05.domaincontrol.com.
+huntingtonny.gov.	86400	IN	NS	pdns06.domaincontrol.com.

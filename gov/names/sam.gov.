@@ -1,0 +1,15 @@
+dns.gsa.gov.	86400	IN	A	159.142.136.198
+dns.gsa.gov.	86400	IN	AAAA	2620:0:150:280f::5
+dns2.gsa.gov.	86400	IN	A	159.142.150.68
+dns3.gsa.gov.	86400	IN	A	52.203.230.235
+dns4.gsa.gov.	86400	IN	A	159.142.69.84
+dns4.gsa.gov.	86400	IN	AAAA	2620:0:150:4013::5
+dns5.gsa.gov.	86400	IN	A	159.142.45.20
+sam.gov.	86400	IN	NS	dns.gsa.gov.
+sam.gov.	86400	IN	NS	dns2.gsa.gov.
+sam.gov.	86400	IN	NS	dns3.gsa.gov.
+sam.gov.	86400	IN	NS	dns4.gsa.gov.
+sam.gov.	86400	IN	NS	dns5.gsa.gov.
+sam.gov.	3600	IN	DS	34889 8 1 e133e2d4814c8088a60e01fc5163930622734304
+sam.gov.	3600	IN	DS	34889 8 2 ab2ae0c4cb0103a0b818cd1dcc93a20767755cef589bd47a171324c4ccedad1c
+sam.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. nCIhtNXlUiJXcHwZBKVJeodob38XhVnWOJCtuo18pueKRB3Pl/NhEPjsWL2D3EXvAOfXyvdEP/MXx6lTciR6Ia4R52nZBBna1wjlCKDO7hPPiF3VMsNbRNnepYigb9Jhili87F7Wj34JU3TpDcySL2+t9M1bw7LnM/Qj3QgVdpM=

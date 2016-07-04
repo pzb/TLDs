@@ -1,0 +1,4 @@
+cummington-ma.gov.	86400	IN	NS	ns.jagflyhosting.com.
+cummington-ma.gov.	86400	IN	NS	ns2.jagflyhosting.com.
+gt4444h4fog0stu54f8jsbkqg0hloiql.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. jMuriL74kP660KO+VenNgBv2bP1wm1iGaSNFQRZVZOg7Qi9gPedZ1etHz+eBrMjQ/R0GOWt+vg8n0kY0zXEmE4giwPwG5T68Acn0TYb1a9QaRI1+84IXAsY4EcREV6F/1mq8uxzqQRMi6gOwrd7ieuYhnwjM7mdSJmSRh37wfhI=
+gt4444h4fog0stu54f8jsbkqg0hloiql.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  gtf4sccrvhn3830ja9sl9sh2av9knlrn NS 

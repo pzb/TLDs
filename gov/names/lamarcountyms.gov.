@@ -1,0 +1,4 @@
+1mjpu5r1kb4vvohodjuetcdd4n398kpn.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. eWke6EVqAj3mrcOBBSNvCxFUt34kRzneSU8QUb9GeOhZgZME1Xg4KJmLcE/1tRcmoq/yxaar71mFi0DtnmclKF49r4yCYIeLwWaIabGvwkVm7hPOUiRMISJw7o5KrMXRpFLCNxC3IuuaIJSzcDgYO85y5ug0UeX/CXizPgModjI=
+1mjpu5r1kb4vvohodjuetcdd4n398kpn.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1mpvevcipdfgs2king6mggllos5p3ctj NS 
+lamarcountyms.gov.	86400	IN	NS	ns1.mediatemple.net.
+lamarcountyms.gov.	86400	IN	NS	ns2.mediatemple.net.

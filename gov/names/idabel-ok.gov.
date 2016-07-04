@@ -1,0 +1,4 @@
+797qnbmdhr5bpaan4ouvi9gko5qjakm4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. jibiGAjCSdoL7nDnm+JGdq8do0TSOci7A4SeYDUwJz+KrtR9QnsF/uUEVNlyM1E3c4p+MV69frgXImKXNFb/nkoHETyj9CQqQkOCvc1RVtvBt/MEqipMZSL4QX/5J7wC0dI05AFtSG/jYCLeNqo8sfV9z3eJ/tkiyBx4eQGdcmA=
+797qnbmdhr5bpaan4ouvi9gko5qjakm4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  798t9pfm04k3kc8magengifbmu3don83 NS 
+idabel-ok.gov.	86400	IN	NS	ns1033.hostgator.com.
+idabel-ok.gov.	86400	IN	NS	ns1034.hostgator.com.

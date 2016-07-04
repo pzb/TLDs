@@ -1,0 +1,6 @@
+baltimorecity.gov.	86400	IN	NS	ns-336.awsdns-42.com.
+baltimorecity.gov.	86400	IN	NS	ns-577.awsdns-08.net.
+baltimorecity.gov.	86400	IN	NS	ns-1278.awsdns-31.org.
+baltimorecity.gov.	86400	IN	NS	ns-1939.awsdns-50.co.uk.
+fqj6gq08df43p7ap420lnsf2qu032ue6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. dh+z9uhfomapJCpa2aep7UTeO4E1dbO4wEnWsXa8F/maf8sQJSLfUXQD38U69ueREHeSi7d5kPWLmk8MZK+nyZ/i7o8CuI4NBnixAZ+nPSsgyPFxjyX24nvUPn3jaZ331/XFrcbTfu2Hkzu+yo5E9o8fD0GnzvqHMrJcjbECl6I=
+fqj6gq08df43p7ap420lnsf2qu032ue6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fqkvarib1repv064mgv041vo3jnrijpr NS 

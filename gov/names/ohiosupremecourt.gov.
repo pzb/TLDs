@@ -1,0 +1,5 @@
+ohiosupremecourt.gov.	86400	IN	NS	ns1.state.oh.us.
+ohiosupremecourt.gov.	86400	IN	NS	ns2.state.oh.us.
+ohiosupremecourt.gov.	86400	IN	NS	ns4.state.oh.us.
+pdn830avom601m40j10h7d6dnudk0ov8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. U+jiqcLbR0hiw0HRF0ZlYiFjD962EltkP8tA6irVOXNU3S3JDj1+3WOeIE/B/voSmMZ5ECa50hhsBH5CB0QqvNlWOSU8a3ez3lODHOh6Nq5p3ZfctSEZKVCB11KZEIl5iniqygx44s/pfPD86Gfc/rolILncIIef98fwXVrV5fw=
+pdn830avom601m40j10h7d6dnudk0ov8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pdpc890be0dikr6i4mid6jnmav7008tj NS 

@@ -1,0 +1,4 @@
+f6img9c9a9rcqba783jgtlqgc4jqr5rn.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. szdnLm8uXLevlVU+DZm4yvDNT7lAejJV/S7wlr4Th6OO4X7Jupwg2pQoZrhzsWQAWmE6m4HyKBFUlXYXVTjHPyZykIFMRn/MyHEQ9yOxD84C/EKGzl6zOl2IsJSUFU+4RJZa6YtrgnlFAXxhc6kMSmMz3MPkVYSxbEUvzPaISjY=
+f6img9c9a9rcqba783jgtlqgc4jqr5rn.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  f6kdenscukrvg2pekasn03pnoddmvru6 NS 
+getkansasbenefits.gov.	86400	IN	NS	ks01.state.ks.us.
+getkansasbenefits.gov.	86400	IN	NS	ks11.state.ks.us.

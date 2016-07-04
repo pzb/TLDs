@@ -1,0 +1,4 @@
+24ucvqv4b82os1eo8sjjrhchmc0kmj64.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. LrXfo28Ej7ExwCc7ujggUGrETL1Bz7MlpccGbJgLxzORRuEumUBhtMwxvoY6fUIQisR3nGWwsryJOTKK/E2aZUX5K4jeWTd7+GWu6BRMpBBwY7QUWESbIHX+83pfkWAsD5Nfb2T8ANjYHGCr5aCNwyTpmDn9T9+uvXr/nB7nnYI=
+24ucvqv4b82os1eo8sjjrhchmc0kmj64.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  24v7hdhdadumq482t210qo5ggrj2tho3 NS 
+morgancountytn.gov.	86400	IN	NS	ns1.softlayer.com.
+morgancountytn.gov.	86400	IN	NS	ns2.softlayer.com.

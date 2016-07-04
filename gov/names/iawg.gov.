@@ -1,0 +1,6 @@
+iawg.gov.	86400	IN	NS	authns1.centurylink.net.
+iawg.gov.	86400	IN	NS	authns2.centurylink.net.
+iawg.gov.	86400	IN	NS	tpsns11.terrenap.net.
+iawg.gov.	86400	IN	NS	tpsns12.terrenap.net.
+iawg.gov.	3600	IN	DS	60309 7 1 c229c596b54e74ecc178d2040b02f30a862c33da
+iawg.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. pzZqLvNAAzQhpp+s/qKTKDys53IL0JfXeFqBR068+C4h1J/tU92u4ZZ/qCWt6/JNQG7rRUCsBvegn9DZYsme5Q2igCYJr3PedhtBRlHiBMuv3ikos/jN3KySuvhrsb0GgMbqvWfcYr6aNGpbftZDR5TqtreiIyPYTZpdlbZ3egQ=

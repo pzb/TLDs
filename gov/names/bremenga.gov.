@@ -1,0 +1,4 @@
+bremenga.gov.	86400	IN	NS	ns47.domaincontrol.com.
+bremenga.gov.	86400	IN	NS	ns48.domaincontrol.com.
+cpmi1d00b4oref7jvqfnjfvfn73hj7sh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. T2rnaF9/FbTSLnoZZSG+B9ro9XvTId+VrEfTNkZk1W43YldptYX+6yr5VDXg9joNNpJqpQ4CsNy05M4eAuBMw43x0KdYBtHs1vw8N0Rb/gklRD+OkXHOxx9EtMNOxPZhS8S1Q5Z99vVbFYIL3kMLR3tHDYXjZinNz9q0S2DGlr8=
+cpmi1d00b4oref7jvqfnjfvfn73hj7sh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  cpq66eqf1a7ed9rb82a0v5l1qtmkfqib NS 

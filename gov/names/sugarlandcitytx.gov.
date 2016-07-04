@@ -1,0 +1,4 @@
+ndv7qeqateri31ra6e11j2mi7n6rc304.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. j0Us0p2AtZ/cvH/fr/myTrBRq+qeR5USKj/BrH7UspFdTaHZ+c02Wx4RED0Xb1W/stQK0z6+JSUqzSe8QWIca1isIUpBwoCaveqg4MRlGIXlhffGoX/l5lxV5YInUg4/8+mcrsb0abqjfqmFZbE3LUK5+Afmp2Q14Q1lrVClLDw=
+ndv7qeqateri31ra6e11j2mi7n6rc304.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ne6q9nb33pcp6e41dnudjunt12u15l6v NS 
+sugarlandcitytx.gov.	86400	IN	NS	ns1.vericenter.com.
+sugarlandcitytx.gov.	86400	IN	NS	ns2.vericenter.com.

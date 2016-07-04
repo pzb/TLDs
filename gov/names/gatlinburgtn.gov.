@@ -1,0 +1,4 @@
+gatlinburgtn.gov.	86400	IN	NS	ns1.spiderhost.com.
+gatlinburgtn.gov.	86400	IN	NS	ns2.spiderhost.com.
+vk89b9r83ebas5c385656ksiivb6stcm.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. b2nY3xYRAvLVRwm1s7yOQTjMEnoTkXhkhStWytJn8OD6rtIKoSOnAnaK40T6sjqd1bjni1K6zp5VFTB0ZQ+eXBHv8/uMFJ2eHXTpsF6XjEJlOUjxzHTyWtJ6G6qCEkc7N1jGsPczFTr4EE0fOTcRDdqpYxCwvTW0xDsBs/5pdIg=
+vk89b9r83ebas5c385656ksiivb6stcm.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vk9u14asjsp7ucjbaamcch3g1s28lakm NS 

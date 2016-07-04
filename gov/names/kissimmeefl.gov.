@@ -1,0 +1,4 @@
+0n42h9808pptqkhgff4kutt04q0lunqd.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. k5YE16vEUiYdNbGp4Y69WOzDm3Xwp9rg5B5ovRCTftJ+C1WCUABwDb4JsJdKCZjBdkBpfDDJZkbObtHGxbU2OZFk3D7mPuHVJGur+pV+WWEYFOhe3ZxRLxIrjxj5elbnRfe36M6YpbYlQHURt4Jn12JXW9H6MHamZYwrTDdj/3Y=
+0n42h9808pptqkhgff4kutt04q0lunqd.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0n9mjifiui1v7af5r9svurf7nhp6vqqq NS 
+kissimmeefl.gov.	86400	IN	NS	ns1.dotster.com.
+kissimmeefl.gov.	86400	IN	NS	ns2.dotster.com.

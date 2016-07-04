@@ -1,0 +1,8 @@
+bhq3t6p5dl2s1pss2tjugd5s3u0ssbbl.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. mv6uxS5fB/59ju4d7engD4HZOfo7FobYnNBILw5xrYgQ+iy+c3nn5cZ385EkKlTQrNmS+LcqYxcOHtNS5t7AqZAJhNZsdM0oFc6rRpxyJdNPbL6EN5bOblTDEIkf7o7w1zGzBTm92VJh4+deCbRlKGyShqBRh8t8EUziH7uDeO4=
+bhq3t6p5dl2s1pss2tjugd5s3u0ssbbl.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bie7cinc6v4sb872ce0nqock62q6v6ti NS 
+gsatestlocal.gov.	86400	IN	NS	a1.verisigndns.com.
+gsatestlocal.gov.	86400	IN	NS	a2.verisigndns.com.
+gsatestlocal.gov.	86400	IN	NS	a3.verisigndns.com.
+gsatestlocal.gov.	86400	IN	NS	u1.verisigndns.com.
+gsatestlocal.gov.	86400	IN	NS	u2.verisigndns.com.
+gsatestlocal.gov.	86400	IN	NS	u3.verisigndns.com.

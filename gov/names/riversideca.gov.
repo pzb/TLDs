@@ -1,0 +1,6 @@
+riversideca.gov.	86400	IN	NS	ns1.riversideca.gov.
+riversideca.gov.	86400	IN	NS	ns2.riversideca.gov.
+ns1.riversideca.gov.	86400	IN	A	192.248.248.34
+ns2.riversideca.gov.	86400	IN	A	192.248.248.33
+tj2hq2argg0lblusambk0osuquvikjrh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Rz5bLdN3WVRSrh9Rc1DqBW5VCDGj490pyPR9Mzv0fu16kHEQldtbFGp5MOrBmNx1QEIuE3RBPZ/Qcw+kUQTW3p81lYKUozan18TPR72IR+q6CLemRSaNT8JN9akRSkd7WklzyJAhOCJX+nLr21LCkCYKO9ggaVClaaD4yLHYnK4=
+tj2hq2argg0lblusambk0osuquvikjrh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  tj2jdhpkvnpjdhjmhckek6nsgi3r1u8u NS 

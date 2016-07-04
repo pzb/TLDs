@@ -1,0 +1,6 @@
+azdvs.gov.	86400	IN	NS	ns-20.awsdns-02.com.
+azdvs.gov.	86400	IN	NS	ns-799.awsdns-35.net.
+azdvs.gov.	86400	IN	NS	ns-1205.awsdns-22.org.
+azdvs.gov.	86400	IN	NS	ns-1945.awsdns-51.co.uk.
+igfk78gf8sjil3i62gqmq78upl4okeu5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. m8tFrbTPD73UaBrXHFwmA0IBe2X27jbY6ukTGPHemoXBeJu0NAWM5iIXROKsuCHwk00RB2tZYXLvJrnP6TFCkTJ8F5T16GwVyO/MxjtucWoI0Zl5fIAnd9mBauXUNtlqjEKqWDiFTgOFLkS8IX8ofR5/whc34GhEtil+anGG/1Y=
+igfk78gf8sjil3i62gqmq78upl4okeu5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  igflc0tq25laaqu77rmi4j8pfvru5f2r NS 

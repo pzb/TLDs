@@ -1,0 +1,6 @@
+ohiothirdfrontier.gov.	86400	IN	NS	ns1.state.oh.us.
+ohiothirdfrontier.gov.	86400	IN	NS	ns2.state.oh.us.
+ohiothirdfrontier.gov.	86400	IN	NS	ns3.state.oh.us.
+ohiothirdfrontier.gov.	86400	IN	NS	ns4.state.oh.us.
+vvjhens12evekgusp1iqd73b93dj4tlv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Ur6UtJDNCLmQd6kbhe73nYYcPngii5JrixCSSOw8NSSpQT3kRHHD7DmU37VbcIndPQYiemeIUsn/zj3EhVE4BiO4XTG+xLY03+yZX+nReEJqsg9lfhd5GWRfocu8yAnhag5Zr8AyLVIb3Ri+OoB2+HYsM4h+7BEYdjYAGW/vsz8=
+vvjhens12evekgusp1iqd73b93dj4tlv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vvo40l51nf5n2c49npfpl73adoradu0r NS 

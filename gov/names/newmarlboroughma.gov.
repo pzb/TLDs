@@ -1,0 +1,5 @@
+hh8ijhkgsrh7gr277p63ma3ii09hpbmg.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. tH04LBOyhX2FsGwRlPw0vFQ9kQM6gJ4vM1gV30jKsy+rIIT8v5iqJPgycpPJRxbSa6p/Dbj6y53semnUzUhbk9fRWY8omG2Otr1ecV4mmGWJxR5r/EQCyQb7tno9XOyswqWxrDCpHtzHYTTmYsfdbQ3E02SKkNdPpubty29ogpc=
+hh8ijhkgsrh7gr277p63ma3ii09hpbmg.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  hh9guia28mhdchq6v3kfj23e6mkq451h NS 
+newmarlboroughma.gov.	86400	IN	NS	ns1.infotech-maine.com.
+newmarlboroughma.gov.	86400	IN	NS	ns2.infotech-maine.com.
+newmarlboroughma.gov.	86400	IN	NS	ns3.infotech-maine.com.

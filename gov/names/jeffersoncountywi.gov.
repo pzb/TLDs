@@ -1,0 +1,7 @@
+2rvgl1uditoma0vjf8sgqsl9lviravbm.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Cg5sbrUwwBTSvv74OoqXqaQfQ/UFIDMwipwnhNPwjvOTMR+MelXYRTwpr699IC4ZwvBQA79Rx7bpR0ouuQcZCYfUpS+DvuUPiLqvhJ3zq06si2U3KDP1hZqbPhbxq/zwzhLWVaBlsIsGqt1YlmyC/w9b9ferYRvvyBGMt0VvGSw=
+2rvgl1uditoma0vjf8sgqsl9lviravbm.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  2t7j524u7ualtc77lvjrsrm2kgsfkp5p NS 
+jeffersoncountywi.gov.	86400	IN	NS	ns0.dnsmadeeasy.com.
+jeffersoncountywi.gov.	86400	IN	NS	ns1.dnsmadeeasy.com.
+jeffersoncountywi.gov.	86400	IN	NS	ns2.dnsmadeeasy.com.
+jeffersoncountywi.gov.	86400	IN	NS	ns3.dnsmadeeasy.com.
+jeffersoncountywi.gov.	86400	IN	NS	ns4.dnsmadeeasy.com.

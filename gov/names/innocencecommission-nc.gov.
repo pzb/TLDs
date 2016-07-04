@@ -1,0 +1,8 @@
+9c1rm8khq8fsdcvglqgslmrph4ledtoo.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. RErlZN9IdsN7oUFokeFsYqZgvf+FEJZ3DNesHsSkkMA3/uj2PHIZnsYpaKeky3IMVETIt80NRssAKO/GmQVdLjX1lAzdo5lxsy0PXvRS7uOWuZbdIigJOGUShXfG+dWzkaqwT6WUeTf94l2EOHj9XC32lr2YB4eOZ/Dk52W8yeo=
+9c1rm8khq8fsdcvglqgslmrph4ledtoo.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9ca1od3cbflomi5llpdg3g6ivuib97tj NS 
+innocencecommission-nc.gov.	86400	IN	NS	ns1.nc.gov.
+innocencecommission-nc.gov.	86400	IN	NS	ns1.nccourts.org.
+innocencecommission-nc.gov.	86400	IN	NS	ns2.nc.gov.
+innocencecommission-nc.gov.	86400	IN	NS	dmzdns.nccourts.org.
+ns1.nc.gov.	86400	IN	A	149.168.11.11
+ns2.nc.gov.	86400	IN	A	149.168.138.11

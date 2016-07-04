@@ -1,0 +1,4 @@
+6grcvik4lgj362r7uud2sgvkh1v9mbql.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. KJ8ZD29Wgipdpvny73P00Rq8DPR4YaXr8DWENaL9wzkPPexu9Yzsn2IEf2y31BK6Gs94umBR490iV8bSFeIW7lIJff+nElma9NR3TEEdhnLEvDc3VTaAqqabAUfqXOg2ZCJ9PaLZp2u8jqTDQo5SykQfxo+QtGVW5mB/Px6IRkI=
+6grcvik4lgj362r7uud2sgvkh1v9mbql.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6hciegqpkn8cl8ijik9ri9suckfbhb17 NS 
+badenpa.gov.	86400	IN	NS	ns.sourcedns.com.
+badenpa.gov.	86400	IN	NS	ns1.sourcedns.com.

@@ -1,0 +1,6 @@
+ns1.arlingtontx.gov.	86400	IN	A	97.65.254.19
+ns2.arlingtontx.gov.	86400	IN	A	97.65.254.20
+myarlingtontx.gov.	86400	IN	NS	ns1.arlingtontx.gov.
+myarlingtontx.gov.	86400	IN	NS	ns2.arlingtontx.gov.
+tccoougi7ftd1dsfm53rgpjo12puqlaf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. e1BD4c9f+62qV8EfrTWiR8gKZYIbiua59ixj83V4Z6VtaHOg+Dt8A1Dm3AkePy1Md05iGymQUuY7fNqWAG74Kl+o7FJ96v2U0fDPf6v+W7VhrF0+J1u1aX0yITiJVN2bZWhUOW8PSsS+e2ppI8/1p97cjktBlOHcEaIdEILuLdY=
+tccoougi7ftd1dsfm53rgpjo12puqlaf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  tce62sehilnpk1ucl078nuvnd3jsnbhd NS 

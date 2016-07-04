@@ -1,0 +1,4 @@
+060f1r9i5a3lujbgm798b9171c0d7is0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. OGMlyv8gwiBsufee2qklm7bV+3lvtFf9mSaeXNNWcSCPIGIjAtR/xbgz3k4HsLdYP0OlJXRX2lbJNeLdBqp5s/eFj4J9NMR0WuMp5eKCqpCh/+awCbQbKqLgB3zwBZIzNN99/g72V6Gfm3lZKvunr1nqXWWfHhlFzKFGNfsow0g=
+060f1r9i5a3lujbgm798b9171c0d7is0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0611rq3ceueugg4dskqd2afj2ak9b5vt NS 
+kelso.gov.	86400	IN	NS	a.dns.hostway.net.
+kelso.gov.	86400	IN	NS	b.dns.hostway.net.

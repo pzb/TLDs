@@ -1,0 +1,4 @@
+d1ekr5vk58ot7cbbj74vt0hol97003nu.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Z8nouF1qOijJG5Qeoz1G2geMRRLpF6qr/uM2FG9S8k4Kg22DO/wDGnADW2pN+Np7VE07WbK5oXomgXJE9HJdUkanlTYwjV1VasxA5WtLcWwUjXpDY56eG1bLGWlZv2GiRJxBHVRbVkzqFStpYnDaQRreglA34ckgsz5s9Sk0zRA=
+d1ekr5vk58ot7cbbj74vt0hol97003nu.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  d1g51jvu48inoiv959jbnl0u5hahh5tj NS 
+enfield-ct.gov.	86400	IN	NS	ns1.coxmail.com.
+enfield-ct.gov.	86400	IN	NS	ns2.coxmail.com.

@@ -1,0 +1,5 @@
+8aqnh43imj6kruvueoseg4196aeuhlbn.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. OLAwi4hmcta6qIazvnsZSiFhMolEeyP0QVSa2wwB69nJlqRM0Pg7hTkHT0UNdRwkrGCnBrxCqI9tgUAfwGkG31HNC2YAgxN9G6XeoQeoePDRyduoL4ikmuavlnazHVWF8bECgFKp0/7b526avxIP4EpDIUJ2AuqFip9McxkbrfQ=
+8aqnh43imj6kruvueoseg4196aeuhlbn.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8auofcj5kombk6hmv9p0rg955flac325 NS 
+buncombecountync.gov.	86400	IN	NS	ns1.buncombe.nc.us.
+buncombecountync.gov.	86400	IN	NS	ns2.buncombe.nc.us.
+buncombecountync.gov.	86400	IN	NS	ns3.buncombe.nc.us.

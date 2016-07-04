@@ -1,0 +1,4 @@
+jeffersoncountyms.gov.	86400	IN	NS	ns1.premisesupport.com.
+jeffersoncountyms.gov.	86400	IN	NS	ns2.premisesupport.com.
+rf5hso46ik32qcsi0b2vnn19l637fsur.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Jv3iVKRxS3K88a+xEh1wecWdwbuWAuOBl/BWYPJ8zfm+jlH5dfLAkXWUcJidJttUWiwF1/10qubT6b/1knqWchFQVTbHfYgdDh3BJa/zbYdaV/vw2bmd7uKokYspx20MNwTUgwxW4mhJxbMMeo0aGMwVlRXqzqwyS38M7ZkXmJE=
+rf5hso46ik32qcsi0b2vnn19l637fsur.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  rfgi4dphsm6c92ensa9q8c34mbflnu22 NS 

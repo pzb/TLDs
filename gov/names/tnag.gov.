@@ -1,0 +1,6 @@
+dns4.tn.gov.	86400	IN	A	170.142.92.58
+dns5.tn.gov.	86400	IN	A	170.141.168.22
+tnag.gov.	86400	IN	NS	dns4.tn.gov.
+tnag.gov.	86400	IN	NS	dns5.tn.gov.
+vjb9v5lbg6hhfgloeclm8s62na7875qk.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. vgAV5kDG0ULcESPqzGMoik2/rOB3gv4CowH0CuklfVg9k24w2CMu3ELgK+yQK4REIpgB0zw2NlEiqFA3R5+q7bwC1OG9z2+7L3Hgt9oFhm6OhJVPvHOIFEDPrkB5EioAjknyym9UGeOpg9FqopWXwBDtCpJhpVltN3a6sfome5E=
+vjb9v5lbg6hhfgloeclm8s62na7875qk.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vjck2cj2lq1j9ftviqc1nf1ct4utrqel NS 

@@ -1,0 +1,4 @@
+cm18p0pmdtlqo6kfs0mig731fdpb5ntl.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. J7dezdKGXub26UTi71yOPN5yGVQKfynjnQ2mJLNHeai6T+xW1SWOIPpxXeRPzIVlzM57zgoidWOxqXxLqNEGGAq/QVzluQ+c7CQAvS1nT67V3G7VM47BnmiQy1mKVjHQMMIKR6iv6oYU5JnsFoCG0+aWfDAv9OCsOMYGCE9bQjs=
+cm18p0pmdtlqo6kfs0mig731fdpb5ntl.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  cm7oclfck2ki8jfhol8mf3km6q8i7c57 NS 
+southcarolina.gov.	86400	IN	NS	ns1.net.state.sc.us.
+southcarolina.gov.	86400	IN	NS	ns2.net.state.sc.us.

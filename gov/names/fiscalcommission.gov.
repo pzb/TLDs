@@ -1,0 +1,8 @@
+fiscalcommission.gov.	86400	IN	NS	zc.akam.net.
+fiscalcommission.gov.	86400	IN	NS	use6.akam.net.
+fiscalcommission.gov.	86400	IN	NS	usw1.akam.net.
+fiscalcommission.gov.	86400	IN	NS	asia9.akam.net.
+fiscalcommission.gov.	86400	IN	NS	ns1-145.akam.net.
+fiscalcommission.gov.	86400	IN	NS	ns1-176.akam.net.
+fiscalcommission.gov.	3600	IN	DS	8025 7 1 79f5d8d2efc87ba25af38ef97149c8a458a1fe38
+fiscalcommission.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. E0E/m6LmfShWfobdV6uCQ8rTuWFC4GeZ4oGSdKAfAyqvaaJ8B92rudqBwJSaLlhaEcqcbsunvgPPKUSRNBUOlLQ+lCISiGbS6F2jXUwxTZR7Ub4VDHbDNELK0PVbCXE1dJrLgMx/9QvDlGXStUbyDvBxli/6568l05YdVGkusGs=

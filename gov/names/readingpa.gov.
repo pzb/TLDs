@@ -1,0 +1,7 @@
+gs4pgsp59btet1a0ru7ua46eggs3fsfu.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. gDOGASN71hrDBxqFjD+yi70QpCErSZHG2cBQUYwsKmqcB3GXeGZfBHPFzKmAkSqrEmcDLSom7XcpA69DpNXVlzo0eBo2ejWbN0BUJ0bVR1fGgLgqPJw8GFqG5opCNyUZaNQBhgSpta3Q8wmtx9eNJA0HELcIG+URrEdSiW5erV0=
+gs4pgsp59btet1a0ru7ua46eggs3fsfu.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  gse0f432lhca8mgdinr1istq1kma9oqh NS 
+readingpa.gov.	86400	IN	NS	ns1.comcastbusiness.net.
+readingpa.gov.	86400	IN	NS	ns2.comcastbusiness.net.
+readingpa.gov.	86400	IN	NS	ns3.comcastbusiness.net.
+readingpa.gov.	86400	IN	NS	ns4.comcastbusiness.net.
+readingpa.gov.	86400	IN	NS	ns5.comcastbusiness.net.

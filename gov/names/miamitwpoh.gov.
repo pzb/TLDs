@@ -1,0 +1,4 @@
+fmpfh0n6c52uur6o4h79t1rj2ii9tc47.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. XVVp6pexu6t8SPUpaVjh1nxdSFs+RM1U6HJuWdpfrClSy8cyiHC5w6wByRqzV+ouysy81b7c9Ktbntm/b8cyUjZrW7Ig8zNfMlV4JqKiax16LM672PR6BsdPTcg2o0m8fBPaLgGCTVQpp+ufVSxH9+cpLWKzaWYylHDQsNOA7h4=
+fmpfh0n6c52uur6o4h79t1rj2ii9tc47.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fmun4269ka3qr3as4g02odc4a995c9r2 NS 
+miamitwpoh.gov.	86400	IN	NS	ns3.fuse.net.
+miamitwpoh.gov.	86400	IN	NS	ns4.fuse.net.

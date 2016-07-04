@@ -1,0 +1,4 @@
+ihsjc4ik0g4jo6cvh7bjmlk8ul6uqa7i.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. lxkbnCWPFGR25WWQXxjL8+zIPbYUBzBS59tWL/mTvKuuPPzwy8GPlV5ad63Sy8UVuTvjsvLmb4rmWiR/ZMjRHpNtC8+WyufKRiaB0Lhyd8KUojxn5AfMnwKS2R1LCy7Lr+UF6NTULPhmVXsYNx67+VIlz061llq4yvfokLzvpLA=
+ihsjc4ik0g4jo6cvh7bjmlk8ul6uqa7i.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ihuer6apc080f2d9lphevu4odod5s27c NS 
+nicholshills-ok.gov.	86400	IN	NS	ns1.swbell.net.
+nicholshills-ok.gov.	86400	IN	NS	nhns.nicholshills.net.

@@ -1,0 +1,4 @@
+8m0ev3rf33chciubbcnu05bb3druvi4v.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. CWLAqb6dNej29fdjfk3y0YIsRh/IbFi1tNwtJNcl7OydRX83CHF/M7HSJmEEiqMGpl3WRyJCE6uWVTeihwZgIZ+U0BIaJxIMACnjVBOzuRXahuGt2iA5R4LsYskXRhyDRH3I6WKUVLBmp7kHb/fquogMPx1oBAQbzEbs5Ciphq4=
+8m0ev3rf33chciubbcnu05bb3druvi4v.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8m2jrmp21dg35nclsh4b7ctc90f4ob9o NS 
+booneville-ms.gov.	86400	IN	NS	ns1.premisesupport.com.
+booneville-ms.gov.	86400	IN	NS	ns2.premisesupport.com.

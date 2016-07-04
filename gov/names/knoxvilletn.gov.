@@ -1,0 +1,6 @@
+knoxvilletn.gov.	86400	IN	NS	ns1.knoxvilletn.gov.
+knoxvilletn.gov.	86400	IN	NS	ns2.knoxvilletn.gov.
+ns1.knoxvilletn.gov.	86400	IN	A	12.204.220.254
+ns2.knoxvilletn.gov.	86400	IN	A	50.76.175.193
+uj225pfs5djn7mog6r7b0vqqpadj85il.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. CIWSirUe4cKDP5i78tlgLY/wj2X69Z5tEFZZjDDNLW63twSlXklZTgi4TpSE+JEUqNGl5TsfUQjuTFGxm3eP5MqIb+M4/eFbQnFmbjR0jQK5Um7Xid1J28GbbE7S5LTee0B263VqpYrNfMJ0DgYmGGD3LwBKq8JYGcRG3Q2wDKs=
+uj225pfs5djn7mog6r7b0vqqpadj85il.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  uja05j5j1nst2auvt23hcsjvh540klm4 NS 

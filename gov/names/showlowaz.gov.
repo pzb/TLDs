@@ -1,0 +1,4 @@
+5knfeajourml72nure78rdb4np9kni8i.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. xPurgLs6XA8gGWZ9SSCGjgCKPbkyOTPRSPzT4EwAST94/xIkbzTwMzWTB3Pz+kXrOJlrS7g+vNVOjd8B9RdqdN+E0SSs/UATO+JlNZI998KEuyIxF0H7S9JhXo0QkGFweGLrbvkBqiytHK79vMzhwFglZAHBoxTd/5fEqI599PQ=
+5knfeajourml72nure78rdb4np9kni8i.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5kujrv9jlcnaatrcagl8g3cjqslb8oje NS 
+showlowaz.gov.	86400	IN	NS	dns1.civicplus.com.
+showlowaz.gov.	86400	IN	NS	dns2.civicplus.com.

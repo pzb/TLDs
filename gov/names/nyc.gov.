@@ -1,0 +1,11 @@
+nyc.gov.	86400	IN	NS	vwall1a.nyc.gov.
+nyc.gov.	86400	IN	NS	vwall2a.nyc.gov.
+nyc.gov.	86400	IN	NS	vwall3a.nyc.gov.
+nyc.gov.	86400	IN	NS	vwall4a.nyc.gov.
+nyc.gov.	3600	IN	DS	31576 8 1 099f9d7c64944e94160b9fcba58237e82bdbba28
+nyc.gov.	3600	IN	DS	31576 8 2 2c851d8e60f659d6e6313390e142c5ade43bdcd145b85b7e7fdb51e915cd21c3
+nyc.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ugAJAIPDE8OUBKEgUm+bf0MTdXmyfxRWS62mdvw8xWxAUUxdD4uaIC9v7hZVH91mJSioZR2PX0Zsx/2BJDaBiDBeQFXRW7SNLx3Li3B8xZxtzALYAtirIw/DA2ec/23e+IO9i7jng2mDUBTA72U2FC3hagvfv0TqrmHEa2B5WGY=
+vwall1a.nyc.gov.	86400	IN	A	161.185.1.3
+vwall2a.nyc.gov.	86400	IN	A	161.185.1.12
+vwall3a.nyc.gov.	86400	IN	A	167.153.130.12
+vwall4a.nyc.gov.	86400	IN	A	167.153.130.13

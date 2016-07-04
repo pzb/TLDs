@@ -1,0 +1,8 @@
+omblog.gov.	86400	IN	NS	zc.akam.net.
+omblog.gov.	86400	IN	NS	use6.akam.net.
+omblog.gov.	86400	IN	NS	usw6.akam.net.
+omblog.gov.	86400	IN	NS	asia9.akam.net.
+omblog.gov.	86400	IN	NS	ns1-145.akam.net.
+omblog.gov.	86400	IN	NS	ns1-176.akam.net.
+omblog.gov.	3600	IN	DS	60648 7 1 a85633479e616fb1114dc0f05961a7d51b3d247d
+omblog.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. QTzn6u/jVK4s67i9tdJXN2OXIcdnbgX1HOAssbZADtjIDhHWwhM4yewzfwvGiZ0OJsPFdnBSa1qtbgfEX/pezM5QVH+BMnfhV1cI4kBjDa4tuypr9eZ+IXXPiDLP9/3dCSRUvuSkA5UxIpEBurpJk5zfkP10ZxhN/XAvzxlmO9g=

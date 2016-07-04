@@ -1,0 +1,4 @@
+65r0n20ij68sol7r7if8objl47o8stji.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. LzcZ5mQG6v1/nIf4sjv3YcS+XDbNeWVbMlNmW1De7Askms1z/+WXLJAexFmZ1JrJCMN4rqlfJ1dE/WBgqssXJpWmIVBxa5ZQl39aRA/yDys+h/vJSGZKmjhMCasMH6Y47Z0+GuGIAd+hut78/tXMOnOhEFVSkSeSmXVzGn37Qbg=
+65r0n20ij68sol7r7if8objl47o8stji.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  65rl23kfaruma50jcq402c7tlv1eseun NS 
+eugene-or.gov.	86400	IN	NS	cens.ci.eugene.or.us.
+eugene-or.gov.	86400	IN	NS	phloem.uoregon.edu.

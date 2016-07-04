@@ -1,0 +1,4 @@
+ka690fnatniqid78pvjh8b29tb4p3bio.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. F/OYbBK4UHhWaAGOmeUXVIcoEG4C3EOA6DurinOTGNNayeg46cPn48qP6BDn4rG7niQlbiZpX/hh2FBpg61RALXwd+6E98gb8KEMHXn4eWRY8dNDCzXKhMOVVMzf6coyxCKsinKhEx5QcqCtxPE2Y3CyFXG+nWNRKxzR5PTaC/Y=
+ka690fnatniqid78pvjh8b29tb4p3bio.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kaqqhvahkg9ml8utc9qcov5l8gdcl1pt NS 
+mccrackencountyky.gov.	86400	IN	NS	ns.jaguarpc.net.
+mccrackencountyky.gov.	86400	IN	NS	ns2.jaguarpc.net.

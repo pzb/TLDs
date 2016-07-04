@@ -1,0 +1,7 @@
+libraryofcongress.gov.	86400	IN	NS	ns21.loc.gov.
+libraryofcongress.gov.	86400	IN	NS	ns23.loc.gov.
+libraryofcongress.gov.	3600	IN	DS	14926 8 1 7ec902a12b0d54de7b35e25bdc2fc91b53dada66
+libraryofcongress.gov.	3600	IN	DS	14926 8 2 8b80d0e598b81a927bb153862efd9b001e4854e0106bae0d5ebdaa1363dfc8c5
+libraryofcongress.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. EEqymyaS8ro+OaBoAnDaDDiFV5DzReF8IlEFgVmS+1cYJBXPMymWUj1nsnlytvSlZhIuPixZPuqJmWnRTuzVmhmAOmU+zg9Imtyz94jy+WquGM4hI5F9RXj3uICTCSmfRidUoqLhIb0i4dnod2pAAlgpA3gcNgHxIREjDa2/qgg=
+ns21.loc.gov.	86400	IN	A	140.147.32.166
+ns23.loc.gov.	86400	IN	A	140.147.239.150

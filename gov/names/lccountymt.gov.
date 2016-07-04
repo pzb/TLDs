@@ -1,0 +1,6 @@
+lccountymt.gov.	86400	IN	NS	gumby.lccountymt.gov.
+lccountymt.gov.	86400	IN	NS	sparky.lccountymt.gov.
+gumby.lccountymt.gov.	86400	IN	A	206.127.88.8
+sparky.lccountymt.gov.	86400	IN	A	206.127.88.9
+v5ghc6ff8la3u2q6ij8glvjmnmcqvs84.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. h95T1s0nqS3vUbEVRfqAWKt9iH1L48RGrhP1e0e5JuNHNFjBINRAz7MTgy5siHCr8J/5I/1JrU9eLbolnVDIBrCX+Q5R+IdvmK2LFYaEBNf9hxP4pG89OmHA0KpFiSDaM7+WJ1NLf70JgWbS8BDkp8jq5M6ELp/fkLQeIa2X3CU=
+v5ghc6ff8la3u2q6ij8glvjmnmcqvs84.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  v5l4ldcp5dcq9614euui9b5e0058njts NS 

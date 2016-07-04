@@ -1,0 +1,7 @@
+8ms2s5a4ovlm3fmj4lpuf7f5jgnl2vv7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. E89+44PfXfOJpkNgR8oGwUtW+24BfuurIfwORmErKyk+GYJeThDbIcqw2vtgWMmr93aUnJJUdMZDy1hGW0tUFru9rVe/8UYL+YS8IdhqQrFSOPScVycdnfM3PRg5p8ZsTr7MUdDkAYyp14NIuBPAXXQvPh/ZfCktp7VAMTzobw8=
+8ms2s5a4ovlm3fmj4lpuf7f5jgnl2vv7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8n0bg95qsufvpkdoshibq2hflksue4sv NS 
+ose-ct.gov.	86400	IN	NS	ns1.mydyndns.org.
+ose-ct.gov.	86400	IN	NS	ns2.mydyndns.org.
+ose-ct.gov.	86400	IN	NS	ns3.mydyndns.org.
+ose-ct.gov.	86400	IN	NS	ns4.mydyndns.org.
+ose-ct.gov.	86400	IN	NS	ns5.mydyndns.org.

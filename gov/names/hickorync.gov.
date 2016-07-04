@@ -1,0 +1,4 @@
+bisjoqdbnjj4ojb7cfh7ugoh47fhj5qh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. E+f8ETPk/zReCdJa66xNDdnQRmsPPXI3OmSUlj+x9L/m9YdwlCbZH2JAsFw0j5Z24JjTNToi93JA2+/VgxPuHHzXbqeuTdQqlFC/3aczerkqcY9+e+LbXtqUJBRDH9MC2VSGqxLQyoICaRFrlx3IIrabT/SbEhZ9ZN00CjTpJdY=
+bisjoqdbnjj4ojb7cfh7ugoh47fhj5qh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  biu4r752ifi73urt61oa34mbs38kt0b9 NS 
+hickorync.gov.	86400	IN	NS	ns1.directus.net.
+hickorync.gov.	86400	IN	NS	ns2.directus.net.

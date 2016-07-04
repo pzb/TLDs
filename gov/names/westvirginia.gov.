@@ -1,0 +1,6 @@
+westvirginia.gov.	86400	IN	NS	ns1.p24.dynect.net.
+westvirginia.gov.	86400	IN	NS	ns2.p24.dynect.net.
+westvirginia.gov.	86400	IN	NS	ns3.p24.dynect.net.
+westvirginia.gov.	86400	IN	NS	ns4.p24.dynect.net.
+westvirginia.gov.	3600	IN	DS	27007 5 1 395768bb5eba08c61dc0343bba4ce9ef5858b554
+westvirginia.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. XbLr8EqGyyViS/KhltIaCeZnn/TrAXj3Bsx0CmG7I3vY8VdwhEKciIUNrtoClrwnb6hDERwTMXp132ZB2LUioNwCHc0Ayfmus06ac3buOysQtQQJ6CtVwlHIYhKy1WmByR3z3+kpuIk+TXeWWBQa+pR5aKYtadGIiGWrqnUgYmU=

@@ -1,0 +1,5 @@
+redding-ca.gov.	86400	IN	NS	ns-197.awsdns-24.com.
+redding-ca.gov.	86400	IN	NS	ns-597.awsdns-10.net.
+redding-ca.gov.	86400	IN	NS	ns-1365.awsdns-42.org.
+rjeac5tfuq9s365n29lgqp50m3q3q2ka.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. NkR3+xE6k+D8s68ip80rI8IA+DkMoB5iM7VUpCcx+yqZaYREnk4/6+gtxOX4gfA/m/Tm/DGfg2bYdrYTIzu0a2x6z0HBjTB+eK10bB7/4LGIX+KE8OwBdLGFU0nbVxZ18QuHha39wx3tVGdZl531vEVUSduUEHQTWF2njt7bkno=
+rjeac5tfuq9s365n29lgqp50m3q3q2ka.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  rjiuaih53rif6u60j0dft4ltapioo78f NS 

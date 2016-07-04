@@ -1,0 +1,4 @@
+0g0cfbgpc3bdg2kfridq4jon01ptnmg2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. FvqI3A2zxdhbeH4OT6yDSEkjb2pwS8x4rv4NWtEK7TSL8+Dq4pPnB/p8uEXXDLhAkKdK3RVW4wJzh3bWPqKIqim4cw+nTmZ6gtyF9IFzAr0Ahv/AUnh3biQF9Wb1QjTmJktJjlKSzcp6cznwkW9yErRMQSETLhvrWYwnwQOzflg=
+0g0cfbgpc3bdg2kfridq4jon01ptnmg2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0g2il5jrbmio1l261pavmbc02seepiuh NS 
+njpaad.gov.	86400	IN	NS	ns1.state.nj.us.
+njpaad.gov.	86400	IN	NS	ns2.state.nj.us.

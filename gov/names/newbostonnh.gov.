@@ -1,0 +1,4 @@
+d4dmh5s7bgn20udpnirunmdpedou6c2h.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. G0gkHoINBt0DJ9JCDP+qBG85bQvrH+tUHCynZc+4Gf5AdoHRjy0cBrVmZNK4t4Lgmn+oFD0lgjyxtSzrk+vsZrsC492oMoY18XrlDbfXiAUzMcqT/OAcZZ9OKJA0DVEx0EbJTzg6tPOVfJ/q9bzM2IEdHCdqtGfBdsJ9yGJ0GE0=
+d4dmh5s7bgn20udpnirunmdpedou6c2h.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  d4i8es69i4nv1ubpcopvteh2418n61cc NS 
+newbostonnh.gov.	86400	IN	NS	ns1.infotech-maine.com.
+newbostonnh.gov.	86400	IN	NS	ns2.infotech-maine.com.

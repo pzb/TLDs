@@ -1,0 +1,7 @@
+dns01.cns.gov.	86400	IN	A	152.180.8.143
+dns02.cns.gov.	86400	IN	A	152.180.134.207
+learnandserve.gov.	86400	IN	NS	dns01.cns.gov.
+learnandserve.gov.	86400	IN	NS	dns02.cns.gov.
+learnandserve.gov.	3600	IN	DS	6870 7 1 d0feea00c8e8b18e944a6a6ee58c75be1a1eaefb
+learnandserve.gov.	3600	IN	DS	6870 7 2 9ea58b553ecd9188336c8416b980931bf1a36e59961283ef12f1688a568d1f58
+learnandserve.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. kH0MyJZ4jfFTAgEPS/hMjKhJQmjhLKXcAkChG4+am6aLoIF/CrP5UTJyTRWuX0ukV2L3XI8nLF136mdE0l8FK4gocPtAandJyhyKBBju8r8SK7wPaM1FGaCTjMDta2wn+LBWymRhVCO6h9Xz0Lb9VPJgDJpOIKeLCUa9Ea1n+9k=

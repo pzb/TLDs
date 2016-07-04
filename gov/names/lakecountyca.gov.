@@ -1,0 +1,4 @@
+jrb8kcpfjr46sm61dp40r1b1qfucacgn.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. kPeTlJlPo8xbfWGkceNghdAppGlIvl9kzpqBPQX3/gnNUaeZJiT0G1zX2hbNd8IM+IxYzvZuZqdQhtZyTUEPz4CuWNha+2t6Db+cMhKT/EBxo+wN6Lw827ZhmnQx6/pXKnm7Gx/J2GOxFJIcaUZi8nbAKl8M/XnGWW1lswInRz4=
+jrb8kcpfjr46sm61dp40r1b1qfucacgn.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jrdpefvhshlecdcifhvjq92v6bl6gm1u NS 
+lakecountyca.gov.	86400	IN	NS	dns5.lake.ca.us.
+lakecountyca.gov.	86400	IN	NS	dns7.lake.ca.us.

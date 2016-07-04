@@ -1,0 +1,10 @@
+k95efvd7sfmgu6jtcs2ebrh7212aeg6l.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. BeR2A05HnmsUDqJtv8gI8CStXsd0iIq+gdXZ2jF76Y6zFMLpscftFwIVmkCglB7X4iHl9ISqqvlLPQhboith1tUK6Er+5atRxYn1w3urBJnsNZMLLh7EvzXWvX2pppnl2ZJDeyrsXaYUMop2FXpBT9oFI6nquGSNHa115VW1AQg=
+k95efvd7sfmgu6jtcs2ebrh7212aeg6l.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  k9koeo1mi792k9c1bkclgiqto0apf8q6 NS 
+washingtondc.gov.	86400	IN	NS	ns1.washingtondc.gov.
+washingtondc.gov.	86400	IN	NS	ns2.washingtondc.gov.
+washingtondc.gov.	86400	IN	NS	ns3.washingtondc.gov.
+washingtondc.gov.	86400	IN	NS	ns4.washingtondc.gov.
+ns1.washingtondc.gov.	86400	IN	A	164.82.148.141
+ns2.washingtondc.gov.	86400	IN	A	164.82.8.16
+ns3.washingtondc.gov.	86400	IN	A	164.82.148.241
+ns4.washingtondc.gov.	86400	IN	A	164.82.8.17

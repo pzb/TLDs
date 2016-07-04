@@ -1,0 +1,16 @@
+amberalert.gov.	86400	IN	NS	ns-jdcd-01.usdoj.gov.
+amberalert.gov.	86400	IN	NS	ns-jdcd-02.usdoj.gov.
+amberalert.gov.	86400	IN	NS	ns-jdcw-01.usdoj.gov.
+amberalert.gov.	86400	IN	NS	ns-jdcw-02.usdoj.gov.
+amberalert.gov.	3600	IN	DS	24337 8 1 70329665a5da54be30cb07d952062b745f4a9b9b
+amberalert.gov.	3600	IN	DS	24337 8 2 6b364bb3f71462a3227502d2a280c052c3546ea18e0dea1dbc61ec7370d09bb0
+amberalert.gov.	3600	IN	DS	60541 8 1 139eaa55184ef42cb8a977a413baf02c99fcfc2f
+amberalert.gov.	3600	IN	DS	60541 8 2 3a74a0ad5b033c4e8f52969c390ca7a7ee38cb9cd5b71ce8b8d0c51a01d5dec2
+amberalert.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. uEyOysyijPBj2cTv6Us4d/pWDcmgmOTzXUaSrwi12y5OGUvSv4CYBPrUZMhi25cHGjV9g4PjJC6Ks96VKOgFoWdFUoNoQfTLEfGVvIEGvFrkp+5AZkbGtpN52fT1syUMWzseAXTkSE0UpwJIujxGh59KNPVkLN0zlHHBbjLr36Y=
+ns-jdcd-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcd-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcd-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcw-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcw-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-02.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::6

@@ -1,0 +1,4 @@
+9l8o4u6qrnl6h7dvte6t1oqhgjmln7rd.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. rtT6OOYIwLZe9Bucn0cLy7hQzH9LB37E1b3qasBjXPRMwlPNt1b1KI3YNm7YMXbkBcKJp9flpie1g+41TwNBSOKzEKHPeLyrYrIrkpnxsKIlQB4w3uoGeygjrduMssf96sxMJC70/vOjCzvqZ+MUjYjYL0BxSoEiieMR2NJZYF0=
+9l8o4u6qrnl6h7dvte6t1oqhgjmln7rd.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9llg988ndg7bb8e14de94vulra078q58 NS 
+newarkde.gov.	86400	IN	NS	mns01.domaincontrol.com.
+newarkde.gov.	86400	IN	NS	mns02.domaincontrol.com.

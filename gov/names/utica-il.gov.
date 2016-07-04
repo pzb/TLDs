@@ -1,0 +1,4 @@
+t13665oa48o3rtl0qkmubomhnm9rdtat.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. UnmI+JFzFoV6lMx+Gojbbz2wIPgBcCgtxOWEx86oEFBS3c4UYJTp3X8rPDWb9KBBPvai+H37G7MQjS0iAUVXYilK5CubhX4imNPC9qRRuC29uUVhATWu3FUMbUzs311vuW99zjspoha4jlLYBii0CM+mI+QTQW9gcu8Z2tnjzU4=
+t13665oa48o3rtl0qkmubomhnm9rdtat.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  t1c3iqi89pouh72m94ousr08fg2mpn7s NS 
+utica-il.gov.	86400	IN	NS	ns19.domaincontrol.com.
+utica-il.gov.	86400	IN	NS	ns20.domaincontrol.com.

@@ -1,0 +1,8 @@
+greensboroga.gov.	86400	IN	NS	ns1.easydns.com.
+greensboroga.gov.	86400	IN	NS	ns2.easydns.com.
+greensboroga.gov.	86400	IN	NS	ns3.easydns.org.
+greensboroga.gov.	86400	IN	NS	ns6.easydns.net.
+greensboroga.gov.	86400	IN	NS	remote1.easydns.com.
+greensboroga.gov.	86400	IN	NS	remote2.easydns.com.
+uh4qstns5vhaoftvhl0jtaru41tojqug.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. tF7rmsLjxSCzoMXmtFSrEkhlRg2Cvi1H2zSIRRJaipEdcRsfPxX/icmlHBCHxuodaH2wwvacWTxI4GWrbwdsvPrs2AARRdGo8VbYIx2kZpwAM2FcydV3DDyQux23nfJV51Nby6fUgF3wdQjCIOXvjeBMdrkXGsRECi5Hemqp9To=
+uh4qstns5vhaoftvhl0jtaru41tojqug.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  uh5huasnka9jpc9l6vfvit6cjh99ahf2 NS 

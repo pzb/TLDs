@@ -1,0 +1,4 @@
+k03icum6oda1gm7kttaqgqgcnb1q6761.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. BCqVICRdOOWfPY9Yig2S6PSB5DGOIj+HsDICQQx4AMI17iwdyeB9bVd0xs6b/6aHHOMhsQM76pdkthF6HNZhsX8zzhtTGvn9IjrDesHZ9TJ1/onlok1yk9uL2EVi4+PESEysdYcC490wDL3Puv1STvkewDE1u6TlFUQLmiEeZsI=
+k03icum6oda1gm7kttaqgqgcnb1q6761.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  k0dnsi4jvdthaafrisduglsg9e0m5arp NS 
+moorecountync.gov.	86400	IN	NS	pdns07.domaincontrol.com.
+moorecountync.gov.	86400	IN	NS	pdns08.domaincontrol.com.

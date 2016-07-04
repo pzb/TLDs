@@ -1,0 +1,10 @@
+ihaueiul42sccvnrenl31aveho56d5vr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. jOwWogZuBuQDPLMmTmpELf7dBf0wbPO8CXQq2rS5bnN4llyL633Ux/7SSiXmDsFyPZARxNOcsJduE5MdGkpDSNXTjA4Zw/F+fvBHWr4evDoLmrerW5dpWu+h6P07vKgF9XlhaW3BjUVI2Cz30zXhZW7sqOg40JPU7Dx1bFnXtVg=
+ihaueiul42sccvnrenl31aveho56d5vr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ihkes4g6q8m7gbc6q49v4vijaa0mmcde NS 
+supremecourt.gov.	86400	IN	NS	eur2.akam.net.
+supremecourt.gov.	86400	IN	NS	eur4.akam.net.
+supremecourt.gov.	86400	IN	NS	eur5.akam.net.
+supremecourt.gov.	86400	IN	NS	usc5.akam.net.
+supremecourt.gov.	86400	IN	NS	usw1.akam.net.
+supremecourt.gov.	86400	IN	NS	usw2.akam.net.
+supremecourt.gov.	86400	IN	NS	ns1-62.akam.net.
+supremecourt.gov.	86400	IN	NS	ns1-216.akam.net.

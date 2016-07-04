@@ -1,0 +1,8 @@
+intelligence.gov.	86400	IN	NS	a1-22.akam.net.
+intelligence.gov.	86400	IN	NS	a3-64.akam.net.
+intelligence.gov.	86400	IN	NS	a12-65.akam.net.
+intelligence.gov.	86400	IN	NS	a13-65.akam.net.
+intelligence.gov.	86400	IN	NS	a16-67.akam.net.
+intelligence.gov.	86400	IN	NS	a22-66.akam.net.
+intelligence.gov.	3600	IN	DS	54595 8 1 c10f8bc1140da12edd99f6a396bfe1d6e179cd53
+intelligence.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. rV5NHCXQvOIknKy4m/Le0JxkPro03oPQV5lWyRaPP7sqkkmbqWxrU1UBeaqVLV4S2mM0n89tVbW8gFsbis/q+E2e1CEIjlPe9otXm4TmVvTxSJve9N0xlNeeUdN6u+fXugm+XW+zt4LYGgV2ve5ANIxZ3UHBFarcxwbg6utU7Io=

@@ -1,0 +1,4 @@
+ij3vci763tq9d9vmg1lahd18ie3okhif.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Y0rEWw5LPaMJoKxt1s5GF7VhXtQQkA84JQzJzxdwb6OLtzrmLI+PpZxpiNnMkW8ZHK+5xFYCRMJVl1lJrInyhtz7k+5kLSeVVwlUIHnb7Y+j5Z3IB3mdKLEvqbGwvv0f9CzgaMROW/wK7bnPsm6AM+/lVUO8BqdTAdLVu+YLlF0=
+ij3vci763tq9d9vmg1lahd18ie3okhif.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ijlh1obckkn0m0po3okkmbc74teb2065 NS 
+iowatitleguaranty.gov.	86400	IN	NS	ns1.cyprusweb.com.
+iowatitleguaranty.gov.	86400	IN	NS	ns2.cyprusweb.com.

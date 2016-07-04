@@ -1,0 +1,4 @@
+agr572gevkett62jm2clu0htkvohrqjj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. MPG2QJyj7mATGC9quRZ9FHSOx4VCYCtdckB03s6UBp0/KJwJzR9v2+qQprBsNWXpluqry62IFUvhtbIAX9vuXV4P1DRAxNC7+1uusR7OIPD+HPat5NQ6et5C1AE16df5hiIOCONpQO1jXDcBBnKX25I3SuAiSKterDRG/5ztrc4=
+agr572gevkett62jm2clu0htkvohrqjj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ah0dmgji85qoe0pfhcuoinjginbqa19a NS 
+mckenzietn.gov.	86400	IN	NS	elmo.ns.cloudflare.com.
+mckenzietn.gov.	86400	IN	NS	ulla.ns.cloudflare.com.

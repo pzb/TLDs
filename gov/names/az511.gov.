@@ -1,0 +1,6 @@
+az511.gov.	86400	IN	NS	ns-210.awsdns-26.com.
+az511.gov.	86400	IN	NS	ns-586.awsdns-09.net.
+az511.gov.	86400	IN	NS	ns-1493.awsdns-58.org.
+az511.gov.	86400	IN	NS	ns-1809.awsdns-34.co.uk.
+va95hqpujd1j4j4o7oe3dak1dbl1ud8t.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. prdEdOf5qchuXYdWA1Zia5iAPCucAZ7MiMIcd7K8aupYtxZyZUuHmlFNBSh4X/qcSN74MUMt9HSvUBaGXPFGp7qmctjsaMQyO/DzOJRxzyKP74KxBmUmsph26uXYdF0ME3dw5Dfj7HmKkRTRjP10oscfTOYUeHFeRoJ4GksWyFk=
+va95hqpujd1j4j4o7oe3dak1dbl1ud8t.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vad4ebcqlcrvi2tlf4vq35046fc280ve NS 

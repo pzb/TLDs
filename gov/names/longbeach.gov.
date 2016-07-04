@@ -1,0 +1,6 @@
+longbeach.gov.	86400	IN	NS	dns01.ci.long-beach.ca.us.
+longbeach.gov.	86400	IN	NS	dns02.ci.long-beach.ca.us.
+longbeach.gov.	86400	IN	NS	eocdns01.ci.long-beach.ca.us.
+longbeach.gov.	86400	IN	NS	eocdns02.ci.long-beach.ca.us.
+orbpuvm5g8tedlh6i9bdmj2vc73j05ci.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. cV+l6mJTmvRQx+8ww6xRIBj6a97qKrYoc6EllKHYyB4ztgMXP3MbVRP+6N+OURrfQB4RAuFSr66oMG3+5lIWEeBL3FUnaJpv0XPvHIG+jS8WLQ429C0j4RbCdkZf+xuLl+Zs1SKJSd4L/D/z6ObXG29f6R0Plele9oWxjyfwycs=
+orbpuvm5g8tedlh6i9bdmj2vc73j05ci.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  orfmk0lutq0cqq421l3kmvu6s0tqpu4b NS 

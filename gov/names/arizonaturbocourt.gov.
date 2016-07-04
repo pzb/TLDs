@@ -1,0 +1,6 @@
+arizonaturbocourt.gov.	86400	IN	NS	nsa.azcourts.gov.
+arizonaturbocourt.gov.	86400	IN	NS	nsb.azcourts.gov.
+nsa.azcourts.gov.	86400	IN	A	67.131.23.11
+nsb.azcourts.gov.	86400	IN	A	67.131.23.12
+iabutrcr8vp5gmmbbpsh0tumjtp5ig4c.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ifgRdV5ScPm0DpaaR7CpvgOn2LifIBJDdnELvGMJbh/n93gNud24EIghwADKb5GX/QUD+vPaQ863C45Ad0XCzqdmxlwREtvVBuKX1NrJRkfzjgC6lbGtK4n8+27rzUnQZVshyO6z7Hzah50wKHpqRYBXQxyV6GyRhYuPs7CgUx4=
+iabutrcr8vp5gmmbbpsh0tumjtp5ig4c.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  iacvjafmbuejhkrh3a3rbqjulgckj1rp NS 

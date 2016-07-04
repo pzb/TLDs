@@ -1,0 +1,4 @@
+42k0nbbmpcje7pf0ch20gl3rgk0mn0ai.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. jNSnpIExiXZGZ836dQEnJKcmq2agWP+YjqVQ/eltQQmClPw9SS+m/Um/KwS5x2/GTIwxeStDdKkNsRDIFt5BAr+x30qPUhHAp+Xe9hl1Jg9fNkBTtnV7j8xYlMn1RM3ei/lFFPKJJ0iDQFdCfaGEX1hR3OywtUzV5kaC0B7i1c4=
+42k0nbbmpcje7pf0ch20gl3rgk0mn0ai.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  42kkodaj92c7cuqqo4aq732j7ie2qg91 NS 
+cityofolympiawa.gov.	86400	IN	NS	ns2.zoneedit.com.
+cityofolympiawa.gov.	86400	IN	NS	ns12.zoneedit.com.

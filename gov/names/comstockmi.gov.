@@ -1,0 +1,4 @@
+comstockmi.gov.	86400	IN	NS	pdns05.domaincontrol.com.
+comstockmi.gov.	86400	IN	NS	pdns06.domaincontrol.com.
+erkfkfd6nv1e4p6pp51c3vqktuqhngf8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. peAPvZcs+zOMZmRF+YSpPqje1E0+tRAzgOOSLDpPrmgjJGqxXvZzo6DeQyBnAQfFNSgJvQn2HfcLTKFkAptMbKq5UlAZBqiNqkOSiHZwZ9XiOpiaBqe6u2oFnf3tYuNcgP1gB0CUhN6NA9W1473WTtJ00Dtd7yD7z0D1cQ0EAwo=
+erkfkfd6nv1e4p6pp51c3vqktuqhngf8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ern7odub9qbbf3iocaj7crnev548ea8d NS 

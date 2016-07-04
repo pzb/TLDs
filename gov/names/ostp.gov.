@@ -1,0 +1,8 @@
+ostp.gov.	86400	IN	NS	zc.akam.net.
+ostp.gov.	86400	IN	NS	use6.akam.net.
+ostp.gov.	86400	IN	NS	usw1.akam.net.
+ostp.gov.	86400	IN	NS	asia9.akam.net.
+ostp.gov.	86400	IN	NS	ns1-145.akam.net.
+ostp.gov.	86400	IN	NS	ns1-176.akam.net.
+ostp.gov.	3600	IN	DS	13113 7 1 72d875829159afd6ec58e396044c82855600fa87
+ostp.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. IAvqAljk0YRY1A5Cz4W9YuQgNCvzA2SetRVy8VDPjQNKT8bREnLTNZutpsE0KW2zO3Su4uUVWhHis4dGBM82DCmHpLTZbar+73ieBoeHEsI/iZjxdFG450Bhcmn7sAuHm4l/sD758h4XEHnDoLhDjXz1M7w07KY0d5vJKyFitY8=

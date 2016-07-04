@@ -1,0 +1,7 @@
+8n7llb7evjs6mklnq3glrlifpiigkdn3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. OYs5PHYrPhhCerv5NVa8pxXOlshoqLWvrZYabluYIpOcAkZDRmJ+o9cgz6jAsf1FQzlZ8ciYkxKNCgcxOMnw+RrGzPLljfrjJeYprOvrglIBVy0oAoZ3q80amE9wGEbfGGvUpPo40O2+YnL+vVViZ912Phx+ngSCTXSO57rFwgE=
+8n7llb7evjs6mklnq3glrlifpiigkdn3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8ni9rlt0k2ftff9j17oprnf5vbnu5g38 NS 
+doral-fl.gov.	86400	IN	NS	ns0.dnsmadeeasy.com.
+doral-fl.gov.	86400	IN	NS	ns1.dnsmadeeasy.com.
+doral-fl.gov.	86400	IN	NS	ns2.dnsmadeeasy.com.
+doral-fl.gov.	86400	IN	NS	ns3.dnsmadeeasy.com.
+doral-fl.gov.	86400	IN	NS	ns4.dnsmadeeasy.com.

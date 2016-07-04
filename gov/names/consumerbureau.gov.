@@ -1,0 +1,7 @@
+consumerbureau.gov.	86400	IN	NS	sauthns1.qwest.net.
+consumerbureau.gov.	86400	IN	NS	sauthns2.qwest.net.
+consumerbureau.gov.	3600	IN	DS	20968 7 1 b8651ac7b1e22c31c5b1070da3ccaa1e00c256d3
+consumerbureau.gov.	3600	IN	DS	20968 7 2 f8f9946a8e4700b0b062eb046169175e31fd7096443e125073389dfd5a923c43
+consumerbureau.gov.	3600	IN	DS	29763 7 1 65b7b542bf6bd49b50a3be7434a27501a15e11ae
+consumerbureau.gov.	3600	IN	DS	29763 7 2 74ca4205220512989b8bf3f1eb2b19e915bcec1be05cab4a0e08528fa30987dd
+consumerbureau.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. P/9FAc1tMoQ96QxHMJqKcmSGto9IhtiuK21y2WJUDsj2jFN7Tmd3dpf9VFV6usaX8iBVnXO0NXNSJxHbMu+f5Ny/FerH3Sm1xUMUiFyYUIcxz1azlUaOonVv5r0OCfTDhXpqT52jsvB2Tm0Bx4gbYYQ6OAJAntl/ADMLi2GRVOM=

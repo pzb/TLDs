@@ -1,0 +1,4 @@
+bowlinggreenky.gov.	86400	IN	NS	ns1.bgmu.com.
+bowlinggreenky.gov.	86400	IN	NS	ns2.bgmu.com.
+cbqmvgqmtfevluue1lf6r60c4bctdr0p.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. U2YlYaUhhNQ4N5+JPyOPllyoBOFrHOLXaTLNvhqz7N/3gkqGis7K5hv/8bXd0qIRWIKfC2W5DAc60XajwHNiQ1KKC8rGL8teKtOcCe+zLubnhgK8qCOjQ5SFpfWIDYcQZOtHcrTgnYkuAobJ525CfZyLv5hdxhlMRAou297uTfs=
+cbqmvgqmtfevluue1lf6r60c4bctdr0p.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  cbs5f3lnebqp22pfn3qs67i8plsqv3ud NS 

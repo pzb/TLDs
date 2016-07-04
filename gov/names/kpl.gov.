@@ -1,0 +1,5 @@
+7rnkjapmok8k469v9dnt0j4nkjil879d.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. weQr1fIBQbHW2OHK5VMQW8OKn6qkE8m4ItAP56jwYkkZDtuW7I3ag2GCfpPMrEelaPRuBg5HDts8m3L04RnC1g/ko19E21Xyk3S1ZtmgTaeB8yk050+WaFgIDGNmoTr+LHy63PLm0xV6uHrjENc6M8AjSFBxCeEEMsIGh37kc6I=
+7rnkjapmok8k469v9dnt0j4nkjil879d.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7rnoluo4463amc8iv81vlubd0biq708a NS 
+kpl.gov.	86400	IN	NS	dns1.swmitech.org.
+kpl.gov.	86400	IN	NS	dns2.swmitech.org.
+kpl.gov.	86400	IN	NS	dns3.swmitech.org.

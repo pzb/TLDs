@@ -1,0 +1,7 @@
+24qecl1ii191gga3sa4fr1j701m94tc5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. P8kG8HgmHrdKlIkpQIkJUp6zZOaa9DRebhrjSXAUCZzwSltz+IwYGE62wljLhSgWyd8gGxMrYg3GTi+o5Etbt0H76NJPJsdGqavIG1ZFpZ65aKeJ6tNuj/rnffiQ0rQZtkFAJPkkPY8v9h/CQfL2XVCv6mlzwapxgQbDAee6m0g=
+24qecl1ii191gga3sa4fr1j701m94tc5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  24ucvqv4b82os1eo8sjjrhchmc0kmj64 NS 
+ns1.iowa.gov.	86400	IN	A	165.206.254.145
+ns3.iowa.gov.	86400	IN	A	209.56.120.13
+therightcalliowa.gov.	86400	IN	NS	dns.iowaccess.org.
+therightcalliowa.gov.	86400	IN	NS	ns1.iowa.gov.
+therightcalliowa.gov.	86400	IN	NS	ns3.iowa.gov.

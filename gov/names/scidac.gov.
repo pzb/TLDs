@@ -1,0 +1,9 @@
+ns0.ornl.gov.	86400	IN	A	128.219.177.244
+ns0-alt.ornl.gov.	86400	IN	A	128.219.177.246
+scidac.gov.	86400	IN	NS	ns0.ornl.gov.
+scidac.gov.	86400	IN	NS	adns1.es.net.
+scidac.gov.	86400	IN	NS	adns2.es.net.
+scidac.gov.	86400	IN	NS	ns0-alt.ornl.gov.
+scidac.gov.	3600	IN	DS	51335 7 1 aca9f3a5675bdd99307d3ccab3de33d6f18e73fb
+scidac.gov.	3600	IN	DS	51335 7 2 cb6bc84eb028c2089048327091040b14c5fe4384f4bfc318993eb418e5837097
+scidac.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. gzCTj+TTRvykLaSc/Thk7XCafP76XQKhTkDhpxD3Xq+18bzJogJLd1ve6evPuWW4YVwQcbOtN58nmU15SZ96gDkVoM5hRkuiPIAyFxVpWYAf4kW7G0KbUgj/M4Zc0DYK4UwfafhdRDq2x4gtf30IClZr0r/xvbUftXMWbKRmrdE=

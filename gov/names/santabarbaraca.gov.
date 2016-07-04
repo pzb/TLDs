@@ -1,0 +1,4 @@
+maq4jesodughlab2m40j7dv9smd0o31n.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. KWi6NENk7Q6FbAm8K4s50zXyXA1Rqqd4XptsYqiCnz0BXXgSx0rbdq/7bTV3mOysCFTMozrw68tXdCI6CAIL9eMbhtNKzTTL5g5f95/KLNWszp2tn7vDrEOJKiKL1CfVh3SEmluavmWuwgIxMdYIWdLrMcEERytwsUKgUo5znho=
+maq4jesodughlab2m40j7dv9smd0o31n.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mb24hp1oq7gtla0jvopo2m2gsu56knaj NS 
+santabarbaraca.gov.	86400	IN	NS	ns1.netlojix.net.
+santabarbaraca.gov.	86400	IN	NS	ns2.netlojix.net.

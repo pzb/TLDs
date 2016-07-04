@@ -1,0 +1,8 @@
+fegli.gov.	86400	IN	NS	a1-12.akam.net.
+fegli.gov.	86400	IN	NS	a5-67.akam.net.
+fegli.gov.	86400	IN	NS	a11-67.akam.net.
+fegli.gov.	86400	IN	NS	a14-64.akam.net.
+fegli.gov.	86400	IN	NS	a18-65.akam.net.
+fegli.gov.	86400	IN	NS	a20-66.akam.net.
+fegli.gov.	3600	IN	DS	60340 8 1 62efb1af482ade89f45d7c8eb11a4034a0f10c98
+fegli.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. FQ2OSXxI4zf3ov5OeInzAkp0LXWnAy9NAVoDKTj7pPe+p33zmVYJnrbXRKeJvdNEWOF/mtDGWfZPbNBLjK9MAwTxoX6EZVT/TZIOyFjI86IB1DINtkJcCJqXoK1SDc1ulOPxPjxF8MJZ3eAUNpZwAnnalIuGi8Wd8s+lTfcfQZg=

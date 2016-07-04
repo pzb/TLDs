@@ -1,0 +1,4 @@
+66bjhhub45e403tppmpmadfcbk1dsehm.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. NpMiwy/13DTO6SY3ruw3kUqThk+BjKZwnr+43GWnFDZUA0zh9srfeqqBHuLG6jF42cHUyTPlJYFuHAHc31/O6DUVC8FdFufxrsoV3EnDlHeFwLY2HMfKpkqlBb61jx7Mfn0eULBLVWN54zPBFhvHig7zx5biGHMy/REEXkcbdQM=
+66bjhhub45e403tppmpmadfcbk1dsehm.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  66fkevusuup0bibqpolctv4jsiq1km9q NS 
+wvconsumerprotection.gov.	86400	IN	NS	dns.state.wv.us.
+wvconsumerprotection.gov.	86400	IN	NS	dns3.state.wv.us.

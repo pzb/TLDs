@@ -1,0 +1,14 @@
+tribaljusticeandsafety.gov.	86400	IN	NS	ns-jdcd-01.usdoj.gov.
+tribaljusticeandsafety.gov.	86400	IN	NS	ns-jdcd-02.usdoj.gov.
+tribaljusticeandsafety.gov.	86400	IN	NS	ns-jdcw-01.usdoj.gov.
+tribaljusticeandsafety.gov.	86400	IN	NS	ns-jdcw-02.usdoj.gov.
+tribaljusticeandsafety.gov.	3600	IN	DS	51196 8 1 870b97411f53d6ada6243af4b229911ed29594a1
+tribaljusticeandsafety.gov.	3600	IN	DS	51196 8 2 e86fa75bee7ad521db01a6c98df43e91f638a653c7552fe397d5395b5cad96c9
+tribaljusticeandsafety.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. nr1raqi/Dg9q2PApLpDuzjWNkFK7xH5bYGEjMpa1jysiPIFe4k7yVttHsdFGrjPpmmynrFeEWLWra4BYaM9wezBMFICMoFXbmKLV7O2rDyLTXNc7hobjukFqRcaPUPoYnTuS7HGPeLARB/iIrM8cUWr8VIl4uxL1GBPTplhQPMA=
+ns-jdcd-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcd-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcd-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcw-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcw-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-02.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::6

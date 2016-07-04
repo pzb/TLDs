@@ -1,0 +1,4 @@
+3gbi4v87akt0qmjhqhruj8lmjn3h5f3g.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. qt5aYBuO8HUuvLoyXN3YrdB5lLWYS80oUjp+i5/JrfdFJ5ys9CEtVFKNEwrL+HD/9fr2Dy7HXPWGOVI5IpB8LqZvP/1YW0Rbkp2j+Sl8b0j8C4dgVMEJKrHHAqndVqUeb2m/XtIvgqoGDWzP6QOYiQ6o1FGsfY/TPxVGfq2mCO4=
+3gbi4v87akt0qmjhqhruj8lmjn3h5f3g.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3gcffdu6jq9efkt24p49l168bc36oqlr NS 
+thayercountyne.gov.	86400	IN	NS	ns1.greengeeks.com.
+thayercountyne.gov.	86400	IN	NS	ns2.greengeeks.com.

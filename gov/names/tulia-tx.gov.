@@ -1,0 +1,6 @@
+lmuemkvkrquskikb8chr5jjc13t354lr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. APG/kNtHpRyDmkDmpEdAcZJ/3wNqXR/B260P3229rfTCbAzygxR/bv/NV1NKQwMUroB9wzmi0+d9OLceLmyqbHP456PLxbVq6qNgs/GEwyAxIvoa3NnoH6A5UWgRwm8lgWX0pTp18Iyf/g/9nd45hbNFDHO0XekU1I0deFvB6OM=
+lmuemkvkrquskikb8chr5jjc13t354lr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  lmvjaghhg9eunn2v7jo1uhv5benqt2qj NS 
+tulia-tx.gov.	86400	IN	NS	ns1.windstreamhosting.biz.
+tulia-tx.gov.	86400	IN	NS	ns2.windstreamhosting.biz.
+tulia-tx.gov.	86400	IN	NS	ns3.windstreamhosting.biz.
+tulia-tx.gov.	86400	IN	NS	ns4.windstreamhosting.biz.

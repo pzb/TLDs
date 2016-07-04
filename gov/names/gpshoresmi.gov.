@@ -1,0 +1,4 @@
+gpshoresmi.gov.	86400	IN	NS	ns1.itright.com.
+gpshoresmi.gov.	86400	IN	NS	ns2.itright.com.
+nffhassnu79ctmb5mvplveajaagspgki.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. IqRZi5odUh7BUa3T3o8nEqw4IG9imnMN1dsGUvsH52T0a9aVJPK+Hy9ZLLvg7QW09jNYeqp5Cw2bsxBRso9c4sbImANafJBC2MycimMMyu9O8B72GJ2wsjD0sO+oIyfYCqp3G7eQwWj1J7DcHJIL/H43M0ZALjfeoYDmcHInbW8=
+nffhassnu79ctmb5mvplveajaagspgki.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  nfr8tchp0rfnv7g0vthi0uoh725p2fdg NS 

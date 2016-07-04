@@ -1,0 +1,9 @@
+osm.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+osm.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+osm.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+osm.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+osm.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+osm.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+osm.gov.	3600	IN	DS	29188 7 1 40af463c6fcac3110ed86f5193dd68ac7f1dc722
+osm.gov.	3600	IN	DS	29188 7 2 080f228fac59fbc0e9f7f61ab3a96bd009aab6ec2ce8f4e38641c174bef583a0
+osm.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. scEFHGZR9FtHyhMZE0Q36OasmiM2snQvaJq6Mzy53TJVldB0k1q6/NqB1L3m+MTivt3D9+R+WHQwnkzjpsNQbSAk2pKunDNn52/H9G4keSM1bKrPsZxd/jPY0iGbMvAoT+XD17cjSlV4Mc78c55BTYL2GeWYvvKcjEE2o7Y/I08=

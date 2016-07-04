@@ -1,0 +1,6 @@
+brazoriacounty-tx.gov.	86400	IN	NS	ns1.brazoriacounty-tx.gov.
+brazoriacounty-tx.gov.	86400	IN	NS	ns2.brazoriacounty-tx.gov.
+ns1.brazoriacounty-tx.gov.	86400	IN	A	66.249.101.240
+ns2.brazoriacounty-tx.gov.	86400	IN	A	66.249.101.241
+k250rmglkaj4hfqupi153m8d0f1jn58m.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. pyGFQQgF1LRpS7r/tSpfZPgVYFYpi/EZO29u+RIK5x5WY+9RcCeE/bJByYjV03sdPW+VAM8RJgCF8y0C3QiaIoTxpoNSfGrZF2PASI69YmpyWGw4Q6TCXl26Enm3Tm/i4q9Plpbg1XuDmTpwLBpp5efViyt3r+qYln8xSuq2PNY=
+k250rmglkaj4hfqupi153m8d0f1jn58m.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  k2nc7u7mojvfnpp8pgv6mtrebburnfpn NS 

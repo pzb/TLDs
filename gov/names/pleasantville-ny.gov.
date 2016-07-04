@@ -1,0 +1,4 @@
+02acgv777f5fchg26g2gr405o9gbghem.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wYGjtP+2xZP2BYNXkjy9ujoXa8y5S7EjzYSA6jlHReq5Oh4h3WR2NPmUf9VIaDyMHdsJCzsE8QX1+M5cxkycu4BInqBQ6h6qPpgi6j4ZCNqotO+fjW2StAw5zzNPDiwxI7aTQ5x4Vnzba4Ds79bDZV1ES6C3FPdW1yw2rdNN3NE=
+02acgv777f5fchg26g2gr405o9gbghem.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  02emsi7ockl609uut76s3jc2ma9jhnb3 NS 
+pleasantville-ny.gov.	86400	IN	NS	ns1.infotech-maine.com.
+pleasantville-ny.gov.	86400	IN	NS	ns2.infotech-maine.com.

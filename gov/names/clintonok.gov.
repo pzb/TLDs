@@ -1,0 +1,6 @@
+clintonok.gov.	86400	IN	NS	ns1.clintonok.gov.
+clintonok.gov.	86400	IN	NS	ns2.clintonok.gov.
+ns1.clintonok.gov.	86400	IN	A	24.116.13.210
+ns2.clintonok.gov.	86400	IN	A	108.252.207.162
+hi3ovb6o7c4h262r0v1kjh15a282j0ss.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. X9SKvESnnMEvMs9Gllc2kN+sfcczXK4YtI52L6XZMg7wOImV2eubC2T49cE9VLZz9CqJhFv8JUImku/VQrh/qccqQQsmzhYd22FaCPblOM6uOHTXs/OkuLpD4xLyN0Wp9X7qs+Fsz2TTsFwxy2k8R6TuzqZs8m4FoRhvOIwY/Vc=
+hi3ovb6o7c4h262r0v1kjh15a282j0ss.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  hi6rs8sm8nqkdppusledsf1jeki5i5o8 NS 

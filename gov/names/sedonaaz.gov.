@@ -1,0 +1,6 @@
+8l7q0s282b7mcs9bf1stldtf9ijugvop.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. uMPAeR8FXuqC9MdXLIouqAQ4zziNuyksT0XckvCcUIDkrGVJgp45K4l6SjUm9T7tPOJnNSUPIashqBAPcGxuFeZZVuicBS/dgsGoEBel3AjYcLzC6a3ejfPtHX8P7RD1useLTCg/ZAF90RBkvIKKdF7E+pzQxNvjJioszwCNWFo=
+8l7q0s282b7mcs9bf1stldtf9ijugvop.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8m0ev3rf33chciubbcnu05bb3druvi4v NS 
+sedonaaz.gov.	86400	IN	NS	ns1.commspeed.net.
+sedonaaz.gov.	86400	IN	NS	ns2.commspeed.net.
+sedonaaz.gov.	86400	IN	NS	pdns07.domaincontrol.com.
+sedonaaz.gov.	86400	IN	NS	pdns08.domaincontrol.com.

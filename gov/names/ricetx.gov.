@@ -1,0 +1,4 @@
+e8nt84ia1s7lqnt90angqo6cd7tf19cc.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. MpGtgdhwNJgAL9D4MXcXu423HU1vYyWuUKBTcmZtu/8E+LmVA+gQu9lOCsE5+PN9naIQlr1poURK4O70pksc888B0EOq5yrP91zIoEoqpoYDrsVHgVJljOCsH10vQNdkQi0G1YqoAs9IK8FIxtHVQ9IQs0E8kioekxwmPIr1kdM=
+e8nt84ia1s7lqnt90angqo6cd7tf19cc.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  e90b04g9leaujf0p1oeksfdtorutqs48 NS 
+ricetx.gov.	86400	IN	NS	ns1.skybeamtx.com.
+ricetx.gov.	86400	IN	NS	ns2.skybeamtx.com.

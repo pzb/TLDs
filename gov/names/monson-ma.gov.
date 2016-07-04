@@ -1,0 +1,4 @@
+monson-ma.gov.	86400	IN	NS	ns1.infotech-maine.com.
+monson-ma.gov.	86400	IN	NS	ns2.infotech-maine.com.
+rg0mdmlak60bjm692nmui1h94kqfaesi.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. w4VQxUqLVEI5fJh1lpAFLfDHx4zf0IfcTx3TMTE1TS1I6XEH7byXAz3K4HX2OS7XDwZG8UUZXJxucHPS4uPnaJ13+NmIWhcSEse/t3Ro5AmXPZtvfvU3TRQYbApkKmGSyK79Ta9HQnZEzpH7LrseQ3yFCUuwb6bYAVvYZQhF0Yo=
+rg0mdmlak60bjm692nmui1h94kqfaesi.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  rg2gj14m7esifsgpqm8jb7bauh8m32m1 NS 

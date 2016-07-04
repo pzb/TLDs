@@ -1,0 +1,5 @@
+f3mgh331mu2m9grnpv5mlv70hujqtt4m.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. eeFJVM/kr23/jCj+5KT7svob0hYA38OV1ohMWTV4AGe8LLtC8XcA/jnDQ2CLw1Vf/94BcLsCJHivH4w2dNIRXUUfdhWwslvSYJyulP3YJFX05AgG7M+aiBEkpNiDaFlrXmHJPpZv/0V+GhsaZCuOJfMhAPLDG458lPZGG74cRe8=
+f3mgh331mu2m9grnpv5mlv70hujqtt4m.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  f3qql3r9ant0eu70egepobdtkv0gaskl NS 
+traviscountytx.gov.	86400	IN	NS	tcgs.co.travis.tx.us.
+traviscountytx.gov.	86400	IN	NS	dnsmaster.traviscountytx.gov.
+dnsmaster.traviscountytx.gov.	86400	IN	A	198.214.208.1

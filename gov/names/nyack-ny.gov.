@@ -1,0 +1,4 @@
+nyack-ny.gov.	86400	IN	NS	ns6613.hostgator.com.
+nyack-ny.gov.	86400	IN	NS	ns6614.hostgator.com.
+ui1iiupv65mr7tvumtveh00rifo5g8j9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. p9kZSVZ9AvaXEjA1JCgZGk2ie6+XJV7Jt3Q+/UrK9FYod2mIwsDU4rX4zea89SfliCrUewhAK+S56JiCtyNBwA+VhJikfHeOAVA/n502UK3dKfDbChXiNpKulFjDu6d16v0XrRqF7vHeKgssX0gWpXJdsGwP9rllm5zPItLOOHA=
+ui1iiupv65mr7tvumtveh00rifo5g8j9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  uia3obdjog35vc1lupf6ihkql61228ih NS 

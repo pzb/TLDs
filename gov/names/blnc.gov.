@@ -1,0 +1,6 @@
+blnc.gov.	86400	IN	NS	ns1.nc.gov.
+blnc.gov.	86400	IN	NS	ns2.nc.gov.
+kjtp0u898rciq0npscinp1jfsj1di79d.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. aH7DvLUlbwzkel5Ymb6oVxlll1spoFMEzvmlXnzudAIthTDBPjxDNncBE8GTg7i2NEFJ3Dx4OkNaGiufCVZssCMQL8HKqMrbATVWHhdkxg+bS5rjzPGtO/aS4ls+7masYcz9drZtqqnpxE3Br7wGbl98nVNbbbLaHreRcnSw3YA=
+kjtp0u898rciq0npscinp1jfsj1di79d.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kk00p3gnobb05iq744mu5d82lmnj7je1 NS 
+ns1.nc.gov.	86400	IN	A	149.168.11.11
+ns2.nc.gov.	86400	IN	A	149.168.138.11

@@ -1,0 +1,6 @@
+51qbieq4dfdpcem7lrm0kk7h4vcd3dlt.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. iqKN82XK+hb0yasCUGke+waKJge7Hda+ds1ADGOObLDaCUo/mOXIEjPxFZ1TVMZRCISfhIwiIj+LLUoGYI14wg7xdmU2Z+wpSqhsH6nMbC1JS7c82XGDH/xuYEagwRTZl+yCI4JYLOF7Nb5jbq2Bs0Ss2rW0S1zCs0fZZCGgNVU=
+51qbieq4dfdpcem7lrm0kk7h4vcd3dlt.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  525gkoc1ecauk35g0j3t9mga0mhe2keo NS 
+dns4.tn.gov.	86400	IN	A	170.142.92.58
+dns5.tn.gov.	86400	IN	A	170.141.168.22
+tnreconnect.gov.	86400	IN	NS	dns4.tn.gov.
+tnreconnect.gov.	86400	IN	NS	dns5.tn.gov.

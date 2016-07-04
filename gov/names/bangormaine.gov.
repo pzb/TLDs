@@ -1,0 +1,5 @@
+7so5htci79omhgvjna517g7i1u5hvldh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. omukNM/O/hL83X4exz2Ck4T3JZOo9IKUDnJxlFcAebnkmRCxNpIUz/8K8GtlCOAUsrByWRtO6INYaqw33EMCQtBIOJTUNMtTNs2TovFkWj+x906rAl+JmEy+qxprW3suQ+WngaHoTbMWR6HT6SJ4+nfG4P0JREpmtOUO8x+VUk0=
+7so5htci79omhgvjna517g7i1u5hvldh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7t24ij74q80m2q58upkcn37sreri8225 NS 
+bangormaine.gov.	86400	IN	NS	a1.verisigndns.com.
+bangormaine.gov.	86400	IN	NS	a2.verisigndns.com.
+bangormaine.gov.	86400	IN	NS	a3.verisigndns.com.

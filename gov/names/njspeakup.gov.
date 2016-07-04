@@ -1,0 +1,4 @@
+nfr8tchp0rfnv7g0vthi0uoh725p2fdg.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. bmtIinxCWxZStn5j1pXNFhwxFQJVH95oGrT046Z82nHAhWcWaFOxaGZeGGSnPBZgzSYIBgb6+iAVX/Z9/ehawZ5ddRipx+MYqZ50Frha2ClS2qF7yWU2D1DQ2WWc+YeUoazRgwDYeO0ZmAa2mJCmEKn8AOL/BU0mE9uELiqqvnY=
+nfr8tchp0rfnv7g0vthi0uoh725p2fdg.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  nfv23co5s2lvoo2lods77nvtipouup0h NS 
+njspeakup.gov.	86400	IN	NS	ns1.state.nj.us.
+njspeakup.gov.	86400	IN	NS	ns2.state.nj.us.

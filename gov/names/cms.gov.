@@ -1,0 +1,9 @@
+cms.gov.	86400	IN	NS	a1-86.akam.net.
+cms.gov.	86400	IN	NS	a3-66.akam.net.
+cms.gov.	86400	IN	NS	a8-67.akam.net.
+cms.gov.	86400	IN	NS	a10-67.akam.net.
+cms.gov.	86400	IN	NS	a13-64.akam.net.
+cms.gov.	86400	IN	NS	a24-65.akam.net.
+cms.gov.	3600	IN	DS	34869 7 1 3b42a6e83df941035093674b96b033490f8e26ed
+cms.gov.	3600	IN	DS	34869 7 2 9357e4e843a5c10ceeccaf6889319c54af545d2e05beaf1ad55678e3f8939b71
+cms.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ZIAfaFQLhmyVv6kwsTk2JW0Ca9UTH7ZN/9JxWUTMiaArsGqoKHBOfhSZBMs+gIweA5VUM0dD+tTLUpKqobnOHyGBeOuXCx0tsymQXqyB21oFb+2jGSKauGTkKWiYZOoXD6YV6QDXM+y1aghn6/CauuIV2m6FO2arOObFDrX32EY=

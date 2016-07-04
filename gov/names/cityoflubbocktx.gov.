@@ -1,0 +1,5 @@
+53q851avbatli3fhnpph1jhhf3t6sdmr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. XuprLhpw5k2owaIGNjR+wA9eqGECGdL1mlAkhZ/XsZNAwJo5ppfh4Qusm4MicELUMuL6h43H1pF+3EJzLMpOnboeIprH69eWskBzeuCeOd5WFnPIcgSMxlta95Mip8Lmi8WYBJGDIDrgb83a10GnKtd6sLTHBHCcvVtuy5r65J0=
+53q851avbatli3fhnpph1jhhf3t6sdmr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5448lalc8alo0lji50eraau5m76dsuck NS 
+cityoflubbocktx.gov.	86400	IN	NS	wasp.ci.lubbock.tx.us.
+cityoflubbocktx.gov.	86400	IN	NS	spider.ci.lubbock.tx.us.
+cityoflubbocktx.gov.	86400	IN	NS	ladybug.ci.lubbock.tx.us.

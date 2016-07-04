@@ -1,0 +1,8 @@
+a54873n3e4h8ndbkl532198243baq0c6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. dfm/OOJky99SoB9xNJrkt+GDWcA3kCGQIc5um4HgzecCj7el9Y6XGTcp19HNDddi4vJ7RWPlRRyLdyVMDxTMnD+rq+odt5mIBkP/nzeo7gYVm+blov7NgMThaOkTjI1FTS9EymcYvKeDw/ito5ldv0f1ji4WcdyYWMZh8q5Gva4=
+a54873n3e4h8ndbkl532198243baq0c6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  a56odllg44hjqsu6q13r2f34tlu37us1 NS 
+miami-dade.gov.	86400	IN	NS	sdns1.miamidade.gov.
+miami-dade.gov.	86400	IN	NS	sdns2.miamidade.gov.
+miami-dade.gov.	86400	IN	NS	sdns3.miamidade.gov.
+sdns1.miamidade.gov.	86400	IN	A	65.87.113.10
+sdns2.miamidade.gov.	86400	IN	A	65.87.113.14
+sdns3.miamidade.gov.	86400	IN	A	65.87.113.16

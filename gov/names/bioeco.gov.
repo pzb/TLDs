@@ -1,0 +1,9 @@
+bioeco.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+bioeco.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+bioeco.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+bioeco.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+bioeco.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+bioeco.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+bioeco.gov.	3600	IN	DS	60155 8 1 e314c8cbe25b677e896ad9db26346349f03b295a
+bioeco.gov.	3600	IN	DS	60155 8 2 c9a49136f71810d5cb4547dd1a7270c727154d77c43e713d6c521cd7f48a7510
+bioeco.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. xcaTpKoroPnnY/cjmFuCNymYRgvJebWD8PfHepe6iAdsUb7C5OuL8ewbb/i+VibAJHyKqz5I+mRb5Q9ZoAXi6xHvNt3RPXZUUGOIrVWwvUPtS6WG31siXfkNAQyeMqsLiQemn9v/YKhJL0fusmAZDOecdF2GlBDLM2evtov2PmM=

@@ -1,0 +1,4 @@
+03gogl08iiala75ias4ola2pfbo6q0gh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. U9TsRQPRZ+r0htEZ9jURkBd9YLt6QN7Fr1uYTflnxxdR5skIDucgEKxCZKX8AZ0/yW+5yVPCSejyxQSeKBbWqFxXQoec/vHQtp9o+BNtHkqVJoJDgTooIoQxru2/744pxYaEaLW7wgQ6wv/RFaMJiP4AFUa3K5EOVm9QInhpt6Y=
+03gogl08iiala75ias4ola2pfbo6q0gh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  03iq374mrkrscetc7gpejht0q0dq25bm NS 
+clintonnj.gov.	86400	IN	NS	ns1.hostmonster.com.
+clintonnj.gov.	86400	IN	NS	ns2.hostmonster.com.

@@ -1,0 +1,4 @@
+alaska.gov.	86400	IN	NS	dogwood.state.ak.us.
+alaska.gov.	86400	IN	NS	espresso.state.ak.us.
+o2iohc528lf3hbtduu9bfo09urnofljj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. UWCzAsam1pxeNfAogVHrWZUp/Ot3Oze7YCbX0lcQgHpsiVKHUvgl01btWRCrOvV/+nUj1duvzT/IkNqSYGMKU3ZrI8FDl7LvylcGGE8vjCQFLlJOd8jqyH7gyDywhKkAnE5RO22+Eh8yhjDCz/XjriNwoBtT7qfzwq3G5jVSMz8=
+o2iohc528lf3hbtduu9bfo09urnofljj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  o2t3g9eo929qfqcrd9rsbnt19d2icook NS 

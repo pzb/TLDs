@@ -1,0 +1,6 @@
+oregonmetro.gov.	86400	IN	NS	ns-5.awsdns-00.com.
+oregonmetro.gov.	86400	IN	NS	ns-1007.awsdns-61.net.
+oregonmetro.gov.	86400	IN	NS	ns-1393.awsdns-46.org.
+oregonmetro.gov.	86400	IN	NS	ns-1695.awsdns-19.co.uk.
+vdrfu1ihhj3gdag5f3n3rniv1e6j97tq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. SCYGuOlOP3IzM4MsB2PB83zX9VZLefEaFuNMB4iTlTnxMmEWiB3g+6MdnvIgPOSBUxbnOQ1OH93zIPB3UmkBTF/S2/s/FotW70tayzCuG7Rv9sq0waYAT19HGEIROEvtqmfY/mBHsjIhmXilYcNsVTL1qG67xl9inm7zSSGlrgk=
+vdrfu1ihhj3gdag5f3n3rniv1e6j97tq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ve21r6se7i90ai5k7u2ve304pmkgmf7m NS 

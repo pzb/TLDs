@@ -1,0 +1,6 @@
+artrs.gov.	86400	IN	NS	ns0.artrs.gov.
+artrs.gov.	86400	IN	NS	ns1.artrs.gov.
+ns0.artrs.gov.	86400	IN	A	170.94.85.254
+ns1.artrs.gov.	86400	IN	A	170.94.85.253
+b0m4ncapa2muk6orjdl4qr1s670n2um4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. GcJaA57g5bhwkKRFc0SLBVc7yviSfImM/XvUyXZdLEI1YEUnwfGPvdi5O9+znjFkVbDLc1h6UG5eh/No8dyxJBkPZpRe9DT04IimbosYjohw9tKrHhsObJVIn+VrEMlfTkmtf0UVoh/107t0UfU3duZcC6ysgaRprDvAbFF/N9c=
+b0m4ncapa2muk6orjdl4qr1s670n2um4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  b0o56jlulvkq8qquqhgnh8ainni3bltg NS 

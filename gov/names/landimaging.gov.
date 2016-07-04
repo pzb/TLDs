@@ -1,0 +1,9 @@
+landimaging.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+landimaging.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+landimaging.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+landimaging.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+landimaging.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+landimaging.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+landimaging.gov.	3600	IN	DS	7832 8 1 88b9fea9bda6f0f75cae4cecc46e25d645254a15
+landimaging.gov.	3600	IN	DS	7832 8 2 adc0f1b50871afff9c15bfdd3417fb5014ada05b68f6cabb9abf9c5d1a3c3d5a
+landimaging.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Fsf/eBb80KhE887kBHOiRiMHbwPLAs1oqb4wAwjbbG9KSyVEggE2k7+TKbcnuVeDrdKWOCGHxdLp+yDYIR9atSt2e2iqDLRr0oVzGmaRkkE7sf/gEyWSrKz0wcYnAeBR4mRNREjXJco0a9h1O/3jeswalr0G22RtX3aYCIGw0aE=

@@ -1,0 +1,4 @@
+03iq374mrkrscetc7gpejht0q0dq25bm.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. sFie/e0uNBPOKrg/Sps2rkhR8MDEsvlm9pu/toOEabA1YIBjHNXpxjRXAyPpL8JUeAsFG7o4T4dzvpVvI2vWDOq+k6jILwHevFySyQcOiiH3k2I3rCZQAxkHjNaT6i82SjfYfOUKMzfabqlF72y094f6R0Ezep1xBPY2Q6jpuBA=
+03iq374mrkrscetc7gpejht0q0dq25bm.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  040q15um8pcdegcq9sllicl37r653kkl NS 
+portsmouthva.gov.	86400	IN	NS	ns1.coxmail.com.
+portsmouthva.gov.	86400	IN	NS	ns2.coxmail.com.

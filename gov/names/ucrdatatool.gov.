@@ -1,0 +1,14 @@
+ucrdatatool.gov.	86400	IN	NS	ns-jdcd-01.usdoj.gov.
+ucrdatatool.gov.	86400	IN	NS	ns-jdcd-02.usdoj.gov.
+ucrdatatool.gov.	86400	IN	NS	ns-jdcw-01.usdoj.gov.
+ucrdatatool.gov.	86400	IN	NS	ns-jdcw-02.usdoj.gov.
+ucrdatatool.gov.	3600	IN	DS	41602 8 1 415f66c949a6e27e17ad67735698a5d740d0b429
+ucrdatatool.gov.	3600	IN	DS	41602 8 2 c45dfac9f4b8411c44a2e4e876c9e60a52dcdcbb2ec0c5f7bbc0882e02ce1b62
+ucrdatatool.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Ql9z4hv5GmJe2s145OeA7imo/uv0ccROpNMxxCaJSs2WX96ZF3MY/51jSCbDSl26E21Kh1qAm0imJ6Inat+Qgwo0McIo3qGvpV6LvQhhpStOK4heydp/dYLVyM3QCTHVMBGheeuR1L/25U/0QYwu6tKvCC0ax3/IVgJfZZo30Cw=
+ns-jdcd-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcd-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcd-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcw-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcw-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-02.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::6

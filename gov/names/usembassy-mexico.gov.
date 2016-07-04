@@ -1,0 +1,6 @@
+usembassy-mexico.gov.	86400	IN	NS	authns1.centurylink.net.
+usembassy-mexico.gov.	86400	IN	NS	authns2.centurylink.net.
+usembassy-mexico.gov.	86400	IN	NS	tpsns11.terrenap.net.
+usembassy-mexico.gov.	86400	IN	NS	tpsns12.terrenap.net.
+usembassy-mexico.gov.	3600	IN	DS	17781 7 1 bd7321c04b1754d1aa422d95dc6936a440562a69
+usembassy-mexico.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. P8Qf0B0B9V7WEkPE+GV+mHYhkUF9SDa8BvZQ1Wv+2J26VEWjWk8Y0KIY1gb+kyG9IMcmcOY2Mc7ThRs9gKWQ7vJstyC4/Ws2O5PGaFciGie83QPArDiPyYtEfqZwPHyXPGuYR5G+dCVZfctLcL/Iu4JNkjMahfo5bBSYlVLXLi0=

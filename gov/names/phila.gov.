@@ -1,0 +1,6 @@
+dspfk957a80dadt18hpebtvf0oss4c7j.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. gG8Vze4DAlTHS42Q5PhDIDx4Oa0Gb16gIPZkeN10kWlIWI5EpXuAa054DMQV+OBVSN3eQxbvIgQD36tutCwKE2+NKzpEoaet3MDIM+7K1Y9yCbgPpL0mfslXgbNQ8bfyxmDpBAMILVxfbFYYlNw1MFNrzXqT2GjgarBFrmQuaio=
+dspfk957a80dadt18hpebtvf0oss4c7j.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dsu1r3vt6f6a3ha9pah8070obbeff772 NS 
+phila.gov.	86400	IN	NS	ns1.phila.gov.
+phila.gov.	86400	IN	NS	ns2.phila.gov.
+ns1.phila.gov.	86400	IN	A	170.115.248.12
+ns2.phila.gov.	86400	IN	A	170.115.249.13

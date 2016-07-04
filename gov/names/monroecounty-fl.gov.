@@ -1,0 +1,10 @@
+akvke7487r2phqve667c4p8g9rtgol75.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fzs1UE8bppaxoj+R0kzVW5Ean6bS/f3ZO5k1FwIyg5MJl9h/0M+ucayKjAehVRzTj2wjs4lD6y+a2idnmlDAwY8OmI0SpVy9mN6cvy6X7jbbFgS/Kl4GnZs/LfraXh2Bb+mPPED/BQXvx81u6hrL9YfmkA7w1tL2Zkn4r1PO/ZQ=
+akvke7487r2phqve667c4p8g9rtgol75.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  al5u87r39o438iobohuigh7a64kekpof NS 
+monroecounty-fl.gov.	86400	IN	NS	ns1.monroecounty-fl.gov.
+monroecounty-fl.gov.	86400	IN	NS	ns2.monroecounty-fl.gov.
+monroecounty-fl.gov.	86400	IN	NS	ns3.monroecounty-fl.gov.
+monroecounty-fl.gov.	86400	IN	NS	ns4.monroecounty-fl.gov.
+ns1.monroecounty-fl.gov.	86400	IN	A	12.219.59.12
+ns2.monroecounty-fl.gov.	86400	IN	A	209.208.216.138
+ns3.monroecounty-fl.gov.	86400	IN	A	209.208.216.135
+ns4.monroecounty-fl.gov.	86400	IN	A	12.219.59.5

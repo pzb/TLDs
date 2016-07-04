@@ -1,0 +1,8 @@
+bbg.gov.	86400	IN	NS	eur6.akam.net.
+bbg.gov.	86400	IN	NS	use5.akam.net.
+bbg.gov.	86400	IN	NS	use9.akam.net.
+bbg.gov.	86400	IN	NS	usw2.akam.net.
+bbg.gov.	86400	IN	NS	ns1-63.akam.net.
+bbg.gov.	86400	IN	NS	ns1-227.akam.net.
+bbg.gov.	3600	IN	DS	43938 7 1 608f6e160c0efbe81665611967c5b9a98be1fd43
+bbg.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. wCEmmkpae9JFxfu+5c9zjYYcNqUrpDkWi5JVgizAxEXrkn3fKD8k42QtCDXp+3AmydR16ib2Upw9+K8eJaVnJSQ6vaEhm4Xk2IO4X4ImiR6/iluWkow/DIMpySezbH6+eW8Wua3a0Ah6/K9HCPBumLSqCcTHE9KVjKjOSqfQlhs=

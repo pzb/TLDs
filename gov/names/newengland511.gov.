@@ -1,0 +1,4 @@
+eipflcredmi17qog9q6qc3igi5u7entm.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. S+khz2ahI4X5pfKr4/+7iWveVd/BMGW5eBMKZoOGkl7sIw2BStFB+4/zBwaIb5b7Upm8tRevmoaviuCj2vShS8D8HdqH/mngbdy9A2D4x7LBPTF1zZtciSmxcPVNAlBIt4rIPhjZdhdsxZpRxjZisCUjcO6gLhUMhipiEF5uB+U=
+eipflcredmi17qog9q6qc3igi5u7entm.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  eit2jac01d53s0lfd5e7ef7sphrrhe41 NS 
+newengland511.gov.	86400	IN	NS	ns1.state.vt.us.
+newengland511.gov.	86400	IN	NS	ns2.state.vt.us.

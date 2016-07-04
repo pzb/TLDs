@@ -1,0 +1,12 @@
+gps.gov.	86400	IN	NS	ns-e.noaa.gov.
+gps.gov.	86400	IN	NS	ns-mw.noaa.gov.
+gps.gov.	86400	IN	NS	ns-nw.noaa.gov.
+gps.gov.	3600	IN	DS	54706 5 1 aca1d9be0624ccdcb0eb50563eadbf0aa2d019ae
+gps.gov.	3600	IN	DS	54706 5 2 0f880e737310b4f4ed2550eb1e5bab0bf6ce0aec33f0f8484fb9c189edbac57b
+gps.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. JHiEhvaT0FnEOY2jX7/z1Bvf95PYOHq70sYhFnTPRqLlJoupMyRDJMBF6dCQiusssAt8mzpkLsts8qrRg2oogyt8gquYqu22O3m8eHYlf33qS4n5JcL/xggqeksZkry36MoFFfnOATLJ3O45d6WBjKC8Z7uBap+FFdRp2WBYwME=
+ns-e.noaa.gov.	86400	IN	A	140.90.33.237
+ns-e.noaa.gov.	86400	IN	AAAA	2610:20:8000:8c00::237
+ns-mw.noaa.gov.	86400	IN	A	140.172.17.237
+ns-mw.noaa.gov.	86400	IN	AAAA	2610:20:8800:8c00::237
+ns-nw.noaa.gov.	86400	IN	A	161.55.32.2
+ns-nw.noaa.gov.	86400	IN	AAAA	2610:20:8c00:8c00::2

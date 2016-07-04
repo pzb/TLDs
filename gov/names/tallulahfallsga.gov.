@@ -1,0 +1,7 @@
+4slf87kj2b0gdto9q29qqvsnm7coktd5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. tj2eGns4ovDuYVmQB4OP83VaGDcC5xNYqxAlUEFGnAj2z6b+XhrqEm8OZCdAp3Y7O8hat4esQ8OiU5B5rhM6jXQrE4gcctejF5o9cWEnSMF7A5RcaGLjQP2UD7CenMePtXzf6r58CPZ2wJJk8+yR4JuAQPZ5JLajz0EIWTTFRFQ=
+4slf87kj2b0gdto9q29qqvsnm7coktd5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4t0g0te1v77pd77p5fp9h37fm4vcg5l2 NS 
+tallulahfallsga.gov.	86400	IN	NS	ns0.dnsmadeeasy.com.
+tallulahfallsga.gov.	86400	IN	NS	ns1.dnsmadeeasy.com.
+tallulahfallsga.gov.	86400	IN	NS	ns2.dnsmadeeasy.com.
+tallulahfallsga.gov.	86400	IN	NS	ns3.dnsmadeeasy.com.
+tallulahfallsga.gov.	86400	IN	NS	ns4.dnsmadeeasy.com.

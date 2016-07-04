@@ -1,0 +1,6 @@
+dfh7eur5cuf1pqmk3d53lloaqi00en4u.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wM7AwoDY204i5V1MPKk0X9FYslKrfxvBI/bjatFsvadnkcHc2jZO8w5vHXlNmsmqAMqbW1HwL7CW1Vq1LZcoiPTTQe6rb/BwcoD9cyj/2BMKWSWJeHxk87LG15xGeBBVbHIrKdqmxQqMWVpsaJbBwZ039fEVFFL4j21UmfMEYbU=
+dfh7eur5cuf1pqmk3d53lloaqi00en4u.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dfng84m52si1hqtog1hg6vo2oie4h8sm NS 
+eurekacountynv.gov.	86400	IN	NS	ns1.eurekacountynv.gov.
+eurekacountynv.gov.	86400	IN	NS	ns2.eurekacountynv.gov.
+ns1.eurekacountynv.gov.	86400	IN	A	207.212.113.143
+ns2.eurekacountynv.gov.	86400	IN	A	207.212.113.143

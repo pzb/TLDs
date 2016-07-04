@@ -1,0 +1,5 @@
+texasfightsidtheft.gov.	86400	IN	NS	ns.tx.us.
+texasfightsidtheft.gov.	86400	IN	NS	ns.capnet.state.tx.us.
+texasfightsidtheft.gov.	86400	IN	NS	ns5.capnet.state.tx.net.
+v38dntvjj8abvbckh22e85s4n64rm4vj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. koR99EwoZLQKGjzpcNLGcbVtNekOVPDDmScvmthprJnPI2kiNjjeD4vY15Td9Qof6bHOu0iEcY5lYzUGn2OUOPSiwIbgNWDIa4YN3MuVDLW4bfbV831LAJJ9uKfmNX5avOgz62C8LVboRDHnuCIddXNl2rrHOwqyKxoRTUdNFoI=
+v38dntvjj8abvbckh22e85s4n64rm4vj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  v3bopuid7cs4h8nfdo33v6v1l35kj38v NS 

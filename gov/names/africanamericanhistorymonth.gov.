@@ -1,0 +1,7 @@
+africanamericanhistorymonth.gov.	86400	IN	NS	ns21.loc.gov.
+africanamericanhistorymonth.gov.	86400	IN	NS	ns23.loc.gov.
+africanamericanhistorymonth.gov.	3600	IN	DS	4957 8 1 5feef8dc31f88a0c8402ffa6f2f43fa73dada670
+africanamericanhistorymonth.gov.	3600	IN	DS	4957 8 2 528c7bfcb078cfad06d4d2e3df5cd6b3a05ee38c4b73c64834f9aee48180211e
+africanamericanhistorymonth.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. FtUzimMWBltkXasXMabzt+V/BAGZR2K564gK42EX9bT/2jzlTTYAJpJygJKfZfYVOZwVZdHB13CUbUbiK5ZXjFogb9+GW0nYIQBQHueBzjmnv8c+vk3Jey0y/Bbv+6ZJzLoreyolI4Rvm0Xhsq91ISwLMkpdXy/5zxR2EvIqs3Y=
+ns21.loc.gov.	86400	IN	A	140.147.32.166
+ns23.loc.gov.	86400	IN	A	140.147.239.150

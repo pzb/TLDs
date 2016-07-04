@@ -1,0 +1,6 @@
+azboxingandmma.gov.	86400	IN	NS	ns-179.awsdns-22.com.
+azboxingandmma.gov.	86400	IN	NS	ns-618.awsdns-13.net.
+azboxingandmma.gov.	86400	IN	NS	ns-1321.awsdns-37.org.
+azboxingandmma.gov.	86400	IN	NS	ns-1960.awsdns-53.co.uk.
+k8otj32728qgvml0sntbl6cuvtpeh44r.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. PUmHHHV2qhuFY3NMXxEkQIGa6+mvVymhB97TbxLXslbO7Dz4SV0SufD/TBikDdLEgNy7jrDts6CcIXg3SuK+3GmxffyX+VG/o2PHan2FfRbCJ2L2Pj1aCCiYoTGp8UzCnp5xbDt8T3363e7NeVQLyrf4r/QMpgDZIE8Q0xoQV4M=
+k8otj32728qgvml0sntbl6cuvtpeh44r.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  k8pt05nqk8u0ee69u8601rgn5vffb5ol NS 

@@ -1,0 +1,4 @@
+0qjtqeca7len6houfb73aobnvo26k4e6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. T7fhW9Z1DStzejO3ZW7THvX6z878UST6J1taDpCwNVpTKRVpWKVwTN4jH19W35hY4ZyQDAKIbTu/4kv5sT5YDVfqyf6GuZPuO1Z0KK4greSNXFdFMPe4fJmrRm5pS+oFGRG/USN0q+GnzLFDgYOd2UwInBNULDH83mMirxOySDQ=
+0qjtqeca7len6houfb73aobnvo26k4e6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0qm60mpn6rt4jh6rb3clae1aganucs35 NS 
+evanscolorado.gov.	86400	IN	NS	pdns03.domaincontrol.com.
+evanscolorado.gov.	86400	IN	NS	pdns04.domaincontrol.com.

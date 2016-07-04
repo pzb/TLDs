@@ -1,0 +1,9 @@
+blmntl.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+blmntl.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+blmntl.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+blmntl.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+blmntl.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+blmntl.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+blmntl.gov.	3600	IN	DS	56011 7 1 2ff025cec51267e2bd81721317b694c91d02cc79
+blmntl.gov.	3600	IN	DS	56011 7 2 0f4257ce20bebbc6a6fc616e3a40eaabe520fa965aca353c053bc7257c21eb39
+blmntl.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. YYueTvy/wJC07YRLKx7t228PdwOgB9xSaYxYRNir9Gj3fXgSUQHvzMMcl6gw61ENAHmpejtTkntTntyTdnDhtoHSxR+6iW5GjGFoI4sc80ndi31zXxpXzAczFK0JTOnw9CRoIdWmV0QWLVs3zpw94xIHYng6R0VelMLywte9FTo=

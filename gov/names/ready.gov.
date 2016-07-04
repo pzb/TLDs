@@ -1,0 +1,12 @@
+ready.gov.	86400	IN	NS	eur2.akam.net.
+ready.gov.	86400	IN	NS	eur5.akam.net.
+ready.gov.	86400	IN	NS	use2.akam.net.
+ready.gov.	86400	IN	NS	use5.akam.net.
+ready.gov.	86400	IN	NS	usw4.akam.net.
+ready.gov.	86400	IN	NS	ns1-46.akam.net.
+ready.gov.	86400	IN	NS	ns1-96.akam.net.
+ready.gov.	3600	IN	DS	15800 8 1 cbaed712f2f5d4e068745a83fb0cd727e2f84f9e
+ready.gov.	3600	IN	DS	15800 8 2 97b99f74529c68d7f2be9a0bb642d207da1e56fa0ae95e6d29e25295eb14d992
+ready.gov.	3600	IN	DS	53692 8 1 d3aca6dac2b3718613c45a4a9a87c626f09917ee
+ready.gov.	3600	IN	DS	53692 8 2 f712e25f691baca5f451f6391e1d495ac6f2d6891369044d73fdfeed1990a344
+ready.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. llw5wA9RuOmVQOUUj1F+WD6tpNwlr5VTUrnpghJwe0ca8xvrGtztBOET/uoatp/6JgeqoZffAn4r1Wll67bJVvNyG5m+nBxgd6+9ko5hlBN1Mp6oLR7e/UFK0kI5FPNmKlciD7lVz5ze0YOMcm4kLiIf4ivkHEkFd7VEMSiwwVQ=

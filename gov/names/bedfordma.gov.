@@ -1,0 +1,4 @@
+bedfordma.gov.	86400	IN	NS	pdns05.domaincontrol.com.
+bedfordma.gov.	86400	IN	NS	pdns06.domaincontrol.com.
+hmf3v3j25c1a4novsmtah0c5o8cle523.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ZM9roL9OnvaXA4xAm67iWLKP1aiPgIFVWa2egrbBvvnDv42NYMxEPU+swwHCORRmzh0hN5m5S4RfrLkQW6KgKtFCR6jRv5TOZ83//r7Og+gA2b4alnMfkID2265UYaTN/8bqsIuH1c8oXANZCpixjQcQNJcgJKQs2Vkqb1ahNig=
+hmf3v3j25c1a4novsmtah0c5o8cle523.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  hn1nqarencgolvohgfb1onsohqg35jsg NS 

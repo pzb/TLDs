@@ -1,0 +1,4 @@
+torrington-ct.gov.	86400	IN	NS	ns1.infotech-maine.com.
+torrington-ct.gov.	86400	IN	NS	ns2.infotech-maine.com.
+vvoth3l3e6ni8de6jcagu0uuirh6f780.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. synDsqPcevghr10ID07dySWPtavzKmv2D5n2P6a51O8Q/8DFcTBEw+iHcXpHRe2mreYnM1OVkPOFtA3H+xqx5woLvFL28lDNGoEJby4dIP0ESUO2kmYTc3JE10LLOjgos5xSodZjb/zdXGrhdPpqYWhZLpgxSzCJW/WFPE5atjI=
+vvoth3l3e6ni8de6jcagu0uuirh6f780.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vvs3bg5qel1bee29ner6291s4r23gh0b NS 

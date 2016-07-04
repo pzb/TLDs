@@ -1,0 +1,4 @@
+eq99tv46kfd63p9h6jc1g61c9nu06vnh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. cbXUYX+R0a8lMtfWsPeCXY1/pxDRTRTmBUVV+2tbEvRCtQhSrpnhScYHrFCutNN0XA+D3bkXgkk8PNcVHjB5c/0kOOm7Dl/JTP5/PfSIG11tX1rNJwfNsVe/rZ/8lM0vCjrCQ63vSMNLDBTRSpUsIs/gcEryCMFdYijwx0zKp0g=
+eq99tv46kfd63p9h6jc1g61c9nu06vnh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  eqb11hljiugvvurtpsp27aueqpj7k64e NS 
+ipswich-ma.gov.	86400	IN	NS	freud.mec.edu.
+ipswich-ma.gov.	86400	IN	NS	darwin.mec.edu.

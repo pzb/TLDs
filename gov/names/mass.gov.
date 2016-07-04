@@ -1,0 +1,8 @@
+mass.gov.	86400	IN	NS	internet-dns1.state.ma.us.
+mass.gov.	86400	IN	NS	internet-dns2.state.ma.us.
+mass.gov.	86400	IN	NS	internet-dns3.state.ma.us.
+mass.gov.	3600	IN	DS	34755 7 1 92271fb7272483cd46ff2976ad179139c3093796
+mass.gov.	3600	IN	DS	34755 7 2 632ef9f20b2d6b2bdffd44399002d9d55db7c4a06e2ce7c22d0847709de38718
+mass.gov.	3600	IN	DS	44193 7 1 0dd522e9b2c279b2ad2776b90b4f903b957bfd5e
+mass.gov.	3600	IN	DS	44193 7 2 2d9356b7d3036306edf0b3bb31b815cd52cb7ea1e1eea536814a6135761ea0b1
+mass.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. UyrzG3xD7mUTHa3Nb8LO+29C4EStom0ssNIUcdSykcJMBWKfCvW2nVFYIkRggUkpq9vU9Rw64FLW1kzacQxm1Pixn0K2dJxGvOKjicYLj1k8PUBl0s8JpqyLsd+E+8ULNwT+4zy+V2zepZgspZtjdO6NhLlxhwNXYLiW6sPiAE0=

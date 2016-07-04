@@ -1,0 +1,4 @@
+akaerospace.gov.	86400	IN	NS	vans-1.gci.net.
+akaerospace.gov.	86400	IN	NS	vans-2.gci.net.
+mf5rlkmccornj46rrbo5fd8deq93ef8i.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. jLq6IM6dVz/GOaBHWC6urVFSv8lNXQqB1mupoa9P7x+CiY3rZx4uO0S98G4+7inAAvnTsDL/RaUF03peq4DlQ4yRAbwbjCF/RbN/3zaDDjHSVgA+doZXJP2+S5gjGKrf8gigVmcLK5Bqisjwqv0iHSUJ8ATe94V0JPkrZOPCmys=
+mf5rlkmccornj46rrbo5fd8deq93ef8i.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mfd9r6nphf2adu03fb9goko3s09qvt03 NS 

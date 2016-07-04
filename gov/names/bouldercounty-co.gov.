@@ -1,0 +1,4 @@
+bouldercounty-co.gov.	86400	IN	NS	ns1.co.boulder.co.us.
+bouldercounty-co.gov.	86400	IN	NS	ns2.co.boulder.co.us.
+tj2jdhpkvnpjdhjmhckek6nsgi3r1u8u.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. CNtbfZQYVZHcVP7HrtOL0C/oXjHq9k/B7skG62SrLbej0jy0S6/ANT/XuUAUrri/D+BcHkz8+NyZzd1Iw5E/GQP2IZs7jH2MYBv7QR0F5mw1dvcivVZVmqNQNSZeSSCKKzzZkVREptQTHQ/Dasiw9WC79KCsdHhBGXyGzHJ5lKE=
+tj2jdhpkvnpjdhjmhckek6nsgi3r1u8u.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  tj2sqnh0rqsc0jrsj5spj0gtm893o48o NS 

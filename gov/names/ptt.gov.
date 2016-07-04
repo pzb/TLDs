@@ -1,0 +1,15 @@
+dns.gsa.gov.	86400	IN	A	159.142.136.198
+dns.gsa.gov.	86400	IN	AAAA	2620:0:150:280f::5
+dns2.gsa.gov.	86400	IN	A	159.142.150.68
+dns3.gsa.gov.	86400	IN	A	52.203.230.235
+dns4.gsa.gov.	86400	IN	A	159.142.69.84
+dns4.gsa.gov.	86400	IN	AAAA	2620:0:150:4013::5
+dns5.gsa.gov.	86400	IN	A	159.142.45.20
+ptt.gov.	86400	IN	NS	dns.gsa.gov.
+ptt.gov.	86400	IN	NS	dns2.gsa.gov.
+ptt.gov.	86400	IN	NS	dns3.gsa.gov.
+ptt.gov.	86400	IN	NS	dns4.gsa.gov.
+ptt.gov.	86400	IN	NS	dns5.gsa.gov.
+ptt.gov.	3600	IN	DS	51370 8 1 3e1041b9793007eb76a6c1f888723dc7238cd661
+ptt.gov.	3600	IN	DS	51370 8 2 193976f74342a75af5bf0d857e874969a91ef799677e0dc6729974c0c3af1926
+ptt.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. XkXwIzPHoqesSjJg4dOFTUEp/d66YeVfmceKiaMeSs/Yo6PRkMp7txHf4CsWlvJVElKlly6+3g7kOG2bYlBs7KhW8iFVNLfL1B+eCqjd1nAPckAi/3fsis7LgDwXjtEuRkLTtpetHUK0NSptZ8+Yt68dy7lGPhKYWALmBLfXpRA=

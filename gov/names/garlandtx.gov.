@@ -1,0 +1,4 @@
+g7ano49vgieds05bj3lljblbt9hro19k.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. CajfysAz3qXOR67HU6U+6z62R+Np2IOsbfAFKBl1lE/otk6pwi60FGSSwihWbHXg6yHSpCxDIjwt3blKGsa2hmlZoeu1O6F8dNv79swOeLakFz6MxL7Mi74JEJvBJnino9VsUyiGy8E06iS/sKodKUeUsvZt33Cfqm8YPPUwHTc=
+g7ano49vgieds05bj3lljblbt9hro19k.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  g7ektv88mr9e492i054dbni0irvg14av NS 
+garlandtx.gov.	86400	IN	NS	ns1.garlandtexas.net.
+garlandtx.gov.	86400	IN	NS	ns01.backupdns.com.

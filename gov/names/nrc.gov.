@@ -1,0 +1,8 @@
+nrc.gov.	86400	IN	NS	dnssec9.datamtn.com.
+nrc.gov.	86400	IN	NS	dnssec10.datamtn.com.
+nrc.gov.	86400	IN	NS	dnssec11.datamtn.com.
+nrc.gov.	86400	IN	NS	dnssec12.datamtn.com.
+nrc.gov.	86400	IN	NS	dnssec14.datamtn.com.
+nrc.gov.	3600	IN	DS	22380 7 1 cc51309c53303a4a685bb13b3d1dac617e13cf85
+nrc.gov.	3600	IN	DS	22380 7 2 6c9b07462f1b075bbde7decbc98a06df9df3d0e300ee2c1e986cc19d09781198
+nrc.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. B3tqAbl9HBcXjATsFsRzXLH4bgUVJzRPOUGLfbqD6+tqyvPnrdxByNSzzPAE5NcjbUuNCn0Fmz2u/4y6doiY7e2e6gaq70vZvZXCLvd/fIL7RBBV2EhGpB4lM5DsLQMa4uH09WXEjHGjDaqGVFoRhf/v5gFd/KN0GmDX4I9K9sY=

@@ -1,0 +1,4 @@
+0trto3444rvvp5ek9lugnkb9a0lulq0h.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. MROsE9tdzdDnYTe0TMMNLO180xCyKj5lmlB6Z2qx7Ytp7nIvfXAEIg6yFX3vu1xW1lyTx62HsVdI/0fflNMEz0fL8jAE0emIPPXGjxyZGiLq8S6nGV7B4yu2zClf3QUD7AujgYxVt+swWWNg7KqINwBtvk+FMLDbDSqvbRhXCBw=
+0trto3444rvvp5ek9lugnkb9a0lulq0h.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0u5sllkmoumlbvicrfavd7i9uqil5m7a NS 
+cohoes-ny.gov.	86400	IN	NS	auth-ns1.tvc-ip.com.
+cohoes-ny.gov.	86400	IN	NS	auth-ns2.tvc-ip.com.

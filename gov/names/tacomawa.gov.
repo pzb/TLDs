@@ -1,0 +1,4 @@
+905r1m7qs3to7tkturu1ieedm1vh7csc.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. V0yHXdfghyxGutO0pQYnK0dK2bKK/kDVcnkTMwxkobQD+yi9U837JJpsAmsAOIbKfZjqtj4/+9ZsaqyvoNOyj1my+G/zgN5iyoVYdFsGPWOkc8MCAcEp6Dysp5HYT/0X5oC5Ac2S0SkVNv2uzbd3bzi9ctedT7tlX+KjRUXo3Xo=
+905r1m7qs3to7tkturu1ieedm1vh7csc.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  905rufpsfik7jp8dlu21ubihrrnei9k4 NS 
+tacomawa.gov.	86400	IN	NS	ns1.ci.tacoma.wa.us.
+tacomawa.gov.	86400	IN	NS	mailgate.ci.tacoma.wa.us.

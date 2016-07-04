@@ -1,0 +1,4 @@
+r62nr1t6jdr43l69vnserjlttjjprjn0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. UMPJmTUdeGva1NVIssZQBNY8nn81gV4z4rAJ2q8GU8LbcT4NG5iNrJ81wePzL2gXHMAmSs/EMw2G8aWPFTG2HL44rQz1uQFmsvKqWcUqhJxrfOT356QWaKQPbWxB4/PRQEpol2WbMo9nRZeZmN7sTKTs5gxosUdhk2zrMMzulVM=
+r62nr1t6jdr43l69vnserjlttjjprjn0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  r64fflutrrm6r31dg4ko85fn0ve6t5nb NS 
+waynecounty-ga.gov.	86400	IN	NS	ns13.domaincontrol.com.
+waynecounty-ga.gov.	86400	IN	NS	ns14.domaincontrol.com.

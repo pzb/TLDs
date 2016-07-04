@@ -1,0 +1,4 @@
+oregonhealthykids.gov.	86400	IN	NS	lion.state.or.us.
+oregonhealthykids.gov.	86400	IN	NS	puma.state.or.us.
+t4m5b2use9sf5lbdrgbn4vu85v3866kf.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. CwfbGt+y6yeaNytxPLskmsN1R9Nw+CJ3RkvNHyrFiND7/FRXBtdSa6QcdYDIMUUFQfq/SliW6Dezs6ys/xXLTug4cZy6iY03ooJGABaoDdp/PSL/StqQVe0K4cycugxDzXMAST+MB29NM6uUYnQb6tp1h1pqywcLLuncDSrabxA=
+t4m5b2use9sf5lbdrgbn4vu85v3866kf.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  t536o4k60ijjmasc1eap0ijt3gcap72v NS 

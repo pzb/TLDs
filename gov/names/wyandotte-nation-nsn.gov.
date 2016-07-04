@@ -1,0 +1,8 @@
+75k4vvgpug6hot9msfmpe46qhu26o82b.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. rhI41hHLFrY1HfgkQfUPH48yVPEBCMRizWr/CjJgq19PFc8zmhfY1uojnyDNlUF3PTSfd6kt0XBwyMtVqiWIjCGnonkD/kolzV3oWvgq+1KyFtJ7Brc4gJS8jLB4VZS6L8Gt9WNaKdAv6HHnUDYFwZxpB7NJrMt0YaXWrY6zmAY=
+75k4vvgpug6hot9msfmpe46qhu26o82b.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  75m4gadecp1j8mpuhetjhb5s1l5je604 NS 
+wyandotte-nation-nsn.gov.	86400	IN	NS	a.dns.tds.net.
+wyandotte-nation-nsn.gov.	86400	IN	NS	b.dns.tds.net.
+wyandotte-nation-nsn.gov.	86400	IN	NS	c.dns.tds.net.
+wyandotte-nation-nsn.gov.	86400	IN	NS	d.dns.tds.net.
+wyandotte-nation-nsn.gov.	86400	IN	NS	e.dns.tds.net.
+wyandotte-nation-nsn.gov.	86400	IN	NS	f.dns.tds.net.

@@ -1,0 +1,15 @@
+dns.gsa.gov.	86400	IN	A	159.142.136.198
+dns.gsa.gov.	86400	IN	AAAA	2620:0:150:280f::5
+dns2.gsa.gov.	86400	IN	A	159.142.150.68
+dns3.gsa.gov.	86400	IN	A	52.203.230.235
+dns4.gsa.gov.	86400	IN	A	159.142.69.84
+dns4.gsa.gov.	86400	IN	AAAA	2620:0:150:4013::5
+dns5.gsa.gov.	86400	IN	A	159.142.45.20
+usaperformance.gov.	86400	IN	NS	dns.gsa.gov.
+usaperformance.gov.	86400	IN	NS	dns2.gsa.gov.
+usaperformance.gov.	86400	IN	NS	dns3.gsa.gov.
+usaperformance.gov.	86400	IN	NS	dns4.gsa.gov.
+usaperformance.gov.	86400	IN	NS	dns5.gsa.gov.
+usaperformance.gov.	3600	IN	DS	55159 8 1 7cb0162acacecbc2befdb5c9fb57e01264ba0a60
+usaperformance.gov.	3600	IN	DS	55159 8 2 c980ba74acc2afae14ae2ecff68ded3fde85975ea893f1905abdbae56299a6b5
+usaperformance.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. j1SVppLZvNaw+bldr3HjcwOU5xiwHKqcqF8YimHL97jJbhAOGWP1l1WdbM2Ljh0C29C/pKH6Vyj7QIx1H7qQhcemxvnI6+/5yi9Li0BDoQnI+CCjycVlJ/fMlU82tRq0uyysuA4pd7hpu7kEb4e0Wo+lRUdKaATEqz24afW9H1k=

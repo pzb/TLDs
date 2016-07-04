@@ -1,0 +1,4 @@
+g4ul615gtk5vsci9lpf0ckpuklq5uu2e.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. VNA9Qe19InhQjwhhPk01sTZGO24+4Gx5Ms0saO2Rw879PGnJvjn7kqnJrmEYyh85+Y3Q8GaVq6gIRedAQZszrydI2QUrAvPlwaU1tnfENqKkk7plFPKmQY4nW2W+iI/jZbM6W80zmbLA53r6YINQ8UfNYiL6OHwSCQSpRjpApLY=
+g4ul615gtk5vsci9lpf0ckpuklq5uu2e.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  g5hiia3rhegpc1tqba3jkm6j2n0n9771 NS 
+waynecountypa.gov.	86400	IN	NS	ns1.co.wayne.pa.us.
+waynecountypa.gov.	86400	IN	NS	ns2.co.wayne.pa.us.

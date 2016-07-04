@@ -1,0 +1,6 @@
+brycecanyoncityut.gov.	86400	IN	NS	ns-103.awsdns-12.com.
+brycecanyoncityut.gov.	86400	IN	NS	ns-654.awsdns-17.net.
+brycecanyoncityut.gov.	86400	IN	NS	ns-1359.awsdns-41.org.
+brycecanyoncityut.gov.	86400	IN	NS	ns-1956.awsdns-52.co.uk.
+cd0dcui1nas6kdjt44kql3d7q752vv35.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. n8n9XwqhLEydikYUCd0O4wBFspDCxna9tUxL/Rw5gC+JKDIwHoVNF/pODXlJOI0EmRnI6S1r3Lgo4CuvJSchptR1ix+sV1EdVYSMKxXqB1IDwe9qZzJf84wFVr93xNKioi5RH+AC2UI9RVlZzuxeYs6hT5zxGrnL8jxFHxwEmNw=
+cd0dcui1nas6kdjt44kql3d7q752vv35.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  cd1plchfn0c8o1anhug2o049keoj3mqi NS 

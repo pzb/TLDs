@@ -1,0 +1,4 @@
+8ebfkbce6i1oqdkfl8dc7k4dtev537rq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. SX5sHB597xbC6LOO7bThYpNuBi91YZ4jB8Yx9fdtUDGtGXwdBIdpUtvEM5lag3Tw/pxYtk12i6gr8ju3AG945Z37v1TTRzA5vHpIqMEetQC4Vt9JaWhdAAz+YMTAWdnzZ0FOz/3ZTaUWpowcycMkaPcfcGojtalafiqWdbmj1Rs=
+8ebfkbce6i1oqdkfl8dc7k4dtev537rq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8ettgpjllq50a35ovvv0gmgr075q7vvi NS 
+mtpleasantwi.gov.	86400	IN	NS	ns1.biz.rr.com.
+mtpleasantwi.gov.	86400	IN	NS	ns2.biz.rr.com.

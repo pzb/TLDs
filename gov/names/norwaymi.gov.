@@ -1,0 +1,4 @@
+41hvp0ofghmqgqn7l41p9e32oe5l1l8q.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. dGYzutH3wn9j7DbSEBLMXjPUZBFgUg0Zr6EBlJPZkXBGr9ZT/s4BPAWlnCblG5Dwm+baBvVJNO2QwmiDfBJaU2C3+f2xt0XkjDrTpPFUsNt0vUP0xiqynz74H+cYITJcRVVXBQH5Rz6a2G6adAoo92aTMUdRj5fwv+SrkFegq4g=
+41hvp0ofghmqgqn7l41p9e32oe5l1l8q.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  41jia6q6gd4bs6b1ilo0coiqc57mnd8b NS 
+norwaymi.gov.	86400	IN	NS	dns1.civicplus.com.
+norwaymi.gov.	86400	IN	NS	dns2.civicplus.com.

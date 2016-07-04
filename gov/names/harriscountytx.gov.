@@ -1,0 +1,4 @@
+fd3lirhbfi5908ivhfl6jmo01sbbni55.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ZIpWaKFRdUEynZCDBqmLmsN/GS71TzU+6dosRK0/vErmuCcp38VsTE6sm3JddOLRvwlPgUKnjHMoz5XFcbDf91RnZpgzEp+VkxgIctKfWhy36Y6fH1rQT5qBo1QvVFb7UFG/iDfJ8n0RyvQO4pX7Onlm7JuM4a7hXZFvmEboaEs=
+fd3lirhbfi5908ivhfl6jmo01sbbni55.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fd6ir0o7obpl2te3m6h3uvqvo9j2m6bl NS 
+harriscountytx.gov.	86400	IN	NS	ns1.hctx.net.
+harriscountytx.gov.	86400	IN	NS	ns2.hctx.net.

@@ -1,0 +1,4 @@
+7sbanueb3vtckqtrbfgsvn1n2r0quu9r.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. nTZvM/JB8ybSu9ypO5qYAVAAG66AO+vMtGV6NigL7CxbW4dvE4UVR1VXgDgXeGSQnClTGXbD1N+Ye281qFjMKQDmAo68USaPVkp57FmEDmgMEPsqrIiY4ntZuxgclYWcbxijV6sssPMRngevHwNNFxUvZaEnkz8OaPiH33HAOLY=
+7sbanueb3vtckqtrbfgsvn1n2r0quu9r.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7sctk68si9q275maskm2tdvkcvn5ife9 NS 
+harrisburgsd.gov.	86400	IN	NS	ns1.mediatemple.net.
+harrisburgsd.gov.	86400	IN	NS	ns2.mediatemple.net.

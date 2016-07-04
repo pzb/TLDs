@@ -1,0 +1,6 @@
+ginniemae.gov.	86400	IN	NS	ns1.navidns.net.
+ginniemae.gov.	86400	IN	NS	ns2.navidns.net.
+ginniemae.gov.	86400	IN	NS	ns3.navidns.net.
+ginniemae.gov.	3600	IN	DS	61285 8 1 db4e8a3ffe85206fcbcf471a924f67c871beff24
+ginniemae.gov.	3600	IN	DS	61285 8 2 879d19e2284689ca0c3ed831e5cc978805525f973cfee37261297d490122b254
+ginniemae.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. qm4hi9rLp4YNjPDl4KyG1GUsGmr00DrHNS+B5Icb5yBDdYYN62i7vHWVJylM5tENLSxZqI57ra7hO8eYkKMOS9ncsYzhIyYgIi2EdkYFLsStIb94cNYMkky5ZDOaH4ewmczNU92VxA9bYGP4YWNgcfTygAfRkeVXcVx9/Vd+Kbk=

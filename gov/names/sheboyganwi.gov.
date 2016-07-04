@@ -1,0 +1,4 @@
+sheboyganwi.gov.	86400	IN	NS	mns01.domaincontrol.com.
+sheboyganwi.gov.	86400	IN	NS	mns02.domaincontrol.com.
+vup5of13ge1bgv8jiqqtls38kfuj4phq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. u97kuE6UM7QQYQrUEmLZRUBVPOtP5PwYH5jKZ3fjC6NLDYZnyOs8ZXHAo48CS6AvPF2tWT2u1YRL/5w6sS3eo3uFAf3GVAgQ62pXJnfsyeQ/R99NYe6g+pfasQ+DWZmn8Uq5RhpondUn2PZ34zb9sWRW3P1VnLO5cRO246b/ehY=
+vup5of13ge1bgv8jiqqtls38kfuj4phq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vuue1108p9cn2a6fjlln7e1l7kgj46bu NS 

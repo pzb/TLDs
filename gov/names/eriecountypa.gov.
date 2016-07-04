@@ -1,0 +1,4 @@
+4ls79vurm6tl6mceinpvf0sqtdiq27i3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. RwmoqXM3M981tNNFdCzp3U3uK68l1mCI8QReH7zqrDSVVlDq1f8okMpTT6Qhi0XWqG2hv3q6aQeXpJmQtfhNqxPsalYrZzcO22Z6BETOPd3etTZZq64VBts/TAbRIfod+f4V6oCSasLZ8oALyqqTm5MoGBlDigkN8Oe2C4eVw7Q=
+4ls79vurm6tl6mceinpvf0sqtdiq27i3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4m46gad369afgf3o0b8h6k20glkoa853 NS 
+eriecountypa.gov.	86400	IN	NS	ns1.velocity.net.
+eriecountypa.gov.	86400	IN	NS	ns2.velocity.net.

@@ -1,0 +1,5 @@
+6b4dfd199rkrr3nhgpc7gkbv50h9mf65.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. bCU7kiewmfGNS1OPpg0Sm/uGeg1V7/43EPsv/jT4EsBsYMRTneHBWfYTXzcetRnP0zftAQdj9EqZaM+/Ipi9cpcjuJccCQEHgpmVzLxtO/ScvxaSD4XEXSJgQtLS7sAZ1j+iREUPO53vg3eQPsXKwCaoEDRtGXJHHJ288T6eOwE=
+6b4dfd199rkrr3nhgpc7gkbv50h9mf65.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6b64krb9l49k0kfj8djj6rtia12cj5ub NS 
+grantcounty-or.gov.	86400	IN	NS	dns1.k12.or.us.
+grantcounty-or.gov.	86400	IN	NS	grantesd-dmz.grantcounty-or.gov.
+grantesd-dmz.grantcounty-or.gov.	86400	IN	A	199.255.95.99

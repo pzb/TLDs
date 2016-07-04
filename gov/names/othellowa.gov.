@@ -1,0 +1,4 @@
+dkvnteb781bdhfqqf2bc64tmeggrmb84.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. kTsdBiEP+SIAduJs3X3ucd2Nb6QGgaogkmltkLS1s1sLu5PJXmKV2MkStXQDXLD3scWDtWOYS5T9TQXIZvlzKKr4AaAYBHC1JA8emtk/E0S9kwioT/j4JFS8BOXP8avnr5fs2edZ9Iq1mHPpYW09aIWE7VRySN2G3hI8YokqMx4=
+dkvnteb781bdhfqqf2bc64tmeggrmb84.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dkvsqjp8bsv205l21jhp4694kceiggc5 NS 
+othellowa.gov.	86400	IN	NS	ns69.domaincontrol.com.
+othellowa.gov.	86400	IN	NS	ns70.domaincontrol.com.

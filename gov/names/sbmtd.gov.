@@ -1,0 +1,7 @@
+6n8liaslmt68rra4bimt7ki3gc2sq1kk.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. FiMffPqz5VQwCuJhlnHXzLb/LKtJ7yf/eDPnZkz7QuF2odulShiCXDweDsQtfpZfcpvYnIPzlh+o1I7Al5I62/qUyhOVz0UMA27/grYzqj8YNNN6siN+k16ov8mt6zvBu6mMDGmBFxcwV2K9eaUQaXUM/nGsaeSEY846oDJ7RgM=
+6n8liaslmt68rra4bimt7ki3gc2sq1kk.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6nsti6dp8ndki34m5llmefinhejja2sf NS 
+sbmtd.gov.	86400	IN	NS	ns0.dnsmadeeasy.com.
+sbmtd.gov.	86400	IN	NS	ns1.dnsmadeeasy.com.
+sbmtd.gov.	86400	IN	NS	ns2.dnsmadeeasy.com.
+sbmtd.gov.	86400	IN	NS	ns3.dnsmadeeasy.com.
+sbmtd.gov.	86400	IN	NS	ns4.dnsmadeeasy.com.

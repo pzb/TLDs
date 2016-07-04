@@ -1,0 +1,6 @@
+bgi7g0oqsanfs2bo1nt48ieldjllng9a.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. WutrbxCpnvbOowro40N7oCC5gPc9gVaEXUD30cQxB9CSduuqwLW5GvlvJ4+8rTqNjTetv5kq6AA4GGhnnK25hY9tsc7neq88jKDnTrz1+56uKosLdGN2gffepnr9uixvqyIk6sCUmSPD14stwDP3zlpZnWs/LTW9Q+lNet8weGI=
+bgi7g0oqsanfs2bo1nt48ieldjllng9a.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bgple5thejsll9mc4q230cj42m860pjo NS 
+grinnelliowa.gov.	86400	IN	NS	ns1.windstreamhosting.biz.
+grinnelliowa.gov.	86400	IN	NS	ns2.windstreamhosting.biz.
+grinnelliowa.gov.	86400	IN	NS	ns3.windstreamhosting.biz.
+grinnelliowa.gov.	86400	IN	NS	ns4.windstreamhosting.biz.

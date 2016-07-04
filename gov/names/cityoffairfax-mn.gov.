@@ -1,0 +1,4 @@
+bart2pv33pqf1ik7n1te40cm0rpkbs78.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. DIEXD4AGDLh1085BRVftNv0z0YZa/fxYJcwLiXVsXuV+40FQVilns3nYx6XUA0U12D4M67yy3XDnCFp5catUB3tTynsHhPl5HYz+ytLMnyaX/AXGxxxjqoTWCVDz5YnVpgoGRgTYoVzHjCvCw6kHmRvewLIoJcBVloDNOj23FzY=
+bart2pv33pqf1ik7n1te40cm0rpkbs78.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bb0588h3d33nggb0c03kisie26g1ltll NS 
+cityoffairfax-mn.gov.	86400	IN	NS	ns1.avenet.net.
+cityoffairfax-mn.gov.	86400	IN	NS	ns2.avenet.net.

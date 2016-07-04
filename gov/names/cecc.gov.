@@ -1,0 +1,6 @@
+cecc.gov.	86400	IN	NS	chyron.house.gov.
+cecc.gov.	86400	IN	NS	mercury.house.gov.
+chyron.house.gov.	86400	IN	A	143.228.129.38
+mercury.house.gov.	86400	IN	A	143.231.1.67
+v0a031s6horud8kqb0445hgsefl9dm7k.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. eSJHpUfuc4A7wUDSVZpuG777vCYCGrLx8G6S/StoHTscFZM4nA0KWAQgz3PRuSzu1e0EdyuFYhmFuqntd2EzbQc45rqWId/chybCCFc7EoHjo3+2rDI2zd39gMRvIFJgSrA5VMo9nfKU8UVJCYg6wPXSoM5JTtoLw3yMS1zg+Yg=
+v0a031s6horud8kqb0445hgsefl9dm7k.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  v0mjmhmqh2umcf13iodjsfaci9tnvjbp NS 

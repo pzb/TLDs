@@ -1,0 +1,4 @@
+9ee42chlseg6qsfsfjbk15qqsb8m3lht.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. i5Bq3o4jYVHgqBbHYAHIWun2U099wWglFWWAv+2lUoYMWMKXJV01xJkRzhvzcvOirsuv1sg0YA9AWVVGDVjGbCzCTEx24IRCUbQAcl2tV38rUO8ZBdcu1okkz3tQwySDWDzddHqZRloOy4E/mDnVkTJlfze/jh9fXBAGYWG/Zkk=
+9ee42chlseg6qsfsfjbk15qqsb8m3lht.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9ei020jlv7cdh1t9jtv9glp4uk837rml NS 
+mendonma.gov.	86400	IN	NS	ns2.lightband.com.
+mendonma.gov.	86400	IN	NS	deathstar.kersur.net.

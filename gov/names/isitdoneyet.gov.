@@ -1,0 +1,9 @@
+isitdoneyet.gov.	86400	IN	NS	ns1.usda.gov.
+isitdoneyet.gov.	86400	IN	NS	ns2.usda.gov.
+isitdoneyet.gov.	3600	IN	DS	3982 8 1 64c52da3a383c0358a4ae069f02a50fb6bb38a92
+isitdoneyet.gov.	3600	IN	DS	3982 8 2 50717053eeaede3e109bb43db9697dd1ccb3f683ab2479ed84d7963ecda6ae3d
+isitdoneyet.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. gbosvifv0miWnRhhsHyReYxF7eIUJVTCCPSBCzWbvkwU4lADCu1toJlfHjMvmVU0M8eMWIymqGw/Rsm9LVpleRgIgirrZfLDsP9C4rnTv+eXZkSlGbDGvo+2Pga2K+JpDzlOvCiIyXVIp3wr2juCmuaoi1NZOt/oYJbvtb7+AE8=
+ns1.usda.gov.	86400	IN	A	199.141.126.202
+ns1.usda.gov.	86400	IN	AAAA	2600:12f0:0:ac04::202
+ns2.usda.gov.	86400	IN	A	199.141.126.206
+ns2.usda.gov.	86400	IN	AAAA	2600:12f0:0:ac04::206

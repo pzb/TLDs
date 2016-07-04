@@ -1,0 +1,8 @@
+kaqqhvahkg9ml8utc9qcov5l8gdcl1pt.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. YgTt15kIN9OHLgUli3SSKuPYQgAe00/LwWZicNYhR3qF8XMA6GCEKB9WBW1cfgo9ktrcDAc0iBHrCTXIHyBYXR4k1fcTTbVHdRdjv5XKHEInYC/00pIedQ+lBxmzNNphbtT790ANwgvaJTtEhHn9nms4qy4CXBp9EyxSWeLtkDE=
+kaqqhvahkg9ml8utc9qcov5l8gdcl1pt.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kaum6bnt76l5ao9rnld2j2piukcb1afr NS 
+mt.gov.	86400	IN	NS	mtdnspri.mt.gov.
+mt.gov.	86400	IN	NS	mtdnssec.mt.gov.
+mt.gov.	86400	IN	NS	mtdnstri.mt.gov.
+mtdnspri.mt.gov.	86400	IN	A	161.7.38.10
+mtdnssec.mt.gov.	86400	IN	A	161.7.38.11
+mtdnstri.mt.gov.	86400	IN	A	161.7.129.10

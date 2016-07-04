@@ -1,0 +1,6 @@
+3br9pu3efusrq3h9il10bak44cn93v23.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. gPzSdALofTfGBPdIlEFGcfG/73awkDDRhBj10zh2aqug8NbVh+9Mz2p0NZjhj46zkeLmgvotPjX7jie+1xvUsJw1Whh9Su+D+fkcaa9QK8+zihVsvAYXu4/Vz1InThTI+Wx4P3Fkq2u/swaJ9qo0Zy26jtBvPW+1SHA5NhInNfQ=
+3br9pu3efusrq3h9il10bak44cn93v23.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3brdt6m3c9ea4j2luaqbflbporceacjl NS 
+dns4.tn.gov.	86400	IN	A	170.142.92.58
+dns5.tn.gov.	86400	IN	A	170.141.168.22
+tniis.gov.	86400	IN	NS	dns4.tn.gov.
+tniis.gov.	86400	IN	NS	dns5.tn.gov.

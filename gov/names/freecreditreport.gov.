@@ -1,0 +1,14 @@
+freecreditreport.gov.	86400	IN	NS	ns1.ftc.gov.
+freecreditreport.gov.	86400	IN	NS	ns2.ftc.gov.
+freecreditreport.gov.	86400	IN	NS	ns3.ftc.gov.
+freecreditreport.gov.	86400	IN	NS	ns4.ftc.gov.
+freecreditreport.gov.	3600	IN	DS	29943 7 1 874e0a6649725ed5d67f1a96486a15d4c2267570
+freecreditreport.gov.	3600	IN	DS	29943 7 2 03c2226424f186629839a1f139277a34f2c3ef495e346b9d68165affff80dbcf
+freecreditreport.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. bBFVGbLbkOWJ7JijlBUiSBavTDdumJCyzLPti/cfLmhMzY88QYHx8JchQEGPVam8CQk0rKXSskm6+QckNXaSRv7cm5NjQu6yhGWu10+qw4g45YoLwEv504egKm43xlJ2K4RDs3zs5YftP64L0MiQVAqwvXKaGcKD+FVE9y35UBY=
+ns1.ftc.gov.	86400	IN	A	164.62.13.2
+ns1.ftc.gov.	86400	IN	AAAA	2620:0:630:4000:164:62:13:2
+ns2.ftc.gov.	86400	IN	A	164.62.13.3
+ns2.ftc.gov.	86400	IN	AAAA	2620:0:630:4000:164:62:13:3
+ns3.ftc.gov.	86400	IN	A	198.77.70.11
+ns3.ftc.gov.	86400	IN	AAAA	2001:1900:2268:770:198:77:70:11
+ns4.ftc.gov.	86400	IN	A	192.28.111.42

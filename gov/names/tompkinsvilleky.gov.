@@ -1,0 +1,4 @@
+tnj0i78ec4mrupi7ahs64sjlmsg30sds.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. SbRd01VS0dAZXgFEQnARTiUsNRQDhFw7oHNl+x3G5vki6oPjOAkWm6j4A1WHluI902fuDUEVRFq/E6Q0WW/QHVw0pUVmU21IfjE+1CMex90xfBAY3m+FwFWsRNA63u8G4lNjJNPqvvJgI5CR1yx3Se/XWJ1PyUz8Vv4wh2okew8=
+tnj0i78ec4mrupi7ahs64sjlmsg30sds.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  tnjmg52uj63f32ks5liqfhg79g8u4gfc NS 
+tompkinsvilleky.gov.	86400	IN	NS	ns29.worldnic.com.
+tompkinsvilleky.gov.	86400	IN	NS	ns30.worldnic.com.

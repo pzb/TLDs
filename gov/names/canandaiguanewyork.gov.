@@ -1,0 +1,4 @@
+1b643r9a1q2v0neh242oemb9oplsf79g.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. cWQOJyM/ot/ZxzqpBT/DF2NZZaP2a+NMOMF+F7J/K+4p7xp/7vVsFsEM1rANJMzDFj1hI45H5O+MizAMfURWhxWnnI0TLz9xZyKYS+y7S1mL6J9XnVu3rrjvPf3d4ZG9SI25RTkN3Fm08lThluAUOR1J8vjF5yHbifwpvmCqOm0=
+1b643r9a1q2v0neh242oemb9oplsf79g.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1b6tauqoiuhmbft9oe3fidn0j1qlcaf4 NS 
+canandaiguanewyork.gov.	86400	IN	NS	ns1.avenet.net.
+canandaiguanewyork.gov.	86400	IN	NS	ns2.avenet.net.

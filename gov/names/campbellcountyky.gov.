@@ -1,0 +1,6 @@
+077qt1p22crk07utv1fn5re00pe2pgd6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. xUL0XSBekrDfkUVQqEuCgyQgZ0a2KK6DXXuikJ6/8ub6WRyzx9EMR8IepzOSOGq9iFLZji/S1ZRy+kQJxN9KRO1V/dTGWXadIHq1gIetUWRkZuIDlBZ322/bCrHSko1tGrkKb2T3Vez5QJ70o88xact87N1bZdjGdp49BTnKrHU=
+077qt1p22crk07utv1fn5re00pe2pgd6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  07i9h8ttfe678qif77q5510l2c1oh83c NS 
+campbellcountyky.gov.	86400	IN	NS	ns-94.awsdns-11.com.
+campbellcountyky.gov.	86400	IN	NS	ns-659.awsdns-18.net.
+campbellcountyky.gov.	86400	IN	NS	ns-1093.awsdns-08.org.
+campbellcountyky.gov.	86400	IN	NS	ns-1767.awsdns-28.co.uk.

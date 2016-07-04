@@ -1,0 +1,9 @@
+firecode.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+firecode.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+firecode.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+firecode.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+firecode.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+firecode.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+firecode.gov.	3600	IN	DS	32911 7 1 edf33bc1c5f54ae940881714aea335bc06f6a740
+firecode.gov.	3600	IN	DS	32911 7 2 8b3527763927f7e0e870464210549b101c923ef96de8bb604894214c7607ecf5
+firecode.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. xnd3Efw8aOYZYwMIwgKfI0+OWb99iCzUrnKHqYLND4bCMoAmJ/9p6AFsk8yKs+L9TrfLicR+vTaJ9/OCpYOpSykkT+b2IYNfd/1Jd4pCm2Frsiicu8kIS90ISBnnOzEE6/RWvAvxJjbfZK35J7ydQLlyIZlaI8LOl0MAEPwcYc0=

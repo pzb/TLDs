@@ -1,0 +1,4 @@
+hainesalaska.gov.	86400	IN	NS	mns01.domaincontrol.com.
+hainesalaska.gov.	86400	IN	NS	mns02.domaincontrol.com.
+ulk9siettgj4vk9dqksc4ss40o70ljmt.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. NkRj94Eat+lVPrRHCsMy2suUqqIzh3Hkiw61Fa0sLidcenJ3DJypdV8VsEo4VgpVCY2jpMAYHZThYJqpdz8NRcVl4kEacQedJO0SE/Bw0WgTklQ8KmxdnYGK3oLLN0ocVa1pAYji9d1UdfW9P802mGp1PRB/G0mZIm/IVevCwsE=
+ulk9siettgj4vk9dqksc4ss40o70ljmt.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ulr8vqls0hhnarves65cs9tmk7qtt1bc NS 

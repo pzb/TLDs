@@ -1,0 +1,4 @@
+kd52seq8c5fo42ms82ho8i670fno6dbr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hdxa5g52XwHR14pdkU0rxUF0TpuE62fs4HZVWBxg4fWuSs/8TdU+fA8dWI+z20yL38mLBc9koUvkZt3y2Mg79p/ylnJC3ebaPxJKwCOhBa0jANs+tiRhYkvEYALGdi+NdZwvvNe/K5oPZx4VJfC4z+yIhPyMRTxJ+gsR/49BStg=
+kd52seq8c5fo42ms82ho8i670fno6dbr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kdegtb9t8ss4j4bcticm5o0pipua17e4 NS 
+readyharriscountytx.gov.	86400	IN	NS	ns1.hctx.net.
+readyharriscountytx.gov.	86400	IN	NS	ns2.hctx.net.

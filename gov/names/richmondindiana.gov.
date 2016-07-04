@@ -1,0 +1,4 @@
+l4bgf5prknioqd8h4969elrhaim44dt5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. OlefgFtueN0uUiR7jW687Ov1TEEewQlr/O3CT62UYKP3aewk9gWCXO40h8yzfKewuZfQq3j8XFRRZPoqzCvGvIMSG8jFuR0nPodk0uyBhrReVXiUvXol2EdCTDqqJcK3ywz/1Ty0VIYMcwD6W1xeZ6o8JDHq/9LWpQa9hfzDX7A=
+l4bgf5prknioqd8h4969elrhaim44dt5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  l4nba2agscua1bu1cd0o06t5rocb9hkn NS 
+richmondindiana.gov.	86400	IN	NS	ns1.active.com.
+richmondindiana.gov.	86400	IN	NS	ns2.active.com.

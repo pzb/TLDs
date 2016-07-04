@@ -1,0 +1,9 @@
+utahfireinfo.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+utahfireinfo.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+utahfireinfo.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+utahfireinfo.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+utahfireinfo.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+utahfireinfo.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+utahfireinfo.gov.	3600	IN	DS	36070 7 1 231b64f55c7b372e923a83f996458fc953c6079e
+utahfireinfo.gov.	3600	IN	DS	36070 7 2 96f05b6b3bed1d73f8827457314c93c3c852d4afe83b34b190ec1fe7c74a3bb5
+utahfireinfo.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. skIaNnSQhxJXeiDWdz2RxaTKYW+56hLFGHPa+F9ezRuO19H6LKsFutJOfDMUhganAmYkqZ802BxVMcxejRdDPOHcJrfKDmdt1PaAhWdsB7qH8ZyBBnZ1lYMca381EXrpwwpo0/iIb1XgrHFl51ny6Q+MQVAN7BKsUsTibx1FjwE=

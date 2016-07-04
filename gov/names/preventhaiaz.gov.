@@ -1,0 +1,6 @@
+253b0qh3srv6osjvitod3geblgpijp21.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. eKh9DzL14IwYWPYFOVW8v8nn9yTXO48LmPVc2Gk6IE0EZJqjMDqZYLXit0OGD4LfYr51ZqYsThP18oCDDLIKogsPLsIG+Kck5c8N2m3ZqOklquSLiwn2G2nlEcSqC8EcFOC0lz6Jr6nE8b+kbPzrR0OOsf0Y49GlqWg1BE/Fwxo=
+253b0qh3srv6osjvitod3geblgpijp21.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  253im7qjeadgq6ddd73tikljskm39h4p NS 
+preventhaiaz.gov.	86400	IN	NS	ns-431.awsdns-53.com.
+preventhaiaz.gov.	86400	IN	NS	ns-519.awsdns-00.net.
+preventhaiaz.gov.	86400	IN	NS	ns-1315.awsdns-36.org.
+preventhaiaz.gov.	86400	IN	NS	ns-1679.awsdns-17.co.uk.

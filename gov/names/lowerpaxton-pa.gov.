@@ -1,0 +1,4 @@
+kk0drnqv66ap1anodkl7as1u7hfu1v4v.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. cizFN6E1JaGPFN/yiTX0HHuEKuE5gMLVDSwHFZ8VXECeFHMlO9H4Opqbz+UGk5QCKAty+JFJO0yH1io/2hmGQTfy29UfNCMTOPUqKZmmdFAClh6uy7IEnZvVj7HPvvmENFHcGa4viMsOp+rkg+294eMIH4Ns1E7nYiKg5ZCwqAE=
+kk0drnqv66ap1anodkl7as1u7hfu1v4v.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kk0j09ou7vm1vjgjradgq30cqd4v40e8 NS 
+lowerpaxton-pa.gov.	86400	IN	NS	ns1.hostmonster.com.
+lowerpaxton-pa.gov.	86400	IN	NS	ns2.hostmonster.com.

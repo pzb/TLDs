@@ -1,0 +1,4 @@
+84m36tsfko3kbqhctdnq76orhe8c489c.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. cFjBfqYWq76Bz2YO/eZ/+KGk3O5HI/Y8OXSYFNE1fm8/tm0sffJc9Swj8QRV2bT9V4mT1Wp+OTPneh1CJjxAmqRAYxMytHrsLyFcTlIzI8z6DQKZu/HJ+W9C0AhMOXZTIJz0wxDWXlTn2zNzR1NedLk6Vnks5fleczXUfjlFV4g=
+84m36tsfko3kbqhctdnq76orhe8c489c.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8597kp51et312vie19r89m6neenmlrqn NS 
+portsmouthvirginia.gov.	86400	IN	NS	ns1.coxmail.com.
+portsmouthvirginia.gov.	86400	IN	NS	ns2.coxmail.com.

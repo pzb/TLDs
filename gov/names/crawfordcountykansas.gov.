@@ -1,0 +1,4 @@
+crawfordcountykansas.gov.	86400	IN	NS	ns1.tinydns.com.
+crawfordcountykansas.gov.	86400	IN	NS	ns2.tinydns.com.
+m0qvdireivahpfsba2pgrbe0c4vq4goo.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. TEHKTVQGDcRk8RxPmE1bnQnrhT5Th4cgCEnFdgDUoxT4RE4Z4zkEAI/GM0q0jHEEoXlLOaeAjVi506FMxMJjGQwUiP8xIRbYNjLNQTvLlxy2RagskF8sknx+2tcyxikN2L43Dv51V06/h5PTp7N+YwkXHSdrTOBeYDl1sJN4rGM=
+m0qvdireivahpfsba2pgrbe0c4vq4goo.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  m13ga761tupavrl2k1o5amo8q72spg4g NS 

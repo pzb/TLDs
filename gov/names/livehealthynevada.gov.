@@ -1,0 +1,5 @@
+iq67sr7mouebmqcu0qjqmi454husoddp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. RgWQdj7PwyPyttbf6RCSAfhuYuyuC4NRQQHqRTm6wD4rkcOtxgpx6aAHjxsXIZNyfJpp9qAQ8kOMVux3PGyGxN3d3g/kac24CQt3Fmmzrw2NSzoVxjqcft3qkGjvlfZWu42LRxeZ0xETIJcBX2jme9mNxFuVKmHshW92mk07BI4=
+iq67sr7mouebmqcu0qjqmi454husoddp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  iq9qp8mijv642omj69kchntm71r02ed0 NS 
+livehealthynevada.gov.	86400	IN	NS	ns1.state.nv.us.
+livehealthynevada.gov.	86400	IN	NS	ns2.state.nv.us.
+livehealthynevada.gov.	86400	IN	NS	ns3.state.nv.us.

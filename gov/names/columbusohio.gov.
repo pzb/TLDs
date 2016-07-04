@@ -1,0 +1,6 @@
+4vh000mnpnf2n19emge2njrnkrjr12k5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. xC7zmvg0ojsX1xV8dagd2AI2JhM/rX+MY1OU40TPs0ZkK4ZK6OVI2h9lnI9VRq8e8xeNDLTdjDg+wYMG0ahhD2uwN/1rl690l/j/D3KsmK2l5eJFT/tcFe+bMbeoUU48irqNKfWvH+11WXyU3gEwHPRUmFEIAsz0pJ8RMv4tybo=
+4vh000mnpnf2n19emge2njrnkrjr12k5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4vhlohkd9dmjv5p1h2s5aqv8bu8k9i52 NS 
+columbusohio.gov.	86400	IN	NS	ns1.easydns.com.
+columbusohio.gov.	86400	IN	NS	ns2.easydns.com.
+columbusohio.gov.	86400	IN	NS	remote1.easydns.com.
+columbusohio.gov.	86400	IN	NS	remote2.easydns.com.

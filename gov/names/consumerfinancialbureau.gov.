@@ -1,0 +1,7 @@
+consumerfinancialbureau.gov.	86400	IN	NS	sauthns1.qwest.net.
+consumerfinancialbureau.gov.	86400	IN	NS	sauthns2.qwest.net.
+consumerfinancialbureau.gov.	3600	IN	DS	47619 7 1 15700f9e9811c69fc73071ae0a5e9b122ba3403d
+consumerfinancialbureau.gov.	3600	IN	DS	47619 7 2 0f2c282d762aac1f3e0ee287e7ab68f331f42430bf3c431c82cd2dadf686ceea
+consumerfinancialbureau.gov.	3600	IN	DS	62688 7 1 4b0ef9596b73147ff105a6d5fa4504c75345c14b
+consumerfinancialbureau.gov.	3600	IN	DS	62688 7 2 a2b31a3fa7c11baf52a04d657285f9bb55ab90f441b683eccbde6007e27c17a9
+consumerfinancialbureau.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. n+DaNa4MqhydCYaLIuhu35XUjouuwDU/1thisdb1zMyYPcLYipUY9Cq8A9HbgVFJaUnenh/TuxRlwQVxhrqa1roqkP7CkQR+YxNjg0hcYbIFjwqkkYbX8UUOvuMPxEprYQeYRZQg4/infXglMOSA117tqmMFVOj0LWQ3bhntw5s=

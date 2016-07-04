@@ -1,0 +1,4 @@
+0rbjcj7og4n4gf16dj688q5h1bpfls84.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. SAuKi24V2Qd8G4TCPur1viI+3EgSqp9M5e5R0LvhFYCeSIwHW/aaS9wHEXgE9t2DZ8jWXINBZgd28StD/oGRYUgAXJucc6AOqaqQhJT3uQti5T3As95VNPLQZJETRMEFhfc00lQQRQ/8A13H9T5q6XX+r/R2zCk2iE2b0teGpzI=
+0rbjcj7og4n4gf16dj688q5h1bpfls84.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0rkkkksjqpvrtmhk7n5jumehjiut1ci0 NS 
+bowmar.gov.	86400	IN	NS	adns.cs.siteprotect.com.
+bowmar.gov.	86400	IN	NS	bdns.cs.siteprotect.com.

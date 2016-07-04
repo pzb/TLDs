@@ -1,0 +1,15 @@
+computers4learning.gov.	86400	IN	NS	dns.gsa.gov.
+computers4learning.gov.	86400	IN	NS	dns2.gsa.gov.
+computers4learning.gov.	86400	IN	NS	dns3.gsa.gov.
+computers4learning.gov.	86400	IN	NS	dns4.gsa.gov.
+computers4learning.gov.	86400	IN	NS	dns5.gsa.gov.
+computers4learning.gov.	3600	IN	DS	27281 8 1 905c305b338956e6a4f91a59f15118eccf9ee603
+computers4learning.gov.	3600	IN	DS	27281 8 2 fce165dc11124f46ea6e371adce3a1866ab855de7d615122194dfcd1a31d816c
+computers4learning.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ihKK/8ZuTtXOF1EogLsA0N4UPdPmePPrGZmb41hk8UTF34yHlXvXAGqEDZE17/bs1jtlk/9UKoU2EiCBHGp8phQeYGzksloxZ4/8XHOYysOOKJA4on8Wntbr6B8/6IdIYzI07BNXWXT/5rpL5e5jKCabmFdsmqiAt2NpBOJfEC4=
+dns.gsa.gov.	86400	IN	A	159.142.136.198
+dns.gsa.gov.	86400	IN	AAAA	2620:0:150:280f::5
+dns2.gsa.gov.	86400	IN	A	159.142.150.68
+dns3.gsa.gov.	86400	IN	A	52.203.230.235
+dns4.gsa.gov.	86400	IN	A	159.142.69.84
+dns4.gsa.gov.	86400	IN	AAAA	2620:0:150:4013::5
+dns5.gsa.gov.	86400	IN	A	159.142.45.20

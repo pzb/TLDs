@@ -1,0 +1,15 @@
+ns41.cap.gov.	86400	IN	A	64.62.200.147
+ns42.cap.gov.	86400	IN	A	65.49.37.203
+ns43.cap.gov.	86400	IN	A	192.198.87.242
+ns5.cap.gov.	86400	IN	A	108.166.170.104
+ns6.cap.gov.	86400	IN	A	108.166.170.105
+ns7.cap.gov.	86400	IN	A	76.73.18.238
+capnhq.gov.	86400	IN	NS	ns5.cap.gov.
+capnhq.gov.	86400	IN	NS	ns6.cap.gov.
+capnhq.gov.	86400	IN	NS	ns7.cap.gov.
+capnhq.gov.	86400	IN	NS	ns41.cap.gov.
+capnhq.gov.	86400	IN	NS	ns42.cap.gov.
+capnhq.gov.	86400	IN	NS	ns43.cap.gov.
+capnhq.gov.	3600	IN	DS	40646 7 1 2b844f35856fabafa40b299b59fd15c7ec6997c7
+capnhq.gov.	3600	IN	DS	40646 7 2 52431859f8686deb835d6e272b2287eaa08d7f1b89c80a1fbc4269ff05fd0329
+capnhq.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. k5cGtHoa0sbtAcBJX8AKeh0GF5Ql7idcASwsl2sbg9W85etnCGn744bof+1BQ7BMuZGbm9kY8LbpzeQK6UWvkQeUqayl1pBPfBDe7VDoXpUEAW9H7vnraQBkaeia0zUWXZ+YAFFiJ4hHdDduwVThJ2xMO02DsyrJTXQB0x+TecQ=

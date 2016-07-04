@@ -1,0 +1,12 @@
+hurricanes.gov.	86400	IN	NS	ns-e.noaa.gov.
+hurricanes.gov.	86400	IN	NS	ns-mw.noaa.gov.
+hurricanes.gov.	86400	IN	NS	ns-nw.noaa.gov.
+hurricanes.gov.	3600	IN	DS	30718 5 1 e2d1a156eef970d52fbe3886d1c2f42489584308
+hurricanes.gov.	3600	IN	DS	30718 5 2 3fe325cd72b82d7abd13314883d00a516e5c2bf9da483622fa8557cc57e955cc
+hurricanes.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. MFCZdc0ZzXGycwhdj1ukoevOSeIaM8wM8KDkQyPE8sOZ6dLZx9LoFh2EZx/KampQs4KtGL/jjJakkWTZdxsARBowH7TomgSBn+XwxJIw296qvjNtBnXknlebadkAMURjDFxNHbdiDKXKtE2Z2uXms1FXIHBs5JlzRp1peaLX4JM=
+ns-e.noaa.gov.	86400	IN	A	140.90.33.237
+ns-e.noaa.gov.	86400	IN	AAAA	2610:20:8000:8c00::237
+ns-mw.noaa.gov.	86400	IN	A	140.172.17.237
+ns-mw.noaa.gov.	86400	IN	AAAA	2610:20:8800:8c00::237
+ns-nw.noaa.gov.	86400	IN	A	161.55.32.2
+ns-nw.noaa.gov.	86400	IN	AAAA	2610:20:8c00:8c00::2

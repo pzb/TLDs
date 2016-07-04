@@ -1,0 +1,4 @@
+archdale-nc.gov.	86400	IN	NS	dns1.nstel.com.
+archdale-nc.gov.	86400	IN	NS	dns2.nstel.com.
+d1g51jvu48inoiv959jbnl0u5hahh5tj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. tangaDKNeo0mdz/H/OR9wp6g+XwE9CiXT3wFKqKPi8l9R9NA7eYjbjs9F8qz3CsSVi+9yiELKxA7OULQfLNAZQu710KPH3vIBjQ7RoGXX7BnFAykA0VVGOS4bZAe0plvnzXA8NQq4M65ufahs1xIi53BCkXW+jBq9JDOB9enFPg=
+d1g51jvu48inoiv959jbnl0u5hahh5tj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  d1rffa62r88qr7v1onq9i6f1trsst57v NS 

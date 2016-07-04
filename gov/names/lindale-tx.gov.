@@ -1,0 +1,4 @@
+5skb4eppi70d768ivdajn65a548si5hp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. t8Yf6Lb3stGtnxusVM+TyBCRielYhs0BJyAnjb01mUYFBVU7B8DnWs3hP5DZ2/Tp1zLRQldgfk1Hawp7BkfzMci5gSIcB3a7WXxoZfFK+bCtA+KJ742ZH+QUCt/Ltk6D312cpOE/A3XqJFPchX1C9JGEep+k59qTKZkj7n7NWuc=
+5skb4eppi70d768ivdajn65a548si5hp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5sm7j1to3dtpa5v0ogklhdc3mpal3qn1 NS 
+lindale-tx.gov.	86400	IN	NS	dns1.civicplus.com.
+lindale-tx.gov.	86400	IN	NS	dns2.civicplus.com.

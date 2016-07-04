@@ -1,0 +1,9 @@
+ptf.gov.	86400	IN	NS	a1-22.akam.net.
+ptf.gov.	86400	IN	NS	a3-64.akam.net.
+ptf.gov.	86400	IN	NS	a12-65.akam.net.
+ptf.gov.	86400	IN	NS	a13-65.akam.net.
+ptf.gov.	86400	IN	NS	a16-67.akam.net.
+ptf.gov.	86400	IN	NS	a22-66.akam.net.
+ptf.gov.	3600	IN	DS	36199 8 1 d490ed2802aaba093a28cceb4d4dc3b020f1c7de
+ptf.gov.	3600	IN	DS	36199 8 2 c05128ae92169354d2d64b0a9a772dfe2143216f175cc2c5fb20f05b2e7d5df1
+ptf.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. umm5Gnd6WP/v2wab8vDARqzQF3tSbx5A3+Z57OFTsxCiTkCXfWosAWPpLU9Asclp8fM9uE6qVDcTzNQ0pUj7xQYIBkKsBT0pjzrVliAwEkbzSz4VuxNFDZKIp1DsgJGA+aC7WgI9fY7C0MkS5t46+pDzPh7UDq5JFrvVnRgMpN8=

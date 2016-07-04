@@ -1,0 +1,8 @@
+fvap.gov.	86400	IN	NS	a5-66.akam.net.
+fvap.gov.	86400	IN	NS	a6-67.akam.net.
+fvap.gov.	86400	IN	NS	a1-124.akam.net.
+fvap.gov.	86400	IN	NS	a10-67.akam.net.
+fvap.gov.	86400	IN	NS	a11-64.akam.net.
+fvap.gov.	86400	IN	NS	a18-65.akam.net.
+fvap.gov.	3600	IN	DS	49374 10 1 3123b684cebd8a8f054996424554d8234135a5db
+fvap.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. nc8lEKl0ruBUCeno/irEXlUC5Ta5lCEUD099I+fJqi/vm46PdtY5i0eXDZn9bD63FIV1NkVygQSqyc+Kz37e6w1/kJEP9Y9B8KGroeQB5T9jOJ+oRrQdntGfHCAbC0/0AHgB1Qbo4JLntOt2Gzf0CsF0bL4A4SNf3kSSK8y6Dmk=

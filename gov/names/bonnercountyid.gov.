@@ -1,0 +1,6 @@
+bonnercountyid.gov.	86400	IN	NS	ns1.exbabylon.net.
+bonnercountyid.gov.	86400	IN	NS	ns2.exbabylon.net.
+bonnercountyid.gov.	86400	IN	NS	ns3.exbabylon.net.
+bonnercountyid.gov.	86400	IN	NS	ns4.exbabylon.net.
+uo1frg57c6kt8v86v76luai8e1uj09ve.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. qIa7bTo47n/lRaDW8y08wkrq9cSCzPuGkskCs47nF77Y2u0nU59pIoe9ue1RSNvCuMVW1TRYbPN2G4fuWYchKsDXmzpW43RFD7WyxDH6Co546D5iC+yyZiibG4PD55SScxUfv0rGoZLL3pOo4GwasRIOKwEWKU0gTgwjWtAanG4=
+uo1frg57c6kt8v86v76luai8e1uj09ve.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  uo5haunnu1f06rnvffdr245981st4q42 NS 

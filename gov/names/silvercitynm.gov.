@@ -1,0 +1,4 @@
+0hk7jerspogub0gauojkt4u817sksmra.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. nYFeVNJ4/dBIvg6oZBofaP05vZkeiL/ImDL1S8QDBNQHxRDxDySDM6DBBUT/mn4zzekEMV1aSds5AL+kDziovAbHTUZz9etpC0BP/5+SDjjljEt1/8ikdH0V/yVjovRKdYYsUELbv9pGpeEvpH9eiIJKshzjuGIwigH2faY1XZA=
+0hk7jerspogub0gauojkt4u817sksmra.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0hl8h8s9a9m9utuku24lquf9m45qs28g NS 
+silvercitynm.gov.	86400	IN	NS	pdns03.domaincontrol.com.
+silvercitynm.gov.	86400	IN	NS	pdns04.domaincontrol.com.

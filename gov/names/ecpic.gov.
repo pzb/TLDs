@@ -1,0 +1,15 @@
+ecpic.gov.	86400	IN	NS	dns.gsa.gov.
+ecpic.gov.	86400	IN	NS	dns2.gsa.gov.
+ecpic.gov.	86400	IN	NS	dns3.gsa.gov.
+ecpic.gov.	86400	IN	NS	dns4.gsa.gov.
+ecpic.gov.	86400	IN	NS	dns5.gsa.gov.
+ecpic.gov.	3600	IN	DS	52039 8 1 5c145597bc37ed3d8ae73603b075e31f94fcd4c2
+ecpic.gov.	3600	IN	DS	52039 8 2 bba15a582a136926d460a79abd9ad21446a053e3a71ef181c7bf0c1e50352bc1
+ecpic.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. A6jUMOTTwO0cSI6Oo40g0Dp1vbSDRxNWiNweqB0Gbo6rv8Cj/RA86SkGJMaU4AZ7/thA9+utOz7U7qJIceVMafEhmoxWYZ0fJf12LnD9zv4zI37Khh34umE2ApD2xcjkSIw0z+ERCjU5FNaKNwm0mV9E8iqcNsDayQirmh4m0NQ=
+dns.gsa.gov.	86400	IN	A	159.142.136.198
+dns.gsa.gov.	86400	IN	AAAA	2620:0:150:280f::5
+dns2.gsa.gov.	86400	IN	A	159.142.150.68
+dns3.gsa.gov.	86400	IN	A	52.203.230.235
+dns4.gsa.gov.	86400	IN	A	159.142.69.84
+dns4.gsa.gov.	86400	IN	AAAA	2620:0:150:4013::5
+dns5.gsa.gov.	86400	IN	A	159.142.45.20

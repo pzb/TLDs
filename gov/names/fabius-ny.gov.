@@ -1,0 +1,5 @@
+65rl23kfaruma50jcq402c7tlv1eseun.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. bvh6zmStQuy8W/KSyDW9KpKW7nUX0GrIE+uv2yGbyX1MuYPm0QParculRcPF7MnVXHnLODw6mt7XVTccH9i15NnTrIFYyxw7B7Dm0Qy3MmiPxcQpfV07A9ONBMVL94i+F+HJBHbP0owVx455yaAQX0Ktid6d5LB/Pl8toOcldQI=
+65rl23kfaruma50jcq402c7tlv1eseun.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  65rm6huoloeab0qt6jki914ooofr44q5 NS 
+fabius-ny.gov.	86400	IN	NS	ns1.pipedns.com.
+fabius-ny.gov.	86400	IN	NS	ns2.pipedns.com.
+fabius-ny.gov.	86400	IN	NS	ns3.pipedns.com.

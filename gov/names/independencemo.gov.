@@ -1,0 +1,4 @@
+independencemo.gov.	86400	IN	NS	ns1.swbell.net.
+independencemo.gov.	86400	IN	NS	ns2.swbell.net.
+sgg8basf69hurfaipuben7tcfaabm3u6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. PoEg0x4mw5e4ZmjshsnameokYglrItF9u4Jhha+BZu8oY0sW4/vbgfPL/3Dw30obMWhSDhSb2AA9cS+Eq0xKNfv0EEKJwvR3DYEvRhMFUUXRWFwLa5D5Q/HRxK//Verh18KzDaayMkr562J0KGMIgMfHTh8MYSRg/l0lFwmnGQ0=
+sgg8basf69hurfaipuben7tcfaabm3u6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  sgh72q3buj83k738ts13fk9bq0qgdr05 NS 

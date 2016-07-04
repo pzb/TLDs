@@ -1,0 +1,4 @@
+22f61l6rd71qjj8qcs5c3mscaqiuaga2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. jmEDx1gCVzb/9QLMAQvpH7STiCJhsg1Xq8ljF0hWQPVZaL0vA2HmpuVWLzK/I5P7dXysldEniffies/9IBFsNSwghCdS5k6gbj5F81FUSXOTaHdDEVnkDa4oiShui+39q93p4OA4+KSvTk5usjR9J1F0tQXkDaVUM4aMrMZaONQ=
+22f61l6rd71qjj8qcs5c3mscaqiuaga2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  22h0e47mtatrebf64nk2ctsie04qhu4a NS 
+upperuwchlan-pa.gov.	86400	IN	NS	pdns07.domaincontrol.com.
+upperuwchlan-pa.gov.	86400	IN	NS	pdns08.domaincontrol.com.

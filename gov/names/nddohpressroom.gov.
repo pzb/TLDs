@@ -1,0 +1,4 @@
+329nqm21d8elnjoc79obbssdictcs75b.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. gVp1SZ4I4A9zvfxHM5y/9+kqna/jDVt0OfAEHseYnAZEA2KDaAAfL+C3OBkAkoTU92mSEsXP22f86LveZXBAQEf9jNc5XtOLaghyEj9zeaUcSLhqpaMJn8oVMq9LLWdm+n57MQ6zSWB6d4Umm3UWUdh+sf9GKWnth7JYvKJv73I=
+329nqm21d8elnjoc79obbssdictcs75b.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  32d9eb4udgfkou2gtelsj4cj2k3744uf NS 
+nddohpressroom.gov.	86400	IN	NS	ns3.ndnic.com.
+nddohpressroom.gov.	86400	IN	NS	ns3.state.nd.us.

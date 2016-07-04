@@ -1,0 +1,6 @@
+azgita.gov.	86400	IN	NS	ns-429.awsdns-53.com.
+azgita.gov.	86400	IN	NS	ns-617.awsdns-13.net.
+azgita.gov.	86400	IN	NS	ns-1159.awsdns-16.org.
+azgita.gov.	86400	IN	NS	ns-1915.awsdns-47.co.uk.
+m7nqg3ihh847jhk2potlg0ubc1gq09k7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. jX57WkQWNjBvEWyOyUfc8OcRL37UzWZl5Eex/N04fCzLocvhhASTHL43tzTaD8HdNgyP1MZtdoGVssEoeqUg9uFggNeSaN3+FPMC1e042ANYS5oHW8iIt9B8lDpiXI5x+YjWTwftiOzeoOloHXgoBweNfSb/0T+8An1c0FwiRpw=
+m7nqg3ihh847jhk2potlg0ubc1gq09k7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  m7q1d49v9bj2ulpj3pj51btt1clofrgh NS 

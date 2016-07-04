@@ -1,0 +1,6 @@
+ehawaii.gov.	86400	IN	NS	ns-129.awsdns-16.com.
+ehawaii.gov.	86400	IN	NS	ns-992.awsdns-60.net.
+ehawaii.gov.	86400	IN	NS	ns-1346.awsdns-40.org.
+ehawaii.gov.	86400	IN	NS	ns-1595.awsdns-07.co.uk.
+vujbqvk5vu7a0ne1fu26nj2ll83soodk.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. m2KNu+k/hps/mMQC9EBxlT+VCcyNH17Wcz6f3/9yeqW/YVtU/eut/lRrrcWU0zCzHrQhgq0MrqG+1UdBq6cfGeYIQvcHEjBj4f5uH31d4U02gyIrxILg1N9pa+L5xYOii8eReoIcbUcLEJ5rhsShbzdOVD6r74R6iqM/XD/dPoA=
+vujbqvk5vu7a0ne1fu26nj2ll83soodk.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vulaattrji0l0tps73r00cm2da42581e NS 

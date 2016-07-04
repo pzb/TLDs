@@ -1,0 +1,4 @@
+0gmkm930tba1ondb62d5j96b8fgvdkp0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. kkhhac31k3l9qN6KPeo9Tz8+Sn1RBFrzbg/UMaY6xNpdXU/dTOvUm3M2wl70dzYjHNG29vAd2XpXrtTRhmDL3Nm7aYthZ4Bq3hnyxkiwg7+YEqzWWUxGmTzdDwf7fMpePpmikaRkeLSp7pjSe1PqqedFZBSomrIF8wNsRYB/vF0=
+0gmkm930tba1ondb62d5j96b8fgvdkp0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0h16mc72lpvg5tf3g5ce9g63dn2nn0v6 NS 
+mentonealabama.gov.	86400	IN	NS	ns1.wm-kingdom.com.
+mentonealabama.gov.	86400	IN	NS	ns2.wm-kingdom.com.

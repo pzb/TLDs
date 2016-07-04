@@ -1,0 +1,4 @@
+floridasphysicaltherapy.gov.	86400	IN	NS	ns1.mqawebteam.com.
+floridasphysicaltherapy.gov.	86400	IN	NS	ns2.mqawebteam.com.
+j7oaltqv4v4qqdbf0bbn5423uujvgvvd.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. l6K1mp9vB7YKFnyY2C6FNV5WxH4qjrRqPHkf7/F6J3bk2tV//UOiZzr4RvaRu3XsUjkJErVWV0AqCLQX/FMv8c7DR57Cyskm9d4uhzhoFoJwvHfGmRZu5oDLvnmxjjX/0AEIw3ya61Z0Du5EEqCRelYFldufA/iEV8mU1pbVFKw=
+j7oaltqv4v4qqdbf0bbn5423uujvgvvd.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  j80onr01gc19i623ao2cet6hfaq3ej4a NS 

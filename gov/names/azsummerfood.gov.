@@ -1,0 +1,6 @@
+azsummerfood.gov.	86400	IN	NS	ns-117.awsdns-14.com.
+azsummerfood.gov.	86400	IN	NS	ns-813.awsdns-37.net.
+azsummerfood.gov.	86400	IN	NS	ns-1233.awsdns-26.org.
+azsummerfood.gov.	86400	IN	NS	ns-1951.awsdns-51.co.uk.
+ku6fevtecknfvgvvbb06pmig1otmt7o8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. dlTy5Lx5ESBHMoImDgmzjyG+4t7dWoOoqmiQFn3+m9lneUUHKaEPpaKpkI8fNTexKsC3qGb4REqsk10ioaIluQdS7OSQJHnTBVTsoAJ7STZWCX48prf8IAZ50P5G1y+XwWp+vpyx6sdG7sq1OAXBO6Cfua57wuiYNUAkvzIsYd4=
+ku6fevtecknfvgvvbb06pmig1otmt7o8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  kue596i9d9og4tncl5dc2ghbd07spmnu NS 

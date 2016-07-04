@@ -1,0 +1,4 @@
+altavistava.gov.	86400	IN	NS	ns1.stimulusadvertising.com.
+altavistava.gov.	86400	IN	NS	ns2.stimulusadvertising.com.
+n042hiouv43u75s9dhhqqv5vbd7n5dpn.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. AYhIov7INitVv1fmR0A4gQvqM9EQ9awGioU07A/n7cdmSyjoRnCwJhEmvDM3TiO8d9Qdlac55IJ56z1LXSwx9B09OcRsZhnCPHfqXaBY7gcrollXfqYobUi1h8pnSIicAwBWFT6eHvfI3KpNn6RfrkGcINnwBRCOS9Xi+Koa/7U=
+n042hiouv43u75s9dhhqqv5vbd7n5dpn.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  n05vek58e4hreoo1rmvgbsmtcp1ip5vr NS 

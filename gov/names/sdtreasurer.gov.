@@ -1,0 +1,6 @@
+a817va0ar7jfatq6jg6qcjk0020ej1fl.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. QfdANFgpnLySu/Ot2zsJ+9ZP9xUYURFeNUhaWZ/x4h6Tc9uqSt/HD/+anu7iJkEIPcANiEpUfh8AmcrkA0QgU0uJfgrm+4JQlKRxh+zJDyXPjbcEX78OYkrzRDvxWl3W0BV2Ppat1QicbXOM0k1ZJsKe4HqkHqcFTLD3xz181mc=
+a817va0ar7jfatq6jg6qcjk0020ej1fl.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  a82hl9b16k71dklfog0nmm0orp239enu NS 
+ns1.sd.gov.	86400	IN	A	164.154.62.76
+ns2.sd.gov.	86400	IN	A	164.154.62.77
+sdtreasurer.gov.	86400	IN	NS	ns1.sd.gov.
+sdtreasurer.gov.	86400	IN	NS	ns2.sd.gov.

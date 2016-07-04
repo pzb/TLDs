@@ -1,0 +1,5 @@
+coldspringny.gov.	86400	IN	NS	ns1.infotech-maine.com.
+coldspringny.gov.	86400	IN	NS	ns2.infotech-maine.com.
+coldspringny.gov.	86400	IN	NS	ns3.infotech-maine.com.
+te31skfonf7kjvm24a2q02on9vf12085.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ikQhCG72Sxl6pH9ps5Rkx+s30Tx8chNlxhQX4mm/m8XAK3w+BgFwB0GdnbYBOmN/X0yIE5t1Xo4zZc+X2knqK1Z7Klcyzd8nPP+5841yG6R+UKdakOHtzyBI4xOFATLxjmYFB5R8FY7E5QtVqAX0i4libHAZ7cEBX8iOc1BYKjA=
+te31skfonf7kjvm24a2q02on9vf12085.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  te53eku1vqaj515gjr1q74v51707ddgk NS 

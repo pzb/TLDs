@@ -1,0 +1,8 @@
+judicialconference.gov.	86400	IN	NS	a2-66.akam.net.
+judicialconference.gov.	86400	IN	NS	a7-64.akam.net.
+judicialconference.gov.	86400	IN	NS	a1-221.akam.net.
+judicialconference.gov.	86400	IN	NS	a11-64.akam.net.
+judicialconference.gov.	86400	IN	NS	a16-65.akam.net.
+judicialconference.gov.	86400	IN	NS	a24-67.akam.net.
+q1r5ul7jso22l49b829ie6j9jnoki5o3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. SMXWXquzy2Pp1qFU2Swiof85KMeD536TTo2O07lb5RWLGerF0ojlvAOJWr4ez22+Q1357zAvPtYpGIeXM8dA0UTgKCGlgrjLHXbdek26GVwLxLDA4kZsLW3YxIj5K36RSb6lhUoqRnyVvvPEaUm8z5hefUqhx2d4+/qgZ9cbwdM=
+q1r5ul7jso22l49b829ie6j9jnoki5o3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  q1rc5pqt1109g1oeh323kvd87mg7fhsq NS 

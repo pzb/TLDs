@@ -1,0 +1,4 @@
+hanson-ma.gov.	86400	IN	NS	ns1.infotech-maine.com.
+hanson-ma.gov.	86400	IN	NS	ns2.infotech-maine.com.
+sisep9ubodi3e4lc8qg88pbsvtpnmb7j.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. t9Q6s0Ip04EcYFWYbBCWy15RdrndUgJNRgUIGI4VUFZmZAKw4cZKN8K/zp1BYyWr2mqOZnh+tyi6rHUK2Bz7qN4SGvLpXbQ0IpmSqMy3KtvWHAzEMdFSToZ9KZK92FRTN99HCFVBdEJ8RZ3uFXq6FuPqqAqDYn2KL1pkDneesWs=
+sisep9ubodi3e4lc8qg88pbsvtpnmb7j.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  siukadju39u6id9pb75uofogplrhsp68 NS 

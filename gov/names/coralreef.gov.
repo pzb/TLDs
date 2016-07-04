@@ -1,0 +1,9 @@
+coralreef.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+coralreef.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+coralreef.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+coralreef.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+coralreef.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+coralreef.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+coralreef.gov.	3600	IN	DS	45809 8 1 2e66fe472ffe28a6100e711a02ee7fb4a8caa4d6
+coralreef.gov.	3600	IN	DS	45809 8 2 8d9a3eebdbfc6f1da8c4bbe42b896dd381d572f961a307abce20e7260156e269
+coralreef.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. aFXX5E26jNtq56BZ8xyqRiZym/f8Gw4B3JDXWVSIdRaILLhrWwfbTB4un2kWv/mkSoGidNn69/5VYnXsRO51yyY1xTq/X3hxOUUu2JdYGvwajgfJf/Lqm3W3CmMABpl7MG2J2Se8H2podTHVp97ZVBra4Dwn5ZsGJq0V7PmVmeo=

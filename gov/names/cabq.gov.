@@ -1,0 +1,7 @@
+cabq.gov.	86400	IN	NS	ns1.twtelecom.net.
+cabq.gov.	86400	IN	NS	ns2.twtelecom.net.
+cabq.gov.	86400	IN	NS	dns0.cabq.net.
+cabq.gov.	86400	IN	NS	dns1.cabq.net.
+cabq.gov.	86400	IN	NS	dns6.cabq.net.
+d9b56ij4o0er54cnmqj76lio5ie42r4i.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. DYNvjIuPW48tX0/oqLUw28VUC5Oa/aEhFmHmZLp+8o6gP4FT/u9GUHV1xmwWw2ctgSom/g1qI3Xt0kOIBIbfuWnC7syDOyNa8DlIs/qRX14sbaURNBlor5g616WKXvhn6K96Rq2tAKlbOFdrwb4jPLfV7jYD3LhkEILxRQ0+JmA=
+d9b56ij4o0er54cnmqj76lio5ie42r4i.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  d9lqdt3conjulbb1ig516tpadal4cne4 NS 

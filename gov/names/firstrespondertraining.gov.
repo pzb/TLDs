@@ -1,0 +1,12 @@
+firstrespondertraining.gov.	86400	IN	NS	eur2.akam.net.
+firstrespondertraining.gov.	86400	IN	NS	eur5.akam.net.
+firstrespondertraining.gov.	86400	IN	NS	use2.akam.net.
+firstrespondertraining.gov.	86400	IN	NS	use5.akam.net.
+firstrespondertraining.gov.	86400	IN	NS	usw4.akam.net.
+firstrespondertraining.gov.	86400	IN	NS	ns1-46.akam.net.
+firstrespondertraining.gov.	86400	IN	NS	ns1-96.akam.net.
+firstrespondertraining.gov.	3600	IN	DS	15740 8 1 db1deb46f2492155e09c0fa5cc4cfb90efb3bde5
+firstrespondertraining.gov.	3600	IN	DS	15740 8 2 9bc3e5abb080b327b99fd003e445c7c985f9d1108660c1fc2b726df2dedbba0e
+firstrespondertraining.gov.	3600	IN	DS	54829 8 1 61fbbdff7372f70fa2586747c8db5eaf40122135
+firstrespondertraining.gov.	3600	IN	DS	54829 8 2 e25c815085c443676359d004b0502acc56238f2ec357133ec85075f55d827e80
+firstrespondertraining.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. kFE9UJohuOJHiEZeMkSIopKfc1UUqueCvM4tO5e6TSGmhMWOIVq50EacNIw7JUg0iWuP5AdALxlbAJdFWWmoGNijQ7UP1De7goFH4x9vIFBZuj/UyoTm89kejnwdIGGEOXnuArKGTwS7RN1nahfLPd0uu4UGD4KN9tTioHMQufs=

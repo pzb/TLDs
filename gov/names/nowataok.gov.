@@ -1,0 +1,7 @@
+nowataok.gov.	86400	IN	NS	ns1.no-ip.com.
+nowataok.gov.	86400	IN	NS	ns2.no-ip.com.
+nowataok.gov.	86400	IN	NS	ns3.no-ip.com.
+nowataok.gov.	86400	IN	NS	ns4.no-ip.com.
+nowataok.gov.	86400	IN	NS	ns5.no-ip.com.
+te53eku1vqaj515gjr1q74v51707ddgk.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. sz6F5MTvzwvLsxDOCqrz1daaNXsAtLPAsXyzbLsqcm8T0VeOjGFWMFn2RWKJkuNIUr2WkHPei3oGLXasaiTBniUPDnGp2Ry4k5ezSTHYSgHbnQOYKRD+ngZZtoB0BryML0gqeF6fJopTvEO471nJdT10+KPvaz8s4Msvyv3EpxE=
+te53eku1vqaj515gjr1q74v51707ddgk.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  te98qm8fqp6bpl64gc4okpe2so8q9p22 NS 

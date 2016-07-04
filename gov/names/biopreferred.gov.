@@ -1,0 +1,9 @@
+biopreferred.gov.	86400	IN	NS	ns1.usda.gov.
+biopreferred.gov.	86400	IN	NS	ns2.usda.gov.
+biopreferred.gov.	3600	IN	DS	59332 8 1 6cbb193f5157fe307c33c11d4fc2a2caf47b25d8
+biopreferred.gov.	3600	IN	DS	59332 8 2 52c78dd4423c4cce6d9955bf95803c824adc70d2e1e9418093aa6c0ed3e01cff
+biopreferred.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. oOO4KQzt7j2nYa7GtrkamCA8OhniSKXLorwZ3xTuOe+ZcakkPwYqN9XURPLW+ob1Ps2QFTWfOkD4dGQKgDDMbjNDAunw7jGr82reP2Zi3QmVBmzOoFTwYP+jnqWM0Ky5pXpBdwoookLU1g36WRyfJrX3dsNnwboYO8/LTxLF6hI=
+ns1.usda.gov.	86400	IN	A	199.141.126.202
+ns1.usda.gov.	86400	IN	AAAA	2600:12f0:0:ac04::202
+ns2.usda.gov.	86400	IN	A	199.141.126.206
+ns2.usda.gov.	86400	IN	AAAA	2600:12f0:0:ac04::206

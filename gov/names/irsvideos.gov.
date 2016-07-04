@@ -1,0 +1,20 @@
+ns1.irs.gov.	86400	IN	A	152.216.7.164
+ns1.irs.gov.	86400	IN	AAAA	2610:30:4000:53::90
+ns2.irs.gov.	86400	IN	A	152.216.7.165
+ns2.irs.gov.	86400	IN	AAAA	2610:30:4000:53::91
+ns3.irs.gov.	86400	IN	A	152.216.11.132
+ns3.irs.gov.	86400	IN	AAAA	2610:30:2000:53::90
+ns4.irs.gov.	86400	IN	A	152.216.11.133
+ns4.irs.gov.	86400	IN	AAAA	2610:30:2000:53::91
+ns5.irs.gov.	86400	IN	A	152.216.13.164
+ns5.irs.gov.	86400	IN	AAAA	2610:30:0:13::164
+ns6.irs.gov.	86400	IN	A	152.216.13.165
+ns6.irs.gov.	86400	IN	AAAA	2610:30:0:13::165
+irsvideos.gov.	86400	IN	NS	ns1.irs.gov.
+irsvideos.gov.	86400	IN	NS	ns2.irs.gov.
+irsvideos.gov.	86400	IN	NS	ns3.irs.gov.
+irsvideos.gov.	86400	IN	NS	ns4.irs.gov.
+irsvideos.gov.	86400	IN	NS	ns5.irs.gov.
+irsvideos.gov.	86400	IN	NS	ns6.irs.gov.
+irsvideos.gov.	3600	IN	DS	38949 7 2 dbc48d9d109f1c0cd5f7a258d3db63ab5107e14fd9ee5dd3a854f035c9f8dd11
+irsvideos.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. CWHVCxNsY9dqr0Lql0MNCPBw5PnowQzRCQvTVfsFCap118LQd/hzjRak4n1p9csh6NOmPwtEjSZ16ka34ri8Zc9x6/UGmhnAos1en3cLA7Qgoq9yYqZ985Dno21vn9PnmeNOJOYBTXlUPGTu3l9TRKR73O0gBmTsp3OMt4KIX/o=

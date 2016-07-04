@@ -1,0 +1,4 @@
+70b6n5lqakjbb6cp6915lnhsgjj8gepj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. MPMVpcI+GpFlRr06q+O2Uq1I+lxZvtn/O+ObIC5QSzfZoODAQU2/R8R8t5fRsVNCnXxcucF6xv+H50dCKnNyamHVQ0HKdV1xMKZ+pzqoJhvX0AwwjOosPvCNIBD3mPFStFiu2XZQm7t4RYFslSlmBwESf3LNtJul5tv5mKgzSmA=
+70b6n5lqakjbb6cp6915lnhsgjj8gepj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  70gqkdlvp0vl70in73d9k0hqkb28q6r5 NS 
+davidsoncountync.gov.	86400	IN	NS	dns3.infoave.net.
+davidsoncountync.gov.	86400	IN	NS	dns4.infoave.net.

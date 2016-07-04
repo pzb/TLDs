@@ -1,0 +1,9 @@
+cityofboston.gov.	86400	IN	NS	ns1.cityofboston.gov.
+cityofboston.gov.	86400	IN	NS	ns10.dnsmadeeasy.com.
+cityofboston.gov.	86400	IN	NS	ns11.dnsmadeeasy.com.
+cityofboston.gov.	86400	IN	NS	ns12.dnsmadeeasy.com.
+cityofboston.gov.	86400	IN	NS	ns13.dnsmadeeasy.com.
+cityofboston.gov.	86400	IN	NS	ns14.dnsmadeeasy.com.
+ns1.cityofboston.gov.	86400	IN	A	140.241.251.142
+eqia45ish1r4dvrg0ugvqelcf2ilvs8c.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. vsQ1iXcNJromjr7WP4wQJoJT2lSxLPKmhMKL2OPy5N0ch+iN8W3dt7dfPy/4MnmV9vooef0ONTZ/YVs5D6tSL92UjZhST1pJSVJA6GUmegHCCyC1+WExx3QJLj5eIz5bEiQPlSAxYKC4hEe4uWzQAmBUM/CCW0nVQDIaJ7KeVHo=
+eqia45ish1r4dvrg0ugvqelcf2ilvs8c.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  eqjd37p1oaje32sn93lslcntkp2n5g23 NS 

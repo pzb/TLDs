@@ -1,0 +1,4 @@
+altusok.gov.	86400	IN	NS	ns.inmotionhosting.com.
+altusok.gov.	86400	IN	NS	ns2.inmotionhosting.com.
+ha4atcpm8csjfidbnfqg19jefsaihdd8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. GiHi9c5hHwYGrza1mkCIaffacqe4g5qUDARB+8Ws0iF6z7HTpNMFBlE+5AzZ/yaLj3qMLnvaIS37d16y3azpdbau73VArQxkgyayK9LsHnvozxA5aI1+SBliYV66b1KffixUoEX6ZwtOQiAKXJWn5Mk3Z1Z7VIQW3iGFWTjv27E=
+ha4atcpm8csjfidbnfqg19jefsaihdd8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ha9ohajrb94ilmbm78riftqdnta6a8jq NS 

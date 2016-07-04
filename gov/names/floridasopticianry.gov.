@@ -1,0 +1,4 @@
+5ibgdnum1m0jk9pmrpiqr1fcedhj01j3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. jQgHcJB3sYMjOeQupq/eRO2ypQUEHcac9JpRK6xHKl9FXIDZrBxYY6eXFH45DbYtvIQaQUB/hP7Fyauubfj+hR2SCATRfYySKWsswYgYmaD5q/48OLwFE8llLiAcu18MvMV9ThT8H6sfEgeGJpjQ9OS0sqYW0szQPdVdjNcUVeg=
+5ibgdnum1m0jk9pmrpiqr1fcedhj01j3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5ipft1vparcrsa0hoo3qh72b9lg1n3o7 NS 
+floridasopticianry.gov.	86400	IN	NS	ns1.mqawebteam.com.
+floridasopticianry.gov.	86400	IN	NS	ns2.mqawebteam.com.

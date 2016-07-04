@@ -1,0 +1,4 @@
+10rd1kqb572h1875v5dkgftst3akbata.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. JQ0Y57zwcqjLpyUMKoc47QtZ5gprJASH3WgueRYkUbDta8yqttU8BaPp03V2hM+IQs5q/bs6wqaWm2KclRR2HyBRPR5O6lKP1xgw/R+GQ8BW8K49zB7eKu4LzSJucEsi1FDLgR0gB+/o4CUwUcAhLO/lxxr+ICU6/K9xvsmS17Q=
+10rd1kqb572h1875v5dkgftst3akbata.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  10shnu6cairmcrjic2pnajdu7rar3npa NS 
+floridahealth.gov.	86400	IN	NS	dohssvc02.doh.state.fl.us.
+floridahealth.gov.	86400	IN	NS	dohssvc04.doh.state.fl.us.

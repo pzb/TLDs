@@ -1,0 +1,4 @@
+442nep91p8tb9u8v9o3m05i07l7koiak.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ZtNVjhOWGT5x4Q+qBSQ4IMHe0bJFMfHznOcthqZA2WuLmHoXpDb8WOsd3vAUO3GtiMamVchXnLrfa64nEItaO0TR/CqTlWpNykguPycvG23k5TpvBaBdMbPWRMGAfLAjsbvjRaYPEvbCJ4WhOAgX+LYZKI0ZoymDHMFCrF/Xdh0=
+442nep91p8tb9u8v9o3m05i07l7koiak.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  44d2uicdh7vtnimv89fnkfkia0rf85nf NS 
+kannapolisnc.gov.	86400	IN	NS	pdns05.domaincontrol.com.
+kannapolisnc.gov.	86400	IN	NS	pdns06.domaincontrol.com.

@@ -1,0 +1,6 @@
+azlgma.gov.	86400	IN	NS	ns-84.awsdns-10.com.
+azlgma.gov.	86400	IN	NS	ns-742.awsdns-28.net.
+azlgma.gov.	86400	IN	NS	ns-1408.awsdns-48.org.
+azlgma.gov.	86400	IN	NS	ns-1803.awsdns-33.co.uk.
+tnqfvgmjeem12j7pnup3s3tbvv5vbrgb.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. nH9QkcAgqFRjXB99aF0FWpAp1VFFNtXBFOi9tBBH9ZgSf8BmBdySho59Yjno7OZmX0hFnJCDULjLQc0sinXg+KF/7sMCc5AJHoqGyq7ZBvOSIh1Hl93OKWEtFS0rvOnSjzoUz5uu5eqFL78zB9xM2xK5wOh4YoWZ42pegJiz074=
+tnqfvgmjeem12j7pnup3s3tbvv5vbrgb.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  tnrv7mfa93c1t6ve0ntm18d4garckpc2 NS 

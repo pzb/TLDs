@@ -1,0 +1,10 @@
+adm-dns2.idaho.gov.	86400	IN	A	192.102.16.252
+adm-dns3.idaho.gov.	86400	IN	A	192.102.16.253
+adm-dns4.idaho.gov.	86400	IN	A	192.102.16.254
+admdns.idaho.gov.	86400	IN	A	192.102.16.251
+ius.gov.	86400	IN	NS	admdns.idaho.gov.
+ius.gov.	86400	IN	NS	adm-dns2.idaho.gov.
+ius.gov.	86400	IN	NS	adm-dns3.idaho.gov.
+ius.gov.	86400	IN	NS	adm-dns4.idaho.gov.
+tr7h5srt4nok0kio8s0ehhq517v4rl69.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. vNwDrsWb8xPfiU+XxWeSklO9HN90VrZk9kfRyzM3oyLSDRzEWmh8GirAPsDfUfV+ag0leklVg6QhJf7vHerw+40lZMvR82qQkNGEdY0oxBj2TuniLUcob+VApGcfjY71u1JnAiTIl9yKASbvIsuxZOe+wGMmlyfIPwG56J8k2qM=
+tr7h5srt4nok0kio8s0ehhq517v4rl69.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  trehmnp25be0q0c9t9ahfle37kh703uq NS 

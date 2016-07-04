@@ -1,0 +1,4 @@
+bearriver-nsn.gov.	86400	IN	NS	ns1.mediatemple.net.
+bearriver-nsn.gov.	86400	IN	NS	ns2.mediatemple.net.
+oj4rk550rb8cnjehle1lv3llth3evfsr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Ik0rqIXvZGxdyYhhWw2XusDbEnYciRZ9ch7YkJtDeOBw+FsRg4pO9Rfl2snblEBHH3L1U4ULVZjVeYTnr8SYqMejoSN1qmp89IczYaaO7XFSehsgZqfsFZKfD7ZYEBZf9eH+yTG4LmeC+KYFkhwWodE/VJPkq6bKcKbFeZLw/00=
+oj4rk550rb8cnjehle1lv3llth3evfsr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ojoq4vt4af3bapeq7vvq6eah7iet8qg5 NS 

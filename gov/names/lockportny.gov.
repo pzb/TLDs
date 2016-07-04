@@ -1,0 +1,4 @@
+lockportny.gov.	86400	IN	NS	ns33.domaincontrol.com.
+lockportny.gov.	86400	IN	NS	ns34.domaincontrol.com.
+mbmgasi64jlqokvkpjnv87mcric7jogn.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Wvy9+L8XOeRaAO58h7XNgHrsCUofBK7lyTOz5wgromWiInngVui+/nxLe1Wx62haJQHGoNTGqpyxfEZuX9k8iQwOoCI/6ErxntgogWKxavWDZqMaRi07KdeD1asLNYqKHAwjkPr6ETIC5bXTiohDIC8qeguLwXjHRaN5Nec8FQE=
+mbmgasi64jlqokvkpjnv87mcric7jogn.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mbq6j7k63qpcdbfk3b7qpgu3hdq748ug NS 

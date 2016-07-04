@@ -1,0 +1,9 @@
+fpki-lab.gov.	86400	IN	NS	dns1.fpki-lab.gov.
+fpki-lab.gov.	86400	IN	NS	dns2.fpki-lab.gov.
+fpki-lab.gov.	3600	IN	DS	32476 8 1 71344f881b0f6a333f94259164857208206aa042
+fpki-lab.gov.	3600	IN	DS	32476 8 2 d8e360e3cd80315af44359cb172f044c42cfd735ef59dd4f762ab708b66e3c18
+fpki-lab.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. RSbUJEGtCTm6jIIvSOHuGrwIL9xcrsgHTxca1M/mrXBpyQzwMEf5/Ocf8QQ7AH5yOe40WyMM9BkjE0mDuloUBoiNFDwjkZAvErXmbccmz5182cy+saxHduFf6Gn1rpxqLQY2+/mYZ0HmLeKPLFZoO2ZKtRxMjORtJO2LKoWIddw=
+dns1.fpki-lab.gov.	86400	IN	A	199.167.92.100
+dns1.fpki-lab.gov.	86400	IN	AAAA	2620:9b:c000:9200:12::30
+dns2.fpki-lab.gov.	86400	IN	A	199.167.93.100
+dns2.fpki-lab.gov.	86400	IN	AAAA	2620:9b:c001:9300:22::30

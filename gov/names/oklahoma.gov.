@@ -1,0 +1,6 @@
+4n1usgarubfqh75usclr47db78rglfj0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. U5kV+pjkxF3yBRrb5imj+zLDoDO5eQu4vaQDSqQLBv5bFSyCH/e9xx+vjHT61xCNvgANvksIYfCpfsNHkb+5Fq9+1TcCpHjkGlNoAQ41jpppXvUgoKpZvGVAOHpze1AKVa7HucKz2/PGDwp0i/T6fZ/RcMdNBonhEXAg09HUNs4=
+4n1usgarubfqh75usclr47db78rglfj0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4n2v3rat2ontf3mbo2cf8g4rif614up5 NS 
+ns-m1.ok.gov.	86400	IN	A	199.190.128.5
+ns-s1.ok.gov.	86400	IN	A	204.87.64.194
+oklahoma.gov.	86400	IN	NS	ns-m1.ok.gov.
+oklahoma.gov.	86400	IN	NS	ns-s1.ok.gov.

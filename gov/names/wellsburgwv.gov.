@@ -1,0 +1,4 @@
+3qjhh4dbaimh99bfe6l57o53rk5ns1bm.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ZVBurqfEXzOpGHs8ze2DzYRV62/+JXPQp3Z6I5qlwH/5hR92ot0A04dNZwN1jVBPD1hdjMBGQyX1L0rf8E2kCvUIml8ZZIiiu2jIxSJFB9Y4FQ3QoJIRbH44ayLtwVxBIqctgNKVlShOJkwpF3VR40bWckddh2zkEskIgwqYgSA=
+3qjhh4dbaimh99bfe6l57o53rk5ns1bm.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3qter2ph42iek705ufc8l67il423tg89 NS 
+wellsburgwv.gov.	86400	IN	NS	ns1.alink.com.
+wellsburgwv.gov.	86400	IN	NS	ns2.alink.com.

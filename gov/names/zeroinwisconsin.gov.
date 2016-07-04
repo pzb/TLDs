@@ -1,0 +1,5 @@
+eot7qakgs35e8ouo5nhr167jk7es9qft.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Hm4k5hM68/SzQ7kaQDHaVRz/RDvNwfCqL6UctSbMy6SKQqQpv5/5Tprj0FrhjgzMwxe5vjlEkSoPrsT3hQLVLCy9sRA7DJGyY4LhHNu9SHu6zWyhAA7ZOQgR5Ttz5G7dJCh7WwNjh5ghET14FMt7uHvC4SrTyyJzeQDwSzjs+xU=
+eot7qakgs35e8ouo5nhr167jk7es9qft.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  eouuvki7bgdc0olu5gehckasjhagisi2 NS 
+zeroinwisconsin.gov.	86400	IN	NS	dns.uw-mad.wiscnet.net.
+zeroinwisconsin.gov.	86400	IN	NS	dns.uw-mil.wiscnet.net.
+zeroinwisconsin.gov.	86400	IN	NS	bigred.state.wi.us.

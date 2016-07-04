@@ -1,0 +1,14 @@
+espanolforlawenforcement.gov.	86400	IN	NS	ns-jdcd-01.usdoj.gov.
+espanolforlawenforcement.gov.	86400	IN	NS	ns-jdcd-02.usdoj.gov.
+espanolforlawenforcement.gov.	86400	IN	NS	ns-jdcw-01.usdoj.gov.
+espanolforlawenforcement.gov.	86400	IN	NS	ns-jdcw-02.usdoj.gov.
+espanolforlawenforcement.gov.	3600	IN	DS	58699 8 1 702a06e028bc4259599ad7949bb6e80b5a4096fb
+espanolforlawenforcement.gov.	3600	IN	DS	58699 8 2 7eca0f265e96d80ed58bc01038431d0ecae0d87fb2cf457774e47f1ec3357fb3
+espanolforlawenforcement.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. HBbprva07cJVNb3/AgpXApoWKmDuVl1OSlMyCSEap9u5nCCD2nb7dC6MfSh38/4m1gjfz0IhFxtzoV7CR8Ry0DubTXty0arg3tdHiq8FQkm8zjGH7IacYG+E8J5Cb8WDGhOk8aAe+Q1racRHYOK56TF2PZWUcRoUZIvgdnPtxp4=
+ns-jdcd-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcd-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcd-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcw-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcw-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-02.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::6

@@ -1,0 +1,6 @@
+b70foricphil4taig4jjuvbamec306ao.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. mWt95GdNsYF+a1ITUrIiD1OxCK88y6eAUXkgtUSjEAGxlk2h8jMWOUF9W0O0KNX6HCGrHUUz7hitawZNIGzBoIOjhDwz7WEqoUbZUTN2LozKfmVSk1yxmfSgCQez7yIJFqzhjq9X5+12/JracqTrKNBUup4bktSi7kTV2RfXuUg=
+b70foricphil4taig4jjuvbamec306ao.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  b74cpcimm2am8ebkrbopqkdh1jotg885 NS 
+easthamptonvillageny.gov.	86400	IN	NS	ns1192.dns.dyn.com.
+easthamptonvillageny.gov.	86400	IN	NS	ns2151.dns.dyn.com.
+easthamptonvillageny.gov.	86400	IN	NS	ns3152.dns.dyn.com.
+easthamptonvillageny.gov.	86400	IN	NS	ns4152.dns.dyn.com.

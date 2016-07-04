@@ -1,0 +1,6 @@
+42u51o8uhu82epthcdocaemqe09n79b2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Axl/Kmp7AZy7KQZJTG/ANS6Z2CffM2CG1A+XJ4BZP8HIeRmM7WYbgBwDeTBKjvx2UAJIYTfbFkdGBor12GSgzEsookC++AyvF9NingWXf0YATYEDyIcJ+pxPrOPl34VD8bhXq1tuBMDKSoxT614zANTiw2kjxc0I+7vm8hmTPdg=
+42u51o8uhu82epthcdocaemqe09n79b2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  433eccgl3s9oapoeo5hte2qf65qviks6 NS 
+tmdci-nsn.gov.	86400	IN	NS	ns1.tmdci-nsn.gov.
+tmdci-nsn.gov.	86400	IN	NS	ns2.tmdci-nsn.gov.
+ns1.tmdci-nsn.gov.	86400	IN	A	76.79.103.135
+ns2.tmdci-nsn.gov.	86400	IN	A	64.60.44.210

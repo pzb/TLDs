@@ -1,0 +1,4 @@
+28e1uoap45l708rt6gmmqi7jph9lmpe9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. LsakS9+cBsWHRz1Lz2CHbkqFk9iThNSJFqg9sJJEAsC8YCI3EO8WrQcBOd4MJtoY0rb5Pe4R/fujxkCxtaVstnQvVfUwKE9K57XOnaLqR5XSDfjp9VlhFzYw1/U49p+31NxIfhmDrjhQlptVNeHq64eitWQvDJZFXWooCykjLX0=
+28e1uoap45l708rt6gmmqi7jph9lmpe9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  28l6mf6k21mbavm3bsfge3kibtm4q4n8 NS 
+americansamoa.gov.	86400	IN	NS	ns1.linode.com.
+americansamoa.gov.	86400	IN	NS	ns2.linode.com.

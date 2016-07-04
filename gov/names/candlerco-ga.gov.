@@ -1,0 +1,4 @@
+31db5lvu2bs1hv2v0enkg6hv83hm9k7h.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. i2eUSwyOyutw8HTmXsvZ1D2E3QFJDfZoso74Zpr0AAYcNg7wROXiq84etIvo6Zw1L4qIDyQXbeCwoo8kmo28s7e1/QHljDDepT+pkSogflj16bC2x6UtDtNoAp0XUsJq2mMewttJRZVZF9MlRGg0k5shbiuHZjEFHLS6LdrpGKQ=
+31db5lvu2bs1hv2v0enkg6hv83hm9k7h.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  31mdtqk2ktilsp4pe3758vltcuorkjd4 NS 
+candlerco-ga.gov.	86400	IN	NS	ns1.pineland.net.
+candlerco-ga.gov.	86400	IN	NS	ns2.pineland.net.

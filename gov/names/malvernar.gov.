@@ -1,0 +1,4 @@
+malvernar.gov.	86400	IN	NS	ns1.suddenlink.net.
+malvernar.gov.	86400	IN	NS	ns2.suddenlink.net.
+skhpq36m3vul3ml4tb6nrra802fipjif.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. mpclMKYbgrnSHIg4sPRzOBf8MmNNmLfP00Uy5EWUrbcGFUwi2XTd6xfdZ662bv8ZkRbGqrWicrSy9MZCFDbG1OXj1YvGcheLYN/txX0iMyIXSPrdMBeNYvpWFj1rsjebtm3C33FeYi22ocp0C0r/5TqrrXBfgBVI47GCLv253kk=
+skhpq36m3vul3ml4tb6nrra802fipjif.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  skjr49vgn2jpn0cbshvslp8rc75as94p NS 

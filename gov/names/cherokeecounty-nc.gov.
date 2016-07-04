@@ -1,0 +1,4 @@
+cherokeecounty-nc.gov.	86400	IN	NS	ns1.brmemc.net.
+cherokeecounty-nc.gov.	86400	IN	NS	ns3.brmemc.net.
+obptir0mdbm2ou4tikjtbj1uuiv4k8r3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. FUOI3Huv3Jk6lQ0HcI+sYO71c5WuNwO1dinxXPkoR45WoXF60FteXNe6zxKrv1HsLxl5KiDXzf4xc7PLnsYZWR4BADBHaN+LiVhh7OA3qi/FpBerS0tnm6c6KSZRoA33mgDYJT9zXsCrYB2nY99dJNdUfpftsEIhuP5/RzDxg60=
+obptir0mdbm2ou4tikjtbj1uuiv4k8r3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  obtgm4be450qpl6jihem4sbggh3c80to NS 

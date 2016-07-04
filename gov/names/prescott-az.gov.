@@ -1,0 +1,8 @@
+cpsaepv534b4nr018jdcn7af1au4hudp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. dp0mdPhRiSEO4Cy7v/CT+8bidcIFzN6GVcdBOh0vU9gU/6dqbq9ZezUkdp56/oFnlJC74JqtZovD3KpWtol5rxJHa7xCVoHUHLn1fI53oOWQ24RO4fHLHE8ZQ+tHUgU8ybNMuDmFhZjL0L1sgKmk8HATTAmESBdEgiV07j6U2CY=
+cpsaepv534b4nr018jdcn7af1au4hudp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  cq35a9coq8l5ic4akm6bglobdtsdm0k1 NS 
+prescott-az.gov.	86400	IN	NS	budo.cityofprescott.net.
+prescott-az.gov.	86400	IN	NS	judo.cityofprescott.net.
+prescott-az.gov.	86400	IN	NS	kendo.cityofprescott.net.
+prescott-az.gov.	86400	IN	NS	aikido.cityofprescott.net.
+prescott-az.gov.	86400	IN	NS	kungfu.cityofprescott.net.
+prescott-az.gov.	86400	IN	NS	hapkido.cityofprescott.net.

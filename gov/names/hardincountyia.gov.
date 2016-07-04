@@ -1,0 +1,4 @@
+hardincountyia.gov.	86400	IN	NS	ns1231.websitewelcome.com.
+hardincountyia.gov.	86400	IN	NS	ns1232.websitewelcome.com.
+pcq51ks33sip29e67g6jim8471out2e7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. CPrdgyQKn0jEOO5vpCuZIEtsq+7N5B6SoN4v28cK7sESvYbtRDTKmmBHkLZ731ReiMREBHOb/x4v5hzQHL0u/fMkkgr+pXx5HTGIs5XhVPlxRlPmJckJiVGMjAwEzi+Blhg8Vnxqxq+seUUYMLFVra9art8kK0tBftx5WnZxobo=
+pcq51ks33sip29e67g6jim8471out2e7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pd4mtqf2pat6vfn2ht5hlprese0gpfsm NS 

@@ -1,0 +1,11 @@
+esc.gov.	86400	IN	NS	styx.esc.gov.
+esc.gov.	86400	IN	NS	emns1.faa.gov.
+esc.gov.	86400	IN	NS	avatar.esc.gov.
+esc.gov.	3600	IN	DS	55882 8 1 bef225e7af3cf3507026fe67171560c18c06310a
+esc.gov.	3600	IN	DS	55882 8 2 88535ec4faee4e54db9ee3f05e026b85da84495aa8d962feac87a2464cd7e048
+esc.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. kd/B70rA+v9fRqkN/AGa8+0HHlTf0vcP/xqQ1dOI8T5TA7HSvllv7kvSudNm+kvuF5zkXRD4pWAMweTS4NxDWCBZ/2CFLENC5wItURkUVlxMrZOalQ6+LW/tn5B5yUfzEOHyNt/gEKvH9n2hXVyCxgt6MDz28eV1IWn13LrxchA=
+avatar.esc.gov.	86400	IN	A	162.58.35.104
+avatar.esc.gov.	86400	IN	AAAA	2001:19e8:8041:23::11
+styx.esc.gov.	86400	IN	A	192.112.97.251
+emns1.faa.gov.	86400	IN	A	155.178.206.21
+emns1.faa.gov.	86400	IN	AAAA	2001:19e8:8001:3060::21

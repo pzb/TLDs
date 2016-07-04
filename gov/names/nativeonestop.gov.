@@ -1,0 +1,9 @@
+nativeonestop.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+nativeonestop.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+nativeonestop.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+nativeonestop.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+nativeonestop.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+nativeonestop.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+nativeonestop.gov.	3600	IN	DS	63450 7 1 734f784d688152f514427b8f3e2ed703b4f8310a
+nativeonestop.gov.	3600	IN	DS	63450 7 2 f70fa6677cbdeab0e4c36ef2152a71d2ba52f1e0554f38cf9ccd380d398d8ef0
+nativeonestop.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. c0J3mK/upF1EL8jjZ/KCgvt1gqi6YhaJEe5RBbeYxM76VOGo7VOzxZ/QBl76f8As3E9J3tOMy0EVp9KgA1oR30R7A4zmyMV7AE/XE1Avwk1wRyVuZSq6JmeJNag3cgWrxz4GFV6RL74so40EEzNc2eM0Vib84Sg9JXNjiubxOJY=

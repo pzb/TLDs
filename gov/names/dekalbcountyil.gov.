@@ -1,0 +1,4 @@
+dekalbcountyil.gov.	86400	IN	NS	ns31.domaincontrol.com.
+dekalbcountyil.gov.	86400	IN	NS	ns32.domaincontrol.com.
+v4kjp0g0e7oi63lgnerfm27fg5fu9kgl.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. YP3xfDPcFSsJstCpcx6hyzoEcf0ptVjCGEHTKV8knhZn0uUFUJBcIbdQS48uAzvwXb0v3HjCX598GwH4xHAIV/lWtT2jYWsCm5kYHET6OXC0s7JiTNVUSqvF77kj6NGBT7QQwAax+cdiJi4D9gDu2Bd1ivb5APEJkehheEmM7uQ=
+v4kjp0g0e7oi63lgnerfm27fg5fu9kgl.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  v4m2ondcgpqlkj0en4hmt1b400u8kbnp NS 

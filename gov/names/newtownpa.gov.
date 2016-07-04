@@ -1,0 +1,6 @@
+jsjhpohc1jn15rkc20covm0d8bs3cqpi.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. pOIhkoCnNbSeUadfJi8L430vrlZsQ3k5Yp8qlHFi0fOEh0t64weBY9rzVUNZ1WrXuB4l3RkmW9z0Xw9XYHn9FKNrBY2YQa4+PzZk7mqzNicDq79hEsyW+XFz1VnU0pvYv0gbZqd6mRD6kQmk0c4DBeUwn5BphEAqfhbUFSWj6Ao=
+jsjhpohc1jn15rkc20covm0d8bs3cqpi.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jsktpuo5pjfh61vriqlkd25saohcii4t NS 
+newtownpa.gov.	86400	IN	NS	ns1151.dns.dyn.com.
+newtownpa.gov.	86400	IN	NS	ns2152.dns.dyn.com.
+newtownpa.gov.	86400	IN	NS	ns3195.dns.dyn.com.
+newtownpa.gov.	86400	IN	NS	ns4184.dns.dyn.com.

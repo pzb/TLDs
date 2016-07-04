@@ -1,0 +1,4 @@
+exeternh.gov.	86400	IN	NS	ns1.jdscc.com.
+exeternh.gov.	86400	IN	NS	ns2.jdscc.com.
+n7hvt3cmbbk9gep28cebsdh5pm6l9lrj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Ob0/sRhKgsbGnp9M4SuVmCzHFLbfpiGisW+cVVqs3dtBXUN+GMPhn9OsgWc5Kqk4NkWl9yCiFUh4+j+OrTTC3/6J8TLxz5Ed3W76aRGKfkzoyQFXwwb3pUMuxHfFQ37S+laEZ8J5bQwVcKn29S3Qt2c0f1N29xeTqKmuXzGPFlU=
+n7hvt3cmbbk9gep28cebsdh5pm6l9lrj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  n7k2iavt95hpgmi5g2tr5v2k91bk5hbu NS 

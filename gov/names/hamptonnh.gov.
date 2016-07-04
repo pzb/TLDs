@@ -1,0 +1,6 @@
+bksc406pervn5m63fm6uutp0ntm9grpj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Fa49jTaI8V9kVd+KLgCLC66qtppQWIknHgCow7mvARyelL3JVc7I51M1cm+zJg29yjrgsVE1Kj1BocBui9f3F3UGg/qrNBX0Nd+NvoH0EEdooXgNRPFZleQ48UC+zbL9bg4Ig+fC02yPouYcW04NK7OHCiHS7I3rO064ckNjBhQ=
+bksc406pervn5m63fm6uutp0ntm9grpj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bku74cl93kecvune3r3m8ce10jed15qh NS 
+hamptonnh.gov.	86400	IN	NS	dns1.hamptonnh.gov.
+hamptonnh.gov.	86400	IN	NS	dns2.hamptonnh.gov.
+dns1.hamptonnh.gov.	86400	IN	A	66.211.129.171
+dns2.hamptonnh.gov.	86400	IN	A	75.150.97.132

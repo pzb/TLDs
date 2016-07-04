@@ -1,0 +1,12 @@
+drought.gov.	86400	IN	NS	ns-e.noaa.gov.
+drought.gov.	86400	IN	NS	ns-mw.noaa.gov.
+drought.gov.	86400	IN	NS	ns-nw.noaa.gov.
+drought.gov.	3600	IN	DS	9481 5 1 81fa06296014b92721da2bb23f45666052dda503
+drought.gov.	3600	IN	DS	9481 5 2 8b8272e4af726595ff42ca7a500082b3a81094762dac6cee8984e894059aafad
+drought.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. hIWsRL2GHyKdOcRu0t0+2zxeXZNOsSyZwogIaHMXkBUQZ+mb+2vdX8EnGLl0Lx3yZbInUVUnvcC30NxJ53xooh1ftgUWzPTi+FV+6y6WxfpijeFPjvGBkx5dk9LJaX/KHqduE31Cmq2O8KDxWVyjR2mWBShGe2oNV8XHPOLCRlE=
+ns-e.noaa.gov.	86400	IN	A	140.90.33.237
+ns-e.noaa.gov.	86400	IN	AAAA	2610:20:8000:8c00::237
+ns-mw.noaa.gov.	86400	IN	A	140.172.17.237
+ns-mw.noaa.gov.	86400	IN	AAAA	2610:20:8800:8c00::237
+ns-nw.noaa.gov.	86400	IN	A	161.55.32.2
+ns-nw.noaa.gov.	86400	IN	AAAA	2610:20:8c00:8c00::2

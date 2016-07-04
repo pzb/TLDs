@@ -1,0 +1,10 @@
+supreme-court.gov.	86400	IN	NS	eur2.akam.net.
+supreme-court.gov.	86400	IN	NS	eur4.akam.net.
+supreme-court.gov.	86400	IN	NS	eur5.akam.net.
+supreme-court.gov.	86400	IN	NS	usc5.akam.net.
+supreme-court.gov.	86400	IN	NS	usw1.akam.net.
+supreme-court.gov.	86400	IN	NS	usw2.akam.net.
+supreme-court.gov.	86400	IN	NS	ns1-62.akam.net.
+supreme-court.gov.	86400	IN	NS	ns1-216.akam.net.
+vad4ebcqlcrvi2tlf4vq35046fc280ve.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Ljqh3U+YrNQ4Fn0aK/OTAT5ZnY3+teby1Iu05xxOHQiFaJg++j3Ta+cPz2G5ih88K7G/VHQAlRNeIREsVp8oacU7UVP+HikhodowTC3Ows5KMjiAik6DPnFIYIfUmCu9monGwWku5Y5OiXJ0arieqYc+peoYtrOvbd9wDJEvy18=
+vad4ebcqlcrvi2tlf4vq35046fc280ve.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vagmjcnekqvechm0ed9ei7niace02mhm NS 

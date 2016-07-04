@@ -1,0 +1,4 @@
+8qbtgcq5l2f6loq4t37g47htoiovd6ik.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. HfcutGz1QCMjivQqXJQS5PSMPos6XhfpL1ZIoyFiYSPN9KB1LsrNeZKmQrYIL6EIh0mrm3kcNCjCujUUOBA3ewvbozwfjwuncmkdlHSD6678jtl+UWXKLz67nCYXWfR6DcOEpJH7PL08yr8g0qlG8NGxx0d4UXBT4BKsD2nBI/Y=
+8qbtgcq5l2f6loq4t37g47htoiovd6ik.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8qdndpmfju1gkogif7c8f2i8kfs68c5o NS 
+capitalalert.gov.	86400	IN	NS	ns1.fairfax.va.us.
+capitalalert.gov.	86400	IN	NS	ns2.fairfax.va.us.

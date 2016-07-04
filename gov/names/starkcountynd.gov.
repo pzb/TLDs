@@ -1,0 +1,4 @@
+0o8amk45m4ri0paq5f3f28n3jf0du3ju.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. sa5RZzGCj5B8Z4mmU7iE5j9u/nh/xpgubz/PFI0surwPjPmCBLwBMAXcE3db0AXfp+P7RBpIdsDDtWnnVgYOyTO0/0X19pS2/tRyQ8Xibo6XWtM9XwcIETvvxfaRttFjbPE/eCVcG0iJnk5IhpXBRBhK54CGAjWIbbC8GlPOMhs=
+0o8amk45m4ri0paq5f3f28n3jf0du3ju.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0oksut24uak5187v15b3sq36q1m8ul7d NS 
+starkcountynd.gov.	86400	IN	NS	ns3.ndnic.com.
+starkcountynd.gov.	86400	IN	NS	ns3.state.nd.us.

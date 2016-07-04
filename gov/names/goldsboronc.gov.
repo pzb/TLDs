@@ -1,0 +1,4 @@
+5fapfcng3ucef0rrf6ivu4ml5nesub1h.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fyHdQ82Sub9AXA0zWbnPz7zjCCRYnrnt2ofSNqe38PoSjOaeJPmffkYQt9UNjUu8ybFf7dvfZlAegWomebs1k5E2QAkk16Dj6VFahh2BowP3fa9M4Mrr+HID79D5F6xSyTT34rpDK9ALwes03Km0bTChTRpMEdj57gbaCxOmzC8=
+5fapfcng3ucef0rrf6ivu4ml5nesub1h.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5fpaq889hmunbn5ts5l10p7dt10vlojs NS 
+goldsboronc.gov.	86400	IN	NS	ns1.ci.goldsboro.nc.us.
+goldsboronc.gov.	86400	IN	NS	ns2.ci.goldsboro.nc.us.

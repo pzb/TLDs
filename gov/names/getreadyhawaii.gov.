@@ -1,0 +1,6 @@
+fql2pfkah8hlbej1vnvmnelkmet6gjh4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. M7PjX+1sFSsXCFdvF5YR8LHJO9tm1cS3xdidezeRIPxuPk6bhhFC8sipqBhn9zB8sbMVyuOq+otG1z5Ko5wHJ6VOVjv+IyrjE5H1+TYV0WrGKPH2zbr7qrUZSnXwk33hXgqnsaevyXdzpGHgQL3xpdjci/7f7rMVT8hLCAdMoOU=
+fql2pfkah8hlbej1vnvmnelkmet6gjh4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fqo0lhdlce393f2jqp5pt9rquq1c0uci NS 
+getreadyhawaii.gov.	86400	IN	NS	hee1.icsd.hawaii.gov.
+getreadyhawaii.gov.	86400	IN	NS	hee2.icsd.hawaii.gov.
+hee1.icsd.hawaii.gov.	86400	IN	A	132.160.216.4
+hee2.icsd.hawaii.gov.	86400	IN	A	132.160.216.22

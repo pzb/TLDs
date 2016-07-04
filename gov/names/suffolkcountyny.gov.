@@ -1,0 +1,6 @@
+35l2nqijoh7mpsisollp999r3h1qj5ro.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. EdGGq+maisxS283opBehBcIn02HfrSU9aE6MR1K2Ho639sL8PXqEYTtCYsyL8+VBz8c/BQTf848TyxBNWxgS/VwMmNwRPgJsYCMQvvsfqlV2ERCGZbJXjewvzBbpEb6tlgySZrhc4A6ua5cPYbTH1TEd79eMU/5xMY1QpyzFFfg=
+35l2nqijoh7mpsisollp999r3h1qj5ro.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  35pca7ihnmehk3evilsobqkm92es62sf NS 
+suffolkcountyny.gov.	86400	IN	NS	ns.cv.net.
+suffolkcountyny.gov.	86400	IN	NS	ns.cvnet.com.
+suffolkcountyny.gov.	86400	IN	NS	dns1.cv.net.
+suffolkcountyny.gov.	86400	IN	NS	dns1.cvnet.com.

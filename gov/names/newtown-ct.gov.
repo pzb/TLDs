@@ -1,0 +1,6 @@
+eik3kciltdcc1kmt9u87b0do5qfgr9o9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. I9hfsREfVzEcniYNe4PqLh8UT3EkJSN0lwnT2sjTXkLJjIR4N9PxA2jFU2zFtemvWqInLRYq6NoQwNfj5PczIXWdjBLBR0gn6zXXYcxXUpqyENO3skV8M0xAuj1SFQvphB1kp/pv76C5g9Mop49C6YKv6Sc1K+jghU1s2igL1zA=
+eik3kciltdcc1kmt9u87b0do5qfgr9o9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  eil3jpdrj7j6om403qhasc3okc5nh1gb NS 
+newtown-ct.gov.	86400	IN	NS	ns1.infotech-maine.com.
+newtown-ct.gov.	86400	IN	NS	ns2.infotech-maine.com.
+newtown-ct.gov.	86400	IN	NS	ns3.mags.net.
+newtown-ct.gov.	86400	IN	NS	ns3.infotech-maine.com.

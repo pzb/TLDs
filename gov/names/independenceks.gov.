@@ -1,0 +1,4 @@
+cpq66eqf1a7ed9rb82a0v5l1qtmkfqib.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fEOh9SnPSN6GDrQd1iBaB6p1cKMCexlhk83dwoOs6YJVrhigaG3QoV3TrCAXeGyk9EnUgzSg4Kko9tCJ2/4VS7oRRtGXIiTywVDk8AQtC8d5OtKh+qK+27+8Dxj3HZS7mRBd0MY6+7svXVSI5/qxism5gNWODbbkIoAvKWTUlso=
+cpq66eqf1a7ed9rb82a0v5l1qtmkfqib.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  cprfub9an1uf1cvjvdlk49ujnj98vpo7 NS 
+independenceks.gov.	86400	IN	NS	dns1.civicplus.com.
+independenceks.gov.	86400	IN	NS	dns2.civicplus.com.

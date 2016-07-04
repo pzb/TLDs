@@ -1,0 +1,4 @@
+conshohockenpa.gov.	86400	IN	NS	mns01.domaincontrol.com.
+conshohockenpa.gov.	86400	IN	NS	mns02.domaincontrol.com.
+m8fphguhpa1p0g3qf8hqsudktbk8tf81.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. nBLDV/Ktb9BJO7rKl1qPu7tEzjjthcUEkJd/QSbNFT57AJxXhVssoWPRy9W3QcYrfQK2TY/tO5oH6c0jSrUihyx48viE49Zs/G0Z0pmAPJP8WP/ZdXlnmcCLKkLZpN7ZzZ6hskTIKelMI1O0PQmSlTyI7D4arszwDJ+uZDSTRpY=
+m8fphguhpa1p0g3qf8hqsudktbk8tf81.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  m8ihju558tqimqas2b1gl67sbdufgbcp NS 

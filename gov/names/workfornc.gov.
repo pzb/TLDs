@@ -1,0 +1,6 @@
+ns1.nc.gov.	86400	IN	A	149.168.11.11
+ns2.nc.gov.	86400	IN	A	149.168.138.11
+q5evsgv77h6iulkq3i5ol3fhe1hfl45o.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. IC2SEpAbiosWGvOIBtxE4gY/+RfB/sH/kgx1cOGSD14Zp+HbfAPx/fxZ6sfDRju5EOCNUoOfRic13jWh85RDcZqF01A3DcbDhekzBtvJ930d6zWIcDHrqW+zP4XT2FIfHy0zhjVeusZCdlOjkmcVDa/TvbMW6xT/EkKxHBjd0L4=
+q5evsgv77h6iulkq3i5ol3fhe1hfl45o.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  q5sv1mucetq5klsgr4sssm5oam6airia NS 
+workfornc.gov.	86400	IN	NS	ns1.nc.gov.
+workfornc.gov.	86400	IN	NS	ns2.nc.gov.

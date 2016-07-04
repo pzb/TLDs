@@ -1,0 +1,15 @@
+cfa.gov.	86400	IN	NS	dns.gsa.gov.
+cfa.gov.	86400	IN	NS	dns2.gsa.gov.
+cfa.gov.	86400	IN	NS	dns3.gsa.gov.
+cfa.gov.	86400	IN	NS	dns4.gsa.gov.
+cfa.gov.	86400	IN	NS	dns5.gsa.gov.
+cfa.gov.	3600	IN	DS	30379 8 1 dc54ba6774c19320d149e10a516eca5a5fc9b602
+cfa.gov.	3600	IN	DS	30379 8 2 88c68655b9b10b75d233c88a4dfe9fdbe711ddb9c2dffd41cad203821c6ab70e
+cfa.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. eMxbqh7cSclx8kUwt2O2A5JlvG1WXfm9WKcldLw8LaryKEZodnfEUuPBfeZ7FZygZE7ZO7kog/Oa+Qxs5UAMP4XGAZjDWs86uxI2iZnWScl4zgKhKCwIL1eOPj2M3CsCM1E9f5hI704FWSyD3iKloBS3UMjpllkqsJulYhc/wyU=
+dns.gsa.gov.	86400	IN	A	159.142.136.198
+dns.gsa.gov.	86400	IN	AAAA	2620:0:150:280f::5
+dns2.gsa.gov.	86400	IN	A	159.142.150.68
+dns3.gsa.gov.	86400	IN	A	52.203.230.235
+dns4.gsa.gov.	86400	IN	A	159.142.69.84
+dns4.gsa.gov.	86400	IN	AAAA	2620:0:150:4013::5
+dns5.gsa.gov.	86400	IN	A	159.142.45.20

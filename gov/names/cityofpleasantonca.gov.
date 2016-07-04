@@ -1,0 +1,4 @@
+asb47qp6881pnioa2lctqmipr0du3sjj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hFHnmf7udrLQa/9j/CIH0xptt97haCjzUvSo2nWgUHoiuEYTtnIzw/EC905YXA13RMP0J4kPKaZ9v4T3/H5V6r+8063ggkSwTKN1wfc0+QCuyol6xNP2z694Acynw+aNeyqXLD2wuhh6QnZPA25Fwp2ztiKytEyjoORyx/pjq7Q=
+asb47qp6881pnioa2lctqmipr0du3sjj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  asc38u32qadpolqnrb4056cda6rrirsi NS 
+cityofpleasantonca.gov.	86400	IN	NS	mns01.domaincontrol.com.
+cityofpleasantonca.gov.	86400	IN	NS	mns02.domaincontrol.com.

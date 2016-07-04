@@ -1,0 +1,6 @@
+cstx.gov.	86400	IN	NS	ns1.cstx.gov.
+cstx.gov.	86400	IN	NS	ns2.cstx.gov.
+ns1.cstx.gov.	86400	IN	A	199.5.231.4
+ns2.cstx.gov.	86400	IN	A	199.5.231.6
+q9c5mraj8mt4b1pco8m9jvprp1p325i7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. TwPoSs+AOAH/IOVubXsq0pjHVjHCMUVclY08iFyMQakpRGv58n0hCc7UTE+bgO6HPDGiKoJaI65BHpIJriFNMunjtz6nsqQAwJZXK9Q2xKNtN/E9Q1U+suULlr1pxxKMOhqAsGzDG5sAflumS1YrEAKzDlTEq5GM+V4TtVAWYuU=
+q9c5mraj8mt4b1pco8m9jvprp1p325i7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  q9mej5gl7bej5tveepv87v36gqdj5k19 NS 

@@ -1,0 +1,4 @@
+fbo.gov.	86400	IN	NS	ns03.symplicity.com.
+fbo.gov.	86400	IN	NS	ns04.symplicity.com.
+fbo.gov.	3600	IN	DS	31099 5 1 9eae55a06515e040c70e3c516e6f52bdbb829836
+fbo.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. jStCV52HNjlqv+nSOJ7keAMoYg3Mygy+mffuonrjZC3zgt8y3+monMIJQDDxxzoBEQgiwoYpmzlVfB6aWJaLQniGldcmk29AHi6kJNOkY5Q3Myi2kGZmNAi1JLJ1ljLVjkvIwnDg59KNM4SaNUP9paYPGb33KtDOTUL4lXXl3wo=

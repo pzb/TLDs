@@ -1,0 +1,4 @@
+o69teais1lvvmtn7vovu56k3nimuqndv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. hxrnRuIKaSfFgmQ95rInSg9nlEM0jh2pPR1bTzCqL7SkOMWRQ5d3njGnxViP9y8gPrTHZpAi2YwyBOMC4isk5YplHWhyHHA49ck3l4zWHufiusVkhA8SKD4EbJvRdeqEUypnon+jy8K1zFZ2z1vi6shLd3lVmVLkIhhO08+3HSk=
+o69teais1lvvmtn7vovu56k3nimuqndv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  o6dkhisn1b8e0bdb41er4lfapak1n1o2 NS 
+saratogacountyny.gov.	86400	IN	NS	dns1.stabletransit.com.
+saratogacountyny.gov.	86400	IN	NS	dns2.stabletransit.com.

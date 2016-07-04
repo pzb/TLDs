@@ -1,0 +1,7 @@
+mycreditunion.gov.	86400	IN	NS	sauthns1.qwest.net.
+mycreditunion.gov.	86400	IN	NS	sauthns2.qwest.net.
+mycreditunion.gov.	3600	IN	DS	11865 7 1 e64d573fd287ba195954eed1e9f238575a8557c8
+mycreditunion.gov.	3600	IN	DS	11865 7 2 94af4e366f67a14e29419250120b018f941334dedf6261348fe8853082d92e64
+mycreditunion.gov.	3600	IN	DS	58555 7 1 b3bb705be6edd49690ad452f08eac4140840fb74
+mycreditunion.gov.	3600	IN	DS	58555 7 2 6b1abe543b3b0de5fad29f2ec0d228856afcb8708e7c4a2d0b05ef0a39848cc2
+mycreditunion.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. HN0G65dug4hCjwcENBrTGMkXdnqogInanzlbcFmMtBEpjGd/M/tbXEAN8OGC29I2c9dot1isqU+o+Hp+3zs1IlqZuGKh3g5ZBdcbu/qxlGZclAjt53sQ8dJQfuVcEc2aS/N3J+81saKq/vQW7LFYk1v5kRuThf+/Nixwq+64Vck=

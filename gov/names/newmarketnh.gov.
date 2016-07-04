@@ -1,0 +1,4 @@
+gd75tquk4uf5uqp0pqdcfmpksc9bk3so.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. dQI1GjLuLV97/PLkPeI9kfmOCJCTBiVmkZ94oJqihd4UAP7aNovZ58YtKEjadpyDyxrsKkOf/vsgsfAIJGZ2OBPgpweKUJZXiZwuz+R9bqOoL64GxgdisaIGvyoC2CnoYPfvYzcTgU0t+Kz17RblOSRZ441BfprYM41YcNPXhUU=
+gd75tquk4uf5uqp0pqdcfmpksc9bk3so.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  gd986npoedap2ce0j0ktuuifpvlge355 NS 
+newmarketnh.gov.	86400	IN	NS	ns1.worldpath.net.
+newmarketnh.gov.	86400	IN	NS	unix.worldpath.net.

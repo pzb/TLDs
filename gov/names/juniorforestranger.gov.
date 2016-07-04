@@ -1,0 +1,9 @@
+juniorforestranger.gov.	86400	IN	NS	ns1.usda.gov.
+juniorforestranger.gov.	86400	IN	NS	ns2.usda.gov.
+juniorforestranger.gov.	3600	IN	DS	20794 8 1 2ec5e6a89518e0613f22d5e26de8cddda9768638
+juniorforestranger.gov.	3600	IN	DS	20794 8 2 44f46c46c00bd8ed1d25ae440a8f6432bb6ccbfd892b7a2dc5922377fa1bea23
+juniorforestranger.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. BdVDUzKD+7q3RPldPdaQzuZlfA6ACXIjS7+lMZMRyiQ71aUbrcIW2M6rkAiQ7KlukQcKjAggm/0iLFa8bHVB0o089KbBNR9/aK4js9TXSnd3o9rR9EqfNzjSkHvudlEB5JEycHr8BO4aEvrhd/6XbQEFgKahP2LP4jW81xcFGI0=
+ns1.usda.gov.	86400	IN	A	199.141.126.202
+ns1.usda.gov.	86400	IN	AAAA	2600:12f0:0:ac04::202
+ns2.usda.gov.	86400	IN	A	199.141.126.206
+ns2.usda.gov.	86400	IN	AAAA	2600:12f0:0:ac04::206

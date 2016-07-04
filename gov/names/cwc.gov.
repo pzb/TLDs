@@ -1,0 +1,6 @@
+cwc.gov.	86400	IN	NS	authns1.centurylink.net.
+cwc.gov.	86400	IN	NS	authns2.centurylink.net.
+cwc.gov.	86400	IN	NS	tpsns11.terrenap.net.
+cwc.gov.	86400	IN	NS	tpsns12.terrenap.net.
+cwc.gov.	3600	IN	DS	32904 7 1 8b4eb84cfe4a42f99411262a1ef25bcaa3d9f664
+cwc.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. IMmLBum977S+a7QA4q4tj/wJcFAyh6sTgrH3QHWCz36CcyV8A5uIknUzEOzENN1L+Oz5yb3d72RMP4ATGCaqxF+p53GkL8ShhsgHAGlNfUSPqs8hG3xVhENVdtNFWmygA+a2twlhO2UEHJ2kiFqGbbPSEf6j4CHHbKigQyANVm0=

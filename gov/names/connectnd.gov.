@@ -1,0 +1,4 @@
+connectnd.gov.	86400	IN	NS	ns3.ndnic.com.
+connectnd.gov.	86400	IN	NS	ns3.state.nd.us.
+k0hgmfqdt9ts2dd0bmqt1o205tg0efem.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. sNCDWZv18MKMCiBqyaWMEA7K5ych9ZAJD9YzbU3UF8gh1JivRsEiRCFFSoAJfZa8ypxJKcMwuJWiPNw7KfLXww9zbl9npjQvQMPVOfu434PqLoS92rCK3CUDU0m770dT6gOCPl+UmtdidXiV9nBa6p134PXRyXd2fk+0u6W9ksQ=
+k0hgmfqdt9ts2dd0bmqt1o205tg0efem.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  k12eks9dc3l0ar0cnrfa0pu59nnaebbq NS 

@@ -1,0 +1,9 @@
+ns01.fdic.gov.	86400	IN	A	167.176.6.78
+ns02.fdic.gov.	86400	IN	A	167.176.16.77
+ns03.fdic.gov.	86400	IN	A	167.176.26.77
+myfdicinsurance.gov.	86400	IN	NS	ns01.fdic.gov.
+myfdicinsurance.gov.	86400	IN	NS	ns02.fdic.gov.
+myfdicinsurance.gov.	86400	IN	NS	ns03.fdic.gov.
+myfdicinsurance.gov.	3600	IN	DS	4657 8 1 3ff462fd6451dd429621049d3537cc94940e4bbc
+myfdicinsurance.gov.	3600	IN	DS	4657 8 2 00745f9b8817ce65690e1f8d5e2a5d820208d71241d8f25a8c12c343185eb4dc
+myfdicinsurance.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. BziUs1W0465vfU5fylTCE/FNYJSAeqnngt8mijLFbfnfhOFBO9mS/I1WLMe1U3pzGqeJElowFzj4EvJuXRRMzb0W3fz0Z8YaT1tffYZXTsmP866NtM66YfM9NE4ElsATQqZtN4fsKPoRNQ3qW3O6B8TMpduN2r/JaaUFc2tgrFU=

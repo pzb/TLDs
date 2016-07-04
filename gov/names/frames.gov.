@@ -1,0 +1,9 @@
+frames.gov.	86400	IN	NS	a3-64.akam.net.
+frames.gov.	86400	IN	NS	a6-65.akam.net.
+frames.gov.	86400	IN	NS	a7-66.akam.net.
+frames.gov.	86400	IN	NS	a1-241.akam.net.
+frames.gov.	86400	IN	NS	a10-66.akam.net.
+frames.gov.	86400	IN	NS	a16-67.akam.net.
+frames.gov.	3600	IN	DS	24442 8 1 d871659836d2074ce552e3e9ce98a411fdace7a5
+frames.gov.	3600	IN	DS	24442 8 2 786bdeaf2f236c88d67927c439bdfd338e6eb874eac4dfd1e83a87103470ff1f
+frames.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. xquxpUjR5GTwC7fYrq+qYTCCS12KOMqKorNuyrt94chO/wfm/YaOQH9q8/8BznKDOnR7HGBZS6zLnbiiJZlpgB6TfAbSOtQyPl3YIMgWgqhYtv8j1Y+Zi4Wtmo8f+xTmqsqdzpRxwsKV8bI0BbuXl3z1rkNH/EyitXD60y7G974=

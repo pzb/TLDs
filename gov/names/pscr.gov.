@@ -1,0 +1,7 @@
+pscr.gov.	86400	IN	NS	ns1.p12.dynect.net.
+pscr.gov.	86400	IN	NS	ns2.p12.dynect.net.
+pscr.gov.	86400	IN	NS	ns3.p12.dynect.net.
+pscr.gov.	86400	IN	NS	ns4.p12.dynect.net.
+pscr.gov.	3600	IN	DS	50734 5 1 abddb9ae21da36589da8a416699172e0b53122ac
+pscr.gov.	3600	IN	DS	50734 5 2 0443aef39383a5245924371e4cc6d05b212c9753b55de89ce85a2cd1ce5d9b5b
+pscr.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. BZx8N+CROykpQIZINC8XvMYpcxtVuLlwQ8xluqpO5fDYsH4/CzQ3YJxLbtW7G2RYOjwfOvg/Hb3+hjYtZbsk9ssmK0rCdqVzC64o76+6CbZXQyA3CgMR/gTpZ4Fv43qKDO8PK5z+TNxt7ERPtGrv5Ny5i5kDyuRd7aX9eZs/66A=

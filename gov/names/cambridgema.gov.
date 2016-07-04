@@ -1,0 +1,5 @@
+cambridgema.gov.	86400	IN	NS	dnsauth1.sys.gtei.net.
+cambridgema.gov.	86400	IN	NS	dnsauth2.sys.gtei.net.
+cambridgema.gov.	86400	IN	NS	dnsauth3.sys.gtei.net.
+msht935fspj1ib2gag28f1dndgfg9mo1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. jyJ0iSJgAY9tfKoQE4xrqXBEiSHpJXDdF4Tj119XvTU7+fGOA3qh0GjsrJVArP/93UfeWmymyRQFCFWdajgRjCovMVlb9eLdpQuuOKoY3dQ6Awx7YA8w+LeyZoW6ma82SpSYpZ9Nx4l/zyCF81oY7tBbZJ8HPtM7xAe2M//WG7Y=
+msht935fspj1ib2gag28f1dndgfg9mo1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mslvesjlhiafctc59uva115fbf1j7d5d NS 

@@ -1,0 +1,4 @@
+4dnq6chu3tni85bihtcvoc1mbo16hh0s.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. OebAoN9yrhnbUFc1OdDo1XX6K8ml2RuHVqU6Jik+QIM0IG7CqIqk/kYIra5Es9U6OQheqyVIR6zthVIRNfnnEJ1H2ODKHiCHiz2FM4IcFlZjHrw6f504Q9DJAN0GErnntRv6j6VFRxMHRvhA9WUb7+6VJXKrCKcKgnVGJnKU/Wk=
+4dnq6chu3tni85bihtcvoc1mbo16hh0s.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4dopb5k9l8lgu740eleeua9h748hkn0l NS 
+myalaska.gov.	86400	IN	NS	ns1.state.ak.us.
+myalaska.gov.	86400	IN	NS	ns2.state.ak.us.

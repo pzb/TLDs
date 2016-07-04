@@ -1,0 +1,9 @@
+ns01.fhfa.gov.	86400	IN	A	12.183.70.4
+ns02.fhfa.gov.	86400	IN	A	12.183.70.5
+ns03.fhfa.gov.	86400	IN	A	12.183.69.4
+ofheo.gov.	86400	IN	NS	ns01.fhfa.gov.
+ofheo.gov.	86400	IN	NS	ns02.fhfa.gov.
+ofheo.gov.	86400	IN	NS	ns03.fhfa.gov.
+ofheo.gov.	3600	IN	DS	52998 7 1 ec3010491a87430d5d801b37812b1a98a99c2401
+ofheo.gov.	3600	IN	DS	52998 7 2 86a9e1c9e7abdca3a8c74ff32d937b80ca0b7bd88a7bd1c9ae336561cdab9d01
+ofheo.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. oJW2NSIJO/dN0wMSjTbTepY+9bZUOYLxts4Cusgk8VfypQxzCu4dpjLa3p056IyG3H9cE20Uxop1eWzLd9EzlYzg5CdArfZJThgbIAhfGo+8Ot3AGMienSJYTvXqwHPC1MRHXSg+t0JGWf0/Xno+ZE+Qg0UwG0rCpoUdK/+u7Eg=

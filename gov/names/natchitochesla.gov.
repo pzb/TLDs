@@ -1,0 +1,5 @@
+natchitochesla.gov.	86400	IN	NS	a1.verisigndns.com.
+natchitochesla.gov.	86400	IN	NS	a2.verisigndns.com.
+natchitochesla.gov.	86400	IN	NS	a3.verisigndns.com.
+natchitochesla.gov.	3600	IN	DS	52329 8 2 e1028a030a201cba66a02bb2e79c75b286ccb5a82da59777248e4208e8558978
+natchitochesla.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. O0wI964wbUOFX2PBMOOuuidTB4U1bn7S1ZfC/uLTLoe/gMlMTg0pTUOv8Tbw1IQlw2kl4JAqsf0ETZTEOcqDYuv6JkKFZxAenjoJT6JAvNG7y8dvMYEmgB95nsBvSijrkfCLAxpwwRTgdL1+JYZUpJ98VuULmbaLgtkXNFAT5bM=

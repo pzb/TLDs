@@ -1,0 +1,8 @@
+tco6498ndi5ht022augnfskti0u7ebjp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. QrwxnMN6/4rkcr71fAkpRpFPhxnmLQy0r2rqcIOqvsYkz0t7IuqoyZD5/hJTZRSFlhmTq/nn+E+l6OHVydsfHExQe41vN3dXNQn9qYt/k6cFkY55QeBxuE7j3/QgJ4HSb+Av9B17obOfNJKe3rGbuJf+zxURTHRzRjqU/cjOTxU=
+tco6498ndi5ht022augnfskti0u7ebjp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  td3nkmg90boshil026g8o6kkapjsd204 NS 
+usc.gov.	86400	IN	NS	a2-66.akam.net.
+usc.gov.	86400	IN	NS	a7-64.akam.net.
+usc.gov.	86400	IN	NS	a1-221.akam.net.
+usc.gov.	86400	IN	NS	a11-64.akam.net.
+usc.gov.	86400	IN	NS	a16-65.akam.net.
+usc.gov.	86400	IN	NS	a24-67.akam.net.

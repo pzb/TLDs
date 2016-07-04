@@ -1,0 +1,4 @@
+4o68mv5hss5r0ge2b2k3jr39oqvced26.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. abEgHFHgWmDcIz6RR729VQ4tpuB1r5FHv86KGNEgiaMu//OhQBWqlWjnO4JTUt1LXNIXI3JOSi41zV2RwHRuY6fIV3RiOcAFPL/rQ4mFoaeHcBbB0NrVLT5HwZu6TVS6UhBEkPhdSfetC2HAidfndhqq2krwolpJdCYjcAKpCi0=
+4o68mv5hss5r0ge2b2k3jr39oqvced26.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4om594i1b0q29km82mk1is09mno14gtn NS 
+cherokee-nsn.gov.	86400	IN	NS	ns1.cherokee.org.
+cherokee-nsn.gov.	86400	IN	NS	ns2.cherokee.org.

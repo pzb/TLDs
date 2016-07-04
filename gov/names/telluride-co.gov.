@@ -1,0 +1,4 @@
+telluride-co.gov.	86400	IN	NS	ns.internetconet.net.
+telluride-co.gov.	86400	IN	NS	ns1.internetconet.net.
+u7nukg7h7rlhqkuo7k94ll6452c1kpgb.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. PsSAYloKaQm+usmjGuut+v8DTiHhIxitGuNWVlXEWrKwrFf18jVKXXmAj1hdIluq7lsIgy16nNKHXYM7RLLNBom/A3xk16SIVGpd4c+1H135n9aSFFzF4LA5aex55UYyA0n9ajCWbeVifgYxqCKhOIJXlEyFf+OurhZFWl4DnXk=
+u7nukg7h7rlhqkuo7k94ll6452c1kpgb.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  u7q0jpf4fmgjednll99ajqgl15almt1b NS 

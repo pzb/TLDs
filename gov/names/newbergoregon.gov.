@@ -1,0 +1,7 @@
+7v573gn5go05qclluhn41svvth50ck3s.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. W4JSieoYyhI2QGYaKrHkNS+y642qw+bfn4WOm0EI4YTu3fHNMIulOHxjTTghFxqwbwEAYqGBe3NMDq3dkZBAl783TSztPPH0kZgwZQFY+TjoEV/GRvRlBLuMqB0eHn8d3iAnlQPvF22bkhb8igUcKdPfC18MrmjPxY3GGZOZLA8=
+7v573gn5go05qclluhn41svvth50ck3s.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7vl2p00hau505jc37ca4ijmoq63ii6i8 NS 
+newbergoregon.gov.	86400	IN	NS	freedns1.registrar-servers.com.
+newbergoregon.gov.	86400	IN	NS	freedns2.registrar-servers.com.
+newbergoregon.gov.	86400	IN	NS	freedns3.registrar-servers.com.
+newbergoregon.gov.	86400	IN	NS	freedns4.registrar-servers.com.
+newbergoregon.gov.	86400	IN	NS	freedns5.registrar-servers.com.

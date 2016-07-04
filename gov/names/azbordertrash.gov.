@@ -1,0 +1,6 @@
+8u5mn4hp0gpmhro7chektn7igf4i0tpm.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. b6rvNAfwuuQU9IWyCKrzjzknYLlmQkg0ExWN6ZthzkakSkmCywpoGdhjITIDiEcI6+rpO+CD407YhNcFwy5bIuV74nBtl8+NjCTFL6CUZAjEtT7ezubnbGesqLFLj5Tm8MCq/PV0GxCw603EcV/IK44tfnoOk7N+SG70j9XFYeY=
+8u5mn4hp0gpmhro7chektn7igf4i0tpm.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8ue5cq88f7ong8kmcg2v262qt5u5jvfh NS 
+azbordertrash.gov.	86400	IN	NS	dns1.azdeq.gov.
+azbordertrash.gov.	86400	IN	NS	dns2.azdeq.gov.
+dns1.azdeq.gov.	86400	IN	A	159.87.10.130
+dns2.azdeq.gov.	86400	IN	A	159.87.13.2

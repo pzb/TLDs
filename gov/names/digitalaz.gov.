@@ -1,0 +1,6 @@
+digitalaz.gov.	86400	IN	NS	ns-315.awsdns-39.com.
+digitalaz.gov.	86400	IN	NS	ns-901.awsdns-48.net.
+digitalaz.gov.	86400	IN	NS	ns-1042.awsdns-02.org.
+digitalaz.gov.	86400	IN	NS	ns-1747.awsdns-26.co.uk.
+scib4beibjgt97on2pri1e5barf5jbf3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fuCAcjkibTPUpW2241+8aN9VTJ7Ea96Jk2XgIKbIKGdOCyOd39zIGCDNepRJzLBqlPgP1+5Ye6FV/yX1p1nuAJ4BovCuXR2mWwDdg5nzJ3Ja8+dHoyriHZinDQIbT2BvuBzJAOoSPN8dkEvz1AiQu4ATBqINTIX+aO+bytkybQY=
+scib4beibjgt97on2pri1e5barf5jbf3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  scidm0hahrgl583i454t2ffqvcdb0ge1 NS 

@@ -1,0 +1,4 @@
+6rvqqqjhmr7pen7odbk8rofeg7lk0tou.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. vc2FEyg/yG0rQWJMzBxx4HoZ2vz9nGAIRa41PCh9nIfriDTfBa/ZIvUaS0FChXTn9mmDTecQGDD9BN10PalInaa91NQrjvRdso/Q+xqwTfcpUyeHsBRXhciIZqKIuOP6dTbaArTsWOymbJXOQZid1l379m32csLrdY24PeGWj+Q=
+6rvqqqjhmr7pen7odbk8rofeg7lk0tou.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6snvpjp5vi6jsjbfqd9tpqbdofmj4bbt NS 
+jemezsprings-nm.gov.	86400	IN	NS	ns1.bluehost.com.
+jemezsprings-nm.gov.	86400	IN	NS	ns2.bluehost.com.

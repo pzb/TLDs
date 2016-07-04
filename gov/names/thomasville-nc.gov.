@@ -1,0 +1,4 @@
+ajrrg8k13lbb03846qqn40tfrv08kqrn.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. flqCZ4iQ5l4oS4X9Pa9ceQBWlf7H2y4CW0XZIYdiwPQ6nf+uIbGKdOH6Q0Lu8AlM7zYqPX764JagS7xvLhIH+AbSvPidR6Jzrcz3y2zLTAADm1gSnfuBOptV/fIslZsHXFncQkH+SxXC57RJPhLorOPOsxBfgdzWqn+rj9xocb0=
+ajrrg8k13lbb03846qqn40tfrv08kqrn.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ajvtfi84vpfnuqjn3vjpmc5dhr2urrs7 NS 
+thomasville-nc.gov.	86400	IN	NS	dns1.nstel.com.
+thomasville-nc.gov.	86400	IN	NS	dns2.nstel.com.

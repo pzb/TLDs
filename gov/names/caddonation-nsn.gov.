@@ -1,0 +1,4 @@
+5og38aum0admmfll84fka8tp0jr11cup.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ELFXBEN+h+h/0RDp9gC1wckjAtE5gkhxPtpOsuU6wBiPonAbUo32pa598vsNrhD8z+WTgvjDQfgIMbUSIJK6OmtHU1qw4A6C9DhpR8fATws0IvfMVY4+R/LXKt4o7wZ5moCUkiA45s+JjFMkX4BZqB92Y4WPf2I+jBP8pxCBnZ0=
+5og38aum0admmfll84fka8tp0jr11cup.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5oitjr68f1sbcr02sic71aeu6jsb9pc9 NS 
+caddonation-nsn.gov.	86400	IN	NS	ns1.oklahomadesigner.com.
+caddonation-nsn.gov.	86400	IN	NS	ns2.oklahomadesigner.com.

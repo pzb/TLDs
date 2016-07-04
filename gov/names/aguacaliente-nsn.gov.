@@ -1,0 +1,4 @@
+2cs01md7svntoh2rpfdtnlt36m3t6udj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. w7Pc2XExqJb4Mzhrzpp4ow64m7heGIK8uDu0UB3LgucN16t8A4Czu1bpUem3tydeLU8SkuwpF8KFdyRxyVw/m5N5kOiK6dI3CAHTZAxnm1FC56WyzS4nfj2WpmRXjX/dRmz6T1RFO/Uc8Zy7wTxWAMd8hrjbThlGTIubsMjFlBA=
+2cs01md7svntoh2rpfdtnlt36m3t6udj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  2d0sq9vpo8hsrpm5d9bjncpvt9g25pkt NS 
+aguacaliente-nsn.gov.	86400	IN	NS	ns9.zoneedit.com.
+aguacaliente-nsn.gov.	86400	IN	NS	ns18.zoneedit.com.

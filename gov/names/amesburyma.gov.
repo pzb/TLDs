@@ -1,0 +1,7 @@
+amesburyma.gov.	86400	IN	NS	ns1.comcastbusiness.net.
+amesburyma.gov.	86400	IN	NS	ns2.comcastbusiness.net.
+amesburyma.gov.	86400	IN	NS	ns3.comcastbusiness.net.
+amesburyma.gov.	86400	IN	NS	ns4.comcastbusiness.net.
+amesburyma.gov.	86400	IN	NS	ns5.comcastbusiness.net.
+qtpsu6p8r0ijec7ao1i1nslf42jofb5j.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. d1Uu0n3BvzXI7d8y05hOM/jW+MM7CTm4DEUeuHdndqqfzmLaBH96mPV2TszUstrRF/O9PhvsNgMV+ngWS2nHIDG5YaTlv7hvFuMQbIvD8pNnrrrZo1d+7mNHCQr82BjEONMV2xPLleVAPLrm3k18eumL1AqLfldGGr3n/Ckd9KY=
+qtpsu6p8r0ijec7ao1i1nslf42jofb5j.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qu7s27dafctbjllklkdn28t0knl99ghi NS 

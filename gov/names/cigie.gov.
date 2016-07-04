@@ -1,0 +1,11 @@
+cigie.gov.	86400	IN	NS	dnssec7.datamtn.com.
+cigie.gov.	86400	IN	NS	dnssec9.datamtn.com.
+cigie.gov.	86400	IN	NS	dnssec10.datamtn.com.
+cigie.gov.	86400	IN	NS	dnssec11.datamtn.com.
+cigie.gov.	86400	IN	NS	dnssec12.datamtn.com.
+cigie.gov.	86400	IN	NS	dnssec14.datamtn.com.
+cigie.gov.	3600	IN	DS	9215 7 1 bbbe0f94033abe5a75af98d614920ff1ff5ed23f
+cigie.gov.	3600	IN	DS	9215 7 2 8a485fee153e825357c3465511e60ce7de5420626a64ab9674fa836b6f7fef46
+cigie.gov.	3600	IN	DS	60701 7 1 3f0f34b8bfe0766a93bb1431746f56840408f48e
+cigie.gov.	3600	IN	DS	60701 7 2 876a4b64bce0dc73d2b8815945a191af62733293365d4c508f7f0ac050fb132f
+cigie.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. rY6eKV/VciS913syn9v5PXNrGOuBtCm2oinW8I8IEk0BSNdVzo3xV6TMlVGqzCqpn59y3YzrBDQcjMkUMzVE8JNLlQ65t1ZadYHCipaHLuYoOD5t3TgGwK/lauRMtRymmEF+SXr+J5XW1rZg/RmEKe8EGD2bMYxgewOaVdBlO7I=

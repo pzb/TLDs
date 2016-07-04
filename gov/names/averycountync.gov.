@@ -1,0 +1,8 @@
+averycountync.gov.	86400	IN	NS	ns1.easydns.com.
+averycountync.gov.	86400	IN	NS	ns2.easydns.com.
+averycountync.gov.	86400	IN	NS	ns3.easydns.org.
+averycountync.gov.	86400	IN	NS	ns6.easydns.net.
+averycountync.gov.	86400	IN	NS	remote1.easydns.com.
+averycountync.gov.	86400	IN	NS	remote2.easydns.com.
+mupu45vrejf4n0r0vj2j1q0975miv1he.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Eg1qTbL8ofOUnpfk4NZgGmtEGvqev/RhikGUQf5XSsOwoM18bS4DujXYdSdRZ5a6K8jgrzna0bkH7yNk/5fVhRiRNYicroTjeUW+rHxU955bmw2f9Ts1tXaDhf/MMHmNbmYh82whjapgHkliMKcyrDYEGQeoDU7BYIzKT/sinIk=
+mupu45vrejf4n0r0vj2j1q0975miv1he.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  muq15e01bhdh9i5p3inb0k47jh98560c NS 

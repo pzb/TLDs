@@ -1,0 +1,16 @@
+atfonline.gov.	86400	IN	NS	ns-jdcd-01.usdoj.gov.
+atfonline.gov.	86400	IN	NS	ns-jdcd-02.usdoj.gov.
+atfonline.gov.	86400	IN	NS	ns-jdcw-01.usdoj.gov.
+atfonline.gov.	86400	IN	NS	ns-jdcw-02.usdoj.gov.
+atfonline.gov.	3600	IN	DS	25435 8 1 c9904b4d99e07fa89c254f8527a09ff8731274e4
+atfonline.gov.	3600	IN	DS	25435 8 2 8fe3060734d10dd64d1af3ed7138c0f553b77af91760d704bbc210e5b7ec008a
+atfonline.gov.	3600	IN	DS	56494 8 1 96f82c10d2b36c9f3b2b6df9e4e888867d331ec6
+atfonline.gov.	3600	IN	DS	56494 8 2 cf1dd3976ca85c0b94c55f7adc5e4b86bb5921ebe6e45769ab90447ab944d4ea
+atfonline.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. u0FxTrgoXlVHhKGL7et6EGbYKrPl+BY8HNpo0ldQSaN0O3qzQ6QJJyxFjKhJlYeWM99iK6eWUle6GnTeAb9gBDA8Omn9a2ea7e8lOXTuCwiIogjIAqZYtgx+TqwpXwaWFNqNtFgOrsGOOx5a8mo8VkQujd4CtnVeqRQFpZDFtvI=
+ns-jdcd-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcd-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcd-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-01.usdoj.gov.	86400	IN	A	149.101.8.3
+ns-jdcw-01.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::3
+ns-jdcw-02.usdoj.gov.	86400	IN	A	149.101.8.6
+ns-jdcw-02.usdoj.gov.	86400	IN	AAAA	2607:f330:8400:219::6

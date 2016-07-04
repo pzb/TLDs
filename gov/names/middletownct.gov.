@@ -1,0 +1,4 @@
+25fso803kej269uk2ugeuukl7nnu9ar1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. IfUb1cxoYFbzsvYJPmT2fD2MExhP88AaGa98Znuh+NFbWqQ09hnY4X8p/tgM/DJxWQ12UFQnIHfDkZlMCjL+jB9h7TG9wEgGIwPPWflZaIUxzNMUlHWs3vXmdGylGGsLMSRntzXwH2aJCeK2nIX2fRU+c+mxsRy/KIVY59i+lQY=
+25fso803kej269uk2ugeuukl7nnu9ar1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  25nr10aq120nvd16uafpb2t8r4kbkqlp NS 
+middletownct.gov.	86400	IN	NS	alpha.recol.net.
+middletownct.gov.	86400	IN	NS	zhora.recol.net.

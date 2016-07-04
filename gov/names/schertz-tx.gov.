@@ -1,0 +1,4 @@
+d60p3f7ks1clet34818urajmd3t1d149.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. YtjRKoyoMKRInE0+9E7R9kddUBYrK73FG4dZnir+zlynUN4bto+3nVaaaewbUOBJjSCMSrIlVm0KrfmkjFwNJZ94smbJHfXJUcnyzkCzCBfXIQdEo0RC5QTAVgME4otP1GqjShxCCF0HJdJspI8tZCeJTO0x2gwvnL4thUFYpJA=
+d60p3f7ks1clet34818urajmd3t1d149.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  d6575ctbqlqnoo57trq7glrenk9uboqq NS 
+schertz-tx.gov.	86400	IN	NS	ns.comsite.net.
+schertz-tx.gov.	86400	IN	NS	ns2.comsite.net.

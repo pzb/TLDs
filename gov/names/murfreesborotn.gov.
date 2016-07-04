@@ -1,0 +1,4 @@
+i18m35d1bro2objhcaurqktl4p80u2q4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Cel/e2ilcnWHkcy/0VhSGin2qw8Lj3sa0OnPN+dMdL59sj84r+wVd+OdVaA9vCs1kBDpAwi3Wjflxg18GWsYL6dTspt8Fq0yn0cXEAG3ALBOZhAknOW2MJlNbsyA7tnMhz9gLR35m9mFu2OBvcHGrrFTG2T5g3eqsZshsWiTppQ=
+i18m35d1bro2objhcaurqktl4p80u2q4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  i1bnliidadnlesu2rqn2ipuu8bbofhft NS 
+murfreesborotn.gov.	86400	IN	NS	pdns05.domaincontrol.com.
+murfreesborotn.gov.	86400	IN	NS	pdns06.domaincontrol.com.

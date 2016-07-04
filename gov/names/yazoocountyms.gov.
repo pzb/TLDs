@@ -1,0 +1,4 @@
+a8ivqpahv8aelms0vq44rfgpe9olsa8g.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. kp6UT2Dc0RxRx5LTcd2FAmX+B9amd7d0lDxiOUcMxP784laWZYudV0IQ9OcDHO0524QQSnXm0njbfmrT+ayc5O9QG4AeTRjIbeiP3iO4J/EVj6sbAE2tbiQEkDfdOYYnddMP5vo+xWlICEZ7yQ+4pq5B+360tDN/Ut1cyIAkGqQ=
+a8ivqpahv8aelms0vq44rfgpe9olsa8g.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  a8uamrlt163a03fr8ifnr4phf93pin2e NS 
+yazoocountyms.gov.	86400	IN	NS	ns1.premisesupport.com.
+yazoocountyms.gov.	86400	IN	NS	ns2.premisesupport.com.

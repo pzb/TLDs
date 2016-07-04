@@ -1,0 +1,6 @@
+747j7q83e29hrm68rjl467atsj8h5ngp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. bAIrG3AsUe8PobNfL+EfdKDtkQ9Y+qSo6o4uaATn1k0E2zCoJUKomqCiT0YCktOr5+bevyRBunyA5kFDSZUofc66UXir6zFiR9vwbpUZBb4MkVyg0cC2wX8iZ6ZZlfzc++nvpc2cJa1DeWD6J3mJj1L5JLDBMo75NBZ6metfbP4=
+747j7q83e29hrm68rjl467atsj8h5ngp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  74gct3ghq32sn7e4k8bt99kpmfu6p7kh NS 
+muscatineiowa.gov.	86400	IN	NS	ns1.usinternet.com.
+muscatineiowa.gov.	86400	IN	NS	ns2.usinternet.com.
+muscatineiowa.gov.	86400	IN	NS	ns3.usinternet.com.
+muscatineiowa.gov.	86400	IN	NS	ns4.usinternet.com.

@@ -1,0 +1,11 @@
+ns05.dol.gov.	86400	IN	A	152.180.11.239
+ns06.dol.gov.	86400	IN	A	152.180.11.238
+ns1.dol.gov.	86400	IN	A	63.106.133.211
+ns2.dol.gov.	86400	IN	A	63.106.133.212
+labor.gov.	86400	IN	NS	ns1.dol.gov.
+labor.gov.	86400	IN	NS	ns2.dol.gov.
+labor.gov.	86400	IN	NS	ns05.dol.gov.
+labor.gov.	86400	IN	NS	ns06.dol.gov.
+labor.gov.	3600	IN	DS	8659 8 1 b612a056bf0c3a12d8c93700ac096640f6413b9e
+labor.gov.	3600	IN	DS	8659 8 2 1767eb021176cee6d7c98439c03cb80d11e386146a6ac6eb3cf6130564085d70
+labor.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. HjeZ9l4fv8ifL66DBHKUVmbpGOzZYpqOfbG/csA3wOyrrsxx4rCFI9bjfuwgwrsOq81h9GeGwWxTN5ltcuFKHXJUL7LWiy4/yq9Vf6LpEZ8mXt4sZgvCi5Rc5tyiV5J8LyLicWAYdw2S0Hr3AvXMlo3vHmgiaxRhYRWorKOYkz0=

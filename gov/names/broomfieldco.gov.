@@ -1,0 +1,4 @@
+ajosn8tq5m7akje9p8komm1cdmjko5qp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. c96Xf9HpXrlgWWSuG5Oc3bLSrtRO0nxHA9qlQljUZN0XtH/jWFKbpLyU7QTR1TgW1+PLe9gaDRYd4MY22NKf9RJYh6g/9a/05Z7tvQAI075RUo1xQHazG+sM25kh0EnVQoJu7GN9yvx7F3Fcz28/tm4rkDRjw67IOhOoWAt/6ys=
+ajosn8tq5m7akje9p8komm1cdmjko5qp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ajrrg8k13lbb03846qqn40tfrv08kqrn NS 
+broomfieldco.gov.	86400	IN	NS	ns6.customer.level3.net.
+broomfieldco.gov.	86400	IN	NS	ns7.customer.level3.net.

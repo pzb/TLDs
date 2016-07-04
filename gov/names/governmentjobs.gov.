@@ -1,0 +1,8 @@
+governmentjobs.gov.	86400	IN	NS	a1-14.akam.net.
+governmentjobs.gov.	86400	IN	NS	a5-65.akam.net.
+governmentjobs.gov.	86400	IN	NS	a11-64.akam.net.
+governmentjobs.gov.	86400	IN	NS	a12-65.akam.net.
+governmentjobs.gov.	86400	IN	NS	a18-64.akam.net.
+governmentjobs.gov.	86400	IN	NS	a22-66.akam.net.
+governmentjobs.gov.	3600	IN	DS	27115 8 1 34ea2f97f6eaf582509b318663a0081c796ff284
+governmentjobs.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. SG/VqsZd2Vk9xc+abSdwkajQ38bSe6Ohfk4/xCT3Xp7IOIPlWMugDLXJKUvkzLSfVApfyCQEzHncS5evnxOjSJWXJX1/pxy8ko0wDgH8SQZnamCggP4s9XMYE9HP5tDN1Bx4vyn2LQ4+v1Z6YZA8iby4V4PS40n4wZr/rEKerQE=

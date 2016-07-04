@@ -1,0 +1,18 @@
+hrsa.gov.	86400	IN	NS	ns.nih.gov.
+hrsa.gov.	86400	IN	NS	ns2.nih.gov.
+hrsa.gov.	86400	IN	NS	ns3.nih.gov.
+hrsa.gov.	86400	IN	NS	hrsans1.hrsa.gov.
+hrsa.gov.	86400	IN	NS	hrsans2.hrsa.gov.
+hrsa.gov.	3600	IN	DS	27600 7 1 c4735187eb9dc3038dfc63c10c2c4e7c8154208a
+hrsa.gov.	3600	IN	DS	27600 7 2 e72918649250dfc060f0fd9b76ee1158cbe8c585d6ef81388a0ad4c0d345d87b
+hrsa.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. it7bQNCy1kARsauo71OuM+zceWhuP4Yv+w6y5XR7X7rfF6nLirFWtmbXCeQMfg4AdJC8PvMnUVpf3aK10F8+hRQ/FoT7MbbG6p0A1M+syrO2Bm7Ed+sDAUwBNFsRq5oO4J4OH+kcUoljQ8Q/IxIK5RkjOdwCsj7Iu9na5/o/ui4=
+hrsans1.hrsa.gov.	86400	IN	A	165.112.137.239
+hrsans1.hrsa.gov.	86400	IN	AAAA	2607:f220:410:400::ef0
+hrsans2.hrsa.gov.	86400	IN	A	162.99.248.37
+hrsans2.hrsa.gov.	86400	IN	AAAA	2607:f220:41c:400::250
+ns.nih.gov.	86400	IN	A	128.231.128.251
+ns.nih.gov.	86400	IN	AAAA	2607:f220:404:101::80e7:80fb
+ns2.nih.gov.	86400	IN	A	128.231.64.1
+ns2.nih.gov.	86400	IN	AAAA	2607:f220:418:4101::80e7:401
+ns3.nih.gov.	86400	IN	A	165.112.4.230
+ns3.nih.gov.	86400	IN	AAAA	2607:f220:402:1801::a570:4e6

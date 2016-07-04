@@ -1,0 +1,6 @@
+d2de2kp53ip6a1bt9ub976n0jv4m2769.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. CLE8guL2Bm1F1E0QTM9OPndSleqLBR+AxsnJlQeVQ0Pn9+cerz5ZBLb1nP2RIJhsBjiOAVb1v2UWy6pEHKfg38kNbtfx/MChLdrhoJ8jg+nXGFGm8fIyFRCPopshFjRyZbY1PrzZzWcoTCDk+VpxpfuHKHUK5GGYpmrEnc30ovc=
+d2de2kp53ip6a1bt9ub976n0jv4m2769.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  d2hmote7pp7ha9jg2e62ll2qj4f1odj1 NS 
+schouse.gov.	86400	IN	NS	ns3.scstatehouse.gov.
+schouse.gov.	86400	IN	NS	ns4.scstatehouse.gov.
+ns3.scstatehouse.gov.	86400	IN	A	74.254.75.196
+ns4.scstatehouse.gov.	86400	IN	A	74.254.75.197

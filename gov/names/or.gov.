@@ -1,0 +1,4 @@
+ejc2u8hn5laveppoa69u6fkccol2d4v8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. p/XXrxAjKKDP3Lhn7humIJLZOYmpkiiIi44SwpSrAiXoZpNglP6q8Wo0VXatSTuD7lQ4G6hggm+J+ANdLgxr3zpe1ZUchzygaPuAASx6vMTrLQNm4ZJv4xbdPPXFQenOgWL/j6qtoVshJCS98X40I1sPNeQnFtaOjr3IZDmP7+Q=
+ejc2u8hn5laveppoa69u6fkccol2d4v8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ejjscipio1c9n8l4j98ig5vt89c2qbng NS 
+or.gov.	86400	IN	NS	lion.state.or.us.
+or.gov.	86400	IN	NS	puma.state.or.us.

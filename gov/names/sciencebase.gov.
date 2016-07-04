@@ -1,0 +1,9 @@
+sciencebase.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+sciencebase.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+sciencebase.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+sciencebase.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+sciencebase.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+sciencebase.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+sciencebase.gov.	3600	IN	DS	60604 8 1 913f226373414e63dcde14d6bdc0b4817a5c79e7
+sciencebase.gov.	3600	IN	DS	60604 8 2 210b1c92725661b0a84205a817291fcfe16af9c2c3f8b9c8f2b321f6e4ef12d9
+sciencebase.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. OLCe/vaw9APFtc5DNZJZ0gmXzUFZ8HZBZDmBIkV4v0N8pQnyRHnv++acpIVPm4H5BfVOUc2A5i8jeO0uHMD3fDNgzeMdiq2WhEBoS3397QzvhF0zX9BiUI61DVtzt/rlZyI43WDyI5+s1qvwTMoN2u3RypAN1azAo6FaV35NKIo=

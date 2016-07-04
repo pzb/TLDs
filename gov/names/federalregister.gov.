@@ -1,0 +1,6 @@
+federalregister.gov.	86400	IN	NS	ns1.gpo.gov.
+federalregister.gov.	86400	IN	NS	ns2.gpo.gov.
+federalregister.gov.	3600	IN	DS	63489 7 1 1b829b540d406cd065a8dbeca410223a869fd679
+federalregister.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ojrfqo962lVCBufNKafxrJH6vDyEDhtZoWE6qVbGFhdR6dSwWKFhSjBqhpXIjFdW5BW+Jo2wWwKckM3kBHk4rPKWf7zhA6nAPmYsFrNPGqGrUdh/j76ugOfG5EVoVKzBI0omPzwSfDtamXeJnb3m07aCF4+Vl//E3hndJf0xQrk=
+ns1.gpo.gov.	86400	IN	A	162.140.64.100
+ns2.gpo.gov.	86400	IN	A	162.140.252.180

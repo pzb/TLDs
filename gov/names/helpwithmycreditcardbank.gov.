@@ -1,0 +1,9 @@
+helpwithmycreditcardbank.gov.	86400	IN	NS	ns1.treasury.gov.
+helpwithmycreditcardbank.gov.	86400	IN	NS	ns3.treasury.gov.
+helpwithmycreditcardbank.gov.	3600	IN	DS	60195 7 1 d9df1d951feb206d71028d608027fbe22be57d30
+helpwithmycreditcardbank.gov.	3600	IN	DS	60195 7 2 0cd52ad68b900e093189b16e6e985033dac8f054713a19735568790fe5c2a295
+helpwithmycreditcardbank.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. OlW9sZGv/P4wBHtupTrs85rw7PHvG5WiBL8ZU3uybV9KQyIHWVy90XREAbBCXssIlpI36pwp/ZgphUbz+1zfqgHPfu9n1Eow6jYrOZ7j2oHecWFX+drNps13lG2frruClAZmbGUcgICaGHer4jyNvvZkBdMcg2tYjA8IHMoRNZM=
+ns1.treasury.gov.	86400	IN	A	166.123.208.249
+ns1.treasury.gov.	86400	IN	AAAA	2610:108:4000:100a::249
+ns3.treasury.gov.	86400	IN	A	164.95.95.155
+ns3.treasury.gov.	86400	IN	AAAA	2610:108:3000:100a::155

@@ -1,0 +1,4 @@
+lockhavenpa.gov.	86400	IN	NS	pdns05.domaincontrol.com.
+lockhavenpa.gov.	86400	IN	NS	pdns06.domaincontrol.com.
+m0dk8smggnh2e410gb90dkb8hbna6j7a.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Red+pBFkGL2Wg7/nzXHhfHoYFPAilSFQU+s2e/GpXRZLT9Dn1gM84xhsFq0/0vIbQYgjSEAmrjroI0MopA2xno5xFaKWWaqmDxysfomgbR7zEhd5qlqwuUfGsfu0o2diZ7qsmNxnyEA429Dk/Jadd8IoqfcAydBofEuhD+UQtX8=
+m0dk8smggnh2e410gb90dkb8hbna6j7a.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  m0fvnvdpgbd34j12l2damnlai905ioqa NS 

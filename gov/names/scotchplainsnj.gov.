@@ -1,0 +1,4 @@
+7ju2poas8k0vk1r4534hm2igqll01gql.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Lo55vFA1OnmM4dEhc3h+1CvzszxbboWIktfk+7zrAWaDY/3AMBt2lAiih/9KdN0SF1gwEYYP5xZc85cOfmUa9FnAtc9MgfeiKq9ckFVmN0+1btMpzsYYJZ1KEcWqdV6kq1O9bKYMENSjs1bXlotWE7qgTe+eoeL8rZ9AW8DjN0s=
+7ju2poas8k0vk1r4534hm2igqll01gql.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  7k9dn75ijg7j2jv5h4149fv7ue1jorcm NS 
+scotchplainsnj.gov.	86400	IN	NS	ns1.jimdo.com.
+scotchplainsnj.gov.	86400	IN	NS	ns2.jimdo.com.

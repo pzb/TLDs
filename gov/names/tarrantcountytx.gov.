@@ -1,0 +1,5 @@
+bd27bsnc50ql4io7ok4e1k3qd7hm4o12.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. sir4nwtL9Js5Y6nBU8LweDQBXXMQLDn4jaSobVsGfRCDn3dlUgqJUiKWLGd/ua8gKjvPOjvRynr7j8ts8TvJ9O9UYFmsZOZO2vl63wz5tiJbFpADLuog6USlpD7UuufCWoqUq9eZQGCr5G8jgR9qsETtkByZi5px7BGuFsYbPT4=
+bd27bsnc50ql4io7ok4e1k3qd7hm4o12.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bd5g6t0fhnnb5lp3a2b89s4ktpje9n1l NS 
+tarrantcountytx.gov.	86400	IN	NS	web.tarrantcounty.com.
+tarrantcountytx.gov.	86400	IN	NS	cbru.br.ns.els-gms.att.net.
+tarrantcountytx.gov.	86400	IN	NS	cmtu.mt.ns.els-gms.att.net.

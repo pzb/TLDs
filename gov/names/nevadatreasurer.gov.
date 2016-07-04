@@ -1,0 +1,5 @@
+3nsod5257pmr9prohcbhthss05vkne5c.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. u+SznG6agjzoldmR9H3O2mOZcf3b1WiAVAh4ahcTIy8yoE0k8DOtFSvdb0GeCXyAffRx8PZwoS3yB44lShSP1DK+CDn7vypiMdT2lDqq7g2aj7P7W2TUj+GY2zbXGYNqe3BWUQshTVolmnGdpLZB5hJgE09XM155mtzTF7aTdEI=
+3nsod5257pmr9prohcbhthss05vkne5c.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3nuu0u22c4kig6ilp6t8jn8aqbfm3sht NS 
+nevadatreasurer.gov.	86400	IN	NS	ns1.state.nv.us.
+nevadatreasurer.gov.	86400	IN	NS	ns2.state.nv.us.
+nevadatreasurer.gov.	86400	IN	NS	ns3.state.nv.us.

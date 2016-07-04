@@ -1,0 +1,4 @@
+2q3rb2aeu32c6q88fl4sp9m3nkcv9tod.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ZfMmT/zRLiLjdJGYO70N7N+ba6OQmk9EJo5W0O/MGkVFIRpJI4/mvk5dU0q76ZjnqsYY5CAs8xekSzzoh1JcAOp3+vEeXZDkk7zyC2IIfncmlpglIRUvk+vd95SGANv+pDIR6nK/rNmp1lmKdCdriGvhOA8fn9wmy5B/ketn9Eo=
+2q3rb2aeu32c6q88fl4sp9m3nkcv9tod.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  2q5j2h5dk5n1b06v2dn347lf7o70es68 NS 
+brooklynwi.gov.	86400	IN	NS	ns.rackspace.com.
+brooklynwi.gov.	86400	IN	NS	ns2.rackspace.com.

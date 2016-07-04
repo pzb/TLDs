@@ -1,0 +1,4 @@
+dickinson-tx.gov.	86400	IN	NS	ns1.pslightwave.com.
+dickinson-tx.gov.	86400	IN	NS	ns2.pslightwave.com.
+s188k6ufc3cfcu1b9mpd47tjep3kqe95.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. LX7zecCfPd4NvBPx6WR6Uc9myYFTV/p7XhbYdH2vTPG0mE87wS6sjr7nCEHuFA4SS5xa1hRS5qs8YWK3NiJPyFn/foF9/JvpFV0+0A+RgRYxahdmZg8LRvRIFrMiENe9JOrTYdFsH0EjTAnwPlfo8fWVDxbPfIix+wHuD/rJ5Kk=
+s188k6ufc3cfcu1b9mpd47tjep3kqe95.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  s1dilbcstmd6tpbd37s0fc2pl9n589hn NS 

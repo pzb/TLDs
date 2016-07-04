@@ -1,0 +1,4 @@
+0euqau9hn8m8078cd8hk80hi9siflsdb.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. MN65hjke0rI5apr8Kyv4266yPeX6G3PcmZpU+duIddbHlDJ0l3HN5N3Eg0RfSysf48ojBdOA/XE21MOj8Z92Gg7BFWeTwrVJM6apAQqK7PJvatvseG1JHK/cioKC5RdzCDzFQdeJybU7Z8tr3uCkdEWFlAXswkTcJv5/BpGEUTI=
+0euqau9hn8m8078cd8hk80hi9siflsdb.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0evph8pu030ice2532746vnqlg8hlqc0 NS 
+viejas-nsn.gov.	86400	IN	NS	ns1.p26.dynect.net.
+viejas-nsn.gov.	86400	IN	NS	ns2.p26.dynect.net.

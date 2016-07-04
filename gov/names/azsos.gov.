@@ -1,0 +1,6 @@
+36bjlvvtclb0p9jjd09irodabuqngkb3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wxb1ZQQk4GjiCnK8r74+Y2/Eat2Qj4F74uzwvzDS2pkwaNALnp9ke1me5rcdOHEiolzLlWkOJvVr1aVhGs41KvE6y3nWSTPnZ337F7B0LcRRnsOCmJ7i7Cv7vx3/1rRPqpxg0SpxxY2DKkMc7AIXicqy7G4mIy3CtG8akr4Cbf0=
+36bjlvvtclb0p9jjd09irodabuqngkb3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  36djpr525ubo8v5lk3gbl816esq1t209 NS 
+azsos.gov.	86400	IN	NS	ns-393.awsdns-49.com.
+azsos.gov.	86400	IN	NS	ns-545.awsdns-04.net.
+azsos.gov.	86400	IN	NS	ns-1286.awsdns-32.org.
+azsos.gov.	86400	IN	NS	ns-1743.awsdns-25.co.uk.

@@ -1,0 +1,4 @@
+5jf94q1vvanhe9g37snovmh51rfhp9do.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. S5IYu5nOGjqmJt9R/1HCKoT9Xl1lnnCivEf8jBC4kym+XAvfikOoOQhjJslcfw0d7FeySAiM/eT46bj4CHNtc5yRjaeMurkLDU3IBfuX9/DlraF2VRC3WLy1DHExe8yqOBCCMPg7zjjYlH74nZm7dxD9DScyqhDRI550p5udtr8=
+5jf94q1vvanhe9g37snovmh51rfhp9do.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5jkicbs05bhr6f3eb7sbc3lb77tm8chd NS 
+mantuatownshipohio.gov.	86400	IN	NS	ns29.domaincontrol.com.
+mantuatownshipohio.gov.	86400	IN	NS	ns30.domaincontrol.com.

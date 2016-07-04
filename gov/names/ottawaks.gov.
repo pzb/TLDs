@@ -1,0 +1,4 @@
+ottawaks.gov.	86400	IN	NS	cbru.br.ns.els-gms.att.net.
+ottawaks.gov.	86400	IN	NS	cmtu.mt.ns.els-gms.att.net.
+scidm0hahrgl583i454t2ffqvcdb0ge1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. q6d3yPl1+b9VLJ7PJpT02iUwDkTMsF5rT/rC8akaz7vVHKIXO9S2X8IKhp5KkYJsv8Rx6YlMTOG7LpU6qiklznGHopTSlAJWpKrFDeXRT4HO/wNikLAAV4wKty/lA7Icga/MRuRfmnLPWhWZnHdZLSqtYpsEGXcRHBwsk25k6Jg=
+scidm0hahrgl583i454t2ffqvcdb0ge1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  scijiuhh8r57fpl2b7l8sebua4j1op0n NS 

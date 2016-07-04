@@ -1,0 +1,5 @@
+a4n55qnrq8q28l06i3c8aj388ukh0hdp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. J3e+yMxobYkthk98H0O+dXvHtcZVxM6EcA0K8lkfFrORvncp7cbm7zr21Y80mQsEuLSpG/3SESkI7aY1y7XXncXkvWZS3fcOe5eWClk8YGZKXsT5cCt3fX+FNzPGeP3Zx08xm1+eNa2GrPlLaZ3ESAkeyJcBGgo0QHxek8dfKXI=
+a4n55qnrq8q28l06i3c8aj388ukh0hdp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  a4oqdn8hpr18452ggdm31trh1pk4gss7 NS 
+alabamadementia.gov.	86400	IN	NS	ns1.worldsecuresystems.com.
+alabamadementia.gov.	86400	IN	NS	ns2.worldsecuresystems.com.
+alabamadementia.gov.	86400	IN	NS	ns3.worldsecuresystems.com.

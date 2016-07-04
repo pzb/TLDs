@@ -1,0 +1,5 @@
+bullheadcityaz.gov.	86400	IN	NS	a.ns.interland.net.
+bullheadcityaz.gov.	86400	IN	NS	b.ns.interland.net.
+bullheadcityaz.gov.	86400	IN	NS	c.ns.interland.net.
+gg4srbgd3vtfm59nob7spsng58ng01u5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. a7riJ2WdIuionorqDthcA/dcPFMRostXL72qVH068USMIYGFTp8FkJkuMlcDHhIYJKu7qLRlTK5+ykrkqUv4F2CxEiKPoLHJA3y6IiaRyc0uVlHGh595+pJzE/zmlPpzvBlTqHZ9qL2vzAR1EaRLZdsMiwd2O1yeEDh689JTxaU=
+gg4srbgd3vtfm59nob7spsng58ng01u5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  gg6voudrneb8cod561bvhv9c7ql5gv2u NS 

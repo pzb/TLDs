@@ -1,0 +1,7 @@
+dns01.cns.gov.	86400	IN	A	152.180.8.143
+dns02.cns.gov.	86400	IN	A	152.180.134.207
+vistacampus.gov.	86400	IN	NS	dns01.cns.gov.
+vistacampus.gov.	86400	IN	NS	dns02.cns.gov.
+vistacampus.gov.	3600	IN	DS	57768 7 1 e54d8736fa0659ec58ab3327d2a05e576b311bab
+vistacampus.gov.	3600	IN	DS	57768 7 2 a7929b9e066cb73da9fcd72350dc531d8c63375803848320a190697144915952
+vistacampus.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. QmOijjq3imXMQS5wiuAhphmdG3zsTmPual0yWvs+hfQVgqPu9kN4L96GycoMtzVsvNV+eZKvvg+b15lbxrmQdeHCICLx250xzOr4+dIBjFccz2NCn2zeXc+uuwZVhcAo93BKEnOIueAgF2To8MJq27RBhWALQSzN8h13510oZzo=

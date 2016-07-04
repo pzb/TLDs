@@ -1,0 +1,6 @@
+o8oapvj9cd0dvriph6vj7uden15gfp77.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. p5aJODT9T9BFRt7VpQbynL6pGzXB9trUPiShN3xqOsDZZ8HVqL99ioG29/edypddcHd2sW0IdFCME7DrkU6OYUT3qCRO0YVXFXC+hteG5iuoJreahd1NgQMvpKYbMJ0bIJq0xkn6GRweN+U662xO8IiQPhSYGjM1ihfqEvzwWjM=
+o8oapvj9cd0dvriph6vj7uden15gfp77.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  o8upvh9rr7iql09emq8s09v5akmrpec2 NS 
+ns1.pr.gov.	86400	IN	A	64.185.221.2
+ns2.pr.gov.	86400	IN	A	64.185.205.211
+puertorico.gov.	86400	IN	NS	ns1.pr.gov.
+puertorico.gov.	86400	IN	NS	ns2.pr.gov.

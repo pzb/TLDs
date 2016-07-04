@@ -1,0 +1,6 @@
+greenhoustontx.gov.	86400	IN	NS	dns.greenhoustontx.gov.
+greenhoustontx.gov.	86400	IN	NS	dns2.greenhoustontx.gov.
+dns.greenhoustontx.gov.	86400	IN	A	204.235.224.5
+dns2.greenhoustontx.gov.	86400	IN	A	204.235.224.7
+um23ibf8bor3ui9rnfo7135vodlh6cfv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Mexsgt1B+TLX7jdlHvc2J0I+jVVba0iAy7RWxd60NXHKka7C37vgCtVHJ8/1iHMxYiH1JeU7uaTa6RkqEvGXg/1crqK6VNLf+vI/oGRSs22H1Oxa2KYOsRxQNrREX6d/vAk5uUCOjXjMk8wnDQxnI9Kqb0EKriKParEtdFB65aI=
+um23ibf8bor3ui9rnfo7135vodlh6cfv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  um7usiotj1pgctblmue7vq4bgf812js6 NS 

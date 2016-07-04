@@ -1,0 +1,4 @@
+22upgfuof7sa1jpint453kjchq0eiqcp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. MhMO6MiFCaNsQIafBRJ9czm5hgSWnOqS7i3WyKYAXLwVa5N1TFZ1FehT/GEqXFlg0MOEtpJqWQCtIot3xHy2s+VztSwW6tVeRu5nlUggL6XEai11Iy/YUtrPuHBXtl9CeM/3VGWNlciUIpb/oWoIBLz2TGCZXSrClozXpWkCVHU=
+22upgfuof7sa1jpint453kjchq0eiqcp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  235326rr28ngn6qg3g6ptck617657fht NS 
+brookfield-wi.gov.	86400	IN	NS	ns1.idl.com.
+brookfield-wi.gov.	86400	IN	NS	ns2.idl.com.

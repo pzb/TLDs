@@ -1,0 +1,9 @@
+medicaid.gov.	86400	IN	NS	a1-86.akam.net.
+medicaid.gov.	86400	IN	NS	a3-66.akam.net.
+medicaid.gov.	86400	IN	NS	a8-67.akam.net.
+medicaid.gov.	86400	IN	NS	a10-67.akam.net.
+medicaid.gov.	86400	IN	NS	a13-64.akam.net.
+medicaid.gov.	86400	IN	NS	a24-65.akam.net.
+medicaid.gov.	3600	IN	DS	57261 7 1 5291a504d817a4f99b1dfa0ffda79d4cd47f8382
+medicaid.gov.	3600	IN	DS	57261 7 2 91c378b46af0a4db9e0f0eb44d8d6510905d3591a72a09d6c74ec47d870f287f
+medicaid.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. xBvCizGPLZwj4d12y4wVKLy/TqIqAtJNr1s+zyKh+nZfuOtCyNOROvPjwE9+XNsN7fihhebehrTA45fbMtQZfcoQvZdyyC98EVNJMlwNHVPXead0Oxg1eUYZxJ+EgRMS6kDwen99vCrMrWgYcWnndGIBKz+2+Y4cGj+Swv7XCp0=

@@ -1,0 +1,6 @@
+bedfordtx.gov.	86400	IN	NS	ns1.p16.dynect.net.
+bedfordtx.gov.	86400	IN	NS	ns2.p16.dynect.net.
+bedfordtx.gov.	86400	IN	NS	ns3.p16.dynect.net.
+bedfordtx.gov.	86400	IN	NS	ns4.p16.dynect.net.
+lhvdvk0l1d6v9mpr3r4a6kph7b69cisr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. grvbKLeX+mx4FvQM7bGx4VHU7s97qEw/14v82y4GPX6Diap/Nu7tHJkwxLpaqqTBTyeSw9Bx2PEEd/+/rQoHy53lTmT4kf0IbYNFrnFD0lE8kuXalM0psk/n1/OOfQxkOajQ7ZXtgR9lEgzX27f0CCMuzIyRflaZCGMljAwCMAU=
+lhvdvk0l1d6v9mpr3r4a6kph7b69cisr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  li6calr29ld8rkj0kaf8lfbse36ftku7 NS 

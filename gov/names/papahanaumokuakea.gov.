@@ -1,0 +1,12 @@
+ns-e.noaa.gov.	86400	IN	A	140.90.33.237
+ns-e.noaa.gov.	86400	IN	AAAA	2610:20:8000:8c00::237
+ns-mw.noaa.gov.	86400	IN	A	140.172.17.237
+ns-mw.noaa.gov.	86400	IN	AAAA	2610:20:8800:8c00::237
+ns-nw.noaa.gov.	86400	IN	A	161.55.32.2
+ns-nw.noaa.gov.	86400	IN	AAAA	2610:20:8c00:8c00::2
+papahanaumokuakea.gov.	86400	IN	NS	ns-e.noaa.gov.
+papahanaumokuakea.gov.	86400	IN	NS	ns-mw.noaa.gov.
+papahanaumokuakea.gov.	86400	IN	NS	ns-nw.noaa.gov.
+papahanaumokuakea.gov.	3600	IN	DS	16066 5 1 fdccdddd53772b68a43c06f3a53ee31d98d63351
+papahanaumokuakea.gov.	3600	IN	DS	16066 5 2 55dd497246f52e161f8229da69cf362e85e240fe6ab4cdbcb2e0a19829cf880c
+papahanaumokuakea.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. GcycoqJ90Sai2L+O168/eSApblbC6K9dnf4oNvFdoTEoeSb6LdkM8aM9W+LI7OUJJsV7BOBzcxopHDSTJnSyH5BZxULLycsc3KKngDufzGe9BjjKMXlIo5yRS+e0JGp3JvQY5JewP9k51O0ecj48fT0mQVTWuTS6CdvFjAveSlk=

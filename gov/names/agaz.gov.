@@ -1,0 +1,6 @@
+agaz.gov.	86400	IN	NS	ns1.azag.gov.
+agaz.gov.	86400	IN	NS	ns2.azag.gov.
+ns1.azag.gov.	86400	IN	A	159.87.87.50
+ns2.azag.gov.	86400	IN	A	159.87.62.150
+ikq512u9vulqg5tm796c6tlbv2evo5ia.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. rNTm3z96s6c9eAFkQreb3f/tMc+gIXH0aRvz5Hyn0eXzbKAC1VIJPTZz7CREexg/K6mCSFrE8mempAlW5seZrQU2Z8q+U14gy7LVNe7DUawvWcSrGwlK3l+1bH/H7elnu2km5KJ7CxJHVAATv2fqCaxmFOTHvkoH7RbJjLVjEvA=
+ikq512u9vulqg5tm796c6tlbv2evo5ia.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  il2uc7au0jjhgkgb05kf5dsddf91vqlp NS 

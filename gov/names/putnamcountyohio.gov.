@@ -1,0 +1,4 @@
+p82kt56apl18qgtea6i8vikp18d0qprc.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. K0J+maLi957ziPMVFjFWGklilI7rAJibhFnoVO5YzUsHVZESmRSw46iZK0q2IE/CxMNBi8/qmN23T3H/Dtz1GbFhftrjIpdTftwED9Z8dy1zZWhm43n6BXHUSgkl36JPNcpohxBL3CmsENanaGswyZLiMwL264GEkm0CSMYQ24g=
+p82kt56apl18qgtea6i8vikp18d0qprc.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  p8q917acalmopoi9ugkeg1n5dmfg70l0 NS 
+putnamcountyohio.gov.	86400	IN	NS	primary.dns.bright.net.
+putnamcountyohio.gov.	86400	IN	NS	secondary.dns.bright.net.

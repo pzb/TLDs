@@ -1,0 +1,9 @@
+volunteer.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+volunteer.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+volunteer.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+volunteer.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+volunteer.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+volunteer.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+volunteer.gov.	3600	IN	DS	31264 7 1 d5c6224110818a5b4727e620925fa60ba011e4ab
+volunteer.gov.	3600	IN	DS	31264 7 2 fffd767e133a1dd13190670a483aae287c3d7e3235b25e478b4de0d9c108d52d
+volunteer.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. cbtf5u+79ddYKPt2lQebUQJucYQOVgwHnNcW3KC4mfh63nUBbzfg3OecYMGFHZH4PbOQRZ+08SiWQsxWMCfRE7V30Nk7wBUdZIPTo02spqnWsm1xt6dsocKomAHESarvzkM92s8pawKcc01vJgh11nDRl8oREoeKBOeu5q4akdo=

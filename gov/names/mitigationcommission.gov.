@@ -1,0 +1,9 @@
+mitigationcommission.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+mitigationcommission.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+mitigationcommission.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+mitigationcommission.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+mitigationcommission.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+mitigationcommission.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+mitigationcommission.gov.	3600	IN	DS	44890 8 1 f6c805c9854b84ae6cd8016de095a23357f4d2a2
+mitigationcommission.gov.	3600	IN	DS	44890 8 2 bb54486031d1a9f386fc20e31d4d9a58feaf8547ac5842d358d2716bb333be5b
+mitigationcommission.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. ICUVcJLBqvtsrKVAfx6vonIyk0rM+P5zfEXqRWcVR0hDxt3kLrPLmsfAEAcRbkkNwYzlt8v7zB+g6CcRvGK0f0bTRO0GBDQBx/YE0VPRSIuaiOuGRh89cqY+N3OxhOJ1bnZ/voEiF8D7YOnBYLJaUK25fevTBFO5y6H1jMgukh4=

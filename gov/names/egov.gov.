@@ -1,0 +1,8 @@
+egov.gov.	86400	IN	NS	zc.akam.net.
+egov.gov.	86400	IN	NS	use6.akam.net.
+egov.gov.	86400	IN	NS	usw1.akam.net.
+egov.gov.	86400	IN	NS	asia9.akam.net.
+egov.gov.	86400	IN	NS	ns1-145.akam.net.
+egov.gov.	86400	IN	NS	ns1-176.akam.net.
+egov.gov.	3600	IN	DS	41559 7 1 c5b44162f50ba8438275626f40e821d2255b1501
+egov.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. GVPqeTviTSd7cQlPloBiPQQTi2IUSuLU+wgn1wHT6UCYzUhxO0XAeHacX/mIQT7SgSLZGZDSHvwcDlsBEsRaZ1iNmo48rWi1+OS+KiE43JFK10lTkhTBlJOlCSNjTndoiygJoSmQf+s0O7SJ+M91sBhKyuJH43F5c7G8Tex/aqY=

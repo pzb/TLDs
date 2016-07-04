@@ -1,0 +1,6 @@
+fidi9gfo5si0otqdc7qdqtdtrfkj3mmq.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. E0o+9fZI633h6Slgy9mJoPYP3l6+klbG99mkR3Cr6GC42rDUU7J7MAJOZeJfwlYcZCBnxdEyt3fUifIXoAbCzkV7wFCVo430VYsaKEcD45HO1AM2nxHeHgrD1NiqO0fpS2zB6cyxF2sriMA7+oqwygtCbG+0l9wNHAr1IL6xX3Y=
+fidi9gfo5si0otqdc7qdqtdtrfkj3mmq.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fil4gvc4i8nc4sc0f16ti16cn2f9ulj3 NS 
+ns1.nc.gov.	86400	IN	A	149.168.11.11
+ns2.nc.gov.	86400	IN	A	149.168.138.11
+ncparks.gov.	86400	IN	NS	ns1.nc.gov.
+ncparks.gov.	86400	IN	NS	ns2.nc.gov.

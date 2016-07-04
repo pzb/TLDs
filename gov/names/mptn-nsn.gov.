@@ -1,0 +1,4 @@
+mptn-nsn.gov.	86400	IN	NS	ns1.mptn.org.
+mptn-nsn.gov.	86400	IN	NS	ns2.mptn.org.
+pg9fqd60gsftova9k4vplv84bn3cs3si.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. t3LVo7BShjtPU30bzaDSLBzynJCrVBKeHHnx7ybHZOFkxLsd/0BVyvKLE6bs8edNVpJ0dYaOjY7SvHdf2R9AhdgNHpNC3N6VwSLTJQIBcqMS+rLTMgMIvqAsuPA99nmGautToPTkx8inbWatTcxxTn481B5Kl1yXC/qY4Nf8UZw=
+pg9fqd60gsftova9k4vplv84bn3cs3si.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pgd5c3nbulpam54ed1fnajkjk45r7c4u NS 

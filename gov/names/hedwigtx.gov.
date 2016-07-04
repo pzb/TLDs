@@ -1,0 +1,4 @@
+hedwigtx.gov.	86400	IN	NS	ns1.mediatemple.net.
+hedwigtx.gov.	86400	IN	NS	ns2.mediatemple.net.
+n1vp6gs0pg1s97lvu6ut6nilfpsr9krv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Dz5PnP8zo4/M2fA/wF0qYZt3dRc41CQvKwx0XSAxdhXH2glKXxZasHoxP/GKDhmWFwRvWoYiC+iKgLO7rlsUr+XH3joG96kZffUzdoMhKwH+WGMqnuiReQXA10uTbhvFPP7FtZcSH2xw6yuxzWFrE2hAtcj3RU7f+BXAG/sjcz0=
+n1vp6gs0pg1s97lvu6ut6nilfpsr9krv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  n21l5b8s4bgucjo5gbg3lt3s69m0fs53 NS 

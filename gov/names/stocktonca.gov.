@@ -1,0 +1,4 @@
+5vghds6h3u9no820g7l70d7gri7gb3l1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. mnkWwepS0+1bK2XhZ+5t7wx0uOVOstQw+kvtQC2cBY5WwXYjaexDCE5zxaxmmwkdAE+KD8qpN4WNk+JVkM1NzUQO5/+AGT8oYfnGLAfsivp9TnvgalfwR8+dGBgd96FUpAdEAaW9y8KTBitrW9/81kFVJ4GwukquC/kTKU1AVUY=
+5vghds6h3u9no820g7l70d7gri7gb3l1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5vil1t093hirk8s8nq5esvip9lg62uj0 NS 
+stocktonca.gov.	86400	IN	NS	ns1.ci.stockton.ca.us.
+stocktonca.gov.	86400	IN	NS	ns2.ci.stockton.ca.us.

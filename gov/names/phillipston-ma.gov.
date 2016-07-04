@@ -1,0 +1,5 @@
+db79vv9pr1fbiqv6i9ahlq32bapvt05j.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. vD5ZyRyGeIUpSexNxpI44WL/KrALrmk78AI1RX57TwAUSlJ2+0/PSAHPuA07Oj0lRljuiQHqlUMuO9/koP3DPf3M/aXpdRUvRRyfu5ZaqaE5xf6ogyKFQppViKmD1A50Q539xwP9Z1IV9u8FxIH3HKeWTiQdv9pem78VHE0TmdU=
+db79vv9pr1fbiqv6i9ahlq32bapvt05j.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  dbb2atoic6dhe28oqgjdv0tsj7jpr93k NS 
+phillipston-ma.gov.	86400	IN	NS	ns1.infotech-maine.com.
+phillipston-ma.gov.	86400	IN	NS	ns2.infotech-maine.com.
+phillipston-ma.gov.	86400	IN	NS	ns3.infotech-maine.com.

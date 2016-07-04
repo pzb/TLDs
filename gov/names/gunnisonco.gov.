@@ -1,0 +1,4 @@
+gunnisonco.gov.	86400	IN	NS	pdns07.domaincontrol.com.
+gunnisonco.gov.	86400	IN	NS	pdns08.domaincontrol.com.
+qmloh6la5p9t3mm41hamucfpemb74uhh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. LNYQvFS1WC1brkIn70n06KiaH5A++fIk+PnKbZCmqx6thlvhL/3qf8yWhw9lXdy4kcskaOpJrmizrcCYe6bTT3EWfjAiXLkDgDZjpVY5PvG7h67Lm5PLm05H6JyZcPpOeDGH/R0HJNw4kEh0eNcj1pzxA2JMU5sR7p+o20hIwYU=
+qmloh6la5p9t3mm41hamucfpemb74uhh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qmubm821t0ia211h9ivtfdcflr0bhiqk NS 

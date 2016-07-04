@@ -1,0 +1,12 @@
+a1.fbi.gov.	86400	IN	A	209.112.113.33
+a1.fbi.gov.	86400	IN	AAAA	2001:500:7967::2:33
+a2.fbi.gov.	86400	IN	A	209.112.114.33
+a2.fbi.gov.	86400	IN	AAAA	2620:74:19::33
+a3.fbi.gov.	86400	IN	A	69.36.145.33
+a3.fbi.gov.	86400	IN	AAAA	2001:502:cbe4::33
+iprcenter.gov.	86400	IN	NS	a1.fbi.gov.
+iprcenter.gov.	86400	IN	NS	a2.fbi.gov.
+iprcenter.gov.	86400	IN	NS	a3.fbi.gov.
+iprcenter.gov.	3600	IN	DS	65244 8 1 f7cb790ab1b1de370bc2138a0a862042652b0041
+iprcenter.gov.	3600	IN	DS	65244 8 2 c4f06154d7aff449658e43b76745dcccda3490819ea0a8dce20388f33de7d462
+iprcenter.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. AiunVSXE4NQsnXYxqab011mn7gX3XUrtE+xaY3wnn5MjReMye5lHSR3rYmliVTiglzuN7vXdYv7ZMtbU7+bVWvxKjzcMWOosVAoM3ZB7GkTj+wsvZkp6s5QhW7egL2Kd10H5pfw2ZM/kLKkR6T3OLSu/Q4remo9LniqxWMIny+k=

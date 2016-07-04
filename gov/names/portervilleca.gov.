@@ -1,0 +1,6 @@
+05gp48sdd8mihes1akg5jgb0cnol5dkr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ojcciB8ZNtQiLqCd1UwP3JJoWfzNs5WUDVqu5C9Nj+IdzlK+W+lk0GKLhn/HNh0IBkUxPuXR0YGjcoDIdRIOP6OXao0Dk7H/g/BseR2S0Nb6N6wfttkeWA77QgDGtmxMm77jDP5otHhdK8euTNoBRSd+wZYWL2hRXc7HhSeRK9I=
+05gp48sdd8mihes1akg5jgb0cnol5dkr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  05h08mvme8rvs2qh27m9uvi7cftq0rhq NS 
+portervilleca.gov.	86400	IN	NS	ns-262.awsdns-32.com.
+portervilleca.gov.	86400	IN	NS	ns-609.awsdns-12.net.
+portervilleca.gov.	86400	IN	NS	ns-1178.awsdns-19.org.
+portervilleca.gov.	86400	IN	NS	ns-1985.awsdns-56.co.uk.

@@ -1,0 +1,4 @@
+aleknagikak.gov.	86400	IN	NS	ns1.afraid.org.
+aleknagikak.gov.	86400	IN	NS	ns2.afraid.org.
+uqgisii6vlfgrsqhcj3lv32lpuajgn9l.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. uTaS63Ys7VrboL3lzkp4FuzoPr0CR6P1ixEfkQ6g2Ezi8gOrEig+jzLXJwgLGnhn7UfqO2+3J4/vysFjs1IIRwwVYx+3Adw1cswqX0Nxr4ehkGWnnAgTz6tdRb+mR/kibaAUHY475i5nOWZ0axz218io2wS/+Mj01TlIo1k2sFI=
+uqgisii6vlfgrsqhcj3lv32lpuajgn9l.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  uqqks8blk8fmmreke7i1mh4qtv091coo NS 

@@ -1,0 +1,4 @@
+cityofhampton-ga.gov.	86400	IN	NS	ns0.dnsmadeeasy.com.
+cityofhampton-ga.gov.	86400	IN	NS	ns1.dnsmadeeasy.com.
+fqgd7cu17rgo713980g8q7sqoikn1674.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Y1JS2/hQDxTyuNm//DxyTkETzdnHh2NLFlceLz6dJH2v7wJrAAdmhHjU9Uh91nSmKsxfvz7uxPQ1Df8auL0KcdO2B3z4p8gYn45X3JfqdqP48K9e+E1dMxd4ppNiOqzIcPQA30irW02aPr84mgRAua7U7RYEHRgzmCQuty3uEcs=
+fqgd7cu17rgo713980g8q7sqoikn1674.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fqj4dcg4p6eldn0830nij3tmdc1vtnfn NS 

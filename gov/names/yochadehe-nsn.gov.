@@ -1,0 +1,4 @@
+37bq2t8cg2ien01071agk797368d61h1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. uxOBxX3Q7RzwWMZs0ZbuTnhlu8hhioKSP/hds+3pQIuo9hfyxcFsGFrdFMt/lNEVZnIuDKlEQbHCwu15GBKBRKlrpXSMjwPj+BklFzHI314MXQ7gRdwyQB+AghcXj8i58wypdJdCnCoBEj6Iyljc1SFcdvFHtNNts4osRdfKCIg=
+37bq2t8cg2ien01071agk797368d61h1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  37hlcuotpheh6dvkalij3p7malgchckd NS 
+yochadehe-nsn.gov.	86400	IN	NS	auth.dlls.pa.frontiernet.net.
+yochadehe-nsn.gov.	86400	IN	NS	auth.lkvl.mn.frontiernet.net.

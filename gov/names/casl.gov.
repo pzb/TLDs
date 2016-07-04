@@ -1,0 +1,9 @@
+casl.gov.	86400	IN	NS	ns0.ornl.gov.
+casl.gov.	86400	IN	NS	adns1.es.net.
+casl.gov.	86400	IN	NS	adns2.es.net.
+casl.gov.	86400	IN	NS	ns0-alt.ornl.gov.
+casl.gov.	3600	IN	DS	1205 7 1 969b91359575536f694c63a31278b64c240decf9
+casl.gov.	3600	IN	DS	1205 7 2 5a3b8d5dad7f45fa16cca0588d5119c5235a486b8f8cc1f7eee10da88c1f7ee2
+casl.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. obiF2P8G5z9h+qOU7gQXtal0dH/DwqPZgLpgeE5VSKB+c+8DBMCrPZVYGrLHwmjBPSkuGkyEN4qbTXEuq8i19ISVlcoBYvnt8d3EH58xHUM/ghy3Xrw7+9qFxNR+m2TyT19HAaOjrphDcSRpg7V/tYNscn0EAM7RrsIiklat+Oo=
+ns0.ornl.gov.	86400	IN	A	128.219.177.244
+ns0-alt.ornl.gov.	86400	IN	A	128.219.177.246

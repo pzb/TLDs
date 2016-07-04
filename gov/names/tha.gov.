@@ -1,0 +1,4 @@
+bnk67n4r5afsootflf7fusfo2n1t5qcn.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ACnyz3Grlb3Pc9YRaRXHi1XobD/7PaT911VdgKgdvJbrOlRLSQx1fs2/tzyiO2dLgqW7Ehk3DWux9GqQaoRm8M9cO4vivZ8EYZAWWiy5VYfSu6YrGmJ8A8MC7bFsTW/SdTaA+7w0BwIG9e8DfuOE0MvEEVzzjHYjn9xogBDxv/8=
+bnk67n4r5afsootflf7fusfo2n1t5qcn.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bo6rid0ee05tgl25vk6080o59ebmb99g NS 
+tha.gov.	86400	IN	NS	dns1.civicplus.com.
+tha.gov.	86400	IN	NS	dns2.civicplus.com.

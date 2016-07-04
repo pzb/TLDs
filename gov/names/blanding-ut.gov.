@@ -1,0 +1,4 @@
+blanding-ut.gov.	86400	IN	NS	ns1.sanjuanschools.org.
+blanding-ut.gov.	86400	IN	NS	ns2.sanjuanschools.org.
+ef5oie9h8ebj9hbagid0b72jpj50kp2n.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. AnnAHcQSYWjeeNZKM1W2wMvEwfUSjG76DC7BY1rRlF8dyTWt+sqe+NmUlRV+98aibKBnwH6tGL7X3HV3v09RiknA4iFxBtbnzlviCEPVQQLincbhMVcbVi42fJr6BLdrxYWgQtXYFuu/75DkI+jyCNROMbcDd+TQ8IfGAEoFUFM=
+ef5oie9h8ebj9hbagid0b72jpj50kp2n.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ef7kvrckvjotuev73ke5b0kqo0opamcv NS 

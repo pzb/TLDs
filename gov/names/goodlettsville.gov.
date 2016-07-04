@@ -1,0 +1,5 @@
+1r6gsauajnhb1ao8r60kd4dtmjd30ct6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. jtyTfW5RxLKDBm9nwmniIk3YHMHPYC3xIYnVWeJJhhCqtB0J4etXy33CyWWbuuM1HrpPvWhyyazEsY8nAw9/zwS2C0Icy0zAwHL2yHUI7gKuS90Wdary2RxW5SFsYGsY/wKkFc786uQd73JoR2WWSqUPogZM0Jt6SgZFQyBJo5U=
+1r6gsauajnhb1ao8r60kd4dtmjd30ct6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1rdl47i7bee8a4ll967ncbndjjg6e5hf NS 
+goodlettsville.gov.	86400	IN	NS	dns1.vc3.com.
+goodlettsville.gov.	86400	IN	NS	dns2.vc3.com.
+goodlettsville.gov.	86400	IN	NS	dns3.vc3.com.

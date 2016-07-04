@@ -1,0 +1,5 @@
+4ks7r9qlumbfsknks493hohvtqkckb5p.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. F0zk8iPqI1MHS9ESrUQd5Lky9PSA+8ZgUJ4f1zjpLnurvpytaCl1bROAIWRctBAg/S6ueB28y5qxxwwceIPSAyb7AOKAasN+WzFuBjHfZURljUtFMeQleM/fWn2jXWq4a9WJeu+ur82Zism1vVzYzqmwEn7KV5fp1zBxjW6/W6g=
+4ks7r9qlumbfsknks493hohvtqkckb5p.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4l3hijg8rpnqppgobl0h9c8df0voenlk NS 
+missouriinvestorprotection.gov.	86400	IN	NS	a1.verisigndns.com.
+missouriinvestorprotection.gov.	86400	IN	NS	a2.verisigndns.com.
+missouriinvestorprotection.gov.	86400	IN	NS	a3.verisigndns.com.

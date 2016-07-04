@@ -1,0 +1,6 @@
+vc9jlr9ki2o6p18top2nep52lup0inct.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. W4oySxtMXAkYSwu4Vb9lKLze4uDB0OBR+zXGXvicwbrQ2Q7uLpoXD6qV6Avx2Y7aR6fRjHBLvSjsXSdrRHpPTUvn/bskSlFU9y2zq9/icNw0JUckgJnhHIyyCW+8+r5uN093CaJP/sM39JHBucPyuy9HSS5++s3NNLA0y4MPfsM=
+vc9jlr9ki2o6p18top2nep52lup0inct.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vcq3abs5sfb91foct2u4ppt5lrp36c14 NS 
+wallawallawa.gov.	86400	IN	NS	ns-5.awsdns-00.com.
+wallawallawa.gov.	86400	IN	NS	ns-847.awsdns-41.net.
+wallawallawa.gov.	86400	IN	NS	ns-1180.awsdns-19.org.
+wallawallawa.gov.	86400	IN	NS	ns-1955.awsdns-52.co.uk.

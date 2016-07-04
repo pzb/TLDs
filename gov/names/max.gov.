@@ -1,0 +1,10 @@
+max.gov.	86400	IN	NS	usc4.akam.net.
+max.gov.	86400	IN	NS	usc5.akam.net.
+max.gov.	86400	IN	NS	use1.akam.net.
+max.gov.	86400	IN	NS	use3.akam.net.
+max.gov.	86400	IN	NS	usw1.akam.net.
+max.gov.	86400	IN	NS	usw2.akam.net.
+max.gov.	86400	IN	NS	ns1-27.akam.net.
+max.gov.	86400	IN	NS	ns1-29.akam.net.
+max.gov.	3600	IN	DS	49668 7 1 19c42411d9656ea22a914ea3e355a24ff63e9125
+max.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. jKCqvw4k7R/1S/+mGQxCFSjQrgdC4CpuaCKSckXKR2sjka9VEgjXrFEM0OfAOOw63vY2HG1X8BThNvD8sy23T/k8kpKJYiSKqFLhoGzIjub9djdO0hFVNT1YUVDYzgFLSMpWcPAgL6Q1B5dSDvmcQPg3zWIpngkWbMktGlpycQM=

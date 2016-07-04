@@ -1,0 +1,4 @@
+905rufpsfik7jp8dlu21ubihrrnei9k4.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wDGGQJoF6kTgbU0BJJ07utrVL2IFK94TWY2Lzf47mWrvtu74In1q0OHBaFadyRajLiNzzjoE1BOsQX870sqRoR0VqQnpJHDzXbvbbxJdZp701+J3d4y3H2Vd7wz2XgM2PTCxRouqdC1LZrId329K4KymvduYEfMOISTAeto9Pnc=
+905rufpsfik7jp8dlu21ubihrrnei9k4.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  90fqval4gj99he0ji038ptspvjib1an9 NS 
+cityofsanteeca.gov.	86400	IN	NS	ns1.cox-sd.net.
+cityofsanteeca.gov.	86400	IN	NS	ns2.cox-sd.net.

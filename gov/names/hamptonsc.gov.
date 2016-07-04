@@ -1,0 +1,4 @@
+hamptonsc.gov.	86400	IN	NS	dns1.vc3.com.
+hamptonsc.gov.	86400	IN	NS	dns2.vc3.com.
+v5l4ldcp5dcq9614euui9b5e0058njts.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. enSk74+2CNUZuxpWvlBg8OOy2h8z60kebnJNVj3iPQ8R0bzAad1fh3Q42Efn/KLcBmauWttoDmmcMKIK73madu5/cpc4RAtTylG5Nw1NEgokDO9bhcYu7YybEbN2re1h5P/LBe0dxfUlKtQ62xHd1AJnwwIx1VxKUZnreE1mGv4=
+v5l4ldcp5dcq9614euui9b5e0058njts.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  v5m0u5htht7klsd63dqenj0h1o9vh76r NS 

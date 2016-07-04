@@ -1,0 +1,4 @@
+5l5t2aka1apruci08ms9vtf5bb9hkvcs.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. rEIMnXk770aJwbFbshy92COi7gjH0yvU5YQEML6dVD7RgLaxwuboHUAeYvpl88lafNrChzoz1950rfvW1gdpFeFoTrOWi6+eDDR0nxtji/26n3/L1HS799F73QRCR1JPMDuFAqScSofQKFB2ldu5CgqOIdpT2XcRxBt8N2d3IsI=
+5l5t2aka1apruci08ms9vtf5bb9hkvcs.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  5l87ue6h8ffjsccmrbdfvj2sr5cp7tgm NS 
+cityoffargo-nd.gov.	86400	IN	NS	ns3.ndnic.com.
+cityoffargo-nd.gov.	86400	IN	NS	ns3.state.nd.us.

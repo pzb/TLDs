@@ -1,0 +1,5 @@
+robodeidentidad.gov.	86400	IN	NS	dns1.lmbps.com.
+robodeidentidad.gov.	86400	IN	NS	dns2.lmbps.com.
+robodeidentidad.gov.	3600	IN	DS	27154 8 1 b740f7daa5341f902bd76f47832ac297f98001e0
+robodeidentidad.gov.	3600	IN	DS	27154 8 2 b3fdca2e358d0867823b7258fc5a434cd1609b28d4e294b8892256d828dc0cd2
+robodeidentidad.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. kZHqU8q8o1ng7iFuT38IO4UuS8PMRko41sjeuKFRQIsFL/baoQCI0NdTu/hrGfzAJQhtM7e+wmpXYL7b4RfRVJBTXpwCLCeOEpswK6i0ZkX9Mxeg8ueLlCs7kebXmyd1193pV8/tKuJqulBkrGo0YPQgxh107IRAxrHMpXH5hr4=

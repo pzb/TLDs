@@ -1,0 +1,4 @@
+fortluptonco.gov.	86400	IN	NS	ns31.domaincontrol.com.
+fortluptonco.gov.	86400	IN	NS	ns32.domaincontrol.com.
+t0sh2vn16gutqpa3rdfl45qmcmdnl19n.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. FG8GSkoay3VdFEHhJtBmPBJptpmCg1eA+OKhALHwLIVbmB5/1z8qHuVHwBfP3/QXFpSqg5JyPa3a1gappl4AwcZBkHPW+XpIbQiuWnH6wdw965AfsHpEP7d/SWxboc+OC5r/Nt3BXxxrXDznUcFPkcZDaDuZmNCZ5RHrH+Ujw7k=
+t0sh2vn16gutqpa3rdfl45qmcmdnl19n.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  t13665oa48o3rtl0qkmubomhnm9rdtat NS 

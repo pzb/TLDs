@@ -1,0 +1,4 @@
+ak2slung7aeccif4t0uq2aqhah40fnmd.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. G+sMRXSvqVmFJOE8/JIj1d6Cv6ZQkh35qm4xMc0+g0IzXfnHB7P7kHJPQErHFa/pjehOuYIMbGZSMc6Qm/YlCiyJbz7YhxyRqb/ptaUoWlvVBCUMjVU0/gxTodHyDtXVl9jVSYHafH6i7OqytDvO2np2hnfCDXo9aYyDX20Oyeg=
+ak2slung7aeccif4t0uq2aqhah40fnmd.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  akafrpiuru8uh2946cb5npv36tegcjfb NS 
+collincountytexas.gov.	86400	IN	NS	cbru.br.ns.els-gms.att.net.
+collincountytexas.gov.	86400	IN	NS	cmtu.mt.ns.els-gms.att.net.

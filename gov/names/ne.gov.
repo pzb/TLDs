@@ -1,0 +1,4 @@
+9mboluvemdil0lo2c5hkvrdchtuctecs.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. jAXAa1nsKSN3Z2ODncs9dLv7eXOz2/RCS4n5R/JdSJE/FJY++atYwnMWwozUfoDUTYvzbxw7EYG1CATumSyAlO6WnmG4mPkEEyrfdWHYp8H6EsgfdBnxyrIR2COS/0c4hRKkcM5tRrG77Gage510cMpOddf0O2qwmpwX6TvNznU=
+9mboluvemdil0lo2c5hkvrdchtuctecs.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9me27nu4shdcpmfsffcam2t34unnolmq NS 
+ne.gov.	86400	IN	NS	dns1.doc.state.ne.us.
+ne.gov.	86400	IN	NS	dns2.doc.state.ne.us.

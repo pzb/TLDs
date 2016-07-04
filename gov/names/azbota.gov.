@@ -1,0 +1,6 @@
+azbota.gov.	86400	IN	NS	ns-16.awsdns-02.com.
+azbota.gov.	86400	IN	NS	ns-715.awsdns-25.net.
+azbota.gov.	86400	IN	NS	ns-1508.awsdns-60.org.
+azbota.gov.	86400	IN	NS	ns-1867.awsdns-41.co.uk.
+iab635v8rf1c0hvna4bi8i475jrkr6ho.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. B0Tbuf9vtFypcru4/wm8Ac+go9jlgSqVvSaAnhfMABPhxZRFr0QbLqNf1jPIdC3hsQT/cFRVnmrFYkB6oQan+hUxQrAH/Cs5O+hlD3f11wF9xSPIsly1nd8ahw3hDXOnQBg7YrYixYAMVskMHx3WaC3rTYFj4+BdHroavrWj2As=
+iab635v8rf1c0hvna4bi8i475jrkr6ho.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  iab63hk5309to5vi9s1r1upjvsj52ucs NS 

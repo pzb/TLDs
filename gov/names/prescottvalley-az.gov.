@@ -1,0 +1,4 @@
+99m4qr6u07fo52ncnkuehvreb1l65rgb.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. M67IglgmyNMqzV4NkQ0oYucHi18oyYvZVbopG0wuAoLB5djN6OHZOzaCfYJWTi+8YM6RXsqpLoqil+q/o186qdU9XEmOe/YQujc8AWSCLUbkqGHLuzdmHIXdwMzURE7mQwnYmwFtxmeJy6ID4tL03aFFDFi1jhRU19UbBwq/z2A=
+99m4qr6u07fo52ncnkuehvreb1l65rgb.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  99u86le6u63rr27svp4t623bjvvaqo6o NS 
+prescottvalley-az.gov.	86400	IN	NS	authns1.qwest.net.
+prescottvalley-az.gov.	86400	IN	NS	authns2.qwest.net.

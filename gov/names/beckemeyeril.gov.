@@ -1,0 +1,4 @@
+9c0dg72is2bnrgfpukmlofefhr8md5lo.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. aNUNSLiVUDRaBwaWg1M9OwTKLcQzfFeNg1yHV4VGyDHnRiYB0jEnPchK0lVNuOHhk8+4BCaY9Z/zsaCZeZX4QaLOzysZunSJl+C5U7VBrQB2Twd/gDvg/MIBte1s+MrqXFJFeJF0SUHoOjvkoEsdCSLPMr1HV6h3hc8fwgD63bU=
+9c0dg72is2bnrgfpukmlofefhr8md5lo.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  9c1rm8khq8fsdcvglqgslmrph4ledtoo NS 
+beckemeyeril.gov.	86400	IN	NS	ns1.ezeeweb.com.
+beckemeyeril.gov.	86400	IN	NS	ns2.ezeeweb.com.

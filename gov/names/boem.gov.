@@ -1,0 +1,9 @@
+boem.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+boem.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+boem.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+boem.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+boem.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+boem.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+boem.gov.	3600	IN	DS	15244 8 1 03951b6f4a56b36787b4aaa080bc9f99a8bcd2b0
+boem.gov.	3600	IN	DS	15244 8 2 b7102159a5a0557e0c0db715958591e2b5470034d2bc8cccca2a38b8e0a67b10
+boem.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. GXIUOqKegFuc947lyREfpU4NvwJGvSQDZu7ZBVpMCOMmj4Knmu+tGkejdwO3oIjgjqJTViWSHW7SD/yd1dY2luNvZ1aH01tAmJ3DQi+OX8gDW959rpMo5Ps6xFhYXTLe3s+6kgNe1rApJlbAiZnyihVy8F01K8KxAxR1p6ZTSxA=

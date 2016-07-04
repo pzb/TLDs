@@ -1,0 +1,4 @@
+hannibal-mo.gov.	86400	IN	NS	mns01.domaincontrol.com.
+hannibal-mo.gov.	86400	IN	NS	mns02.domaincontrol.com.
+npu1koh6m4gmo3nnljniu3vlr6q8b4p5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. IRQNlBurXhM+U9iVrAlEg370/1MRCEYnsa8UyMQUJpS4G7M5XaWiUsVf4oDkZvmX3ukk1nro0rX27tJEjimZQcNNed49pdlONKmRq+DCM/kCcG97Ul5wzp1PHna+alI8cgAtuaY7H4/QIkX/Ptnc3igkJDSsn3x34zJKtoe/lIA=
+npu1koh6m4gmo3nnljniu3vlr6q8b4p5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  npv0o18s2cbcuotsoish68hh4ico74jc NS 

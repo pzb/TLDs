@@ -1,0 +1,10 @@
+bu07jnttjklku3qcgkv7ma2fe9u4c4k7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. A4QNosH1EMfoDpMECaRkWUy4U9CQcjJI2A3ND0IfKx1cWG+nozZCyhc5fMmuHY9+5BYSxrxOCLNlyvHvMU7e4YCSPa/aTABnkNpjR0bVAPzJppgODsHh3KgiD4FimB32hWRnRMfTSbioku2/DneFIIBJJQiVVGaTQFtBumBKStM=
+bu07jnttjklku3qcgkv7ma2fe9u4c4k7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bu9pupor7nbidgcfhv2861voi5v9kn2s NS 
+hawaii.gov.	86400	IN	NS	dns1.hawaii.edu.
+hawaii.gov.	86400	IN	NS	dns2.hawaii.edu.
+hawaii.gov.	86400	IN	NS	hee1.icsd.hawaii.gov.
+hawaii.gov.	86400	IN	NS	hee2.icsd.hawaii.gov.
+hawaii.gov.	86400	IN	NS	hee3.hawaii.gov.
+hee3.hawaii.gov.	86400	IN	A	54.200.186.119
+hee1.icsd.hawaii.gov.	86400	IN	A	132.160.216.4
+hee2.icsd.hawaii.gov.	86400	IN	A	132.160.216.22

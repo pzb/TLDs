@@ -1,0 +1,5 @@
+195q8dlv43n2csuo528a0rnsvc7bqlai.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. U6IGkz+qYaLXGdUhcecd/QeMGImPCHLr/jydYuc1eC9KRJEhJu9SqreuR3uo51V8HW4vOMepsEhev5tA3FbSa7+FhO/X3fHD/CyJZBwdNdkeJvQ6/fLLbmWChI5B+j+GqN1IusJqwvSlN6PoVuXd9JwHHIpuNViWhZrZQkIHeTo=
+195q8dlv43n2csuo528a0rnsvc7bqlai.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1966se1p0ng0a8dhauvf8j7pdchciccn NS 
+ncbar.gov.	86400	IN	NS	ns1.biz.rr.com.
+ncbar.gov.	86400	IN	NS	ns2.biz.rr.com.
+ncbar.gov.	86400	IN	NS	dns4.rr.com.

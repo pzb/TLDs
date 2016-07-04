@@ -1,0 +1,15 @@
+fsd.gov.	86400	IN	NS	dns.gsa.gov.
+fsd.gov.	86400	IN	NS	dns2.gsa.gov.
+fsd.gov.	86400	IN	NS	dns3.gsa.gov.
+fsd.gov.	86400	IN	NS	dns4.gsa.gov.
+fsd.gov.	86400	IN	NS	dns5.gsa.gov.
+fsd.gov.	3600	IN	DS	14581 8 1 4b1fe6d2d636bf3992c0f56e2f3ddc38ec0fbb01
+fsd.gov.	3600	IN	DS	14581 8 2 3e167858bb0ce09e03367cc9bc1dc27959a73a5be3b9504f22a36ca95d75c209
+fsd.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. tWbyRkB3I2/FWOAbgWqciUo2LY0CM/jGQjSuJOCrME2zzKM+x6obyrD1l+q5qz7l5qpt/wbp8+TR+faR7O4PyLw1mfJL8AaxFzN6kQ+BuQ59xbVy0BDsqhY4GaYXqR9sXwYsvsqdSb4vZPxnJFb+Nj7HNn/dVmi+/OFwgcF8Uhs=
+dns.gsa.gov.	86400	IN	A	159.142.136.198
+dns.gsa.gov.	86400	IN	AAAA	2620:0:150:280f::5
+dns2.gsa.gov.	86400	IN	A	159.142.150.68
+dns3.gsa.gov.	86400	IN	A	52.203.230.235
+dns4.gsa.gov.	86400	IN	A	159.142.69.84
+dns4.gsa.gov.	86400	IN	AAAA	2620:0:150:4013::5
+dns5.gsa.gov.	86400	IN	A	159.142.45.20

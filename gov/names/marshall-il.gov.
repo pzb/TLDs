@@ -1,0 +1,6 @@
+iv0op84tv5o82fhs39hikj36sj0oltl7.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. iwPSKAmx1EawWl7KmrOCOzLEiJK9SAGbBUgivg/ovasOWBn1BqamEvMdW02kKipOllecDTv64inmkMiOcFs2JlPcTjmPKfhNpEUvvAfb11Hnp3/rnP+J3chRgMRWiRrs2lL0MmK4V58bbjJtZawaZdk3E+Np22fr1Z1zJMrSrU0=
+iv0op84tv5o82fhs39hikj36sj0oltl7.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  iv0sfs0mgrm98hqou5bvcs6mfhms2vq2 NS 
+marshall-il.gov.	86400	IN	NS	ns-167.awsdns-20.com.
+marshall-il.gov.	86400	IN	NS	ns-663.awsdns-18.net.
+marshall-il.gov.	86400	IN	NS	ns-1198.awsdns-21.org.
+marshall-il.gov.	86400	IN	NS	ns-1951.awsdns-51.co.uk.

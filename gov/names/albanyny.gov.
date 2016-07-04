@@ -1,0 +1,5 @@
+albanyny.gov.	86400	IN	NS	dns1.easydns.com.
+albanyny.gov.	86400	IN	NS	dns2.easydns.net.
+albanyny.gov.	86400	IN	NS	dns3.easydns.org.
+u8efp1it66d21k9j8phipqotq0rit378.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. n9/5WPyVHCZ/+pTTHLJQqEq2JC4j+8drmCMaZF6olbwLFDD2WOvLlha2i2WMx/4A2+l523bNWpoF5grfAUml4mDVh/UmKee/t3TN0NXFCq13zfkg/Hxmg4r8tQ+XObqYSd5IvgMcNRbMm8fZo2bM8hT810lkJ/cUIBBQMROdcFY=
+u8efp1it66d21k9j8phipqotq0rit378.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  u90q5q0q1be1mfspfhhqpe2rkuc0qhtr NS 

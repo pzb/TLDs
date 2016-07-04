@@ -1,0 +1,4 @@
+024d6s4mnbc61mqha5c0qeopb920scl9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. bCtOztyZzRH9ItOY1ZrYBlhqvGuwhbdfsMKBC3lkNgTJGRaWRAz+weqJKucoA7GnmmI/6D1I3r8+ivrgMVr16EaxEDXbSfXOHy0/8SsXc++cWoSchUNMBO1BlyWBSQmH4nmZdZ7NqHjuGZdLcW1YdMD7fB6ME3Y9QyCmn3Q2jDg=
+024d6s4mnbc61mqha5c0qeopb920scl9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  0260rhnd9me3idudbacb8c9eu1hbpe2d NS 
+tolland-ma.gov.	86400	IN	NS	ns1.infotech-maine.com.
+tolland-ma.gov.	86400	IN	NS	ns2.infotech-maine.com.

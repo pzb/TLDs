@@ -1,0 +1,4 @@
+hinsdalecounty-co.gov.	86400	IN	NS	ns6.centurytel.net.
+hinsdalecounty-co.gov.	86400	IN	NS	ns7.centurytel.net.
+ta0fsagbp87tiff9cm5b46ocnpb53guh.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. aEPwXB2AkYtrFVGcJ+jZF9rBzw7Q+Tiy8KOYjaMmvVCNk77fXvs8LtupR7fK1ZApe2tO/R/RrL8ubTbP0by7mrP1YZI1EyrMPWisQr5C5v3NHNcIrZb3buQrjAOycO+Q3QDqPLmk7oLd1U1uXsqzXB3ePHpNwPV5Cr41H2jKQOA=
+ta0fsagbp87tiff9cm5b46ocnpb53guh.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  tb1skttrqk2e8qnnhr770t04hiodabrl NS 

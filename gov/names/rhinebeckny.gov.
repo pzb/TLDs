@@ -1,0 +1,4 @@
+ra9gc8531e3nsq62v6ovinoi45ha4do9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Vhvkjbp5RgIH7DzuDyDYqRgYCZpn9pneeDnANFSMb51D7P10pbfdN19dkm3Sx+ekPCiHqU8YhB85ii0Hp0TBYRYunacRgNwACp8IbCDKz7/VZKRiu91EbyVo1mrjqdiIK5EIOUCHo7G4oBQoPZaSxBuOI31LU3LS0IfP0MAVPlw=
+ra9gc8531e3nsq62v6ovinoi45ha4do9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  rapvr5emnepi1c532sn0eo3blf09i3e0 NS 
+rhinebeckny.gov.	86400	IN	NS	ns47.domaincontrol.com.
+rhinebeckny.gov.	86400	IN	NS	ns48.domaincontrol.com.

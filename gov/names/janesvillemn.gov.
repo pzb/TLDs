@@ -1,0 +1,4 @@
+bhou68cqf9pmno7ffnlgrtvm15vr9qai.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. AcWOUD/lvoom62lFoeALQ96mUlubqkf++eIxxugGj+S+zPNpty+9Zz1KoCoRhmcPNIgjSUP0o1Z7GoEsAebr0+X/6EIedQ3uVciAKZs4tH7MA49+sMFKKpbKrupvEc+U8WHT0Gp1HG/+x9aVUhhk2173G7mMpueO9SPO86B0eIo=
+bhou68cqf9pmno7ffnlgrtvm15vr9qai.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bhq3t6p5dl2s1pss2tjugd5s3u0ssbbl NS 
+janesvillemn.gov.	86400	IN	NS	ns1.avenet.net.
+janesvillemn.gov.	86400	IN	NS	ns2.avenet.net.

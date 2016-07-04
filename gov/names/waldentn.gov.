@@ -1,0 +1,4 @@
+ct12hani26r8qkqb7dbbufh7b9vsptir.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. IrnHgh5+lXY5IX1u3Bm2tvlKm71QZIx+JKexK4g1HhaB/NyTnMsctFXv/uQyjemMKkWIXE+9P5CDQJxXvrhdsYQJ0/PW2ZP2EFj6RyeaTWIr2Ug7N378sqms/vctoHUdmo3LSkGIywjopAVDbqd0wEgcfYj/5Nk46WfgrHRxQ/8=
+ct12hani26r8qkqb7dbbufh7b9vsptir.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ctf3k2fmme72s5um7klds2atf0lcn86r NS 
+waldentn.gov.	86400	IN	NS	ns1.epbinternet.net.
+waldentn.gov.	86400	IN	NS	ns2.epbinternet.net.

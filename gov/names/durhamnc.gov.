@@ -1,0 +1,6 @@
+8auofcj5kombk6hmv9p0rg955flac325.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. vktlvaJGG0iWt23f+2rGwlUsI5kPkFU8Eh4sE9FxLkxg4BFol3BfAtt43hPpxUbHrecEM4JnCa0RCZTmy+4QLUFbyNc20jtQR4x4C9+mS1U8kPORM++3zIqg8tqa9scrEfYo0KYfpk4KESLhE61V0aj6KMImJBAyujSL9l7RKls=
+8auofcj5kombk6hmv9p0rg955flac325.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8bhcgcihkffh32v8e544tbh0k6hl1pjt NS 
+durhamnc.gov.	86400	IN	NS	ns1.durhamnc.gov.
+durhamnc.gov.	86400	IN	NS	ns2.durhamnc.gov.
+ns1.durhamnc.gov.	86400	IN	A	66.195.223.214
+ns2.durhamnc.gov.	86400	IN	A	74.219.16.122

@@ -1,0 +1,4 @@
+4q7o1fmklqj8mbb5j44mg17aop2mt84d.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. VQaHsveQ72ZsPYCbsM1DiZa5RcnmbX3k1W83RLz1dMtnJL/r7vihKAAP8cc99SL/dcKt0mceEPNj+yAwHREhmJ5jvcmoxZNhbua6kVB2+FcrS/FZHv1XxuuUkNjOM8s1LkP/nVBTYc2gGWUIAUOPKWzPEeS5koTFEsEoYTiCP8c=
+4q7o1fmklqj8mbb5j44mg17aop2mt84d.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4qbb5uflqobpchh8qhfr9e4btoje4qo6 NS 
+demopolisal.gov.	86400	IN	NS	ns2.cl.bellsouth.net.
+demopolisal.gov.	86400	IN	NS	patton.westal.net.

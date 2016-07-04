@@ -1,0 +1,5 @@
+avon-ma.gov.	86400	IN	NS	ns1.infotech-maine.com.
+avon-ma.gov.	86400	IN	NS	ns2.infotech-maine.com.
+avon-ma.gov.	86400	IN	NS	ns3.infotech-maine.com.
+inrs2sgcu3f10ple91go5f7c3s5n6j1r.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. wmaFyQQRe3DCjJoJAmZrNnuhh0wqii8Afk+F+p3Oip0BtEKyMZRvWCXXxUAie0KhpuCOkNxOhV2WF36k8D9W697tx7mfl2j5hs/I7pd6lm79Qzt9tKX41vXYw6jrU/2s+vz+AilEKgUbOlV2lMZ47zqkl1SOnH7D+V1/busDQmM=
+inrs2sgcu3f10ple91go5f7c3s5n6j1r.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  io4ue2btr27h1gmbhjmgkvnthgg700ce NS 

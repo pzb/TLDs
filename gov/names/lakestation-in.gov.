@@ -1,0 +1,4 @@
+lakestation-in.gov.	86400	IN	NS	ns1.smdgnwi.com.
+lakestation-in.gov.	86400	IN	NS	ns2.smdgnwi.com.
+ldr1hkk6imn78bvjn7t6pdd99g1ku1i1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. n+NbY99V9bSWC43zObeqNvvTWFkBEHqNVCAm3LRENgfYz1uy4gYw2VEfpbKm4D2hXdbUcOtf9IFePGzzZoV3Ws1Yt/eqzjWhf/eaWYyzmqoVeuglZhlOmKYzL3w25L8xdfDjOmzwvJnj43/vrnWrLWu+l2SfR8I4zJsK5OY5tZc=
+ldr1hkk6imn78bvjn7t6pdd99g1ku1i1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ledhfapvnh91mcd99aeil4ec2b5pdsok NS 

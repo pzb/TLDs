@@ -1,0 +1,4 @@
+2iqt5irmosrpat0gj79bbocolsjpdfd3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. pWHZNxJjBSjblUMF0sUZi3lLuGYXH2rNCgUXV64jRD+xQ463RACiu2xP0iutcdcRZTMxmHohETIWiK7LI7A53mGJ2UjKYolJ3U79f/CBA04BFJKxACIADrTJMqjrnFXpswO3qGOFJQUzzE6hhRyJNIGWyKMMKgOdZYXcjtXFyx0=
+2iqt5irmosrpat0gj79bbocolsjpdfd3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  2j2h3m72dbkhvoq2f5sjj48kl0v7uktv NS 
+belen-nm.gov.	86400	IN	NS	ns1.swcp.com.
+belen-nm.gov.	86400	IN	NS	kitsune.swcp.com.

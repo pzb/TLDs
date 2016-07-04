@@ -1,0 +1,4 @@
+gee7pst28cim1p27q4p48d369oit7qm8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. tM1vCkbz07F1SsVOm57wowu07+Ls5yJQCOAKJ/+ZwGRPMmkU3PzKiBiX5ejFp8qWYFHqhJzq2SwEO6BtSQG3jFGJ1DloB0lrrBLkowXfXLl12U6ZIDfo6+CPf7FJ7NMZ/mnK7IbwPgYupD3Ov4eiAH3sc0zRi8CpvfYjFT2cF/Q=
+gee7pst28cim1p27q4p48d369oit7qm8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  gef12o2iiimjosq4egbo3f5pl67ejhpv NS 
+virginiacapital.gov.	86400	IN	NS	dit1.state.va.us.
+virginiacapital.gov.	86400	IN	NS	dit3.state.va.us.

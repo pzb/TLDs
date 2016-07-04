@@ -1,0 +1,6 @@
+ns2.alacourt.gov.	86400	IN	A	72.159.229.134
+ns3.alacourt.gov.	86400	IN	A	72.159.229.132
+safehomealabama.gov.	86400	IN	NS	ns2.alacourt.gov.
+safehomealabama.gov.	86400	IN	NS	ns3.alacourt.gov.
+su0kvqejj6cqanddfutpac8s4n0jih4h.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. BPQ2Gp9aZeD4Eku8kOXpHaloOL60WpGluZwo/jAO6BQjfmYTQjEFxHFn9IMkgRwG39pqQ8yzKdQCedP+JyftrmLRfPgiFnCU7ehLw6OE287yjmX3e3V2IDctTjFlSmXUzy4OOsY4h1HbTibUM6AaqABsmMT34qx2S2RaZeAUZNk=
+su0kvqejj6cqanddfutpac8s4n0jih4h.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  su1l3bbrpb2baul2prt2q643dgo7jea7 NS 

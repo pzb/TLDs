@@ -1,0 +1,4 @@
+ftn1tb0i3oqdf4bsr27b0oaevii7gpsd.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. mJMstVRXeUBCwYflJxo1BXLFw/S3hmnys+5+HeGOvk2DenCJCSS5I7rGwc14fwk2m59INeD1m+Zupe+WLCRNexGzQb05B3p9a+jBBPnr2JhL19VQS5S1boOxLNHqdhMxL9GttLXZ4fVSCvwgcGx2WTD6artdC99naqs1sYKxmSk=
+ftn1tb0i3oqdf4bsr27b0oaevii7gpsd.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ftqf4vqi5f1d00filhl4shofode3ghsd NS 
+howardcountyin.gov.	86400	IN	NS	freedns1.registrar-servers.com.
+howardcountyin.gov.	86400	IN	NS	freedns2.registrar-servers.com.

@@ -1,0 +1,4 @@
+azguard.gov.	86400	IN	NS	ns1.coxmail.com.
+azguard.gov.	86400	IN	NS	ns2.coxmail.com.
+v0ogco7tqan5vn2n6p36gg1m4fp8d9ip.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Qqn0/VCXEnKtezwZ/mNa0ROvWKQXVEInGvY1gl/keRaq6JShwUKyw5A/kst/bl+OhpM/SW14G2RPtMKRiabHLkRuqZDFjh4vQcAZWc2fRVUTRFXBNJQ0XsrRi8fHfCp4HegMitkBq1+ABoi/HZCwgNUBAOB9w8NodmOB05470AQ=
+v0ogco7tqan5vn2n6p36gg1m4fp8d9ip.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  v0orgh3v3ii185kkn44rt1nhq22aiab9 NS 

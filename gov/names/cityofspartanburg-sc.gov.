@@ -1,0 +1,6 @@
+cityofspartanburg-sc.gov.	86400	IN	NS	ns1.mydomain.com.
+cityofspartanburg-sc.gov.	86400	IN	NS	ns2.mydomain.com.
+cityofspartanburg-sc.gov.	86400	IN	NS	ns3.mydomain.com.
+cityofspartanburg-sc.gov.	86400	IN	NS	ns4.mydomain.com.
+o60jji931k1na9o7dhqs0mgjhhrq7vp0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. BZivVt/5+SQAouGiTufAVufIZZiMd0gtK1VCWccd81it0rtbWdmuS+5PPk37n/VXM/p+/qFQ6gq5lHRwW/z1K9NY0E31D8AemGBa6r6Oc+Q0in06feQufwUTUmyVEZDOPwrdEBdrv2uH2dXU8YT5Zx/dtILIbINMVOePbttLgts=
+o60jji931k1na9o7dhqs0mgjhhrq7vp0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  o69teais1lvvmtn7vovu56k3nimuqndv NS 

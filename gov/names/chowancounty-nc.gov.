@@ -1,0 +1,4 @@
+chowancounty-nc.gov.	86400	IN	NS	ns1.avenet.net.
+chowancounty-nc.gov.	86400	IN	NS	ns2.avenet.net.
+gokj1j8k027tp30nsf49ikmmfjqiolav.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. s65qlmWewdfp+8V5uuHX5Oid02uXI02fwqxS0Osl95TOSXgMDZXtwL8nbci5Rx3NSts+lUgZaE2aYWlyGMBpRrVXXUFIGiABeHfOArq56tWoq96Wsmj4cwBloyBk2KI0RwkLgb1L21ZvTPsDjGxEKrlKG/39AP3RH0lGnIPx2fM=
+gokj1j8k027tp30nsf49ikmmfjqiolav.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  goo9sj6ggi7bfg4f8uaar7gjg2dmvo9v NS 

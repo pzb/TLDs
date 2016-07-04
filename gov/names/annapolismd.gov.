@@ -1,0 +1,8 @@
+ns1.annapolis.gov.	86400	IN	A	96.244.10.90
+ns2.annapolis.gov.	86400	IN	A	96.244.10.85
+ns3.annapolis.gov.	86400	IN	A	66.95.49.214
+annapolismd.gov.	86400	IN	NS	ns1.annapolis.gov.
+annapolismd.gov.	86400	IN	NS	ns2.annapolis.gov.
+annapolismd.gov.	86400	IN	NS	ns3.annapolis.gov.
+b4obej6ohaegfuio4pu04p3qh55g7tm3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. lp9fmIADIcW0i2RNXKQFGbkBMWzV1han8W57WKfcV1hnP4dmv0nDk9NMykTntLqgaN6KxBintJmHFobjLHJWMlIK+muqm4i5JgUaIgkpq09aXmVC44Id2uh4+F9NVwKbWn3d7cyjux1MRcAao8RWqnev1ovndSNl2MVRJ4W+ATk=
+b4obej6ohaegfuio4pu04p3qh55g7tm3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  b4taur5l66ubmpseod34psqb859kh1m2 NS 

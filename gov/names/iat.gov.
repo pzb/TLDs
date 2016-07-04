@@ -1,0 +1,9 @@
+iat.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+iat.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+iat.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+iat.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+iat.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+iat.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+iat.gov.	3600	IN	DS	35085 7 1 8a2bda062036351b1b9ed86cfff3128a03e16e7b
+iat.gov.	3600	IN	DS	35085 7 2 13f3eca2fde7d5cfe72f6ef43088e010a33897c5dbb245ea3e1fa718197c167d
+iat.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. b1YMQq4d3jognOjWe/xG1BhcOGqTgX3q8AtVuWgHSLkiervUqqbzitYUMLwvLk2OnCUNVF+BfXdl8rmjwlbnNWQepTJo/rjE4SErsAK8YINW3gbA1PzN4TQ5STtReRcOghpjiXa1Jv9ZXwIOEeKOObfrehYHz9o1TRLqI/ZNpkc=

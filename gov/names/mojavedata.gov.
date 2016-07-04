@@ -1,0 +1,4 @@
+mojavedata.gov.	86400	IN	NS	u17811545.onlinehome-server.com.
+mojavedata.gov.	86400	IN	NS	s563497320.onlinehome.us.
+mojavedata.gov.	3600	IN	DS	8391 8 2 a569ae5128563e090ab21ccfe7d252cfb0f1d0d9e8bf87106d5e7cd98dbf6b90
+mojavedata.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. fnTUqqxuRvP35TwnRobwENSycyl/K0/hEYF5dJkIxLMjz9cVB+VJSvYuu5p5HrjNCtbLSRI5uZZHg/jpXuW2pnXKg9ssQ2HrY+fHLEgCa41Mg1HeGjirkct0vvMdRnA8yrx3rvfMYV0FMJNwGISXGCR7n3JsXiuuIPnVcCdZ3o4=

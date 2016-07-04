@@ -1,0 +1,7 @@
+chesterfield.gov.	86400	IN	NS	dns.chesterfield.gov.
+chesterfield.gov.	86400	IN	NS	ns1-auth.sprintlink.net.
+chesterfield.gov.	86400	IN	NS	ns2-auth.sprintlink.net.
+chesterfield.gov.	86400	IN	NS	ns3-auth.sprintlink.net.
+dns.chesterfield.gov.	86400	IN	A	198.101.7.153
+q0s6m4ugsfeok91cejv87vivrqngvtn2.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. bV7gscM0a3paTbHnd1NYXQ4fJWx0H/Y2sEyOwJrIcWpyji1wkpvd6azML0ra2DA6TlDuW2m0PepYdWAXF15s65TfYuW89xjfded+V5oLDPtPvA1LzfhnBfXqoEbQSfJAc1xX8EsQUW8Ckf1w70Tzl6vNUmYP0ECXg9tbvW22vbs=
+q0s6m4ugsfeok91cejv87vivrqngvtn2.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  q115cvrscgni6vhjjem3vjhb451u00hp NS 

@@ -1,0 +1,4 @@
+pf9b4tc56lhp3qv2veg6ip60vnr2cpfi.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. gDNlqdjyxvSaPMH3DjJQErEUJNP3lWwFU/8Kev8MgUnOJGA3hkid0VWeH0Mw18iqdWDMiwZewRmSIrSLEhCUyyt1++4pO8O8jI5wUoM4UYOYkKSY5Tz/NDey30kqeB24ZA0tE79AlBvufyfi/LDcak6X7Rm1kZdQXlyWVqzrGMI=
+pf9b4tc56lhp3qv2veg6ip60vnr2cpfi.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  pfausp02vm7fprvcelgln5r60pusfp87 NS 
+ritzville-wa.gov.	86400	IN	NS	ns0.cet.com.
+ritzville-wa.gov.	86400	IN	NS	ns1.cet.com.

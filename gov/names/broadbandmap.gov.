@@ -1,0 +1,9 @@
+broadbandmap.gov.	86400	IN	NS	a7-67.akam.net.
+broadbandmap.gov.	86400	IN	NS	a1-166.akam.net.
+broadbandmap.gov.	86400	IN	NS	a13-67.akam.net.
+broadbandmap.gov.	86400	IN	NS	a20-64.akam.net.
+broadbandmap.gov.	86400	IN	NS	a22-65.akam.net.
+broadbandmap.gov.	86400	IN	NS	a24-66.akam.net.
+broadbandmap.gov.	3600	IN	DS	46426 8 1 fe632e454b63ee7daa5814808107e798944fc116
+broadbandmap.gov.	3600	IN	DS	46426 8 2 eca8c186f4eda5efb1d54d99ec6696fcea583486966295025534da72056f3992
+broadbandmap.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. awALPt3qp6R/0sl+6EMVH6yYUxgnKqFFeJedAM/8UshpWm7vzgLDt+IDoywBxD5AlMXONQnHxd81KseovM31VcZTABs8i9ZCLV7hgh6R9cwF2eewOc4GNUvlPR3aa5PUqghNGp1Py3kbd9IORtZ1Sh1U++xwhMx9fxMRs6vjbsQ=

@@ -1,0 +1,15 @@
+dns.gsa.gov.	86400	IN	A	159.142.136.198
+dns.gsa.gov.	86400	IN	AAAA	2620:0:150:280f::5
+dns2.gsa.gov.	86400	IN	A	159.142.150.68
+dns3.gsa.gov.	86400	IN	A	52.203.230.235
+dns4.gsa.gov.	86400	IN	A	159.142.69.84
+dns4.gsa.gov.	86400	IN	AAAA	2620:0:150:4013::5
+dns5.gsa.gov.	86400	IN	A	159.142.45.20
+gsaauctions.gov.	86400	IN	NS	dns.gsa.gov.
+gsaauctions.gov.	86400	IN	NS	dns2.gsa.gov.
+gsaauctions.gov.	86400	IN	NS	dns3.gsa.gov.
+gsaauctions.gov.	86400	IN	NS	dns4.gsa.gov.
+gsaauctions.gov.	86400	IN	NS	dns5.gsa.gov.
+gsaauctions.gov.	3600	IN	DS	17797 8 1 08ebff52f83e5a86c7a54bc8583df851e13bc892
+gsaauctions.gov.	3600	IN	DS	17797 8 2 66441c105f312b8018cae3350996f0b0cf899c3f4048b16bcc869b4a385452cf
+gsaauctions.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. CV/FDQv0YH38tuArHKdChL7MtHL9dV+orhS9n73+YHb3U6L9I6GiVXh8DzvZ3e0w+I4OiZht0zs2QqHnGdX0wjepODGIdpiySfHAduiqntuCFP0Aa0pMyxEoI8wC875SMEA6EwQu9AqaXArKoRNR062giuG5O1SFs/Hbki1Ro+0=

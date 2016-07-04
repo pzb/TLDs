@@ -1,0 +1,7 @@
+daubmvarpqoa7nbim1oivia7veoqjisl.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Y1S4rG2Q+jpqdSpUr5ZIOdA99vuP72QeUYPwFAbwIa1NEgVWlA+XiN7FxzoHEI4DbarH88hoGJ/lU5HeEX3p7HQUTQfP46nxJgzslgk/hkLK1u32j0/qx52t53SZz/uky634c2PqhzKjPcSfqfzCe6gbmW4wBrRrXCfb78djgLY=
+daubmvarpqoa7nbim1oivia7veoqjisl.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  db4f0gttjipnrf49tc8a343uhm14u0aa NS 
+edmondswa.gov.	86400	IN	NS	dns1.edmonds.wa.us.
+edmondswa.gov.	86400	IN	NS	dns2.edmonds.wa.us.
+edmondswa.gov.	86400	IN	NS	dns3.edmondswa.gov.
+edmondswa.gov.	86400	IN	NS	primary-dns.edmonds.wa.us.
+dns3.edmondswa.gov.	86400	IN	A	74.112.48.13

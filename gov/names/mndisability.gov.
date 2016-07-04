@@ -1,0 +1,4 @@
+gg6voudrneb8cod561bvhv9c7ql5gv2u.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. UxFb02IevwG0KHBGx26WBfaVHnNThMEYf/G+uCrPOFFfzRgS4QgH9c6KZC+kzVpMpm5a/wr3G2Ogtf+h4TICiXMwpJcNgGpdJUcPSZFmH41vk5m/Bi7iuGXuh99B3q0Vy/Rqb2+ZTiNUVmG8LseynPSZbhR9vPrQXAu9SSw16M8=
+gg6voudrneb8cod561bvhv9c7ql5gv2u.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  gg75ps834alltdr0kqegfgc2l8aldda4 NS 
+mndisability.gov.	86400	IN	NS	ns1.state.mn.us.
+mndisability.gov.	86400	IN	NS	ns2.state.mn.us.

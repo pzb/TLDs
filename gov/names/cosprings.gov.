@@ -1,0 +1,6 @@
+bru127rkaqgnkauus5meq083snnr4trt.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. KrJCVi3f4Nt8KLD1Wg8v+u1/kL426y20BBzEzd+6xMStArxVAV+2G5rKkeVKqriOoUGmlkI1kWAyMM3qISkbL9NS8sNaaj7HeJiiA0oGTTYjkHIz+E3hFtLfhWH8J+uVWhIIzKjejZ1eyN5f8AmKHyoLdM2HGIOcoonG8wzhJMI=
+bru127rkaqgnkauus5meq083snnr4trt.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bs4q79qccaueaqegqre62lcf40ikummt NS 
+cosprings.gov.	86400	IN	NS	ns1.p05.dynect.net.
+cosprings.gov.	86400	IN	NS	ns2.p05.dynect.net.
+cosprings.gov.	86400	IN	NS	ns3.p05.dynect.net.
+cosprings.gov.	86400	IN	NS	ns4.p05.dynect.net.

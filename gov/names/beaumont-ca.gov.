@@ -1,0 +1,4 @@
+beaumont-ca.gov.	86400	IN	NS	ns1.tasotech.com.
+beaumont-ca.gov.	86400	IN	NS	ns2.tasotech.com.
+h1cgclc96r3q0grvokos4mflf283v3ra.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ketiiZJkLvMnBvP5UVucglG/kqKHtfU3e3jXp/TlZ/ySkCkTdzVz8aAvhELWdUhjaZ4UWyrSPHJh//7vJDlqkVugvwos4euPEZEaKZxJpqgHJxQZl+2Z8IzorJXc4rfoVrUv4A8VTeYbxEqnLz3uQvTocWt33iI0F+URNVRpYJA=
+h1cgclc96r3q0grvokos4mflf283v3ra.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  h1e8tgmlihsd0ddqut47n2l01q93hi4a NS 

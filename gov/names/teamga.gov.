@@ -1,0 +1,6 @@
+6if2dflu22gjap7plb0en1mtvm77588d.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. oEDn1gecRPC4f6EWR7G/khJ7Sz1hEKqFGG8PXJC5ifttNtfD5UVB+DEql73ksLbWt/hqVXrXRydUo4TpD21sV+5XZaXVZadrnzFypCd3O4+ejiGblrS2nmLVpfkpTUIjrTV8khDNf+hhpGP1HCH9RmrTAUgE8hTAKNewFLGb7jA=
+6if2dflu22gjap7plb0en1mtvm77588d.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6ij4qvi126e5opqu9jue79kiaimrgm30 NS 
+teamga.gov.	86400	IN	NS	ns1.cloudns.net.
+teamga.gov.	86400	IN	NS	ns2.cloudns.net.
+teamga.gov.	86400	IN	NS	ns3.cloudns.net.
+teamga.gov.	86400	IN	NS	ns4.cloudns.net.

@@ -1,0 +1,4 @@
+ndqolbpuihgmt742roulheltpnk3dqmb.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. UDYrlB2s3tTh1PyEoy0BrktyWBWN39sS2gx8UqM6Cz5yuoaqjNvTfCRhK4UgwTC3AuVz3qD+iEUjiyUbFIeLO614TmpHRzwttzi85VjPB/bBXVEKxot6VCiK8DCAXhAW5/NcvyYRYpb0Jnl40R7PQt1x56+j5Gm0sVfmeXZkRbU=
+ndqolbpuihgmt742roulheltpnk3dqmb.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ndv7qeqateri31ra6e11j2mi7n6rc304 NS 
+nevadaguard.gov.	86400	IN	NS	ns1.tierra.net.
+nevadaguard.gov.	86400	IN	NS	ns2.tierra.net.

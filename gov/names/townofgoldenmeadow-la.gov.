@@ -1,0 +1,4 @@
+lgus03nrfvvacch2amackkn2eijslvjv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Jqg4fjKlnMsVXepD3NVJrZh2xNcfRvLQeZ01NLg6C7C2QJGV35ZPeZ7bvnB6Jiz1S2jM/6+DMejzMDcnehMlIKifUGyIRvxs8/u5hh3C0Xt4INZJmJ+EVcSY1+zLHMY4uLVBy77bi4ptl20BIL+NFO+gkjevgiWqYOZ3/lr6/fo=
+lgus03nrfvvacch2amackkn2eijslvjv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  lh2253f9ul6lmgfet34st8h315csskjb NS 
+townofgoldenmeadow-la.gov.	86400	IN	NS	ns1.fatcow.com.
+townofgoldenmeadow-la.gov.	86400	IN	NS	ns2.fatcow.com.

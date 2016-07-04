@@ -1,0 +1,8 @@
+opm.gov.	86400	IN	NS	a1-12.akam.net.
+opm.gov.	86400	IN	NS	a5-67.akam.net.
+opm.gov.	86400	IN	NS	a11-67.akam.net.
+opm.gov.	86400	IN	NS	a14-64.akam.net.
+opm.gov.	86400	IN	NS	a18-65.akam.net.
+opm.gov.	86400	IN	NS	a20-66.akam.net.
+opm.gov.	3600	IN	DS	42364 8 1 bc87cee42ba5894e4b3aece87e2983903b508a23
+opm.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. mZn8T7laulFuB85uJmAUMKZhfJZx4HtzfjEmUYr34OhMTIaLQSJ2xrPlDVXGL2hmwxo1BsEhLIRdXe7LgVVHxWBeaDHkWg8TC9GniU4CLgK5OYq0L2p1hLxr0MuPRLMzUD+xN0NOECW8jwUFha6o5o+shlNt8fl21MEpFAmKG3A=

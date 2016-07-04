@@ -1,0 +1,9 @@
+wlci.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+wlci.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+wlci.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+wlci.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+wlci.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+wlci.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+wlci.gov.	3600	IN	DS	50624 8 1 b75eba838ab72952d8d8c37fce128761d28d3182
+wlci.gov.	3600	IN	DS	50624 8 2 4b7e73b0f09f2dad365feae1823d475c2d59800718b4a05c8e9f8da4e7684330
+wlci.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. dg46sfaU5TK2XN5eVXxAHgtmVayAH+gh1M02bL497O/nPQYFadfu1mfwoz3MffGqvGlNDwmJA/FfiSvGEgiNkoY3k6OpbTqepSgDvkO8o8BkHox0c64dAODhmG80qFO1Rypk3DQuHZrODGltEip18F0eQday0/A7vwDBjBgapqs=

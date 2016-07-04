@@ -1,0 +1,6 @@
+framinghamma.gov.	86400	IN	NS	auth1.dns.rcn.net.
+framinghamma.gov.	86400	IN	NS	auth2.dns.rcn.net.
+framinghamma.gov.	86400	IN	NS	auth3.dns.rcn.net.
+framinghamma.gov.	86400	IN	NS	auth4.dns.rcn.net.
+ggdrpmtlgkndruefdul6ob1r9ktcu5ig.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. kxwJHEzcfE0zRFcgKVDkVkDE+Okt030ThVqKrZjjJpN5jxfgsaXzwEpkQDd9bRB/cyGGszSL8tR4o+K6rQyL3tOsN76iDEG+nU4IpCNDI6vT+ZbjnRW4Kvywp+5ABJuqWUAFGR90LIrFQbdqOm0lVEA25gQXeiFLVDzd3H0dhuA=
+ggdrpmtlgkndruefdul6ob1r9ktcu5ig.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  gghi5lnke96a9gseufp0hje9048jqmpd NS 

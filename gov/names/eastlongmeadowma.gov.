@@ -1,0 +1,4 @@
+eastlongmeadowma.gov.	86400	IN	NS	pdns03.domaincontrol.com.
+eastlongmeadowma.gov.	86400	IN	NS	pdns04.domaincontrol.com.
+ietaibscjqkbhbdil11jc5vqqa4j51a0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. QSQQCyiT0ivz2B/JWGPrJFKYQsExt1rm5W9MuXYRSTAKfIsdi/n3ujYcrfZmgRe6Woq4rT6uSfARAjbLe88CsvBMaTYYMbwd1mCr9b+nODHD/OZh1irYUyo7IJoYNp0bZm+Z9FhLTCWLTPr8vX8O+wMTkNiGqJgnfs2vRoOLhWM=
+ietaibscjqkbhbdil11jc5vqqa4j51a0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ievskajm75rkkj0n69rd85vekr33r25g NS 

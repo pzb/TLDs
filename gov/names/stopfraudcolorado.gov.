@@ -1,0 +1,4 @@
+p1oagnc250tcv18msbip4erlsp2q2hsr.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. TmKp9LTCLXcMDoYoiujgoI8wGGdmTRND/bJ5/10rvvkEwipPySlYQR1KudkqQWuK86idGhb9wprheW9cCdzhwM+Eesbhbz2PenLg/TnuYyRqV+VD8L+0i19xDThAyaVhhdpNVdtOpVaTGlQdoG5k87Nh9JOHOVA3T0nk8DnENAk=
+p1oagnc250tcv18msbip4erlsp2q2hsr.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  p1r6oedmc20lul026brjt87fuc1r53ak NS 
+stopfraudcolorado.gov.	86400	IN	NS	ns1.cpanel04.frii.com.
+stopfraudcolorado.gov.	86400	IN	NS	ns2.cpanel04.frii.com.

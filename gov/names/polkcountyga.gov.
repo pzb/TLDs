@@ -1,0 +1,4 @@
+polkcountyga.gov.	86400	IN	NS	ns1.ipower.com.
+polkcountyga.gov.	86400	IN	NS	ns2.ipower.com.
+qh9fb5tdtmqr9kai8pt00d8s12ek45g6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. OFgamsfOyLWO6UUD1Jr5+3/R1adc87oJ3gRsZ9gvOlbC/KaJA91+HMJ2+ZofczN7gBdTokYGcqELE4GQ7UGMyQUZVB6NgZCCX1S0m1sY8W4IHcauW9fXLtW0V+S9aYmL1lIAUyWbZGPYqdfdzG6DsUi7Ej1fXlfbN06bo94mEIg=
+qh9fb5tdtmqr9kai8pt00d8s12ek45g6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  qheqj8g62hhg05i4sg06llpq2fnkof71 NS 

@@ -1,0 +1,5 @@
+8i5nshap8bs9lbdga9l1pvujnupp0hni.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. dfwZoH/g9LJHmKo9K7ay4nT8oRVENY2hpCl5WNw2IHY2QaaegExeGb3QqmLBe8r+DXtAnHVtKlqdhpyZ42U3DLeKWvTW/oA9L+Fx7pYK7XiaAADc19vHbw9NrEGFumJbHg+OiQj09FMAAhzL+3gph8YYQuRr9K9b1pnkpb6KZQk=
+8i5nshap8bs9lbdga9l1pvujnupp0hni.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  8i85h90pdg2udc8kttaq30mb8i4gafp4 NS 
+townofoysterbay-ny.gov.	86400	IN	NS	ns1.longislandfiber.com.
+townofoysterbay-ny.gov.	86400	IN	NS	ns2.longislandfiber.net.
+townofoysterbay-ny.gov.	86400	IN	NS	ns3.longislandfiber.org.

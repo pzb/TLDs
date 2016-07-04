@@ -1,0 +1,4 @@
+glenwoodspringsco.gov.	86400	IN	NS	ns1.gscbn.com.
+glenwoodspringsco.gov.	86400	IN	NS	ns2.gscbn.com.
+i6296u65c2q28docqmvihcreni3o2n7r.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. NE9nBLjmomQQTbBPwfgUZNST/gVeCne3MTNDFhNbqV5YbRRrccAsq5bA1hXCu4ZlrzJrLmxBggolzJJ8n69++HMPs1jDNyXxaC+bp3k41H15Mdasqx6EwJBLHtORjbj01VkjPnrsJVnYvqQ4m2ohPYy6JL4j9nCNhE9Oj3xKJRw=
+i6296u65c2q28docqmvihcreni3o2n7r.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  i6tj8iqfiu6b4g6a4qadr4pgjifnt29l NS 

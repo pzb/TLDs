@@ -1,0 +1,4 @@
+hinnse221qoslelmlllt99jjlnrjv0ua.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ZhUmtOkNRjhz0OV+4nFgavCp3xmoF7k8NV4k0eaARbYfA5LT8bDk0LA+TTU3IPCM6CYzjlJuc9VhTcbrUJ3Thdu4nOP4HiXSzhi0zZNpMpP8jVdff/n70qRNg9rulH72rYRc08VyJkCslBtdYxm9152IXnE69iwbZTkAxCohMZc=
+hinnse221qoslelmlllt99jjlnrjv0ua.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  hiv73kttipi5kl9ohrje107t3lfv0rqo NS 
+utahtrust.gov.	86400	IN	NS	pdns01.domaincontrol.com.
+utahtrust.gov.	86400	IN	NS	pdns02.domaincontrol.com.

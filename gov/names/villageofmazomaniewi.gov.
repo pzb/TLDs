@@ -1,0 +1,4 @@
+lsqjn97trkd68vsghra1jmkt5ts0qdu3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. h4GRMXnJnF6jpicTzUupDlZTS3DUJxAk3dkEgx4aEtmpRIOaKN0BA8WyKkTzZgLuFLPivO+ZVbMY5kePgKFETx7OTqzu/kviw5Fbm1jCizhQBlogSfKUoussxv8t8qT07XFgi6acFFOwh+V4b6UiiXcgo/D1uFd1jtO75rBSUgE=
+lsqjn97trkd68vsghra1jmkt5ts0qdu3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  lste4hsmkcuemcd548kmo903g9p9evs1 NS 
+villageofmazomaniewi.gov.	86400	IN	NS	ns73.domaincontrol.com.
+villageofmazomaniewi.gov.	86400	IN	NS	ns74.domaincontrol.com.

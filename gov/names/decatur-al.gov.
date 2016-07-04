@@ -1,0 +1,4 @@
+69tgmg5gg6i3ba96td7km5l64veeh8jt.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. ef13U9hE9xTuYETvzYpdMd9DaLQmFKsyXBOfn06PZQtw372gqI8VPcHH+As5Svkth44rwKDN1DLmvzLLYU5HSpK3ilz7wks7SfMGlm+yjgQpAsfnyNzpz/cZzw3k9w3Sa/pgwM+G7XTVrDL8TefJRQOZm+F7gK1T0NB0c+vVJys=
+69tgmg5gg6i3ba96td7km5l64veeh8jt.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  6a8tt5sdguj9t2vd7136eo73l428rt5q NS 
+decatur-al.gov.	86400	IN	NS	auth0.ns.charter.net.
+decatur-al.gov.	86400	IN	NS	auth1.ns.charter.net.

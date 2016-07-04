@@ -1,0 +1,9 @@
+bolton-ma.gov.	86400	IN	NS	a4.nstld.com.
+bolton-ma.gov.	86400	IN	NS	f4.nstld.com.
+bolton-ma.gov.	86400	IN	NS	g4.nstld.com.
+bolton-ma.gov.	86400	IN	NS	h4.nstld.com.
+bolton-ma.gov.	86400	IN	NS	j4.nstld.com.
+bolton-ma.gov.	86400	IN	NS	k4.nstld.com.
+bolton-ma.gov.	3600	IN	DS	5130 8 1 f2809ca0dbd595df52d44be5e999b880df21f564
+bolton-ma.gov.	3600	IN	DS	5130 8 2 f4222de48d54795d22b8e6235550838d8b5f34034b1351160798a981a61e9618
+bolton-ma.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. PK4OrSd7V3xb/BgOyCIbRP4am+py0yfdUl5CYgFHfQO0nEsHQ3z9zmBdlTYORYq0pCt8f/G9sRlfNz6+UY/T+RtE/3nKpubQWBDNlSoHOOp5xkD+vBy/oUOksBFamqvTvkIqIJcjzRXQH8aCuidcYSJHpyqQ77GHm0gLuf9rC/4=

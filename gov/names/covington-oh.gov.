@@ -1,0 +1,5 @@
+covington-oh.gov.	86400	IN	NS	dns1.bizserver.net.
+covington-oh.gov.	86400	IN	NS	dns2.bizserver.net.
+covington-oh.gov.	86400	IN	NS	dns3.bizserver.net.
+n30vfrof87pqeevrssqgsdhvg4l27b0s.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. KBuF7ZYErm5t8Li3xmRIKGibuGx/uBT0nivKz++ZzXBMZtp6Jb7xG3PRaqa2Xrlfoym7j3CY087h2F3iXkv6FodZsEPcrVNqmS0m32BBgA9xJ73M8cKZhZkTfGInVjnvmVgR+dSX8uTDPXxDhYg5W+vutPX2AFbCmEr8EqEXuUs=
+n30vfrof87pqeevrssqgsdhvg4l27b0s.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  n32gopu1k0qps4v9ktj2jpg4au0a7f39 NS 

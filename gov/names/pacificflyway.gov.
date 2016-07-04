@@ -1,0 +1,8 @@
+ns5.net.ca.gov.	86400	IN	A	134.186.254.247
+ns6.net.ca.gov.	86400	IN	A	158.96.0.249
+ns7.net.ca.gov.	86400	IN	A	165.235.254.249
+pacificflyway.gov.	86400	IN	NS	ns5.net.ca.gov.
+pacificflyway.gov.	86400	IN	NS	ns6.net.ca.gov.
+pacificflyway.gov.	86400	IN	NS	ns7.net.ca.gov.
+s940h6fannpuaio60ltp8kijbba0d5vj.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. G05ysxHKz70MOo0H48s9sSPSZz0L7kMD3lvalGd55im1sHt7atEkxHF/zCxz7+AzEOKNuJLGEFjBYicw2EZoqOfroVTbNp+UPaY0ZXY1FF6FD8ROy/gsHvCXoa0DgM1rMwUZ/LfWbEvdEFQm2rWu1soFCYO+Ykrms6UodtAVpz4=
+s940h6fannpuaio60ltp8kijbba0d5vj.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  s95t494q594np23683cbs05369udvd3j NS 

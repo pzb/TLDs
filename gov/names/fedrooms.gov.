@@ -1,0 +1,15 @@
+fedrooms.gov.	86400	IN	NS	dns.gsa.gov.
+fedrooms.gov.	86400	IN	NS	dns2.gsa.gov.
+fedrooms.gov.	86400	IN	NS	dns3.gsa.gov.
+fedrooms.gov.	86400	IN	NS	dns4.gsa.gov.
+fedrooms.gov.	86400	IN	NS	dns5.gsa.gov.
+fedrooms.gov.	3600	IN	DS	57524 8 1 87d12165ecfc229847e68446182461c67a3bc570
+fedrooms.gov.	3600	IN	DS	57524 8 2 1c0a70b030d48c8ab6a75dc0bb494f03f79dba67594f3b5c595008479a2d35ae
+fedrooms.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. yGwjbkYSHg7Njx9rbUOBflo3DE8FOE+2vk+lQMR1UPIl9rVATAeIxqieKZdhaypOvLxcb/8Y2r5Jqnuyz40TeqM9i0dPX2E9Ec1BKjLOctiIV+oclzz+dXvDBhheY8d/kUhbEZM3xW7EonBmWAjgjb1AUYh9xZrjnHnwfMTEP7o=
+dns.gsa.gov.	86400	IN	A	159.142.136.198
+dns.gsa.gov.	86400	IN	AAAA	2620:0:150:280f::5
+dns2.gsa.gov.	86400	IN	A	159.142.150.68
+dns3.gsa.gov.	86400	IN	A	52.203.230.235
+dns4.gsa.gov.	86400	IN	A	159.142.69.84
+dns4.gsa.gov.	86400	IN	AAAA	2620:0:150:4013::5
+dns5.gsa.gov.	86400	IN	A	159.142.45.20

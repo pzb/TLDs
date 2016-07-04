@@ -1,0 +1,9 @@
+mimedicare.gov.	86400	IN	NS	a1-86.akam.net.
+mimedicare.gov.	86400	IN	NS	a3-66.akam.net.
+mimedicare.gov.	86400	IN	NS	a8-67.akam.net.
+mimedicare.gov.	86400	IN	NS	a10-67.akam.net.
+mimedicare.gov.	86400	IN	NS	a13-64.akam.net.
+mimedicare.gov.	86400	IN	NS	a24-65.akam.net.
+mimedicare.gov.	3600	IN	DS	1146 7 1 9396c4159fc3777a3cca7f1da6fd45fb5779855c
+mimedicare.gov.	3600	IN	DS	1146 7 2 1eb071bc67f8db4fa5f1e28c7fa1d806cba45a99f16b2977e7ea99273fe75f9c
+mimedicare.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. FkgLVnus/zaTeTTnkfqYZR2mLWHkYPJUmojNNVRq7uHn0EfiBZ1FppSfjhLIBUT5cgZwK07z1oS7ykDouP5GcAIsBuVBiaIaGOjmu2jTAhkdwGcDtsfXjYDK5GMHXExEJZCh6zYTh7wUaB/FZuTF6mhkAgUA0eJ712/+X8xpJ7o=

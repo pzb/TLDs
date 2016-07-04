@@ -1,0 +1,4 @@
+augustamaine.gov.	86400	IN	NS	nameo.unet.maine.edu.
+augustamaine.gov.	86400	IN	NS	namep.unet.maine.edu.
+m27t57bt60j0mbp0d1fm9hn229n8hcf8.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. JVtgeIOzuyKR/G3TtUPEucHKyEulj31GR+HhjFk8AvDbJhuAXEAierJtQueg0zZL44X0aO0rjD1S1BW9O2aTqBNwTKE+KiosO/eBjTPO6hEbaTe9f/NdmCWdmwTeYfXekPRudebuASy7Tjfl4b5VjPpbPvOePYaNXNRxwvqDbns=
+m27t57bt60j0mbp0d1fm9hn229n8hcf8.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  m28gdsquhqo01vn5fg7v5k6ljcufmtct NS 

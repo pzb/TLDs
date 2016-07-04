@@ -1,0 +1,4 @@
+iowacourts.gov.	86400	IN	NS	ns.state.ia.us.
+iowacourts.gov.	86400	IN	NS	dns1.icn.state.ia.us.
+oveseuudrgapdkh22uo1im95bblrdcr3.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. S+h07zkd/0cba3OJdsp238FbTrqPM1PgBvJLewmLMQsPVtNBZ4cA48rIKIPhDSlTRbVN3lCW9bKkZzqCmXUQ5Yz4xd1y+dvxBId04n9LnTlau2bBhE0fePAZccK0xSGiznyd8JQ0MZaSH5D3bbqljz8Vwhj90yQa732fPl+9Sds=
+oveseuudrgapdkh22uo1im95bblrdcr3.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ovf41t48dff5eqncrfb40sgl27perljt NS 

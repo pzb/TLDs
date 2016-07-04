@@ -1,0 +1,5 @@
+grantforkil.gov.	86400	IN	NS	ns1.agtelco.com.
+grantforkil.gov.	86400	IN	NS	puck.nether.net.
+grantforkil.gov.	3600	IN	DS	63669 7 1 0c0b4f1087ab59144f0901f3f771237f87b0826e
+grantforkil.gov.	3600	IN	DS	63669 7 2 cf4a109bbb2da4e4657c2ae0c9202f8523bcd031e48fe37c5b839c6476d664c8
+grantforkil.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. Df7tiU+nASDYsy9pIj+ew1JEUAc9oEmNY44/xYs8AhNejcRK9+yVFnvwnBde09VSugUThm7lezLqa9JLxQ3bEUviVZAy0roU+eRI2hzBOIWpU2phEbww2ZkzfnlARwvWVdJ/1lcul3DbAChKjE/fXTR/on4Ee1sMPR5JF3ABsVY=

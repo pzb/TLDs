@@ -1,0 +1,6 @@
+usembassy.gov.	86400	IN	NS	authns1.centurylink.net.
+usembassy.gov.	86400	IN	NS	authns2.centurylink.net.
+usembassy.gov.	86400	IN	NS	tpsns11.terrenap.net.
+usembassy.gov.	86400	IN	NS	tpsns12.terrenap.net.
+usembassy.gov.	3600	IN	DS	48291 7 1 9b8d70517a787116babd641de85d209e9eba899c
+usembassy.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. jUIKGcNyEJ3YecfXJUFTCzoee7qYcIq2F6wYq5M2/C/Hg8MhwgftaPbahP8oz9eAiPdmelWp1UZ2I+ogskP56U8mKz9RH6M5lKhtaHrrwLMIpnlDg0UxswSPN5GwkDx2IZIegSjOcLaabfxGNbkpd3U3ddRu2I8TwFEXuylC2ag=

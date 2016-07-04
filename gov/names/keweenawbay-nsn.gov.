@@ -1,0 +1,6 @@
+cpfmjlps1aal448g4tl919sip5g050fg.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. qG4I8Teac/uH0g62+6t62Ixp8eE48BdcyVPkcK4dvp0GF0ApEmhbRgETYFj3Cds0XN6W2f4/a9zGpg506Qdqjm4AfxQ+aSAUQgKTBNX9bpyssj1RrWAS16pLVy4F+rSzn5sZJ61sJArgBGmF1gFsggDvWHdUQMQ+vWJ+USuHRyc=
+cpfmjlps1aal448g4tl919sip5g050fg.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  cpl7bb9k2uharipsp290o6k4usarvg3s NS 
+ns1.kbic-nsn.gov.	86400	IN	A	206.51.125.68
+ns2.kbic-nsn.gov.	86400	IN	A	206.51.125.69
+keweenawbay-nsn.gov.	86400	IN	NS	ns1.kbic-nsn.gov.
+keweenawbay-nsn.gov.	86400	IN	NS	ns2.kbic-nsn.gov.

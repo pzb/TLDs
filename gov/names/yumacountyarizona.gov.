@@ -1,0 +1,6 @@
+4jt7oquusrihhquti9g9r4gfioavpnaa.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. nUDCtVJPnLeH9bZSeHxnXvgtElbXV8uFX4S7tpEhTfKQU/HLZsCpP/O1JxWgKQ+IAyCrxVlC/PgwFRYvtIavwEKMyNu0Fxed1+glEmiFuywvLaL6Gp1S/J4S719LbrtgSU5LVcxNX4gzrAs8OAb96AOoSEPytGICLczuNqoG7eI=
+4jt7oquusrihhquti9g9r4gfioavpnaa.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  4jul99n5aj62jno1sva67o7qite8hl85 NS 
+yumacountyarizona.gov.	86400	IN	NS	ns1.yumacountyaz.gov.
+yumacountyarizona.gov.	86400	IN	NS	ns2.yumacountyaz.gov.
+ns1.yumacountyaz.gov.	86400	IN	A	24.43.250.135
+ns2.yumacountyaz.gov.	86400	IN	A	74.87.214.108

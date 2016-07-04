@@ -1,0 +1,9 @@
+rivers.gov.	86400	IN	NS	a.1001.adoniscs.afiliasdns.info.
+rivers.gov.	86400	IN	NS	b.1001.adoniscs.afiliasdns.org.
+rivers.gov.	86400	IN	NS	c.1001.adoniscs.afiliasdns.net.
+rivers.gov.	86400	IN	NS	d.1001.adoniscs.afiliasdns.com.
+rivers.gov.	86400	IN	NS	e.1001.adoniscs.afiliasdns.info.
+rivers.gov.	86400	IN	NS	f.1001.adoniscs.afiliasdns.net.
+rivers.gov.	3600	IN	DS	21929 8 1 24f34df1d5377ec2b1cac9d2db10fb649948edf7
+rivers.gov.	3600	IN	DS	21929 8 2 4f8332665056a3e298573b39be6792225ea823ada373f68348b92018d06f5004
+rivers.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. TVleQFoKgSyCnzbZQmDYmPkVuZsTjPVG3iA1sCaJfwpyEWrX3uBfx4+IZIESRwWx5Znj5M98gHd3itmxsdGFtjcG9Fi185d6+mpoOzD/4JU/Vwpry3A3Sx47WnjFzkQyXuj+3qJiwtS7T2ZTx2h0LR/t6DGb569cwnhd0ttwLu4=

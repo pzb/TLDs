@@ -1,0 +1,7 @@
+1pkdh5v4m37g5u6oiasahs2cnohs0dgo.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. fNX/GFiMDBshxx6y8NfOaPGcEQrBfsAO/nqGIyhYihBmYVq+7NZ5wA4Xu6N/694VHq7xo26dv45/vo7C7gmuyJT3U42SfImWOoqnEn2bieyrWh2wZe/mKD/ITMz79CbCDQmFiOMLdLPyQWvEt84FlSnN6XywzXLnvcUb4H8o3A4=
+1pkdh5v4m37g5u6oiasahs2cnohs0dgo.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  1pm7k5cj4tppdlp52a2248mj8q9qu2k1 NS 
+sdlegislature.gov.	86400	IN	NS	ns0.dnsmadeeasy.com.
+sdlegislature.gov.	86400	IN	NS	ns1.dnsmadeeasy.com.
+sdlegislature.gov.	86400	IN	NS	ns2.dnsmadeeasy.com.
+sdlegislature.gov.	86400	IN	NS	ns3.dnsmadeeasy.com.
+sdlegislature.gov.	86400	IN	NS	ns4.dnsmadeeasy.com.

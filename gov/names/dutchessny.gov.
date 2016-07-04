@@ -1,0 +1,4 @@
+dutchessny.gov.	86400	IN	NS	ns1.hvdata.net.
+dutchessny.gov.	86400	IN	NS	ns2.hvdata.net.
+ug9tb2l6dei8hmtkgssvd31qv6kg4co0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Zg+dg+EJrpxtRr4iydGtvm38FVLhTSm9diD7VJARiUbsC4TtU7v9d7ukrMPKiEaGF/DzzYoOmHbflg8qStTSC2nqjX6PG4LKLSDDXOqAXHGbdMo29Bhc2u5wBVWqTFwnsUluJjq/XKcjurDm8snaDKl1CxvS6tgMJ/DByl0XmMk=
+ug9tb2l6dei8hmtkgssvd31qv6kg4co0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ugadt5ecsd419s0311au2bm0mn45ge0g NS 

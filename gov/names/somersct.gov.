@@ -1,0 +1,4 @@
+nu0l2ktep51ujaqqkrsbosi26rh5i58a.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. EosaNjE2r3cdIvdn4HanWEiVGTBk91FpWHMSG77xtnZR6pZf0J7LhOpdltyHgGooMzbYdJ+dqXFs+msNXLp6eyLwqZ0gJqyYlNYSEhhO/Ef0I4lL8UpErExY4MHyso+4P9zQnnYvtvlmNFRGbVHaO3ssnbfZ/O5op3lj6XXwgjc=
+nu0l2ktep51ujaqqkrsbosi26rh5i58a.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  nu2jfejh3ddvmh887sim9r23pb8r5dqq NS 
+somersct.gov.	86400	IN	NS	dns1.tristansimonds.com.
+somersct.gov.	86400	IN	NS	dns2.tristansimonds.com.

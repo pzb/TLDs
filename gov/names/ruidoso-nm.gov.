@@ -1,0 +1,4 @@
+fgq6gqao6p9kglalk4dgj6nfp8lg3tia.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. FnzI8Rc1hNuWcnSmmCE5WPjw6hII8yWbaDCXmZB38owi7nX0Xdpsho5Uy7q6n33hq+dhiwUxnm35dAjwA7daAs9icKYo+0KwoAGkfQZg9ZbigOEDNR+X3GWL4Ty2uzY10OGYfVNzW4OREJEmPWVWjoyOk8mHbrYNvTIvuZT4Fo8=
+fgq6gqao6p9kglalk4dgj6nfp8lg3tia.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  fgu21td0umt7ddf99nd0a807kmegdril NS 
+ruidoso-nm.gov.	86400	IN	NS	ns1.dnswizards.com.
+ruidoso-nm.gov.	86400	IN	NS	ns2.dnswizards.com.

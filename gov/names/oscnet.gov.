@@ -1,0 +1,6 @@
+oscnet.gov.	86400	IN	NS	a1.verisigndns.com.
+oscnet.gov.	86400	IN	NS	a2.verisigndns.com.
+oscnet.gov.	86400	IN	NS	a3.verisigndns.com.
+oscnet.gov.	3600	IN	DS	19401 8 1 82eebc429ab4821d0d0b672940f524e544b73f8e
+oscnet.gov.	3600	IN	DS	19401 8 2 cd9098e56badfb93a0fdfebb185729a029c0f18da38568bbf7d62bf865a588d5
+oscnet.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. hX342qhim0xspxb1Ywc069LEC0j8wtNR17bN8AfCHR9goQLWpLJatEJudR8INsV+E1aai35u/O6yNUHedwrYs3+DgFNn7nIiQ3HtHW9fFtF+33g7KquLK03K2E3wDQZwouUUp9REEARh7tjVjrrEpwfD6YgXiw3z3zWFWaOsuBE=

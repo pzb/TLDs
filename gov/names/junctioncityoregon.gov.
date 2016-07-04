@@ -1,0 +1,4 @@
+junctioncityoregon.gov.	86400	IN	NS	ns1.avenet.net.
+junctioncityoregon.gov.	86400	IN	NS	ns2.avenet.net.
+o6f95euunbj20nstk3ch21dueuglhp9d.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. GRVg9ZjTobIcOr8mcuGxq8MMbz9/W/zt6E6flobJoTqXIH2iy7gVQi7NXo6q7FnE6G1RMUv2NdhBfnsqnFF7T7OC0gFyH3xZxiiccz9rhpcS9q1MgZyQ0xFo7UaJB7sqtWacFTvN2CbDcpEYuDy4gepC/hPqmcTLCLF9crqhonw=
+o6f95euunbj20nstk3ch21dueuglhp9d.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  o6hfja711hjcij1l28s82pqganmk2rka NS 

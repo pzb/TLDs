@@ -1,0 +1,4 @@
+nebraskamap.gov.	86400	IN	NS	dns1.doc.state.ne.us.
+nebraskamap.gov.	86400	IN	NS	dns2.doc.state.ne.us.
+oksogqe3scr03m1mmc5b5mrh7qnt74u1.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Ulh5eCIV2j7BBzTTGzpRAYvHpI303rEkzDLdnY9MrMsCqHTJnKbxGtj8qMliovHp/MD2WpSp0DZ3t6swu2z07b0bz9RjCC/q2qs/i0SKtUodiIHCGIygIFOJb5g7z2ncjIaX9L9pNKuge/xfS9m2H/T4E+xKDiw7HSsv6i7GuPI=
+oksogqe3scr03m1mmc5b5mrh7qnt74u1.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ol50ifirs8iiq0qdvb48v1pafbhsb0a8 NS 

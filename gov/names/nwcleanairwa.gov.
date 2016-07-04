@@ -1,0 +1,7 @@
+aj4kd6du2rndotqj3rfhtmvj9io25ma5.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. qFQDTqDFSzRbcUTQ3NkQCW2LCugzxr5/Z1+1kJXNEhCw9kPFh633K4sLHX9rdR8ZowbZQHUprzHlyWrd9rYeOrIM/I40HG4CBRLG3oW2op0gRpZxLwVtL+lP9zPQ4idqfexBUi0OBMxIrQkUZfg8ceSIvpIQRmfscwCp3EEQjEo=
+aj4kd6du2rndotqj3rfhtmvj9io25ma5.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ajaj58r0godumdhkvnhof4kgrc2d5f5e NS 
+nwcleanairwa.gov.	86400	IN	NS	ns0.dnsmadeeasy.com.
+nwcleanairwa.gov.	86400	IN	NS	ns1.dnsmadeeasy.com.
+nwcleanairwa.gov.	86400	IN	NS	ns2.dnsmadeeasy.com.
+nwcleanairwa.gov.	86400	IN	NS	ns3.dnsmadeeasy.com.
+nwcleanairwa.gov.	86400	IN	NS	ns4.dnsmadeeasy.com.

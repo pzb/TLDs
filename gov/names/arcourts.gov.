@@ -1,0 +1,5 @@
+aq7k52bpeuhaepi4ekp486fb45kf5rpp.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. RHN/KF23zCOMi2M4O0UYKEjI+Jd1BrVYCT9WyfY3G+TdjwesQ/YPI9tprl5JqZ4daT7jWT24FlI8BfwQzy1W1IpJV9N888XfalR1USCkA4mQkb50fSRnFCiwlQfAPdvQB7bRIijPlL3SQj4jFzC+5AgnD8jvSH1PUXN19gkzdHA=
+aq7k52bpeuhaepi4ekp486fb45kf5rpp.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  aqjl80cqujrofct101eojo2thsia6r10 NS 
+arcourts.gov.	86400	IN	NS	dns1.easydns.com.
+arcourts.gov.	86400	IN	NS	dns2.easydns.net.
+arcourts.gov.	86400	IN	NS	dns3.easydns.org.

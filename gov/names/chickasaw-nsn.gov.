@@ -1,0 +1,4 @@
+alqhcq0qbss5lboo7elber2b9llshs52.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. atMkKkxeTIEYC+wqCFywCqc+Cm35uStBTIVc0SL3RjNFIIXLeX/OLlBKJ+4H6h6EGhR/ujKn82pVO1JnlEl2MnvJgw3T7ud+QKye5KNnxb34Sr6n9V82guy/Kv204QSWIORrxMuzSmiScRjrp9aN1AQCtKyROiULWg7UZKo6TAw=
+alqhcq0qbss5lboo7elber2b9llshs52.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  am68960th4q25t7plilf3ht7kqro8am2 NS 
+chickasaw-nsn.gov.	86400	IN	NS	ns5.chickasaw.net.
+chickasaw-nsn.gov.	86400	IN	NS	ns6.chickasaw.net.

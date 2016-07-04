@@ -1,0 +1,8 @@
+hru.gov.	86400	IN	NS	a1-12.akam.net.
+hru.gov.	86400	IN	NS	a5-67.akam.net.
+hru.gov.	86400	IN	NS	a11-67.akam.net.
+hru.gov.	86400	IN	NS	a14-64.akam.net.
+hru.gov.	86400	IN	NS	a18-65.akam.net.
+hru.gov.	86400	IN	NS	a20-66.akam.net.
+hru.gov.	3600	IN	DS	1876 8 1 1500ecfb28f60d925701d902ff1aed4d9a3c0b8e
+hru.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. iO6MU3fFSY1AoPgE9TnatatWN6ZAtZ0CEUpZHV9Pbteu17wX8HXh5vXhcCMzzLYMNhe/y81O1SKjW8QFo0/MQWDO/FquvUkj//MNfXr+ao3YtDEHzHJf+EdI163p6ZH3TGydAZq8YwWsyUevyDXcRjgi+TkMrK2P+Ykj9Suse84=

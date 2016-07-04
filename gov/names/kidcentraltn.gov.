@@ -1,0 +1,6 @@
+kidcentraltn.gov.	86400	IN	NS	ns-458.awsdns-57.com.
+kidcentraltn.gov.	86400	IN	NS	ns-605.awsdns-11.net.
+kidcentraltn.gov.	86400	IN	NS	ns-1204.awsdns-22.org.
+kidcentraltn.gov.	86400	IN	NS	ns-1813.awsdns-34.co.uk.
+ktmrfdeft157mko91kdnudnkkln7f86q.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. JqRfMW+MmIYF92GycPbEcz43FOiOHH1FfQdFrJzareB7n+gZit1/OHC2tjCzVZFoIZcOMBai+POfreQCz2Yz7VmT1+XQ1qhu/ZwKPqXoZkyEybHZnze69ZJQfqhNT00c3EZhoqGjm81yWvBDDTBy0/xKd+6ZenzyKNcm5Z6nbKs=
+ktmrfdeft157mko91kdnudnkkln7f86q.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  ktr5jgq73c3v85b8v0ggotisukg6g8jm NS 

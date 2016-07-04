@@ -1,0 +1,9 @@
+ns1.ojp.gov.	86400	IN	A	149.101.16.8
+ns1.ojp.gov.	86400	IN	AAAA	2607:f330:8400:20f1::8
+ns2.ojp.gov.	86400	IN	A	149.101.216.8
+ns2.ojp.gov.	86400	IN	AAAA	2607:f330:9400:20f1::8
+projectsafeneighborhoods.gov.	86400	IN	NS	ns1.ojp.gov.
+projectsafeneighborhoods.gov.	86400	IN	NS	ns2.ojp.gov.
+projectsafeneighborhoods.gov.	3600	IN	DS	45459 7 1 5877c259cbd2984b01ead0052b125d26f75c81fa
+projectsafeneighborhoods.gov.	3600	IN	DS	45459 7 2 9514cc033e2f2a55b28c874f837de6aaa4a4af73b3f97d03184b6954c6429709
+projectsafeneighborhoods.gov.	3600	IN	RRSIG	DS 8 2 3600 20160711041014 20160704041014 26663 gov. lYX7neezHemhX2HYDMjxDdtOmCydZLqko9KPY/pJAC5nokerwJ3D1aNS2lh5W+WfrcB3bbWldsH6fle5R1MvzswIjNzMm9qWUnxEs7Ka/jM8B3MUv73p1b3CUZkDiTgBEYJUxQAv86I+rpYTQdXfSFuFl4fF3BY2nqvDiL1TkFk=

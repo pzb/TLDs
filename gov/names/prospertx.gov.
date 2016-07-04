@@ -1,0 +1,6 @@
+prospertx.gov.	86400	IN	NS	ns1145.dns.dyn.com.
+prospertx.gov.	86400	IN	NS	ns2152.dns.dyn.com.
+prospertx.gov.	86400	IN	NS	ns3197.dns.dyn.com.
+prospertx.gov.	86400	IN	NS	ns4166.dns.dyn.com.
+v72c43hbsh4qqjrjhcjodd4ctpqg8dr0.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. HXyWDwGMCeMmrUNY0gNSBma2LxGhpXgyr+8Q8nKg+k34z4VJf13IBCb8kkULBdnrv4rC+YehP2HQBlpAPAAorZ5LoZdmkRKFrKGzLKxchQGb8mtrfnWbnL/Cc5M8+18DwV27iuIAal5HaEVew8WHSEpnpmCcxrYvb74ZlNam6yg=
+v72c43hbsh4qqjrjhcjodd4ctpqg8dr0.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  v75belv0js7j8753curf08k65fn0q6v4 NS 

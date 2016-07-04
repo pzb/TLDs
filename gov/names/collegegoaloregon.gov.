@@ -1,0 +1,4 @@
+collegegoaloregon.gov.	86400	IN	NS	lion.state.or.us.
+collegegoaloregon.gov.	86400	IN	NS	puma.state.or.us.
+mcek3jvq54at2851j30a08jc82tf99dm.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Gr2HHs7qY15GYUTICvpEATAH96IWeVovJiTJuEEFFMkIhXiFfQ3p6WUSPDya16Gi3w+Y2cgCw802sFvyoK3TSs3P9iyMdDl7ltieikIiBDohB9wyDa0MyY7LRHCWZeAK+RZNv+x7HHbBQ04YIspgZdAdhZ+B4HNev7Br0s2gOBs=
+mcek3jvq54at2851j30a08jc82tf99dm.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  mcfecuc57v6c1f6k2fvdm5stm82829sr NS 

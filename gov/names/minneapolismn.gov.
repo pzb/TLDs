@@ -1,0 +1,4 @@
+abbgi0auqds9otktq2lgf5035ps4tb5e.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. BPK8r/tVq/jbhNNAJV+/XR1d2JyUGzoStxjJcyrqfbIK1OPS46X17s0Krbw/WGfg5dYMpZZOa1zWs+4DAYLPrQaqITyKhzvZ6BMb9/eJ3eMctYSTS6PBLTvTwEfHoGFDO1xt3Be5CnCHF3Ml438VIwtvwCXclJuTUwAKoHjQ9Z4=
+abbgi0auqds9otktq2lgf5035ps4tb5e.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  abpo2renrq8hn52bjkv176i68p6r4efu NS 
+minneapolismn.gov.	86400	IN	NS	ns.visi.com.
+minneapolismn.gov.	86400	IN	NS	ns2.visi.com.

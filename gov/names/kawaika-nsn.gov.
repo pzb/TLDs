@@ -1,0 +1,4 @@
+2rlm0jv0kb05b1qur6lbmpeg82otnejk.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. x+41l3/X3UBatHVpVrQ+8TQXy4fCdrV6TnAU3txxshoqkVUY3ozxMrRy3NO7haXovtI7P3TSYmjvBvpmKw2yjAP0t1RHsRdGAA+cyG+UghF+N3f/r9k6gBHYSaDY796p5tXxb6v3rmaSniVK21PbY1rrRVwrO7ZD2whF4M2Rywk=
+2rlm0jv0kb05b1qur6lbmpeg82otnejk.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  2rnab4qneumpakgm074d9j3p7k6gi4fe NS 
+kawaika-nsn.gov.	86400	IN	NS	enesone.sks.com.
+kawaika-nsn.gov.	86400	IN	NS	enesthree.sks.com.

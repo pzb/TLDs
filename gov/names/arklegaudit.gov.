@@ -1,0 +1,10 @@
+arklegaudit.gov.	86400	IN	NS	ns1.arklegaudit.gov.
+arklegaudit.gov.	86400	IN	NS	ns2.arklegaudit.gov.
+arklegaudit.gov.	86400	IN	NS	ns3.arklegaudit.gov.
+arklegaudit.gov.	86400	IN	NS	ns4.arklegaudit.gov.
+ns1.arklegaudit.gov.	86400	IN	A	170.94.21.3
+ns2.arklegaudit.gov.	86400	IN	A	170.94.21.11
+ns3.arklegaudit.gov.	86400	IN	A	170.94.21.12
+ns4.arklegaudit.gov.	86400	IN	A	170.94.65.236
+j5i83bq627b7ep8clptoh54873clcf01.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. h2zXB6gPp1BPU6yhhwtp0PkwkR574mjM/Nhq0psAYbvXENmUos47JaczHguC2YZ/FN2kuqcP7oc6c9VDvsEkwBiqen3lQpgoNYi/uiTzF2iSXoRgWZuLL2q6TshLCftqmYmQBWou3/NGE+5kMFXAYgKUW6TQmcoz0ethGAox05Y=
+j5i83bq627b7ep8clptoh54873clcf01.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  j5ips5u3s0ha3fufdvck9ouaf4k98gnc NS 

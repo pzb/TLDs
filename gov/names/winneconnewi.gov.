@@ -1,0 +1,4 @@
+bqg0uum7rcaeimneinejm6g2dh4tej7g.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. lsVW4g+SBpP+d2Ju3zGVWUMtzNjlMOpNIlUN0SfdADAaQApFKRpRxmVvLAsjbyL6oEeOJdwIVI89K383NSfEgnU6cktzMsTKRNDd6scFcLYvDkoFsDdb1Mj8CciQMpK8GtRrXdJwp6dG8Gbiv1QH71g+GIKcVoQOSnpNRLS9+30=
+bqg0uum7rcaeimneinejm6g2dh4tej7g.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bqss47gscdsg3lj0gr8kfpkl1povqkjo NS 
+winneconnewi.gov.	86400	IN	NS	dns1.civicplus.com.
+winneconnewi.gov.	86400	IN	NS	dns2.civicplus.com.

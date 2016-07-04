@@ -1,0 +1,6 @@
+bentonchartertownship-mi.gov.	86400	IN	NS	ns1.ameritech.net.
+bentonchartertownship-mi.gov.	86400	IN	NS	ns2.ameritech.net.
+bentonchartertownship-mi.gov.	86400	IN	NS	cbru.br.ns.els-gms.att.net.
+bentonchartertownship-mi.gov.	86400	IN	NS	cmtu.mt.ns.els-gms.att.net.
+bp9kiaskh2iskq0k40gsg94n0cvfbg3j.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. anTW7gZZit2WDGGIWNCiGdVXbjpG0z1Zm1yuwYi+wT9YMsrrLeAYjXDSPT37HfQSotwB1wD8oiz3BaV8MzIHrjzXMLM69VWWPNUOsNR9IC1EtbpVMrEbd2InutD2WZOlPvxUaW6/gvcHAYYOWRKjhjYE4EoU9p1CF9WoSC387YI=
+bp9kiaskh2iskq0k40gsg94n0cvfbg3j.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  bpig6eviot5uhiqn6kvp5iu1dd14k8km NS 

@@ -1,0 +1,4 @@
+champaign-il.gov.	86400	IN	NS	ns.rtc7.illinois.net.
+champaign-il.gov.	86400	IN	NS	ns1.illinois.net.
+jd5eq316mlh6muaf3dgbjhkear4erago.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. gnfcBYDf09U88LjYY66JgCiLNmsEwCmg1vpHLhhcZFl0ZM1+mZw2AAQo6GRpz7KEefGfY0h+9DI60jWidL9SrxSpqZ4+JdvohRpSOzpH3fwJr+/f7TyrMhdgIomdDhhnj+71zRTCncqdEoZqae0gahDHFMCpaFMg5LvKnSt5ANs=
+jd5eq316mlh6muaf3dgbjhkear4erago.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  jd9roq050a1hn05aa6amm3j7bl6r1fuo NS 

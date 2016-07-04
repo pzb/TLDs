@@ -1,0 +1,4 @@
+23g26g7prsqjsf89g86jkf3v71v35rsd.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. utnmY3CF3zysYOheNfEG82zAA+JwB6wDKNCQyQdWncVqDewQA5Ip9wTyvHgKhTpt9dC804WDE2hzI7LEZzzesz9bmLnvwpTtYXbtu5rPXY4KojQKu8tC8ZGlOLnsIblVlhc3OErd1cMop26KUcd4CUVjdh2q6fpjWtOB0OseFio=
+23g26g7prsqjsf89g86jkf3v71v35rsd.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  23gvd2nson9ru3jgf9sjacenld8p1tr3 NS 
+lamoine-me.gov.	86400	IN	NS	ns1.biz.rr.com.
+lamoine-me.gov.	86400	IN	NS	ns2.biz.rr.com.

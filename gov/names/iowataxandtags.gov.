@@ -1,0 +1,7 @@
+ns1.iowa.gov.	86400	IN	A	165.206.254.145
+ns3.iowa.gov.	86400	IN	A	209.56.120.13
+iowataxandtags.gov.	86400	IN	NS	dns.iowaccess.org.
+iowataxandtags.gov.	86400	IN	NS	ns1.iowa.gov.
+iowataxandtags.gov.	86400	IN	NS	ns3.iowa.gov.
+pli9u3rs64dotn7lk9a5vcdpq6bgdoa6.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. qmTgJMt2XIH6oEIJ1APPULsJRQ+8PWp70Az9zOCxU2luHsOV0yCgjwD2734sNkd2GOl/YM/6Rk1N6sXfk8bX8HBctX4iPjkpRPIM5muqbPYNkgnJlMoLBkXoYqTYf048aGUYRTqwrDoV8UU+H+7SkyMrvO2vw/BFTsd2Fb39SoE=
+pli9u3rs64dotn7lk9a5vcdpq6bgdoa6.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  plrf8ao31gr9sb36v61njlvl213u5usa NS 

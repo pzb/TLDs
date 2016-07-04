@@ -1,0 +1,6 @@
+3h62m51g5os83csn38a2kmh234ek7kpo.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. n3zfwl8r5aPh0aTquM+9lXeIPl500qdylYAOXh7B1r5plEvho6kVlPiNtoVC6loLuEwozUPtx2OJ0Si3mx4fcZAO4ImvK7gukzbQs3mshlGFTYSeClBVtwDqXwqO78c2Yvf30NFwTqUz4P/2hKze7LNDFOwnRyfuqAbGEUgxt0s=
+3h62m51g5os83csn38a2kmh234ek7kpo.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  3h6v3nh7edot7oifm0kptb0cch19g6ih NS 
+azica.gov.	86400	IN	NS	ns-124.awsdns-15.com.
+azica.gov.	86400	IN	NS	ns-828.awsdns-39.net.
+azica.gov.	86400	IN	NS	ns-1520.awsdns-62.org.
+azica.gov.	86400	IN	NS	ns-1741.awsdns-25.co.uk.

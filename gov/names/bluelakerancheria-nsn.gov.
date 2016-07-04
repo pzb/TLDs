@@ -1,0 +1,4 @@
+bluelakerancheria-nsn.gov.	86400	IN	NS	ns67.dnsprotect.com.
+bluelakerancheria-nsn.gov.	86400	IN	NS	ns68.dnsprotect.com.
+m3r7qfp9c69e8uk6rrl5j9mj32051oc9.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. NrHIAZyrvMTqvrPmygW7k8nBsGWfPF67XCGb4cklFXfXQZvLckjCE3l4iRR4DH5Tx9F6BXLGWGFsJRrsGIbcnblRLDYFziInwDhNNoUU/E93vcOIpPL2+bHs5m4Ysa5ErTAETHmudRGnY0j0d9nw7A40JStbVfdHLMobdy1cYR8=
+m3r7qfp9c69e8uk6rrl5j9mj32051oc9.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  m4c8f7at1pin02l68ou5n1t6991otlvl NS 

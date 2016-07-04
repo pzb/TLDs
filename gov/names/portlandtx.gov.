@@ -1,0 +1,8 @@
+c39bond30p43bnigjh0cagl112c7omda.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. Ew7kRIIMjTQ7LuoQAuInwiZB3XTJ0WjmtbhPNUQQM+e5Obst2ZkmlhCzTEECZPxatoz/cmfvyWMB22KvoBcO89EOM6ByVz5FGr3Nx+jYv7/4kltJ9GrUQgoEOrmqHjpN4xxCY02nYqw0LaqKbdoOOiYA1K58Pn+ssaCt3oC24RQ=
+c39bond30p43bnigjh0cagl112c7omda.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  c3h0n6ba6etjmjqkgm3m1ad7vgen0nit NS 
+portlandtx.gov.	86400	IN	NS	ns10.dnsmadeeasy.com.
+portlandtx.gov.	86400	IN	NS	ns11.dnsmadeeasy.com.
+portlandtx.gov.	86400	IN	NS	ns12.dnsmadeeasy.com.
+portlandtx.gov.	86400	IN	NS	ns13.dnsmadeeasy.com.
+portlandtx.gov.	86400	IN	NS	ns14.dnsmadeeasy.com.
+portlandtx.gov.	86400	IN	NS	ns15.dnsmadeeasy.com.

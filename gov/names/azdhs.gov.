@@ -1,0 +1,6 @@
+azdhs.gov.	86400	IN	NS	ns-268.awsdns-33.com.
+azdhs.gov.	86400	IN	NS	ns-999.awsdns-60.net.
+azdhs.gov.	86400	IN	NS	ns-1141.awsdns-14.org.
+azdhs.gov.	86400	IN	NS	ns-1763.awsdns-28.co.uk.
+sk9c0rds72ech7cvlmma4g407nhok93v.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. CfUm9nKtW3J8uK+fuEr0jAHAJHOMlhg4u0vieIP60p4wQHPgE7JWHvxOrxWR9AYkev+leRbpArN21t46FpG2AEQ7lBLd8cWTeLu/kBdITxX5GO+/djQMNEkjrPW1lXCLwXJnjK0dK1ENJltKJ00vl40RI4wZpcqw0//Iv6+vtBQ=
+sk9c0rds72ech7cvlmma4g407nhok93v.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  skhpq36m3vul3ml4tb6nrra802fipjif NS 

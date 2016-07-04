@@ -1,0 +1,4 @@
+865r17gk2pgmpcio0bsqp68k6kj18qkv.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. iyfin/5NQ00yONBRVcMo0uoC6dPwljKLVh+naefqHnKcZBhN4t81dO+gOUEJXYzv+2uI8/tIpGVNU5YL8fmjjqznJxdNlNX1igcc55fF2BjvaHG28fhKRxR//AZQoXnIqulqyLxt77vnsDwirPec/y6WetQT8HraYwWgcwOzXgc=
+865r17gk2pgmpcio0bsqp68k6kj18qkv.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  86iuddkp057dcfl00knubnc7v1pi99am NS 
+springfield-or.gov.	86400	IN	NS	phloem.uoregon.edu.
+springfield-or.gov.	86400	IN	NS	risns2.ris.lane.or.us.

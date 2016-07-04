@@ -1,0 +1,4 @@
+cityoftyler-tx.gov.	86400	IN	NS	ns.tca.net.
+cityoftyler-tx.gov.	86400	IN	NS	rose.tyler.net.
+vh32sulorfh5088rm4cnla6itmiihs3c.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. SGo6hPFSsyXDxuk/SSFt4wwbotDH6y5izI4ZkeRY9RygTOaaYbdcZeJtRxWQ6SOalc1CLvWvJ4dDo64K+oEHEKdgLbdv935HzIE83VGikEKIw3AyW2kbA5nWkKI6/dTnb4ZDKdk/Pm1STv9HqCak23e4xdvEN7aTCdYasiYb1AI=
+vh32sulorfh5088rm4cnla6itmiihs3c.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  vhaajce58mcqeehd0npnsda51u7nbjfs NS 

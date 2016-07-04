@@ -1,0 +1,4 @@
+b54hjjinnv24bq9vplvklv1obi4u3h7r.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. MlWST25hycjhjLTTrWdKZFyBZmhfj1VhiaHIp6XH4kIiNmiMjICvpoxUgKSEM4UGGImB4POazruqpoQcM66lBCBzo3z318YysrMmS09BjBx0sHU+I77JJ/ybcYy+60LAAwCc/920333ZdxUszehDCpHwH/YYXq1CCjaOn+OaORs=
+b54hjjinnv24bq9vplvklv1obi4u3h7r.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  b562fgcnbk59sm2g0nfah2ct3sbj8s69 NS 
+detroitmi.gov.	86400	IN	NS	kay.ns.cloudflare.com.
+detroitmi.gov.	86400	IN	NS	alan.ns.cloudflare.com.

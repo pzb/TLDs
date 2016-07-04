@@ -1,0 +1,6 @@
+798t9pfm04k3kc8magengifbmu3don83.gov.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711041014 20160704041014 26663 gov. maN1rfLXZzdqC+9hQlhILmCHkg9LY9R7l732L45LneGUyUlmPk5tC5jIaS9l6R4DDobs04wat+MzrWF8J0FNhme3OqXRy2507lDMz6yj/xxtEs0wBuETdq7E+KjUAOaurYwT2D+kiI4Y5byBB6uJ3h9+bboiUIYP0ItCs2kcCGM=
+798t9pfm04k3kc8magengifbmu3don83.gov.	86400	IN	NSEC3	1 0 8 4c44934802d3  79cmfo7250cfqf72rta53ed8r2iofano NS 
+cityofauburnwa.gov.	86400	IN	NS	ns2.cityofauburnwa.gov.
+cityofauburnwa.gov.	86400	IN	NS	ns3.cityofauburnwa.gov.
+ns2.cityofauburnwa.gov.	86400	IN	A	70.90.185.109
+ns3.cityofauburnwa.gov.	86400	IN	A	50.203.104.178
