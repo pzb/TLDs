@@ -1,0 +1,6 @@
+e164.arpa.	172800	IN	NS	pri.authdns.ripe.net.
+e164.arpa.	172800	IN	NS	sec3.apnic.net.
+e164.arpa.	172800	IN	NS	sns-pb.isc.org.
+e164.arpa.	172800	IN	NS	tinnie.arin.net.
+e164.arpa.	86400	IN	DS	39022 8 2 f7e7688165f8e94de3f56a0049c79af7bce35a13d6aee81ed0c2fa91785789b6
+e164.arpa.	86400	IN	RRSIG	DS 8 2 86400 20160714120000 20160704110000 53691 arpa. ULRzZOHKynipm1PkpR4wrPVKwBcVnwRM6WDHmZzcJ734dKquSSWE9F3KaUqx4QORC/bQONfGIj9ZqBaAbTBsXU/jb3jmBN30eGbrd8+cupXroj/AliaQ3UG7Rbw7bYOPeW79Uctq3t5TM9Tos0bttsErIGmn90x45cVe/vnRXM0=

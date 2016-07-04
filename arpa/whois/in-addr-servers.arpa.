@@ -1,0 +1,55 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       IN-ADDR-SERVERS.ARPA
+
+organisation: Internet Architecture Board (IAB)
+address:      c/o IETF Administrative Support Activity, ISOC
+address:      1775 Wiehle Ave.
+address:      Suite 102
+address:      Reston Virginia 20190-5108
+address:      United States
+
+contact:      administrative
+name:         Internet Architecture Board (IAB)
+organisation: Internet Architecture Board (IAB)
+address:      c/o IETF Administrative Support Activity, ISOC
+address:      1775 Wiehle Ave.
+address:      Suite 102
+address:      Reston Virginia 20190-5108
+address:      United States
+phone:        +1 703 326 9880
+fax-no:       +1 703 326 9881
+e-mail:       iab@iab.org
+
+contact:      technical
+name:         Internet Assigned Numbers Authority (IANA)
+organisation: Internet Corporation for Assigned Names and Numbers (ICANN)
+address:      12025 Waterfront Drive
+address:      Suite 300
+address:      Los Angeles California 90094
+address:      United States
+phone:        +1 310 301 5800
+fax-no:       +1 310 823 8649
+e-mail:       tld-contact@iana.org
+
+nserver:      A.IN-ADDR-SERVERS.ARPA 199.212.0.73 2001:500:13:0:0:0:0:73
+nserver:      B.IN-ADDR-SERVERS.ARPA 199.253.183.183 2001:500:87:0:0:0:0:87
+nserver:      C.IN-ADDR-SERVERS.ARPA 196.216.169.10 2001:43f8:110::10
+nserver:      D.IN-ADDR-SERVERS.ARPA 200.10.60.53 2001:13c7:7010::53
+nserver:      E.IN-ADDR-SERVERS.ARPA 2001:dd8:6::101 203.119.86.101
+nserver:      F.IN-ADDR-SERVERS.ARPA 193.0.9.1 2001:67c:e0::1
+ds-rdata:     1987 8 2 dacfdeb02a489a514c6408d0d54e0904fe6e09a6e111abc9eacb27f6552805e1
+ds-rdata:     45104 8 2 50136f7a8d3ffe4f9887ad234ff8ce945cabd331feb12569b2f61f99ce40fdbf
+ds-rdata:     62996 8 2 836537710efc1e5570e3aeff7c0c80d3957a16ddf8005034bc9082898968dc81
+
+remarks:      IAB assigned the technical role to the IANA Department
+remarks:      of ICANN; see RFC 3172.
+
+created:      2010-04-29
+changed:      2015-08-10
+source:       IANA
+

@@ -1,0 +1,55 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       AS112.ARPA
+
+organisation: Internet Architecture Board (IAB)
+address:      c/o IETF Administrative Support Activity, ISOC
+address:      1775 Wiehle Ave.
+address:      Suite 102
+address:      Reston Virginia 20190-5108
+address:      United States
+
+contact:      administrative
+name:         Internet Architecture Board (IAB)
+organisation: Internet Architecture Board (IAB)
+address:      c/o IETF Administrative Support Activity, ISOC
+address:      1775 Wiehle Ave.
+address:      Suite 102
+address:      Reston Virginia 20190-5108
+address:      United States
+phone:        +1 703 326 9880
+fax-no:       +1 703 326 9881
+e-mail:       iab@iab.org
+
+contact:      technical
+name:         Internet Assigned Numbers Authority (IANA)
+organisation: Internet Corporation for Assigned Names and Numbers (ICANN)
+address:      12025 Waterfront Drive
+address:      Suite 300
+address:      Los Angeles California 90094
+address:      United States
+phone:        +1 310 301 5800
+fax-no:       +1 310 823 8649
+e-mail:       tld-contact@iana.org
+
+nserver:      A.IANA-SERVERS.NET 199.43.132.53 2001:500:8c::53
+nserver:      B.IANA-SERVERS.NET 199.43.133.53 2001:500:8d::53
+nserver:      C.IANA-SERVERS.NET 199.43.134.53 2001:500:8e::53
+ds-rdata:     20236 8 1 1307E5595598B25FE2EB07BCEF767C9D96C3ECDC
+ds-rdata:     20236 8 2 72C9E5D15ACCC54A32C8C76FE5944BCBF3AABC2B13DC417609763E57BD89D515
+ds-rdata:     49400 8 2 f8e230e43e20e14200e46beb6e0a67ced274790c8c8c169df7fec5fb7dfa321f
+ds-rdata:     49400 8 1 0236339d6c1fb0fdf6069a9babe455b443fe2f95
+ds-rdata:     53690 8 2 354c6ef7b8b46a4c87ce6a21f3a9043898e68427ad64d029097ce2a38933b82e
+ds-rdata:     53690 8 1 85d712965f3aa6556f40e11ba29c638565444acf
+
+remarks:      IAB assigned the technical role to the IANA Department
+remarks:      of ICANN; see RFC 3172.
+
+created:      2015-01-21
+changed:      2015-08-10
+source:       IANA
+

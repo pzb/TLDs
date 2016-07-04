@@ -1,0 +1,22 @@
+in-addr-servers.arpa.	172800	IN	NS	a.in-addr-servers.arpa.
+in-addr-servers.arpa.	172800	IN	NS	b.in-addr-servers.arpa.
+in-addr-servers.arpa.	172800	IN	NS	c.in-addr-servers.arpa.
+in-addr-servers.arpa.	172800	IN	NS	d.in-addr-servers.arpa.
+in-addr-servers.arpa.	172800	IN	NS	e.in-addr-servers.arpa.
+in-addr-servers.arpa.	172800	IN	NS	f.in-addr-servers.arpa.
+in-addr-servers.arpa.	86400	IN	DS	1987 8 2 dacfdeb02a489a514c6408d0d54e0904fe6e09a6e111abc9eacb27f6552805e1
+in-addr-servers.arpa.	86400	IN	DS	45104 8 2 50136f7a8d3ffe4f9887ad234ff8ce945cabd331feb12569b2f61f99ce40fdbf
+in-addr-servers.arpa.	86400	IN	DS	62996 8 2 836537710efc1e5570e3aeff7c0c80d3957a16ddf8005034bc9082898968dc81
+in-addr-servers.arpa.	86400	IN	RRSIG	DS 8 2 86400 20160714120000 20160704110000 53691 arpa. o6WfUu0k+2uI5feptiCXqRDw4yCog/ONTJPNYt3k7uY+SKtF7pn/JpJCot5LMXUBTnjf59edk9x+jP6tLwsDYL81BmpWVElJ9DHgOJFNIvWDSfqRaULmEa2EQNnRj7P6xMAh1yjHlQMQnAlyDL6SQlydHdmIRWNFDtbADo/PCbE=
+a.in-addr-servers.arpa.	172800	IN	A	199.212.0.73
+a.in-addr-servers.arpa.	172800	IN	AAAA	2001:500:13::73
+b.in-addr-servers.arpa.	172800	IN	A	199.253.183.183
+b.in-addr-servers.arpa.	172800	IN	AAAA	2001:500:87::87
+c.in-addr-servers.arpa.	172800	IN	A	196.216.169.10
+c.in-addr-servers.arpa.	172800	IN	AAAA	2001:43f8:110::10
+d.in-addr-servers.arpa.	172800	IN	A	200.10.60.53
+d.in-addr-servers.arpa.	172800	IN	AAAA	2001:13c7:7010::53
+e.in-addr-servers.arpa.	172800	IN	A	203.119.86.101
+e.in-addr-servers.arpa.	172800	IN	AAAA	2001:dd8:6::101
+f.in-addr-servers.arpa.	172800	IN	A	193.0.9.1
+f.in-addr-servers.arpa.	172800	IN	AAAA	2001:67c:e0::1

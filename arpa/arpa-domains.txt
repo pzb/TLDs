@@ -1,0 +1,11 @@
+arpa.
+as112.arpa.
+e164.arpa.
+in-addr.arpa.
+in-addr-servers.arpa.
+ip6.arpa.
+ip6-servers.arpa.
+ipv4only.arpa.
+iris.arpa.
+uri.arpa.
+urn.arpa.

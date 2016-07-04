@@ -1,0 +1,47 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       E164.ARPA
+
+organisation: Internet Architecture Board (IAB)
+address:      c/o IETF Administrative Support Activity, ISOC
+address:      1775 Wiehle Ave.
+address:      Suite 102
+address:      Reston Virginia 20190-5108
+address:      United States
+
+contact:      administrative
+name:         Internet Architecture Board (IAB)
+organisation: Internet Architecture Board (IAB)
+address:      c/o IETF Administrative Support Activity, ISOC
+address:      1775 Wiehle Ave.
+address:      Suite 102
+address:      Reston Virginia 20190-5108
+address:      United States
+phone:        +1 703 326 9880
+fax-no:       +1 703 326 9881
+e-mail:       iab@iab.org
+
+contact:      technical
+name:         RIPE NCC DNS Services
+organisation: RIPE Network Coordination Centre (NCC)
+address:      Singel 258
+address:      Amsterdam  1016 AB
+address:      The Netherlands
+phone:        +31 20 535 4444
+fax-no:       +31 20 535 4445
+e-mail:       dns@ripe.net
+
+nserver:      PRI.AUTHDNS.RIPE.NET 193.0.9.5 2001:67c:e0::5
+nserver:      SEC3.APNIC.NET 2001:dc0:1:0:4777::140 202.12.28.140
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
+nserver:      TINNIE.ARIN.NET 199.212.0.53 2001:500:13::c7d4:35
+ds-rdata:     39022 8 2 f7e7688165f8e94de3f56a0049c79af7bce35a13d6aee81ed0c2fa91785789b6
+
+created:      2000-09-14
+changed:      2016-05-03
+source:       IANA
+

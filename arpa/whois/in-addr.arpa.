@@ -1,0 +1,55 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       IN-ADDR.ARPA
+
+organisation: Internet Architecture Board (IAB)
+address:      c/o IETF Administrative Support Activity, ISOC
+address:      1775 Wiehle Ave.
+address:      Suite 102
+address:      Reston Virginia 20190-5108
+address:      US
+
+contact:      administrative
+name:         Internet Architecture Board (IAB)
+organisation: Internet Architecture Board (IAB)
+address:      c/o IETF Administrative Support Activity, ISOC
+address:      1775 Wiehle Ave.
+address:      Suite 102
+address:      Reston Virginia 20190-5108
+address:      USA
+phone:        +1 703 326 9880
+fax-no:       +1 703 326 9881
+e-mail:       iab@iab.org
+
+contact:      technical
+name:         Internet Assigned Numbers Authority (IANA)
+organisation: Internet Corporation for Assigned Names and Numbers (ICANN)
+address:      12025 Waterfront Drive
+address:      Suite 300
+address:      Los Angeles California 90094
+address:      US
+phone:        +1 310 301 5800
+fax-no:       +1 310 823 8649
+e-mail:       tld-contact@iana.org
+
+nserver:      A.IN-ADDR-SERVERS.ARPA 199.212.0.73 2001:500:13:0:0:0:0:73
+nserver:      B.IN-ADDR-SERVERS.ARPA 199.253.183.183 2001:500:87:0:0:0:0:87
+nserver:      C.IN-ADDR-SERVERS.ARPA 196.216.169.10 2001:43f8:110::10
+nserver:      D.IN-ADDR-SERVERS.ARPA 200.10.60.53 2001:13c7:7010::53
+nserver:      E.IN-ADDR-SERVERS.ARPA 2001:dd8:6::101 203.119.86.101
+nserver:      F.IN-ADDR-SERVERS.ARPA 193.0.9.1 2001:67c:e0::1
+ds-rdata:     53696 8 2 13e5501c56b20394da921b51412d48b7089c5eb6957a7c58553c4d4d424f04df
+ds-rdata:     47054 8 2 5cafccec201d1933b4c9f6a9c8f51e51f3b39979058ac21b8df1b1f281cbc6f2
+ds-rdata:     63982 8 2 aaf4fb5d213ef25ae44679032ebe3514c487d7abd99d7f5fec3383d030733c73
+
+remarks:      IAB assigned the technical role to the IANA Department
+remarks:      of ICANN; see RFC 3172.
+
+created:      1994-09-27
+changed:      2015-08-10
+source:       IANA
+

@@ -1,0 +1,55 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       IP6.ARPA
+
+organisation: Internet Architecture Board (IAB)
+address:      c/o IETF Administrative Support Activity, ISOC
+address:      1775 Wiehle Ave.
+address:      Suite 102
+address:      Reston Virginia 20190-5108
+address:      US
+
+contact:      administrative
+name:         Internet Architecture Board (IAB)
+organisation: Internet Architecture Board (IAB)
+address:      c/o IETF Administrative Support Activity, ISOC
+address:      1775 Wiehle Ave.
+address:      Suite 102
+address:      Reston Virginia 20190-5108
+address:      United States
+phone:        +1 703 326 9880
+fax-no:       +1 703 326 9881
+e-mail:       iab@iab.org
+
+contact:      technical
+name:         Internet Assigned Numbers Authority (IANA)
+organisation: Internet Corporation for Assigned Names and Numbers (ICANN)
+address:      12025 Waterfront Drive
+address:      Suite 300
+address:      Los Angeles California 90094
+address:      United States
+phone:        +1 310 301 5800
+fax-no:       +1 310 823 8649
+e-mail:       tld-contact@iana.org
+
+nserver:      A.IP6-SERVERS.ARPA 199.212.0.73 2001:500:13:0:0:0:0:73
+nserver:      B.IP6-SERVERS.ARPA 199.253.182.182 2001:500:86::86
+nserver:      C.IP6-SERVERS.ARPA 196.216.169.11 2001:43f8:110::11
+nserver:      D.IP6-SERVERS.ARPA 200.7.86.53 2001:13c7:7012::53
+nserver:      E.IP6-SERVERS.ARPA 2001:dc0:2001:a:4608::59 202.12.29.59
+nserver:      F.IP6-SERVERS.ARPA 193.0.9.2 2001:67c:e0::2
+ds-rdata:     13880 8 2 068554efcb5861f42af93ef8e79c442a86c16fc5652e6b6d2419ed527f344d17
+ds-rdata:     45094 8 2 e6b54e0a20ce1edbfcb6879c02f5782059cecb043a31d804a04afa51af01d5fb
+ds-rdata:     64060 8 2 8a11501086330132be2c23f22dedf0634ad5ff668b4aa1988e172c6a2a4e5f7b
+
+remarks:      IAB assigned the technical role to the IANA Department
+remarks:      of ICANN; see RFC 3172.
+
+created:      2001-11-10
+changed:      2015-08-10
+source:       IANA
+

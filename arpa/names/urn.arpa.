@@ -1,0 +1,9 @@
+urn.arpa.	172800	IN	NS	a.iana-servers.net.
+urn.arpa.	172800	IN	NS	b.iana-servers.net.
+urn.arpa.	172800	IN	NS	c.iana-servers.net.
+urn.arpa.	172800	IN	NS	ns2.lacnic.net.
+urn.arpa.	172800	IN	NS	sec3.apnic.net.
+urn.arpa.	86400	IN	DS	28996 8 2 8e66d01a1e5864bcdb8e1f85579aec7c8c536c9d6fc7032ee708e869fd27f3d3
+urn.arpa.	86400	IN	DS	34555 8 2 bd743967def1caf0812fe9eff2371d3adf29e27251db272145a5d523c92f7101
+urn.arpa.	86400	IN	DS	45052 8 2 7685b675f93ada412cfe534820c8dcc55654b1711f677ba83a8564c12943f695
+urn.arpa.	86400	IN	RRSIG	DS 8 2 86400 20160714120000 20160704110000 53691 arpa. MinH8CxOAanBrrf+vCOSg0Xr9HMWK070wH7hZqhRGKUcCMTrzCqRbx+1GVG6TvGS7e6fT/xRJRKifLgQ1KJzn+/UHTu33wFllsl+sAmZ4bd/q0ZCM7ropoxEsH8942gl7rJgofAc2JaQ6DWe6NgtGmMyGXj8xzI3m+xdG8/THjE=

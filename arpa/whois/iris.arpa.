@@ -1,0 +1,53 @@
+[Querying whois.iana.org]
+[whois.iana.org]
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       IRIS.ARPA
+
+organisation: Internet Architecture Board (IAB)
+address:      c/o IETF Administrative Support Activity, ISOC
+address:      1775 Wiehle Ave.
+address:      Suite 102
+address:      Reston Virginia 20190-5108
+address:      United States
+
+contact:      administrative
+organisation: Internet Architecture Board (IAB)
+address:      c/o IETF Administrative Support Activity, ISOC
+address:      1775 Wiehle Ave.
+address:      Suite 102
+address:      Reston Virginia 20190-5108
+address:      United States
+phone:        +1 703 326 9880
+fax-no:       +1 703 326 9881
+e-mail:       iab@iab.org
+
+contact:      technical
+name:         Internet Assigned Numbers Authority (IANA)
+organisation: Internet Corporation for Assigned Names and Numbers (ICANN)
+address:      12025 Waterfront Drive
+address:      Suite 300
+address:      Los Angeles California 90094
+address:      United States
+phone:        +1 310 301 5800
+fax-no:       +1 310 823 8649
+e-mail:       tld-contact@iana.org
+
+nserver:      A.IANA-SERVERS.NET 199.43.132.53 2001:500:8c::53
+nserver:      B.IANA-SERVERS.NET 199.43.133.53 2001:500:8d::53
+nserver:      C.IANA-SERVERS.NET 199.43.134.53 2001:500:8e::53
+nserver:      NS2.LACNIC.NET 200.3.13.11 2001:13c7:7002:3000::11
+nserver:      SEC3.APNIC.NET 2001:dc0:1:0:4777::140 202.12.28.140
+ds-rdata:     44285 8 2 05cbf77375a8bf5702cf8e261ff947be8c8ab7a0b9485a0241edcfe2f155c7f3
+ds-rdata:     38534 8 2 163416c9dcaf8d1babfec16552ed109029607907ab80b195e1dab40f1792a59c
+ds-rdata:     39464 8 2 1e09a2d6374800d54cfd0e52293906ccf7db7e923dcab7015e4bb697d76d9846
+
+remarks:      IAB assigned the technical role to the IANA Department
+remarks:      of ICANN; see RFC 3172.
+
+created:      2006-08-29
+changed:      2015-08-10
+source:       IANA
+
