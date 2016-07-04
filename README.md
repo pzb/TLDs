@@ -1,7 +1,20 @@
-# TLDs
-Top Level Domain data
+# Top Level Domains
 
-Each directory is one TLD.  Some TLDs use NSEC3 type DNSSEC records.  As this generates names that are salted iterated hashes of the real names, the NSEC3 names change every time the salt or iteration count changes.  These hashed names are in their own directory when present in the TLD to make it easier to differentiate between registered names and the generated names.
+Every host name on the Internet ends with a top level domain.  It is the part after the last period.  For example com, net, org, us, au, and za are all top level domains.
+
+Most top level domains fall into two categories: country code TLDs or generic TLDs.  A few are test domains that are no longer used. However a very small number don't really fall into any of the previous categories.  These are:
+
+  * arpa
+  * edu
+  * gov
+  * int
+  * mil
+
+Data on these domains is somewhat hard to come by.  The zone for arpa can be downloaded from https://www.internic.net/domains/arpa.zone, but the registries for gov, mil, and int do not have zone file access programs.
+
+This data is the result of research into these zones.  It uses data from various sources (see the Thanks section) to help gather the info that would be available if zone files were published.  It is an approximation of what is likely in the zone files but may be incomplete.
+
+Each directory is for one TLD and contains both DNS and WHOIS information (where available).  For TLDs that use NSEC3 type DNSSEC records, the names that are hashes are separated into their own directory to help isolate the churn caused by salt or iteration count updates.
 
 ### Thanks
-This data would not be possible without the GSA's data repository, scans.io and censys.io, https://github.com/esonderegger/dotmil-domains, and other online data sources.
+This data would not be possible without the GSA's data repository, UMich's scans.io and censys.io, the https://github.com/esonderegger/dotmil-domains data, and many other online data sources.
