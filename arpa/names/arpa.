@@ -1,4 +1,43 @@
-arpa.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2016070401 1800 900 604800 86400
-arpa.	86400	IN	RRSIG	SOA 8 1 86400 20160714120000 20160704110000 53691 arpa. TOsRDkGBtMc6YzMvuwxZ+hzrJdmXjgqYO0TSS+vlmkyXD7Pl1Drz3sx/vlWZbLFxep88An/jIYSd0qROKuUbwnywvtwmylVkEGo5RWsBYKV6c0o24A6RRy6UIqHbaUv12SNZsj9u7l03vExWkeYnwsHho3vyjj294nhJye6lQ9E=
-arpa.	86400	IN	RRSIG	NSEC 8 1 86400 20160714120000 20160704110000 53691 arpa. HghE9XziflfzjNj1Tyw/dE69HLe4JgExiYADoFEdNF4fUr9KBc8sUy8UY0VYqSOEL7fGmcj1dGqH5++ZTP6PPTHfB89t3VAGiTfdguIrrbsh8yTeeJTqkAhvvwAQyNqITViUp19VptA9uPmADGQnWagOiVz4FVnlp6vV/eKJlBo=
+arpa.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2016070500 1800 900 604800 86400
+arpa.	518400	IN	NS	a.root-servers.net.
+arpa.	518400	IN	NS	b.root-servers.net.
+arpa.	518400	IN	NS	c.root-servers.net.
+arpa.	518400	IN	NS	d.root-servers.net.
+arpa.	518400	IN	NS	e.root-servers.net.
+arpa.	518400	IN	NS	f.root-servers.net.
+arpa.	518400	IN	NS	g.root-servers.net.
+arpa.	518400	IN	NS	h.root-servers.net.
+arpa.	518400	IN	NS	i.root-servers.net.
+arpa.	518400	IN	NS	k.root-servers.net.
+arpa.	518400	IN	NS	l.root-servers.net.
+arpa.	518400	IN	NS	m.root-servers.net.
+arpa.	518400	IN	RRSIG	NS 8 1 518400 20160715000000 20160704230000 53691 arpa. i8YllD0CJdXNDMBo/fMMbt8dN8QcBDXJOaUWqatgpfCrlYnE7dQC0mcL6c17zcLDju0FYOlomnWpYsciD+CEOWMKLeEZbz7TkprIgiaEhI5J+zpTROuWQeOMxKMOi0536wuh8ePLKJPglXFrT82Ua9r/0D0pKnlifLLhEnbbZ1o=
+arpa.	86400	IN	RRSIG	SOA 8 1 86400 20160715000000 20160704230000 53691 arpa. R3MKTk17Xp6gVigupwng79cidP6KLeuGhKftBIcA1sCGpH6vYFZAxpboZuXxVvZT+y7rGY38SbFC5PvPyDFnTdJry5pGnnS4H1wUDOiBte8eZE3qxYt3Pv66lvXJokdSX8KqjtChP0Y7EG79PR6Q17AhYy7BylFx2omM7FubmEQ=
+arpa.	86400	IN	RRSIG	NSEC 8 1 86400 20160715000000 20160704230000 53691 arpa. gDXch2hjTjfYrXVYl2QQFpVuuGvWZAl9eoRsbgiMhOlI6ZQwQq+Dst52AY/BMnP8lttBBRSfBf1SfF4BZ1Q8Tn2s3slRvGf/8n60dWdvkKZg0vrklW5LSeBaLNHKs9uqQzDEzMDAIpEJeSvbMdn75BPYJ3bkNPC4pMX4RUQK6ac=
+arpa.	172800	IN	RRSIG	DNSKEY 8 1 172800 20160715235959 20160701000000 42581 arpa. BVKkADxB2FGWGN/Hbu3u4ISRG7z5ofR+FtISpiYltjKZtD4JNSr3SSCIAIbkn0nYpjJjxxNVYqgNBsoomESGlv+Gay0VVkQKhIsgHQag4NSvstVwh5xQxe4k6vy+CXA5bcFE19zrLoP8fBR87Wa2BVK9MkR8gV8pCljwfPLiR6NgXi+L3aHEWgMdTBm4iUA81/fl4s2ioOs+TWaTR3DFuv9JAYP1AIUFFLRtXG+pG+CLOktrPdf2dusMMAm1QFfw89AOygd2bIbPtRdnwJ8Fr8Hq9UjwI+mJu+V23cR9FFXSjRKA5MY6hmKTDYLe9R3EVUC7bzmx3mAfYbY4Eht8ig==
 arpa.	86400	IN	NSEC	as112.arpa. NS SOA RRSIG NSEC DNSKEY 
+arpa.	172800	IN	DNSKEY	256 3 8 AwEAAarRxmgg17JCsBxznryDG40Jkn83isaQvz9omNTSO5fO29i08q/GyRfK9ytWRxfmm5fqk+OQd+zbHH6P4XmJp3NCfxosb1ST1r5+1yOel9pg4z9BxkMlN+QYx9zRY9YT0KEHSLA5pkPmVsY3UbwlMxBUOXKF0H+/uR+cMfqCOTpV ;{id = 38746 (zsk), size = 1024b}
+arpa.	172800	IN	DNSKEY	256 3 8 AwEAAa8dKr9dKCi/IAJowyJZYnpQMQosPcpVV29LQgOTgOoQyhHBWvmFoGQkIqfQtzb71BB9kHUn640C7pOKcFRSQtiB9DYUUYnzbybSQCLU8vuYxZYd69fPepn37crOjnAYZbMWOLJi5GFU/To5WQcPeHRzkOkhDrXmwaHyCNV4iIb9 ;{id = 53691 (zsk), size = 1024b}
+arpa.	172800	IN	DNSKEY	257 3 8 AwEAAaTeX8QjGPfu932a6OfQGYeeIdyXdLGLbvQD4LdNmEqJLL98kdOWB3bE97Wdh3FzI87OOqAVCITqWxqAM+phyZ6DsBzHpLDdqvFXkvv99n042rU1DROyIuHdZe/0qjR56PboiSEM6I7cPJWGJxlnR+JZVWXWJ3lK38teTaVrNm2Te/WPU2ntHY160etwVlxms4xbXa7WBbWXEq1q/9y18A56N/yz2dKkVLh9fmMU/frslsnn5BDYlkg4Xo0V+cw2Qw46mYV4g03ueCiDJAenUfV4iU9ud2h0Dq6Rhz7GMuTojDu3hdUz4DskR66yCetWRyofLCwVtZShGYqqLbiDTJc= ;{id = 42581 (ksk), size = 2048b}
+a.root-servers.net.	3600000	IN	A	198.41.0.4
+a.root-servers.net.	3600000	IN	AAAA	2001:503:ba3e::2:30
+b.root-servers.net.	3600000	IN	A	192.228.79.201
+b.root-servers.net.	3600000	IN	AAAA	2001:500:84::b
+c.root-servers.net.	3600000	IN	A	192.33.4.12
+c.root-servers.net.	3600000	IN	AAAA	2001:500:2::c
+d.root-servers.net.	3600000	IN	A	199.7.91.13
+d.root-servers.net.	3600000	IN	AAAA	2001:500:2d::d
+e.root-servers.net.	3600000	IN	A	192.203.230.10
+f.root-servers.net.	3600000	IN	A	192.5.5.241
+f.root-servers.net.	3600000	IN	AAAA	2001:500:2f::f
+g.root-servers.net.	3600000	IN	A	192.112.36.4
+h.root-servers.net.	3600000	IN	A	198.97.190.53
+h.root-servers.net.	3600000	IN	AAAA	2001:500:1::53
+i.root-servers.net.	3600000	IN	A	192.36.148.17
+i.root-servers.net.	3600000	IN	AAAA	2001:7fe::53
+k.root-servers.net.	3600000	IN	A	193.0.14.129
+k.root-servers.net.	3600000	IN	AAAA	2001:7fd::1
+l.root-servers.net.	3600000	IN	A	199.7.83.42
+l.root-servers.net.	3600000	IN	AAAA	2001:500:9f::42
+m.root-servers.net.	3600000	IN	A	202.12.27.33
+m.root-servers.net.	3600000	IN	AAAA	2001:dc3::35
