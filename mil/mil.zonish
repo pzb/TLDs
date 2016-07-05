@@ -1,0 +1,1356 @@
+mil.	21600	IN	SOA	con1.nipr.mil. disa\.columbus\.ns\.mbx\.hostmaster-dod-nic.mail.mil. 2016070101 3600 900 1209600 10800
+mil.	21600	IN	NS	con1.nipr.mil.
+mil.	21600	IN	NS	con2.nipr.mil.
+mil.	21600	IN	NS	eur1.nipr.mil.
+mil.	21600	IN	NS	eur2.nipr.mil.
+mil.	21600	IN	NS	pac1.nipr.mil.
+mil.	21600	IN	NS	pac2.nipr.mil.
+mil.	10800	IN	DNSKEY	256 3 8 AwEAAb+npfn7fjRVdLVRuxcs9w92yzY6PhkKbZlnXNs3xsqvogTVdjC6rRRT1ds92Y8gZ5rSn6xiQAQxIBYqkOQonjxaI4ZDiWbtpeleaZSuEdfWmC0ACES3FPHxKkweFrbL/Lrkp5O87O0VXaCb7OzB63UYj9CeG2dJwwVZpURi9w6lzq9f ;{id = 1134 (zsk), size = 1048b}
+mil.	10800	IN	DNSKEY	256 3 8 AwEAAcdOe7r3Qmif59mpYBt21f0OEVIJ7P+0uAgOhXaFtQfCnUVTCtgxoLuCKSoXovjW+k2ohHhaMAL1H91iquHtvmRxb+5kpuJ4KIKrhdW1uoAfcAFEhmi4TlYSIDFnjyu17neCdv4A5tnptp9iny/V5g0znWAB4FzQIReIO/iwmzCxz0cj ;{id = 16413 (zsk), size = 1048b}
+mil.	10800	IN	DNSKEY	257 3 8 AwEAAbQljPRNdnhq+9EsMJFiFHiHSOa3x/YxSMLqMNG6Wi+/35EHQs337uCsEkGZpbQeLcZwjpyFBZS5VGGCmQJrkvwBCl1FgMKXg42vq0mOTmVfrKWG15hG5o6v/qE91ca/h+4ZMvFFRE5A2BZNDgYP3SjJa7ULlGdoWOFT+PD//pt4F+8EB8ubqNVVdjb8CXvgez52B/5FIm2dJsYxz3JZCv314JCnGxw0BMbNhbPOMO5VP+cdnIJnVjbYeN3Ypr0tc1u9KwFfUWQKBCCQecwZLc875XxoS3/N6NxlbIijLWHSRrirjjDRCGA2GJztlJ5vMJnIG/fz5baCN//b6Hnpz+8= ;{id = 26905 (ksk), size = 2048b}
+af.mil.	21600	IN	NS	osan-ns10.afnoc.af.mil.
+af.mil.	21600	IN	NS	beale-ns10.afnoc.af.mil.
+af.mil.	21600	IN	NS	langley-ns10.afnoc.af.mil.
+af.mil.	21600	IN	NS	lackland-ns10.afnoc.af.mil.
+af.mil.	21600	IN	NS	peterson-ns10.afnoc.af.mil.
+af.mil.	21600	IN	NS	ramstein-ns10.afnoc.af.mil.
+af.mil.	10800	IN	DS	40030 8 1 dd341629f45e6308d04c15bacc1c8d2b3892a36d
+af.mil.	10800	IN	DS	40030 8 2 348de1542e340a9e874be71a0f9b9e048a6b796ef4e629c08b020206a49f98fc
+beale-ns10.afnoc.af.mil.	21600	IN	A	132.3.65.10
+lackland-ns10.afnoc.af.mil.	21600	IN	A	132.3.45.10
+langley-ns10.afnoc.af.mil.	21600	IN	A	132.3.29.10
+osan-ns10.afnoc.af.mil.	21600	IN	A	132.3.13.10
+peterson-ns10.afnoc.af.mil.	21600	IN	A	132.3.57.10
+ramstein-ns10.afnoc.af.mil.	21600	IN	A	132.3.25.10
+afhsc.mil.	21600	IN	NS	ns01.army.mil.
+afhsc.mil.	21600	IN	NS	ns02.army.mil.
+afhsc.mil.	21600	IN	NS	ns03.army.mil.
+afirm.mil.	21600	IN	NS	ns01.army.mil.
+afirm.mil.	21600	IN	NS	ns02.army.mil.
+afirm.mil.	21600	IN	NS	ns03.army.mil.
+afmes.mil.	21600	IN	NS	ns01.army.mil.
+afmes.mil.	21600	IN	NS	ns02.army.mil.
+afmes.mil.	21600	IN	NS	ns03.army.mil.
+afmmast.mil.	21600	IN	NS	ns.jtfgno.mil.
+afmmast.mil.	21600	IN	NS	ns.cybercom.mil.
+afmmast.mil.	21600	IN	NS	ns1.csd.disa.mil.
+afmmast.mil.	21600	IN	NS	guv10m01.mont.disa.mil.
+afmmast.mil.	21600	IN	NS	guv10m02.mont.disa.mil.
+afmmast.mil.	21600	IN	NS	utindo02.csd.disa.mil.
+afmmast.mil.	10800	IN	DS	4729 8 1 e090ebcb5e4313c7b48c367d6e4479d0f4526dc8
+afmmast.mil.	10800	IN	DS	4729 8 2 c234a2e1e389dec6f171632e2189b49071406063e2a539d54eb51eaef994edec
+afms.mil.	21600	IN	NS	ns.jtfgno.mil.
+afms.mil.	21600	IN	NS	ns.cybercom.mil.
+afms.mil.	21600	IN	NS	ns1.csd.disa.mil.
+afms.mil.	21600	IN	NS	guv10m01.mont.disa.mil.
+afms.mil.	21600	IN	NS	guv10m02.mont.disa.mil.
+afms.mil.	21600	IN	NS	utindo02.csd.disa.mil.
+afms.mil.	10800	IN	DS	25339 8 1 cb91b3db7a88ddd3029d1e8a0c5a08f6172aaa9b
+afms.mil.	10800	IN	DS	25339 8 2 4273dd46f6aaba18228cfb895f9774609bbdeb2b1e0bd76e873a5e932502a793
+afphc.mil.	21600	IN	NS	ns01.army.mil.
+afphc.mil.	21600	IN	NS	ns02.army.mil.
+afphc.mil.	21600	IN	NS	ns03.army.mil.
+afpims.mil.	21600	IN	NS	lyra.dma.mil.
+afpims.mil.	21600	IN	NS	rigel.dma.mil.
+afpims.mil.	21600	IN	NS	altair.dma.mil.
+afpims.mil.	21600	IN	NS	castor.dodmedia.osd.mil.
+afpims.mil.	21600	IN	NS	luyten.dma.mil.
+afpims.mil.	10800	IN	DS	9520 8 1 44f46a495ff167407f5955f3bac615d7eba16e93
+afpims.mil.	10800	IN	DS	9520 8 2 cf71bc65f941f306ae9bee2a20bb7340b1bdd66fc39530f42a0e219b6cc9b230
+afpimsstaging.mil.	21600	IN	NS	lyra.dma.mil.
+afpimsstaging.mil.	21600	IN	NS	rigel.dma.mil.
+afpimsstaging.mil.	21600	IN	NS	altair.dma.mil.
+afpimsstaging.mil.	21600	IN	NS	castor.dodmedia.osd.mil.
+afpimsstaging.mil.	21600	IN	NS	luyten.dma.mil.
+afpimsstaging.mil.	10800	IN	DS	20470 8 1 4fa7f3de48352f23b93bd2cf85f249e960514794
+afpimsstaging.mil.	10800	IN	DS	20470 8 2 c3d1e7b2f5f83bea109183e9779ef9fba7e3f1bede35e1e62e2f8d4a4243caaa
+africom.mil.	21600	IN	NS	ns01.army.mil.
+africom.mil.	21600	IN	NS	ns02.army.mil.
+africom.mil.	21600	IN	NS	ns03.army.mil.
+agile.mil.	21600	IN	NS	nediacd003u.dodiis.mil.
+agile.mil.	21600	IN	NS	nediacd004u.dodiis.mil.
+ah.mil.	21600	IN	NS	beast.dma.mil.
+ah.mil.	21600	IN	NS	beauty.dma.mil.
+ah.mil.	21600	IN	NS	kaucher.dma.mil.
+ah.mil.	21600	IN	NS	russell.dma.mil.
+ah.mil.	10800	IN	DS	2651 8 1 58603c373fa48a6bdf7cb85d8440fa75d0798d67
+airdrop.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+airdrop.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+airdrop.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+airdrop.mil.	10800	IN	DS	17044 8 1 2d74dcc08592b41c0cd6e94851fcd6b0707dc5ee
+airdrop.mil.	10800	IN	DS	17044 8 2 b6e6680fdc5b8ace6cc9ec822f4eb6d597d0ff0f330ce1fa698f84c4dfaea2a2
+alsa.mil.	21600	IN	NS	osan-ns10.afnoc.af.mil.
+alsa.mil.	21600	IN	NS	beale-ns10.afnoc.af.mil.
+alsa.mil.	21600	IN	NS	langley-ns10.afnoc.af.mil.
+alsa.mil.	21600	IN	NS	lackland-ns10.afnoc.af.mil.
+alsa.mil.	21600	IN	NS	peterson-ns10.afnoc.af.mil.
+alsa.mil.	21600	IN	NS	ramstein-ns10.afnoc.af.mil.
+alsa.mil.	10800	IN	DS	41221 8 1 9700d82aad79c60f5574efbf02c80cb893686943
+alsa.mil.	10800	IN	DS	41221 8 2 b6c18b30ed139b27997ada4008f63cef58805f32c094ba6f8a7ec4c740640136
+anthrax.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+anthrax.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+anthrax.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+anthrax.mil.	10800	IN	DS	21439 8 1 d9fe6347530dbefad2b66e0992526ca8004c58fb
+anthrax.mil.	10800	IN	DS	21439 8 2 95651d288a81290246fab851f4f0c2c6696c3e36175d884071f899bd3c1cb315
+apps.mil.	21600	IN	NS	ns.jtfgno.mil.
+apps.mil.	21600	IN	NS	ns.cybercom.mil.
+apps.mil.	21600	IN	NS	ns1.csd.disa.mil.
+apps.mil.	21600	IN	NS	guv10m01.mont.disa.mil.
+apps.mil.	21600	IN	NS	guv10m02.mont.disa.mil.
+apps.mil.	21600	IN	NS	utindo02.csd.disa.mil.
+apps.mil.	10800	IN	DS	62275 8 1 298075b43b5b0606c3cafa52cf004f69b7ef5362
+apps.mil.	10800	IN	DS	62275 8 2 4411436793668d43b66c10005c246575ed6e98943823e4cdf879e80823b0254d
+arl.mil.	21600	IN	NS	ns01.army.mil.
+arl.mil.	21600	IN	NS	ns02.army.mil.
+arl.mil.	21600	IN	NS	ns03.army.mil.
+arlingtoncemetery.mil.	21600	IN	NS	ns1.hqda.pentagon.mil.
+arlingtoncemetery.mil.	21600	IN	NS	ns3.hqda.pentagon.mil.
+army.mil.	21600	IN	NS	ns01.army.mil.
+army.mil.	21600	IN	NS	ns02.army.mil.
+army.mil.	21600	IN	NS	ns03.army.mil.
+ns01.army.mil.	21600	IN	A	140.153.43.44
+ns02.army.mil.	21600	IN	A	192.82.113.7
+ns03.army.mil.	21600	IN	A	130.114.200.6
+armymedicine.mil.	21600	IN	NS	ns01.army.mil.
+armymedicine.mil.	21600	IN	NS	ns02.army.mil.
+armymedicine.mil.	21600	IN	NS	ns03.army.mil.
+armyusa.mil.	21600	IN	NS	ns01.army.mil.
+armyusa.mil.	21600	IN	NS	ns02.army.mil.
+armyusa.mil.	21600	IN	NS	ns03.army.mil.
+arpa.mil.	21600	IN	NS	ns1.darpa.mil.
+arpa.mil.	21600	IN	NS	ns2.darpa.mil.
+arpa.mil.	10800	IN	DS	56269 8 1 3983a9ac096d58123d4fd7d24206c437eb4b6b20
+arpa.mil.	10800	IN	DS	56269 8 2 f0cfb6e3bb978821fce45aa897faefccfa7be3d96e55ebdc10a783e9e528c087
+asbca.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+asbca.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+asbca.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+asbca.mil.	10800	IN	DS	29629 8 1 3e7663b5db8de5a620c95c8a5ee72ae802bee17f
+asbca.mil.	10800	IN	DS	29629 8 2 e134d0bb408b26324da81d2e9fa6132c5cd55e2b2070f53d6c7a362bda30494a
+atac.mil.	21600	IN	NS	ns1.atac.mil.
+atac.mil.	21600	IN	NS	ns2.atac.mil.
+atac.mil.	10800	IN	DS	25312 8 1 342f2c51b0b39f2be56a73f6d0320a88fdfb454d
+atac.mil.	10800	IN	DS	25312 8 2 4c53eea08eb83a0667e493c1962c0da9b557f4c4d9fcd61f0e6f0620381d914b
+ns1.atac.mil.	21600	IN	A	214.16.248.3
+ns2.atac.mil.	21600	IN	A	214.16.248.4
+biometrics.mil.	21600	IN	NS	ns1.biometrics.mil.
+biometrics.mil.	21600	IN	NS	ns3.biometrics.mil.
+biometrics.mil.	10800	IN	DS	7501 8 1 02eef68487176373f85de31bf47a17aeb67fd685
+biometrics.mil.	10800	IN	DS	7501 8 2 8140b9ddb678b74357dbbe73b243dbb17ca54cc0fd80556216e3f8190b98768f
+ns1.biometrics.mil.	21600	IN	A	214.25.86.157
+ns3.biometrics.mil.	21600	IN	A	214.25.86.158
+bta.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+bta.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+bta.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+bta.mil.	10800	IN	DS	4006 8 1 5b257f140a4f76c12d65c764f9842cd8d28294fb
+bta.mil.	10800	IN	DS	4006 8 2 f3851c182df78f80fa7282b77954241800fc09455c120cff6aeb734552fff24a
+budget.mil.	21600	IN	NS	beast.dma.mil.
+budget.mil.	21600	IN	NS	beauty.dma.mil.
+budget.mil.	21600	IN	NS	kaucher.dma.mil.
+budget.mil.	21600	IN	NS	russell.dma.mil.
+budget.mil.	10800	IN	DS	62122 8 1 d3d397d5f57418f8e4ee0d2a924c2f69359a8967
+cac.mil.	21600	IN	NS	nsi1a.dtic.mil.
+cac.mil.	21600	IN	NS	nsi2a.dtic.mil.
+cac.mil.	10800	IN	DS	32721 10 1 f5383a85c9bc5f5792ba6fd09758b6e98be02f6e
+cac.mil.	10800	IN	DS	32721 10 2 679b5aa1c3c6d294a035e37eeb365dd0ba5dc839c6624ae8491feaafae58fb34
+cap.mil.	21600	IN	NS	d116001.dmdc.mil.
+cap.mil.	21600	IN	NS	d117001.dmdc.mil.
+cap.mil.	21600	IN	NS	d118001.dmdc.mil.
+cap.mil.	10800	IN	DS	34839 10 1 86f2e42612376386e81fb1fd5421a78463c826d1
+cap.mil.	10800	IN	DS	34839 10 2 4421ca1842828a8b5caa196c856a9529ac3e37d4f5c1653d5bedfaca8248a0b8
+capmed.mil.	21600	IN	NS	ns01-cc-gw.health.mil.
+capmed.mil.	21600	IN	NS	ns01-ee-gw.health.mil.
+capmed.mil.	21600	IN	NS	ns01-we-gw.health.mil.
+capmed.mil.	21600	IN	NS	ns01-ncr-gw.health.mil.
+capmed.mil.	21600	IN	NS	ns01-nwc-gw.health.mil.
+capmed.mil.	21600	IN	NS	ns01-pac-gw.health.mil.
+capmed.mil.	21600	IN	NS	ns01-sea-gw.health.mil.
+capmed.mil.	21600	IN	NS	ns01-sec-gw.health.mil.
+capmed.mil.	21600	IN	NS	ns01-swc-gw.health.mil.
+capmed.mil.	10800	IN	DS	6400 8 1 c7f54827be1011ad0ef9ff546f1283a9cb7a11d8
+capmed.mil.	10800	IN	DS	6400 8 2 b1c6c6657c733907564a3c73a8d554b18e108a82d391345c22b5de6a7871436e
+centcom.mil.	21600	IN	NS	ns4.centcom.mil.
+centcom.mil.	21600	IN	NS	ns5.centcom.mil.
+centcom.mil.	21600	IN	NS	hqnxdn01.centcom.mil.
+centcom.mil.	21600	IN	NS	hqnxdn02.centcom.mil.
+centcom.mil.	21600	IN	NS	sxnvdn01.centcom.mil.
+centcom.mil.	21600	IN	NS	sxnvdn02.centcom.mil.
+centcom.mil.	10800	IN	DS	55477 8 1 61da8bea5872f3b22bb13848f5c8bab043784574
+centcom.mil.	10800	IN	DS	55477 8 2 da97c9aa3295f1152c233c2c3c3d2683ad97ee15fbfebba6d85f14fe6e53186d
+hqnxdn01.centcom.mil.	21600	IN	A	214.26.69.26
+hqnxdn02.centcom.mil.	21600	IN	A	214.26.69.27
+ns4.centcom.mil.	21600	IN	A	214.27.97.51
+ns5.centcom.mil.	21600	IN	A	214.27.97.52
+sxnvdn01.centcom.mil.	21600	IN	A	214.26.164.155
+sxnvdn02.centcom.mil.	21600	IN	A	214.26.164.156
+cert.mil.	21600	IN	NS	ns.jtfgno.mil.
+cert.mil.	21600	IN	NS	ns.cybercom.mil.
+cert.mil.	21600	IN	NS	ns1.csd.disa.mil.
+cert.mil.	21600	IN	NS	guv10m01.mont.disa.mil.
+cert.mil.	21600	IN	NS	guv10m02.mont.disa.mil.
+cert.mil.	21600	IN	NS	utindo02.csd.disa.mil.
+cert.mil.	10800	IN	DS	10450 8 1 30a73d53afb39c091f5daa8a64b5fa68cc9beff7
+cert.mil.	10800	IN	DS	10450 8 2 153b34f14ae99c411a746fa72bab8eae845d97b006e496c1e90e13ad211c7842
+ces.mil.	21600	IN	NS	ns.jtfgno.mil.
+ces.mil.	21600	IN	NS	ns.cybercom.mil.
+ces.mil.	21600	IN	NS	ns1.csd.disa.mil.
+ces.mil.	21600	IN	NS	guv10m01.mont.disa.mil.
+ces.mil.	21600	IN	NS	guv10m02.mont.disa.mil.
+ces.mil.	21600	IN	NS	utindo02.csd.disa.mil.
+ces.mil.	10800	IN	DS	6409 8 1 8ecaaa633d0065ded47a64ee2ce705ef037058bd
+ces.mil.	10800	IN	DS	6409 8 2 6fd12ecd1a3dc484d08dbf2a877e9d177b5d806e29c88c9061acd70c37a5d354
+coic.mil.	21600	IN	NS	ns1.atac.mil.
+coic.mil.	21600	IN	NS	ns2.atac.mil.
+coic.mil.	10800	IN	DS	15604 8 1 9d338ffc5617a4b745f5395d00c22c8c9b5e718e
+coic.mil.	10800	IN	DS	15604 8 2 f3903bf884f9b289f081e74ed8c19603a82768136f84d5fc4b707b6b4aac3037
+cybercom.mil.	21600	IN	NS	ns.jtfgno.mil.
+cybercom.mil.	21600	IN	NS	ns.cybercom.mil.
+cybercom.mil.	21600	IN	NS	ns1.csd.disa.mil.
+cybercom.mil.	21600	IN	NS	utindo02.csd.disa.mil.
+cybercom.mil.	10800	IN	DS	22192 8 1 49d282850ae938bd351c3fc801166ab2d9912cb7
+cybercom.mil.	10800	IN	DS	22192 8 2 3ec94220e225763d50c4cf4d7e9d2a5c457124b68e00d1515b685ca3cdd3d2b8
+ns.cybercom.mil.	21600	IN	A	131.77.60.235
+daio.mil.	21600	IN	NS	npdadc01.daio.mil.
+daio.mil.	21600	IN	NS	npdadc02.daio.mil.
+npdadc01.daio.mil.	21600	IN	A	214.38.221.114
+npdadc02.daio.mil.	21600	IN	A	214.38.221.115
+darpa.mil.	21600	IN	NS	ns1.darpa.mil.
+darpa.mil.	21600	IN	NS	ns2.darpa.mil.
+darpa.mil.	21600	IN	NS	ns3.darpa.mil.
+darpa.mil.	10800	IN	DS	11029 8 1 f1264779490f6564a80e6446c52b597125a4fa1a
+darpa.mil.	10800	IN	DS	11029 8 2 c5d5cba5ed4552d5646e3a2923b5c69bfecec25ae8f36f5e2150fe622b1f45c2
+ns1.darpa.mil.	21600	IN	A	192.5.18.195
+ns2.darpa.mil.	21600	IN	A	192.5.18.70
+ns3.darpa.mil.	21600	IN	A	158.63.250.6
+dau.mil.	21600	IN	NS	ns1.dau.mil.
+dau.mil.	21600	IN	NS	ns2.dau.mil.
+dau.mil.	10800	IN	DS	11819 8 1 0ba5459d1af2e280ea9aff1d27c8e38bef349d85
+dau.mil.	10800	IN	DS	11819 8 2 b2035873ca1c3b91689daeec0da06f0114ba50fbbe87eae67c55f00d1194929f
+ns1.dau.mil.	21600	IN	A	214.25.9.174
+ns2.dau.mil.	21600	IN	A	214.25.1.174
+dc3.mil.	21600	IN	NS	ns2.dc3.mil.
+dc3.mil.	21600	IN	NS	ns3.dc3.mil.
+dc3.mil.	10800	IN	DS	44035 8 1 d6e00e81c51a7d4e18f36213c1955306b2a279f6
+dc3.mil.	10800	IN	DS	44035 8 2 c891cd0f5a894ee1290e1591f22384fa9a58b431b90ebbbad6d99f11cfc251a5
+ns2.dc3.mil.	21600	IN	A	214.3.152.77
+ns3.dc3.mil.	21600	IN	A	214.3.152.78
+dcaa.mil.	21600	IN	NS	hq1-dns.dcaa.mil.
+dcaa.mil.	21600	IN	NS	hq2-dns.dcaa.mil.
+dcaa.mil.	21600	IN	NS	mem1-dns.dcaa.mil.
+dcaa.mil.	21600	IN	NS	mem2-dns.dcaa.mil.
+dcaa.mil.	10800	IN	DS	62522 5 1 6f0fbc47be08d760e4cc3b63b68c5375f075c2eb
+hq1-dns.dcaa.mil.	21600	IN	A	214.25.28.6
+hq2-dns.dcaa.mil.	21600	IN	A	214.25.28.7
+mem1-dns.dcaa.mil.	21600	IN	A	214.37.44.6
+mem2-dns.dcaa.mil.	21600	IN	A	214.37.44.7
+dcma.mil.	21600	IN	NS	ns1.dcma.mil.
+dcma.mil.	21600	IN	NS	ns2.dcma.mil.
+dcma.mil.	10800	IN	DS	44899 8 1 202cb420db37065ad6a1335a62e4dcdab80431c5
+dcma.mil.	10800	IN	DS	44899 8 2 98deca6b09ce668ff1752f251d06fc3bdf1065e59f4b4ee1becfe0c7c318fc34
+ns1.dcma.mil.	21600	IN	A	144.183.216.3
+ns2.dcma.mil.	21600	IN	A	144.183.196.3
+dcmo.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+dcmo.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+dcmo.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+dcmo.mil.	10800	IN	DS	38437 8 1 4418aa0e7623b07b3a609f6422b447bf5fa048a7
+dcmo.mil.	10800	IN	DS	38437 8 2 176fef4ee35b63021b174f0329cb1c3cede81b3f81111424ef331c1d77e33d47
+dcmsa.mil.	21600	IN	NS	dcmsans01.dcmsa.mil.
+dcmsa.mil.	21600	IN	NS	dcmsans02.dcmsa.mil.
+dcmsa.mil.	10800	IN	DS	49346 5 1 8954afc1fc5ef54613714f8f4a40783773b05db3
+dcmsans01.dcmsa.mil.	21600	IN	A	214.37.136.50
+dcmsans02.dcmsa.mil.	21600	IN	A	214.37.136.48
+dcmt.mil.	21600	IN	NS	dcmtns01.dcmt.mil.
+dcmt.mil.	21600	IN	NS	dcmtns02.dcmt.mil.
+dcmt.mil.	10800	IN	DS	50383 5 1 066d355086ff4f542634a64b9855ccdaf840c7b0
+dcmtns01.dcmt.mil.	21600	IN	A	214.38.128.50
+dcmtns02.dcmt.mil.	21600	IN	A	214.38.128.53
+dcoe.mil.	21600	IN	NS	ns01.army.mil.
+dcoe.mil.	21600	IN	NS	ns02.army.mil.
+dcoe.mil.	21600	IN	NS	ns03.army.mil.
+dds.mil.	21600	IN	NS	ns.jtfgno.mil.
+dds.mil.	21600	IN	NS	ns.cybercom.mil.
+dds.mil.	21600	IN	NS	ns1.csd.disa.mil.
+dds.mil.	10800	IN	DS	12532 8 1 8b2083da8051b6facf170e1ec6bac528548e33db
+dds.mil.	10800	IN	DS	12532 8 2 1934b3e74f2453118aaf2026932ccdabba1c48758cecdef200ee4d5331fd1b49
+ddto.mil.	21600	IN	NS	ddtodc01.ddto.mil.
+ddto.mil.	21600	IN	NS	ddtodc02.ddto.mil.
+ddto.mil.	10800	IN	DS	7469 5 1 93085e1299e8aa78d4265cb7218122beb173c164
+ddtodc01.ddto.mil.	21600	IN	A	214.25.107.10
+ddtodc02.ddto.mil.	21600	IN	A	214.25.107.11
+deca.mil.	21600	IN	NS	ns-east3.deca.mil.
+deca.mil.	21600	IN	NS	ns-west3.deca.mil.
+deca.mil.	10800	IN	DS	29281 8 1 c16e689f6b46e3ba994393ef7950bc25a2a38786
+deca.mil.	10800	IN	DS	29281 8 2 28d644a1b65e822f5c331815c1475bf13920aae0bd088532949a505f45384611
+ns-east3.deca.mil.	21600	IN	A	214.16.17.23
+ns-west3.deca.mil.	21600	IN	A	214.16.18.23
+defense.mil.	21600	IN	NS	beast.dma.mil.
+defense.mil.	21600	IN	NS	beauty.dma.mil.
+defense.mil.	21600	IN	NS	kaucher.dma.mil.
+defense.mil.	21600	IN	NS	russell.dma.mil.
+defense.mil.	10800	IN	DS	16892 8 1 3ea699726e491dc46ce501b071716e6d03a3279c
+defenseimagery.mil.	21600	IN	NS	beast.dma.mil.
+defenseimagery.mil.	21600	IN	NS	beauty.dma.mil.
+defenseimagery.mil.	21600	IN	NS	kaucher.dma.mil.
+defenseimagery.mil.	21600	IN	NS	russell.dma.mil.
+defenseimagery.mil.	10800	IN	DS	10886 8 1 55fa0fe413db3b1ca737ed7c7e5f3cf0cc9c5807
+defenseinnovationmarketplace.mil.	21600	IN	NS	nsi1a.dtic.mil.
+defenseinnovationmarketplace.mil.	21600	IN	NS	nsi2a.dtic.mil.
+defenseinnovationmarketplace.mil.	10800	IN	DS	41544 10 1 e61e9caaed04d474afa66d4fe54d9fdaa1e8dc16
+defenseinnovationmarketplace.mil.	10800	IN	DS	41544 10 2 fc67936a0a5fec961b6efd765c4f4370312225dd23b799eb612b5236eb5ae4f3
+defenselink.mil.	21600	IN	NS	beast.dma.mil.
+defenselink.mil.	21600	IN	NS	beauty.dma.mil.
+defenselink.mil.	21600	IN	NS	kaucher.dma.mil.
+defenselink.mil.	21600	IN	NS	russell.dma.mil.
+defenselink.mil.	10800	IN	DS	18226 8 1 dab52a45cd52c12bee42db66e7ba124af70021ea
+deploymenthealth.mil.	21600	IN	NS	ns01.army.mil.
+deploymenthealth.mil.	21600	IN	NS	ns02.army.mil.
+deploymenthealth.mil.	21600	IN	NS	ns03.army.mil.
+deps.mil.	21600	IN	NS	ns.jtfgno.mil.
+deps.mil.	21600	IN	NS	ns.cybercom.mil.
+deps.mil.	21600	IN	NS	ns1.csd.disa.mil.
+deps.mil.	21600	IN	NS	guv10m01.mont.disa.mil.
+deps.mil.	21600	IN	NS	guv10m02.mont.disa.mil.
+deps.mil.	21600	IN	NS	utindo02.csd.disa.mil.
+deps.mil.	10800	IN	DS	17776 8 1 659fafc1b7271486677a1deb349af756da597eaf
+deps.mil.	10800	IN	DS	17776 8 2 9dd426e6a4bf86e4c9527cf031187c9cd689c90a8ec284b88b38357a27f655b9
+dfas.mil.	21600	IN	NS	dzu3.dfas.mil.
+dfas.mil.	21600	IN	NS	dzu10.dfas.mil.
+dfas.mil.	21600	IN	NS	dzu12.dfas.mil.
+dfas.mil.	10800	IN	DS	53929 8 1 ac76de03b8d3634d03dcc3c357d0739995fe4c58
+dfas.mil.	10800	IN	DS	53929 8 2 89b9952c579ea751d1bbd5778fd60f747c1804e0c4b91d106d1a159767c84756
+dzu10.dfas.mil.	21600	IN	A	204.34.89.12
+dzu12.dfas.mil.	21600	IN	A	204.34.89.19
+dzu3.dfas.mil.	21600	IN	A	204.34.97.13
+dfba.mil.	21600	IN	NS	ns1.biometrics.mil.
+dfba.mil.	21600	IN	NS	ns3.biometrics.mil.
+dfba.mil.	10800	IN	DS	18991 8 1 dc97e7bcbb1d5a52220288f880231fff5e9f4a0d
+dfba.mil.	10800	IN	DS	18991 8 2 b9676043c45f1b623b8ae667cc11c7b80f285ec4a4d4566777e1d474656218af
+dha.mil.	21600	IN	NS	ns01-cc-gw.health.mil.
+dha.mil.	21600	IN	NS	ns01-ee-gw.health.mil.
+dha.mil.	21600	IN	NS	ns01-we-gw.health.mil.
+dha.mil.	21600	IN	NS	ns01-ncr-gw.health.mil.
+dha.mil.	21600	IN	NS	ns01-nwc-gw.health.mil.
+dha.mil.	21600	IN	NS	ns01-pac-gw.health.mil.
+dha.mil.	21600	IN	NS	ns01-sea-gw.health.mil.
+dha.mil.	21600	IN	NS	ns01-sec-gw.health.mil.
+dha.mil.	21600	IN	NS	ns01-swc-gw.health.mil.
+dha.mil.	10800	IN	DS	32674 8 1 df1fe015ccdd6a983d0994d9aab078eb0aa07db8
+dha.mil.	10800	IN	DS	32674 8 2 42927b45929a2d630c375556e8be604a8127a9d2bc0b1716d5d83a0aac189f25
+dhra.mil.	21600	IN	NS	nsi1a.dtic.mil.
+dhra.mil.	21600	IN	NS	nsi2a.dtic.mil.
+dhra.mil.	10800	IN	DS	26448 10 1 4066b1f384255217c6ff1a0dcc930f21f4a72c2d
+dhra.mil.	10800	IN	DS	26448 10 2 aea1b829223c55e5056734d9d7d16312666e38282064f6616b892dc4303529c7
+dia.mil.	21600	IN	NS	nediacd003u.dodiis.mil.
+dia.mil.	21600	IN	NS	nediacd004u.dodiis.mil.
+dimhrs.mil.	21600	IN	NS	ns.jtfgno.mil.
+dimhrs.mil.	21600	IN	NS	ns.cybercom.mil.
+dimhrs.mil.	21600	IN	NS	ns1.csd.disa.mil.
+dimhrs.mil.	21600	IN	NS	guv10m01.mont.disa.mil.
+dimhrs.mil.	21600	IN	NS	guv10m02.mont.disa.mil.
+dimhrs.mil.	21600	IN	NS	utindo02.csd.disa.mil.
+dimhrs.mil.	10800	IN	DS	20392 8 1 3f8a071f4c5b4f45d0e59e3379f765bf08a6cdf8
+dimhrs.mil.	10800	IN	DS	20392 8 2 10b84cc41fd9f67914a7f7830044df7185d1550d272510c852c8ca255fef8139
+dimoc.mil.	21600	IN	NS	beast.dma.mil.
+dimoc.mil.	21600	IN	NS	beauty.dma.mil.
+dimoc.mil.	21600	IN	NS	kaucher.dma.mil.
+dimoc.mil.	21600	IN	NS	russell.dma.mil.
+dimoc.mil.	10800	IN	DS	57674 8 1 2bec19f143975b64ae61e748818a91b1b3efef62
+disa.mil.	21600	IN	NS	ns.jtfgno.mil.
+disa.mil.	21600	IN	NS	ns.cybercom.mil.
+disa.mil.	21600	IN	NS	ns1.csd.disa.mil.
+disa.mil.	10800	IN	DS	50590 8 1 b349144db160e323a2d569bc300bb31e1e96fad5
+disa.mil.	10800	IN	DS	50590 8 2 90f44a88f28577d49f349d7d7d2c7aa238e3b131a0f7f1c19dafe5173cf1fba1
+ns1.csd.disa.mil.	21600	IN	A	152.229.110.235
+sdns1.csd.disa.mil.	21600	IN	A	131.64.140.8
+sdns2.csd.disa.mil.	21600	IN	A	214.22.172.8
+sdns3.csd.disa.mil.	21600	IN	A	158.15.104.8
+upbd0fda01.csd.disa.mil.	21600	IN	A	215.65.126.180
+upbd0fda02.csd.disa.mil.	21600	IN	A	215.65.126.181
+uphb0fda05.csd.disa.mil.	21600	IN	A	207.133.239.155
+uphb0fda06.csd.disa.mil.	21600	IN	A	207.133.239.156
+utindo02.csd.disa.mil.	21600	IN	A	152.229.110.236
+guv10m01.mont.disa.mil.	21600	IN	A	214.3.160.20
+guv10m02.mont.disa.mil.	21600	IN	A	214.3.160.21
+tlaloc.okc.disa.mil.	21600	IN	A	152.229.150.204
+tlaloc.okc.disa.mil.	21600	IN	A	214.3.13.204
+disagrid.mil.	21600	IN	NS	dns1.nipr.mil.
+disagrid.mil.	21600	IN	NS	dns2.nipr.mil.
+disagrid.mil.	10800	IN	DS	44017 8 1 ac6ad7c45118edd3e6fc99b8280a0c90a72a91c7
+disagrid.mil.	10800	IN	DS	44017 8 2 28f67dfdb4c7d9151687967185ec733e56a3c58029e61c5e914ceff0048e68f0
+distribute.mil.	21600	IN	NS	adns1.ustranscom.mil.
+distribute.mil.	21600	IN	NS	adns2.ustranscom.mil.
+distribute.mil.	21600	IN	NS	adns3.ustranscom.mil.
+distribute.mil.	10800	IN	DS	52132 8 1 8497496f66ea24d65d8a330b0a3850d45eb00555
+distribute.mil.	10800	IN	DS	52132 8 2 5a36b934753ad710a36b26b91a86601abb7d2e4482fb365136117ad543a2fcc5
+ditmac.mil.	21600	IN	NS	ns1.dss.mil.
+ditmac.mil.	21600	IN	NS	ns2.dss.mil.
+ditmac.mil.	10800	IN	DS	53920 8 1 fdeb460f1dfd29c97331f311b3a2d83abca3176a
+ditmac.mil.	10800	IN	DS	53920 8 2 f05f21273e413803bd01e586b91e8b91af529c5471adb7a045d21c3957bb7935
+diux.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+diux.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+diux.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+diux.mil.	10800	IN	DS	33835 8 1 7c54bb802b31f56d0f3eb9806db470f596737401
+diux.mil.	10800	IN	DS	33835 8 2 ef1d500469e37ec96f6e3d30ecea325bfbfc72894702041987ea058bfa81efb1
+djc2.mil.	21600	IN	NS	ns.jtfgno.mil.
+djc2.mil.	21600	IN	NS	ns.cybercom.mil.
+djc2.mil.	21600	IN	NS	ns1.csd.disa.mil.
+djc2.mil.	21600	IN	NS	guv10m01.mont.disa.mil.
+djc2.mil.	21600	IN	NS	guv10m02.mont.disa.mil.
+djc2.mil.	21600	IN	NS	utindo02.csd.disa.mil.
+djc2.mil.	10800	IN	DS	3652 8 1 da5a7478027734731c38bd150c18def5a06b4118
+djc2.mil.	10800	IN	DS	3652 8 2 f73f1cc619a1a40fcbb884de9afe4f5fd19122a0983eec07b678e3ab3c153567
+dla.mil.	21600	IN	NS	ns1.dla.mil.
+dla.mil.	21600	IN	NS	ns4.dla.mil.
+dla.mil.	10800	IN	DS	18199 8 1 89a92d17cdded85f2ac61f38f9cc5756a909c7f6
+dla.mil.	10800	IN	DS	18199 8 2 8b0f2e8fff5f46a019d1754be2d7f15faecb7b699d059d4f5d7264446da7eee2
+ns1.dla.mil.	21600	IN	A	206.38.35.3
+ns4.dla.mil.	21600	IN	A	131.78.81.254
+dlsa.mil.	21600	IN	NS	lambeau.doha.dlsa.mil.
+dlsa.mil.	21600	IN	NS	megatron.doha.dlsa.mil.
+lambeau.doha.dlsa.mil.	21600	IN	A	140.185.129.17
+megatron.doha.dlsa.mil.	21600	IN	A	140.185.129.16
+dma.mil.	21600	IN	NS	lyra.dma.mil.
+dma.mil.	21600	IN	NS	rigel.dma.mil.
+dma.mil.	21600	IN	NS	altair.dma.mil.
+dma.mil.	21600	IN	NS	castor.dodmedia.osd.mil.
+dma.mil.	21600	IN	NS	luyten.dma.mil.
+dma.mil.	10800	IN	DS	8980 8 1 284e7f74a3a9f9b2fac1b0237bc78f8562a7e07d
+dma.mil.	10800	IN	DS	8980 8 2 44c2711b43ee8b6198d21e7d9646cb7f95c0995cc1ce7036a9e4a9584f28b80e
+altair.dma.mil.	21600	IN	A	155.7.208.22
+beast.dma.mil.	21600	IN	A	155.7.145.113
+beauty.dma.mil.	21600	IN	A	155.7.145.112
+kaucher.dma.mil.	21600	IN	A	155.7.208.113
+luyten.dma.mil.	21600	IN	A	155.7.145.77
+lyra.dma.mil.	21600	IN	A	155.7.208.11
+rigel.dma.mil.	21600	IN	A	155.7.208.33
+russell.dma.mil.	21600	IN	A	155.7.208.112
+dmdc.mil.	21600	IN	NS	d116001.dmdc.mil.
+dmdc.mil.	21600	IN	NS	d117001.dmdc.mil.
+dmdc.mil.	21600	IN	NS	d118001.dmdc.mil.
+dmdc.mil.	10800	IN	DS	39843 10 1 7985d172c0b2195bce6957b39e9b5d4f5e8a1ce4
+dmdc.mil.	10800	IN	DS	39843 10 2 83b783296f09cfe47493ef23f5631215ec262dd3a1738aea631f206b2266f991
+d116001.dmdc.mil.	21600	IN	A	214.3.116.1
+d117001.dmdc.mil.	21600	IN	A	214.3.117.1
+d118001.dmdc.mil.	21600	IN	A	214.3.118.1
+dmsb.mil.	21600	IN	NS	ns01.army.mil.
+dmsb.mil.	21600	IN	NS	ns02.army.mil.
+dmsb.mil.	21600	IN	NS	ns03.army.mil.
+dod.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+dod.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+dod.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+dod.mil.	10800	IN	DS	25672 8 1 1807653ebe0e4c62994bcb7769d34b288083ce9d
+dod.mil.	10800	IN	DS	25672 8 2 5556ea0cb7d3b37122ec63c079e7769ffcfe1dcb38e1bb52e60e14ce8c1ec9a0
+doddacm.mil.	21600	IN	NS	ns1.dau.mil.
+doddacm.mil.	21600	IN	NS	ns2.dau.mil.
+dodea.mil.	21600	IN	NS	ns1.dodea.mil.
+dodea.mil.	21600	IN	NS	ns2.dodea.mil.
+dodea.mil.	10800	IN	DS	51598 5 1 df326b9b85c23bff55408fa05a501643d20794bb
+ns1.dodea.mil.	21600	IN	A	155.19.91.5
+ns2.dodea.mil.	21600	IN	A	155.19.91.6
+doded.mil.	21600	IN	NS	dns-grl.cnet.navy.mil.
+doded.mil.	21600	IN	NS	dns-pen.cnet.navy.mil.
+doded.mil.	10800	IN	DS	15757 8 1 8027e5294a335b3362a1b55d8fe1ef69eb980cac
+doded.mil.	10800	IN	DS	15757 8 2 51a20561c4eceb0d4c1ed43971b16f62a15f83afb196ba1a52ff03cd5ee63aff
+dodig.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+dodig.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+dodig.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+dodig.mil.	10800	IN	DS	57766 8 1 4ced777f76c3072b9beac71620fd7f31957e8c53
+dodig.mil.	10800	IN	DS	57766 8 2 7c776984796b77b21967552468652d0cd56f13440787f64239558df27b61a662
+dodiis.mil.	21600	IN	NS	nediacd003u.dodiis.mil.
+dodiis.mil.	21600	IN	NS	nediacd004u.dodiis.mil.
+dodiis.mil.	21600	IN	NS	papjicd0001n.dodiis.mil.
+nediacd003u.dodiis.mil.	21600	IN	A	214.3.138.10
+nediacd004u.dodiis.mil.	21600	IN	A	214.3.138.13
+papjicd0001n.dodiis.mil.	21600	IN	A	198.201.23.26
+dodimages.mil.	21600	IN	NS	beast.dma.mil.
+dodimages.mil.	21600	IN	NS	beauty.dma.mil.
+dodimages.mil.	21600	IN	NS	kaucher.dma.mil.
+dodimages.mil.	21600	IN	NS	russell.dma.mil.
+dodimages.mil.	10800	IN	DS	7214 8 1 a88a4097e58351f1851206405bc09d106605c6df
+dodir.mil.	21600	IN	NS	ns1.nosc.mil.
+dodir.mil.	21600	IN	NS	ns2.nosc.mil.
+dodir.mil.	21600	IN	NS	ns3.nosc.mil.
+dodir.mil.	10800	IN	DS	37264 8 1 e7821154b531487f0211b9ada9c72f4648763840
+dodir.mil.	10800	IN	DS	37264 8 2 b3a5d26488b308c019a3a509ed5257e76876f554624b73b3fca7124e701edc3d
+dodlive.mil.	21600	IN	NS	beast.dma.mil.
+dodlive.mil.	21600	IN	NS	beauty.dma.mil.
+dodlive.mil.	21600	IN	NS	kaucher.dma.mil.
+dodlive.mil.	21600	IN	NS	russell.dma.mil.
+dodlive.mil.	10800	IN	DS	59351 8 1 7a49127d7ef3c3383ee4a6e6674a9462e925933f
+dodmerb.mil.	21600	IN	NS	ns.jtfgno.mil.
+dodmerb.mil.	21600	IN	NS	ns.cybercom.mil.
+dodmerb.mil.	21600	IN	NS	ns1.csd.disa.mil.
+dodmerb.mil.	21600	IN	NS	guv10m01.mont.disa.mil.
+dodmerb.mil.	21600	IN	NS	guv10m02.mont.disa.mil.
+dodmerb.mil.	21600	IN	NS	utindo02.csd.disa.mil.
+dodmerb.mil.	10800	IN	DS	5014 8 1 74633ccd2a57aea6a80a20203743f19d95d0bbdc
+dodmerb.mil.	10800	IN	DS	5014 8 2 e4cdd8c2a6bc91518ff5791eed28214a9883fd320eef958da2e21fd718635246
+dodsurveys.mil.	21600	IN	NS	d116001.dmdc.mil.
+dodsurveys.mil.	21600	IN	NS	d117001.dmdc.mil.
+dodsurveys.mil.	21600	IN	NS	d118001.dmdc.mil.
+dodsurveys.mil.	10800	IN	DS	14029 8 1 b1b7d7de93693b6c0fb956ac3ad121958563ebc3
+dodsurveys.mil.	10800	IN	DS	14029 8 2 10e3c4c4a246a90891254d22bb9c17ef1a842f2f219262adefac9f4cf1688729
+dodtap.mil.	21600	IN	NS	d116001.dmdc.mil.
+dodtap.mil.	21600	IN	NS	d117001.dmdc.mil.
+dodtap.mil.	21600	IN	NS	d118001.dmdc.mil.
+dodtap.mil.	10800	IN	DS	54751 8 1 7529a8c9c52379a6d29fe7142a7041d1bbd10ceb
+dodtap.mil.	10800	IN	DS	54751 8 2 215b1d9f001a32067b47f0581e95e043df6473e0227b04a985837f292a68981e
+dodtechipedia.mil.	21600	IN	NS	nsi1a.dtic.mil.
+dodtechipedia.mil.	21600	IN	NS	nsi2a.dtic.mil.
+dodtechipedia.mil.	10800	IN	DS	7401 10 1 5c48db0aa7e807ce0283c21ae50e1dbecbb6c9c4
+dodtechipedia.mil.	10800	IN	DS	7401 10 2 5db068504f8f02bfe5c7d9a6d8944d048a0f3ca7814b44a13baefd1169f31cdb
+dodyrrp.mil.	21600	IN	NS	ns.jtfgno.mil.
+dodyrrp.mil.	21600	IN	NS	ns.cybercom.mil.
+dodyrrp.mil.	21600	IN	NS	ns1.csd.disa.mil.
+dodyrrp.mil.	21600	IN	NS	guv10m01.mont.disa.mil.
+dodyrrp.mil.	21600	IN	NS	guv10m02.mont.disa.mil.
+dodyrrp.mil.	10800	IN	DS	37054 8 1 a23891746a001f6ee2ece7292043041f1616293f
+dodyrrp.mil.	10800	IN	DS	37054 8 2 c6f2a320f58503bc37400880ae3e50bef1161b7b43baed649e2dda4e764307c6
+dpaa.mil.	21600	IN	NS	ns.jtfgno.mil.
+dpaa.mil.	21600	IN	NS	ns.cybercom.mil.
+dpaa.mil.	21600	IN	NS	ns1.csd.disa.mil.
+dpaa.mil.	10800	IN	DS	5392 8 1 d30fb4df02b81a934c053bea5a95fe05f0611b97
+dpaa.mil.	10800	IN	DS	5392 8 2 8f9392d26497e80a95e2cba313d2a050009c29f73b31e314ee48d734e785bee6
+dpat.mil.	21600	IN	NS	dpatns01.dpat.mil.
+dpat.mil.	21600	IN	NS	dpatns02.dpat.mil.
+dpat.mil.	10800	IN	DS	48337 5 1 d280daebb00b108434b0997cba81226305d42e0a
+dpatns01.dpat.mil.	21600	IN	A	214.25.105.30
+dpatns02.dpat.mil.	21600	IN	A	214.25.105.33
+dpmo.mil.	21600	IN	NS	dpmouns01.dpmo.mil.
+dpmo.mil.	21600	IN	NS	dpmouns02.dpmo.mil.
+dpmo.mil.	10800	IN	DS	49867 5 1 3b297c226ed72db0b035fa3768174e34bd573256
+dpmo.mil.	10800	IN	DS	49867 5 2 7cdcd3a845488883e67b7b3b2a10e890f3e8ba94969b8c11c7e742e107c62511
+dpmouns01.dpmo.mil.	21600	IN	A	214.29.68.22
+dpmouns02.dpmo.mil.	21600	IN	A	214.29.68.23
+dps.mil.	21600	IN	NS	ns.jtfgno.mil.
+dps.mil.	21600	IN	NS	ns.cybercom.mil.
+dps.mil.	21600	IN	NS	ns1.csd.disa.mil.
+dpsa.mil.	21600	IN	NS	ns01.army.mil.
+dpsa.mil.	21600	IN	NS	ns02.army.mil.
+dpsa.mil.	21600	IN	NS	ns03.army.mil.
+dren.mil.	21600	IN	NS	ns1.arl.hpc.mil.
+dren.mil.	21600	IN	NS	auth-east.dren.mil.
+dren.mil.	21600	IN	NS	auth-west.dren.mil.
+auth-east.dren.mil.	21600	IN	A	140.32.59.226
+auth-east.dren.mil.	21600	IN	AAAA	2001:480:a0:f003::226
+auth-west.dren.mil.	21600	IN	A	140.32.61.226
+auth-west.dren.mil.	21600	IN	AAAA	2001:480:b0:f003::226
+drmsc.mil.	21600	IN	NS	drmscex01.drmsc.mil.
+drmsc.mil.	21600	IN	NS	drmscns01.drmsc.mil.
+drmsc.mil.	21600	IN	NS	drmscns02.drmsc.mil.
+drmsc.mil.	10800	IN	DS	26846 5 1 65b736f4a5af0d21a34825ae573d2092a34e82b3
+drmsc.mil.	10800	IN	DS	26846 5 2 b01997b2fb20356bc77a788a86a2f52b46f9e0f665671df4cabd11cae47122da
+drmscex01.drmsc.mil.	21600	IN	A	214.38.136.13
+drmscns01.drmsc.mil.	21600	IN	A	214.38.136.10
+drmscns02.drmsc.mil.	21600	IN	A	214.38.136.11
+dsca.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+dsca.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+dsca.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+dsca.mil.	10800	IN	DS	45214 8 1 7087e0c814e51a812f02cb1099bf12b373d95b53
+dsca.mil.	10800	IN	DS	45214 8 2 56fde9eadcc8206d2c1f7dd5b9b904ce3b4f19acd27a20ece492a71b813a1cb5
+dscmo.mil.	21600	IN	NS	dscmo-dc01.dscmo.mil.
+dscmo.mil.	21600	IN	NS	dscmo-dc02.dscmo.mil.
+dscmo-dc01.dscmo.mil.	21600	IN	A	214.27.191.50
+dscmo-dc02.dscmo.mil.	21600	IN	A	214.27.191.51
+dspo.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+dspo.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+dspo.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+dspo.mil.	10800	IN	DS	31024 8 1 5e2f6f5612ba0075a75a2164ca03eb49c17a2459
+dspo.mil.	10800	IN	DS	31024 8 2 7dff4054ae1d7e81c5697203bbd39c44fec4a8458b9f2e5d4e0c375006caa0f4
+dss.mil.	21600	IN	NS	ns1.dss.mil.
+dss.mil.	21600	IN	NS	ns2.dss.mil.
+dss.mil.	10800	IN	DS	36865 8 1 3f38c96bd2eb7bcf9377825bb831926cd659fa81
+ns1.dss.mil.	21600	IN	A	207.132.241.19
+ns2.dss.mil.	21600	IN	A	207.132.240.40
+dtas.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+dtas.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+dtas.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+dtas.mil.	10800	IN	DS	7522 8 1 11037c8704c83455fb960ba53b51e4a707f57ae1
+dtas.mil.	10800	IN	DS	7522 8 2 6136032637330bcfdba3e218f828a0f5e51ac765398cee1372ba89520897faf1
+dtci.mil.	21600	IN	NS	ns01.army.mil.
+dtci.mil.	21600	IN	NS	ns02.army.mil.
+dtci.mil.	21600	IN	NS	ns03.army.mil.
+dtic.mil.	21600	IN	NS	nsi1a.dtic.mil.
+dtic.mil.	21600	IN	NS	nsi2a.dtic.mil.
+dtic.mil.	10800	IN	DS	5769 10 1 e279051c46c82bb7bcb807c11df5686ee991d644
+dtic.mil.	10800	IN	DS	5769 10 2 6de4428a798e3ffbf33065c69013c597c2fbe0fbc3b47d6aaa2dfb8e20b63c21
+nsi1a.dtic.mil.	21600	IN	A	131.84.136.73
+nsi2a.dtic.mil.	21600	IN	A	131.84.136.89
+dtra.mil.	21600	IN	NS	ns1.dtra.mil.
+dtra.mil.	21600	IN	NS	ns2.dtra.mil.
+dtra.mil.	10800	IN	DS	22735 8 1 9bc45ac2416c9af58b9fde8f2d612f44e9f5fc31
+dtra.mil.	10800	IN	DS	22735 8 2 92b3ecc24d89b60fbe2b40bd7399b53100607a3caa65c805e937ce745531a9ec
+ns1.dtra.mil.	21600	IN	A	214.27.180.254
+ns2.dtra.mil.	21600	IN	A	214.27.184.254
+dtsa.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+dtsa.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+dtsa.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+dtsa.mil.	10800	IN	DS	46474 8 1 7b1c629419e5e77975114fc378b598d5f0ca5959
+dtsa.mil.	10800	IN	DS	46474 8 2 9ae2e3fa8c15e554c8ea4166c49ef00af1045db71bbebc7ae543f5def4f0ec2c
+eb.mil.	21600	IN	NS	ns.jtfgno.mil.
+eb.mil.	21600	IN	NS	ns.cybercom.mil.
+eb.mil.	21600	IN	NS	ns1.csd.disa.mil.
+eb.mil.	21600	IN	NS	guv10m01.mont.disa.mil.
+eb.mil.	21600	IN	NS	guv10m02.mont.disa.mil.
+eb.mil.	21600	IN	NS	utindo02.csd.disa.mil.
+eb.mil.	10800	IN	DS	16762 8 1 55073bd4e03dda1946fb5b9596f51bbfb920ee7c
+eb.mil.	10800	IN	DS	16762 8 2 83c9c84d818c8a02c7582c751611b4779e61d5b05f9e931183a6a6c6830d2f5e
+ecmra.mil.	21600	IN	NS	ns1.hqda.pentagon.mil.
+ecmra.mil.	21600	IN	NS	ns3.hqda.pentagon.mil.
+eds.mil.	21600	IN	NS	tsddns.fedsun.navy.mil.
+eds.mil.	21600	IN	NS	tsddns4.fedsun.hpc.mil.
+eds.mil.	10800	IN	DS	31384 8 1 f6a1e04360cffdbefe2b4f9886d67a5adeb0e07e
+eds.mil.	10800	IN	DS	31384 8 2 75ae4309c48f3439c7f295dc19b6f0d7b8de20853fa59d277a3bb381724c162c
+eemsgcloud.mil.	21600	IN	NS	dns1.nipr.mil.
+eemsgcloud.mil.	21600	IN	NS	dns2.nipr.mil.
+emsg.mil.	21600	IN	NS	dns1.nipr.mil.
+emsg.mil.	21600	IN	NS	dns2.nipr.mil.
+esgr.mil.	21600	IN	NS	ns.jtfgno.mil.
+esgr.mil.	21600	IN	NS	ns.cybercom.mil.
+esgr.mil.	21600	IN	NS	ns1.csd.disa.mil.
+esgr.mil.	21600	IN	NS	guv10m01.mont.disa.mil.
+esgr.mil.	21600	IN	NS	guv10m02.mont.disa.mil.
+esgr.mil.	21600	IN	NS	utindo02.csd.disa.mil.
+esgr.mil.	10800	IN	DS	57577 8 1 cbcb4662d88a6fe9be843e35f09768fcf507050c
+esgr.mil.	10800	IN	DS	57577 8 2 1bb0e50fdc9a6747ddf1ac93fe6fff4a8d245ba7897d923dae5a82259db3cadb
+esgr1.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+esgr1.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+esgr1.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+esgr1.mil.	10800	IN	DS	36214 8 1 c64b5448e9b43242083badbeb64a5f6e47709747
+esgr1.mil.	10800	IN	DS	36214 8 2 2e710f5e78e5c16a1bddd22f2d90b297625078d7b8ef3d65242d56a116bb0e59
+esi.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+esi.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+esi.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+esi.mil.	10800	IN	DS	56335 8 1 263d253855f77dd92285a68616e092c60dda3b22
+esi.mil.	10800	IN	DS	56335 8 2 c30b40a9bd28236c5c493c4b2598930ad6ca37e9964a1c322ea22c036eca7e69
+eucom.mil.	21600	IN	NS	nede01nsv01.eucom.mil.
+eucom.mil.	21600	IN	NS	nede01nsv02.eucom.mil.
+eucom.mil.	10800	IN	DS	28921 5 1 311cea6d64f923da122ff37d4be6a787fef0ef49
+eucom.mil.	10800	IN	DS	28921 5 2 c68dd200a698f15213a6ce81be3a46f6a288ff96e7ae7b096966254a3b2915f8
+nede01nsv01.eucom.mil.	21600	IN	A	137.95.1.140
+nede01nsv02.eucom.mil.	21600	IN	A	137.95.1.141
+faa.mil.	21600	IN	NS	greed.faa.mil.
+faa.mil.	21600	IN	NS	cresvc.faa.mil.
+faa.mil.	21600	IN	NS	greed2.faa.mil.
+faa.mil.	21600	IN	NS	tlaloc.okc.disa.mil.
+cresvc.faa.mil.	21600	IN	A	214.4.159.30
+greed.faa.mil.	21600	IN	A	214.4.159.22
+greed2.faa.mil.	21600	IN	A	214.4.159.28
+forge.mil.	21600	IN	NS	ns.jtfgno.mil.
+forge.mil.	21600	IN	NS	ns.cybercom.mil.
+forge.mil.	21600	IN	NS	ns1.csd.disa.mil.
+forge.mil.	21600	IN	NS	guv10m01.mont.disa.mil.
+forge.mil.	21600	IN	NS	guv10m02.mont.disa.mil.
+forge.mil.	21600	IN	NS	utindo02.csd.disa.mil.
+forge.mil.	10800	IN	DS	44011 8 1 7959caee1bb3b3ab2bce441dbf80269266b4e07e
+forge.mil.	10800	IN	DS	44011 8 2 6ddf02b968faf9273244d3bcfd6c972a0a6d451a82b995a57cf1aff4295bad77
+fpc.mil.	21600	IN	NS	fpcns01.fpc.mil.
+fpc.mil.	21600	IN	NS	fpcns02.fpc.mil.
+fpc.mil.	10800	IN	DS	44059 5 1 5c61939d79092b46fb4079071ce809c67dff597a
+fpcns01.fpc.mil.	21600	IN	A	214.38.128.30
+fpcns02.fpc.mil.	21600	IN	A	214.38.128.32
+freedomaward.mil.	21600	IN	NS	beast.dma.mil.
+freedomaward.mil.	21600	IN	NS	beauty.dma.mil.
+freedomaward.mil.	21600	IN	NS	kaucher.dma.mil.
+freedomaward.mil.	21600	IN	NS	russell.dma.mil.
+freedomaward.mil.	10800	IN	DS	49289 8 1 b8a9e5fd3a65fb48f59d455070ca49a25aa21e27
+fuds.mil.	21600	IN	NS	ns01.army.mil.
+fuds.mil.	21600	IN	NS	ns02.army.mil.
+fuds.mil.	21600	IN	NS	ns03.army.mil.
+fvse.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+fvse.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+fvse.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+fvse.mil.	10800	IN	DS	20950 8 1 a254ed7bbe34dafe6643fb709bbbe384891960aa
+fvse.mil.	10800	IN	DS	20950 8 2 61f2770b89f9cfd9abeac99601a3e3bbb8a04d11163f66cb188de2f4ec5e2895
+ges.mil.	21600	IN	NS	ns.jtfgno.mil.
+ges.mil.	21600	IN	NS	ns.cybercom.mil.
+ges.mil.	21600	IN	NS	ns1.csd.disa.mil.
+ges.mil.	21600	IN	NS	guv10m01.mont.disa.mil.
+ges.mil.	21600	IN	NS	guv10m02.mont.disa.mil.
+ges.mil.	21600	IN	NS	utindo02.csd.disa.mil.
+ges.mil.	10800	IN	DS	13339 8 1 631ff198926998b1a47d8971ac3dacd9f8e301fb
+ges.mil.	10800	IN	DS	13339 8 2 f5f4fd635a169f5674e6e5fb965b5890f46ac28eb09c2cdf9cd4dd813561f3fd
+gvs.mil.	21600	IN	NS	ns.jtfgno.mil.
+gvs.mil.	21600	IN	NS	ns.cybercom.mil.
+gvs.mil.	21600	IN	NS	ns1.csd.disa.mil.
+gvs.mil.	10800	IN	DS	42097 8 1 ade3d54599fbaabf82725b36da1edabda1602dd7
+gvs.mil.	10800	IN	DS	42097 8 2 104217161f719433ed38ba76ae0f7bd20b3637873dd6767d7c5730d94ad088d9
+hci.mil.	21600	IN	NS	ns1.dau.mil.
+hci.mil.	21600	IN	NS	ns2.dau.mil.
+hci.mil.	10800	IN	DS	60287 8 1 90760c0278c26f0f7317c54a89750b844ed081ce
+hci.mil.	10800	IN	DS	60287 8 2 2ae64122ff52fd93f3abdeeb278fcd3801109eae96d4df59e2ed295a43ae7953
+health.mil.	21600	IN	NS	ns01-cc-gw.health.mil.
+health.mil.	21600	IN	NS	ns01-ee-gw.health.mil.
+health.mil.	21600	IN	NS	ns01-we-gw.health.mil.
+health.mil.	21600	IN	NS	ns01-ncr-gw.health.mil.
+health.mil.	21600	IN	NS	ns01-nwc-gw.health.mil.
+health.mil.	21600	IN	NS	ns01-pac-gw.health.mil.
+health.mil.	21600	IN	NS	ns01-sea-gw.health.mil.
+health.mil.	21600	IN	NS	ns01-sec-gw.health.mil.
+health.mil.	21600	IN	NS	ns01-swc-gw.health.mil.
+health.mil.	10800	IN	DS	33265 8 1 7822c5001b874e777c57047bf13a714f15657708
+health.mil.	10800	IN	DS	33265 8 2 a0ecc144d7e22b0cba93609484bcab57c059ff31ee96d1c5cceb1edd87af3c92
+ns01-cc-gw.health.mil.	21600	IN	A	214.2.210.178
+ns01-ee-gw.health.mil.	21600	IN	A	214.2.213.178
+ns01-ncr-gw.health.mil.	21600	IN	A	214.2.208.178
+ns01-nwc-gw.health.mil.	21600	IN	A	214.2.211.178
+ns01-pac-gw.health.mil.	21600	IN	A	214.2.215.178
+ns01-sea-gw.health.mil.	21600	IN	A	214.2.216.178
+ns01-sec-gw.health.mil.	21600	IN	A	214.2.209.178
+ns01-swc-gw.health.mil.	21600	IN	A	214.2.212.178
+ns01-we-gw.health.mil.	21600	IN	A	214.2.214.178
+homes.mil.	21600	IN	NS	nrfkns1.cnic.navy.mil.
+homes.mil.	21600	IN	NS	nrfkns2.cnic.navy.mil.
+homes.mil.	21600	IN	NS	sdnins1.cnic.navy.mil.
+homes.mil.	10800	IN	DS	14464 5 1 91c81fb415c1bbe9dc1eabe4169b34faa24c37a8
+homes.mil.	10800	IN	DS	14464 5 2 970fe85f6290d8bdf982621bb546a88cc3c9cf63ce2d10ed8ec3ec4ac0031a8c
+hpc.mil.	21600	IN	NS	ns1.arl.hpc.mil.
+hpc.mil.	21600	IN	NS	auth-east.dren.mil.
+hpc.mil.	21600	IN	NS	auth-west.dren.mil.
+hpc.mil.	10800	IN	DS	36979 5 1 0d3f3b87ba492f064d75f5f2a6da8ccd4f9a2057
+hpc.mil.	10800	IN	DS	36979 5 2 171a184a0f8bb4d81d1a321f63eaabc1b81562c08b7ea24847d7cd033610c458
+ns1.arl.hpc.mil.	21600	IN	A	140.32.131.142
+ns1.arl.hpc.mil.	21600	IN	AAAA	2001:480:31:ffff::53
+tsddns4.fedsun.hpc.mil.	21600	IN	A	140.32.23.2
+ns1.mhpcc.hpc.mil.	21600	IN	A	140.31.199.226
+ia.mil.	21600	IN	NS	ns.jtfgno.mil.
+ia.mil.	21600	IN	NS	ns.cybercom.mil.
+ia.mil.	21600	IN	NS	ns1.csd.disa.mil.
+ia.mil.	21600	IN	NS	guv10m01.mont.disa.mil.
+ia.mil.	21600	IN	NS	guv10m02.mont.disa.mil.
+ia.mil.	21600	IN	NS	utindo02.csd.disa.mil.
+ia.mil.	10800	IN	DS	33415 8 1 0568eb8f80a8e4f5d5129f3b2629b47f9b589783
+ia.mil.	10800	IN	DS	33415 8 2 44ec04444590e5c598f7e6c62e06ba2085e33c685ce114c41aa2c1239a76dd3a
+iad.mil.	21600	IN	NS	ncmd-daisy.aztec.ncsc.mil.
+iad.mil.	21600	IN	NS	ncmd-buttercup.aztec.ncsc.mil.
+idistribute.mil.	21600	IN	NS	adns1.ustranscom.mil.
+idistribute.mil.	21600	IN	NS	adns2.ustranscom.mil.
+idistribute.mil.	21600	IN	NS	adns3.ustranscom.mil.
+idistribute.mil.	10800	IN	DS	59074 8 1 100c97fa79ac762e07b7bacc6f9c4aa364efb43a
+idistribute.mil.	10800	IN	DS	59074 8 2 fef3221fcfe2b1f1119bc9f1d99f1404af9c632a051c3a5f6d451e7d28f3d4a9
+inherentresolve.mil.	21600	IN	NS	ns4.centcom.mil.
+inherentresolve.mil.	21600	IN	NS	ns5.centcom.mil.
+inherentresolve.mil.	21600	IN	NS	hqnxdn01.centcom.mil.
+inherentresolve.mil.	21600	IN	NS	hqnxdn02.centcom.mil.
+inherentresolve.mil.	21600	IN	NS	sxnvdn01.centcom.mil.
+inherentresolve.mil.	21600	IN	NS	sxnvdn02.centcom.mil.
+inherentresolve.mil.	10800	IN	DS	43519 8 1 22e16c20b6a16d9d4412d7db536346a1e2d1b1d7
+inherentresolve.mil.	10800	IN	DS	43519 8 2 ad46d01614dae79af977817bd9bb82c75cee859c6ac36a3e3cdc613ecd900b9e
+isg.mil.	21600	IN	NS	seqa01ddc0001n.isg.mil.
+isg.mil.	21600	IN	NS	seqa01ddc0002n.isg.mil.
+seqa01ddc0001n.isg.mil.	21600	IN	A	215.65.48.198
+seqa01ddc0002n.isg.mil.	21600	IN	A	215.65.48.202
+jalis.mil.	21600	IN	NS	dnsnola01.ncdc.navy.mil.
+jalis.mil.	21600	IN	NS	dnsnola02.ncdc.navy.mil.
+jalis.mil.	21600	IN	NS	dnssdca01.ncdc.navy.mil.
+jalis.mil.	21600	IN	NS	dnssdca02.ncdc.navy.mil.
+jatdi.mil.	21600	IN	NS	ns01.army.mil.
+jatdi.mil.	21600	IN	NS	ns02.army.mil.
+jatdi.mil.	21600	IN	NS	ns03.army.mil.
+jbsa.mil.	21600	IN	NS	ns01.army.mil.
+jbsa.mil.	21600	IN	NS	ns02.army.mil.
+jbsa.mil.	21600	IN	NS	ns03.army.mil.
+jbtx.mil.	21600	IN	NS	ns01.army.mil.
+jbtx.mil.	21600	IN	NS	ns02.army.mil.
+jbtx.mil.	21600	IN	NS	ns03.army.mil.
+jcs.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+jcs.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+jcs.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+jcs.mil.	10800	IN	DS	53950 8 1 b6b793e1dd4b53b32b4170cc848a47bc64eb738d
+jcs.mil.	10800	IN	DS	53950 8 2 5d5846c7e8975d9e34f49ef01c17563ed37b9efbeac6eb1fe218d21dbc0497c9
+daip-mgt.daip.jcs.mil.	21600	IN	A	206.38.92.140
+prod-int.daip.jcs.mil.	21600	IN	A	206.38.92.120
+test-int.daip.jcs.mil.	21600	IN	A	206.38.92.121
+jcse.mil.	21600	IN	NS	dn1.jcse.mil.
+jcse.mil.	21600	IN	NS	dn2.jcse.mil.
+dn1.jcse.mil.	21600	IN	A	199.9.64.130
+dn2.jcse.mil.	21600	IN	A	199.9.65.2
+jdrs.mil.	21600	IN	NS	ns1-ni.navair.navy.mil.
+jdrs.mil.	21600	IN	NS	ns2-ni.navair.navy.mil.
+jdrs.mil.	21600	IN	NS	ns1-pax.navair.navy.mil.
+jdrs.mil.	21600	IN	NS	ns2-pax.navair.navy.mil.
+je.mil.	21600	IN	NS	ns1.je.mil.
+je.mil.	21600	IN	NS	ns1.nosc.mil.
+je.mil.	21600	IN	NS	ns1.mhpcc.hpc.mil.
+je.mil.	21600	IN	NS	ns2.je.mil.
+ns1.je.mil.	21600	IN	A	140.32.76.28
+ns2.je.mil.	21600	IN	A	140.32.76.129
+jecc.mil.	21600	IN	NS	adns1.ustranscom.mil.
+jecc.mil.	21600	IN	NS	adns2.ustranscom.mil.
+jecc.mil.	21600	IN	NS	adns3.ustranscom.mil.
+jecc.mil.	10800	IN	DS	61297 8 1 ef20933766f4c10b6166d5aeec6aacbe31b05e95
+jecc.mil.	10800	IN	DS	61297 8 2 59d6e4920c0ba090690295761a301e978f2e107d31cb892f7c182d962af9a665
+jfcom.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+jfcom.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+jfcom.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+jfcom.mil.	10800	IN	DS	18901 8 1 f3910206a76e90c0a963710d192d0248825f92d2
+jfcom.mil.	10800	IN	DS	18901 8 2 551e70b5744a5f802f5acf8e1aa8c7ecc609dc538ac8c36453cee3fe09957000
+jida.mil.	21600	IN	NS	ns1.atac.mil.
+jida.mil.	21600	IN	NS	ns2.atac.mil.
+jida.mil.	10800	IN	DS	54346 8 1 1bf4c0f9a79e981e62a16758a49c08f620e7e3ad
+jida.mil.	10800	IN	DS	54346 8 2 215f654e567d966bc481630ae0d433d357c510420c15daeba25fb0c819ceee2b
+jieddo.mil.	21600	IN	NS	ns1.atac.mil.
+jieddo.mil.	21600	IN	NS	ns2.atac.mil.
+jieddo.mil.	10800	IN	DS	39970 8 1 54ac2e977cf7f473419c65c394bde3411bcae4b5
+jieddo.mil.	10800	IN	DS	39970 8 2 a9f4cad4741712d7d0e07d198dd2ef21e82bce8855ebb73d55bcc4075fd9a128
+jllis.mil.	21600	IN	NS	ns4.jten.mil.
+jllis.mil.	21600	IN	NS	ns5.jten.mil.
+jllis.mil.	10800	IN	DS	16311 7 1 e4a48a5cb4ac76055557762b43cd1111eecbb3f5
+jllis.mil.	10800	IN	DS	16311 7 2 8cd73d4cbb7f59acc7bd296714a4422efdfb63eff286633be6caba77e1550820
+jpeojtrs.mil.	21600	IN	NS	ns1.nosc.mil.
+jpeojtrs.mil.	21600	IN	NS	ns2.nosc.mil.
+jpeojtrs.mil.	21600	IN	NS	ns3.nosc.mil.
+jpeojtrs.mil.	10800	IN	DS	49990 8 1 f57bbee26c8c3716b1b28e112e1a1a115059f009
+jpeojtrs.mil.	10800	IN	DS	49990 8 2 a604dcc320af5d9af66a53499bd2f96af74681bccaf7bc3c4235b8ce058f45d5
+jpmis.mil.	21600	IN	NS	ns1.nosc.mil.
+jpmis.mil.	21600	IN	NS	ns2.nosc.mil.
+jpmis.mil.	21600	IN	NS	ns3.nosc.mil.
+jpmis.mil.	10800	IN	DS	31822 8 1 b1803e61ba892f1e7a377e1d09ae3077020b11b4
+jpra.mil.	21600	IN	NS	ns1.jpra.mil.
+jpra.mil.	21600	IN	NS	ns2.jpra.mil.
+jpra.mil.	10800	IN	DS	48244 8 1 1247aa7554696d834aecc794d6cfefa5f24b98ac
+ns1.jpra.mil.	21600	IN	A	214.25.106.125
+ns2.jpra.mil.	21600	IN	A	214.25.106.126
+js.mil.	21600	IN	NS	daip-mgt.daip.jcs.mil.
+js.mil.	21600	IN	NS	prod-int.daip.jcs.mil.
+js.mil.	21600	IN	NS	test-int.daip.jcs.mil.
+js.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+js.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+js.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+js.mil.	10800	IN	DS	61942 8 1 ea9e74d2a174bcc984567fa62325891b9c06eda3
+js.mil.	10800	IN	DS	61942 8 2 450dc2f3135e91cb6b4a9a6eb70d42e2e430ec805691b6066b5b685f8fb73299
+jsc.mil.	21600	IN	NS	ns.jtfgno.mil.
+jsc.mil.	21600	IN	NS	ns.cybercom.mil.
+jsc.mil.	21600	IN	NS	ns1.csd.disa.mil.
+jsc.mil.	21600	IN	NS	guv10m01.mont.disa.mil.
+jsc.mil.	21600	IN	NS	guv10m02.mont.disa.mil.
+jsc.mil.	21600	IN	NS	utindo02.csd.disa.mil.
+jsc.mil.	10800	IN	DS	58201 8 1 98e1185f669b2384fe77c7a9ab7cec72bed1330a
+jsc.mil.	10800	IN	DS	58201 8 2 0f591e349819eb5c4b52c098123c458e0f17181c127efe6b989e958e13abf037
+jsf.mil.	21600	IN	NS	gccvns01.jsf.mil.
+jsf.mil.	21600	IN	NS	gedpns01.jsf.mil.
+jsf.mil.	10800	IN	DS	38858 5 1 26e34bda4e42c923791fa4ee693953977a0eaeae
+gccvns01.jsf.mil.	21600	IN	A	209.22.51.68
+gedpns01.jsf.mil.	21600	IN	A	214.3.135.134
+jtdi.mil.	21600	IN	NS	ns01.army.mil.
+jtdi.mil.	21600	IN	NS	ns02.army.mil.
+jtdi.mil.	21600	IN	NS	ns03.army.mil.
+jten.mil.	21600	IN	NS	ns4.jten.mil.
+jten.mil.	21600	IN	NS	ns5.jten.mil.
+jten.mil.	10800	IN	DS	1899 7 1 2835d62fa86540de655050b7ca331fa1f60bda6c
+jten.mil.	10800	IN	DS	1899 7 2 31a847db698ef122eb43ae3b4df1e816190ecd32d220ab91ab6ab3996031b70b
+ns4.jten.mil.	21600	IN	A	199.112.137.170
+ns5.jten.mil.	21600	IN	A	199.112.138.170
+jtf505.mil.	21600	IN	NS	dns1.nipr.mil.
+jtf505.mil.	21600	IN	NS	dns2.nipr.mil.
+jtfgno.mil.	21600	IN	NS	ns.jtfgno.mil.
+jtfgno.mil.	21600	IN	NS	ns.cybercom.mil.
+jtfgno.mil.	21600	IN	NS	ns1.csd.disa.mil.
+jtfgno.mil.	21600	IN	NS	utindo02.csd.disa.mil.
+jtfgno.mil.	10800	IN	DS	19972 8 1 e9124aff47223cbfc71fb4afd5678ad1b94b7d53
+jtfgno.mil.	10800	IN	DS	19972 8 2 a67dec38495f5c381de536fcbbe90f0af6ac80c264764cacbce689d52bf50c57
+ns.jtfgno.mil.	21600	IN	A	214.3.125.231
+jtnc.mil.	21600	IN	NS	ns1.nosc.mil.
+jtnc.mil.	21600	IN	NS	ns2.nosc.mil.
+jtnc.mil.	21600	IN	NS	ns3.nosc.mil.
+jtnc.mil.	10800	IN	DS	7687 8 1 03f0c9006419863f71fc69896e2dee4a1cb5a0c0
+jtnc.mil.	10800	IN	DS	7687 8 2 12acff1fa5e28e30e170ed51bfcc1d5406df5aba738b3ed9233e50826e5e9752
+jvncw.mil.	21600	IN	NS	ns1.nosc.mil.
+jvncw.mil.	21600	IN	NS	ns2.nosc.mil.
+jvncw.mil.	21600	IN	NS	ns3.nosc.mil.
+jwac.mil.	21600	IN	NS	ns1.jwac.mil.
+jwac.mil.	21600	IN	NS	ns2.jwac.mil.
+jwac.mil.	10800	IN	DS	15262 8 1 5b23742755c4fddf7fcfbaac3cf3d041265fc72f
+jwac.mil.	10800	IN	DS	15262 8 2 f321fd18adc6afcd0e193255e19d73d1535bb09edbdfd8a78bb6f320f0edde44
+ns1.jwac.mil.	21600	IN	A	199.211.169.4
+ns2.jwac.mil.	21600	IN	A	199.211.168.254
+les.mil.	21600	IN	NS	les-dc03.les.mil.
+les.mil.	21600	IN	NS	les-dc04.les.mil.
+les.mil.	21600	IN	NS	les-dc07.les.mil.
+les.mil.	21600	IN	NS	les-dc08.les.mil.
+les.mil.	10800	IN	DS	38767 8 1 8366f3bb6814882c74866d33139a2ca834609233
+les.mil.	10800	IN	DS	38767 8 2 4a870e0a0053bf744b853ef16fca71f0d3078e3d957ad58d145aa7506d38fd7e
+les-dc03.les.mil.	21600	IN	A	214.29.56.72
+les-dc04.les.mil.	21600	IN	A	214.29.56.73
+les-dc07.les.mil.	21600	IN	A	214.29.56.70
+les-dc08.les.mil.	21600	IN	A	214.29.56.76
+lt2portal.mil.	21600	IN	NS	tsddns.fedsun.navy.mil.
+lt2portal.mil.	21600	IN	NS	tsddns4.fedsun.hpc.mil.
+lt2portal.mil.	10800	IN	DS	21709 8 1 2d0a6e0a7569826d38e4b7867b068c8756e93802
+lt2portal.mil.	10800	IN	DS	21709 8 2 993faa67c79f8e9d9ea6bdf94baa898c0d3e262b8e2c741b4236d761be16275f
+mail.mil.	21600	IN	NS	sdns1.csd.disa.mil.
+mail.mil.	21600	IN	NS	sdns2.csd.disa.mil.
+mail.mil.	21600	IN	NS	sdns3.csd.disa.mil.
+mail.mil.	10800	IN	DS	34516 8 1 8c19fe2d97d90ddb7042dc2be366f1ac22ccb30a
+mail.mil.	10800	IN	DS	34516 8 2 4b43136a5122c230dfc2f433ba62eaf771b0c1968c6681fb53dda747c3455e3e
+marfo.mil.	21600	IN	NS	marfons01.marfo.mil.
+marfo.mil.	21600	IN	NS	marfons02.marfo.mil.
+marfo.mil.	10800	IN	DS	38302 5 1 a551e6cb232e3baadf5ce4e976c470bfb0e8598f
+marfo.mil.	10800	IN	DS	44968 5 1 06d87a11bff49d86181d8beeae979e8468934c02
+marfons01.marfo.mil.	21600	IN	A	214.25.107.4
+marfons02.marfo.mil.	21600	IN	A	214.25.107.5
+marineforlife.mil.	21600	IN	NS	bravo.usmc.mil.
+marineforlife.mil.	21600	IN	NS	usmcdns1.usmc.mil.
+marineforlife.mil.	21600	IN	NS	usmcdns1a.usmc.mil.
+marineforlife.mil.	10800	IN	DS	37912 8 1 f7e2cbc1a193661e1d5ecaf774fd91a876a1d580
+marineforlife.mil.	10800	IN	DS	37912 8 2 70802b96c48895167baa34176ad87b370b97d97d1ddd0fcc22d51109e5d97661
+marines.mil.	21600	IN	NS	bravo.usmc.mil.
+marines.mil.	21600	IN	NS	usmcdns1.usmc.mil.
+marines.mil.	21600	IN	NS	usmcdns1a.usmc.mil.
+marines.mil.	10800	IN	DS	12412 8 1 689474cae83ced828de38c752aed84020ff6b528
+marines.mil.	10800	IN	DS	12412 8 2 ec16ce561e69fe481ed2056d19e28ace3ddbe03b41d1eb226980ae89b5af641f
+mc.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+mc.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+mc.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+mc.mil.	10800	IN	DS	58297 8 1 cc688d14168de11aa4188ad9d7b9577b4c66fde3
+mc.mil.	10800	IN	DS	58297 8 2 043c1c8ed8f7d909d031c6b2e2ea7f2f913bbeb4af0dbfcfeee4290c1e420780
+mda.mil.	21600	IN	NS	ns01.mda.mil.
+mda.mil.	21600	IN	NS	ns02.mda.mil.
+mda.mil.	21600	IN	NS	ns03.mda.mil.
+mda.mil.	21600	IN	NS	ns04.mda.mil.
+mda.mil.	10800	IN	DS	41299 8 1 4ed8c2e3c93c23a708bc31242007452305a565e7
+mda.mil.	10800	IN	DS	41299 8 2 25e0de9ba4360f84e93284f6fe2f67a6c9175e93a60504c5916fbd631c8d84c1
+ns01.mda.mil.	21600	IN	A	199.9.230.31
+ns01.mda.mil.	21600	IN	AAAA	2001:480:421:dd0b::4
+ns02.mda.mil.	21600	IN	A	199.9.230.32
+ns02.mda.mil.	21600	IN	AAAA	2001:480:421:dd0b::5
+ns03.mda.mil.	21600	IN	A	199.9.182.33
+ns03.mda.mil.	21600	IN	AAAA	2001:480:1610:dd0b::4
+ns04.mda.mil.	21600	IN	A	199.9.182.34
+ns04.mda.mil.	21600	IN	AAAA	2001:480:1610:dd0b::5
+medicalmuseum.mil.	21600	IN	NS	ns01.army.mil.
+medicalmuseum.mil.	21600	IN	NS	ns02.army.mil.
+medicalmuseum.mil.	21600	IN	NS	ns03.army.mil.
+metc.mil.	21600	IN	NS	ns01.army.mil.
+metc.mil.	21600	IN	NS	ns02.army.mil.
+metc.mil.	21600	IN	NS	ns03.army.mil.
+mhs.mil.	21600	IN	NS	ns01-cc-gw.health.mil.
+mhs.mil.	21600	IN	NS	ns01-ee-gw.health.mil.
+mhs.mil.	21600	IN	NS	ns01-we-gw.health.mil.
+mhs.mil.	21600	IN	NS	ns01-ncr-gw.health.mil.
+mhs.mil.	21600	IN	NS	ns01-nwc-gw.health.mil.
+mhs.mil.	21600	IN	NS	ns01-pac-gw.health.mil.
+mhs.mil.	21600	IN	NS	ns01-sea-gw.health.mil.
+mhs.mil.	21600	IN	NS	ns01-sec-gw.health.mil.
+mhs.mil.	21600	IN	NS	ns01-swc-gw.health.mil.
+mhs.mil.	10800	IN	DS	47281 8 1 6e0a2753a93cb281373a0a73bdbbd638fc7331f5
+mhs.mil.	10800	IN	DS	47281 8 2 ec4bbcdbc8057439f5347edad073fd457109cf0458622698126b0b0c8844b94c
+milcloud.mil.	21600	IN	NS	ns.jtfgno.mil.
+milcloud.mil.	21600	IN	NS	ns.cybercom.mil.
+milcloud.mil.	21600	IN	NS	ns1.csd.disa.mil.
+milcloud.mil.	21600	IN	NS	guv10m01.mont.disa.mil.
+milcloud.mil.	21600	IN	NS	guv10m02.mont.disa.mil.
+milcloud.mil.	21600	IN	NS	utindo02.csd.disa.mil.
+milcloud.mil.	10800	IN	DS	8296 8 1 709a6d78f85bae1ff11069b656f531aae7bcca56
+milcloud.mil.	10800	IN	DS	8296 8 2 9852fd25b7d0d70658970540e4d67b31a85f9146fc2851fcad08238c01042195
+militaryonesource.mil.	21600	IN	NS	ns.jtfgno.mil.
+militaryonesource.mil.	21600	IN	NS	ns.cybercom.mil.
+militaryonesource.mil.	21600	IN	NS	ns1.csd.disa.mil.
+militaryonesource.mil.	21600	IN	NS	guv10m01.mont.disa.mil.
+militaryonesource.mil.	21600	IN	NS	guv10m02.mont.disa.mil.
+militaryonesource.mil.	21600	IN	NS	utindo02.csd.disa.mil.
+militaryonesource.mil.	10800	IN	DS	48484 8 1 a46faa8543225daab3535cbca2cb41f9ae16c27e
+militaryonesource.mil.	10800	IN	DS	48484 8 2 f37a1c7bb88a703f268df1c782825d18876d85d4da5f111b0aa512dc6bd138f6
+militaryvoter.mil.	21600	IN	NS	nsi1a.dtic.mil.
+militaryvoter.mil.	21600	IN	NS	nsi2a.dtic.mil.
+militaryvoter.mil.	10800	IN	DS	51726 10 1 8bfbd4281719dbbdd455b706a2076bb4cdda441f
+militaryvoter.mil.	10800	IN	DS	51726 10 2 744624290183dd9fd84a64cd65040d48665b0c4d6de0be2c069741fb3e9e03f3
+milsuite.mil.	21600	IN	NS	ns01.army.mil.
+milsuite.mil.	21600	IN	NS	ns02.army.mil.
+milsuite.mil.	21600	IN	NS	ns03.army.mil.
+move.mil.	21600	IN	NS	adns1.ustranscom.mil.
+move.mil.	21600	IN	NS	adns2.ustranscom.mil.
+move.mil.	21600	IN	NS	adns3.ustranscom.mil.
+move.mil.	10800	IN	DS	29857 8 1 838763128c8700139b1b4b5f7e75c0cb890797ba
+move.mil.	10800	IN	DS	29857 8 2 e6d43aa9105abb8511dbf15cac0cfe187ab1f98cec0d64c033ef3ce1c5db96f0
+mpsa.mil.	21600	IN	NS	ns01.army.mil.
+mpsa.mil.	21600	IN	NS	ns02.army.mil.
+mpsa.mil.	21600	IN	NS	ns03.army.mil.
+msco.mil.	21600	IN	NS	tsddns.fedsun.navy.mil.
+msco.mil.	21600	IN	NS	tsddns4.fedsun.hpc.mil.
+msco.mil.	10800	IN	DS	42214 8 1 feb8e730475586d9d574849a539963da20cb6c15
+msco.mil.	10800	IN	DS	42214 8 2 eb25da64abef26e15de012c9b49ea9d230111789dd49997ebca6c60fb5a5d855
+myduty.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+myduty.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+myduty.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+myduty.mil.	10800	IN	DS	42052 8 1 00e86339db2d56ef254018edf7933215463b850d
+myduty.mil.	10800	IN	DS	42052 8 2 12d962d2377ff82d57da3f43ce5e108a1025d2f9d6eaae072c9a41d588501551
+nationalguard.mil.	21600	IN	NS	beast.dma.mil.
+nationalguard.mil.	21600	IN	NS	beauty.dma.mil.
+nationalguard.mil.	21600	IN	NS	kaucher.dma.mil.
+nationalguard.mil.	21600	IN	NS	russell.dma.mil.
+nationalguard.mil.	10800	IN	DS	13355 8 1 ecf84bc9daaa7de057fb3120d0d9cdb058c5bf0c
+navy.mil.	21600	IN	NS	ns.jtfgno.mil.
+navy.mil.	21600	IN	NS	ns.cybercom.mil.
+navy.mil.	21600	IN	NS	ns1.csd.disa.mil.
+navy.mil.	21600	IN	NS	guv10m01.mont.disa.mil.
+navy.mil.	21600	IN	NS	guv10m02.mont.disa.mil.
+navy.mil.	21600	IN	NS	utindo02.csd.disa.mil.
+navy.mil.	21600	IN	NS	upbd0fda01.csd.disa.mil.
+navy.mil.	21600	IN	NS	upbd0fda02.csd.disa.mil.
+navy.mil.	21600	IN	NS	uphb0fda05.csd.disa.mil.
+navy.mil.	21600	IN	NS	uphb0fda06.csd.disa.mil.
+navy.mil.	10800	IN	DS	48700 8 1 1c96e232ff212c278622341688acade1f1be7199
+navy.mil.	10800	IN	DS	48700 8 2 2fa754b065e9beb548a6e5b235e85d1dbca4ad12ec679f81650a53314af66db3
+dns-grl.cnet.navy.mil.	21600	IN	A	206.37.212.72
+dns-pen.cnet.navy.mil.	21600	IN	A	199.211.210.104
+nrfkns1.cnic.navy.mil.	21600	IN	A	205.70.100.33
+nrfkns2.cnic.navy.mil.	21600	IN	A	205.70.100.34
+sdnins1.cnic.navy.mil.	21600	IN	A	205.69.245.6
+tsddns.fedsun.navy.mil.	21600	IN	A	140.32.24.2
+ns1-ni.navair.navy.mil.	21600	IN	A	205.85.48.33
+ns1-pax.navair.navy.mil.	21600	IN	A	205.85.22.62
+ns2-ni.navair.navy.mil.	21600	IN	A	205.85.48.34
+ns2-pax.navair.navy.mil.	21600	IN	A	205.85.22.63
+dnsnola01.ncdc.navy.mil.	21600	IN	A	205.85.24.34
+dnsnola02.ncdc.navy.mil.	21600	IN	A	205.85.24.36
+dnssdca01.ncdc.navy.mil.	21600	IN	A	205.85.8.132
+dnssdca02.ncdc.navy.mil.	21600	IN	A	205.85.8.133
+nocusuhs.nnmc.navy.mil.	21600	IN	A	131.158.4.8
+ntcusuhs.nnmc.navy.mil.	21600	IN	A	131.158.4.7
+ncca.mil.	21600	IN	NS	nediacd003u.dodiis.mil.
+ncca.mil.	21600	IN	NS	nediacd004u.dodiis.mil.
+ncca.mil.	21600	IN	NS	papjicd0001n.dodiis.mil.
+ncsc.mil.	21600	IN	NS	dsdn-gh1-uea01.ncsc.mil.
+ncsc.mil.	21600	IN	NS	dsdn-gh1-uea02.ncsc.mil.
+ncsc.mil.	10800	IN	DS	26317 5 1 7fab7392eeb5455ce6489daf95cf5fc6399e062d
+ncsc.mil.	10800	IN	DS	26317 5 2 d7dd0c753a85993cf1d0136120841884752450670f90101f67b718c322b31f83
+ncmd-buttercup.aztec.ncsc.mil.	21600	IN	A	144.51.170.34
+ncmd-daisy.aztec.ncsc.mil.	21600	IN	A	144.51.170.33
+dsdn-gh1-uea01.ncsc.mil.	21600	IN	A	214.29.60.1
+dsdn-gh1-uea02.ncsc.mil.	21600	IN	A	214.29.60.33
+ng.mil.	21600	IN	NS	ns01.army.mil.
+ng.mil.	21600	IN	NS	ns02.army.mil.
+ng.mil.	21600	IN	NS	ns03.army.mil.
+nga.mil.	21600	IN	NS	arnnsahslpdns1.nga.mil.
+nga.mil.	21600	IN	NS	ndedaa175rdns01.nga.mil.
+nga.mil.	10800	IN	DS	12835 8 1 227795db596c8719a3a99a4e0d1f7864d01e7f84
+nga.mil.	10800	IN	DS	12835 8 2 43aa76c56f8f8011412901b2006fe6683589e4df5ce2e95a9b163c3b068ff686
+arnnsahslpdns1.nga.mil.	21600	IN	A	207.132.76.145
+ndedaa175rdns01.nga.mil.	21600	IN	A	214.28.253.19
+ngb.mil.	21600	IN	NS	ns01.army.mil.
+ngb.mil.	21600	IN	NS	ns02.army.mil.
+ngb.mil.	21600	IN	NS	ns03.army.mil.
+nic.mil.	21600	IN	NS	dns1.nipr.mil.
+nic.mil.	21600	IN	NS	dns2.nipr.mil.
+nic.mil.	10800	IN	DS	59464 8 1 539c00f1ac962ce7208c057aadfa6e1892b2fca3
+nic.mil.	10800	IN	DS	59464 8 2 0150d3a7d761c6c77b7a0990e08e7491f1088458afb3804f99397743873ce7c4
+nicbr.mil.	21600	IN	NS	ns01.army.mil.
+nicbr.mil.	21600	IN	NS	ns02.army.mil.
+nicbr.mil.	21600	IN	NS	ns03.army.mil.
+nima.mil.	21600	IN	NS	arnnsahslpdns1.nga.mil.
+nima.mil.	21600	IN	NS	ndedaa175rdns01.nga.mil.
+nima.mil.	10800	IN	DS	39250 8 1 8076df425d5dbc9f54d3b17e13ddc17c680a27c1
+nima.mil.	10800	IN	DS	39250 8 2 2da631a82dd9abac6113966a9c8560a2cf75ab7e12f59cc3ecfdd5e0fe2faaa3
+nipr.mil.	21600	IN	NS	con1.nipr.mil.
+nipr.mil.	21600	IN	NS	con2.nipr.mil.
+nipr.mil.	21600	IN	NS	eur1.nipr.mil.
+nipr.mil.	21600	IN	NS	eur2.nipr.mil.
+nipr.mil.	21600	IN	NS	pac1.nipr.mil.
+nipr.mil.	21600	IN	NS	pac2.nipr.mil.
+nipr.mil.	10800	IN	DNSKEY	256 3 8 AwEAAdIeGj5K/GVqkCca/0TeTi+JAzDlbEfeGjElG2uROEascq8y8hzeLSrdi0c/jRUiY3mTon7mhPXLqKdAXxJC9AWolOMw2ycbS8ld+vnDe781u8jAoOX+QVyFxoo2v4NJKehj5vRvoQ74J8/jf7/TBxECyNpPKvIv1zxYezYInN4IzVnR ;{id = 53415 (zsk), size = 1048b}
+nipr.mil.	10800	IN	DNSKEY	256 3 8 AwEAAdskVjFx40aYZRFvJrDy6c7KWYb+P/vBFzDQnDRh11KQsWSPYjogJSlg7zgUKkyvE37gRZbEAjoXUB/LWy8pT4uZWRe6Q/i/kvgVOB6kkQqSrw91Jse2JxgN0mASHTDsHqRLYPv/eH3oCcSO8r43annVWrukGQQJiVDHS0FQDpDLsZeZ ;{id = 32808 (zsk), size = 1048b}
+nipr.mil.	10800	IN	DNSKEY	257 3 8 AwEAAZ4/oQggMIVzvI+vZWb0yJnCgObDf7bVCgC21Xs2lJcpkl8xJmQKvXl54yVF04p5tBtz+yBuHJAUV3vlQ00oaSHXPvX1+ccGp3gX8YEZZ2fDQbIVnH2dYevddqSL1kcAlMENIx4nSNjiLApzObzwFISVegeTutFvrvQOmeM/ZfrFIlr8/GQj1rWYYei68MYD+Oe/CxMQFKsjWHKAZ1GsdldI/IMAzBP478WWIzLEgIOsiX+bWpFdD0p6gcweNlgBIpxysoGDyV6fy+qtUKg/U+MLQx2sHgDPd8gNVZKuaAsgcBq9bhOTLNK8jpucFdw08Qbv/Ng/XfJxpyY1eD/ZZNs= ;{id = 45100 (ksk), size = 2048b}
+con1.nipr.mil.	21600	IN	A	199.252.157.234
+con2.nipr.mil.	21600	IN	A	199.252.162.234
+dns1.nipr.mil.	21600	IN	A	199.252.157.235
+dns2.nipr.mil.	21600	IN	A	199.252.162.243
+eur1.nipr.mil.	21600	IN	A	199.252.154.234
+eur2.nipr.mil.	21600	IN	A	199.252.143.234
+pac1.nipr.mil.	21600	IN	A	199.252.180.234
+pac2.nipr.mil.	21600	IN	A	199.252.155.234
+norad.mil.	21600	IN	NS	ncnd.northcom.mil.
+norad.mil.	21600	IN	NS	ncnd2.northcom.mil.
+norad.mil.	21600	IN	NS	cmdnsh01.northcom.mil.
+norad.mil.	21600	IN	NS	cmdnsh02.northcom.mil.
+noradnorthcom.mil.	21600	IN	NS	ncnd.northcom.mil.
+noradnorthcom.mil.	21600	IN	NS	ncnd2.northcom.mil.
+noradnorthcom.mil.	21600	IN	NS	cmdnsh01.northcom.mil.
+noradnorthcom.mil.	21600	IN	NS	cmdnsh02.northcom.mil.
+northcom.mil.	21600	IN	NS	ncnd.northcom.mil.
+northcom.mil.	21600	IN	NS	ncnd2.northcom.mil.
+northcom.mil.	21600	IN	NS	cmdnsh01.northcom.mil.
+northcom.mil.	21600	IN	NS	cmdnsh02.northcom.mil.
+cmdnsh01.northcom.mil.	21600	IN	A	164.236.160.19
+cmdnsh02.northcom.mil.	21600	IN	A	164.236.160.20
+ncnd.northcom.mil.	21600	IN	A	164.236.0.20
+ncnd2.northcom.mil.	21600	IN	A	164.236.0.19
+nosc.mil.	21600	IN	NS	ns1.nosc.mil.
+nosc.mil.	21600	IN	NS	ns2.nosc.mil.
+nosc.mil.	21600	IN	NS	ns3.nosc.mil.
+nosc.mil.	10800	IN	DS	15007 8 1 24ccf3cddc8b234e9fed708820b20a5162c0e07d
+nosc.mil.	10800	IN	DS	15007 8 2 d12b71321c13386ceb7923fce06536cd521df197dfc6698ec1fc9bc25f890bfb
+ns1.nosc.mil.	21600	IN	A	198.253.48.7
+ns1.nosc.mil.	21600	IN	AAAA	2001:480:10:1048::7
+ns2.nosc.mil.	21600	IN	A	163.240.3.10
+ns2.nosc.mil.	21600	IN	AAAA	2001:480:610:1003::10
+ns3.nosc.mil.	21600	IN	A	198.253.252.3
+nro.mil.	21600	IN	NS	ns1.nro.mil.
+nro.mil.	21600	IN	NS	ns2.nro.mil.
+nro.mil.	21600	IN	NS	a11svidzns001.nro.mil.
+nro.mil.	21600	IN	NS	w31svidzns001.nro.mil.
+a11svidzns001.nro.mil.	21600	IN	A	214.3.129.40
+ns1.nro.mil.	21600	IN	A	209.22.180.119
+ns2.nro.mil.	21600	IN	A	214.3.129.39
+w31svidzns001.nro.mil.	21600	IN	A	209.22.180.120
+onesaf.mil.	21600	IN	NS	tsddns.fedsun.navy.mil.
+onesaf.mil.	21600	IN	NS	tsddns4.fedsun.hpc.mil.
+onesaf.mil.	10800	IN	DS	25009 8 1 1d5164f271b1fde71740859765fca763fc6d57f1
+onesaf.mil.	10800	IN	DS	25009 8 2 2b38b8a89b5f75f821544ca5c6a163ceeda673069368f908b21b3bd053d2f494
+osd.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+osd.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+osd.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+osd.mil.	10800	IN	DS	33436 8 1 3151d0e8abfe65b72621c849c1ae5e6e48856697
+osd.mil.	10800	IN	DS	33436 8 2 0285670fbe99541df8b835662ff28ce403d9de4934d7938d032d3d72b6372be3
+canopus.afis.osd.mil.	21600	IN	A	155.7.40.88
+vega.afis.osd.mil.	21600	IN	A	155.7.40.44
+castor.dodmedia.osd.mil.	21600	IN	A	155.7.145.66
+osdcommemorations.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+osdcommemorations.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+osdcommemorations.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+osdcommemorations.mil.	10800	IN	DS	49846 8 1 52aa2f565726375ac9a4b899d7f71b6439c9202d
+osdcommemorations.mil.	10800	IN	DS	49846 8 2 d4ff212f33e949ca2316e1af2837ae271ecb4db186e3167b236c9ab2e687dba1
+pacom.mil.	21600	IN	NS	dns1.pacom.mil.
+pacom.mil.	21600	IN	NS	dns2.pacom.mil.
+pacom.mil.	21600	IN	NS	dns01.usfj.mil.
+pacom.mil.	10800	IN	DS	64324 8 1 f4091a8cf70ef912ce671e299a87fce32b87f6a0
+pacom.mil.	10800	IN	DS	64324 8 2 021aa38e1e333bcc2f6d9745f1ceff823b758ee9e17eaaa7dd3b4e280c39efbb
+dns1.pacom.mil.	21600	IN	A	199.211.150.66
+dns2.pacom.mil.	21600	IN	A	199.211.150.67
+pdhealth.mil.	21600	IN	NS	ns01.army.mil.
+pdhealth.mil.	21600	IN	NS	ns02.army.mil.
+pdhealth.mil.	21600	IN	NS	ns03.army.mil.
+pentagon.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+pentagon.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+pentagon.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+pentagon.mil.	10800	IN	DS	12679 8 1 6886b36b88d54c0b92ae51b188f47a27e30c5940
+pentagon.mil.	10800	IN	DS	12679 8 2 937925a639eb6df4d881041306cd3be74a321b9bdb50715d15553590444f88f0
+dns-pub-f1-u.pentagon.mil.	21600	IN	A	199.252.47.11
+dns-pub-f2-u.pentagon.mil.	21600	IN	A	214.14.133.11
+dns-pub-f3-u.pentagon.mil.	21600	IN	A	199.252.47.75
+ns1.hqda.pentagon.mil.	21600	IN	A	141.116.37.110
+ns2.hqda.pentagon.mil.	21600	IN	A	141.116.125.110
+ns3.hqda.pentagon.mil.	21600	IN	A	130.16.98.210
+pentagonchannel.mil.	21600	IN	NS	beast.dma.mil.
+pentagonchannel.mil.	21600	IN	NS	beauty.dma.mil.
+pentagonchannel.mil.	21600	IN	NS	kaucher.dma.mil.
+pentagonchannel.mil.	21600	IN	NS	russell.dma.mil.
+pentagonchannel.mil.	10800	IN	DS	33284 8 1 6870b20822acfbb561ccf6d2069326eb374e7d75
+people.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+people.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+people.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+people.mil.	10800	IN	DS	8989 8 1 380d751d1c62425a92dedd250ff6565bf5b061bf
+people.mil.	10800	IN	DS	8989 8 2 69bc7886c0a3ccefa37fea4eb3743a234b57c3c50fba9e5e5fe2b2738fcfa770
+performancetriad.mil.	21600	IN	NS	ns01.army.mil.
+performancetriad.mil.	21600	IN	NS	ns02.army.mil.
+performancetriad.mil.	21600	IN	NS	ns03.army.mil.
+pfpa.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+pfpa.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+pfpa.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+pfpa.mil.	10800	IN	DS	12517 8 1 c600d495c4bbf08e2b11fa321c7ff355bf015406
+pfpa.mil.	10800	IN	DS	12517 8 2 a91c47d01e50970408ac1bff2209e0caab8dbbed16010d20206c5e45f2c33862
+prs.mil.	21600	IN	NS	beast.dma.mil.
+prs.mil.	21600	IN	NS	beauty.dma.mil.
+prs.mil.	21600	IN	NS	kaucher.dma.mil.
+prs.mil.	21600	IN	NS	russell.dma.mil.
+prs.mil.	10800	IN	DS	26491 8 1 22942b34a8c2e45cf1847d999762f82093bda4f7
+repi.mil.	21600	IN	NS	beast.dma.mil.
+repi.mil.	21600	IN	NS	beauty.dma.mil.
+repi.mil.	21600	IN	NS	kaucher.dma.mil.
+repi.mil.	21600	IN	NS	russell.dma.mil.
+repi.mil.	10800	IN	DS	64997 8 1 5a99e4647c488ac5ee47a113c20bb7efd80740fa
+s2tportal.mil.	21600	IN	NS	tsddns.fedsun.navy.mil.
+s2tportal.mil.	21600	IN	NS	tsddns4.fedsun.hpc.mil.
+s2tportal.mil.	10800	IN	DS	43306 8 1 96723d639d5e810699f5b60290f6b2af8cb93ebd
+s2tportal.mil.	10800	IN	DS	43306 8 2 ed19746bff7e6acfd983e9f37e44b8a6d69360861e41cbae5b5517b52d4739d7
+safehelpline.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+safehelpline.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+safehelpline.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+safehelpline.mil.	10800	IN	DS	1795 8 1 3109870a8750c2f207dfede4889554db4c4574c6
+safehelpline.mil.	10800	IN	DS	1795 8 2 6d3530955fc0d9925a51911aaa08d2619c1cd4980fd5b8c59fd14d7569efeaa8
+sapr.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+sapr.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+sapr.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+sapr.mil.	10800	IN	DS	27166 8 1 5f2046888ad08a86d8989bf4397d39b0c9b27016
+sapr.mil.	10800	IN	DS	27166 8 2 16ba551fb2682b43193d5dcaeb07cea19114692b548e9f9d61e34a1edb40151e
+sco.mil.	21600	IN	NS	ns1.darpa.mil.
+sco.mil.	21600	IN	NS	ns2.darpa.mil.
+sco.mil.	10800	IN	DS	3964 8 1 05b126de182fd0e69109ae26211c93dc61c4b5c4
+sco.mil.	10800	IN	DS	3964 8 2 180c16c4bf062726f6bb3fb288182fe187b3bb93dae7952f3e066f4f77a8d82d
+sd.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+sd.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+sd.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+sd.mil.	10800	IN	DS	14770 8 1 6bfcf8dac1510b436afcb499dae9e5b949e1ad13
+sd.mil.	10800	IN	DS	14770 8 2 4ddd01e5e715b2888777958671fad95a025c50c32daf620faed25f55e2576479
+secdef.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+secdef.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+secdef.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+secdef.mil.	10800	IN	DS	56044 8 1 a33e7adaa646cddbb015f4b5eb369d93f19729c6
+secdef.mil.	10800	IN	DS	56044 8 2 3540ba62330c18262fd337ae633940508b02f5f3683ebcbbfe406c6efe3ddd3f
+sigar.mil.	21600	IN	NS	ns1.hqda.pentagon.mil.
+sigar.mil.	21600	IN	NS	ns2.hqda.pentagon.mil.
+sigir.mil.	21600	IN	NS	ns1.hqda.pentagon.mil.
+sigir.mil.	21600	IN	NS	ns2.hqda.pentagon.mil.
+smallpox.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+smallpox.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+smallpox.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+smallpox.mil.	10800	IN	DS	51994 8 1 bcde5dcd921f25a5a3ebacf1ca3c51cd046db368
+smallpox.mil.	10800	IN	DS	51994 8 2 08cc07a7e96eb4468e17a3eb00c643e3787114cab48933988bbf88519eca3398
+soc.mil.	21600	IN	NS	ns1.socom.mil.
+soc.mil.	21600	IN	NS	ns11.socom.mil.
+soc.mil.	21600	IN	NS	ns21.socom.mil.
+soc.mil.	21600	IN	NS	sentry.soc.mil.
+soc.mil.	10800	IN	DS	63606 10 1 8654aa151672ae7e4b8d8d5b0df0df5272edb7cb
+soc.mil.	10800	IN	DS	63606 10 2 1f81cbed64ce711e9e23bb1f57489b98dd935c767680eeec31205645826f7ef3
+sentry.soc.mil.	21600	IN	A	204.34.247.254
+socds.mil.	21600	IN	NS	ns1.socom.mil.
+socds.mil.	21600	IN	NS	ns2.socom.mil.
+socom.mil.	21600	IN	NS	ns11.socom.mil.
+socom.mil.	21600	IN	NS	ns21.socom.mil.
+socom.mil.	21600	IN	NS	ns22.socom.mil.
+ns1.socom.mil.	21600	IN	A	209.22.221.53
+ns11.socom.mil.	21600	IN	A	209.22.230.152
+ns2.socom.mil.	21600	IN	A	209.22.221.54
+ns21.socom.mil.	21600	IN	A	209.22.227.52
+ns22.socom.mil.	21600	IN	A	209.22.230.152
+sofsa.mil.	21600	IN	NS	ns1.sofsa.mil.
+sofsa.mil.	21600	IN	NS	ns2.sofsa.mil.
+sofsa.mil.	10800	IN	DS	56983 5 1 8941ab8cd33bc6cc1fb992056d444fb91d5e9f9d
+ns1.sofsa.mil.	21600	IN	A	192.203.150.10
+ns2.sofsa.mil.	21600	IN	A	198.97.99.11
+southcom.mil.	21600	IN	NS	scucer02-09dns01.southcom.mil.
+southcom.mil.	21600	IN	NS	scusatbq-g13dns03.southcom.mil.
+southcom.mil.	10800	IN	DS	13324 8 1 7dd42ac2a503c3d47041ebb2a88e40dedce8d7b2
+southcom.mil.	10800	IN	DS	13324 8 2 0a6719b384dd76ff5906205a1cf1b2149907a8303ebcb900a4cc60807a09a631
+scucer02-09dns01.southcom.mil.	21600	IN	A	130.22.36.4
+scusatbq-g13dns03.southcom.mil.	21600	IN	A	130.22.177.211
+storefront.mil.	21600	IN	NS	ns.jtfgno.mil.
+storefront.mil.	21600	IN	NS	ns.cybercom.mil.
+storefront.mil.	21600	IN	NS	ns1.csd.disa.mil.
+storefront.mil.	21600	IN	NS	guv10m01.mont.disa.mil.
+storefront.mil.	21600	IN	NS	guv10m02.mont.disa.mil.
+storefront.mil.	21600	IN	NS	utindo02.csd.disa.mil.
+storefront.mil.	10800	IN	DS	26785 8 1 d513017070297dd2406904b4446c5864909984bc
+storefront.mil.	10800	IN	DS	26785 8 2 361c7ce2bd35b9fb373bda0392729710fe301aaa97402b0381ec3f31b572e6e2
+stratcom.mil.	21600	IN	NS	kingfisher1.stratcom.mil.
+stratcom.mil.	21600	IN	NS	kingfisher2.stratcom.mil.
+stratcom.mil.	10800	IN	DS	48381 7 1 bece4afa2cc920552c7bba4f8856969cd4c8c9dc
+stratcom.mil.	10800	IN	DS	48381 7 2 34b5fa2f31eb2ee6425328d56b2f6c231e78acf4b9db6fd66500845458d539e0
+kingfisher1.stratcom.mil.	21600	IN	A	143.250.3.75
+kingfisher2.stratcom.mil.	21600	IN	A	143.250.4.75
+taas.mil.	21600	IN	NS	tsddns.fedsun.navy.mil.
+taas.mil.	21600	IN	NS	tsddns4.fedsun.hpc.mil.
+taas.mil.	10800	IN	DS	11551 8 1 8f676418df7143e8d6614f69043a128ee26716a0
+taas.mil.	10800	IN	DS	11551 8 2 80c77660593e1c5e0761312a77dc663de20b2f86cb5a3f804e6600687658ecee
+taas.mil.	10800	IN	DS	39604 8 1 ed133bed1e91deadb68cf7b049f17af25d19ea79
+taas.mil.	10800	IN	DS	39604 8 2 e2006d1b1df785d5bd7ce09bf2ecd75fc1f1f2558a0e4997155aa11c9fc4aa65
+transcom.mil.	21600	IN	NS	adns1.ustranscom.mil.
+transcom.mil.	21600	IN	NS	adns2.ustranscom.mil.
+transcom.mil.	21600	IN	NS	adns3.ustranscom.mil.
+transcom.mil.	10800	IN	DS	23779 8 1 74eb875b3f80dff7b9b8c9d4f88d675a75432182
+transcom.mil.	10800	IN	DS	23779 8 2 03c1346892ac8fa9d9a28a29b55aa709cca842d34dc89ce87508e9e8fac59011
+tricare.mil.	21600	IN	NS	ns01-cc-gw.health.mil.
+tricare.mil.	21600	IN	NS	ns01-ee-gw.health.mil.
+tricare.mil.	21600	IN	NS	ns01-we-gw.health.mil.
+tricare.mil.	21600	IN	NS	ns01-ncr-gw.health.mil.
+tricare.mil.	21600	IN	NS	ns01-nwc-gw.health.mil.
+tricare.mil.	21600	IN	NS	ns01-pac-gw.health.mil.
+tricare.mil.	21600	IN	NS	ns01-sea-gw.health.mil.
+tricare.mil.	21600	IN	NS	ns01-sec-gw.health.mil.
+tricare.mil.	21600	IN	NS	ns01-swc-gw.health.mil.
+uc.mil.	21600	IN	NS	ns.jtfgno.mil.
+uc.mil.	21600	IN	NS	ns.cybercom.mil.
+uc.mil.	21600	IN	NS	ns1.csd.disa.mil.
+uc.mil.	21600	IN	NS	guv10m01.mont.disa.mil.
+uc.mil.	21600	IN	NS	guv10m02.mont.disa.mil.
+uc.mil.	21600	IN	NS	utindo02.csd.disa.mil.
+uc.mil.	10800	IN	DS	28480 8 1 007cca945628ac80545a784a0bd37df7db80f1c1
+uc.mil.	10800	IN	DS	28480 8 2 dd2ee7dc33920bcff48b8969d314314b06190feb2d5c029965db12af9bac3958
+usafricom.mil.	21600	IN	NS	ns01.army.mil.
+usafricom.mil.	21600	IN	NS	ns02.army.mil.
+usafricom.mil.	21600	IN	NS	ns03.army.mil.
+usapab.mil.	21600	IN	NS	u30dc01.usapab.mil.
+usapab.mil.	21600	IN	NS	u30dc02.usapab.mil.
+u30dc01.usapab.mil.	21600	IN	A	214.4.158.3
+u30dc02.usapab.mil.	21600	IN	A	214.4.158.4
+uscg.mil.	21600	IN	NS	ns1.uscg.mil.
+uscg.mil.	21600	IN	NS	ns4.uscg.mil.
+uscg.mil.	21600	IN	NS	ns5.uscg.mil.
+uscg.mil.	10800	IN	DS	16278 7 1 c514d3c32db3b9233f0994fe886b99f25dac4f37
+uscg.mil.	10800	IN	DS	16278 7 2 62d0b6b70bbcbca7657f4c1410e25fe1db8f8bf827722d6873c29ad6a0c96fb8
+ns1.uscg.mil.	21600	IN	A	199.211.215.69
+ns4.uscg.mil.	21600	IN	A	199.211.216.7
+ns5.uscg.mil.	21600	IN	A	199.211.218.6
+usfj.mil.	21600	IN	NS	dns1.pacom.mil.
+usfj.mil.	21600	IN	NS	dns01.usfj.mil.
+usfj.mil.	10800	IN	DS	4090 8 1 54aceacb9071ded9016de5c8a5337ebe01e318de
+usfj.mil.	10800	IN	DS	4090 8 2 2d84633ac9adfab1ced4a9a3c5dad6e625e0b514fb38d34884d5899301e5b444
+dns01.usfj.mil.	21600	IN	A	215.1.46.29
+usfk.mil.	21600	IN	NS	ns01.army.mil.
+usfk.mil.	21600	IN	NS	ns02.army.mil.
+usfk.mil.	21600	IN	NS	ns03.army.mil.
+usmc.mil.	21600	IN	NS	bravo.usmc.mil.
+usmc.mil.	21600	IN	NS	usmcdns1.usmc.mil.
+usmc.mil.	21600	IN	NS	usmcdns1a.usmc.mil.
+usmc.mil.	10800	IN	DS	14665 8 1 54246417d30ea720e0d821dcaf6c2a80eff18a4c
+usmc.mil.	10800	IN	DS	14665 8 2 2d7a988dd864844a6bac0b06209cb73a0201f89f31f427ac84db45d5c3bb4255
+bravo.usmc.mil.	21600	IN	A	192.156.37.99
+usmcdns1.usmc.mil.	21600	IN	A	192.156.71.120
+usmcdns1a.usmc.mil.	21600	IN	A	192.156.7.120
+usstratcom.mil.	21600	IN	NS	kingfisher1.stratcom.mil.
+usstratcom.mil.	21600	IN	NS	kingfisher2.stratcom.mil.
+usstratcom.mil.	10800	IN	DS	37521 7 1 af8e10fe7fab1e1b824474391fe2ade827112489
+usstratcom.mil.	10800	IN	DS	37521 7 2 4d0dcf0a8fae63e4f7c5a0a321003cb52ecd86c06ced626a468a0c089f827cc9
+ustranscom.mil.	21600	IN	NS	adns1.ustranscom.mil.
+ustranscom.mil.	21600	IN	NS	adns2.ustranscom.mil.
+ustranscom.mil.	21600	IN	NS	adns3.ustranscom.mil.
+ustranscom.mil.	10800	IN	DS	61912 8 1 8f135204cb2ae30f2501283ee9146b985a5c04e5
+ustranscom.mil.	10800	IN	DS	61912 8 2 f96d1b373febcc14607705477f050ea8b603bb3c43a1f1915e36ce6e24a00ff3
+adns1.ustranscom.mil.	21600	IN	A	214.3.17.232
+adns2.ustranscom.mil.	21600	IN	A	214.3.16.232
+adns3.ustranscom.mil.	21600	IN	A	214.4.156.232
+usuhs.mil.	21600	IN	NS	nocusuhs.nnmc.navy.mil.
+usuhs.mil.	21600	IN	NS	ntcusuhs.nnmc.navy.mil.
+usuhs.mil.	10800	IN	DS	56179 8 1 f1ea336ca6d58ec6b06d1667c8d11d8a8a852286
+usuhs.mil.	10800	IN	DS	56179 8 2 8d89f7cf9ce85d93b5567003c8ba1e1cf9c1d8ca1999d7149ed5c0a01ca4241e
+vaccines.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+vaccines.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+vaccines.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+vaccines.mil.	10800	IN	DS	62686 8 1 994f42284b521fd43582e9208ec0b6cf278c3178
+vaccines.mil.	10800	IN	DS	62686 8 2 eff8c848c7674141aab2456a192ddff1f904591702bf22da809f193f19a0afc5
+vehicleforge.mil.	21600	IN	NS	ns1.darpa.mil.
+vehicleforge.mil.	21600	IN	NS	ns2.darpa.mil.
+vehicleforge.mil.	10800	IN	DS	62422 8 1 f4440940d59c24635c3f28e2f35cb32601202a5e
+vehicleforge.mil.	10800	IN	DS	62422 8 2 4dcd5bc1384578750de982a66c5877f6cadb00057ae480805fb6c442e80b874d
+warriorcare.mil.	21600	IN	NS	beast.dma.mil.
+warriorcare.mil.	21600	IN	NS	beauty.dma.mil.
+warriorcare.mil.	21600	IN	NS	kaucher.dma.mil.
+warriorcare.mil.	21600	IN	NS	russell.dma.mil.
+warriorcare.mil.	10800	IN	DS	19159 8 1 8ec071afe065e52c14256fbf060830b97b3b7f50
+wartimedetention.mil.	21600	IN	NS	vega.afis.osd.mil.
+wartimedetention.mil.	21600	IN	NS	castor.dodmedia.osd.mil.
+wartimedetention.mil.	21600	IN	NS	canopus.afis.osd.mil.
+whitepages.mil.	21600	IN	NS	ns.jtfgno.mil.
+whitepages.mil.	21600	IN	NS	ns.cybercom.mil.
+whitepages.mil.	21600	IN	NS	ns1.csd.disa.mil.
+whitepages.mil.	21600	IN	NS	guv10m01.mont.disa.mil.
+whitepages.mil.	21600	IN	NS	guv10m02.mont.disa.mil.
+whitepages.mil.	21600	IN	NS	utindo02.csd.disa.mil.
+whitepages.mil.	10800	IN	DS	33232 8 1 547cdb07daea60a4602d38a2b713b22a875222e8
+whitepages.mil.	10800	IN	DS	33232 8 2 bf0d6c1751486e90e67545ca3512379360c2038ba7ed9a71f6550969a506bc0d
+whmo.mil.	21600	IN	NS	ns1.whmo.mil.
+whmo.mil.	21600	IN	NS	ns3.whmo.mil.
+ns1.whmo.mil.	21600	IN	A	214.3.140.2
+ns3.whmo.mil.	21600	IN	A	214.3.115.13
+whs.mil.	21600	IN	NS	dns-pub-f1-u.pentagon.mil.
+whs.mil.	21600	IN	NS	dns-pub-f2-u.pentagon.mil.
+whs.mil.	21600	IN	NS	dns-pub-f3-u.pentagon.mil.
+whs.mil.	10800	IN	DS	3034 8 1 a831d0a4cf17717f4c5e723279035f1a13f2c938
+whs.mil.	10800	IN	DS	3034 8 2 20e5b4d2a269aa966f6f2c6ab1c8507f8f2e178110b86c0a74420caeca2bbdb5
+yellowribbon.mil.	21600	IN	NS	ns.jtfgno.mil.
+yellowribbon.mil.	21600	IN	NS	ns.cybercom.mil.
+yellowribbon.mil.	21600	IN	NS	ns1.csd.disa.mil.
+yellowribbon.mil.	21600	IN	NS	guv10m01.mont.disa.mil.
+yellowribbon.mil.	21600	IN	NS	guv10m02.mont.disa.mil.
+yellowribbon.mil.	21600	IN	NS	utindo02.csd.disa.mil.
+yellowribbon.mil.	10800	IN	DS	52399 8 1 be9545e8f23e12fda961fd89c9389ad7e2406eb6
+yellowribbon.mil.	10800	IN	DS	52399 8 2 bfecc0be7cb3bfb187398a7606be6142a061bd4bb456464d3efc32939bb41e95
