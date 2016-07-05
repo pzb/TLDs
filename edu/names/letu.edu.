@@ -1,0 +1,16 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+goipat2nar1fqvqr5i1pk5qh2t5ig8ht.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709051627 20160702040627 15617 edu. ebyc12+pim+vf8bEhIBirC0Ta/HCsuLByaXqUHUlEY8wJso9/eDN3UqnlfNO5ewEuCzu9pt9PQymIRfJgQJpoCLWcg+Yek/StDA+hLVR3uFu9bXbD6Zcd/ZjlNaSffnlhH4ub3eY0eFj6Bkctcul9fhWSkekI72RGS90qAA190E=
+goipat2nar1fqvqr5i1pk5qh2t5ig8ht.edu.	86400	IN	NSEC3	1 1 0 -  gp010q5910pem85g019fdoq780f3e5to NS DS RRSIG 
+letu.edu.	172800	IN	NS	ns10.letu.edu.
+letu.edu.	172800	IN	NS	ns11.letu.edu.
+letu.edu.	172800	IN	NS	ns12.letu.edu.
+letu.edu.	172800	IN	NS	ns13.letu.edu.
+letu.edu.	172800	IN	NS	ns14.letu.edu.
+letu.edu.	172800	IN	NS	ns15.letu.edu.
+ns10.letu.edu.	172800	IN	A	208.94.148.4
+ns11.letu.edu.	172800	IN	A	208.80.124.4
+ns12.letu.edu.	172800	IN	A	208.80.126.4
+ns13.letu.edu.	172800	IN	A	208.80.125.4
+ns14.letu.edu.	172800	IN	A	208.80.127.4
+ns15.letu.edu.	172800	IN	A	208.94.149.4

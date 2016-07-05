@@ -1,0 +1,23 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+rcgc.edu.	172800	IN	NS	ns1.comcastbusiness.net.
+rcgc.edu.	172800	IN	NS	ns2.comcastbusiness.net.
+rcgc.edu.	172800	IN	NS	ns3.comcastbusiness.net.
+rcgc.edu.	172800	IN	NS	ns4.comcastbusiness.net.
+rcgc.edu.	172800	IN	NS	ns5.comcastbusiness.net.
+rcgc.edu.	172800	IN	NS	rt-ns1.rcgc.edu.
+rcgc.edu.	172800	IN	NS	rt-ns2.rcgc.edu.
+rt-ns1.rcgc.edu.	172800	IN	A	107.1.86.37
+rt-ns2.rcgc.edu.	172800	IN	A	107.1.86.38
+u37k0p2moli6asrl45pmp2r6nsfaeds8.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711221017 20160704210017 15617 edu. YQSFmGCmtT644Z+qIVD1RNUCY+3OzNoy1GNs/BYuWld15dgyNy4U/MIJs+5/1JlCqPkWte5OTMe+ZPgHbQmE8CT4Wa5eKdxewecSpJ0OuLG47WkiN9kD1BVitn5e4LHHaU6kLJfhH8UGBij/x8+ahZA/8UicYAMmDUcSvlGgxy8=
+u37k0p2moli6asrl45pmp2r6nsfaeds8.edu.	86400	IN	NSEC3	1 1 0 -  u4gucuv56ct9gc68eego08asagm25s9u NS DS RRSIG 
+ns1.comcastbusiness.net.	172800	IN	A	69.252.250.103
+ns1.comcastbusiness.net.	172800	IN	AAAA	2001:558:fe23:8:69:252:250:103
+ns2.comcastbusiness.net.	172800	IN	A	68.87.85.132
+ns2.comcastbusiness.net.	172800	IN	AAAA	2001:558:1004:7:68:87:85:132
+ns3.comcastbusiness.net.	172800	IN	A	68.87.76.228
+ns3.comcastbusiness.net.	172800	IN	AAAA	2001:558:1014:c:68:87:76:228
+ns4.comcastbusiness.net.	172800	IN	A	68.87.68.244
+ns4.comcastbusiness.net.	172800	IN	AAAA	2001:558:100a:5:68:87:68:244
+ns5.comcastbusiness.net.	172800	IN	A	68.87.72.244
+ns5.comcastbusiness.net.	172800	IN	AAAA	2001:558:100e:5:68:87:72:244

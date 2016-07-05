@@ -1,0 +1,8 @@
+ns.rackspace.com.	172800	IN	A	69.20.95.4
+ns2.rackspace.com.	172800	IN	A	65.61.188.4
+2prp7kn3chvobga314gp794jg9vuli66.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711215631 20160704204631 15617 edu. ei8OPV2Jau8nNnz+X4ObX83+5Pe6eQIbqAf6r775gdLgTf00dZ3Zr46CASg4pSZUkb4B2miWpJtz7vjk6NkDk3S9wW4VTOIy2qD4y6kT+ch8r2lVuCXfpxVcDSwc0LGsNXQ2tErTAldn+Ipi0eLUhRYqdxRdhzgt49mRbPTLM3Q=
+2prp7kn3chvobga314gp794jg9vuli66.edu.	86400	IN	NSEC3	1 1 0 -  2rfc2g84t5k75ft7c0mb9pm0suqnpm6c NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+everestonline.edu.	172800	IN	NS	ns.rackspace.com.
+everestonline.edu.	172800	IN	NS	ns2.rackspace.com.

@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ca4o37re4oqiegt1inabfk1k95g7u3qt.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051940 20160704040940 15617 edu. BvTMs+1aSJIU5UqQhe+lo2GZETosi0e0OwdIvh5PXPN80J6p55OFJ2AC1eLfB2QfuF0W7mzHhdkuBnTQzD8j2IWtpJwRG6Ij4DFwuJrAjQK3bdjZwmwgkE5csN9uKuSqZwj9+vfGISoACFZofrUSsENJ+TXpj6aT5BdMO8jR6j0=
+ca4o37re4oqiegt1inabfk1k95g7u3qt.edu.	86400	IN	NSEC3	1 1 0 -  cb7jk0s0fgcjssov0ev859u2q6ttostk NS DS RRSIG 
+richmont.edu.	172800	IN	NS	ns1.epbinternet.net.
+richmont.edu.	172800	IN	NS	ns2.epbinternet.net.
+ns1.epbinternet.net.	172800	IN	A	74.205.143.2
+ns2.epbinternet.net.	172800	IN	A	66.18.63.50

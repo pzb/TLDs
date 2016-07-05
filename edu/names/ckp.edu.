@@ -1,0 +1,11 @@
+0ec36cnag05eg3kt4f1uu5sjhbpku3fd.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160708052037 20160701041037 15617 edu. i0pGuRh3m64K66kYNadV2Fvrxt7ErWK0A+Y88zNY+Qh0HtseoIOycS1NS5CxmMUwOHxkrUtN5Ue9pbgMcdG22FB1JNi8WJfPbbs21SwGWKtG+6TUqRbeR6vRYie3oXh8kQfwqrUVLuclkRuN5g40nsdPSwB2f6SrkLEYmllenaA=
+0ec36cnag05eg3kt4f1uu5sjhbpku3fd.edu.	86400	IN	NSEC3	1 1 0 -  0f2j75tfreejrofb2ahgmjqs2i5f0k5v NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ckp.edu.	172800	IN	NS	dns.info-ren.org.
+ckp.edu.	172800	IN	NS	dns1.psc.edu.
+ckp.edu.	172800	IN	NS	charon.psc.edu.
+charon.psc.edu.	172800	IN	A	128.182.65.6
+charon.psc.edu.	172800	IN	AAAA	2001:5e8:2:41::6
+dns1.psc.edu.	172800	IN	A	128.182.58.105
+dns1.psc.edu.	172800	IN	AAAA	2001:5e8:1:3a::69

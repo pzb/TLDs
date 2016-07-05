@@ -1,0 +1,8 @@
+ns1.brinkster.com.	172800	IN	A	65.182.99.55
+ns2.brinkster.com.	172800	IN	A	65.182.101.55
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+arthurangelo.edu.	172800	IN	NS	ns1.brinkster.com.
+arthurangelo.edu.	172800	IN	NS	ns2.brinkster.com.
+p0tg0joqhnlh5j94dl59r9je1kkid4ht.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712042250 20160705031250 15617 edu. lUGsPL3BvX4r8yH9AOBRct0GAJ72L/gvzrfWKWFLrxzLXQP4SfEVx6BcXPFFn9ZP1jTHsznSkfd5Dzs62WhbeCuxkxrf295cLF+nM2NWkQzqpD5/kHh2CveQ5vRQip3DpUAsB9zlu9zCNQg6oFB7mg5ego6cyou+/E8acF7YzT0=
+p0tg0joqhnlh5j94dl59r9je1kkid4ht.edu.	86400	IN	NSEC3	1 1 0 -  p2ehbriu9ujjtp2oqah79u8a0m25pvb4 NS DS RRSIG 

@@ -1,0 +1,11 @@
+6qf10h7dcdrnahpudenndvtj3o94ungu.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711223143 20160704212143 15617 edu. s8ugI4NCTENv2aKyziTBJFqO7r7M2VQK3tapUAs14B3V10CotxsIunv2uv/9rggIi1mO9weEhr/CjfHyOWVMuZjug7WHLR5naIZv70uyhglge4Cr3tWGFlGUpVftqHAVN1ZDzjBuChqlyXAP1wMzE712mUeg4Y1/Z3sqNlCaaRw=
+6qf10h7dcdrnahpudenndvtj3o94ungu.edu.	86400	IN	NSEC3	1 1 0 -  6soc01goffbmbvhmfb7e40f3raknmrls NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ubaguio.edu.	172800	IN	NS	ns1.ubaguio.edu.
+ubaguio.edu.	172800	IN	NS	ns2.ubaguio.edu.
+ubaguio.edu.	172800	IN	NS	pns1.cloudns.net.
+ns1.ubaguio.edu.	172800	IN	A	122.55.103.201
+ns2.ubaguio.edu.	172800	IN	A	122.55.103.203
+pns1.cloudns.net.	172800	IN	A	185.136.96.111
+pns1.cloudns.net.	172800	IN	AAAA	2a06:fb00:1::1:111

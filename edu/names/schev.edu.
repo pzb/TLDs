@@ -1,0 +1,8 @@
+1btddt4pjukvfhaaltpvoth8hhti7rbo.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710132008 20160703121008 15617 edu. brAldIJucNYhr2KAVoh8dGTlFLFG5aoybU8OzdQdAaYmJPZLnU9DnwmWXDQxplq57RTuKbPx/8PW8f2eyLZdl5Hb+mbDxXSMCyQ1sImUVRi2izhnAtCQBHeoh4t17Bc0y5qqV/wyiBqINj3IPy8e194h3ZGzrmXKLLaJNCi8HCM=
+1btddt4pjukvfhaaltpvoth8hhti7rbo.edu.	86400	IN	NSEC3	1 1 0 -  1c4e6pitehsgaapvqgjtgan7u0rr055b NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+schev.edu.	172800	IN	NS	cnsa.vita.virginia.gov.
+schev.edu.	172800	IN	NS	cnsb.vita.virginia.gov.
+schev.edu.	172800	IN	NS	snsa.vita.virginia.gov.
+schev.edu.	172800	IN	NS	snsb.vita.virginia.gov.

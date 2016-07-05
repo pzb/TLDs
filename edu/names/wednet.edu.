@@ -1,0 +1,12 @@
+7fu1lsrj5g1ffr7pd6cedf556fnpuln8.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712032120 20160705021120 15617 edu. v8rO+cauLmhsL3AlDzZfPfurowd9F99q3OdXB66Dc1eVX93JERp40V2ImraW6Nbn0N93YGH2+BvTOph4eUTKWSse5b+c/hPK5nZwWqD3ZMi0Ajx1JthNFzhyul8Ifp97c3o558/v+dPbD9E5jWeah253VoFgTUXY1B8gBpqOl1c=
+7fu1lsrj5g1ffr7pd6cedf556fnpuln8.edu.	86400	IN	NSEC3	1 1 0 -  7go3o2lp5n0jft8tqcvis69muacrt3q2 NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+wednet.edu.	172800	IN	NS	apple.wa-k20.net.
+wednet.edu.	172800	IN	NS	oasis.wsipc.wednet.edu.
+wednet.edu.	172800	IN	NS	ruler.wa-k20.net.
+wednet.edu.	172800	IN	NS	sitka.wsipc.wednet.edu.
+oasis.wsipc.wednet.edu.	172800	IN	A	192.206.201.4
+sitka.wsipc.wednet.edu.	172800	IN	A	192.206.201.27
+apple.wa-k20.net.	172800	IN	A	68.179.206.40
+ruler.wa-k20.net.	172800	IN	A	68.179.206.139

@@ -1,0 +1,8 @@
+ns1.bluehost.com.	172800	IN	A	74.220.195.31
+ns2.bluehost.com.	172800	IN	A	69.89.16.4
+7otmj34ob2tvjlb2l90m7ka5a15q5r7c.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710053346 20160703042346 15617 edu. sZxwtfpVAxPLIu/jNDoGl1uLxt7A1GK/YTxBAbRgue8MVYhMe34b7nv7t2LiETbX2sxUk2m6iYpl0kTZmZcmkBcWRF1aYk6QaKxWAd61aBKSxJyz1vhvzzOQCdLMREDzxgTl/Xo7bWGphL0WrMF0OfuiXqCzkFTpurmCb7dW3ww=
+7otmj34ob2tvjlb2l90m7ka5a15q5r7c.edu.	86400	IN	NSEC3	1 1 0 -  7pblrk7iikc5q8ksnmvsiq3igukadtiu NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+neshd.edu.	172800	IN	NS	ns1.bluehost.com.
+neshd.edu.	172800	IN	NS	ns2.bluehost.com.

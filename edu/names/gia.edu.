@@ -1,0 +1,14 @@
+ns1156.dns.dyn.com.	172800	IN	A	208.76.58.156
+ns2146.dns.dyn.com.	172800	IN	A	208.76.59.146
+ns3145.dns.dyn.com.	172800	IN	A	208.76.60.145
+ns4131.dns.dyn.com.	172800	IN	A	208.76.61.131
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+gia.edu.	172800	IN	NS	ns1.gia.edu.
+gia.edu.	172800	IN	NS	ns1156.dns.dyn.com.
+gia.edu.	172800	IN	NS	ns2146.dns.dyn.com.
+gia.edu.	172800	IN	NS	ns3145.dns.dyn.com.
+gia.edu.	172800	IN	NS	ns4131.dns.dyn.com.
+ns1.gia.edu.	172800	IN	A	205.143.120.200
+o47unfollq137nir2o343d3ghv0n26so.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711194143 20160704183143 15617 edu. Aqff0Sq1fNMGwzq/wZB/5m87D3UMgqfNQYBTbohxHlQDAJzrdyjNjOin9CgqsDl2dUl8qSLg7Gaq0U/gCFEZXLhV9XIiXsIKvKvadoqO+HEqskhn6TMkWRoWXAesdkMV1vhfLF4vcNA4vlqCZIeTLL79ywzcGSSaoVHSygm3srA=
+o47unfollq137nir2o343d3ghv0n26so.edu.	86400	IN	NSEC3	1 1 0 -  o6umehi4cqalovrkefrqtegsfrcrbttd NS DS RRSIG 

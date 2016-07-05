@@ -1,0 +1,12 @@
+4f8c0cgvv7ao85v63j8qccmv0heedsji.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712024613 20160705013613 15617 edu. P2dLKkNlF+4cZ9g4hc6AZgkD4jqsFPOSaIjCRVAhb6S25pjuwGdCT0g80HV5AvSVfwOzfi99j/yIKN1wDCsjNi+rCn74ArOQVfSgcXemFTXWEZ1JtlxwwiARclF9ErI1zZAyzFnOc8mx81AxlZFl3Bhhe20NBrjoQ8GwgK3FJ0o=
+4f8c0cgvv7ao85v63j8qccmv0heedsji.edu.	86400	IN	NSEC3	1 1 0 -  4g4121qj8lk3p5hgp5ckmcujip7qk93j NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ewc.edu.	172800	IN	NS	ns1.ewc.edu.
+ewc.edu.	172800	IN	NS	ns1.p05.dynect.net.
+ewc.edu.	172800	IN	NS	ns2.ewc.edu.
+ewc.edu.	172800	IN	NS	ns2.p05.dynect.net.
+ns1.ewc.edu.	172800	IN	A	74.11.146.5
+ns2.ewc.edu.	172800	IN	A	74.11.146.6
+ns1.p05.dynect.net.	172800	IN	A	208.78.70.5
+ns2.p05.dynect.net.	172800	IN	A	204.13.250.5

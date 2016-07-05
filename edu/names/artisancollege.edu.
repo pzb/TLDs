@@ -1,0 +1,8 @@
+ns1.dreamhost.com.	172800	IN	A	66.33.206.206
+ns2.dreamhost.com.	172800	IN	A	208.97.182.10
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+artisancollege.edu.	172800	IN	NS	ns1.dreamhost.com.
+artisancollege.edu.	172800	IN	NS	ns2.dreamhost.com.
+pqhlirve1f25nlb5p678tg2jgrpeksb4.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709051627 20160702040627 15617 edu. iPFU8dhfDBECr6kdzfLjOFojW2YHz8E7QkUasi7md2Kz+F+J2np4TiIPDM9rjyrzLiyVXnuIkPhOfYCuKwWvB6aTbW9vJifwQMT9Tg93/e+EEwgTEcDDpqAflI9rG17vfJjg1/CWtbGyQe7CPVGOkEBFOvFGaTUaQjdWTtHV3c0=
+pqhlirve1f25nlb5p678tg2jgrpeksb4.edu.	86400	IN	NSEC3	1 1 0 -  pqkmh706acsihq660u9ntp1ovb2gircj NS DS RRSIG 

@@ -1,0 +1,12 @@
+ns-368.awsdns-46.com.	172800	IN	A	205.251.193.112
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+hamilton.edu.	172800	IN	NS	ddi-c1.hamilton.edu.
+hamilton.edu.	172800	IN	NS	ns-368.awsdns-46.com.
+hamilton.edu.	172800	IN	NS	ns-679.awsdns-20.net.
+hamilton.edu.	172800	IN	NS	ns-1311.awsdns-35.org.
+hamilton.edu.	172800	IN	NS	ns-1771.awsdns-29.co.uk.
+ddi-c1.hamilton.edu.	172800	IN	A	150.209.8.21
+pt5k920e0qq7ui97jjedfhn5ignnc8ms.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711015346 20160704004346 15617 edu. 1GxBSP6QVroJXYh/tmGajvN2dC4Bq+sZrTcHVNfp62Rq28kUUOWp7XvPueHXLlWKquJ28xncSFndUH03J6x7sNKwOVdpMerVdILK9vzQaRSqVceuqJcG4OqhbMegAAs276dc2UO2u1vMwFIFwze6Hov1XGcuz3eZizeRM1LyEKA=
+pt5k920e0qq7ui97jjedfhn5ignnc8ms.edu.	86400	IN	NSEC3	1 1 0 -  pufeiti7tt4am6u6s8haenudcorji4el NS DS RRSIG 
+ns-679.awsdns-20.net.	172800	IN	A	205.251.194.167

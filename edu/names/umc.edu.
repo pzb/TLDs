@@ -1,0 +1,6 @@
+umc.edu.	172800	IN	NS	ibdmzns1vip.umc.edu.
+umc.edu.	172800	IN	NS	ibdmzns2vip.umc.edu.
+umc.edu.	86400	IN	DS	40606 5 2 6356e963f2864d8ce3a78b07e0a6b1394a2b7b25dde6f257ce0215a62b262b10
+umc.edu.	86400	IN	RRSIG	DS 8 2 86400 20160708052036 20160701041036 15617 edu. MBbJvE1C5GhmW0pG/GtgOYfS3eOc5z4Wd4JtpfUSgPg/6BUzyFwCgJHrwTQHEHPXVXp+TI4HqccNq+F2BXRF41ys1GhcYij8Syouq9zx1I3yQcAh9SDJGRybmpuiPChNtRb9GvH8j/WMftsNVqOJ4T+O/oqjagd8/d1q+BEZig0=
+ibdmzns1vip.umc.edu.	172800	IN	A	192.207.213.179
+ibdmzns2vip.umc.edu.	172800	IN	A	192.207.213.182

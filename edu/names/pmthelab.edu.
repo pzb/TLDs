@@ -1,0 +1,12 @@
+ns1.xpertdns.com.	172800	IN	A	158.85.23.244
+ns1.xpertdns.com.	172800	IN	AAAA	2001:470:7:205::1000
+ns2.xpertdns.com.	172800	IN	A	208.43.1.122
+ns2.xpertdns.com.	172800	IN	AAAA	2001:470:1f0e:ccc::1000
+ns3.xpertdns.com.	172800	IN	A	158.85.163.178
+7t8ujgatgssvqvhr1aeo5ratv0pvinfk.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712041830 20160705030830 15617 edu. iLurRXqRWTTZprGQVlIzf2v+ptGePlzlQxXDKL5kyemrGfxcW4C4uf+w7AAsDXdW7kCi58NSt2ljCG7IQnwqTiZmuDQVjdm9l+VRNxWzCKNre4PMDJctlwMot8fRgLaf8nT7Qgld7Pt7AnCDvPAw9/1T2KRNDJbvbSl9tyFwykc=
+7t8ujgatgssvqvhr1aeo5ratv0pvinfk.edu.	86400	IN	NSEC3	1 1 0 -  7upnqdvfl3sk386khufu9jrgkq8hj9n4 NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+pmthelab.edu.	172800	IN	NS	ns1.xpertdns.com.
+pmthelab.edu.	172800	IN	NS	ns2.xpertdns.com.
+pmthelab.edu.	172800	IN	NS	ns3.xpertdns.com.

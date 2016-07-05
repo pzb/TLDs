@@ -1,0 +1,14 @@
+dns1.name-services.com.	172800	IN	A	98.124.192.1
+dns2.name-services.com.	172800	IN	A	98.124.197.1
+dns3.name-services.com.	172800	IN	A	98.124.193.1
+dns4.name-services.com.	172800	IN	A	98.124.194.1
+dns5.name-services.com.	172800	IN	A	98.124.196.1
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+a0p5nhg2qq02j1prbfkhkck9gcrok0m3.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710170753 20160703155753 15617 edu. vnuD0rYI4yQ9YZaCkXDkG3S0icJ834llBcRTpSRlv9azI0IZNmah3hEfleFCelLTifEk8DJimw7jbeYvdMJ/fwavWAcHNwGzLlMr35h4YXmjHg05KgwHI7Z8sXsUFU8x2SeW9q42x8IceM2ySktvYiaSrR6yNtuNDg1cendf5ug=
+a0p5nhg2qq02j1prbfkhkck9gcrok0m3.edu.	86400	IN	NSEC3	1 1 0 -  a22vs3k93kbeki75plh3ssi9g6v7ebjm NS DS RRSIG 
+tac.edu.	172800	IN	NS	dns1.name-services.com.
+tac.edu.	172800	IN	NS	dns2.name-services.com.
+tac.edu.	172800	IN	NS	dns3.name-services.com.
+tac.edu.	172800	IN	NS	dns4.name-services.com.
+tac.edu.	172800	IN	NS	dns5.name-services.com.

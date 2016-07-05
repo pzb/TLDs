@@ -1,0 +1,10 @@
+7mhvujdse7d4f4go60he2m8kvnk28v1m.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710173654 20160703162654 15617 edu. CCTZTBaSBtXIJFdACgOELAAIWS4XI4ozYBblk3NQpYWegsJWgBzMrzyKaO1G68g61PA0HYS7dfhBa5c535FvM+213BsAPqT8upaQdA2La7CbfqMKIjG2/ybVV1JRZ/2eUlLYh29VnCf+C26rrP+N8UeIY+Mi6h3ly9g43HkGp2U=
+7mhvujdse7d4f4go60he2m8kvnk28v1m.edu.	86400	IN	NSEC3	1 1 0 -  7oa6sh5jc2bc7f9ea17hr7npvq4mgvv4 NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+tul.edu.	172800	IN	NS	ns1.zurich.surf.net.
+tul.edu.	172800	IN	NS	ns1.surfnet.nl.
+tul.edu.	172800	IN	NS	ns1.maastrichtuniversity.nl.
+tul.edu.	172800	IN	NS	ns2.maastrichtuniversity.eu.
+ns1.zurich.surf.net.	172800	IN	A	195.176.255.9
+ns1.zurich.surf.net.	172800	IN	AAAA	2001:620:0:9::1103

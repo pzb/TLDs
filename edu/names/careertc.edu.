@@ -1,0 +1,8 @@
+pdns01.domaincontrol.com.	172800	IN	A	216.69.185.50
+pdns02.domaincontrol.com.	172800	IN	A	208.109.255.50
+5kut5165mmusjmbpbbql7mvqcbmia9co.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712014323 20160705003323 15617 edu. SjoF0AGEO9MK8cCD9ciSs1aAfICK8Xx6quaH0hdP07loUat7DDYf1R85fVAUUfva7ioBeQelU2oM34wYo2nTbSnd83XLvEHzJN7Jlktodo8iBBg5K5j7IH5gcv5NHnTtkTv0iODisXdgmTTxaz9pDYmN623WOvWJJuqmna4JZkg=
+5kut5165mmusjmbpbbql7mvqcbmia9co.edu.	86400	IN	NSEC3	1 1 0 -  5l3p0tpkmmj1c8teptlmf62gtod74ms9 NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+careertc.edu.	172800	IN	NS	pdns01.domaincontrol.com.
+careertc.edu.	172800	IN	NS	pdns02.domaincontrol.com.

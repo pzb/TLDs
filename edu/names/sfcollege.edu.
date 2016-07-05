@@ -1,0 +1,14 @@
+ns1.firn.edu.	172800	IN	A	150.176.12.51
+ns2.firn.edu.	172800	IN	A	150.176.12.52
+sfcollege.edu.	172800	IN	NS	ns1.firn.edu.
+sfcollege.edu.	172800	IN	NS	ns1.sfcollege.edu.
+sfcollege.edu.	172800	IN	NS	ns2.cl.bellsouth.net.
+sfcollege.edu.	172800	IN	NS	ns2.firn.edu.
+sfcollege.edu.	172800	IN	NS	ns2.sfcollege.edu.
+sfcollege.edu.	172800	IN	NS	ns3.cl.bellsouth.net.
+sfcollege.edu.	86400	IN	DS	46738 5 1 b2e844edc6dce24c519f2f8c48f52ac6a294d21f
+sfcollege.edu.	86400	IN	RRSIG	DS 8 2 86400 20160711051941 20160704040941 15617 edu. cFqK92TuoNYa0RPkEtKPl29TRaVV9BL29QCNq3X6i3kxyTJUN3W8l2T7cA+fyRO3Cjd9n/3WK0itycKM0W/n/0x+1jhb2P9FDWzMB47GOYgxyn4iRLxzjhSWmpPTCKgnDEHe2JzixivILPV5U2tRzpvMHfuF2dyREZoK+hXG38I=
+ns1.sfcollege.edu.	172800	IN	A	150.176.247.119
+ns2.sfcollege.edu.	172800	IN	A	150.176.247.120
+ns2.cl.bellsouth.net.	172800	IN	A	205.152.16.8
+ns3.cl.bellsouth.net.	172800	IN	A	205.152.32.8

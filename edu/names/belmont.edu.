@@ -1,0 +1,19 @@
+4dgh1kdo7rs4k6rl4vsh934p29qd3sh0.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711163018 20160704152018 15617 edu. zM5eH1Tz+OOVXdxUT+9djj73lYXiQ/iTFLQWf3D3EwOdu7FSLVRsguRURc3eUgxVFv5EwAt7skLlpOkm+f/m6kXKa7tePsPcytMHOs4hUQwKGDlgojhqvB4faDGmYsK3NHJY59qG1sjpK+o45xm4ULhTAqiJPRUageDcLIFtI84=
+4dgh1kdo7rs4k6rl4vsh934p29qd3sh0.edu.	86400	IN	NSEC3	1 1 0 -  4f8c0cgvv7ao85v63j8qccmv0heedsji NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+belmont.edu.	172800	IN	NS	ns1.comcastbusiness.net.
+belmont.edu.	172800	IN	NS	ns2.comcastbusiness.net.
+belmont.edu.	172800	IN	NS	ns3.comcastbusiness.net.
+belmont.edu.	172800	IN	NS	ns4.comcastbusiness.net.
+belmont.edu.	172800	IN	NS	ns5.comcastbusiness.net.
+ns1.comcastbusiness.net.	172800	IN	A	69.252.250.103
+ns1.comcastbusiness.net.	172800	IN	AAAA	2001:558:fe23:8:69:252:250:103
+ns2.comcastbusiness.net.	172800	IN	A	68.87.85.132
+ns2.comcastbusiness.net.	172800	IN	AAAA	2001:558:1004:7:68:87:85:132
+ns3.comcastbusiness.net.	172800	IN	A	68.87.76.228
+ns3.comcastbusiness.net.	172800	IN	AAAA	2001:558:1014:c:68:87:76:228
+ns4.comcastbusiness.net.	172800	IN	A	68.87.68.244
+ns4.comcastbusiness.net.	172800	IN	AAAA	2001:558:100a:5:68:87:68:244
+ns5.comcastbusiness.net.	172800	IN	A	68.87.72.244
+ns5.comcastbusiness.net.	172800	IN	AAAA	2001:558:100e:5:68:87:72:244

@@ -1,0 +1,12 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+shu.edu.	172800	IN	NS	ns10.customer.level3.net.
+shu.edu.	172800	IN	NS	ns19.customer.level3.net.
+shu.edu.	172800	IN	NS	ext-ns1.shu.edu.
+shu.edu.	172800	IN	NS	ext-ns2.shu.edu.
+ext-ns1.shu.edu.	172800	IN	A	149.150.254.22
+ext-ns2.shu.edu.	172800	IN	A	149.150.254.23
+tvshcj3hrplhdboeefj8s8n98sp9cq5f.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711083832 20160704072832 15617 edu. 4UrBF37pedKe8EbXO5rtTPixN+pc77jqzUmgVLprAqpmS+LBzC65ryMO7g0lQPrXXdm6U0NJYs8fBD700tUoBBS2TYtE9rgBW3wtoUV3Miah+LDxoY8crUkASCX1rRmTNAOjs0b023VGS8YacQi9eiQUk9NgIVYnSYEFC9bz5v0=
+tvshcj3hrplhdboeefj8s8n98sp9cq5f.edu.	86400	IN	NSEC3	1 1 0 -  u0th2nnru7623o48gkj35h4gbnt5s528 NS DS RRSIG 
+ns10.customer.level3.net.	172800	IN	A	209.244.4.149
+ns19.customer.level3.net.	172800	IN	A	209.244.5.52

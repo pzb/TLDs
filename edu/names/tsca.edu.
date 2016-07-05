@@ -1,0 +1,19 @@
+ns1.linode.com.	172800	IN	A	162.159.27.72
+ns1.linode.com.	172800	IN	AAAA	2400:cb00:2049:1::a29f:1a63
+ns2.linode.com.	172800	IN	A	162.159.24.39
+ns2.linode.com.	172800	IN	AAAA	2400:cb00:2049:1::a29f:1827
+ns3.linode.com.	172800	IN	A	162.159.25.129
+ns3.linode.com.	172800	IN	AAAA	2400:cb00:2049:1::a29f:1981
+ns4.linode.com.	172800	IN	A	162.159.26.99
+ns4.linode.com.	172800	IN	AAAA	2400:cb00:2049:1::a29f:1b48
+ns5.linode.com.	172800	IN	A	162.159.24.25
+ns5.linode.com.	172800	IN	AAAA	2400:cb00:2049:1::a29f:1819
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+i47piv9rk6lg2dvkirfoqejc35ik5lso.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712020728 20160705005728 15617 edu. jdfFAMy8Okiqkdnt1IleJ28CpaHwEZhreteMxA+9aqdaZDFvsZZwyQdqo3ci/JES80DUNH3V6mhJ88ixxXpJDPdmS2NN8Q8HOCtnRDevtpx1M8j90zPiYTY+eHmnCDAlD8fpToiPxalVouPni0+FKgrB7VkDhgFJW99QtCOW7kQ=
+i47piv9rk6lg2dvkirfoqejc35ik5lso.edu.	86400	IN	NSEC3	1 1 0 -  i5gosm70gaod35ji6h2kdqsrgarupu8h NS DS RRSIG 
+tsca.edu.	172800	IN	NS	ns1.linode.com.
+tsca.edu.	172800	IN	NS	ns2.linode.com.
+tsca.edu.	172800	IN	NS	ns3.linode.com.
+tsca.edu.	172800	IN	NS	ns4.linode.com.
+tsca.edu.	172800	IN	NS	ns5.linode.com.

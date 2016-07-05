@@ -1,0 +1,10 @@
+ns-411.awsdns-51.com.	172800	IN	A	205.251.193.155
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+diplomacy.edu.	172800	IN	NS	ns-411.awsdns-51.com.
+diplomacy.edu.	172800	IN	NS	ns-793.awsdns-35.net.
+diplomacy.edu.	172800	IN	NS	ns-1152.awsdns-16.org.
+diplomacy.edu.	172800	IN	NS	ns-1614.awsdns-09.co.uk.
+kr2ngideauda67cc81g7emc0rch2vofn.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711172229 20160704161229 15617 edu. V1g93oL1HNtRJtcHD0ICIE4OOle8Xg6ouAdDPMUQqnvyMZHa+E/001Xs73v8MzJmyidYuaNZ0hqmNjWtSSzFaVT0m6zpAbz3zLYv1dk/pvhI8nJzRakHEnonK2i/A4sVZL0NMxdCnhhdXgpZMzIExNIL3LtTni0HLn830iDoPY8=
+kr2ngideauda67cc81g7emc0rch2vofn.edu.	86400	IN	NSEC3	1 1 0 -  kttfef0381kg4pt8te04m1pbp7b2fvk9 NS DS RRSIG 
+ns-793.awsdns-35.net.	172800	IN	A	205.251.195.25

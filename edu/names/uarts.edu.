@@ -1,0 +1,9 @@
+auth1.dns.cogentco.com.	172800	IN	A	66.28.0.14
+auth1.dns.cogentco.com.	172800	IN	AAAA	2001:550:1:a::d
+auth2.dns.cogentco.com.	172800	IN	A	66.28.0.30
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+hui5oj8r60if9obiev90p4be170f4njl.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710130010 20160703115010 15617 edu. eRNK5DbM7ekgpfbbda1pegrMB5AkFQe63rdmrkn2lh/6MSw9pJ42zNdXhkf7GgLcNA5xD8sDJeCGDBuFqw7+khlQUOviGXp7yQ6gTrRxRVTUPkHz737WZ8S2PHAQqNN9TkC/181FeNYJecGgbChLPyXpQM8W2RvW1BMP2XGy7FY=
+hui5oj8r60if9obiev90p4be170f4njl.edu.	86400	IN	NSEC3	1 1 0 -  hv0rdgtbqodjv69n7k2jofrvrlsb18k8 NS DS RRSIG 
+uarts.edu.	172800	IN	NS	auth1.dns.cogentco.com.
+uarts.edu.	172800	IN	NS	auth2.dns.cogentco.com.

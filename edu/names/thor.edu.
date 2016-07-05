@@ -1,0 +1,9 @@
+3pl5jfvcevs6i08v0o1m4034k1qlkkip.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711073032 20160704062032 15617 edu. 2H/F5pSE03zkV3e3t5zKQbbpxdzC4nGx8Yesdh8MP1Z9y4ofbdckoMd10fFaNiLRBU0Qv5+jBRb0I7QcvpL5voxhxy9scaBejI+T1wqHpxVb37bSZ0m3oOPTJHN6/a8KTWJYkx59w/p/WTqTwKrPDT28eSNYkmec05KVx+gSdQs=
+3pl5jfvcevs6i08v0o1m4034k1qlkkip.edu.	86400	IN	NSEC3	1 1 0 -  3q3gn92ulsv8rdstab8o5op2331nniff NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+thor.edu.	172800	IN	NS	ns0.transip.net.
+thor.edu.	172800	IN	NS	ns1.transip.nl.
+thor.edu.	172800	IN	NS	ns2.transip.eu.
+ns0.transip.net.	172800	IN	A	80.69.67.67
+ns0.transip.net.	172800	IN	AAAA	2a01:7c8:a::53

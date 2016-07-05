@@ -1,0 +1,10 @@
+ns1.twisted4life.com.	172800	IN	A	202.157.182.142
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+omhj8el5f6m72d1tivj5dur3goap008c.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709091647 20160702080647 15617 edu. EQZoiu+zn7NkQKq0kJfB4cDih5wphxuLuh8exVvwlLeJrfVOT+T2O1/x1JpYaLohD5aqXDjzvazwxZKErlyt2FKXF3/+vOcENpzH7V2NYi/LABScAFKLB6AZG/fiwYODzB9TzMFzxFqbZyMP0s+Ks5q57PkG0D8D97g4UDbeS00=
+omhj8el5f6m72d1tivj5dur3goap008c.edu.	86400	IN	NSEC3	1 1 0 -  onjii7tjo8ed7t2at1o06pdlgpcd7k3l NS DS RRSIG 
+utepsa.edu.	172800	IN	NS	ns.utepsa.edu.
+utepsa.edu.	172800	IN	NS	ns1.twisted4life.com.
+utepsa.edu.	172800	IN	NS	ns2.utepsa.edu.
+ns.utepsa.edu.	172800	IN	A	200.119.194.80
+ns2.utepsa.edu.	172800	IN	A	202.157.182.142

@@ -1,0 +1,9 @@
+carnegiemellon.edu.	172800	IN	NS	nsauth1.net.cmu.edu.
+carnegiemellon.edu.	172800	IN	NS	nsauth2.net.cmu.edu.
+carnegiemellon.edu.	172800	IN	NS	ny-server-03.net.cmu.edu.
+carnegiemellon.edu.	86400	IN	DS	8385 7 1 490b40d337738c3b3e307097f49343b64fd092f0
+carnegiemellon.edu.	86400	IN	DS	8385 7 2 18306943929c37d035e3fb7f2ac93cf1ee20a2e2055ccd9bd5c2c9084a6c8de7
+carnegiemellon.edu.	86400	IN	RRSIG	DS 8 2 86400 20160710053349 20160703042349 15617 edu. oTWOBf8xAINVfKBFWfUN3UihIBys4sAEU97mY1vZm+GmPcla+H9UzuW1LvGMfIW44+Kq0tG1rHI8QDPkmH1O6OlUjkWrdaL9mSNXhdL/vMBKG5feM4RnpEjQRZqBWRJsaMvRVjozZyZXyddKyTpM8po48qpg8NKDuF4TJ4D8GNE=
+nsauth1.net.cmu.edu.	172800	IN	A	128.2.1.8
+nsauth2.net.cmu.edu.	172800	IN	A	128.237.148.168
+ny-server-03.net.cmu.edu.	172800	IN	A	38.96.147.4

@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+suno.edu.	172800	IN	NS	server.noc.la.net.
+suno.edu.	172800	IN	NS	bashful.suno.edu.
+bashful.suno.edu.	172800	IN	A	198.135.204.114
+voiao6nl20gp6osftndrjmnlljmrb6t1.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711200929 20160704185929 15617 edu. Vh5AjSLWyezg1zY+JChU5HqSfpQDeW+pqM1kR1dY+WHtWM3JORt8PuKwBoGCixTlCrg3/hAtgUZ9vBTCPhguDAdtKwOPdzwN8CQ8RcvPN7dZI+q48FXhveWYxaoXE+xmiI/JVfM2yZS6blZ5k2tbU51uIqccchSK2z45VVh61z4=
+voiao6nl20gp6osftndrjmnlljmrb6t1.edu.	86400	IN	NSEC3	1 1 0 -  vsv7665k3nhf0r3g4012p9ih4i97ckam NS DS RRSIG 
+server.noc.la.net.	172800	IN	A	162.75.1.14

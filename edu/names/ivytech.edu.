@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ivytech.edu.	172800	IN	NS	nsext2.ivytech.edu.
+ivytech.edu.	172800	IN	NS	nsext3.ivytech.edu.
+ivytech.edu.	172800	IN	NS	nsext4.ivytech.edu.
+nsext2.ivytech.edu.	172800	IN	A	54.243.124.153
+nsext3.ivytech.edu.	172800	IN	A	54.85.189.110
+nsext4.ivytech.edu.	172800	IN	A	54.236.214.212
+tb68ev4fk2hptvaq09a1gel8jnvijtei.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709051625 20160702040625 15617 edu. MYzryYKaKQ+CWq4nHhzsqbx8pcgXoynAjFY8tZ+xdCBler3v50J1lT7ag+328dEtvbpqucLtVi911l3O+GjRLhnxYLeiXMBCKNxd7Cs+nyEwjC7/9Xu9G/Bdc+TpKMIYoiWft+H/wBgi/gl/PbNhQ/I3Uwq0hUeRMYLY7pbZnKo=
+tb68ev4fk2hptvaq09a1gel8jnvijtei.edu.	86400	IN	NSEC3	1 1 0 -  tbi38nkma7bs0venh7c1l77hi3967ldn NS DS RRSIG 

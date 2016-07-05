@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+campbell.edu.	172800	IN	NS	ncnoc.ncren.net.
+campbell.edu.	172800	IN	NS	reggae.ncren.net.
+kp0m0pn7eg23i6t2ceet8vjn4htugttc.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712020902 20160705005902 15617 edu. IhMzgJlamZ/yd+GyPMugY0xPX9FPyoWfwcawaVmAK7Q+wLGzythlSw4qPnvYQBWhpg8kggEWpvB5qGkx/RkQAgN+vLkJ2GxXakBxu+6V1fQm22Ic23XS70OJb9D1fTg6/Gjx0QHpuTdJgkDlkTqrskWaXBkjXmrOgDGNLxZAiIw=
+kp0m0pn7eg23i6t2ceet8vjn4htugttc.edu.	86400	IN	NSEC3	1 1 0 -  kplfo3bda7l2vonv7jnj9qnjcjl5s736 NS DS RRSIG 
+ncnoc.ncren.net.	172800	IN	A	192.101.21.1
+reggae.ncren.net.	172800	IN	A	128.109.131.3

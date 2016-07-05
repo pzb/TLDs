@@ -1,0 +1,8 @@
+ns1.tmworx.com.	172800	IN	A	67.43.5.181
+ns2.tmworx.com.	172800	IN	A	67.43.5.181
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+amsc.edu.	172800	IN	NS	ns1.tmworx.com.
+amsc.edu.	172800	IN	NS	ns2.tmworx.com.
+ouiirm9jjjfcbfgdgfip1baaratfk36u.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710171705 20160703160705 15617 edu. P3TU3rrTIVpRliVzc/bPCkgaBaGJHO5Rd09cgx0FBXmkEBgFEiL9o8UtZvPx36z07D17q6zCzmkuGBGf0t1UTtD4GwpmwrvEp9g2n5IqdOj7Gyxcx0F8xsXREtNtKxJ/FQOdcY9NjWUFo52wvDqUmEzDyQMh0/CuzWJUrTD3uB8=
+ouiirm9jjjfcbfgdgfip1baaratfk36u.edu.	86400	IN	NSEC3	1 1 0 -  ovnva6puhrs4hgpmuj8l2j6svj08vnp2 NS DS RRSIG 

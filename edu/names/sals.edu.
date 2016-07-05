@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+hm0ckfg0k837n368mgjn6hbdma6jap47.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712011813 20160705000813 15617 edu. 2mKm69KX+Q9UB7vT2VSwgUjWT+uyNaduZPGXXuz0ibL8aV2KN6meaKaPRV0De10BvwkJP5qJVqZxS3ys0FARgffpENn47ApBXhFrPQYwRuMYaXBCFWXhwJPliEcVUFSQwzjn5LGFbtGfTzNzFtinWVSG84lVLVx4KlAF96dVyOc=
+hm0ckfg0k837n368mgjn6hbdma6jap47.edu.	86400	IN	NSEC3	1 1 0 -  hpsfuu8a1juk95bk7t80200pjlmnkai2 NS DS RRSIG 
+sals.edu.	172800	IN	NS	ns1.iplt.twtelecom.net.
+sals.edu.	172800	IN	NS	ns1.milw.twtelecom.net.
+sals.edu.	172800	IN	NS	ws1.sals.edu.
+ws1.sals.edu.	172800	IN	A	198.175.242.230
+ns1.iplt.twtelecom.net.	172800	IN	A	64.132.94.250
+ns1.milw.twtelecom.net.	172800	IN	A	216.136.95.2

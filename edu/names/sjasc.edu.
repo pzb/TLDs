@@ -1,0 +1,8 @@
+1u4m6uknvpgg8um3k2918avuq72etcqm.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712030640 20160705015640 15617 edu. OYu3Lw/gY6vH0YRVwOKqFNsD+mxFbGjvlajgDhUVfjQxl/y0OQcXFO+ho6aCo3szLw6GfMvGcsixmQyTYEE5pSgA0NLli+JxYVeUhu/hU2VyXksupyjyla9xUEeQl7j2fUvvteB0Qps39RYBqsTRGmofQeys50Fprp+AwDYS784=
+1u4m6uknvpgg8um3k2918avuq72etcqm.edu.	86400	IN	NSEC3	1 1 0 -  1uhu4gkgu09654vcmvh1o1v7afkq7p1r NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+sjasc.edu.	172800	IN	NS	ns1.sjasc.net.
+sjasc.edu.	172800	IN	NS	ns2.sjasc.net.
+ns1.sjasc.net.	172800	IN	A	50.28.62.35
+ns2.sjasc.net.	172800	IN	A	50.28.62.36

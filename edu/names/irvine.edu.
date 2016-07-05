@@ -1,0 +1,8 @@
+mns01.domaincontrol.com.	172800	IN	A	216.69.185.31
+mns02.domaincontrol.com.	172800	IN	A	208.109.255.31
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+irvine.edu.	172800	IN	NS	mns01.domaincontrol.com.
+irvine.edu.	172800	IN	NS	mns02.domaincontrol.com.
+lk0acnhv51oekkni23qg9mireotg7jt2.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710053348 20160703042348 15617 edu. h3H55uGVILU6XVthpopBiUGjwqfcZQWsIn6AWhcm8lr6vEhD+HwOtU0rgr7e7wviEqTN0wnYO3a2WSayi76Y35yhVKJs5OdRAEseTCU4UMGLu809gdalT1Yfq/rTcqUb0m17NJKlh706tO6B3OhUBefbIPiwe86LjUwSMwRAT14=
+lk0acnhv51oekkni23qg9mireotg7jt2.edu.	86400	IN	NSEC3	1 1 0 -  lkkfocj7ctsnri8d37vdlif6sht1mdhn NS DS RRSIG 

@@ -1,0 +1,7 @@
+highlands.edu.	172800	IN	NS	ns.highlands.edu.
+highlands.edu.	172800	IN	NS	ns2.highlands.edu.
+highlands.edu.	86400	IN	DS	58200 7 1 eae255be1666802c61ec33373bae041f471bac1f
+highlands.edu.	86400	IN	DS	58200 7 2 9f1d977823a1a8c742f7ef4754ed817b2cc3e77c9cb69bf57f30154dfef4943c
+highlands.edu.	86400	IN	RRSIG	DS 8 2 86400 20160708052036 20160701041036 15617 edu. jI/ra74vpt7T3nc0fwnA3nkeMZvuWUM+gvcEKmx7qkBjJ90oK+jtmHge5TxV5/A2vknrDY622YlhLIMurXHpIqqkH8y1Y3Y3rWDHlDQEOgw0qJT+wlYmx93TogYED8IKv/Zqsbnm959tlYSQvGln/Z8eikQo/kiWfgj7NG5bFwc=
+ns.highlands.edu.	172800	IN	A	168.30.218.13
+ns2.highlands.edu.	172800	IN	A	168.30.145.42

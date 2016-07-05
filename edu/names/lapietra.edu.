@@ -1,0 +1,14 @@
+ns1194.dns.dyn.com.	172800	IN	A	208.76.58.194
+ns2134.dns.dyn.com.	172800	IN	A	208.76.59.134
+ns3178.dns.dyn.com.	172800	IN	A	208.76.60.178
+ns4189.dns.dyn.com.	172800	IN	A	208.76.61.189
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+lapietra.edu.	172800	IN	NS	ns1.lapietra.edu.
+lapietra.edu.	172800	IN	NS	ns1194.dns.dyn.com.
+lapietra.edu.	172800	IN	NS	ns2134.dns.dyn.com.
+lapietra.edu.	172800	IN	NS	ns3178.dns.dyn.com.
+lapietra.edu.	172800	IN	NS	ns4189.dns.dyn.com.
+ns1.lapietra.edu.	172800	IN	A	204.130.154.18
+t9sic7668qbhnk573b6l721htu70q50v.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709114659 20160702103659 15617 edu. gHElqz7ssLC5qDDjNVaoQwjKz3lmkaG8uvysGKhl22+IDB2EtQzoA+ZTYXGFMt63grYJ39As//uxvz87xOwBiDaKZJjrrb54L1t7pivT6vI0ANpqknSbXRn8Aau7zEu9rQ9L2gJF0h7AHXrUa0IhN8aqhlvK4Ud214EUOU8nq+w=
+t9sic7668qbhnk573b6l721htu70q50v.edu.	86400	IN	NSEC3	1 1 0 -  ta31vaucp1isuqsf1a3j4o2j7snda5m8 NS DS RRSIG 

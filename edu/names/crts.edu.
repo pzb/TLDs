@@ -1,0 +1,10 @@
+alla.ns.cloudflare.com.	172800	IN	A	173.245.58.62
+alla.ns.cloudflare.com.	172800	IN	AAAA	2400:cb00:2049:1::adf5:3a3e
+jay.ns.cloudflare.com.	172800	IN	A	173.245.59.123
+jay.ns.cloudflare.com.	172800	IN	AAAA	2400:cb00:2049:1::adf5:3b7b
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+crts.edu.	172800	IN	NS	jay.ns.cloudflare.com.
+crts.edu.	172800	IN	NS	alla.ns.cloudflare.com.
+rh8tru35aii0recnm9oritrrr87uqqpj.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711123347 20160704112347 15617 edu. cecU0EDuSbXDrlUWRa+ZXfakYaWDvDjiVmfZWSkoLGJzEKsCr0pVadx7o90b55qaRDSsB3xVptAfyHDciJxpQ7mTF8WDJJ3l01/R9Z8RiCT2IRHZCqEn5b64d3yLEQyZaRvMBN8VCz626kD+MvzUZ1X4Wi2wkykgnfV53juO5U0=
+rh8tru35aii0recnm9oritrrr87uqqpj.edu.	86400	IN	NSEC3	1 1 0 -  rk11042eqjpoojhdljijg3ggteorvecf NS DS RRSIG 

@@ -1,0 +1,8 @@
+pdns05.domaincontrol.com.	172800	IN	A	216.69.185.52
+pdns06.domaincontrol.com.	172800	IN	A	208.109.255.52
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ensl5vvhkjqo3t019ueqvai1dv9ergnq.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711183018 20160704172018 15617 edu. zWisixbo0m9qOMuuwwv8HmMdjqH/+R5C3S/ljp/HZ4EeiGjnhl96f+yrxYvA1s1H3qLdmqhUnLUdZJ7FBjAAOKGn7LWMTmQLwXeplZfgLfhcQxVxte26vrIYEVmqnUVtZU8HZlJU8YqcY2SSgN1ApKJwxYcxIUq3phO1zVY2GGo=
+ensl5vvhkjqo3t019ueqvai1dv9ergnq.edu.	86400	IN	NSEC3	1 1 0 -  eon7isc6c25ndi4t6e9bf9p498jo5ht4 NS DS RRSIG 
+spa.edu.	172800	IN	NS	pdns05.domaincontrol.com.
+spa.edu.	172800	IN	NS	pdns06.domaincontrol.com.

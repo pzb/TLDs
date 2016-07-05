@@ -1,0 +1,16 @@
+ns1.easydns.com.	172800	IN	A	64.68.192.10
+ns1.easydns.com.	172800	IN	AAAA	2001:1838:f001::10
+ns2.easydns.com.	172800	IN	A	198.41.222.254
+ns2.easydns.com.	172800	IN	AAAA	2400:cb00:2049:1::c629:defe
+remote1.easydns.com.	172800	IN	A	64.68.192.10
+remote2.easydns.com.	172800	IN	A	198.41.222.254
+remote2.easydns.com.	172800	IN	AAAA	2400:cb00:2049:1::c629:defe
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+icscanada.edu.	172800	IN	NS	ns1.easydns.com.
+icscanada.edu.	172800	IN	NS	ns2.easydns.com.
+icscanada.edu.	172800	IN	NS	ns3.easydns.org.
+icscanada.edu.	172800	IN	NS	remote1.easydns.com.
+icscanada.edu.	172800	IN	NS	remote2.easydns.com.
+k92geaclnata7v3pchtsh8e6dlbul767.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709050426 20160702035426 15617 edu. Po5ocwsTv9FWa3C3WsokvXm3X4itAKxjZahHJlUtyi44qM6vFBDxiiamgiIGd4CtI9ULJg3mqF8HUYdQmz9mDZVimtUSzBq5LcHdixai8cHqGDrrh2fT8rDCPZPBCNbAl0rBCmwbjoFa70KVv+Y90pkBxV0kotz1l9dWADxYzxA=
+k92geaclnata7v3pchtsh8e6dlbul767.edu.	86400	IN	NSEC3	1 1 0 -  k9c5b6uesq9n7tucb3i7irfol3gt92ik NS DS RRSIG 

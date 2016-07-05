@@ -1,0 +1,8 @@
+ns1.greengeeks.com.	172800	IN	A	99.198.112.83
+ns2.greengeeks.com.	172800	IN	A	69.175.59.162
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+aou.edu.	172800	IN	NS	ns1.greengeeks.com.
+aou.edu.	172800	IN	NS	ns2.greengeeks.com.
+n3fqdmpqfnp8psgbdhkbgkdbv2cloihh.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710182540 20160703171540 15617 edu. 3YkVFEdt+MqUpfZ4SsCCO8Z6UonvOo5pXqsO6WvdrEY3hFOUw+XUuQRpbpRvAYSKp+RxTfAI2mIdzOdxPANSuR2tLX9o2UkLiITmFVVDhP2FGGchDD9d8tbrPmKMu/uQdtuelTHnD/52ALzkGGke9g5AvuAf7TnsTRFk96oSSyc=
+n3fqdmpqfnp8psgbdhkbgkdbv2cloihh.edu.	86400	IN	NSEC3	1 1 0 -  n48eobrgfgmd4i8dftmilpuur7f23c96 NS DS RRSIG 

@@ -1,0 +1,10 @@
+burt.ns.cloudflare.com.	172800	IN	A	173.245.59.79
+burt.ns.cloudflare.com.	172800	IN	AAAA	2400:cb00:2049:1::adf5:3b4f
+kia.ns.cloudflare.com.	172800	IN	A	173.245.58.179
+kia.ns.cloudflare.com.	172800	IN	AAAA	2400:cb00:2049:1::adf5:3ab3
+4cmqc1h01omahbgt1n10fmac9v2iv71k.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709051626 20160702040626 15617 edu. BpbY8lPhUNdlCn0lvWe3mrhXG/LAt07Psd5mARu1jzP9wQ9TzwwJgtRYt/1vwWX32T0jZTX7wvQ42b/hGgXOC2kB29H7y4vYMP1V6+bNtw29k1O5drmDw3vPbPZpc2C6uVFCdi4GckJ6Rul4xyeTsrjXzT1T+J9Eyxsm8unrk0w=
+4cmqc1h01omahbgt1n10fmac9v2iv71k.edu.	86400	IN	NSEC3	1 1 0 -  4cv2k8h9ej188lq15i20mm121son26mp NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+new.edu.	172800	IN	NS	kia.ns.cloudflare.com.
+new.edu.	172800	IN	NS	burt.ns.cloudflare.com.

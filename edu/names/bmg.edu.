@@ -1,0 +1,14 @@
+dns01.gpn.register.com.	172800	IN	A	98.124.192.1
+dns02.gpn.register.com.	172800	IN	A	98.124.197.1
+dns03.gpn.register.com.	172800	IN	A	98.124.193.1
+dns04.gpn.register.com.	172800	IN	A	98.124.194.1
+dns05.gpn.register.com.	172800	IN	A	98.124.196.1
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+bmg.edu.	172800	IN	NS	dns01.gpn.register.com.
+bmg.edu.	172800	IN	NS	dns02.gpn.register.com.
+bmg.edu.	172800	IN	NS	dns03.gpn.register.com.
+bmg.edu.	172800	IN	NS	dns04.gpn.register.com.
+bmg.edu.	172800	IN	NS	dns05.gpn.register.com.
+ip3hdvij61p4nmnokkth47m3v89ctkaa.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712033600 20160705022600 15617 edu. E2OumTBAwvbljCmLXsL/x8m0KK2LJ64fvkI/7wIphcGt4O0/VVFOnPZHPXGbB3uapBWca+7Gp1sy1bHjLIMJospMijvdWYEGIXlRTOCKBsBcdqYS/7YjAMksg9odcN7oJKcx1wSL2tu3yeEfL5TvmhAvRQyY18PsB4vGO8WA5yc=
+ip3hdvij61p4nmnokkth47m3v89ctkaa.edu.	86400	IN	NSEC3	1 1 0 -  ipgmaum34bb6lgcdpsc4njdloaoce98p NS DS RRSIG 

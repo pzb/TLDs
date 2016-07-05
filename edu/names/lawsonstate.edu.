@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+asnsvr.asc.edu.	172800	IN	A	129.66.20.4
+ns1.asc.edu.	172800	IN	A	129.66.95.3
+do87pnu3kmaap8bsgupjkelruna29nfe.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711103410 20160704092410 15617 edu. FQEDhJPdPxbbdaEQxBOeaZtC4PizsHrcfGwTV8nuF6SnB8vb7Frd9WT8oH0vaZ1Knl5oD2zvKQbvsIB/Xz47HvL1ojThsrSkAx+ZU90X0FcXWzlRTvajmMn1aQQaqZ3Yelkh/hi5zLuPkWOE0GKB3Zi9VkHLxuhQ9rKRDti7D6w=
+do87pnu3kmaap8bsgupjkelruna29nfe.edu.	86400	IN	NSEC3	1 1 0 -  dsgd1hpbiiojar4hih77940bv8f8rsqf NS DS RRSIG 
+lawsonstate.edu.	172800	IN	NS	ns1.asc.edu.
+lawsonstate.edu.	172800	IN	NS	asnsvr.asc.edu.

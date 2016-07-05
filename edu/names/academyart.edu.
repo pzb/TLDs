@@ -1,0 +1,14 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+academyart.edu.	172800	IN	NS	ns1.academyart.edu.
+academyart.edu.	172800	IN	NS	cbru.br.ns.els-gms.att.net.
+academyart.edu.	172800	IN	NS	cmtu.mt.ns.els-gms.att.net.
+academyart.edu.	172800	IN	NS	dbru.br.ns.els-gms.att.net.
+academyart.edu.	172800	IN	NS	dmtu.mt.ns.els-gms.att.net.
+ns1.academyart.edu.	172800	IN	A	70.239.199.9
+j6qfj0namj9f4dirdtr43u2n0rm77bd8.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711184010 20160704173010 15617 edu. 3VVZhh5E0awCmtcnwBEIHbmxCqnma8pH/RTYc/58JJXKnfaGW6tpwgSXyWTYTV9HZcnEmODJftGztWFQ3Cb/DhNLlugw/UioKtUMg50lj6lHhRWuo4F8sfpILLTLz2zqeBNDOzEv9kp+y6LhxznkziNvNHYW9ZlLOlaITFo3f/g=
+j6qfj0namj9f4dirdtr43u2n0rm77bd8.edu.	86400	IN	NSEC3	1 1 0 -  j7eu1coa8o7bfd0uld4ledcruc6t8fa1 NS DS RRSIG 
+cbru.br.ns.els-gms.att.net.	172800	IN	A	68.94.156.132
+dbru.br.ns.els-gms.att.net.	172800	IN	A	68.94.156.134
+cmtu.mt.ns.els-gms.att.net.	172800	IN	A	99.99.99.132
+dmtu.mt.ns.els-gms.att.net.	172800	IN	A	99.99.99.134

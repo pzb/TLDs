@@ -1,0 +1,10 @@
+ns1.dreamhost.com.	172800	IN	A	66.33.206.206
+ns2.dreamhost.com.	172800	IN	A	208.97.182.10
+ns3.dreamhost.com.	172800	IN	A	66.33.216.216
+34f0imil62j0k91jceqg27ogrj3d8vi3.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710053346 20160703042346 15617 edu. rMfsaJQSvXEUpegnxVBc8oMAFNVF0/uB3plMxNUXWsrHDK+896qzdD731PjjIwz2BckiYnXRShTAxo6CD67LjgrNbpsf59+z8qR93P5OMzazzmMU0UKIk9+0SF+SOuPaoR1oK68PGOeIx51ARivhH5gJEeIYjwqIClfedJo97QA=
+34f0imil62j0k91jceqg27ogrj3d8vi3.edu.	86400	IN	NSEC3	1 1 0 -  34o8623qqko5387qs7jfp45ht2jqdhro NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+cintaaveda.edu.	172800	IN	NS	ns1.dreamhost.com.
+cintaaveda.edu.	172800	IN	NS	ns2.dreamhost.com.
+cintaaveda.edu.	172800	IN	NS	ns3.dreamhost.com.

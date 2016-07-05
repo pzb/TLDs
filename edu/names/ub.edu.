@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+npaedhjo15gatcl1kbee6s901u09g6ce.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712003624 20160704232624 15617 edu. YsuA0FEQ7LUi/uMfTAkmE78JuEnSo7lOzUmMQBteaVNeevcSOv6/UdCl7qyoxA8yVNCP/1PixSRqtBIzzA5KZEhhew79dcvJBoWUAVU7i4sYngtc0uvFyYkX6A9o2FnXaQcj8srj8ZDy2hVb3vZs7jSuGI0XF/o0Bn3BFEQSBDE=
+npaedhjo15gatcl1kbee6s901u09g6ce.edu.	86400	IN	NSEC3	1 1 0 -  nps9o1o5ii7hcriaeitnsqr0umlan5up NS DS RRSIG 
+ub.edu.	172800	IN	NS	ub.es.
+ub.edu.	172800	IN	NS	eva.ird.ub.es.
+ub.edu.	172800	IN	NS	sun.rediris.es.
+ub.edu.	172800	IN	NS	chico.rediris.es.

@@ -1,0 +1,21 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+a3lt9mnhjufcmduoqc7qbnckekihptip.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710053345 20160703042345 15617 edu. zYyRtvyG3IQsPwQpsot7ssBGlUz99D3kbQkwJLQ4I28Ltf2sJKqevTld1m7LnLzkZ35OGW1kVvHRKNr9rETquhoKHvaszUpzOfd5OC0rwLB1omBUyl3Eullx45sJSjSabiTSWrjwBxZyiBPLPwa922UWh7TZe17gTp6b8RGFAVA=
+a3lt9mnhjufcmduoqc7qbnckekihptip.edu.	86400	IN	NSEC3	1 1 0 -  a3ngnuo3c6v427pbmhcbka8pndr2g3tu NS DS RRSIG 
+berkshire.nas.edu.	172800	IN	A	144.171.1.37
+bighorn.nas.edu.	172800	IN	A	144.171.1.38
+bona.nas.edu.	172800	IN	A	52.7.36.190
+rushmore.nas.edu.	172800	IN	A	184.80.173.85
+nrc.edu.	172800	IN	NS	bona.nas.edu.
+nrc.edu.	172800	IN	NS	bighorn.nas.edu.
+nrc.edu.	172800	IN	NS	ns1-auth.sprintlink.net.
+nrc.edu.	172800	IN	NS	ns2-auth.sprintlink.net.
+nrc.edu.	172800	IN	NS	ns3-auth.sprintlink.net.
+nrc.edu.	172800	IN	NS	rushmore.nas.edu.
+nrc.edu.	172800	IN	NS	berkshire.nas.edu.
+ns1-auth.sprintlink.net.	172800	IN	A	206.228.179.10
+ns1-auth.sprintlink.net.	172800	IN	AAAA	2600::a1
+ns2-auth.sprintlink.net.	172800	IN	A	144.228.254.10
+ns2-auth.sprintlink.net.	172800	IN	AAAA	2600::a2
+ns3-auth.sprintlink.net.	172800	IN	A	144.228.255.10
+ns3-auth.sprintlink.net.	172800	IN	AAAA	2600::a3

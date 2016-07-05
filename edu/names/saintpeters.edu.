@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+saintpeters.edu.	172800	IN	NS	ns1.lnhi.net.
+saintpeters.edu.	172800	IN	NS	ns2.lnhi.net.
+saintpeters.edu.	172800	IN	NS	ns3.lnhi.net.
+u8nd8q6qbqgnhsajol41imstmu24e7hn.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711064858 20160704053858 15617 edu. Lq0CxUTy4JFA+7bevcDYMjvgBb4H6hDJRsMpK1hJcbIpVNE9anf9n8FtyUEc3e/zCf8J2nKh8ZmDTjPdgQ4AMytboQhVGV1rNFFZeXmXF+3ywhvZVduRJzs1LYwmE35LLGLHp+DranTpZnx41Kp+pUf6yd7XhB8ypauUxlnCxhs=
+u8nd8q6qbqgnhsajol41imstmu24e7hn.edu.	86400	IN	NSEC3	1 1 0 -  u9orcm0auo266bjqpahig45id0mn44ob NS DS RRSIG 
+ns1.lnhi.net.	172800	IN	A	204.12.76.1
+ns2.lnhi.net.	172800	IN	A	76.12.92.1
+ns3.lnhi.net.	172800	IN	A	216.74.36.1

@@ -1,0 +1,14 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+adns1.berkeley.edu.	172800	IN	A	128.32.136.3
+adns2.berkeley.edu.	172800	IN	A	128.32.136.14
+kas9vlbvha1v8098kb2cpkmvluoshtcl.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712025014 20160705014014 15617 edu. DXQBZokpdqggdPP4HXsm+WiEJXw2muonJcM6YufEUuX1D1Bo/K1FT1yIJ1EdtMBUxdK2I2JsflLV4k8O8aKMuSA9yiU1YG702VKCU/ECdtfvqHa41tfElXLps4ScI9Mq0oYR/M56/PBf+6df00nasmKSD5SzG7gR129RCqiZW5o=
+kas9vlbvha1v8098kb2cpkmvluoshtcl.edu.	86400	IN	NSEC3	1 1 0 -  kcsprd7uocm1fb8agc06ameu4aqfjqtg NS DS RRSIG 
+ns1.ucr.edu.	172800	IN	A	138.23.80.10
+ns1.ucr.edu.	172800	IN	AAAA	2607:f290:9::100
+ns2.ucr.edu.	172800	IN	A	138.23.80.20
+ns2.ucr.edu.	172800	IN	AAAA	2607:f290:9:1::100
+ucriverside.edu.	172800	IN	NS	ns1.ucr.edu.
+ucriverside.edu.	172800	IN	NS	ns2.ucr.edu.
+ucriverside.edu.	172800	IN	NS	adns1.berkeley.edu.
+ucriverside.edu.	172800	IN	NS	adns2.berkeley.edu.

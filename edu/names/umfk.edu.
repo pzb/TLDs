@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+a0p5nhg2qq02j1prbfkhkck9gcrok0m3.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710170753 20160703155753 15617 edu. vnuD0rYI4yQ9YZaCkXDkG3S0icJ834llBcRTpSRlv9azI0IZNmah3hEfleFCelLTifEk8DJimw7jbeYvdMJ/fwavWAcHNwGzLlMr35h4YXmjHg05KgwHI7Z8sXsUFU8x2SeW9q42x8IceM2ySktvYiaSrR6yNtuNDg1cendf5ug=
+a0p5nhg2qq02j1prbfkhkck9gcrok0m3.edu.	86400	IN	NSEC3	1 1 0 -  a22vs3k93kbeki75plh3ssi9g6v7ebjm NS DS RRSIG 
+nameo.its.maine.edu.	172800	IN	A	130.111.32.11
+nameo.its.maine.edu.	172800	IN	AAAA	2610:48:100:820::b
+namep.its.maine.edu.	172800	IN	A	130.111.130.7
+namep.its.maine.edu.	172800	IN	AAAA	2610:48:100:482::7
+umfk.edu.	172800	IN	NS	nameo.its.maine.edu.
+umfk.edu.	172800	IN	NS	namep.its.maine.edu.

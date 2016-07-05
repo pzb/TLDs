@@ -1,0 +1,8 @@
+ns1.inmotionhosting.com.	172800	IN	A	216.193.208.42
+ns2.inmotionhosting.com.	172800	IN	A	70.39.150.2
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+u4gucuv56ct9gc68eego08asagm25s9u.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712034257 20160705023257 15617 edu. L/1kMsT6uzmQrczXsWpsUM+LqK4nDlHW23n8UtjK0Bzy3s2GoRroIrhpdJVHFl4C7ylAwhrIXYZ3sR5cpGL1LwQvm6kk/QJoT8gks5S2QqdiomjxfxypXwYlPo0oGuUWJlCFKTdzkmBTnqqYlvaDPBkJRFOMbuBbUoeHlvwD2t8=
+u4gucuv56ct9gc68eego08asagm25s9u.edu.	86400	IN	NSEC3	1 1 0 -  u554rgqo8q2p9bs4sbbtt33fsochtn01 NS DS RRSIG 
+universityofaesthetics.edu.	172800	IN	NS	ns1.inmotionhosting.com.
+universityofaesthetics.edu.	172800	IN	NS	ns2.inmotionhosting.com.

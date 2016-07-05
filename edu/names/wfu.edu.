@@ -1,0 +1,16 @@
+65ftg4i5atik2ii2eg1f5ntocdobgs06.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710110459 20160703095459 15617 edu. FQe8s9IwW35pZQY8PthvG5eaD0AR/wDAFqLbR81lKK+PnWrbd/Obc0gfYnh6nOUSGamJj85WLGI32a//xms9QhQRNHEiGeKl/1II/YiB+gAHm+rjtnIb6hrjKEdV8T4MUnBlhj25v38v8F5tkwoRFYNNzXw7FCkFt1FfEyaapkY=
+65ftg4i5atik2ii2eg1f5ntocdobgs06.edu.	86400	IN	NSEC3	1 1 0 -  65ohahlhvq2oab2d0kda9fb4tpngl47r NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+wfu.edu.	172800	IN	NS	ns1.wfu.edu.
+wfu.edu.	172800	IN	NS	ns2.wfu.edu.
+wfu.edu.	172800	IN	NS	ns3.wfu.edu.
+wfu.edu.	172800	IN	NS	ns4.wfu.edu.
+wfu.edu.	172800	IN	NS	ncnoc.ncren.net.
+wfu.edu.	172800	IN	NS	reggae.ncren.net.
+ns1.wfu.edu.	172800	IN	A	152.17.239.1
+ns2.wfu.edu.	172800	IN	A	152.17.239.2
+ns3.wfu.edu.	172800	IN	A	152.17.48.111
+ns4.wfu.edu.	172800	IN	A	152.17.48.113
+ncnoc.ncren.net.	172800	IN	A	192.101.21.1
+reggae.ncren.net.	172800	IN	A	128.109.131.3

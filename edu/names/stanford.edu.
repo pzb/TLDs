@@ -1,0 +1,17 @@
+ns5.dnsmadeeasy.com.	172800	IN	A	208.94.148.13
+ns5.dnsmadeeasy.com.	172800	IN	AAAA	2600:1800:5::1
+ns6.dnsmadeeasy.com.	172800	IN	A	208.80.124.13
+ns7.dnsmadeeasy.com.	172800	IN	A	208.80.126.13
+stanford.edu.	172800	IN	NS	ns5.dnsmadeeasy.com.
+stanford.edu.	172800	IN	NS	ns6.dnsmadeeasy.com.
+stanford.edu.	172800	IN	NS	ns7.dnsmadeeasy.com.
+stanford.edu.	172800	IN	NS	argus.stanford.edu.
+stanford.edu.	172800	IN	NS	atalante.stanford.edu.
+stanford.edu.	172800	IN	NS	avallone.stanford.edu.
+stanford.edu.	86400	IN	DS	35407 8 2 7b866a31f0af325a551c5e67d43b6a36e47a27adf92612262cce010f4853fae3
+stanford.edu.	86400	IN	RRSIG	DS 8 2 86400 20160708052037 20160701041037 15617 edu. PlWYcHhZR+2DjaqB4dwLzNfJG1Gvvea56nnrvdmwc3DlO6md1JrJqGJ0tsBGsWT3swQJXgWuBJBMP8+soffF7UkUxWyA3J3c7IPSmO/Q4BkBTfyXOJt+xfN16GZENPZER36MKxf4ci1i4Y6cq22lyj9mAEdtruBIZGfzb9obp5k=
+argus.stanford.edu.	172800	IN	A	171.64.7.115
+argus.stanford.edu.	172800	IN	AAAA	2607:f6d0:0:9113::ab40:773
+atalante.stanford.edu.	172800	IN	A	171.64.7.61
+atalante.stanford.edu.	172800	IN	AAAA	2607:f6d0:0:d32::ab40:73d
+avallone.stanford.edu.	172800	IN	A	204.63.227.77

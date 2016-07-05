@@ -1,0 +1,12 @@
+ns3.upmc.com.	172800	IN	A	157.229.157.229
+ns4.upmc.com.	172800	IN	A	150.232.150.232
+ns5.upmc.com.	172800	IN	A	157.229.157.230
+ns6.upmc.com.	172800	IN	A	150.232.150.233
+magee.edu.	172800	IN	NS	ns3.upmc.com.
+magee.edu.	172800	IN	NS	ns4.upmc.com.
+magee.edu.	172800	IN	NS	ns5.upmc.com.
+magee.edu.	172800	IN	NS	ns6.upmc.com.
+magee.edu.	86400	IN	DS	28443 7 1 c44ce5eee1e3b5801dff3cfae09650a2cf35c22a
+magee.edu.	86400	IN	DS	30213 7 1 bebac54e75643972bf5521c89294514b6cf72516
+magee.edu.	86400	IN	DS	49110 7 1 3bf253d7eb634a081f34b1cb82a77c41706675e6
+magee.edu.	86400	IN	RRSIG	DS 8 2 86400 20160709051628 20160702040628 15617 edu. Qyq4QOWUoxE412Zs7IYbyVImLFq3chxwr4DNgGaNsgwZ0QUIRgg3AOuxZssxf4wKTU9CYpTVou+aHV6BVLVrR14nBJ+dUg8vnhVC3sK2bjsVD7Kal9k7ixAMoGzpqK5R087xeITAWCMKPoHzFX8krAN7b+mnJfYxobBMw3vqatM=

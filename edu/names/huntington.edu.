@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+huntington.edu.	172800	IN	NS	dns1.huntington.edu.
+huntington.edu.	172800	IN	NS	dns2.huntington.edu.
+huntington.edu.	172800	IN	NS	washington.ind.net.
+dns1.huntington.edu.	172800	IN	A	199.8.89.2
+dns2.huntington.edu.	172800	IN	A	199.8.89.3
+qlu4lq8dr4nq3b356jufeeaeuqre2a17.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709072837 20160702061837 15617 edu. NzLu2ARUxgQUcbxIcbSaImTwvMH7yrpAB4u5ZEq2J+88gFsZ9/cHhSr2e8HHqNixCdka5qrgpl4C0zN91/w6Cz5hoioVYM9KW9EQw1khmOGbm+sYSAXW6HkAbxUkc5q4Cw3rdxeCBkhrgWUe3KKpN9nW/WQ6mWIfmZpAGFEEufs=
+qlu4lq8dr4nq3b356jufeeaeuqre2a17.edu.	86400	IN	NSEC3	1 1 0 -  qmeb33qpqivd344jtsfb55casp0enu11 NS DS RRSIG 
+washington.ind.net.	172800	IN	A	157.91.1.1

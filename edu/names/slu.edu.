@@ -1,0 +1,12 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+b80kvv2f57gp9i4ntq6q4lujcmtp5n49.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711174912 20160704163912 15617 edu. R3J+oXPHEcdiltPjqEUkRzZfv8iNLrRL/NgBwmxroWEtsFC9gd2ZThocRYkruGVEBNiryGNVLADqP4L/Clm0E4VydHUmoQ9fEmvC5cAlI3MfLQRMeo2IXPV5J3MfyrkhWwZf4epgg3TdhpcHPWxieVFNkzbKiNag4lpLFPDAF88=
+b80kvv2f57gp9i4ntq6q4lujcmtp5n49.edu.	86400	IN	NSEC3	1 1 0 -  b8lvss2ih9degafv13edbhkfrlar270j NS DS RRSIG 
+slu.edu.	172800	IN	NS	ns1.p29.dynect.net.
+slu.edu.	172800	IN	NS	ns2.p29.dynect.net.
+slu.edu.	172800	IN	NS	ns3.p29.dynect.net.
+slu.edu.	172800	IN	NS	ns4.p29.dynect.net.
+ns1.p29.dynect.net.	172800	IN	A	208.78.70.29
+ns2.p29.dynect.net.	172800	IN	A	204.13.250.29
+ns3.p29.dynect.net.	172800	IN	A	208.78.71.29
+ns4.p29.dynect.net.	172800	IN	A	204.13.251.29

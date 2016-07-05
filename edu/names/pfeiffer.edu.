@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+pfeiffer.edu.	172800	IN	NS	dns01.pfeiffer.edu.
+pfeiffer.edu.	172800	IN	NS	dns02.pfeiffer.edu.
+dns01.pfeiffer.edu.	172800	IN	A	166.82.114.2
+dns02.pfeiffer.edu.	172800	IN	A	166.82.114.3
+vvpmgbqlk9fs1ljf3g06b5qfqh8hh7ip.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160708090448 20160701075448 15617 edu. g+UCGabhTDpUfD3cOAgtDk81vi/jw4t+dgn/lUZ0AidK1SDvFAqGHwdSed+0MEuR9ff3budMIF0DyuAPR6sOnVcJt+/+T9FCo7FOm1UOkNWPGo+/Jj5S4OpTM2IDTdovhbI5beI0GH6HBzKA7jEs6WEY6uDOwlQMOWoFCbO8t+g=
+vvpmgbqlk9fs1ljf3g06b5qfqh8hh7ip.edu.	86400	IN	NSEC3	1 1 0 -  vvulga93qel6q1ohcjvf8faqpmb5o8l1 NS DS RRSIG 

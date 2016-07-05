@@ -1,0 +1,8 @@
+7vmnii69tijr80vi804qus3rgrbqqmhv.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712014648 20160705003648 15617 edu. LMv2RpZP/KNda07aB+wh/9l/V2LeXsIKfQtzcnvmbwbB7sHVIruB4n/vgBC2bAfHSbqw0yKyVMLFH+QZSgoG53toUHGbypNyjR0E/nmIiEYoPukM1rVtcgynBxkCct4fvedwZm5hOHiPllYB967PBu2xmjgoWSwt0FcYu/wSAtM=
+7vmnii69tijr80vi804qus3rgrbqqmhv.edu.	86400	IN	NSEC3	1 1 0 -  80cdfumh2fjmi55nhfovpgs1sanfe37u NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+canton.edu.	172800	IN	NS	ns.suny.edu.
+canton.edu.	172800	IN	NS	ns2.suny.edu.
+ns.suny.edu.	172800	IN	A	141.254.1.11
+ns2.suny.edu.	172800	IN	A	136.223.16.252

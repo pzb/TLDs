@@ -1,0 +1,15 @@
+8shee96omeh428gvgqrnje7t0c98495l.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711152101 20160704141101 15617 edu. GGQrLUMwe12cO1Kx/HFFP7h/mMb9TepIzgYHMEjArpkgI08EU30tx2xQs8xZURuflcjLfRzTeoMQr9prZ+zcZcExvYUx+fJpIk99UU97ypExIhW1g0cRzsu806Td5Fh4e7HuwhonWU2U1X01dmns4dAT44XJxOq+IEnLorkgxXg=
+8shee96omeh428gvgqrnje7t0c98495l.edu.	86400	IN	NSEC3	1 1 0 -  8t1utekaov7nuue85mhden4h0t2r0dev NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ns1.oregonstate.edu.	172800	IN	A	128.193.0.10
+ns2.oregonstate.edu.	172800	IN	A	128.193.4.20
+orst.edu.	172800	IN	NS	dns.merit.net.
+orst.edu.	172800	IN	NS	ns1.nero.net.
+orst.edu.	172800	IN	NS	ns1.ucsb.edu.
+orst.edu.	172800	IN	NS	ns1.oregonstate.edu.
+orst.edu.	172800	IN	NS	ns2.oregonstate.edu.
+ns1.ucsb.edu.	172800	IN	A	128.111.1.1
+ns1.ucsb.edu.	172800	IN	AAAA	2607:f378::1
+dns.merit.net.	172800	IN	A	198.108.1.43
+ns1.nero.net.	172800	IN	A	207.98.65.2

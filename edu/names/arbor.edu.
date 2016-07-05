@@ -1,0 +1,23 @@
+ns0.dnsmadeeasy.com.	172800	IN	A	208.94.148.2
+ns1.dnsmadeeasy.com.	172800	IN	A	208.80.124.2
+ns2.dnsmadeeasy.com.	172800	IN	A	208.80.126.2
+ns3.dnsmadeeasy.com.	172800	IN	A	208.80.125.2
+ns3.dnsmadeeasy.com.	172800	IN	AAAA	2600:1801:3::1
+ns4.dnsmadeeasy.com.	172800	IN	A	208.80.127.2
+ns4.dnsmadeeasy.com.	172800	IN	AAAA	2600:1802:4::1
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+arbor.edu.	172800	IN	NS	dns.merit.net.
+arbor.edu.	172800	IN	NS	ns0.dnsmadeeasy.com.
+arbor.edu.	172800	IN	NS	ns1.dnsmadeeasy.com.
+arbor.edu.	172800	IN	NS	ns2.dnsmadeeasy.com.
+arbor.edu.	172800	IN	NS	ns3.dnsmadeeasy.com.
+arbor.edu.	172800	IN	NS	ns4.dnsmadeeasy.com.
+arbor.edu.	172800	IN	NS	dns2.merit.net.
+arbor.edu.	172800	IN	NS	leopard.arbor.edu.
+leopard.arbor.edu.	172800	IN	A	198.109.194.2
+e58hmrf76sqr5ijg6athkcgo1a9lj60v.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712001800 20160704230800 15617 edu. 0PbOp08xf/d5OmTi+11PXEln/15MScmEmrrjicy0YQAtt2x8xTYft0y9M4fo08/Ca3snqm0sxLN/BmepJ/6oiy3skyl5Lh8zaGzA9u/NaOChAXM3ACHA7fQUjhFL1i9d2xj/vtJzJsaxkJld8P4xb6tI2iH4Ql3KeKvDhmCv9HA=
+e58hmrf76sqr5ijg6athkcgo1a9lj60v.edu.	86400	IN	NSEC3	1 1 0 -  e63o15vbfh5njahf9pm3c2tcafsv4t4s NS DS RRSIG 
+dns.merit.net.	172800	IN	A	198.108.1.43
+dns2.merit.net.	172800	IN	A	198.109.64.250
+dns2.merit.net.	172800	IN	AAAA	2001:48a8:6880:71::250

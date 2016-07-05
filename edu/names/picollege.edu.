@@ -1,0 +1,8 @@
+ns39.domaincontrol.com.	172800	IN	A	216.69.185.20
+ns40.domaincontrol.com.	172800	IN	A	208.109.255.20
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+g77ol3eiqa9q2t9r6s9894t29nvu3c0t.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712040101 20160705025101 15617 edu. kAqbSBgOb3hmYQB1EWDwFpoLUeDuhbo2oLWnOvDf6fu5h9Anf4rnV5iMCy18HdUlzVHWifOdnz/ZQVLVSmbtc/VXOF+0FA8/rVab/wRaXLCp7+nq4eAyr4r9gZlA9rrw4IWks4OgOoAqibbdvq69i/goJH8f+RlF/M4I6M0LsYo=
+g77ol3eiqa9q2t9r6s9894t29nvu3c0t.edu.	86400	IN	NSEC3	1 1 0 -  ga0d2lsic8lc1rll07304nnc8or2levo NS DS RRSIG 
+picollege.edu.	172800	IN	NS	ns39.domaincontrol.com.
+picollege.edu.	172800	IN	NS	ns40.domaincontrol.com.

@@ -1,0 +1,10 @@
+clint.ns.cloudflare.com.	172800	IN	A	173.245.59.90
+clint.ns.cloudflare.com.	172800	IN	AAAA	2400:cb00:2049:1::adf5:3b5a
+reza.ns.cloudflare.com.	172800	IN	A	173.245.58.217
+reza.ns.cloudflare.com.	172800	IN	AAAA	2400:cb00:2049:1::adf5:3ad9
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ksds.edu.	172800	IN	NS	reza.ns.cloudflare.com.
+ksds.edu.	172800	IN	NS	clint.ns.cloudflare.com.
+l7o7asm0qmjq8cu6i72s9g59cfm0tmgh.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711234142 20160704223142 15617 edu. 4ja/CJPeCxsxcpoI6PbIS0TRbg59++YOAi/Rva0GqHD0FaHBiSOW91HH2I+Vc6fOoPN1LUmIgExNxwtGmukiiQ+LhkLD8c/qUOwqYaODj5ki5/Ndq6InaUcmniC9Ji2gSZgM0IpvrRYKEDiMlqksT9/RCmjITV6jymhuRm0i2fw=
+l7o7asm0qmjq8cu6i72s9g59cfm0tmgh.edu.	86400	IN	NSEC3	1 1 0 -  lbsvbmgto0mmukakief14c8dn28v239d NS DS RRSIG 

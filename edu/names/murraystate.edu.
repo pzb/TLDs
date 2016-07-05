@@ -1,0 +1,16 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+i7vu9o845on08p4i0qr6hc8ab6hdschf.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711153414 20160704142414 15617 edu. WQzgB5it9wQs/a5hFMMcyZFCThRtnoTgRiDUv8Oek6iiA1bUTMTxY91BSbUdaTMnVdjL3emZjSGbtC0WXJaz2KePhhLa4RZkTN3OM+KiQNVTq6MLuENWZKoLZoPQZ+2/SJVJSnXyjRx+WoCnCKd9ZTYdPfgWt0ZsGASj+epBS5U=
+i7vu9o845on08p4i0qr6hc8ab6hdschf.edu.	86400	IN	NSEC3	1 1 0 -  i9cetp21gj2q75ur323mpo4fcjg1gu25 NS DS RRSIG 
+murraystate.edu.	172800	IN	NS	ns3.nku.edu.
+murraystate.edu.	172800	IN	NS	ns4.nku.edu.
+murraystate.edu.	172800	IN	NS	dns1.murraystate.edu.
+murraystate.edu.	172800	IN	NS	dns2.murraystate.edu.
+murraystate.edu.	172800	IN	NS	dns3.murraystate.edu.
+murraystate.edu.	172800	IN	NS	dns4.murraystate.edu.
+dns1.murraystate.edu.	172800	IN	A	216.249.159.3
+dns2.murraystate.edu.	172800	IN	A	216.249.159.4
+dns3.murraystate.edu.	172800	IN	A	216.249.191.8
+dns4.murraystate.edu.	172800	IN	A	74.143.180.194
+ns3.nku.edu.	172800	IN	A	192.122.237.203
+ns4.nku.edu.	172800	IN	A	192.122.237.204

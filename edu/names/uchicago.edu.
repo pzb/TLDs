@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+lvelmjeektumco8d76qcniri9g9mdgta.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711224237 20160704213237 15617 edu. M5QVFVAg+5FMJ622uDGtv4BFK8x10XQpy78rooKFKWpIxoStx/IYqY1ZY7xDuPCjZaGejbpugWgHQzDSHIvhm+MQPlfVTJbO6yqoByIhixNpaCG4qi/1Aaj4PqzKrn9EysLMtfMP4rYyfIzvlZMKJMfrOK0UmtFhbTVj8j/jVms=
+lvelmjeektumco8d76qcniri9g9mdgta.edu.	86400	IN	NSEC3	1 1 0 -  m02fbolih51ojafro9fbnhq0u1qpglm3 NS DS RRSIG 
+uchicago.edu.	172800	IN	NS	ucns.yale.edu.
+uchicago.edu.	172800	IN	NS	ucns1.uchicago.edu.
+uchicago.edu.	172800	IN	NS	ucns2.uchicago.edu.
+ucns1.uchicago.edu.	172800	IN	A	128.135.247.60
+ucns2.uchicago.edu.	172800	IN	A	128.135.249.60
+ucns.yale.edu.	172800	IN	A	130.132.21.135

@@ -1,0 +1,16 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+bj0qua579ginmmr8u9jj59g58ctt5s8r.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711204350 20160704193350 15617 edu. eMIwMPT8sVLoTNbuZ3SChMBoxCcIEH9SaupzRxXLHIwAis9qNTX7VvIm+9c7ol+W2maxOELdLp58mYAYy02yNenc9y4TjY0VS130Q3fzxZm+UcmQwWGp3te45IpADNXireskuYsrBnVhkgEUfeoNp1pPrk90ca+agmVjKF607ss=
+bj0qua579ginmmr8u9jj59g58ctt5s8r.edu.	86400	IN	NSEC3	1 1 0 -  bjr2s3hp4jqlc8kpdp4flji5oj5lvlkk NS DS RRSIG 
+upr1.upr.clu.edu.	172800	IN	A	136.145.1.4
+uprm.edu.	172800	IN	NS	dns0.uprm.edu.
+uprm.edu.	172800	IN	NS	dns1.ece.uprm.edu.
+uprm.edu.	172800	IN	NS	dns1.uprm.edu.
+uprm.edu.	172800	IN	NS	dns2.ece.uprm.edu.
+uprm.edu.	172800	IN	NS	dns2.uprm.edu.
+uprm.edu.	172800	IN	NS	upr1.upr.clu.edu.
+dns0.uprm.edu.	172800	IN	A	136.145.30.45
+dns1.uprm.edu.	172800	IN	A	136.145.30.2
+dns2.uprm.edu.	172800	IN	A	136.145.30.30
+dns1.ece.uprm.edu.	172800	IN	A	136.145.57.3
+dns2.ece.uprm.edu.	172800	IN	A	136.145.58.3

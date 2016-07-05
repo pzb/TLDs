@@ -1,0 +1,10 @@
+ns-84.awsdns-10.com.	172800	IN	A	205.251.192.84
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+acenet.edu.	172800	IN	NS	ns-84.awsdns-10.com.
+acenet.edu.	172800	IN	NS	ns-875.awsdns-45.net.
+acenet.edu.	172800	IN	NS	ns-1206.awsdns-22.org.
+acenet.edu.	172800	IN	NS	ns-1949.awsdns-51.co.uk.
+kngm8v4dqfbgfq42b7m84fsg58mljutb.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051941 20160704040941 15617 edu. 2HTANIQORvm12hX7SRIvAhsk5T1rhSrrypvzbydAJENisEVrmQyVTGWOQalVsznMqSnZfkU4rh7qbl9IDQ2cjjfaKBqwCzXzGlnOf9oGyb/ZU9pgqWo0Anx9XVookF+vkMjYPJd10PdYSK6ArEJga5CvJvADK6LENUOVTmuvEUc=
+kngm8v4dqfbgfq42b7m84fsg58mljutb.edu.	86400	IN	NSEC3	1 1 0 -  kni8e9nmbjqpouthq4hvlsrtv23gn6aj NS DS RRSIG 
+ns-875.awsdns-45.net.	172800	IN	A	205.251.195.107

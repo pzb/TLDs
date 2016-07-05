@@ -1,0 +1,8 @@
+pdns01.domaincontrol.com.	172800	IN	A	216.69.185.50
+pdns02.domaincontrol.com.	172800	IN	A	208.109.255.50
+6l5r6u1lgcn244n069833fvo9jtm3smd.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711140523 20160704125523 15617 edu. dGPbT/jhM/iPXI9wuCibRY1tjdevnUHSLchPLpVca+Tg086qM3xyvWAiyJ4N80Ersjd0dqY1s47SoDkWzpc4qsB9kbh4o1Hda5w88B+vtgmUhh11fBP8UUx40mZj0h7+godtVQrXhm6NdH/hjBgszvp/AYiVFtWUM3waE1TV9Fg=
+6l5r6u1lgcn244n069833fvo9jtm3smd.edu.	86400	IN	NSEC3	1 1 0 -  6m6221vjok3daj3rgvro0nttamo93bjn NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+perrytech.edu.	172800	IN	NS	pdns01.domaincontrol.com.
+perrytech.edu.	172800	IN	NS	pdns02.domaincontrol.com.

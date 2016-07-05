@@ -1,0 +1,12 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+f9r2ou9gd8pmoutapduvt0t1mj6u71jj.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051942 20160704040942 15617 edu. gqfd7MNO+02m3M8mMKg0CPyZzLkYVdkQ8wWTYrpOTaqx9owdePfsVV23yD+sm2nh/1HYOImL8htzgfQg6uj6aW/eTOVa6TCK4K4RcTJi8QbPKTph6N0uIwy2a5Hh/MDtDHMNUHYY79S4ysQb76TkxdOMFwimOoDTjghHQBLzKpg=
+f9r2ou9gd8pmoutapduvt0t1mj6u71jj.edu.	86400	IN	NSEC3	1 1 0 -  fak62c50vkai8nu71t8op9cc62kue058 NS DS RRSIG 
+fandm.edu.	172800	IN	NS	dns4.fandm.edu.
+fandm.edu.	172800	IN	NS	dnsone1.fandm.edu.
+fandm.edu.	172800	IN	NS	dnsone2.fandm.edu.
+fandm.edu.	172800	IN	NS	dnsoneserver.fandm.edu.
+dns4.fandm.edu.	172800	IN	A	199.244.203.165
+dnsone1.fandm.edu.	172800	IN	A	155.68.1.122
+dnsone2.fandm.edu.	172800	IN	A	155.68.1.123
+dnsoneserver.fandm.edu.	172800	IN	A	155.68.1.100

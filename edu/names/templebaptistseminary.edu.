@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+oo1ivkit65nlf4eue1je667o4aadbevu.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709051625 20160702040625 15617 edu. dKENfN420mU2X6bKfBxuNH/Hkm0wpPcezapXuvapDwBbNQpaZTN7bYY8uud8r4PIkXLMotHCRmZwsacT7tZkqBA2kuZFUavBW5ZEuGPESZ+C6WaeBgDbdfR1LvDmWbvxdzlDlqEOD5+QVuP3wrdWGgJj3T4TiKxR1o0GUBA0K0k=
+oo1ivkit65nlf4eue1je667o4aadbevu.edu.	86400	IN	NSEC3	1 1 0 -  ooaeu71367kdk4i0ehj3sp0eii130hls NS DS RRSIG 
+templebaptistseminary.edu.	172800	IN	NS	ns1.onyxlight.net.
+templebaptistseminary.edu.	172800	IN	NS	ns2.onyxlight.net.
+ns1.onyxlight.net.	172800	IN	A	208.67.157.2
+ns2.onyxlight.net.	172800	IN	A	208.67.157.10

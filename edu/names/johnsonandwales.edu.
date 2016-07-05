@@ -1,0 +1,12 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+g0bl5gnldcbp8ju6d4jhkfdb09hiqegh.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711221918 20160704210918 15617 edu. kbWNqf62EMPUpQ0sdVpxHxWollndqRAPGWMNWon8ZecXpA+r5NGHQWuESPNPrVt6Cy0bwPOL3j0sHTDx9QrYmcUuPJL+Yt2j4nLUWyRzLWOIPt507grPLVNkeqUKgFNf1jWIli3ioekgxArQ19lAj4x6cDVuOE2+4oqQyWvqjZ4=
+g0bl5gnldcbp8ju6d4jhkfdb09hiqegh.edu.	86400	IN	NSEC3	1 1 0 -  g2370qvds1qucefqng0pi6ttl8i6kus0 NS DS RRSIG 
+johnsonandwales.edu.	172800	IN	NS	ns1.p15.dynect.net.
+johnsonandwales.edu.	172800	IN	NS	ns2.p15.dynect.net.
+johnsonandwales.edu.	172800	IN	NS	ns3.p15.dynect.net.
+johnsonandwales.edu.	172800	IN	NS	ns4.p15.dynect.net.
+ns1.p15.dynect.net.	172800	IN	A	208.78.70.15
+ns2.p15.dynect.net.	172800	IN	A	204.13.250.15
+ns3.p15.dynect.net.	172800	IN	A	208.78.71.15
+ns4.p15.dynect.net.	172800	IN	A	204.13.251.15

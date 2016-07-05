@@ -1,0 +1,6 @@
+pacificu.edu.	172800	IN	NS	a.ns.pacificu.edu.
+pacificu.edu.	172800	IN	NS	b.ns.pacificu.edu.
+pacificu.edu.	86400	IN	DS	51600 5 1 13aa06bdabb07492532f79d8429d870a42d001d2
+pacificu.edu.	86400	IN	RRSIG	DS 8 2 86400 20160710053344 20160703042344 15617 edu. pd8Jl28tSiMC7KwLF3EaKWi0xI3OfFQTdnbXJFj+d9LxT4HG67hcOqLNo5bqEGEQ0sFV5sEGVqBH8zfBdaIh75DS/8yY5MRKKFIEuQo6QjQyLandrA9leF51ig8yPC9e5VL4FjliUNjzWpGJt0lm1EZST44U5Iz9QxgyiKpyblY=
+a.ns.pacificu.edu.	172800	IN	A	64.59.224.199
+b.ns.pacificu.edu.	172800	IN	A	216.182.112.130

@@ -1,0 +1,11 @@
+example.edu.	172800	IN	NS	a.iana-servers.net.
+example.edu.	172800	IN	NS	b.iana-servers.net.
+example.edu.	86400	IN	DS	44042 8 1 043a6301c88eb7d22305905c6b63331bd147922a
+example.edu.	86400	IN	DS	44042 8 2 6f7520dce4ab634085ef24c46d75343bf115375b241c4bb8a8b5af0c67964e13
+example.edu.	86400	IN	DS	49729 8 1 99030981f06ee333487465a00400628b6c96ae45
+example.edu.	86400	IN	DS	49729 8 2 6fdc73554008cafb80e2bbac89cb6fc4d9241b8de05f09d8f79727b12dcaa736
+example.edu.	86400	IN	RRSIG	DS 8 2 86400 20160711051943 20160704040943 15617 edu. v2oKWnta8yA5E83R+Rt4KoBQxL9jGEXx9j/8C1JLDs/lYtqtgqaYoelpZ6FyBMAMeltZEqFHdJ0tHAyZ9BHadkXoOxter2m+jtXZ5Ot/+MVljGAcCkF9nPwGwnSleyUGZ9qfZlr/GPSXxpB2F2c1Kt3kS8hLuokGeRIhOwMDjbg=
+a.iana-servers.net.	172800	IN	A	199.43.135.53
+a.iana-servers.net.	172800	IN	AAAA	2001:500:8f::53
+b.iana-servers.net.	172800	IN	A	199.43.133.53
+b.iana-servers.net.	172800	IN	AAAA	2001:500:8d::53

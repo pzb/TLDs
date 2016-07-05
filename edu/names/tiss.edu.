@@ -1,0 +1,13 @@
+tiss.edu.	172800	IN	NS	ns1.tiss.edu.
+tiss.edu.	172800	IN	NS	ns3.tiss.edu.
+tiss.edu.	172800	IN	NS	ns4.tiss.edu.
+tiss.edu.	172800	IN	NS	ns5.tiss.edu.
+tiss.edu.	86400	IN	DS	978 7 1 2ca44e252d9bbe8cfc629b5cd454f28c1e5de66e
+tiss.edu.	86400	IN	DS	978 7 2 bd593e2999b6ee8f941f2b1c9c629ee36900a5fdb56f04cd515e536e34033e21
+tiss.edu.	86400	IN	DS	10566 7 1 c32f374e42778e2a9c26b74626946dec9000724d
+tiss.edu.	86400	IN	DS	10566 7 2 dbcb6ee9fa3424edf3538c5bf2cad185d249283df3f9b1877f375fb0a54e3cbb
+tiss.edu.	86400	IN	RRSIG	DS 8 2 86400 20160710053348 20160703042348 15617 edu. abTlDi+wcy5Vhdpp2T+jwtV5rfutrasXWJh744PZeRHIqg/sZQu3/uPEPGJ5EqK8WSDqlq0UEWYiVZotLxqf1jRwNIh/swf8Uk1yAFRndsfaq6fI9Ie2yu/PZ1cN7KVBiX2MKHeoTIQiOpUnKbxWxJ/4nWGzsmt4NdnISMEpvpY=
+ns1.tiss.edu.	172800	IN	A	103.36.84.20
+ns3.tiss.edu.	172800	IN	A	117.239.202.180
+ns4.tiss.edu.	172800	IN	A	117.239.27.101
+ns5.tiss.edu.	172800	IN	A	103.36.84.6

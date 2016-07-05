@@ -1,0 +1,15 @@
+ns5.dnsmadeeasy.com.	172800	IN	A	208.94.148.13
+ns5.dnsmadeeasy.com.	172800	IN	AAAA	2600:1800:5::1
+ns6.dnsmadeeasy.com.	172800	IN	A	208.80.124.13
+ns7.dnsmadeeasy.com.	172800	IN	A	208.80.126.13
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+dns1.national-college.edu.	172800	IN	A	98.173.180.199
+dns2.national-college.edu.	172800	IN	A	98.173.180.200
+ofpsulbanq1pfejf97rn0j902qs4cl0o.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711185100 20160704174100 15617 edu. EMqfBAq7ppG4/+Bj9WYGfphE5a9CpNLlfKyKRw/JnTaDOGrl9vY4uzUYF4hvd0BmnZWX9lsAasEKkSWYyx0BBxIwjcLycgWMvr654pFgAcv6a97jV2PEr/TzKpdVNiohGJXewEix21STpc50CTZdpHFvdro2alJfKquWTOAkwnA=
+ofpsulbanq1pfejf97rn0j902qs4cl0o.edu.	86400	IN	NSEC3	1 1 0 -  oirc4g2fbr7k2eqem7n7ugiuign0itb7 NS DS RRSIG 
+ufairfax.edu.	172800	IN	NS	ns5.dnsmadeeasy.com.
+ufairfax.edu.	172800	IN	NS	ns6.dnsmadeeasy.com.
+ufairfax.edu.	172800	IN	NS	ns7.dnsmadeeasy.com.
+ufairfax.edu.	172800	IN	NS	dns1.national-college.edu.
+ufairfax.edu.	172800	IN	NS	dns2.national-college.edu.

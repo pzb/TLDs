@@ -1,0 +1,14 @@
+dns.internet2.edu.	172800	IN	A	207.75.164.59
+dns.internet2.edu.	172800	IN	AAAA	2001:48a8:68fe::59
+dns2.internet2.edu.	172800	IN	A	192.52.179.250
+dns2.internet2.edu.	172800	IN	AAAA	2001:468:c07:4::250
+ucaid.edu.	172800	IN	NS	dns.internet2.edu.
+ucaid.edu.	172800	IN	NS	dns2.internet2.edu.
+ucaid.edu.	172800	IN	NS	phloem.uoregon.edu.
+ucaid.edu.	86400	IN	DS	6213 7 1 5836daaabbb0f6e7112dd620c4faaed41cb24eed
+ucaid.edu.	86400	IN	DS	6213 7 2 8f9fbca964b841ba4a6763d33f476d119bf00a8505937d298b2e035ec34dcdf8
+ucaid.edu.	86400	IN	DS	57603 7 2 f93498582d409ba132cae3478b0172603245ca96bdf3280f27b3c0863a338775
+ucaid.edu.	86400	IN	DS	57604 7 1 9557b9f834e8b97e114fad642a13e9f1578b8fd0
+ucaid.edu.	86400	IN	RRSIG	DS 8 2 86400 20160708052031 20160701041031 15617 edu. CvAlk1ecg8ckzjZSJON/LjCLxn6WzNyyN7J2egsJB9Y7vnfkVtgmHzbJ5ABGlfVh5ZW30fgs4xaL5OGFvZRD0OrUh8VGSppT6fsqyuoD6lF/54cmEgsPsSPVkdGb2/vJdpOAioyUz3dZ66x1pA2tPoDzd+U6dQaBgUDRL3ffuRs=
+phloem.uoregon.edu.	172800	IN	A	128.223.32.35
+phloem.uoregon.edu.	172800	IN	AAAA	2001:468:d01:20::80df:2023

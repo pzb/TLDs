@@ -1,0 +1,8 @@
+ns17.domaincontrol.com.	172800	IN	A	216.69.185.9
+ns18.domaincontrol.com.	172800	IN	A	208.109.255.9
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+dj7h9vj4co9ununqa1rmij9hiv9cnuec.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710053347 20160703042347 15617 edu. btVigldEHFVXxwFg3PABpfDBY2EzoRTGsaYQ8trwnfQMs/UaLNPm4O5hsRl3UX0JpWScPXCFoDoJH4bjPDsZiVnMmJpLIwB9lnTsWzvr1U/KlUgeCGVZ0nyIEphehoBKkaFzGKNvpm9+70wzlt3oRN1faBFwFtfmpArxj83eq2c=
+dj7h9vj4co9ununqa1rmij9hiv9cnuec.edu.	86400	IN	NSEC3	1 1 0 -  djpk3f00ctt23l136a2ee1lse1dufm7q NS DS RRSIG 
+rajas.edu.	172800	IN	NS	ns17.domaincontrol.com.
+rajas.edu.	172800	IN	NS	ns18.domaincontrol.com.

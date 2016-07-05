@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ateneo.edu.	172800	IN	NS	dns.aps.ateneo.edu.
+ateneo.edu.	172800	IN	NS	dns.ateneo.net.
+ateneo.edu.	172800	IN	NS	pata.ateneo.net.
+dns.aps.ateneo.edu.	172800	IN	A	202.125.103.4
+q6pt09dg46h5f53jd9n5du3ef50us1g2.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709045224 20160702034224 15617 edu. Li/5PnoUkBFmYd32qnJNUC5cdWn6BGAubgn9WOnYAcgWedjw3vcTYZPRyq07/EkdrVhZwSY2FdLncHI8f/KIhS3fHveAQfswAOAIELz4hw7XDXN+n/6/PHa5/y1Zg/0h9xqRa/VFsN5TxA0qFmwGI+1JpemCMSetJkYhr2XXeZA=
+q6pt09dg46h5f53jd9n5du3ef50us1g2.edu.	86400	IN	NSEC3	1 1 0 -  q7qjfh19eehvfcj12uoqgenot3vq77b4 NS DS RRSIG 
+dns.ateneo.net.	172800	IN	A	202.125.102.1
+pata.ateneo.net.	172800	IN	A	202.125.102.2

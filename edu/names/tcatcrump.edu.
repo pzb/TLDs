@@ -1,0 +1,10 @@
+ns1-03.azure-dns.com.	172800	IN	A	40.90.4.3
+39j96iq4sub6md3nq0jq30h66167q29p.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712012217 20160705001217 15617 edu. heIZKLspC/jrgaqmvlwunJal9Aek3b5g/RETKqNkqXO0MRQV9d3LY5+l1iv0JTqtw7SPIHiGC2VDo6bbK1+Pab1p6yBso5bmV87FNXR7Ikk+z6XQj/jAHoRetgz+MakqklPEEmm+D0RrsFgdNEtE2BBoSa13435QPrhe8waCMJI=
+39j96iq4sub6md3nq0jq30h66167q29p.edu.	86400	IN	NSEC3	1 1 0 -  3ancqhh49kami7q40svqpgtrfj1jvdrc NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+tcatcrump.edu.	172800	IN	NS	ns1-03.azure-dns.com.
+tcatcrump.edu.	172800	IN	NS	ns2-03.azure-dns.net.
+tcatcrump.edu.	172800	IN	NS	ns3-03.azure-dns.org.
+tcatcrump.edu.	172800	IN	NS	ns4-03.azure-dns.info.
+ns2-03.azure-dns.net.	172800	IN	A	64.4.48.3

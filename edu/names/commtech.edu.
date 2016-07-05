@@ -1,0 +1,12 @@
+4ntvvudntbb0ag9ern4b51laadhvk6lr.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711012524 20160704001524 15617 edu. PG3L5raUOGmXN2luYUIgPJ3uMq57FaQe5QyOMD6Kxzv8E6mhJ4BQ07735UzeW8U8XVYgGypj0+tnsFbRWEZLkl0bMKrWQ5Qt5W6fx5kmbXRVuqvd5z7mU7dCF12RRqVYlk25H1ftKtzr3QGZeShIID2p6kGre1XppLcnyieFCWw=
+4ntvvudntbb0ag9ern4b51laadhvk6lr.edu.	86400	IN	NSEC3	1 1 0 -  4oiqasisnu2frv9paf5uohp170gr95cr NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+commtech.edu.	172800	IN	NS	bdns1.ultradns.net.
+commtech.edu.	172800	IN	NS	bdns2.ultradns.net.
+commtech.edu.	172800	IN	NS	bdns3.ultradns.net.
+commtech.edu.	172800	IN	NS	bdns4.ultradns.net.
+bdns1.ultradns.net.	172800	IN	A	156.154.153.1
+bdns2.ultradns.net.	172800	IN	A	156.154.154.1
+bdns3.ultradns.net.	172800	IN	A	156.154.153.2
+bdns4.ultradns.net.	172800	IN	A	156.154.154.2

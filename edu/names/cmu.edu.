@@ -1,0 +1,9 @@
+cmu.edu.	172800	IN	NS	nsauth1.net.cmu.edu.
+cmu.edu.	172800	IN	NS	nsauth2.net.cmu.edu.
+cmu.edu.	172800	IN	NS	ny-server-03.net.cmu.edu.
+cmu.edu.	86400	IN	DS	56259 7 1 585e955d36ab11a225e22b42e713c9bc8b0347b7
+cmu.edu.	86400	IN	DS	56259 7 2 83f3ea220349ecd74852847f838121275ff28f3c0806b853133bcef61e1d8205
+cmu.edu.	86400	IN	RRSIG	DS 8 2 86400 20160709051625 20160702040625 15617 edu. MAVw0fsLOQWUDDuXGaZEjh93z5SOpOJw4KoGVzGk5BiPEr3yQa20JDbQAqNcko/Je3Ux5hLq9P/5g0JwSmWcdLujUonrhSnSh7ClKe9vaIerMvIVtGRNgvZOXXE7D9csFW8ZE/xPqe+w6aExgV8MfqBf8ljfICgPS2ROswroC+I=
+nsauth1.net.cmu.edu.	172800	IN	A	128.2.1.8
+nsauth2.net.cmu.edu.	172800	IN	A	128.237.148.168
+ny-server-03.net.cmu.edu.	172800	IN	A	38.96.147.4

@@ -1,0 +1,14 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+clark.edu.	172800	IN	NS	dns1.ctc.edu.
+clark.edu.	172800	IN	NS	dns1.clark.edu.
+clark.edu.	172800	IN	NS	dns2.ctc.edu.
+clark.edu.	172800	IN	NS	dns2.clark.edu.
+clark.edu.	172800	IN	NS	dns3.ctc.edu.
+dns1.clark.edu.	172800	IN	A	192.102.5.4
+dns2.clark.edu.	172800	IN	A	168.156.144.4
+dns1.ctc.edu.	172800	IN	A	168.156.8.90
+dns2.ctc.edu.	172800	IN	A	168.156.8.91
+dns3.ctc.edu.	172800	IN	A	134.39.2.118
+hia2ubo2cdcdov6ce9jelmgnt6q3dr6c.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711220239 20160704205239 15617 edu. MnYbQDqZu9/v35nLpKD4cnVz7zhy9P+N0mOoi+SxP+QeTSUxNMrvaiN5C6Lq1gCabKlVJ2FoxsKHOPOwMfVJkOVPFsvSyhaEkztUfUhlzWovhnj5A6f65BJjcdht/uTDzpiHRiVx7A8t7vG0thwL9WvsRtYMHWnNekTeU5NcFQ4=
+hia2ubo2cdcdov6ce9jelmgnt6q3dr6c.edu.	86400	IN	NSEC3	1 1 0 -  hk20os4eupsiab6fjb1mlnvmk96vodbh NS DS RRSIG 

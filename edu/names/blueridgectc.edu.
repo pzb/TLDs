@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+blueridgectc.edu.	172800	IN	NS	names.wvnet.edu.
+blueridgectc.edu.	172800	IN	NS	nameserv.wvnet.edu.
+epjp8iltpg3aa0m8i6jd3dpdindmrfdd.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711213417 20160704202417 15617 edu. SKLsSsfUB3d3pDxjrComu8jYRQ8d4bfbj1iklslBeg8Jkh9BzvztOaUYQi9dZsDdvMUVKIPQ6W+PUtWPr91zu24sSdsvDE/jUrFE4rVCuyNRPVTxYsqCtfDY3GRcXdKbV6c9I8S7STCIGNWbB2txZfRkH3+R1aFTjL7N3g9sjcM=
+epjp8iltpg3aa0m8i6jd3dpdindmrfdd.edu.	86400	IN	NSEC3	1 1 0 -  erh8cr5bqm7q998drbh4n0ko51qgghd1 NS DS RRSIG 
+names.wvnet.edu.	172800	IN	A	129.71.254.5
+nameserv.wvnet.edu.	172800	IN	A	129.71.1.1

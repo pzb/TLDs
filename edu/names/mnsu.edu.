@@ -1,0 +1,12 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+d4930412e9e84os7un195kdcav79dabb.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710084048 20160703073048 15617 edu. JB6LDGfr0632tyk822qdwULlc3m3EwAi4+WT5EFdPM/fkbcGQSK/dSLAgPzWZupK0fNMRVhN1HvaH8OSoIqvNdTh8fcYL/Dwv5qwnz0tMC9UlNtazhQEmDyag2+dJ5+YqczDtuLAT8UPUQGuSQR2m94zbLP6lsKHE6CLQ3LzbHo=
+d4930412e9e84os7un195kdcav79dabb.edu.	86400	IN	NSEC3	1 1 0 -  d5oe0lovln6n8f7palrokohioqcb36hp NS DS RRSIG 
+mnsu.edu.	172800	IN	NS	dns.uw-mad.wiscnet.net.
+mnsu.edu.	172800	IN	NS	dns.uw-mil.wiscnet.net.
+mnsu.edu.	172800	IN	NS	ns1.mnsu.edu.
+mnsu.edu.	172800	IN	NS	ns2.mnsu.edu.
+ns1.mnsu.edu.	172800	IN	A	134.29.1.1
+ns2.mnsu.edu.	172800	IN	A	134.29.1.8
+dns.uw-mad.wiscnet.net.	172800	IN	A	205.213.108.100
+dns.uw-mil.wiscnet.net.	172800	IN	A	205.213.163.100

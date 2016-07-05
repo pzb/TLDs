@@ -1,0 +1,8 @@
+ns2203.hostgator.com.	172800	IN	A	50.87.144.188
+ns2204.hostgator.com.	172800	IN	A	192.254.185.143
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+avancebeautycollege.edu.	172800	IN	NS	ns2203.hostgator.com.
+avancebeautycollege.edu.	172800	IN	NS	ns2204.hostgator.com.
+ushqanuk0o5bs074ppapkcpqis82qsa5.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711195440 20160704184440 15617 edu. CMtFUUoC5/Y5zeKx57RhnVDlknJpAKokc+1Wp7ogOXhvztdL6f2vjMpLZz21yZQ/zOWaO9Z6cMdNPUZRIlikAQyQSl4qqEyeVQ9rJIPEkxZniYY1VH+l5HpJxdbsRBotOWZjeCUVMcSgXkXa5AoO57FeUFIZ41h4k8w9fATXvA4=
+ushqanuk0o5bs074ppapkcpqis82qsa5.edu.	86400	IN	NSEC3	1 1 0 -  utalgci5t5j7dauobndqjgv776lpb97i NS DS RRSIG 

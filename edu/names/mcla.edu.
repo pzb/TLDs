@@ -1,0 +1,12 @@
+8g10fl8av30b95dn0m23uofmg71tb2v5.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711185459 20160704174459 15617 edu. cdF0z8tznSSWez6XsxSxCqvO2FX4pRt7wpcADFAghbA2fCOZk9GCSgsx5shjoCL+TqhUCZPwCBhdve3Vdd1W10WDHvjEZAogYjc0Q5VcuxokOFlKdl1RPhQ9CLn41Rb0hSdSJUL7qNFs1Ob47Zr1ZlwRY4WUFOIMYQy9+CH9EA0=
+8g10fl8av30b95dn0m23uofmg71tb2v5.edu.	86400	IN	NSEC3	1 1 0 -  8i91k90t1b04o2s9aplc3iv6al43jnqr NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+mcla.edu.	172800	IN	NS	dns1.mcla.edu.
+mcla.edu.	172800	IN	NS	dns2.mcla.edu.
+mcla.edu.	172800	IN	NS	fred.umassp.edu.
+mcla.edu.	172800	IN	NS	mystery.umassp.edu.
+dns1.mcla.edu.	172800	IN	A	76.191.48.10
+dns2.mcla.edu.	172800	IN	A	76.191.56.11
+fred.umassp.edu.	172800	IN	A	69.16.18.189
+mystery.umassp.edu.	172800	IN	A	69.16.56.3

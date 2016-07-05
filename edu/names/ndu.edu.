@@ -1,0 +1,14 @@
+515h42qgie56p03vodd7j6jd9dp1v8kb.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711201247 20160704190247 15617 edu. OKKjqYmCvl3ELkHc9bY2xKjQMvcuXTAk87c4r+LjO4HilkES8UYcpN17p+fUMvcrBYgCJYYvIIMGr1dyvOb30jZUrFRTlPTFZAy8OA6/Xene9jaCHp2O+w3DBu81YEcDChAzgAbeRPBsMpAlVR1PDacC2DcLVPkDhYQtBBI2IPQ=
+515h42qgie56p03vodd7j6jd9dp1v8kb.edu.	86400	IN	NSEC3	1 1 0 -  52qldbtqjd60mtclot094645gq6voc3g NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ndu.edu.	172800	IN	NS	dnsauth1.sys.gtei.net.
+ndu.edu.	172800	IN	NS	dnsauth2.sys.gtei.net.
+ndu.edu.	172800	IN	NS	dnsauth3.sys.gtei.net.
+ndu.edu.	172800	IN	NS	ndudns01.ndu.edu.
+ndu.edu.	172800	IN	NS	ndudns02.ndu.edu.
+ndudns01.ndu.edu.	172800	IN	A	216.21.18.48
+ndudns02.ndu.edu.	172800	IN	A	216.21.19.239
+dnsauth1.sys.gtei.net.	172800	IN	A	4.2.49.2
+dnsauth2.sys.gtei.net.	172800	IN	A	4.2.49.3
+dnsauth3.sys.gtei.net.	172800	IN	A	4.2.49.4

@@ -1,0 +1,16 @@
+29lpmsr4bm1vd7c6mgob142tm5d5l488.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711061546 20160704050546 15617 edu. sdUBlyXx8eyn73dripjUMxdtLb4AeGBkZVcZAXf0SWCkTMODw0Yqh7F3wXIJLWkIlHaNi1bzeOLc8N8KcZ2gx3shOBWhE2Y6EfithrvMQbcSzywGG1oBVLWD/Zr9jI8AmQvczJLzCtYodi5XIau2R0zDqzt9QypKwNZBLeZZ/ss=
+29lpmsr4bm1vd7c6mgob142tm5d5l488.edu.	86400	IN	NSEC3	1 1 0 -  2b8q8bst1u37feind29ufumdv2si1ai3 NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+mga.edu.	172800	IN	NS	ns1.mga.edu.
+mga.edu.	172800	IN	NS	ns1.usg.edu.
+mga.edu.	172800	IN	NS	ns2.mga.edu.
+mga.edu.	172800	IN	NS	ns2.usg.edu.
+mga.edu.	172800	IN	NS	ns3.usg.edu.
+mga.edu.	172800	IN	NS	ns4.usg.edu.
+ns1.mga.edu.	172800	IN	A	168.16.190.180
+ns2.mga.edu.	172800	IN	A	168.16.190.181
+ns1.usg.edu.	172800	IN	A	198.72.72.10
+ns2.usg.edu.	172800	IN	A	131.144.4.9
+ns3.usg.edu.	172800	IN	A	198.72.72.11
+ns4.usg.edu.	172800	IN	A	131.144.4.10

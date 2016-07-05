@@ -1,0 +1,14 @@
+dns.princeton.edu.	172800	IN	A	128.112.129.15
+ucsc.edu.	172800	IN	NS	ns.zocalo.net.
+ucsc.edu.	172800	IN	NS	dns.princeton.edu.
+ucsc.edu.	172800	IN	NS	adns1.ucsc.edu.
+ucsc.edu.	172800	IN	NS	adns2.ucsc.edu.
+ucsc.edu.	172800	IN	NS	sns-pb.isc.org.
+ucsc.edu.	86400	IN	DS	6006 10 1 fb7254957381799cea67a5f8649b00db11bbccad
+ucsc.edu.	86400	IN	DS	6006 10 2 ed9ae84ef27bc73b1eab1bb35b69bd98482fa647b0b75bfd594955c3701d33f0
+ucsc.edu.	86400	IN	DS	15951 10 1 b079ee2f1293980a248e9591c622644f1264e31f
+ucsc.edu.	86400	IN	DS	15951 10 2 2c87c65e104ecf07130ff7da2c5fe9828e28f9c0e6cd6b47ef5848fa46e0702c
+ucsc.edu.	86400	IN	RRSIG	DS 8 2 86400 20160711051941 20160704040941 15617 edu. op+rJ+wnIHz5v9WqxeIi6+5Pxy9xivy8jEE2pP7o5Wdmb7kxcjDwg36l5OXGl1LSZIG6L4yBvPU9PNtQoocZL/RzaQRY/P/tQtyL689nIry79rEboUVZ98bU+opYM+707qYFI0L9JrEMmJo63rkNAJrcXiATi5aKs1021WvpPIE=
+adns1.ucsc.edu.	172800	IN	A	128.114.100.100
+adns2.ucsc.edu.	172800	IN	A	128.114.100.200
+ns.zocalo.net.	172800	IN	A	157.22.0.254

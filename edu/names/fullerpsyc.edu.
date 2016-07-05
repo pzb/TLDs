@@ -1,0 +1,8 @@
+3fbra3pkckvqui8ab2nlelr0qecaggp1.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712040049 20160705025049 15617 edu. WeU9+8c2t2+tMu4xVHNxLEZC+L7KqMlYFWgCKKQKGeWsFTcqnWM+7qWlXD9AXVPuEl83irGpNKmR1Z+r5oZccKSxfC/Q3GWNiwJm38j71FX3TR1u8dXt3w43wx1Iu/qAxOWNbeHMbonKr/Y3QXIc1pQiCpjKZZG7vgsqdyke3iE=
+3fbra3pkckvqui8ab2nlelr0qecaggp1.edu.	86400	IN	NSEC3	1 1 0 -  3fik41auquq3o97edh6uvcr3oetglhdv NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+mahalalel.fuller.edu.	172800	IN	A	65.118.138.7
+fullerpsyc.edu.	172800	IN	NS	mahalalel.fuller.edu.
+fullerpsyc.edu.	172800	IN	NS	dca-ans-01.inet.qwest.net.
+dca-ans-01.inet.qwest.net.	172800	IN	A	63.150.72.4

@@ -1,0 +1,23 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+he9a0l4p56naeoho8tvtv9e6bqahgv9v.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710214625 20160703203625 15617 edu. dWG1BUI7bUY3reO74B5NjVRXvtBR/W6FDWTub4lAlcdYWUfqBM8im5iSJ2pkKize+X3S1dKsoXvpCnUWuHdHxmuB04/aM0QP1hiJpHGvIk41ZeTIq2ctkjYj8kVZ6TXzpPPckiOEwpfSpc7Fqbpe7BdWs5H7oTZ7G7mixvccjCs=
+he9a0l4p56naeoho8tvtv9e6bqahgv9v.edu.	86400	IN	NSEC3	1 1 0 -  henoq24rm02f8jtptm4dfi0vdmtd24eu NS DS RRSIG 
+mit.edu.	172800	IN	NS	eur5.akam.net.
+mit.edu.	172800	IN	NS	use2.akam.net.
+mit.edu.	172800	IN	NS	use5.akam.net.
+mit.edu.	172800	IN	NS	usw2.akam.net.
+mit.edu.	172800	IN	NS	asia1.akam.net.
+mit.edu.	172800	IN	NS	asia2.akam.net.
+mit.edu.	172800	IN	NS	ns1-37.akam.net.
+mit.edu.	172800	IN	NS	ns1-173.akam.net.
+asia1.akam.net.	172800	IN	A	95.100.175.64
+asia2.akam.net.	172800	IN	A	95.101.36.64
+eur5.akam.net.	172800	IN	A	23.74.25.64
+ns1-173.akam.net.	172800	IN	A	193.108.91.173
+ns1-173.akam.net.	172800	IN	AAAA	2600:1401:2::ad
+ns1-37.akam.net.	172800	IN	A	193.108.91.37
+ns1-37.akam.net.	172800	IN	AAAA	2600:1401:2::25
+use2.akam.net.	172800	IN	A	96.7.49.64
+use5.akam.net.	172800	IN	A	2.16.40.64
+use5.akam.net.	172800	IN	AAAA	2600:1401:1::40
+usw2.akam.net.	172800	IN	A	184.26.161.64

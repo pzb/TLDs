@@ -1,0 +1,8 @@
+ns25.domaincontrol.com.	172800	IN	A	216.69.185.13
+ns26.domaincontrol.com.	172800	IN	A	208.109.255.13
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+9o8deisot1jchf1dj38v1p4grc4cn81u.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711085629 20160704074629 15617 edu. Qr+dGK29w3vvMWXhfk2sJz1OGMzR/hUK9SSGzJq3MvT7MP3Rx0BJzl9HB7u5Ef0ix8h6j1LMVjtsY4vpqdwUyex57rOiUV2Jj8BvO8xIJ1JS8RjCjM9uVpGFYCY64YyBj1fnxNkz3eq7e0tmBcL+CVTjoCVl2BZ90Xctpi5i3fA=
+9o8deisot1jchf1dj38v1p4grc4cn81u.edu.	86400	IN	NSEC3	1 1 0 -  9ofgctvdbbrjep6ujv2728gaqhdrtoii NS DS RRSIG 
+harid.edu.	172800	IN	NS	ns25.domaincontrol.com.
+harid.edu.	172800	IN	NS	ns26.domaincontrol.com.

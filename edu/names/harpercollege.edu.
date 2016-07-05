@@ -1,0 +1,14 @@
+3ttnhut2ojp26hvbccha787vc32ib9iv.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711142203 20160704131203 15617 edu. u1W8RN0Kib835AHxFCvGt2m3j7hc3XnrY3TW57TkQx4YRojWJjZH+5CzLLfWjWEpoMvniXSAeY69qgeTjOJ+TdRmqKLoiOoonxKlALg79gurLsWOL9i/U5GvuAYtN38cwB4Mu58QIDOnay8GxoKWx6KQRCropyPcDpu2tE5wbjY=
+3ttnhut2ojp26hvbccha787vc32ib9iv.edu.	86400	IN	NSEC3	1 1 0 -  41ht154e6kgos4s2r9m2hkrp2u2uqjhj NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+harpercollege.edu.	172800	IN	NS	ns1.msa1.illinois.net.
+harpercollege.edu.	172800	IN	NS	ns1.illinois.net.
+harpercollege.edu.	172800	IN	NS	auth01.ns.uu.net.
+harpercollege.edu.	172800	IN	NS	auth60.ns.uu.net.
+harpercollege.edu.	172800	IN	NS	ifirewall.harpercollege.edu.
+ifirewall.harpercollege.edu.	172800	IN	A	157.178.1.101
+ns1.msa1.illinois.net.	172800	IN	A	206.166.50.100
+ns1.illinois.net.	172800	IN	A	206.166.61.22
+auth01.ns.uu.net.	172800	IN	A	198.6.1.81
+auth60.ns.uu.net.	172800	IN	A	198.6.1.181

@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+aip0jpsk61918kmjhdd43nfu66tqbq8b.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712002331 20160704231331 15617 edu. 0wsRprkAJUAqQfF5DPOCPk2rZTUx+rwSmg8dEsaUcefl978dkbd2xzZrq8JbrB9u9ySN99EZhajOdSnr7b/SCOPwkGMrdXsi8cJCJ+rnlQTJ7CD2roiSKb9Kvd6zlltrcb0ziJSS/5H5hFwpQqZj+xs4G6WZfjF9a23tATY2exs=
+aip0jpsk61918kmjhdd43nfu66tqbq8b.edu.	86400	IN	NSEC3	1 1 0 -  alobq55vv686fm0dg4cnrscjlulk184e NS DS RRSIG 
+uwsp.edu.	172800	IN	NS	dns1.uwsp.edu.
+uwsp.edu.	172800	IN	NS	dns2.uwsp.edu.
+uwsp.edu.	172800	IN	NS	ecdns1.uwsp.edu.
+dns1.uwsp.edu.	172800	IN	A	143.236.1.14
+dns2.uwsp.edu.	172800	IN	A	143.236.1.15
+ecdns1.uwsp.edu.	172800	IN	A	137.28.121.6

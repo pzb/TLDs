@@ -1,0 +1,8 @@
+ns1.biz.rr.com.	172800	IN	A	24.30.200.19
+ns2.biz.rr.com.	172800	IN	A	24.30.201.19
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+jq0k4274fgkgqpnoqn839bvb62120a0q.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709051624 20160702040624 15617 edu. vsu7EFSYvK0sn/7WAXoTK31UaYt6PgmDGJBJkjtpq3rNp7l8NJad5ZLxA8uEGZO0R8hc5pkEp9/XbJb0soktAyyQVVe8gkuIawbvenM3AbI/zgogjbcZukLmRL1j/n9wCoQEli6uUN+pAQm/Es9ClppwXju2mGt1BDkwO3lVo1E=
+jq0k4274fgkgqpnoqn839bvb62120a0q.edu.	86400	IN	NSEC3	1 1 0 -  jqijcf63fim97cka298fppmdc4qsmpl9 NS DS RRSIG 
+schreiner.edu.	172800	IN	NS	ns1.biz.rr.com.
+schreiner.edu.	172800	IN	NS	ns2.biz.rr.com.

@@ -1,0 +1,10 @@
+millikin.edu.	172800	IN	NS	dns.millikin.edu.
+millikin.edu.	172800	IN	NS	ns1.illinois.net.
+millikin.edu.	172800	IN	NS	ns2.illinois.net.
+millikin.edu.	172800	IN	NS	dns2.millikin.edu.
+millikin.edu.	86400	IN	DS	15870 7 2 917d7c1d2bab334a9fdf300fdfb09f5edfa484f64ee8ce35ec0cc3a9948a9586
+millikin.edu.	86400	IN	RRSIG	DS 8 2 86400 20160711051940 20160704040940 15617 edu. 0EsHx0iD3j/7g1Hk+RmmPtcyM8SEWja1l/vZahIAuzseuAI05qK/zMmZtoEUQDY8JO6SLPMbDaBeDqbzQakQ4R2T9ZTQVUMeibPfbmJ6Izz9ptZaaVqcpjpOttkiC7EtCONtnhwp28IDHBT50stpTJNexDaRYlExybxENGK3w1s=
+dns.millikin.edu.	172800	IN	A	216.125.123.10
+dns2.millikin.edu.	172800	IN	A	216.125.123.11
+ns1.illinois.net.	172800	IN	A	206.166.61.22
+ns2.illinois.net.	172800	IN	A	206.166.17.200

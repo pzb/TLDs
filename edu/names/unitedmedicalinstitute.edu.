@@ -1,0 +1,6 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+oirc4g2fbr7k2eqem7n7ugiuign0itb7.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711211952 20160704200952 15617 edu. slawNoG5xcdQ77CMpJnfBNVydsr/wWP4oxU62b8tNBQJgQCZTXApKSb9uIUZtf7DPwm4PsWRd6kPjSEgSFfc4yNS1x10Te48m3K+oOTa1QnW3g/CIElrCrEopSJiihvt999EJhSEzAabFuW1qC3Y2NgwASCdD1BhenHJPTPSmIQ=
+oirc4g2fbr7k2eqem7n7ugiuign0itb7.edu.	86400	IN	NSEC3	1 1 0 -  ojg0gbg42no7ul1i8k50ans80fr3a4fq NS DS RRSIG 
+unitedmedicalinstitute.edu.	172800	IN	NS	ns1.mozy.org.
+unitedmedicalinstitute.edu.	172800	IN	NS	ns2.mozy.org.

@@ -1,0 +1,8 @@
+dns1.caracashosting50.com.	172800	IN	A	154.42.65.51
+dns2.caracashosting50.com.	172800	IN	A	154.42.65.52
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+iutepi.edu.	172800	IN	NS	dns1.caracashosting50.com.
+iutepi.edu.	172800	IN	NS	dns2.caracashosting50.com.
+p0qgoe99kkruv1n3jajqts12hbrvg841.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711032300 20160704021300 15617 edu. PeGj/z0PI+AD/KR4HOsNEznf0HVnuAOaO2uGQbmoHhWdTPpwrUVV1gLQNDzMQEIIOPidiQS9DPCz77eCVjGUNE/5bN/TiWLNLK/vnb/kGGWykBa+C3yb+gTYCJIVQdt4OmovP/YUs7PaIisjrlLIqchupLKw80s4R9CTUGBHx6w=
+p0qgoe99kkruv1n3jajqts12hbrvg841.edu.	86400	IN	NSEC3	1 1 0 -  p2ehbriu9ujjtp2oqah79u8a0m25pvb4 NS DS RRSIG 

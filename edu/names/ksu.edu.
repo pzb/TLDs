@@ -1,0 +1,15 @@
+ksu.edu.	172800	IN	NS	kic.kanren.net.
+ksu.edu.	172800	IN	NS	nic.kanren.net.
+ksu.edu.	172800	IN	NS	ns-1.ksu.edu.
+ksu.edu.	172800	IN	NS	ns-2.ksu.edu.
+ksu.edu.	172800	IN	NS	ns-3.ksu.edu.
+ksu.edu.	86400	IN	DS	27712 8 1 e36e447ec6471f0bb7f87c0cabb99b67b06dfa5b
+ksu.edu.	86400	IN	DS	27712 8 2 165dd299ba7ec69bb87956daf0c2f683be7b62919b77944808d99e04d1bf1ef0
+ksu.edu.	86400	IN	RRSIG	DS 8 2 86400 20160710053350 20160703042350 15617 edu. Z1q32v5NO2yV6kRz8l6YtuHlpeZUGn/namiBBAO1pxXvlYxPZAYvQktmjQ3p0GJnSIgz6hZERai3E/8ISfXcWD8VJlUT+vTjaPsl3rks9eeLOa6gcllA7IhY5xUbA8C6uaMEvtKb9ap9rWejgA59OzHK1eJHVfk7wt7E9jw/vHY=
+ns-1.ksu.edu.	172800	IN	A	129.130.254.21
+ns-2.ksu.edu.	172800	IN	A	129.130.139.151
+ns-3.ksu.edu.	172800	IN	A	129.130.139.150
+kic.kanren.net.	172800	IN	A	164.113.92.250
+kic.kanren.net.	172800	IN	AAAA	2001:49d0:2003:f000::5
+nic.kanren.net.	172800	IN	A	164.113.192.242
+nic.kanren.net.	172800	IN	AAAA	2001:49d0:2008:f000::5

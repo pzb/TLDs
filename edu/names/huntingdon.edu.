@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ablpbjcqlr8bcs2e9bkaqhmuc5nr6b1j.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711233136 20160704222136 15617 edu. KWMYSSA2hDatP6qvq2kQ0TKWBTpnJnUgxptbIXAoGdt2SHWk6yJI7le64F+bbfPXjs6BY7BIH8BsxEZv53WpzwNLmtObJ/kou8sI2sLmE4waefAPxpnz7cLkS0zLG6MTSJ0+Tz8WZS/ZiJZrNfMDjhubK3nYbIC07FV5+hmnfCA=
+ablpbjcqlr8bcs2e9bkaqhmuc5nr6b1j.edu.	86400	IN	NSEC3	1 1 0 -  aceq03jr08ego0rqj7gc8nodtgoivoi7 NS DS RRSIG 
+huntingdon.edu.	172800	IN	NS	ns1.huntingdon.edu.
+huntingdon.edu.	172800	IN	NS	ns2.huntingdon.edu.
+ns1.huntingdon.edu.	172800	IN	A	216.186.205.2
+ns2.huntingdon.edu.	172800	IN	A	216.186.206.2

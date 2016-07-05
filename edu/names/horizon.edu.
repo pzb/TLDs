@@ -1,0 +1,8 @@
+ns1.secureflow.com.	172800	IN	A	192.238.14.171
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+horizon.edu.	172800	IN	NS	ns1.secureflow.com.
+horizon.edu.	172800	IN	NS	jonah.horizon.edu.
+jonah.horizon.edu.	172800	IN	A	207.195.37.238
+maaarbq2tds5289pouao4u8mabu6j588.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712002035 20160704231035 15617 edu. bF23xabWthJlgLSPKY9NMNvbMAYEuXb4YA8i6pyTjadiO1WIAjj7jbtHkoNR0dtl7UrlnTvpuDEWlBO/wku4O1yEZdUQwyPSEH3DsFlUrIAPl/b2hWswUnTwHvCjuOXzQ+z3j0qXj1f9wbnMpd1V+SZKBXOd1eHYVkS/ddek4ys=
+maaarbq2tds5289pouao4u8mabu6j588.edu.	86400	IN	NSEC3	1 1 0 -  mdkpsgl4no21i73n1tf523sm13qp4gj2 NS DS RRSIG 

@@ -1,0 +1,17 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+lkkok9p539dranog9ttc7nqnsvtcnv4v.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711193324 20160704182324 15617 edu. 3Jvy7jjyTVrNInXScSjfXNulVqE5K7UOg8r7SBYgXxSxdsNQK5qf/oqgBOiCooo6G6kH0oCLFJus/Xa24sRMGEjnhM66HgWDt542icySjxZzv2K8zf5rEit98+Rld0w+wO7Scit/1fxjdaTcNqpXHBR39rMI70X4VyTRXpQUGys=
+lkkok9p539dranog9ttc7nqnsvtcnv4v.edu.	86400	IN	NSEC3	1 1 0 -  ln2n7g0g8fctraokaa76srur38qapeqb NS DS RRSIG 
+t-bird.edu.	172800	IN	NS	a1-63.akam.net.
+t-bird.edu.	172800	IN	NS	a4-67.akam.net.
+t-bird.edu.	172800	IN	NS	a7-64.akam.net.
+t-bird.edu.	172800	IN	NS	a10-64.akam.net.
+t-bird.edu.	172800	IN	NS	a11-65.akam.net.
+t-bird.edu.	172800	IN	NS	a22-66.akam.net.
+a1-63.akam.net.	172800	IN	A	193.108.91.63
+a1-63.akam.net.	172800	IN	AAAA	2600:1401:2::3f
+a10-64.akam.net.	172800	IN	A	96.7.50.64
+a11-65.akam.net.	172800	IN	A	84.53.139.65
+a22-66.akam.net.	172800	IN	A	23.211.61.66
+a4-67.akam.net.	172800	IN	A	72.246.46.67
+a7-64.akam.net.	172800	IN	A	23.61.199.64

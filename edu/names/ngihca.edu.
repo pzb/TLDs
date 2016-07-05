@@ -1,0 +1,16 @@
+ns0.dnsmadeeasy.com.	172800	IN	A	208.94.148.2
+ns1.dnsmadeeasy.com.	172800	IN	A	208.80.124.2
+ns2.dnsmadeeasy.com.	172800	IN	A	208.80.126.2
+ns3.dnsmadeeasy.com.	172800	IN	A	208.80.125.2
+ns3.dnsmadeeasy.com.	172800	IN	AAAA	2600:1801:3::1
+ns4.dnsmadeeasy.com.	172800	IN	A	208.80.127.2
+ns4.dnsmadeeasy.com.	172800	IN	AAAA	2600:1802:4::1
+515h42qgie56p03vodd7j6jd9dp1v8kb.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711201247 20160704190247 15617 edu. OKKjqYmCvl3ELkHc9bY2xKjQMvcuXTAk87c4r+LjO4HilkES8UYcpN17p+fUMvcrBYgCJYYvIIMGr1dyvOb30jZUrFRTlPTFZAy8OA6/Xene9jaCHp2O+w3DBu81YEcDChAzgAbeRPBsMpAlVR1PDacC2DcLVPkDhYQtBBI2IPQ=
+515h42qgie56p03vodd7j6jd9dp1v8kb.edu.	86400	IN	NSEC3	1 1 0 -  52qldbtqjd60mtclot094645gq6voc3g NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ngihca.edu.	172800	IN	NS	ns0.dnsmadeeasy.com.
+ngihca.edu.	172800	IN	NS	ns1.dnsmadeeasy.com.
+ngihca.edu.	172800	IN	NS	ns2.dnsmadeeasy.com.
+ngihca.edu.	172800	IN	NS	ns3.dnsmadeeasy.com.
+ngihca.edu.	172800	IN	NS	ns4.dnsmadeeasy.com.

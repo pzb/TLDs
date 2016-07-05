@@ -1,0 +1,10 @@
+ns-us.1and1-dns.com.	172800	IN	A	217.160.82.2
+ns-us.1and1-dns.com.	172800	IN	AAAA	2001:8d8:fe:53:0:d9a0:5202:100
+1c4e6pitehsgaapvqgjtgan7u0rr055b.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160708052030 20160701041030 15617 edu. q16gQHm9r9bh6Yd5Rokb+mJtGebHg5Hw33L5o7zsbu9RADIqAw6z8O3bN7AVm3tfQCGpw+RnDsgLpJhXZ/l/zZAIAO4b4k9uTuOGXN9zyFQjcKTxNIhTexVkPkxe1NLfmKMvYTonk/GjX1sTUImER2wC6dPLPy3QPC9tpxJflqY=
+1c4e6pitehsgaapvqgjtgan7u0rr055b.edu.	86400	IN	NSEC3	1 1 0 -  1ce5t73o5r8b0nh9ba3fph4u3g2o0uln NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+cuim.edu.	172800	IN	NS	ns-us.1and1-dns.de.
+cuim.edu.	172800	IN	NS	ns-us.1and1-dns.us.
+cuim.edu.	172800	IN	NS	ns-us.1and1-dns.com.
+cuim.edu.	172800	IN	NS	ns-us.1and1-dns.org.

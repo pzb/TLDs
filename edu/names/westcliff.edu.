@@ -1,0 +1,12 @@
+7t8ujgatgssvqvhr1aeo5ratv0pvinfk.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712033623 20160705022623 15617 edu. cLaFIarPzpwl7y7YZ8gRgfVQGm3s5dVmyd0xI+CDhpqEs9wcbejdk7ADpIzvckLD2P3a/8MNJeCOWre8rT6LY2AXIy8pKQ97xiH+fomMcqVvwDNeGSXHkUZ7OtTlt6ZKWzaTcAfaXfLkEYMU7/a/LU6yjVUfKZBEGOqsVZ/j0Ew=
+7t8ujgatgssvqvhr1aeo5ratv0pvinfk.edu.	86400	IN	NSEC3	1 1 0 -  7upnqdvfl3sk386khufu9jrgkq8hj9n4 NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+westcliff.edu.	172800	IN	NS	ns1.westcliff.edu.
+westcliff.edu.	172800	IN	NS	ns2.westcliff.edu.
+westcliff.edu.	172800	IN	NS	ns3.westcliff.edu.
+westcliff.edu.	172800	IN	NS	ns4.westcliff.edu.
+ns1.westcliff.edu.	172800	IN	A	192.169.215.109
+ns2.westcliff.edu.	172800	IN	A	192.169.215.109
+ns3.westcliff.edu.	172800	IN	A	192.169.215.109
+ns4.westcliff.edu.	172800	IN	A	192.169.215.109

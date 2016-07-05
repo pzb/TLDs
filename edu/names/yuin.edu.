@@ -1,0 +1,8 @@
+ns25.domaincontrol.com.	172800	IN	A	216.69.185.13
+ns26.domaincontrol.com.	172800	IN	A	208.109.255.13
+0v1dhvefip55qa8gecjvlnjrp1mvli3r.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712014026 20160705003026 15617 edu. VKx+lM5pIqoJ7BjLhHeppZ1YzwePohw3pD0U0+uAHft+m/cW0RWZd4lD7f2J3aaJw7z5mWjj3Sqv6ruApUnThBOhW75jjCndDqYoz+kmirjSJGLhaUqJ8qItpW/8NuQrMfJ7+r1ojzQW6uuTRLW/DPLFC/su4o9q2rVkr4126Ts=
+0v1dhvefip55qa8gecjvlnjrp1mvli3r.edu.	86400	IN	NSEC3	1 1 0 -  10o3ht46k340gp00a38miqua5ckq7rta NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+yuin.edu.	172800	IN	NS	ns25.domaincontrol.com.
+yuin.edu.	172800	IN	NS	ns26.domaincontrol.com.

@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+mrscptfa30ur5euh9nas55bqefkfdfdm.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. iVcdtdmzi/sV5+coF4XWFVX9uZ+0OrRcpAvvTCa1ZWpkXrY2EjQ2C8By0fFoCaRV6AUqIxLNdG632UhKTG3wza79DBJjH3O6RR7gZ/wNaZ/Kg18AFhg8/wWH0yia3Qi3xMdOQJjh2pc6MmbWPgNI3FF6IUwmzOuvxxKPGPtRBI8=
+mrscptfa30ur5euh9nas55bqefkfdfdm.edu.	86400	IN	NSEC3	1 1 0 -  mtj75hlgebrhk71842bv5didse4rdul4 NS DS RRSIG 
+rets.edu.	172800	IN	NS	ns1.pointclick.net.
+rets.edu.	172800	IN	NS	ns2.pointclick.net.
+rets.edu.	172800	IN	NS	ns3.pointclick.net.
+ns1.pointclick.net.	172800	IN	A	74.213.145.125
+ns2.pointclick.net.	172800	IN	A	50.59.102.60
+ns3.pointclick.net.	172800	IN	A	74.213.145.83

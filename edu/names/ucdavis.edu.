@@ -1,0 +1,11 @@
+ucdavis.edu.	172800	IN	NS	dns-one.ucdavis.edu.
+ucdavis.edu.	172800	IN	NS	dns-two.ucdavis.edu.
+ucdavis.edu.	172800	IN	NS	dns-three.ucdavis.edu.
+ucdavis.edu.	86400	IN	DS	25357 8 2 9b02c515382c7d81333dbfb3e7a845c83c9e8bb2545b5ff59d4414460cb19d87
+ucdavis.edu.	86400	IN	RRSIG	DS 8 2 86400 20160709051627 20160702040627 15617 edu. Z3AUTmmNnnJmHV4X1ZytTJ6voXSBUNMEYdHNxcyKDaPxA16yuH6D6Z/ryL2Q9reJK7RIWJlq6OX7C7Y3XVJ6BfAGXLs6e9yQtOfNJSPaO+GKO7vOIhzQ1nMfVKkm/FF+BAnX3AUoLhBnWQsLl6SX+xKf+yw+81i0lhDQ6cF2GeI=
+dns-one.ucdavis.edu.	172800	IN	A	128.120.252.9
+dns-one.ucdavis.edu.	172800	IN	AAAA	2607:f810:3f0:1::1
+dns-three.ucdavis.edu.	172800	IN	A	192.82.111.197
+dns-three.ucdavis.edu.	172800	IN	AAAA	2607:f810:3f0:3::3
+dns-two.ucdavis.edu.	172800	IN	A	128.120.252.10
+dns-two.ucdavis.edu.	172800	IN	AAAA	2607:f810:3f0:2::2

@@ -1,0 +1,17 @@
+dns1.udel.edu.	172800	IN	A	128.175.13.16
+dns2.udel.edu.	172800	IN	A	128.175.13.17
+upenn.edu.	172800	IN	NS	dns1.udel.edu.
+upenn.edu.	172800	IN	NS	dns2.udel.edu.
+upenn.edu.	172800	IN	NS	adns1.upenn.edu.
+upenn.edu.	172800	IN	NS	adns2.upenn.edu.
+upenn.edu.	172800	IN	NS	adns3.upenn.edu.
+upenn.edu.	172800	IN	NS	sns-pb.isc.org.
+upenn.edu.	86400	IN	DS	18463 5 1 0c45b3d090b221e0e33bbeb5a619d89416baf197
+upenn.edu.	86400	IN	DS	18463 5 2 6003992326da06785c9e30b259750fab0960bf57054bddffdeee1188977dabb8
+upenn.edu.	86400	IN	RRSIG	DS 8 2 86400 20160708052032 20160701041032 15617 edu. sm9IN6GODtJ7wYNlLthgsdtE8MONzZWryg4zgGs6XH94rY7zdPuwmMHBDxjsAsQLw+ToP7XtyRg9TShBBHOJJi5dK9ueE4OzUJ6X/59d323H1O8WutL+Wz5RQ5g4OO/9VWAU1594vQyPuHz+oYu00gI5GuI+4KN9nG6XjQhek7Y=
+adns1.upenn.edu.	172800	IN	A	128.91.3.128
+adns1.upenn.edu.	172800	IN	AAAA	2607:f470:1001::1:a
+adns2.upenn.edu.	172800	IN	A	128.91.254.22
+adns2.upenn.edu.	172800	IN	AAAA	2607:f470:1002::2:3
+adns3.upenn.edu.	172800	IN	A	128.91.251.33
+adns3.upenn.edu.	172800	IN	AAAA	2607:f470:1003::3:c

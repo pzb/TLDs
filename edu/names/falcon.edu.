@@ -1,0 +1,6 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+falcon.edu.	172800	IN	NS	hannah.palnet.info.
+falcon.edu.	172800	IN	NS	netbox.palnet.info.
+vo7jmlrtc923tue3a46dme0r6chhjnjc.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710054045 20160703043045 15617 edu. PchMcX49izJH11BI7jQpXTqBNJ5n60Yyckf/+wYFsTnxi6J0Q97lFpzp7DvQgC4xiewDyj72J14p6nLQHZ5ahzpCBXiLg6DIqZn3btjPxhZbmvlOgg9cW5vhs1f13aTQH3pZtIXq1p0TAtL9WPt7DdIie9E9iKORYhlsd6UQMSo=
+vo7jmlrtc923tue3a46dme0r6chhjnjc.edu.	86400	IN	NSEC3	1 1 0 -  voiao6nl20gp6osftndrjmnlljmrb6t1 NS DS RRSIG 

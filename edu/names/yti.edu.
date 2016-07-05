@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+d5oe0lovln6n8f7palrokohioqcb36hp.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711150311 20160704135311 15617 edu. Y3GAqMFJjrmihhDy20ooKaBe6AJHgmf3Od7rV96bPmIlNwVKzs6TajwZs5nZkocAJUQSNBOhBJt4nnJrNJ6JnnkNPcD0VzhjImBN6nRweqtvls0MVXd5qK1xdz0sM0WM0tjoj1dAj4g+jQfy+wSfNdUZGv0sTolPdE/9u5MPjjM=
+d5oe0lovln6n8f7palrokohioqcb36hp.edu.	86400	IN	NSEC3	1 1 0 -  d7ie64j1bjlk8su547fu1ipiumtqefoh NS DS RRSIG 
+yti.edu.	172800	IN	NS	ns19a.nameservers.net.
+yti.edu.	172800	IN	NS	ns19b.nameservers.net.
+ns19a.nameservers.net.	172800	IN	A	198.170.241.140
+ns19b.nameservers.net.	172800	IN	A	198.65.95.2

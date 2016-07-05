@@ -1,0 +1,15 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ollusa.edu.	172800	IN	NS	ns2.twtelecom.net.
+ollusa.edu.	172800	IN	NS	inds1.ollusa.edu.
+ollusa.edu.	172800	IN	NS	inds2.ollusa.edu.
+ollusa.edu.	172800	IN	NS	indsun103.ollusa.edu.
+ollusa.edu.	172800	IN	NS	undsun103.ollusa.edu.
+inds1.ollusa.edu.	172800	IN	A	216.248.219.250
+inds2.ollusa.edu.	172800	IN	A	216.248.219.251
+indsun103.ollusa.edu.	172800	IN	A	216.248.213.251
+undsun103.ollusa.edu.	172800	IN	A	216.248.213.250
+tidk4mr5nl9jpaars4u76u6k94oet7ks.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710113633 20160703102633 15617 edu. KgSNCweei/Plizfa2W7yVuNsEQAqZvD9IYz62pTtrd6EkKRTVel/OBPg1J+ygkIiTngtlpL3Nxt2bDOHXLXI9Ff7Z66nihXybKS0HYQ/F9eMnqOXrBVrVlOfv3nfRXUbvqmDGBH6hkZYi5evx/prSAcdaCHBJkMh4nci6PTGzZU=
+tidk4mr5nl9jpaars4u76u6k94oet7ks.edu.	86400	IN	NSEC3	1 1 0 -  tjsockq9vm1ohtil777teg0btl802mck NS DS RRSIG 
+ns2.twtelecom.net.	172800	IN	A	64.132.94.250
+ns2.twtelecom.net.	172800	IN	AAAA	2001:4870:8000:3::5

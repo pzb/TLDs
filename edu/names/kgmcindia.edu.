@@ -1,0 +1,8 @@
+7urv1fon6tav3n9tdq60qt3pv6at010m.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051941 20160704040941 15617 edu. sQ1i/w5A5vdGlw+Ah641SNv3CcFK+aQTa8ympWsjNutk0P1o7D1D+ymskYvT54cXXpMxLQ0PmlyWu3ddDhAHSD5+qxrPboBHl1t4WDvGvMS307YQbVhWOFMfxsJoqEOMIbPx8oV28Nc2Zq5cy1hcGIqOsNtOSwxsUhCDnhkBWDA=
+7urv1fon6tav3n9tdq60qt3pv6at010m.edu.	86400	IN	NSEC3	1 1 0 -  7vaiesjhnb02puldncfh5n96qqhi7g01 NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+kgmcindia.edu.	172800	IN	NS	ns1.bh-8.webhostbox.net.
+kgmcindia.edu.	172800	IN	NS	ns2.bh-8.webhostbox.net.
+ns1.bh-8.webhostbox.net.	172800	IN	A	208.91.199.145
+ns2.bh-8.webhostbox.net.	172800	IN	A	208.91.199.145

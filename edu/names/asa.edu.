@@ -1,0 +1,13 @@
+auth1.dns.cogentco.com.	172800	IN	A	66.28.0.14
+auth1.dns.cogentco.com.	172800	IN	AAAA	2001:550:1:a::d
+auth2.dns.cogentco.com.	172800	IN	A	66.28.0.30
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+asa.edu.	172800	IN	NS	ns.asa.edu.
+asa.edu.	172800	IN	NS	ns1.asa.edu.
+asa.edu.	172800	IN	NS	auth1.dns.cogentco.com.
+asa.edu.	172800	IN	NS	auth2.dns.cogentco.com.
+ns.asa.edu.	172800	IN	A	64.115.155.202
+ns1.asa.edu.	172800	IN	A	38.121.233.122
+uavdj8aa1k0iskhaf5ri3f5if0qvl9le.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712032618 20160705021618 15617 edu. yFWjH6QsChKvxk4G0oKwB1VpGA6VukufZFznceMXYZBAvbdSRxu3fMxGeDSXDwUTBRtfYWSZS5vV13pjO1vRW/yGE93fmCijhoEdTMoJmm5u2yf/mc8C2CyTVYsgoSuT1WsHhNX4uZXfKvf2gZB+5pZrhXMYujLVhlQwTnyt7NM=
+uavdj8aa1k0iskhaf5ri3f5if0qvl9le.edu.	86400	IN	NSEC3	1 1 0 -  uc10g61c6pi13nfklh76rsfe400l8uj2 NS DS RRSIG 

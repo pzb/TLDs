@@ -1,0 +1,14 @@
+ns1.easydns.com.	172800	IN	A	64.68.192.10
+ns1.easydns.com.	172800	IN	AAAA	2001:1838:f001::10
+ns2.easydns.com.	172800	IN	A	198.41.222.254
+ns2.easydns.com.	172800	IN	AAAA	2400:cb00:2049:1::c629:defe
+remote2.easydns.com.	172800	IN	A	198.41.222.254
+remote2.easydns.com.	172800	IN	AAAA	2400:cb00:2049:1::c629:defe
+5r1d0jcscdam0fa94ss37n659n8ibtct.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711140508 20160704125508 15617 edu. dk4a/Hd5CNlkF6Tgcu5eSGoe47/YV58M5UeCHnC92Y8KJSKVl5YuRqMZCWvc5QrOQH+O9GYqEjpU4FUG5yr4CGftNbnu6ItJkYYbIXDusSSSyXmNZLbGCoi9yBlFznGkW6A4j+56svcmief6qRSDmsAA3L6sNPg53tMZVV1hiT4=
+5r1d0jcscdam0fa94ss37n659n8ibtct.edu.	86400	IN	NSEC3	1 1 0 -  5sbh24nud5isbpp06h4dp708q36bo05j NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+prairie.edu.	172800	IN	NS	ns1.easydns.com.
+prairie.edu.	172800	IN	NS	ns2.easydns.com.
+prairie.edu.	172800	IN	NS	ns3.easydns.org.
+prairie.edu.	172800	IN	NS	remote2.easydns.com.

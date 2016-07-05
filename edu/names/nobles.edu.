@@ -1,0 +1,16 @@
+1ce5t73o5r8b0nh9ba3fph4u3g2o0uln.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712022504 20160705011504 15617 edu. UPLZe3uG2CYLkSeVSgC7eIWCN8ZbswmUdSQpqyT+//+jW/FLQ9QK+/LJeJ1pAyN9Om9OIUyM6UBZVGuakaWsuG7Nr35xMOyt1fSQ6ThQwoGKP3MODUXd7oXSRyf81ZZUD9r9oOVwVolY4NgMZPtzQQEMn9Zr/ka4zQfZjjqXb7M=
+1ce5t73o5r8b0nh9ba3fph4u3g2o0uln.edu.	86400	IN	NSEC3	1 1 0 -  1ed0supbinromvimcfegkp0h36dtf973 NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+nobles.edu.	172800	IN	NS	ns1.comcastbusiness.net.
+nobles.edu.	172800	IN	NS	ns2.comcastbusiness.net.
+nobles.edu.	172800	IN	NS	ns3.comcastbusiness.net.
+nobles.edu.	172800	IN	NS	ns4.comcastbusiness.net.
+ns1.comcastbusiness.net.	172800	IN	A	69.252.250.103
+ns1.comcastbusiness.net.	172800	IN	AAAA	2001:558:fe23:8:69:252:250:103
+ns2.comcastbusiness.net.	172800	IN	A	68.87.85.132
+ns2.comcastbusiness.net.	172800	IN	AAAA	2001:558:1004:7:68:87:85:132
+ns3.comcastbusiness.net.	172800	IN	A	68.87.76.228
+ns3.comcastbusiness.net.	172800	IN	AAAA	2001:558:1014:c:68:87:76:228
+ns4.comcastbusiness.net.	172800	IN	A	68.87.68.244
+ns4.comcastbusiness.net.	172800	IN	AAAA	2001:558:100a:5:68:87:68:244

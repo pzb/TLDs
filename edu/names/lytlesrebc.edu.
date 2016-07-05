@@ -1,0 +1,19 @@
+ns1.linode.com.	172800	IN	A	162.159.27.72
+ns1.linode.com.	172800	IN	AAAA	2400:cb00:2049:1::a29f:1a63
+ns2.linode.com.	172800	IN	A	162.159.24.39
+ns2.linode.com.	172800	IN	AAAA	2400:cb00:2049:1::a29f:1827
+ns3.linode.com.	172800	IN	A	162.159.25.129
+ns3.linode.com.	172800	IN	AAAA	2400:cb00:2049:1::a29f:1981
+ns4.linode.com.	172800	IN	A	162.159.26.99
+ns4.linode.com.	172800	IN	AAAA	2400:cb00:2049:1::a29f:1b48
+ns5.linode.com.	172800	IN	A	162.159.24.25
+ns5.linode.com.	172800	IN	AAAA	2400:cb00:2049:1::a29f:1819
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+dmhl8dp2lpnj9jjpqo80d72kkq8g9qu7.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712012944 20160705001944 15617 edu. o5r4CnaEr6SCP3Nin4zfWujgtsy/xpy5OzmGYG8coOGFtTFurF54mbcOEMXh9gigdVsjJGgrVPZYBBdeKDhgFjYzMR8yNJpGPPOkYUCGWseTJZtS/+vXzwMKdF3HbVx37etR81DSc2XmcF03t4h4zIIVsp1TbYEvUn8Ncsp23PA=
+dmhl8dp2lpnj9jjpqo80d72kkq8g9qu7.edu.	86400	IN	NSEC3	1 1 0 -  dnvg5pnh44q1e02k93e38fmbjvgbbhd5 NS DS RRSIG 
+lytlesrebc.edu.	172800	IN	NS	ns1.linode.com.
+lytlesrebc.edu.	172800	IN	NS	ns2.linode.com.
+lytlesrebc.edu.	172800	IN	NS	ns3.linode.com.
+lytlesrebc.edu.	172800	IN	NS	ns4.linode.com.
+lytlesrebc.edu.	172800	IN	NS	ns5.linode.com.

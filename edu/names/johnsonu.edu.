@@ -1,0 +1,19 @@
+dns4.mtgsy.com.	172800	IN	A	178.79.133.227
+dns4.mtgsy.com.	172800	IN	AAAA	2a01:7e00::f03c:91ff:fe96:f238
+a.ns.mtgsy.com.	172800	IN	A	199.73.83.1
+a.ns.mtgsy.com.	172800	IN	AAAA	2620:1f:8000::1
+b.ns.mtgsy.com.	172800	IN	A	199.73.82.1
+b.ns.mtgsy.com.	172800	IN	AAAA	2620:1f:8002::1
+7otmj34ob2tvjlb2l90m7ka5a15q5r7c.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710053346 20160703042346 15617 edu. sZxwtfpVAxPLIu/jNDoGl1uLxt7A1GK/YTxBAbRgue8MVYhMe34b7nv7t2LiETbX2sxUk2m6iYpl0kTZmZcmkBcWRF1aYk6QaKxWAd61aBKSxJyz1vhvzzOQCdLMREDzxgTl/Xo7bWGphL0WrMF0OfuiXqCzkFTpurmCb7dW3ww=
+7otmj34ob2tvjlb2l90m7ka5a15q5r7c.edu.	86400	IN	NSEC3	1 1 0 -  7pblrk7iikc5q8ksnmvsiq3igukadtiu NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+johnsonu.edu.	172800	IN	NS	a.ns.mtgsy.com.
+johnsonu.edu.	172800	IN	NS	b.ns.mtgsy.com.
+johnsonu.edu.	172800	IN	NS	dns1.name-s.net.
+johnsonu.edu.	172800	IN	NS	dns2.name-s.net.
+johnsonu.edu.	172800	IN	NS	dns4.mtgsy.com.
+dns1.name-s.net.	172800	IN	A	37.247.49.35
+dns1.name-s.net.	172800	IN	AAAA	2a00:dcc0:eda:3749:247:49:35:1
+dns2.name-s.net.	172800	IN	A	74.207.254.12
+dns2.name-s.net.	172800	IN	AAAA	2600:3c01::f03c:91ff:feae:2404

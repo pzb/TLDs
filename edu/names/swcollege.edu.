@@ -1,0 +1,8 @@
+pdns05.domaincontrol.com.	172800	IN	A	216.69.185.52
+pdns06.domaincontrol.com.	172800	IN	A	208.109.255.52
+6goq9ttbgq9geq8nhb3dt6b261mb27ir.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710120946 20160703105946 15617 edu. Gr1DFReklDsKBOZHvQu+92/2474Xr/Xd6Q7eXSS6Iol7QYW+fbB06qZvIe6+tIH1b2XMgfYFx3hf8Ldo37YAyo258W1KFWJGtoCD5Bn9/e9Td4mQbJ+OePj0d5il8Ur9N/zP+Z5dKaKtke30JW3rSk56Ong6uuA+qAa37+fiqhk=
+6goq9ttbgq9geq8nhb3dt6b261mb27ir.edu.	86400	IN	NSEC3	1 1 0 -  6hr7e384svmiajaov2la71b0rab21fe6 NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+swcollege.edu.	172800	IN	NS	pdns05.domaincontrol.com.
+swcollege.edu.	172800	IN	NS	pdns06.domaincontrol.com.

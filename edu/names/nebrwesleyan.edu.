@@ -1,0 +1,19 @@
+1aeonn8hot90nnvt3lo934q2ku85gtsr.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711125913 20160704114913 15617 edu. XrrEnm388wn3HUWN5RStFl615T9NgVADu7AibSqzTjgMhA6dAX4cMzVyFnWx2Y3Rbn3aIrXGEnB6ZNIEEhw4YC+SX+DKHTypogB5Dm3N1bwMkvuXIDZfio0jPbkxxH6tzOLzABZWArsyYon+j48TYet3kXMzpV/2w3M6Z5nq2i0=
+1aeonn8hot90nnvt3lo934q2ku85gtsr.edu.	86400	IN	NSEC3	1 1 0 -  1btddt4pjukvfhaaltpvoth8hhti7rbo NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+dns1.illinois.edu.	172800	IN	A	130.126.2.100
+dns1.illinois.edu.	172800	IN	AAAA	2620:0:e00:b::53
+dns2.illinois.edu.	172800	IN	A	130.126.2.120
+nebrwesleyan.edu.	172800	IN	NS	dns1.illinois.edu.
+nebrwesleyan.edu.	172800	IN	NS	dns2.illinois.edu.
+nebrwesleyan.edu.	172800	IN	NS	fluffy.nebrwesleyan.edu.
+nebrwesleyan.edu.	172800	IN	NS	ns1-auth.windstream.net.
+nebrwesleyan.edu.	172800	IN	NS	ns2-auth.windstream.net.
+nebrwesleyan.edu.	172800	IN	NS	ns3-auth.windstream.net.
+nebrwesleyan.edu.	172800	IN	NS	ns4-auth.windstream.net.
+fluffy.nebrwesleyan.edu.	172800	IN	A	192.94.109.4
+ns1-auth.windstream.net.	172800	IN	A	166.102.165.17
+ns2-auth.windstream.net.	172800	IN	A	162.39.164.15
+ns3-auth.windstream.net.	172800	IN	A	207.91.5.71
+ns4-auth.windstream.net.	172800	IN	A	162.40.117.251

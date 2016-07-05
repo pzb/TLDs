@@ -1,0 +1,14 @@
+iastate.edu.	172800	IN	NS	isu.dns.northernlights.gigapop.net.
+iastate.edu.	172800	IN	NS	dns-1.iastate.edu.
+iastate.edu.	172800	IN	NS	dns-2.iastate.edu.
+iastate.edu.	86400	IN	DS	58276 8 1 d2540587f864aebace5a7f80fa3caa9a4b6ebc5b
+iastate.edu.	86400	IN	DS	58276 8 2 95e4f9da5ba4f25cf32658d6fde9108fd27a1722a37c3e14c8851c690d7fac40
+iastate.edu.	86400	IN	DS	60739 8 1 6ececb132041044714220612b0f127b6652bca00
+iastate.edu.	86400	IN	DS	60739 8 2 a66a5e71ab911c4cc2feb4a7964bf33c4dcd7f30dd3424049391a907315e9c7e
+iastate.edu.	86400	IN	RRSIG	DS 8 2 86400 20160711051942 20160704040942 15617 edu. kE590H0DRyOIx0T6Hz0YSlEpvcpuIOGJUz2Rv093NfNLsTbC1bO460naGOVmfBJ5mNtn+0a2hwQU9+suItFYWR3kPjdf12atbwK6X7AvIIDpHQBhCgoATDeK+AfDCa6/mPqkFK3MGmxEcikGDfsfFrjg/LFP235Rn4xdNDrjsM4=
+dns-1.iastate.edu.	172800	IN	A	129.186.6.249
+dns-1.iastate.edu.	172800	IN	AAAA	2610:130:101:100::249
+dns-2.iastate.edu.	172800	IN	A	129.186.88.249
+dns-2.iastate.edu.	172800	IN	AAAA	2610:130:102:e01::249
+isu.dns.northernlights.gigapop.net.	172800	IN	A	146.57.253.249
+isu.dns.northernlights.gigapop.net.	172800	IN	AAAA	2001:468:1900:ffff::1

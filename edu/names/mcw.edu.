@@ -1,0 +1,16 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+bjr2s3hp4jqlc8kpdp4flji5oj5lvlkk.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. nGX9MUQEMaYohMIEq6J/E3SmPBHZkhNXL+oSK/+bwuIh357yjr1FC7ZiByYqqilHZTCxQdHezmKGMmS4HayPPtvEk0M5+D5u1AZsJ/fdIdC8Ar1/0EltEZ2EcJHgNe+ICMdClcnHvtEWOBovwMCgqwnuT+nASbl8s9X8bNj008Y=
+bjr2s3hp4jqlc8kpdp4flji5oj5lvlkk.edu.	86400	IN	NSEC3	1 1 0 -  bkkd1vuvhf02e9avvo2o3scn7js27s57 NS DS RRSIG 
+mcw.edu.	172800	IN	NS	ns1.is.mcw.edu.
+mcw.edu.	172800	IN	NS	ns2.is.mcw.edu.
+mcw.edu.	172800	IN	NS	mcwdns1.net.mcw.edu.
+mcw.edu.	172800	IN	NS	mcwdns2.net.mcw.edu.
+mcw.edu.	172800	IN	NS	uwmdns1.uwm.edu.
+mcw.edu.	172800	IN	NS	uwmdns2.uwm.edu.
+ns1.is.mcw.edu.	172800	IN	A	141.106.97.34
+ns2.is.mcw.edu.	172800	IN	A	141.106.97.42
+mcwdns1.net.mcw.edu.	172800	IN	A	141.106.97.34
+mcwdns2.net.mcw.edu.	172800	IN	A	141.106.97.42
+uwmdns1.uwm.edu.	172800	IN	A	129.89.10.26
+uwmdns2.uwm.edu.	172800	IN	A	192.107.47.13

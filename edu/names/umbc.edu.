@@ -1,0 +1,8 @@
+umbc.edu.	172800	IN	NS	dnsexternal.umbc.edu.
+umbc.edu.	172800	IN	NS	dnsexternal1.umbc.edu.
+umbc.edu.	172800	IN	NS	dnsexternal2.umbc.edu.
+umbc.edu.	86400	IN	DS	62866 5 2 128db54504131167804e3e42e51235f5a5cc82697db90ebeabf13725dfbc1987
+umbc.edu.	86400	IN	RRSIG	DS 8 2 86400 20160708052030 20160701041030 15617 edu. tEHibZOrKv6edo7hw72Tz8QudG9JlTUGBuqwOnaX6sWuUmOBBhtF1UknNO+85wCzHHATmKQVH+m3hlfsW6DIlyGAflAbmwU8RGqBX/lSZUf2YC9R5q+XWXM/CXvRbgle4bEu37qh/rEHu0496rtITuF4tKE6zs24LvQmAJ9YqAo=
+dnsexternal.umbc.edu.	172800	IN	A	130.85.1.6
+dnsexternal1.umbc.edu.	172800	IN	A	130.85.1.9
+dnsexternal2.umbc.edu.	172800	IN	A	130.85.1.11

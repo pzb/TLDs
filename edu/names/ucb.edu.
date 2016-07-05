@@ -1,0 +1,14 @@
+adns1.berkeley.edu.	172800	IN	A	128.32.136.3
+adns2.berkeley.edu.	172800	IN	A	128.32.136.14
+aodns1.berkeley.edu.	172800	IN	A	192.35.225.133
+aodns1.berkeley.edu.	172800	IN	AAAA	2607:f010:3f8:8000:0:ff:fe00:53
+aodns2.berkeley.edu.	172800	IN	A	128.253.35.148
+ns.v6.berkeley.edu.	172800	IN	A	128.32.136.6
+ns.v6.berkeley.edu.	172800	IN	AAAA	2607:f140:ffff:fffe::6
+ucb.edu.	172800	IN	NS	ns.v6.berkeley.edu.
+ucb.edu.	172800	IN	NS	adns1.berkeley.edu.
+ucb.edu.	172800	IN	NS	adns2.berkeley.edu.
+ucb.edu.	172800	IN	NS	aodns1.berkeley.edu.
+ucb.edu.	172800	IN	NS	aodns2.berkeley.edu.
+ucb.edu.	86400	IN	DS	53514 10 2 64b0b6405e5a68d9f5d1433eb534969f1e0ad94d0959bf7a6b9f3337570663a7
+ucb.edu.	86400	IN	RRSIG	DS 8 2 86400 20160711051941 20160704040941 15617 edu. vLZLp7J3NT8PGthgmjqORiOOApoa9QVCqkhQXWBlLcWGvOa4vNegQPyYvPhuQvojnkCOh+Kbz+R/4efTemTRotw4cagE724k3oURAZawt3vd/LrcVgm8Y2I9knwDo9ayhUw2R2pka6ZTG/ltATdi5m4ypUmCwSJZq1GoJVSSsCs=

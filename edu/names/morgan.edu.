@@ -1,0 +1,15 @@
+auth1.dns.cogentco.com.	172800	IN	A	66.28.0.14
+auth1.dns.cogentco.com.	172800	IN	AAAA	2001:550:1:a::d
+auth2.dns.cogentco.com.	172800	IN	A	66.28.0.30
+5iqh2dovg5irbpg3b22p231e5s6m1dl1.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710152847 20160703141847 15617 edu. uRQ/+e70zHqHo+pDV5WjHQ8xpf/7tshE1+D6BC1jSqkQoOlVLvrC+EBlLHuMJjJBAHouqjr+7PmuLu42q++vPWgKXkVaMdBxDs/BS9oB83vsZ34XGqhv8cwh3ni9yHUDjGgOlc3ujuC+9cNhU/Z/bvr9lZXl1/rlEp7+papcH/I=
+5iqh2dovg5irbpg3b22p231e5s6m1dl1.edu.	86400	IN	NSEC3	1 1 0 -  5jgls0sj4cr8r3k4eolif5v1eaqc7ofi NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+morgan.edu.	172800	IN	NS	ns.usmd.edu.
+morgan.edu.	172800	IN	NS	dns1.morgan.edu.
+morgan.edu.	172800	IN	NS	dns2.morgan.edu.
+morgan.edu.	172800	IN	NS	auth1.dns.cogentco.com.
+morgan.edu.	172800	IN	NS	auth2.dns.cogentco.com.
+dns1.morgan.edu.	172800	IN	A	158.103.0.254
+dns2.morgan.edu.	172800	IN	A	158.103.0.253
+ns.usmd.edu.	172800	IN	A	131.118.254.1

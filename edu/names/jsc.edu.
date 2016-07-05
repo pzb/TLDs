@@ -1,0 +1,10 @@
+60dk1j4s83ncumoii9bachmm136teo23.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711133643 20160704122643 15617 edu. 015IQn3AHKk4IatCPj6Yk4gbIdRUG97ZdLneqLeJN+FU+tuDRZ3zXujrlH2WFwClYLp7ax7YFOdw28HkJQioZL/ZWbpUwzzkyh/h7N370a/RrJ0OPV2Zhl7gk7EgXWr/TAAJxBipgB5JrFiNO2sVzcgh+ZSjhYXZinze+a8jps8=
+60dk1j4s83ncumoii9bachmm136teo23.edu.	86400	IN	NSEC3	1 1 0 -  60pmt5m78prtdeqvlsugl9qp1sh4jcle NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+jsc.edu.	172800	IN	NS	maze.vsc.edu.
+jsc.edu.	172800	IN	NS	asgard.vsc.edu.
+jsc.edu.	172800	IN	NS	enigma.vsc.edu.
+asgard.vsc.edu.	172800	IN	A	155.42.6.22
+enigma.vsc.edu.	172800	IN	A	155.42.1.7
+maze.vsc.edu.	172800	IN	A	155.42.1.89

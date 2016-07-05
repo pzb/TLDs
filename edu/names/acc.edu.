@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+acc.edu.	172800	IN	NS	dns1.1sourcing.net.
+acc.edu.	172800	IN	NS	dns2.1sourcing.net.
+acc.edu.	172800	IN	NS	dns3.1sourcing.net.
+om4kf6gj75khin1803csgslejmve27ik.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712021221 20160705010221 15617 edu. kqL/mNjFSKIrWBgHqFww5dbiaj4IoWBR6hX6g4dnWUKirwoZuJ9ZhBvwlpJh3YJ+nD5LjkExkFm3iVK9v0sseUEi+4HOuJjgh1d9tWEoZOK/GhJ3m4io/W2zc0/6MoZlnESI8pvh++1/oikRXFhEXKOwoYj0qopjQSInnakN3xQ=
+om4kf6gj75khin1803csgslejmve27ik.edu.	86400	IN	NSEC3	1 1 0 -  omhj8el5f6m72d1tivj5dur3goap008c NS DS RRSIG 
+dns1.1sourcing.net.	172800	IN	A	216.154.197.124
+dns2.1sourcing.net.	172800	IN	A	198.73.0.196
+dns3.1sourcing.net.	172800	IN	A	174.47.186.4

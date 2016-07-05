@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ha60hia1mk6o0trvr225ft97t6pek2a4.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712024533 20160705013533 15617 edu. AnwfkMBZJGbIVZeXv4v84UMvI8ruGRmp+fEqLKPaL+vR7KmEZes5Tf/j/kx0q/wuO/K5rXce/fo0Vj4JcJQWYXdDuDFdyvwoDQ2SDHK/5L3Zmid56Z/axUadHCqOekeVsXb+ZX968gOMBQTiue/FLwX/qHsCsF+yqieSSyk7fg8=
+ha60hia1mk6o0trvr225ft97t6pek2a4.edu.	86400	IN	NSEC3	1 1 0 -  ha886ber9fs965gn6rndt91eoll2rn3l NS DS RRSIG 
+newgate.edu.	172800	IN	NS	ns1.discountasp.net.
+newgate.edu.	172800	IN	NS	ns2.discountasp.net.
+newgate.edu.	172800	IN	NS	ns3.discountasp.net.
+ns1.discountasp.net.	172800	IN	A	72.20.51.253
+ns2.discountasp.net.	172800	IN	A	216.177.89.10
+ns3.discountasp.net.	172800	IN	A	72.3.135.35

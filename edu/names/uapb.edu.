@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+mk82o7ndhtmhgjr7ppnk432epjevf9gq.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051943 20160704040943 15617 edu. HZwIUdNQUq2am9tXxP8eV6CiPRoDzpMET/nBLYZl/ynGCYZSwtsVcGEXHMqZp1IamZtXLpSjJ3Q5rudN/ZHYYu/xqFKhL0Je+Jwo/Qg2VvtMqLxEkToo0zPHzkVxtiEfp+Tp91WiQi3lkJiz86UEFOMbFjs6cYQnba1G/p9YNNs=
+mk82o7ndhtmhgjr7ppnk432epjevf9gq.edu.	86400	IN	NSEC3	1 1 0 -  ml6rpe4tlnisu877ntpnhfk1edqtmkma NS DS RRSIG 
+uapb.edu.	172800	IN	NS	ada310.uapb.edu.
+uapb.edu.	172800	IN	NS	passage.uark.edu.
+ada310.uapb.edu.	172800	IN	A	159.35.1.1
+passage.uark.edu.	172800	IN	A	130.184.7.103

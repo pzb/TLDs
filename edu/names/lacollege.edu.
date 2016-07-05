@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+lacollege.edu.	172800	IN	NS	ns1.kinetixinternet.net.
+lacollege.edu.	172800	IN	NS	ns2.kinetixinternet.net.
+rv8j5c75r0kn2qk5ta9517h2q6sbulvn.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711175711 20160704164711 15617 edu. VWCDLluv1z6SdgcPk6qZIFNlByBR5i2IqeVL9RO+Xd4pDRJKXtJ/Uw+1KkKPpyh8b/E3ch3PDTcKethGWsRnCVylgvqd0mrlrIFmSSA/5+jI60uV5X2u5XyajfihMrZGIzHI0ABko35XnucFh9GUD811w7GFNacW8CJ+qlXGDnU=
+rv8j5c75r0kn2qk5ta9517h2q6sbulvn.edu.	86400	IN	NSEC3	1 1 0 -  rvrsqjqfi939gkp56sls5c4bqccg7brq NS DS RRSIG 
+ns1.kinetixinternet.net.	172800	IN	A	199.38.56.2
+ns2.kinetixinternet.net.	172800	IN	A	199.38.56.4

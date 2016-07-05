@@ -1,0 +1,10 @@
+7qcekrb3gs6prm4bpbnrk3qm67l0mtgq.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709064414 20160702053414 15617 edu. Hi1yOqJ8EVsGAzFKz+LTk6diGZ6+zIloQW6qzjc1XC3oC4/sCYTCiNYWLgtpKIf8zQEWtIbWwTWcu703HKVTJ5FaL05SIOj1UjXryGGD9xC32QoTRKm3x4RmdkAEyJgsQfJ/9lUS1rb0mbidQwgTP0jvdqLmBk4s9wYP/o4+OvY=
+7qcekrb3gs6prm4bpbnrk3qm67l0mtgq.edu.	86400	IN	NSEC3	1 1 0 -  7r9rreh4gfgtj7utkkhcjrtk8l9ehea0 NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ccv.edu.	172800	IN	NS	maze.vsc.edu.
+ccv.edu.	172800	IN	NS	asgard.vsc.edu.
+ccv.edu.	172800	IN	NS	enigma.vsc.edu.
+asgard.vsc.edu.	172800	IN	A	155.42.6.22
+enigma.vsc.edu.	172800	IN	A	155.42.1.7
+maze.vsc.edu.	172800	IN	A	155.42.1.89

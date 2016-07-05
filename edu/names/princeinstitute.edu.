@@ -1,0 +1,10 @@
+11df8gqnajptr69nbm8ts6anj1lim876.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711193439 20160704182439 15617 edu. 0vj78xPbBECs5N1q6nNr0PS3ac/ao9nONwmTtACxO4Jc/K5t10Dh14ZSHRvVRG3EvwwRARap5IIwRCzlSLTxz0bcMls7+w5KbZBoLCJKk/4WrQ/WH7iFn9/iZ9goYXTfzihH1G9AdYwgck1+QMwwiBFdNCuz7blrSEpKbiyEfg0=
+11df8gqnajptr69nbm8ts6anj1lim876.edu.	86400	IN	NSEC3	1 1 0 -  124enve0viupuu7grsc8prcn2ikh0kfl NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+princeinstitute.edu.	172800	IN	NS	ns1.comcastbusiness.net.
+princeinstitute.edu.	172800	IN	NS	ns2.comcastbusiness.net.
+ns1.comcastbusiness.net.	172800	IN	A	69.252.250.103
+ns1.comcastbusiness.net.	172800	IN	AAAA	2001:558:fe23:8:69:252:250:103
+ns2.comcastbusiness.net.	172800	IN	A	68.87.85.132
+ns2.comcastbusiness.net.	172800	IN	AAAA	2001:558:1004:7:68:87:85:132

@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+sbgf91s5r05gn2dhnhrj0qjjqtgnk0e2.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711231412 20160704220412 15617 edu. B/xhNszWREcqFaLptgx28V48JElZLgJ7nPUzVz/+nSS1GbfQBLD8xX8N4bfyVSjjbWRJlfs1pkXC7OhwmnLLaNxQEDIGUXNWn4l26w2wI42rG50H7dXrMOtlb/p7Q3xPso7z9q7XUXrP1V74cxhpJd0Obg3iP3SwbBg7F9aVfsk=
+sbgf91s5r05gn2dhnhrj0qjjqtgnk0e2.edu.	86400	IN	NSEC3	1 1 0 -  scaqe4ou5n156d0npb6oa2a6iioonigk NS DS RRSIG 
+ns2.ots.utsystem.edu.	172800	IN	A	206.77.62.130
+wcjc.edu.	172800	IN	NS	ns2.ots.utsystem.edu.
+wcjc.edu.	172800	IN	NS	pioneer.wcjc.edu.
+wcjc.edu.	172800	IN	NS	pioneer1.wcjc.edu.
+pioneer.wcjc.edu.	172800	IN	A	12.97.200.242
+pioneer1.wcjc.edu.	172800	IN	A	12.97.200.242

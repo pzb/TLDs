@@ -1,0 +1,12 @@
+ns01.backupdns.com.	172800	IN	A	199.242.242.199
+0o0pso699ui8d0picnmpl8ki6oi7nuub.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712033248 20160705022248 15617 edu. 1q24zOtcwk0ay0Q2f/lJPtyX3syS3CMj/YX/L6P7nylibIWdLnGGBRuoxDSaMTuH5q3rHhNuBlUJ5a5OiG4TO59lMBEzmkaXImuyJsMK+Hzg/ANBODi4yQaDJinH4C6jOekG6jF4muXHDSeOeDuVsi/nyuxxnzbAyofLKAQuLVQ=
+0o0pso699ui8d0picnmpl8ki6oi7nuub.edu.	86400	IN	NSEC3	1 1 0 -  0v1dhvefip55qa8gecjvlnjrp1mvli3r NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+honolulu-university.edu.	172800	IN	NS	ns1.lava.net.
+honolulu-university.edu.	172800	IN	NS	ns2.lava.net.
+honolulu-university.edu.	172800	IN	NS	ns3.lava.net.
+honolulu-university.edu.	172800	IN	NS	ns01.backupdns.com.
+ns1.lava.net.	172800	IN	A	107.170.244.9
+ns2.lava.net.	172800	IN	A	192.241.175.98
+ns3.lava.net.	172800	IN	A	107.170.244.9

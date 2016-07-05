@@ -1,0 +1,12 @@
+ns1.ecacolleges.com.	172800	IN	A	68.68.244.32
+ns2.ecacolleges.com.	172800	IN	A	68.68.240.32
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+i47piv9rk6lg2dvkirfoqejc35ik5lso.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712020728 20160705005728 15617 edu. jdfFAMy8Okiqkdnt1IleJ28CpaHwEZhreteMxA+9aqdaZDFvsZZwyQdqo3ci/JES80DUNH3V6mhJ88ixxXpJDPdmS2NN8Q8HOCtnRDevtpx1M8j90zPiYTY+eHmnCDAlD8fpToiPxalVouPni0+FKgrB7VkDhgFJW99QtCOW7kQ=
+i47piv9rk6lg2dvkirfoqejc35ik5lso.edu.	86400	IN	NSEC3	1 1 0 -  i5gosm70gaod35ji6h2kdqsrgarupu8h NS DS RRSIG 
+vconline.edu.	172800	IN	NS	ns1.venturenet.net.
+vconline.edu.	172800	IN	NS	ns1.ecacolleges.com.
+vconline.edu.	172800	IN	NS	ns2.venturenet.net.
+vconline.edu.	172800	IN	NS	ns2.ecacolleges.com.
+ns1.venturenet.net.	172800	IN	A	64.79.224.2
+ns2.venturenet.net.	172800	IN	A	64.79.224.3

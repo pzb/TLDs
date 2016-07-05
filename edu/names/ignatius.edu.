@@ -1,0 +1,14 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ignatius.edu.	172800	IN	NS	auth1.ns.gin.ntt.net.
+ignatius.edu.	172800	IN	NS	auth2.ns.gin.ntt.net.
+ignatius.edu.	172800	IN	NS	auth3.ns.gin.ntt.net.
+ignatius.edu.	172800	IN	NS	auth4.ns.gin.ntt.net.
+ignatius.edu.	172800	IN	NS	auth5.ns.gin.ntt.net.
+om4kf6gj75khin1803csgslejmve27ik.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712021221 20160705010221 15617 edu. kqL/mNjFSKIrWBgHqFww5dbiaj4IoWBR6hX6g4dnWUKirwoZuJ9ZhBvwlpJh3YJ+nD5LjkExkFm3iVK9v0sseUEi+4HOuJjgh1d9tWEoZOK/GhJ3m4io/W2zc0/6MoZlnESI8pvh++1/oikRXFhEXKOwoYj0qopjQSInnakN3xQ=
+om4kf6gj75khin1803csgslejmve27ik.edu.	86400	IN	NSEC3	1 1 0 -  omhj8el5f6m72d1tivj5dur3goap008c NS DS RRSIG 
+auth1.ns.gin.ntt.net.	172800	IN	A	129.250.35.229
+auth2.ns.gin.ntt.net.	172800	IN	A	69.36.249.35
+auth3.ns.gin.ntt.net.	172800	IN	A	129.250.31.21
+auth4.ns.gin.ntt.net.	172800	IN	A	213.130.47.21
+auth5.ns.gin.ntt.net.	172800	IN	A	61.213.162.88

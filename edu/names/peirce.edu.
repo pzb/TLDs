@@ -1,0 +1,16 @@
+ns10.dnsmadeeasy.com.	172800	IN	A	208.94.148.4
+ns11.dnsmadeeasy.com.	172800	IN	A	208.80.124.4
+ns12.dnsmadeeasy.com.	172800	IN	A	208.80.126.4
+ns13.dnsmadeeasy.com.	172800	IN	A	208.80.125.4
+ns13.dnsmadeeasy.com.	172800	IN	AAAA	2600:1801:13::1
+ns14.dnsmadeeasy.com.	172800	IN	A	208.80.127.4
+ns14.dnsmadeeasy.com.	172800	IN	AAAA	2600:1802:14::1
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+fckgas5u1kgddgdc8nmi64r4bqtch6jg.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709132107 20160702121107 15617 edu. MHWNjHwdZA3YY6PSERvvUu40tRYCJTmKHLxN+ms7uwQYDQEfBkqB0KffGJteBpV9VvK35nKy0B44qvHPiQMK4BcQdjQy7csenYjFjHdXm/mOty6sj6Aun/IF1oqzdL46ePFLQ5DtFpHMCpGE6BV04zEDLJD0Z5SoKBueE8Ge8pg=
+fckgas5u1kgddgdc8nmi64r4bqtch6jg.edu.	86400	IN	NSEC3	1 1 0 -  fdh1lgpdvs49ej93q041eu2jio0rg9mv NS DS RRSIG 
+peirce.edu.	172800	IN	NS	ns10.dnsmadeeasy.com.
+peirce.edu.	172800	IN	NS	ns11.dnsmadeeasy.com.
+peirce.edu.	172800	IN	NS	ns12.dnsmadeeasy.com.
+peirce.edu.	172800	IN	NS	ns13.dnsmadeeasy.com.
+peirce.edu.	172800	IN	NS	ns14.dnsmadeeasy.com.

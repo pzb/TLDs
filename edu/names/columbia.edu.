@@ -1,0 +1,14 @@
+81qarr8cbmov5i54o5ts6mudfo7ao8kj.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711223157 20160704212157 15617 edu. hastGJp36/eSZ4M8Jl28zhEIqCb8PdGX3KXnAIsOXn3rQBnVehyjXbugUqiw5SoO47di+nQQ0JCQhuR08H8yVZP05yCvhs6a1FkaS5l62ON3LlEeoUIVmOwhakvUS0VCB7FscHnpB9bjOvSkB8kTJ7afDuwOOIZ0M6Sai3emZek=
+81qarr8cbmov5i54o5ts6mudfo7ao8kj.edu.	86400	IN	NSEC3	1 1 0 -  83943j2qioo0nn52eineciasls6g57dn NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+adns1.berkeley.edu.	172800	IN	A	128.32.136.3
+adns2.berkeley.edu.	172800	IN	A	128.32.136.14
+columbia.edu.	172800	IN	NS	ns1.lse.ac.uk.
+columbia.edu.	172800	IN	NS	dns2.itd.umich.edu.
+columbia.edu.	172800	IN	NS	adns1.berkeley.edu.
+columbia.edu.	172800	IN	NS	adns2.berkeley.edu.
+columbia.edu.	172800	IN	NS	sns-pb.isc.org.
+columbia.edu.	172800	IN	NS	ext-ns1.columbia.edu.
+ext-ns1.columbia.edu.	172800	IN	A	128.59.1.1
+dns2.itd.umich.edu.	172800	IN	A	192.12.80.222

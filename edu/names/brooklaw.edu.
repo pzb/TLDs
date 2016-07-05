@@ -1,0 +1,14 @@
+ns1161.dns.dyn.com.	172800	IN	A	208.76.58.161
+ns2146.dns.dyn.com.	172800	IN	A	208.76.59.146
+ns3196.dns.dyn.com.	172800	IN	A	208.76.60.196
+ns4151.dns.dyn.com.	172800	IN	A	208.76.61.151
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+brooklaw.edu.	172800	IN	NS	ns1.brooklaw.edu.
+brooklaw.edu.	172800	IN	NS	ns1161.dns.dyn.com.
+brooklaw.edu.	172800	IN	NS	ns2146.dns.dyn.com.
+brooklaw.edu.	172800	IN	NS	ns3196.dns.dyn.com.
+brooklaw.edu.	172800	IN	NS	ns4151.dns.dyn.com.
+ns1.brooklaw.edu.	172800	IN	A	199.102.168.168
+edfptvehbbolb42e2u8mmfshprngv0sl.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710114415 20160703103415 15617 edu. RTyGhp5BIGrIE6i0hTjONSfUaoYwB8WGZjxoSF8VXtet67CmQ8M4IZr3MV+1PIMjcP3wOYm/6IkccMwMVVKwrkqHGAWmMaBc4+ZwCl+idQioCZGa1aXIGTt20eOjjUD9l10/92DIzYdRk9RIelS9P5SXdLU3kP83NsgyUP3iRwU=
+edfptvehbbolb42e2u8mmfshprngv0sl.edu.	86400	IN	NSEC3	1 1 0 -  eedjr7ofutj4mko0p1pad4eirigr6ljl NS DS RRSIG 

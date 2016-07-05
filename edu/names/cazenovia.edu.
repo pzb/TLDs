@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+cazenovia.edu.	172800	IN	NS	cazdns01.cazenovia.edu.
+cazenovia.edu.	172800	IN	NS	cazdns02.cazenovia.edu.
+cazdns01.cazenovia.edu.	172800	IN	A	209.252.248.3
+cazdns02.cazenovia.edu.	172800	IN	A	209.252.248.4
+j2b1nn603hgovgq8ehih79mcv5hg3s4d.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711201449 20160704190449 15617 edu. VnzoAyYDrqiHX28QuMMnednvz4Kmuc+g4Q2tfL06zT7BypGI7kMnodYgxfjyD8HuNq9E6ukGbSQ0ZFELoBijscSmccrxfofMUX1nZSQBwfSC3uAPfQsnsiHNqW26wFBY6yF9ctLRk4/W9nFDGVsfXjvuq/6c0ldGEHGPkCVFlS4=
+j2b1nn603hgovgq8ehih79mcv5hg3s4d.edu.	86400	IN	NSEC3	1 1 0 -  j3krnsn3m0g0l0slv5dglkct94m5kaq2 NS DS RRSIG 

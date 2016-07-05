@@ -1,0 +1,8 @@
+ns1.bobbroadband.com.	172800	IN	A	63.250.224.50
+ns2.bobbroadband.com.	172800	IN	A	63.250.224.66
+05qcjjp5pqir4iqu70aues2tppv725rt.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051942 20160704040942 15617 edu. dNfSqmBnWX+Bnly7CuTmo6GOOGu5M7n7aWDkUwvzgSydXdJv+/9DBa5zUKl1pLsK38O7wVHiZa4PUh1p4cNMCNFvlQGXuypPR6eMtwnqk96UxKYIOXF4y0NwLw+8WnZ4H2O7/jRFCP2m0JLflVaajFuu6ap1QmCEKeEt+1e29lE=
+05qcjjp5pqir4iqu70aues2tppv725rt.edu.	86400	IN	NSEC3	1 1 0 -  061saed1jqh8ehhsh9okh1kgdm8ooivt NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ben.edu.	172800	IN	NS	ns1.bobbroadband.com.
+ben.edu.	172800	IN	NS	ns2.bobbroadband.com.

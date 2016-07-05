@@ -1,0 +1,8 @@
+ns1.fatcow.com.	172800	IN	A	65.254.254.100
+ns2.fatcow.com.	172800	IN	A	65.254.254.101
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ivv5iethgijqo6a9blu80enb61snihg3.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712024238 20160705013238 15617 edu. xOUXMHL2KZCf7bTd3l3mLRtFLphJo/XGYPWuhr5wAJfh+EPiaudZ0SS74wYAUsjBciLE85s9DtIxyu8rXNmH9j5N4tzrs420JOscclavS5sidGBlU1Itug20PklVjz6TE3ZWEzKCN2IYTtb+Fft1wWlBf13QfGI9Anutip4iBD8=
+ivv5iethgijqo6a9blu80enb61snihg3.edu.	86400	IN	NSEC3	1 1 0 -  j263jdgqlse19mclhn0od7o8nv3ngbef NS DS RRSIG 
+saintfrancis.edu.	172800	IN	NS	ns1.fatcow.com.
+saintfrancis.edu.	172800	IN	NS	ns2.fatcow.com.

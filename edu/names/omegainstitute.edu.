@@ -1,0 +1,8 @@
+ns.marltonwebhost.com.	172800	IN	A	65.109.201.16
+ns2.marltonwebhost.com.	172800	IN	A	65.109.201.77
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+odedc1ebta6er8ko4cb9mvta6jh0vpur.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709051628 20160702040628 15617 edu. z3RzATerD63PyhDbef+5xvnAQIVPG9XIV1bLaH36n/iE5qZDSBv5bmdvN3fNpnSOp2HNNqkLwNOyT1z9yjHnPBr4sAOOZUJGxGERkzVVCiNs757EmaIkVjSMYFLcWYwZ72X35WnG4k1vwB111kS063NmwqgzhXsA6dWXXpPU+nY=
+odedc1ebta6er8ko4cb9mvta6jh0vpur.edu.	86400	IN	NSEC3	1 1 0 -  oeoqphcunnvvtulcj2aj2b2l449718p9 NS DS RRSIG 
+omegainstitute.edu.	172800	IN	NS	ns.marltonwebhost.com.
+omegainstitute.edu.	172800	IN	NS	ns2.marltonwebhost.com.

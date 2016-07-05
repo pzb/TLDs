@@ -1,0 +1,8 @@
+ns18.zoneedit.com.	172800	IN	A	23.27.48.62
+ns8.zoneedit.com.	172800	IN	A	136.0.0.131
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+apts.edu.	172800	IN	NS	ns8.zoneedit.com.
+apts.edu.	172800	IN	NS	ns18.zoneedit.com.
+spc50hna17sgatpbl4d0jaknq9s7etes.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711120243 20160704105243 15617 edu. jh9rHcolA1sw08OITKQrwhVoREFfkZSv15fuPjYio1ReDbpvfdMH2QlWaFcj58XHmmOKcgJICcLiRxjR1DSOr7cOCY3Bz2daQmcSv+4iV2C0JAEkBn5vx2fJEJ+yVRSP55YHNFacwYtTGfYRilcmDsOBwixcasDSl4LlLL2vY3A=
+spc50hna17sgatpbl4d0jaknq9s7etes.edu.	86400	IN	NSEC3	1 1 0 -  sqkfrgjh4lr4otpc1qvhnh2dsfnncc9b NS DS RRSIG 

@@ -1,0 +1,8 @@
+ns.catt.com.	172800	IN	A	64.18.100.17
+ns2.catt.com.	172800	IN	A	64.18.100.18
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+covenant.edu.	172800	IN	NS	ns.catt.com.
+covenant.edu.	172800	IN	NS	ns2.catt.com.
+rrk1af7l1m4sjt76idj74j4klbgte0of.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710121017 20160703110017 15617 edu. nXnSnhGAx/0Np3pNxrpR4lxgigXPEuP3KRZNw+duiJdv4l2Y+iWUWvTI63CBYJEUc/qhwnQvLyBe+YxCaK7+7hkt6EM1l6lkSSGOfTloeb9Th/SgkVGSjhP4dUhtqXLpijURa02WXP9oWVCys8G4oIkebHxtVrsWONN1ZU5bExg=
+rrk1af7l1m4sjt76idj74j4klbgte0of.edu.	86400	IN	NSEC3	1 1 0 -  rs7laegomqci6j0gsskmdac5acfehpeh NS DS RRSIG 

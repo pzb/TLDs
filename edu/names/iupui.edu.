@@ -1,0 +1,11 @@
+dns1.illinois.edu.	172800	IN	A	130.126.2.100
+dns1.illinois.edu.	172800	IN	AAAA	2620:0:e00:b::53
+dns1.iu.edu.	172800	IN	A	134.68.220.8
+dns2.iu.edu.	172800	IN	A	129.79.1.8
+dns2.iu.edu.	172800	IN	AAAA	2001:18e8:2:8::10
+iupui.edu.	172800	IN	NS	dns1.iu.edu.
+iupui.edu.	172800	IN	NS	dns1.illinois.edu.
+iupui.edu.	172800	IN	NS	dns2.iu.edu.
+iupui.edu.	86400	IN	DS	17748 10 1 26f63d3faf9461275d851b18d8e7c154cbd0eb79
+iupui.edu.	86400	IN	DS	17748 10 2 fa5813ebf6ed83e5861c7bdb76fb079f0004c8754c6591a3fb2cb1e3341cbf03
+iupui.edu.	86400	IN	RRSIG	DS 8 2 86400 20160710053345 20160703042345 15617 edu. XNrpxUoqLHkgmp//vfp9VdCECZAfIiqk+SYSZ2hK2DRRGymW5hJhnrKaqQ2Gc8n4FloXJ+04htUwdaxl2Aevfn1bbAGMxOdnbyPBTBlKMQQn9ukeFCL3gMXFeqZt21aOTcjjSyM6KuNhoIywJHY7SFC/BqFy/j7CxnwEiObIAHA=

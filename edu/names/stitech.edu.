@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+k1strd1tpkknlm42jggelgebehs1okd5.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711233355 20160704222355 15617 edu. l3FIsJcmA4Z8JTdj0GWpfR6CTnqFjCVJN4/2ZH5ZHRnbSXfiQ6Kl7m8ZRfP9eLWSiY9tzPWYjQzG70SHfly7GX6LPjxUc5UeiGoymW/FbIz6yL9pnyoo2yH4aZrppj3Brkiy7tdoNi5ZdmJd9oX5zX7d82xHR2NtsXFSNXAF5iU=
+k1strd1tpkknlm42jggelgebehs1okd5.edu.	86400	IN	NSEC3	1 1 0 -  k2jki0qjpj5jf43qosljaen3dklah2bs NS DS RRSIG 
+darwin.mec.edu.	172800	IN	A	216.20.63.147
+freud.mec.edu.	172800	IN	A	216.20.63.145
+stitech.edu.	172800	IN	NS	freud.mec.edu.
+stitech.edu.	172800	IN	NS	darwin.mec.edu.

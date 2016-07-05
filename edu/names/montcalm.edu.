@@ -1,0 +1,13 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+montcalm.edu.	172800	IN	NS	dns1.merit.net.
+montcalm.edu.	172800	IN	NS	dns2.merit.net.
+montcalm.edu.	172800	IN	NS	dns3.merit.net.
+ush12rdq9p57pqkid5bb255lou772a4g.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160708052031 20160701041031 15617 edu. sBaagrfLpY3Fbd0fCZRCPjnmpJuBU2Cm5jGTrF6ZhpzfL5KwqZsSvF7klw8K+0LxUrDm7PEfjSANi0jWYeDdsg+qUqv3KkTooRU69pEPBtcMx5f8fVRCycIKpxMwEaub7mlWAgXCqA8s2yuswhJ7EZ2E4PcCKLLaYqkN9DLKcqw=
+ush12rdq9p57pqkid5bb255lou772a4g.edu.	86400	IN	NSEC3	1 1 0 -  ushqanuk0o5bs074ppapkcpqis82qsa5 NS DS RRSIG 
+dns1.merit.net.	172800	IN	A	198.108.1.43
+dns1.merit.net.	172800	IN	AAAA	2001:48a8:6880:1::43
+dns2.merit.net.	172800	IN	A	198.109.64.250
+dns2.merit.net.	172800	IN	AAAA	2001:48a8:6880:71::250
+dns3.merit.net.	172800	IN	A	207.75.118.150
+dns3.merit.net.	172800	IN	AAAA	2001:48a8:6880:73::150

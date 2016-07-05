@@ -1,0 +1,28 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+l7o7asm0qmjq8cu6i72s9g59cfm0tmgh.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711234142 20160704223142 15617 edu. 4ja/CJPeCxsxcpoI6PbIS0TRbg59++YOAi/Rva0GqHD0FaHBiSOW91HH2I+Vc6fOoPN1LUmIgExNxwtGmukiiQ+LhkLD8c/qUOwqYaODj5ki5/Ndq6InaUcmniC9Ji2gSZgM0IpvrRYKEDiMlqksT9/RCmjITV6jymhuRm0i2fw=
+l7o7asm0qmjq8cu6i72s9g59cfm0tmgh.edu.	86400	IN	NSEC3	1 1 0 -  lbsvbmgto0mmukakief14c8dn28v239d NS DS RRSIG 
+scuhs.edu.	172800	IN	NS	pns11.cloudns.net.
+scuhs.edu.	172800	IN	NS	pns12.cloudns.net.
+scuhs.edu.	172800	IN	NS	pns13.cloudns.net.
+scuhs.edu.	172800	IN	NS	pns14.cloudns.net.
+scuhs.edu.	172800	IN	NS	pns15.cloudns.net.
+scuhs.edu.	172800	IN	NS	pns16.cloudns.net.
+scuhs.edu.	172800	IN	NS	pns17.cloudns.net.
+scuhs.edu.	172800	IN	NS	pns18.cloudns.net.
+pns11.cloudns.net.	172800	IN	A	185.136.96.133
+pns11.cloudns.net.	172800	IN	AAAA	2a06:fb00:1::1:133
+pns12.cloudns.net.	172800	IN	A	185.136.97.133
+pns12.cloudns.net.	172800	IN	AAAA	2a06:fb00:1::2:133
+pns13.cloudns.net.	172800	IN	A	185.136.98.133
+pns13.cloudns.net.	172800	IN	AAAA	2a06:fb00:1::3:133
+pns14.cloudns.net.	172800	IN	A	185.136.99.133
+pns14.cloudns.net.	172800	IN	AAAA	2a06:fb00:1::4:133
+pns15.cloudns.net.	172800	IN	A	185.136.96.133
+pns15.cloudns.net.	172800	IN	AAAA	2a06:fb00:1::1:133
+pns16.cloudns.net.	172800	IN	A	185.136.97.133
+pns16.cloudns.net.	172800	IN	AAAA	2a06:fb00:1::2:133
+pns17.cloudns.net.	172800	IN	A	185.136.98.133
+pns17.cloudns.net.	172800	IN	AAAA	2a06:fb00:1::3:133
+pns18.cloudns.net.	172800	IN	A	185.136.99.133
+pns18.cloudns.net.	172800	IN	AAAA	2a06:fb00:1::4:133

@@ -1,0 +1,10 @@
+ns-456.awsdns-57.com.	172800	IN	A	205.251.193.200
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ag3migfieglpgtgmsvqr4af39uckel08.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710053347 20160703042347 15617 edu. YiBhj92aRwleOGwZ35HIFGNcgynMKWWBMfb/uyPuDZbQ3/UAdCeEi+SOYH3RZ1gvYEoBawPjFmyQknUxq5YB40oMrOA1LkYI0muT/5UBVOUfQq7arllKNd33c6RNdoMpjhWclgx2gz9p8zFZwJuwlm40rp1JBmOj+XnJvvi7YMw=
+ag3migfieglpgtgmsvqr4af39uckel08.edu.	86400	IN	NSEC3	1 1 0 -  agg9uuvhuacimn31io26jnuit9t79vpd NS DS RRSIG 
+keystone.edu.	172800	IN	NS	ns-456.awsdns-57.com.
+keystone.edu.	172800	IN	NS	ns-617.awsdns-13.net.
+keystone.edu.	172800	IN	NS	ns-1059.awsdns-04.org.
+keystone.edu.	172800	IN	NS	ns-1545.awsdns-01.co.uk.
+ns-617.awsdns-13.net.	172800	IN	A	205.251.194.105

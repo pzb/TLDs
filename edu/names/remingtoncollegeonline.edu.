@@ -1,0 +1,12 @@
+pdns94.ultradns.com.	172800	IN	A	156.154.64.94
+pdns94.ultradns.com.	172800	IN	AAAA	2001:502:f3ff::82
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+f76ncgthu8ikeshpfb93rna7rkga4d30.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712031948 20160705020948 15617 edu. W/RUYC4ySJHgk8lRp5YwxOMfZu6zUM4l3reQGNk/xRFHsVK+h/VdGebp0byn9of5Ap3S2ho4avBJ5hcRNGw9AjtW7q7U3vNacoqb2l15696nkykEEUyMs1g6e4d9ujfHFUHbgNnxUPlDUTXFE10P91iMyRgv6sk09Edqz4DIbTI=
+f76ncgthu8ikeshpfb93rna7rkga4d30.edu.	86400	IN	NSEC3	1 1 0 -  f8bsqi76c3u1j7oqdjbcvuipcd053t0h NS DS RRSIG 
+remingtoncollegeonline.edu.	172800	IN	NS	pdns94.ultradns.biz.
+remingtoncollegeonline.edu.	172800	IN	NS	pdns94.ultradns.com.
+remingtoncollegeonline.edu.	172800	IN	NS	pdns94.ultradns.net.
+remingtoncollegeonline.edu.	172800	IN	NS	pdns94.ultradns.org.
+pdns94.ultradns.net.	172800	IN	A	156.154.65.94
+pdns94.ultradns.net.	172800	IN	AAAA	2610:a1:1014::82

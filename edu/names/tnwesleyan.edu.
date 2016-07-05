@@ -1,0 +1,10 @@
+ns1.earthlinkbusiness.com.	172800	IN	A	64.65.208.2
+ns2.earthlinkbusiness.com.	172800	IN	A	64.65.223.2
+ns3.earthlinkbusiness.com.	172800	IN	A	64.65.196.2
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+tnwesleyan.edu.	172800	IN	NS	ns1.earthlinkbusiness.com.
+tnwesleyan.edu.	172800	IN	NS	ns2.earthlinkbusiness.com.
+tnwesleyan.edu.	172800	IN	NS	ns3.earthlinkbusiness.com.
+v5t84lbs8etnr688v323fndnhua574df.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712030017 20160705015017 15617 edu. NV439Dul4BF3yurgK6YDE/K0qsU+aH0DZIKAx4sCt9q86vsKatZ1nU/d/jlxebtkxBUjUuucGA14dX4pDuQfBSRHvbGMqRKpdI67xUp0MFCmXotvQ1FnWgYAjnbHO1NaPuF4vY3lZrGzAAoE2TeQ3G4Mh6CqzFHkGViUpPh8DCw=
+v5t84lbs8etnr688v323fndnhua574df.edu.	86400	IN	NSEC3	1 1 0 -  v7tsdfagd6hgsadbv4h0ju0aoltnjr45 NS DS RRSIG 

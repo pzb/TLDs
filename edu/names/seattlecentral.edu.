@@ -1,0 +1,10 @@
+ns-211.awsdns-26.com.	172800	IN	A	205.251.192.211
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+oqj1rvhebt0qhmtjjh1hu731l4m5vkpo.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711214307 20160704203307 15617 edu. I+gkGT7kqfn/rSxDKf1qKA3XUu+JbJuyDVwD1oUJFmIGrQpN6T73maE4TQaHGUi6hruJXfwYh8FGXE4qorB1WSiSAj6izZAKvlMlQgx/xYqVWRg4hpd7KJyAAvG0litPe/dccwno5rdRicqqko1pIfBlBkgF5I2k7kqdGOTOEEo=
+oqj1rvhebt0qhmtjjh1hu731l4m5vkpo.edu.	86400	IN	NSEC3	1 1 0 -  osncr7dueohtel6437np4dvmnqh4onmh NS DS RRSIG 
+seattlecentral.edu.	172800	IN	NS	ns-211.awsdns-26.com.
+seattlecentral.edu.	172800	IN	NS	ns-687.awsdns-21.net.
+seattlecentral.edu.	172800	IN	NS	ns-1492.awsdns-58.org.
+seattlecentral.edu.	172800	IN	NS	ns-1805.awsdns-33.co.uk.
+ns-687.awsdns-21.net.	172800	IN	A	205.251.194.175

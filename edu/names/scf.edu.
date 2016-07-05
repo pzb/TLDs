@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+m2nqq8j61pr1gjitll1adj43vm6j5r7a.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051940 20160704040940 15617 edu. xln8aWm6SozC/+yJdZ84MhOuaT3itjK1PKu0Y7yPOLVpGo5EfluZ8LsGKDq5rh/AOVXoOVZ7L3yzw57j8QPGxoNJEdQcucD73XYnfiqGcdTkQXSkBO9yQSbH096WnyMYOx1NiRFH3S0TjkmZrrEgGmGR5eShrNWoxJOSpEUHWmg=
+m2nqq8j61pr1gjitll1adj43vm6j5r7a.edu.	86400	IN	NSEC3	1 1 0 -  m346egbs3in8qm9r8gsq43u4291ldrgi NS DS RRSIG 
+scf.edu.	172800	IN	NS	scf-dns1.scf.edu.
+scf.edu.	172800	IN	NS	scf-dns2.scf.edu.
+scf.edu.	172800	IN	NS	dns-serv-1.flrnet.org.
+scf.edu.	172800	IN	NS	dns-serv-2.flrnet.org.
+scf-dns1.scf.edu.	172800	IN	A	64.56.87.18
+scf-dns2.scf.edu.	172800	IN	A	64.56.87.19

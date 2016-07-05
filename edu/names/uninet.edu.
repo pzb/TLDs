@@ -1,0 +1,11 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+m346egbs3in8qm9r8gsq43u4291ldrgi.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710112714 20160703101714 15617 edu. o8DIfyu4+X3g+vNMI5C6mtMky+PaOXF9v984Wfv8GLVBxVLc0dZsFlHEe8Zsrgd1CEG4DM6lguL1nkPG5620mRG7Z/QrOoUPsKEtphd7F1zJukGsKECsMlpufTKmswtyoFANueKm8zvtQqwdI1BDr2Mam7LYvOtZuy6wUaDuInI=
+m346egbs3in8qm9r8gsq43u4291ldrgi.edu.	86400	IN	NSEC3	1 1 0 -  m42ovg1laj0bav7eap06bnesefq97ao9 NS DS RRSIG 
+uninet.edu.	172800	IN	NS	ns.uninet.edu.
+uninet.edu.	172800	IN	NS	bio.hgy.es.
+uninet.edu.	172800	IN	NS	ubu.es.uninet.edu.
+uninet.edu.	172800	IN	NS	compendium.ar.uninet.edu.
+compendium.ar.uninet.edu.	172800	IN	A	201.251.111.66
+ubu.es.uninet.edu.	172800	IN	A	193.146.180.80
+ns.uninet.edu.	172800	IN	A	193.146.180.65

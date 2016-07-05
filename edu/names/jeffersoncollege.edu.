@@ -1,0 +1,8 @@
+barnabas.carilion.com.	172800	IN	A	12.168.121.10
+cronkite.carilion.com.	172800	IN	A	12.168.121.11
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+jeffersoncollege.edu.	172800	IN	NS	barnabas.carilion.com.
+jeffersoncollege.edu.	172800	IN	NS	cronkite.carilion.com.
+vd7u774a8q6i982vl0mb7fprkjdcf10q.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710053348 20160703042348 15617 edu. se1oGRS2D6eS+szAE4iROrEgXv+PP1YYXw1CaVzrowNMnbNhpHUKCxoYokxh7l6IuTGcQXG038iD6S0ANhAoHOXBfUArSFyfS1Ho2a1BuYWhD3glasNA/fNLkunxZTDpKmXR9YZqgRXWLxSennUuUgpOuzAUdTzec+TrlzkjCcA=
+vd7u774a8q6i982vl0mb7fprkjdcf10q.edu.	86400	IN	NSEC3	1 1 0 -  ve4p9rcj8cdghc0qauhbf2nf3n7o07jv NS DS RRSIG 

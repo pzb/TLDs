@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+bklyn.edu.	172800	IN	NS	ns1.bklyn.edu.
+bklyn.edu.	172800	IN	NS	omni.brooklyn.cuny.edu.
+bklyn.edu.	172800	IN	NS	rhino.brooklyn.cuny.edu.
+ns1.bklyn.edu.	172800	IN	A	69.38.230.151
+bo1h25tfbudga79lnru7i1etfb099orb.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709215131 20160702204131 15617 edu. BV26CpCK5dU1rs2brNM0Oz9w/fN1H7KqMluJpNftowOthl9etj8BtMNxFkBR6e8meONH4P/Ad3ycEiX3idmPeWN8uGeeh4tLSxnkSAbArVLd0FVEWClJwJKV4nzjjv5G7VNYUH/StBxqDeDfb/be+kCY6qAwATSDtr9wPSoHMiM=
+bo1h25tfbudga79lnru7i1etfb099orb.edu.	86400	IN	NSEC3	1 1 0 -  bo81r8hartcee2ddpcbec4pr776d7ir6 NS DS RRSIG 
+omni.brooklyn.cuny.edu.	172800	IN	A	146.245.2.151
+rhino.brooklyn.cuny.edu.	172800	IN	A	146.245.100.158

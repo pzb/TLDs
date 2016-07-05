@@ -1,0 +1,17 @@
+freedns1.registrar-servers.com.	172800	IN	A	72.20.53.50
+freedns2.registrar-servers.com.	172800	IN	A	72.20.38.137
+freedns3.registrar-servers.com.	172800	IN	A	5.135.128.216
+freedns3.registrar-servers.com.	172800	IN	A	62.210.149.103
+freedns4.registrar-servers.com.	172800	IN	A	62.210.149.102
+freedns4.registrar-servers.com.	172800	IN	A	72.20.53.50
+freedns5.registrar-servers.com.	172800	IN	A	72.20.53.50
+freedns5.registrar-servers.com.	172800	IN	A	192.99.40.34
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+alobq55vv686fm0dg4cnrscjlulk184e.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711035642 20160704024642 15617 edu. He2IOU3fjjPwUZVKq5fvlnxOYzyYh86996gBaazCcePPFJHBtEdiUiCJdrv5KAZMVlOUwAVdpIQXxMv8AI14i/4f+v/+SFTSf/6OqW9EOHW1gZzf79lDY/E6J1shkbZB/ZQD0GAULH/foDyJd10whxMhYGjywvmLF6XpzORX2Qw=
+alobq55vv686fm0dg4cnrscjlulk184e.edu.	86400	IN	NSEC3	1 1 0 -  amehl7oe9aug1shfmkt24g10d5204gpe NS DS RRSIG 
+cryrop.edu.	172800	IN	NS	freedns1.registrar-servers.com.
+cryrop.edu.	172800	IN	NS	freedns2.registrar-servers.com.
+cryrop.edu.	172800	IN	NS	freedns3.registrar-servers.com.
+cryrop.edu.	172800	IN	NS	freedns4.registrar-servers.com.
+cryrop.edu.	172800	IN	NS	freedns5.registrar-servers.com.

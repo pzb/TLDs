@@ -1,0 +1,16 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+q4jga8onf78esv9lpu1qaqlkd8h0uokq.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711152421 20160704141421 15617 edu. VC9YIKvmnpGLUsiTLdi1JV9FwH8wqx5wWnPXFwlLO9pA5mVqQCr6dsWhIa3Nqthd+UhOU7ts5Ld7CwDl5HFQNAzZRnEuR7eCXbBybav5VQwmj+i+kF37DHYCOcitl/TJ1af7bYEfLFiFqyxpAWnSAEaJTD04wPuRbei9pCWsvGg=
+q4jga8onf78esv9lpu1qaqlkd8h0uokq.edu.	86400	IN	NSEC3	1 1 0 -  q5ljm5pqg64cjnom0j2gj8jld3j7g1su NS DS RRSIG 
+dns2.itd.umich.edu.	172800	IN	A	192.12.80.222
+wisc.edu.	172800	IN	NS	dns2.itd.umich.edu.
+wisc.edu.	172800	IN	NS	adns1.doit.wisc.edu.
+wisc.edu.	172800	IN	NS	adns2.doit.wisc.edu.
+wisc.edu.	172800	IN	NS	adns3.doit.wisc.edu.
+adns1.doit.wisc.edu.	172800	IN	A	128.104.30.60
+adns1.doit.wisc.edu.	172800	IN	A	144.92.9.21
+adns1.doit.wisc.edu.	172800	IN	AAAA	2607:f388::a53:1
+adns2.doit.wisc.edu.	172800	IN	A	144.92.20.99
+adns2.doit.wisc.edu.	172800	IN	AAAA	2607:f388::a53:2
+adns3.doit.wisc.edu.	172800	IN	A	144.92.104.21
+adns3.doit.wisc.edu.	172800	IN	AAAA	2607:f388::a53:3

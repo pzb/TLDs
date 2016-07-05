@@ -1,0 +1,12 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+hccfl.edu.	172800	IN	NS	ns5.hccfl.edu.
+hccfl.edu.	172800	IN	NS	ns6.hccfl.edu.
+hccfl.edu.	172800	IN	NS	ns7.hccfl.edu.
+hccfl.edu.	172800	IN	NS	ns8.hccfl.edu.
+ns5.hccfl.edu.	172800	IN	A	192.35.61.35
+ns6.hccfl.edu.	172800	IN	A	192.35.61.36
+ns7.hccfl.edu.	172800	IN	A	66.193.57.16
+ns8.hccfl.edu.	172800	IN	A	66.193.57.17
+r2tuuoiul28ka79v1feqduv1arkhf0db.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051942 20160704040942 15617 edu. ZwIqQfcQROrDzmtDbYgwvh67IX9sPeK6s9E9uCIDKF9aQm9atslJasZnu5YEzouvVOZemBLifiRvXWamjWmyB+teq1jMxteZkWCQX3TQGm+K89FwSNAP7JHYZIF1h3lyVrkUwMoJzc2CqGPhlAspLQW5p1m/KGCeTXaipEFy9AQ=
+r2tuuoiul28ka79v1feqduv1arkhf0db.edu.	86400	IN	NSEC3	1 1 0 -  r3vvgnjh99fcd14cqemr5qda6anltt3e NS DS RRSIG 

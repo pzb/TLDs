@@ -1,0 +1,6 @@
+syso-svr-ns1.lctcs.edu.	172800	IN	A	76.165.120.16
+syso-svr-ns2.lctcs.edu.	172800	IN	A	76.165.210.249
+northshorecollege.edu.	172800	IN	NS	syso-svr-ns1.lctcs.edu.
+northshorecollege.edu.	172800	IN	NS	syso-svr-ns2.lctcs.edu.
+northshorecollege.edu.	86400	IN	DS	54754 5 1 ad389e273d7bcd1d02a5d6b8ab5db91b975f7bab
+northshorecollege.edu.	86400	IN	RRSIG	DS 8 2 86400 20160711051942 20160704040942 15617 edu. KgLI0gE9olBIR3Xwx7ofyOS/c5z90s+FnCO9dbWNL/yHRdiPEkCaqY5jblvdkLHUyMwL5Qf3P5RfHTDQc2zGU2on6agoMQUGqf4jyGG59JGuwN4UrAvQ6pNPrskV39fummRN7zAHrcoGzgh0GFe2RQTdtj+Gthyez5zcuIgemdA=

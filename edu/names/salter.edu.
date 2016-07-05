@@ -1,0 +1,8 @@
+mns01.domaincontrol.com.	172800	IN	A	216.69.185.31
+mns02.domaincontrol.com.	172800	IN	A	208.109.255.31
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+as404rqg2ok5qfoeqfeikpgns6fs606e.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711150835 20160704135835 15617 edu. RY8X04CBvZkny7fMepJkNHD0+izIh42hYKaM+yzg6nL00wHtOYZKMDMHpX0iMzdzrEDfzsb7dScGn65PG+FNUSSns9bytTbLWEHFZkrIO8MhEYOw8m8cGmIVRKGRO8c9L45vahqo/X8tZCPQtQhQwWvY29u3NsEnsEzvuUR7EW8=
+as404rqg2ok5qfoeqfeikpgns6fs606e.edu.	86400	IN	NSEC3	1 1 0 -  ats0vfh6iaebjlh2llrhj42ugb2hd1qo NS DS RRSIG 
+salter.edu.	172800	IN	NS	mns01.domaincontrol.com.
+salter.edu.	172800	IN	NS	mns02.domaincontrol.com.

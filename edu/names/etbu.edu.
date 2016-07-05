@@ -1,0 +1,12 @@
+1422m7fsbh7sbbvq8reql6kb82p3ovc5.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710022700 20160703011700 15617 edu. YrDS4bB9I6zUnA3OicUNRZ5SqM7S4JTFPI41Gd9cIRerhEO260qtzp9QtlMp7XaXczsEBVdbyBK9J/0QBoIHjLbErX9LO9hPoKvGC+jivWtA13PcC5JB5wIx8GUtgwFZRiXuOXNpHNXAcNGrNvMvurUkTTG4a5VaxGh4Q4eUkvk=
+1422m7fsbh7sbbvq8reql6kb82p3ovc5.edu.	86400	IN	NSEC3	1 1 0 -  1457pvjada8lcmej3veatgrs4otcejpv NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+etbu.edu.	172800	IN	NS	ns1.nwconline.net.
+etbu.edu.	172800	IN	NS	ns2.nwconline.net.
+etbu.edu.	172800	IN	NS	etbudns.etbu.edu.
+etbu.edu.	172800	IN	NS	etbudns2.etbu.edu.
+etbudns.etbu.edu.	172800	IN	A	24.204.54.100
+etbudns2.etbu.edu.	172800	IN	A	24.204.54.101
+ns1.nwconline.net.	172800	IN	A	24.204.40.2
+ns2.nwconline.net.	172800	IN	A	24.204.36.2

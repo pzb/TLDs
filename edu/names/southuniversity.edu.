@@ -1,0 +1,14 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+q1n9s3iusr9mgsoj78aa5jufv14pkb4h.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711230842 20160704215842 15617 edu. Cx1UxamX6NQOWsC8NFa/sPEgZPn6g2/5rHXtl3N6WRISpM75473gtrbFltRG8ORr8ftXbbUpFGpWyBuI4mB/1KMmiqwgd6Jejg6jlbmiQdjHC+8f0Q1sHsFJRsD2CCUKxnuRDBSaVPBG/iUAPxYBcMdA5HbdLkOHd4v+CjvQkEc=
+q1n9s3iusr9mgsoj78aa5jufv14pkb4h.edu.	86400	IN	NSEC3	1 1 0 -  q2837c7vep1tf5tftf6b4setc5bat241 NS DS RRSIG 
+southuniversity.edu.	172800	IN	NS	cbru.br.ns.els-gms.att.net.
+southuniversity.edu.	172800	IN	NS	cmtu.mt.ns.els-gms.att.net.
+southuniversity.edu.	172800	IN	NS	dbru.br.ns.els-gms.att.net.
+southuniversity.edu.	172800	IN	NS	dca-ans-01.inet.qwest.net.
+southuniversity.edu.	172800	IN	NS	svl-ans-01.inet.qwest.net.
+cbru.br.ns.els-gms.att.net.	172800	IN	A	68.94.156.132
+dbru.br.ns.els-gms.att.net.	172800	IN	A	68.94.156.134
+cmtu.mt.ns.els-gms.att.net.	172800	IN	A	99.99.99.132
+dca-ans-01.inet.qwest.net.	172800	IN	A	63.150.72.4
+svl-ans-01.inet.qwest.net.	172800	IN	A	208.44.130.120

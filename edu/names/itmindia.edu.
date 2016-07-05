@@ -1,0 +1,8 @@
+dns1.stabletransit.com.	172800	IN	A	69.20.95.4
+dns2.stabletransit.com.	172800	IN	A	65.61.188.4
+4tfs8ks7ogvsj0l2o2u16vvlkrdpq0p9.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711230803 20160704215803 15617 edu. xyCxzru2TktA7PyKulWHQgrFV4wLue+yLznA01xuEPJeLEWfI+kxnm7BGCmCOKXlR2STNdk8wNeHqWeN7wZiCh8JCD7Oe5a/aMomHthhiI/8/zS/PMqXab0ZJKz4oV/XPLypeB7xdbKv0CaCP2/4xk1s5j2gDWwwYDq0+nLUgR0=
+4tfs8ks7ogvsj0l2o2u16vvlkrdpq0p9.edu.	86400	IN	NSEC3	1 1 0 -  50df41j914pdis3js45u18p2l48j7dml NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+itmindia.edu.	172800	IN	NS	dns1.stabletransit.com.
+itmindia.edu.	172800	IN	NS	dns2.stabletransit.com.

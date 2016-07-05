@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+rs7laegomqci6j0gsskmdac5acfehpeh.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710132353 20160703121353 15617 edu. qus4TZh+DldS92Hx0BvfHhhmJ5T7xiAzJ8jXD8ugicc8oVW+Btg1bUaKH7hs+wE51GI08EUDtY2+SRd/fRXtyM39tiu3o7QizLQduBu5bj68+sovYIhYVpieBGEWGQg0V5D1u6uX+tA8xxvBzi61pfQ7gjZiY/OeGDvvg7Zuc4I=
+rs7laegomqci6j0gsskmdac5acfehpeh.edu.	86400	IN	NSEC3	1 1 0 -  rslhmtb5e32jpp1em2mpjipk2iqf88mc NS DS RRSIG 
+uncecs.edu.	172800	IN	NS	ns1.uncecs.edu.
+uncecs.edu.	172800	IN	NS	ns2.uncecs.edu.
+uncecs.edu.	172800	IN	NS	ns3.uncecs.edu.
+ns1.uncecs.edu.	172800	IN	A	152.4.221.2
+ns2.uncecs.edu.	172800	IN	A	152.4.221.3
+ns3.uncecs.edu.	172800	IN	A	152.4.173.2

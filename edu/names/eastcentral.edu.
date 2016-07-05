@@ -1,0 +1,11 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+b80kvv2f57gp9i4ntq6q4lujcmtp5n49.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711174912 20160704163912 15617 edu. R3J+oXPHEcdiltPjqEUkRzZfv8iNLrRL/NgBwmxroWEtsFC9gd2ZThocRYkruGVEBNiryGNVLADqP4L/Clm0E4VydHUmoQ9fEmvC5cAlI3MfLQRMeo2IXPV5J3MfyrkhWwZf4epgg3TdhpcHPWxieVFNkzbKiNag4lpLFPDAF88=
+b80kvv2f57gp9i4ntq6q4lujcmtp5n49.edu.	86400	IN	NSEC3	1 1 0 -  b8lvss2ih9degafv13edbhkfrlar270j NS DS RRSIG 
+eastcentral.edu.	172800	IN	NS	argus.more.net.
+eastcentral.edu.	172800	IN	NS	intra.eastcentral.edu.
+eastcentral.edu.	172800	IN	NS	ecmail.eastcentral.edu.
+ecmail.eastcentral.edu.	172800	IN	A	12.29.17.2
+intra.eastcentral.edu.	172800	IN	A	12.29.17.16
+argus.more.net.	172800	IN	A	150.199.1.11
+argus.more.net.	172800	IN	AAAA	2610:e0:1:1:150:199:1:11

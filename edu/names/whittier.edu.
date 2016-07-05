@@ -1,0 +1,15 @@
+auth1.dns.cogentco.com.	172800	IN	A	66.28.0.14
+auth1.dns.cogentco.com.	172800	IN	AAAA	2001:550:1:a::d
+auth2.dns.cogentco.com.	172800	IN	A	66.28.0.30
+whittier.edu.	172800	IN	NS	ns1.whittier.edu.
+whittier.edu.	172800	IN	NS	auth1.dns.cogentco.com.
+whittier.edu.	172800	IN	NS	auth2.dns.cogentco.com.
+whittier.edu.	172800	IN	NS	ns2-auth.sprintlink.net.
+whittier.edu.	172800	IN	NS	ns3-auth.sprintlink.net.
+whittier.edu.	86400	IN	DS	16404 10 2 590c9430cb56031f77d9b3af4c50633587422e914ca07f9808a0c3dada645878
+whittier.edu.	86400	IN	RRSIG	DS 8 2 86400 20160711051942 20160704040942 15617 edu. JoH76HAtcvofev1lr5CyR117KGLNvsbX+V+zywkxafYnrZdr8sGDWp7qHOLrW6zfKkz0Wp6QwdvFYSrYTtP2+LApeuqSQit9swTtRlMzxhp0fuDQSQcpWcHZxNRuxyFVPbtd9f4nGYwX/dbtVyew7zG0B9pirVIUwReYy71UVyE=
+ns1.whittier.edu.	172800	IN	A	192.160.216.27
+ns2-auth.sprintlink.net.	172800	IN	A	144.228.254.10
+ns2-auth.sprintlink.net.	172800	IN	AAAA	2600::a2
+ns3-auth.sprintlink.net.	172800	IN	A	144.228.255.10
+ns3-auth.sprintlink.net.	172800	IN	AAAA	2600::a3

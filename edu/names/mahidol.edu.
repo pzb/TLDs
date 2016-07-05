@@ -1,0 +1,7 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+efjua8m02qs1ttte6mrgmi6dvtg5juea.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712031039 20160705020039 15617 edu. i2H6gWX1bQgKlfglJkjkcXehm4d34GK4WjrI0hDjw04M2GW4qPOP/zm7cBzD97k8jT0J6gjxqcdAlaiT1BZMOfp8gb2YTblK7NZGMmkhsCE9n027/pBP8BGsKg3E/tTWvAnSW5086a7cD6rOFJIgYaIcUq6Vo9kIHdG4sfZeBGM=
+efjua8m02qs1ttte6mrgmi6dvtg5juea.edu.	86400	IN	NSEC3	1 1 0 -  egtn46gdl62as21ii5tgq71tkk5pk58k NS DS RRSIG 
+mahidol.edu.	172800	IN	NS	dns1.mahidol.ac.th.
+mahidol.edu.	172800	IN	NS	dns2.mahidol.ac.th.
+mahidol.edu.	172800	IN	NS	dns3.mahidol.ac.th.

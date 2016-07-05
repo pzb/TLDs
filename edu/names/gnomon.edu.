@@ -1,0 +1,10 @@
+ns-360.awsdns-45.com.	172800	IN	A	205.251.193.104
+2b8q8bst1u37feind29ufumdv2si1ai3.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709051628 20160702040628 15617 edu. I2UKTnjN82DRsM37EP9Sbo6XVNjP5oLa2OOlRcb/+YrELtOp7mjJBNqk72L57P6QzJS0bHE4frKmLxH0C/K/2gplBP2/GyTyqlPyKjHBMyhOrvusuesBx6m+0nabbJTOORnqJYlwjdZMN4kwfUffjSvs1KPduSsXHkPIM+YdhDs=
+2b8q8bst1u37feind29ufumdv2si1ai3.edu.	86400	IN	NSEC3	1 1 0 -  2bitv8r7f2uqjkujjqc0eo0v2h3h2vts NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+gnomon.edu.	172800	IN	NS	ns-360.awsdns-45.com.
+gnomon.edu.	172800	IN	NS	ns-1008.awsdns-62.net.
+gnomon.edu.	172800	IN	NS	ns-1196.awsdns-21.org.
+gnomon.edu.	172800	IN	NS	ns-1657.awsdns-15.co.uk.
+ns-1008.awsdns-62.net.	172800	IN	A	205.251.195.240

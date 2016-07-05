@@ -1,0 +1,12 @@
+5stv4pit86j8o0f6cj0oa20v8pla5je7.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712014127 20160705003127 15617 edu. D6DtGgcRaVZdSOcN2ufvEMDa/NWG52/0R1kwGyZZdyAKU49HOvw+G/6CDkqzkSiOICK6yoGK3GGvF6A4A/sTvvR+O818MXRfSEnyIrN2HeDQFm+FzBBdM6bkIQT1U2cP6HOdFlQCbhFjC4i26dYaLzfw+e9N+Z/ELCQi2QhXU8E=
+5stv4pit86j8o0f6cj0oa20v8pla5je7.edu.	86400	IN	NSEC3	1 1 0 -  60dk1j4s83ncumoii9bachmm136teo23 NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+dns1.gatech.edu.	172800	IN	A	128.61.244.253
+dns2.gatech.edu.	172800	IN	A	130.207.244.81
+dns3.gatech.edu.	172800	IN	A	168.24.2.35
+heath.dpo.uab.edu.	172800	IN	A	138.26.1.2
+uabmc.edu.	172800	IN	NS	dns1.gatech.edu.
+uabmc.edu.	172800	IN	NS	dns2.gatech.edu.
+uabmc.edu.	172800	IN	NS	dns3.gatech.edu.
+uabmc.edu.	172800	IN	NS	heath.dpo.uab.edu.

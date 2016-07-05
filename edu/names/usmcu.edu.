@@ -1,0 +1,13 @@
+usmcu.edu.	172800	IN	NS	mcugrcser99010.grc.usmcu.edu.
+usmcu.edu.	172800	IN	NS	mcugrcser99010.usmcu.edu.
+usmcu.edu.	172800	IN	NS	mcugrcser99033.grc.usmcu.edu.
+usmcu.edu.	172800	IN	NS	mcugrcser99033.usmcu.edu.
+usmcu.edu.	86400	IN	DS	25119 7 1 07610322f11fc54768e0473b3a558fa18b3e8938
+usmcu.edu.	86400	IN	DS	25119 7 2 756e268eb382c241b7f31c73a197edfe611e80b4db4a29543ca0983f78c66996
+usmcu.edu.	86400	IN	DS	50799 7 1 bb49fffdab13171abfb34dd14a131417550dd2f7
+usmcu.edu.	86400	IN	DS	50799 7 2 3bced75cb90a37033bbee5456c58bdd2ef16fe1f98bb4ec628cfa8cfc70747dd
+usmcu.edu.	86400	IN	RRSIG	DS 8 2 86400 20160709051628 20160702040628 15617 edu. dXERc30AysR10VeNzzRYFCy4sP4xBqI4ml3BygcgI/CkcxrkKlx/ajB0TQi6XYS1JFXKc3f81UzIyriSvzW6lWeS4eyf4oY/5bMSGVhdDjxHDOCstZ6QhZi90IE1SheKF5kRJYME+g8AbAZ0jztDFM5/FeMp0sG77SESvkjYrpc=
+mcugrcser99010.grc.usmcu.edu.	172800	IN	A	184.185.138.126
+mcugrcser99033.grc.usmcu.edu.	172800	IN	A	184.185.138.119
+mcugrcser99010.usmcu.edu.	172800	IN	A	184.185.138.126
+mcugrcser99033.usmcu.edu.	172800	IN	A	184.185.138.119

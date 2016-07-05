@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+g3nt9h7c0svp9k7vu8ou5u2fg3g4aofr.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712023435 20160705012435 15617 edu. c6JHKWEA3H490diLtUPcm9flpR1zlMjYnfgjmAHk+8UzZAcbyyzNIon4C6QNc9Jpwvulvzrlr8EBVU2zfDXj4qqZ5WNVZjQSpaaZEe8rLuUEsPYE0coX6EFcJKumYfz4ePpYWZiYDWLGgvDi3Gbc1zF5mhCOp1JPmUUQ+tSq1Ws=
+g3nt9h7c0svp9k7vu8ou5u2fg3g4aofr.edu.	86400	IN	NSEC3	1 1 0 -  g6pnok5md3p9nhvb7roe8nvgtiem0332 NS DS RRSIG 
+siumed.edu.	172800	IN	NS	dns1.siumed.edu.
+siumed.edu.	172800	IN	NS	dns2.siumed.edu.
+siumed.edu.	172800	IN	NS	dns3.siumed.edu.
+dns1.siumed.edu.	172800	IN	A	131.230.224.1
+dns2.siumed.edu.	172800	IN	A	131.230.224.17
+dns3.siumed.edu.	172800	IN	A	131.230.49.148

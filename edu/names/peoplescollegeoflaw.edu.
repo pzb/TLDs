@@ -1,0 +1,12 @@
+ns1.ipowerdns.com.	172800	IN	A	66.96.142.102
+ns2.ipowerdns.com.	172800	IN	A	65.254.254.138
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+i4667ha7drobisp0j03flra51t795c7k.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709051628 20160702040628 15617 edu. lA1zuip6uRBwJW/VUdZSAJWgE5oHl5KURUDpZ/+l4dyfgNjeP465T2Xt3O7SdW+Ejz0tJThAkjiI3iEivMuI96jyJ4Fm/jsKg0pOHaGwF4IB7VksrahS47P8aDUTQJuuJFcGV05Gh3N49DfWyEln006Fj/xKkBP9AbnSDBOoSqE=
+i4667ha7drobisp0j03flra51t795c7k.edu.	86400	IN	NSEC3	1 1 0 -  i47piv9rk6lg2dvkirfoqejc35ik5lso NS DS RRSIG 
+peoplescollegeoflaw.edu.	172800	IN	NS	ns1.ipowerdns.com.
+peoplescollegeoflaw.edu.	172800	IN	NS	ns1.ipowerweb.net.
+peoplescollegeoflaw.edu.	172800	IN	NS	ns2.ipowerdns.com.
+peoplescollegeoflaw.edu.	172800	IN	NS	ns2.ipowerweb.net.
+ns1.ipowerweb.net.	172800	IN	A	66.96.142.103
+ns2.ipowerweb.net.	172800	IN	A	65.254.254.139

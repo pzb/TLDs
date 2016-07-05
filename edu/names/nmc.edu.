@@ -1,0 +1,14 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+nmc.edu.	172800	IN	NS	dns.merit.net.
+nmc.edu.	172800	IN	NS	dns2.merit.net.
+nmc.edu.	172800	IN	NS	dns3.merit.net.
+nmc.edu.	172800	IN	NS	elmo.nmc.edu.
+elmo.nmc.edu.	172800	IN	A	192.88.242.208
+s1an9rek62ebj5ebhd63tbfklkifocqm.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711142905 20160704131905 15617 edu. ZYSd2VuDhJieG0S63jJIoMcKmJ1/DC7okXgQ1yI5Kj2stxWK0Fdkdz8A4EFAQ58zhVmFO6njSrhUKh/HdEbsTrvAWyYt7TYN1QsUb8t9omhvATaiMXQRs8RlklHVnjg3ftw8sAZRWmPq+NlXe5EJwU6hEyjfTKGZoUUwlH7ISKU=
+s1an9rek62ebj5ebhd63tbfklkifocqm.edu.	86400	IN	NSEC3	1 1 0 -  s1no8buve0uuejuv4pob3ua4ptpudrnr NS DS RRSIG 
+dns.merit.net.	172800	IN	A	198.108.1.43
+dns2.merit.net.	172800	IN	A	198.109.64.250
+dns2.merit.net.	172800	IN	AAAA	2001:48a8:6880:71::250
+dns3.merit.net.	172800	IN	A	207.75.118.150
+dns3.merit.net.	172800	IN	AAAA	2001:48a8:6880:73::150

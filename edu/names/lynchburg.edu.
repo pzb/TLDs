@@ -1,0 +1,14 @@
+2pbmlrla68eapprc6dgjgeo1ebcoctk2.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710053349 20160703042349 15617 edu. y51ljzQkiPclKhKA8DcSGVkXar0ir9EXEix+cjyzEstOVlRDQIXSNGYzFYfIN9QDCqTiA4x95PxiythrBiCSvjYggOxGGmuHsInik3FssVsntZLPUEo7jA4SC75sxVqMbetNrb3J95uLxyVoj/I8BH9Ku6qUc3sk+rJSg6U5Y7k=
+2pbmlrla68eapprc6dgjgeo1ebcoctk2.edu.	86400	IN	NSEC3	1 1 0 -  2prp7kn3chvobga314gp794jg9vuli66 NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+lynchburg.edu.	172800	IN	NS	avar.lynchburg.edu.
+lynchburg.edu.	172800	IN	NS	aves.lynchburg.edu.
+lynchburg.edu.	172800	IN	NS	avid.lynchburg.edu.
+lynchburg.edu.	172800	IN	NS	avow.lynchburg.edu.
+lynchburg.edu.	172800	IN	NS	avail.lynchburg.edu.
+avail.lynchburg.edu.	172800	IN	A	161.115.147.7
+avar.lynchburg.edu.	172800	IN	A	161.115.147.4
+aves.lynchburg.edu.	172800	IN	A	161.115.147.8
+avid.lynchburg.edu.	172800	IN	A	161.115.147.6
+avow.lynchburg.edu.	172800	IN	A	161.115.147.5

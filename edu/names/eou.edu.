@@ -1,0 +1,12 @@
+1aeonn8hot90nnvt3lo934q2ku85gtsr.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711125913 20160704114913 15617 edu. XrrEnm388wn3HUWN5RStFl615T9NgVADu7AibSqzTjgMhA6dAX4cMzVyFnWx2Y3Rbn3aIrXGEnB6ZNIEEhw4YC+SX+DKHTypogB5Dm3N1bwMkvuXIDZfio0jPbkxxH6tzOLzABZWArsyYon+j48TYet3kXMzpV/2w3M6Z5nq2i0=
+1aeonn8hot90nnvt3lo934q2ku85gtsr.edu.	86400	IN	NSEC3	1 1 0 -  1btddt4pjukvfhaaltpvoth8hhti7rbo NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+eou.edu.	172800	IN	NS	ns1.eou.edu.
+eou.edu.	172800	IN	NS	ns1.nero.net.
+eou.edu.	172800	IN	NS	ns2.eou.edu.
+eou.edu.	172800	IN	NS	ns2.nero.net.
+ns1.eou.edu.	172800	IN	A	140.211.60.10
+ns2.eou.edu.	172800	IN	A	140.211.50.10
+ns1.nero.net.	172800	IN	A	207.98.65.2
+ns2.nero.net.	172800	IN	A	207.98.67.19

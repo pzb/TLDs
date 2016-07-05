@@ -1,0 +1,9 @@
+auth1.dns.cogentco.com.	172800	IN	A	66.28.0.14
+auth1.dns.cogentco.com.	172800	IN	AAAA	2001:550:1:a::d
+auth2.dns.cogentco.com.	172800	IN	A	66.28.0.30
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ndmu.edu.	172800	IN	NS	auth1.dns.cogentco.com.
+ndmu.edu.	172800	IN	NS	auth2.dns.cogentco.com.
+se2vntjsjr5huodn5b44be77pjp1l4sh.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712020607 20160705005607 15617 edu. zDScBWG88iv2aKMGgAfNpRR6QNq0ZRV2WoTkiW7iizGUKO70C7twcu5dhctmkP1zy7l9sbj1r+BffSprIEmdXyB1pRPPPHc09f9VJFMhR1trmi7LnD/w9i4a1RKZHKvJeCXsr6CVDXEWGdRkXc3I9Yu/BqiSknfGXdBLn3ZNGNI=
+se2vntjsjr5huodn5b44be77pjp1l4sh.edu.	86400	IN	NSEC3	1 1 0 -  sf8uoca9rfbabr234jchkpoe1f6cf9d5 NS DS RRSIG 

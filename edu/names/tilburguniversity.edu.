@@ -1,0 +1,11 @@
+tilburguniversity.edu.	172800	IN	NS	ns1.uvt.nl.
+tilburguniversity.edu.	172800	IN	NS	ns1.zurich.surf.net.
+tilburguniversity.edu.	172800	IN	NS	ns1.surfnet.nl.
+tilburguniversity.edu.	172800	IN	NS	ns2.uvt.nl.
+tilburguniversity.edu.	86400	IN	DS	9187 8 2 49fd2f6d18f01ba901fa5a6c839fee5ba54ff23b0645400ef18b0cc62e13b356
+tilburguniversity.edu.	86400	IN	DS	31157 8 2 cd9ccc404500545e88f9d42cae7d895e15d554d7a325a32a14e74e5d3e9974a5
+tilburguniversity.edu.	86400	IN	DS	49351 8 1 789265f323af2f4869c9a14d728c0e99aa199382
+tilburguniversity.edu.	86400	IN	DS	49351 8 2 65dd98874a16d4425ecc76c11b61da52fa1f21cb2954e6ecc682d2a050cb20c6
+tilburguniversity.edu.	86400	IN	RRSIG	DS 8 2 86400 20160709051628 20160702040628 15617 edu. kCefdVCsxu+fxzDtwnG7Y6yNJz0JYAImSVfujEpqWVFF47fjypsoDLMAc0zx0psxcUnak9xqITcoCCi3yhNNHeFmqgBQCt38ScGskfe4FuTWyD1aoRgzUU2/bC7so6GSvPeCuoyan7WLzkDqXfFI6Mt5gBnP40eV0oGhBI92MHg=
+ns1.zurich.surf.net.	172800	IN	A	195.176.255.9
+ns1.zurich.surf.net.	172800	IN	AAAA	2001:620:0:9::1103

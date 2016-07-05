@@ -1,0 +1,13 @@
+auth1.dns.cogentco.com.	172800	IN	A	66.28.0.14
+auth1.dns.cogentco.com.	172800	IN	AAAA	2001:550:1:a::d
+auth2.dns.cogentco.com.	172800	IN	A	66.28.0.30
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+bcc.edu.	172800	IN	NS	auth1.dns.cogentco.com.
+bcc.edu.	172800	IN	NS	auth2.dns.cogentco.com.
+bcc.edu.	172800	IN	NS	pemns1.bcc.edu.
+bcc.edu.	172800	IN	NS	pemns2.bcc.edu.
+pemns1.bcc.edu.	172800	IN	A	198.22.129.133
+pemns2.bcc.edu.	172800	IN	A	198.22.129.145
+o90nft568pb4jroenoa5kcihtk6sa4gh.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711225235 20160704214235 15617 edu. S7TAPFwNMJEeSLb1hrCX5VA2HstRFYCVdnJJqY6qKhszu+k6D5lqGiNZ9dSOj+mVzBFBf/RGXmDPJqZgawPJ061WFksm9HEc1qQGtUJ38MGhhDwbxEVNeLWE7OjOpiX/NdLJROEyE5+zAF6pPVWLfE0JTc1vaR46soHQX89fyIM=
+o90nft568pb4jroenoa5kcihtk6sa4gh.edu.	86400	IN	NSEC3	1 1 0 -  o97cmkkdptb1akblh5b789pamu5gmnqg NS DS RRSIG 

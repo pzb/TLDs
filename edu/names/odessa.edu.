@@ -1,0 +1,6 @@
+odessa.edu.	172800	IN	NS	bullsnake.odessa.edu.
+odessa.edu.	172800	IN	NS	rattlesnake.odessa.edu.
+odessa.edu.	86400	IN	DS	42680 8 2 512b7473ff2997b8ec0f2411a7fff05c109a26c3d8cdba54d3cba1d5d9faf2eb
+odessa.edu.	86400	IN	RRSIG	DS 8 2 86400 20160710053348 20160703042348 15617 edu. 0WEayDeQV9Fo8d8ZYGHEkoy5e30D0CJ4pnSaWU3gUep0kpL8EG4I8Q4FZ0L7ZiI5+61fZN7YeXzmPGH0+Xm79sfrYDUYTjzhLYx5/qP36RvfzdABOYTAdeqTD1EW4O8xKJFxRz9sWuG6hzySoJML2MRDL5hopvRVRMoUeGDJ6+s=
+bullsnake.odessa.edu.	172800	IN	A	72.48.221.9
+rattlesnake.odessa.edu.	172800	IN	A	72.48.221.11

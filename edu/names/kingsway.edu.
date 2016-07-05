@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+kingsway.edu.	172800	IN	NS	ns3.inetu.net.
+kingsway.edu.	172800	IN	NS	ns4.inetu.net.
+r914lp93e5lmho3difbcuk4q22s7l8sn.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711163125 20160704152125 15617 edu. s+RzP4n7FokdogfhAPtTMCzF0zFbU651kEtoZGjyoBZiI2sBalK08udsYZLzYJSoCIQ2RlX0pwjF1AF4RomVfXT5GrEwxt10+kyKqaMaMOfaH1sJqKBbvEGSpstnUlSjT35IJ5SwCH/iiCX8HvJxi0hc20f/RCQEG/OrgdTaTgE=
+r914lp93e5lmho3difbcuk4q22s7l8sn.edu.	86400	IN	NSEC3	1 1 0 -  r9ke4tfh7c1n8593o32so0rbfnfmja5i NS DS RRSIG 
+ns3.inetu.net.	172800	IN	A	74.85.141.3
+ns3.inetu.net.	172800	IN	AAAA	2607:fdf8:da::a1
+ns4.inetu.net.	172800	IN	A	74.85.141.4
+ns4.inetu.net.	172800	IN	AAAA	2607:fdf8:da::a2

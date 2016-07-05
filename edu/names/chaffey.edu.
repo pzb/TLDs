@@ -1,0 +1,16 @@
+09oce2o2fa3e9d4j1fa1pq6km1irhn3f.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711204430 20160704193430 15617 edu. uCoYfEJTmkTbU+z2oE5a2vcWcxxISei6W2IO1XXn5gUwQNLdVUWPGbpPLXklmEZOWePhDg4LI0Q+m1RkK3anNXkOTGo9d6KJxQ2ysZmkjTtheIBl21R0/QInp+r4Lqy4/ZHSvI39s/BYl2QxDHnQllFEMDY54NGApUcMQkmbCzA=
+09oce2o2fa3e9d4j1fa1pq6km1irhn3f.edu.	86400	IN	NSEC3	1 1 0 -  0apefai5e9rlj7d2eubi9k3djkrll07r NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+chaffey.edu.	172800	IN	NS	ns1.chaffey.edu.
+chaffey.edu.	172800	IN	NS	ns2.chaffey.edu.
+chaffey.edu.	172800	IN	NS	ns3.chaffey.edu.
+chaffey.edu.	172800	IN	NS	ns4.chaffey.edu.
+chaffey.edu.	172800	IN	NS	ns5.chaffey.edu.
+chaffey.edu.	172800	IN	NS	ns6.chaffey.edu.
+ns1.chaffey.edu.	172800	IN	A	208.94.148.4
+ns2.chaffey.edu.	172800	IN	A	208.80.124.4
+ns3.chaffey.edu.	172800	IN	A	208.80.126.4
+ns4.chaffey.edu.	172800	IN	A	208.80.125.4
+ns5.chaffey.edu.	172800	IN	A	208.80.127.4
+ns6.chaffey.edu.	172800	IN	A	208.94.149.4

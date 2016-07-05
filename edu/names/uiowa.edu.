@@ -1,0 +1,13 @@
+uiowa.edu.	172800	IN	NS	dns1.uiowa.edu.
+uiowa.edu.	172800	IN	NS	dns2.uiowa.edu.
+uiowa.edu.	172800	IN	NS	dns3.uiowa.edu.
+uiowa.edu.	172800	IN	NS	sns-pb.isc.org.
+uiowa.edu.	86400	IN	DS	48676 8 1 b23780033bd4f796ad08bcdc28763e49a5628e19
+uiowa.edu.	86400	IN	DS	48676 8 2 37eb6abd5c7cfc144c79084b63e953c1daf868b39931e53e49e9d0b73a98aa95
+uiowa.edu.	86400	IN	RRSIG	DS 8 2 86400 20160708052034 20160701041034 15617 edu. ll2SPncbgU7RnTXchDWraW95iGuvOV6daWMJFYexeNte2kP50MdVlxvS936sELoUWPT6xJ+yeM2NdBp+b9YaBzblHiSkvk3VdN+8dwMg73D/i+PAWGlnuGytdAJ3Pgi49HRqE432bw2jBuQ3P4CNekXwKtdZ9v7hKhShCloB51U=
+dns1.uiowa.edu.	172800	IN	A	128.255.1.26
+dns1.uiowa.edu.	172800	IN	AAAA	2620:0:e50:3::10
+dns2.uiowa.edu.	172800	IN	A	128.255.64.26
+dns2.uiowa.edu.	172800	IN	AAAA	2620:0:e50:3::11
+dns3.uiowa.edu.	172800	IN	A	128.255.1.27
+dns3.uiowa.edu.	172800	IN	AAAA	2620:0:e50:3::12

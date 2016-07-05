@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+cri.edu.	172800	IN	NS	cbru.br.ns.els-gms.att.net.
+cri.edu.	172800	IN	NS	cmtu.mt.ns.els-gms.att.net.
+ooaeu71367kdk4i0ehj3sp0eii130hls.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. Jw13vQ7XgpwaakUckMY6Kplbp+nSqquiYluxV0ei9LMYkDvhohrqEeJ+DCOSgBNE9xx92x0OXBL5wxZxycqan7b0/5S4K013ncop4BZWmLA110F1h09GolAk42lLZOSyf5X57oHMy5IBMf4T5LClO0xpMn3HQ4CM8ughOtewkRs=
+ooaeu71367kdk4i0ehj3sp0eii130hls.edu.	86400	IN	NSEC3	1 1 0 -  oq02e1j72qi5f7l2ga5alvhj5uaqoqfp NS DS RRSIG 
+cbru.br.ns.els-gms.att.net.	172800	IN	A	68.94.156.132
+cmtu.mt.ns.els-gms.att.net.	172800	IN	A	99.99.99.132

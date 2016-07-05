@@ -1,0 +1,12 @@
+5lqrvl5mctdgu0tevr6lsln6kvskerce.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711053533 20160704042533 15617 edu. N+2O0FUXSt8Oy8pgiGakqKtwzzxdb2MyaAQgXiDPp8rFJikFaLkndT+oi5MU02z7uVEo/nS8JfZtH6SU9nbmfhayBtbGvPEIJFMjJ0xrQeup3gosa9XznzXaCwmUT2mi7RskmNgHmittt46CU8GFOyZTaGHRdEGePT5qyLKI5fQ=
+5lqrvl5mctdgu0tevr6lsln6kvskerce.edu.	86400	IN	NSEC3	1 1 0 -  5mi4he7vkvjf861t8bm5mrtgu81r8mdt NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+kenyon.edu.	172800	IN	NS	ns1.oar.net.
+kenyon.edu.	172800	IN	NS	ns1.kenyon.edu.
+kenyon.edu.	172800	IN	NS	ns2.oar.net.
+kenyon.edu.	172800	IN	NS	ns2.kenyon.edu.
+ns1.kenyon.edu.	172800	IN	A	138.28.1.2
+ns2.kenyon.edu.	172800	IN	A	138.28.1.3
+ns1.oar.net.	172800	IN	A	192.88.193.144
+ns2.oar.net.	172800	IN	A	192.88.195.10

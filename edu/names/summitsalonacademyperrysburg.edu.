@@ -1,0 +1,8 @@
+ns1.bluehost.com.	172800	IN	A	74.220.195.31
+ns2.bluehost.com.	172800	IN	A	69.89.16.4
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+h9loeg534eqcp4u8ei1dvnlsvo9l26gq.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712040935 20160705025935 15617 edu. i42KiMOy1kfEGfsJwlKcecYkmkKsXQTHzO4TI/jZUCe0AcQfHDBmXZmq8AaZwEb0bzuiW48B8bt21sBt2OMmxZkM86X3evBuijUBYNj9OJP6dECGkLZ1CHkVgB2FZB3rVUTYzry92gtckeIJ3BfPjRL1uaoUyOBaUnKpz7/U42I=
+h9loeg534eqcp4u8ei1dvnlsvo9l26gq.edu.	86400	IN	NSEC3	1 1 0 -  ha886ber9fs965gn6rndt91eoll2rn3l NS DS RRSIG 
+summitsalonacademyperrysburg.edu.	172800	IN	NS	ns1.bluehost.com.
+summitsalonacademyperrysburg.edu.	172800	IN	NS	ns2.bluehost.com.

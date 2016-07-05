@@ -1,0 +1,18 @@
+ns1.easydns.com.	172800	IN	A	64.68.192.10
+ns1.easydns.com.	172800	IN	AAAA	2001:1838:f001::10
+ns2.easydns.com.	172800	IN	A	198.41.222.254
+ns2.easydns.com.	172800	IN	AAAA	2400:cb00:2049:1::c629:defe
+remote1.easydns.com.	172800	IN	A	64.68.192.10
+remote2.easydns.com.	172800	IN	A	198.41.222.254
+remote2.easydns.com.	172800	IN	AAAA	2400:cb00:2049:1::c629:defe
+3p56o1m3adp26tfvi0e5515fkrp9q5np.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711200307 20160704185307 15617 edu. yUkHnKpbl6odI+8SoP7l0sN8ewLCmikssRLL3JQlmjd122ogzvlmxdX5k2wxTxirYQ3kVIP0gyyrySGWnY5QpHv8A1+kpS4VkjtrH7BaQkmGHonrFjbbnpCjWQ5LbK1AzJ+cZiXeIPCLkrHRjnsXx7la+yfXwSKrfWSBO1/0HHA=
+3p56o1m3adp26tfvi0e5515fkrp9q5np.edu.	86400	IN	NSEC3	1 1 0 -  3pl5jfvcevs6i08v0o1m4034k1qlkkip NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+degrees.edu.	172800	IN	NS	ns1.easydns.com.
+degrees.edu.	172800	IN	NS	ns2.easydns.com.
+degrees.edu.	172800	IN	NS	ns3.easydns.org.
+degrees.edu.	172800	IN	NS	ns6.easydns.net.
+degrees.edu.	172800	IN	NS	remote1.easydns.com.
+degrees.edu.	172800	IN	NS	remote2.easydns.com.
+ns6.easydns.net.	172800	IN	A	198.41.222.254

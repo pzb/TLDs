@@ -1,0 +1,8 @@
+13rc6msjktq4sbm4ilsc57rldnl39un2.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051943 20160704040943 15617 edu. MoTCz0Vj0+RxcGWPytKqK7Nb+mT11AvgH4zTe/yVWNcfb897sEsy+9B53Rfd0sNekNKdTNoRpLl57nJZjrn8trqCst6aWVp9HFnya1iQ4AoIvJFSX+dgrSUioQGEb+qnNN3qo+PawFj/d0v3QDtbUbtpHauQ49IRq4ryOS5RDu0=
+13rc6msjktq4sbm4ilsc57rldnl39un2.edu.	86400	IN	NSEC3	1 1 0 -  1422m7fsbh7sbbvq8reql6kb82p3ovc5 NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+collegeofsaintbenedict.edu.	172800	IN	NS	ns1.csbsju.edu.
+collegeofsaintbenedict.edu.	172800	IN	NS	ns2.csbsju.edu.
+ns1.csbsju.edu.	172800	IN	A	152.65.160.50
+ns2.csbsju.edu.	172800	IN	A	152.65.160.51

@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+coastal.edu.	172800	IN	NS	ns.coastal.edu.
+coastal.edu.	172800	IN	NS	chants.coastal.edu.
+chants.coastal.edu.	172800	IN	A	199.120.21.2
+ns.coastal.edu.	172800	IN	A	199.120.21.31
+ehtsq12u826u4cmbd1sbvuu9r1j46mci.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711141148 20160704130148 15617 edu. RyhqHDU1YJfEkkMNomli+bhG5q4qyxSWG4dlXZjtGZFOTgGcEGsPh08beqQHQXka7ecz5pX2vnb0pq6pp8b/olCNKJrfc3+vF9+rKNhBWVRpS8LU+d2IDDdug7EtMzYn64PebUIrg2cgw/duQkCjjNNBSqq+7ILMhiBVj7k9sdA=
+ehtsq12u826u4cmbd1sbvuu9r1j46mci.edu.	86400	IN	NSEC3	1 1 0 -  einmqeo046q3iqec4bhfqure6lfiqlaf NS DS RRSIG 

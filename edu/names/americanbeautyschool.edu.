@@ -1,0 +1,8 @@
+yns1.yahoo.com.	172800	IN	A	67.195.1.92
+yns2.yahoo.com.	172800	IN	A	98.139.247.192
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+americanbeautyschool.edu.	172800	IN	NS	yns1.yahoo.com.
+americanbeautyschool.edu.	172800	IN	NS	yns2.yahoo.com.
+n4ug1kh45o8tob1pmvm97agfsagnct0i.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712005150 20160704234150 15617 edu. 05hEBAVmJkakjxN/uE9zKpIn2Lj96XJ9PLzOfC/9fxkfBOPcstyIgvN6ETvrizGmIv3CZXgtDCc2Xriu6XBnI+CUK3KuRUOZjertltgye+Gjpu8eRExnxSmXyl+Fo1kO0VurPw36x9CiHsDcq7BM0v5jw6ezO/w6YsqcdM/AJkU=
+n4ug1kh45o8tob1pmvm97agfsagnct0i.edu.	86400	IN	NSEC3	1 1 0 -  n5s1aiotsdjsm2dl6d27gna6qvihm596 NS DS RRSIG 

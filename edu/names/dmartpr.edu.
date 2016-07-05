@@ -1,0 +1,8 @@
+ns17.domaincontrol.com.	172800	IN	A	216.69.185.9
+ns18.domaincontrol.com.	172800	IN	A	208.109.255.9
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+dmartpr.edu.	172800	IN	NS	ns17.domaincontrol.com.
+dmartpr.edu.	172800	IN	NS	ns18.domaincontrol.com.
+k2jki0qjpj5jf43qosljaen3dklah2bs.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051942 20160704040942 15617 edu. ex/QeKSKIk8d46W1KR0Sd65t4GIfZB2o7FXgDp3q8/q4W8RGjaj5mFXiR/U0x9i4iDXuRlrflYkPr+qwL8vtuYz87yarPlAas/+d1L0iI0v3JzzeDoo7o7d4nwVvApVbYeKWfeiyeL7vNCzoi9uzpgInEiZLzjn5WZMEL+sD70c=
+k2jki0qjpj5jf43qosljaen3dklah2bs.edu.	86400	IN	NSEC3	1 1 0 -  k2tvmeapmtv0oveakturvl0eedd38li6 NS DS RRSIG 

@@ -1,0 +1,8 @@
+77l7src5f8fa4qlhafmtqfrsi985f32g.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709072903 20160702061903 15617 edu. wZi7LNb//3VF+uIZ5/LRChivpmglfEmmuT/DAX4CkEkjnIvxlTXPZKDgzrhTfQUdZsy/JJqstgpOP5mxh4zbMNx6Zso1PqXFsnXLfdZo6JBZlF+Yy4PSDj2vRKB7n2UDmoWksSjIi3Bcw7oEu3aqraw/6KuLgX3WaTLlt7AFx9M=
+77l7src5f8fa4qlhafmtqfrsi985f32g.edu.	86400	IN	NSEC3	1 1 0 -  782j892t592uram64voaiioo9bml33oc NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+mnsmc.edu.	172800	IN	NS	windns1.smumn.edu.
+mnsmc.edu.	172800	IN	NS	windns2.smumn.edu.
+windns1.smumn.edu.	172800	IN	A	140.190.136.4
+windns2.smumn.edu.	172800	IN	A	140.190.136.5

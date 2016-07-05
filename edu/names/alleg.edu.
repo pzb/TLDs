@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+alleg.edu.	172800	IN	NS	amdns1.allegheny.edu.
+alleg.edu.	172800	IN	NS	asdns1.allegheny.edu.
+amdns1.allegheny.edu.	172800	IN	A	141.195.5.14
+asdns1.allegheny.edu.	172800	IN	A	141.195.5.10
+tnfeng0soku2voaptbeknpm6q45hgclb.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711185716 20160704174716 15617 edu. ScX5qtl/WiAgCAu1WFP4sNKH+ARZ1vxcxpU/BvzlxjdW3ZbawRlqcnR03QjXd3Te4gl8rQ9H2qqflmo3HE8Z/QDWFzBhbxswGkYvqZz0Ly3Bi+47rAnKAbNtyeWN7xffTEcU2DKxcdD2aTkTZTNupnEHOahBzuH76b5VTMdCzr0=
+tnfeng0soku2voaptbeknpm6q45hgclb.edu.	86400	IN	NSEC3	1 1 0 -  tppe7nfos6lu6f1sa758l5q6nsdajbu8 NS DS RRSIG 

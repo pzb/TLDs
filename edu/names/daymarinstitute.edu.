@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+daymarinstitute.edu.	172800	IN	NS	ns1.daymarinstitute.edu.
+daymarinstitute.edu.	172800	IN	NS	ns2.daymarinstitute.edu.
+ns1.daymarinstitute.edu.	172800	IN	A	208.47.92.185
+ns2.daymarinstitute.edu.	172800	IN	A	40.143.155.1
+p5b96g2clmviovmjpcoj6hc35i6ucklj.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712033505 20160705022505 15617 edu. Wss1J16n+qJ9nLOFu697EB1aCCkEpr6Ik+kmuP+Ik8VJVtIeyusPUmucyFYi1qQ2B0g8tKHjv210+lwF/BofJuUEkdXum8/SfP02wppII8Z4rbLPqNbLJ8la/+5mrqnQCs4DI8Y60W0BgJE6XpLWYgBEKlRKKJL6CzSZad4hVis=
+p5b96g2clmviovmjpcoj6hc35i6ucklj.edu.	86400	IN	NSEC3	1 1 0 -  p6306h3rok86repqk0uu19nr5um52ome NS DS RRSIG 

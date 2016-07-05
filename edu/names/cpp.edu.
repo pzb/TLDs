@@ -1,0 +1,13 @@
+cpp.edu.	172800	IN	NS	orion.unx.cpp.edu.
+cpp.edu.	172800	IN	NS	dnssec1.cenic.org.
+cpp.edu.	172800	IN	NS	dnssec2.cenic.org.
+cpp.edu.	172800	IN	NS	redstone.unx.cpp.edu.
+cpp.edu.	86400	IN	DS	18670 8 1 52cf6d13c580177daa0a883a3b54771fa6406107
+cpp.edu.	86400	IN	DS	18670 8 2 af1509b6496473a901e48b629dc68bda6b011c55b16e6cee2922e8f80b9dcf7a
+cpp.edu.	86400	IN	DS	31909 8 1 2a1ff34d14f932e7f0a28778f833113e2443a0dd
+cpp.edu.	86400	IN	DS	31909 8 2 1a28e7b74f21ca96f7d8df46f86df52dab76b80249623a22fce119d0f07ba517
+cpp.edu.	86400	IN	RRSIG	DS 8 2 86400 20160709051627 20160702040627 15617 edu. opkW+vZcnMPDSD2zGwiLPJYbJFLKo8P+QEIq9OMGcaBZWy+W9O1tqpMAOwF/I9cyLOqOlLxVaYK+QENi+WTZ0VqHvUBPXNOE+gI1Cd+U/tfDz2aO5jFsN6NJtOMLCFrp1jKsmS1tr0sPVR+hZkCdjb7Zw/7qIJlNVfWEvQJWLp4=
+orion.unx.cpp.edu.	172800	IN	A	134.71.247.33
+orion.unx.cpp.edu.	172800	IN	AAAA	2620:df:8000:ff10:0:1:247:33
+redstone.unx.cpp.edu.	172800	IN	A	134.71.246.134
+redstone.unx.cpp.edu.	172800	IN	AAAA	2620:df:8000:ff12:0:1:246:134

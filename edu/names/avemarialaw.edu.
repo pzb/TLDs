@@ -1,0 +1,12 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+avemarialaw.edu.	172800	IN	NS	ns1.p05.dynect.net.
+avemarialaw.edu.	172800	IN	NS	ns2.p05.dynect.net.
+avemarialaw.edu.	172800	IN	NS	ns3.p05.dynect.net.
+avemarialaw.edu.	172800	IN	NS	ns4.p05.dynect.net.
+qeka8f0tf5gm3egogsisfp3tep7qb8s2.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711020021 20160704005021 15617 edu. Lz8wfroSjduChIw2tfHFEkBFnCU0p3fHmSImQKcW3WOhtmsqD5F5Prn7DHyKUcsF/8WRCkXgA/Krb7eYScn3s3eRpyRiNTyiXf7uhjhBtlTH4eeyH9CVCxx6HuXv9ugGr+rLdPWW92BbKDuJj2OhvXjvAOUj4Atwa/Y3On/Gtxs=
+qeka8f0tf5gm3egogsisfp3tep7qb8s2.edu.	86400	IN	NSEC3	1 1 0 -  qeu5622fl2g6kdpelhpbm9o2u51h5pa0 NS DS RRSIG 
+ns1.p05.dynect.net.	172800	IN	A	208.78.70.5
+ns2.p05.dynect.net.	172800	IN	A	204.13.250.5
+ns3.p05.dynect.net.	172800	IN	A	208.78.71.5
+ns4.p05.dynect.net.	172800	IN	A	204.13.251.5

@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+fsn7e105hsd4mjc4eeo0qmvel4dmfquq.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712032149 20160705021149 15617 edu. ygsKw5nTx6XdmwdoY7KuhiTZZ3XK87il5ZxIAezcsRAX5ersyYVVzk7JMOpIzn8rziDdfydxxbY0vIOhEThffqGcatYEwSm7+mmwF+gpOelxuEbEoJNXlc7k72Wms0RcP6Fz1dJvwEE/zpRYKgsxcWo0TZPRMW30K8VqtCuj1h8=
+fsn7e105hsd4mjc4eeo0qmvel4dmfquq.edu.	86400	IN	NSEC3	1 1 0 -  ftkafq2veqlneorlgqck6keptchimrel NS DS RRSIG 
+mass.edu.	172800	IN	NS	bosvcsns01.umasscs.net.
+mass.edu.	172800	IN	NS	sssvcsns01.umasscs.net.
+bosvcsns01.umasscs.net.	172800	IN	A	69.16.78.72
+sssvcsns01.umasscs.net.	172800	IN	A	69.16.74.72

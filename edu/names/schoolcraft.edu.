@@ -1,0 +1,12 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+onjii7tjo8ed7t2at1o06pdlgpcd7k3l.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711164534 20160704153534 15617 edu. AAMnv8WYQYlMAMiuAaz2WVrYpE8AyrpSxZJap+EY5LKNjHR8dZXM84dTTDl86z8bHvxl0/FW3XMEKTPf2rxBeo0id4a8iozUs4Xbvm3IzxH4bd+xuqPk9BWX9ue5btaGqadc0k3xw6iVVGf6FzfrKwe1QNZ8HlXi3Q7pzQbjE/w=
+onjii7tjo8ed7t2at1o06pdlgpcd7k3l.edu.	86400	IN	NSEC3	1 1 0 -  oo1ivkit65nlf4eue1je667o4aadbevu NS DS RRSIG 
+schoolcraft.edu.	172800	IN	NS	dns.schoolcraft.edu.
+schoolcraft.edu.	172800	IN	NS	dns2.schoolcraft.edu.
+schoolcraft.edu.	172800	IN	NS	bdds1.schoolcraft.edu.
+schoolcraft.edu.	172800	IN	NS	bdds2.schoolcraft.edu.
+bdds1.schoolcraft.edu.	172800	IN	A	216.55.112.11
+bdds2.schoolcraft.edu.	172800	IN	A	216.55.112.12
+dns.schoolcraft.edu.	172800	IN	A	216.55.112.2
+dns2.schoolcraft.edu.	172800	IN	A	216.55.112.3

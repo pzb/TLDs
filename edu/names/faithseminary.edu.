@@ -1,0 +1,8 @@
+ns55.domaincontrol.com.	172800	IN	A	216.69.185.28
+ns56.domaincontrol.com.	172800	IN	A	208.109.255.28
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+a22vs3k93kbeki75plh3ssi9g6v7ebjm.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709051627 20160702040627 15617 edu. BOmvGL7Z6nFOy4oAU0KqjFJrNYO9e03wY1R/fWDdUeWolY+3hznPm6NM+7A4mKbW3DeheGP4hB5ierPGUe+bAhhl3b/mbNG0WvTkEzb3dgaLAHlY6GWv28YhWBgXGR1QY2MQl9aw3m8nojHbs2UdU+pxBFzpnvHbZWNv2wO0GO0=
+a22vs3k93kbeki75plh3ssi9g6v7ebjm.edu.	86400	IN	NSEC3	1 1 0 -  a274m6toh84t34cssou4co16j7p634hk NS DS RRSIG 
+faithseminary.edu.	172800	IN	NS	ns55.domaincontrol.com.
+faithseminary.edu.	172800	IN	NS	ns56.domaincontrol.com.

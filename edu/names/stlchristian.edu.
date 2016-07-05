@@ -1,0 +1,12 @@
+ns1131.dns.dyn.com.	172800	IN	A	208.76.58.131
+ns2200.dns.dyn.com.	172800	IN	A	208.76.59.200
+ns3200.dns.dyn.com.	172800	IN	A	208.76.60.200
+ns4135.dns.dyn.com.	172800	IN	A	208.76.61.135
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+pqs8d2l7jtud0689j9hj7nkl0erb2d1b.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711235834 20160704224834 15617 edu. iN3uYzfrlttcnPN0X8lD0rujsya1ruyZSr0IiXVrK7V09Kft5Q8QR8pWp/77t8lKREmFgxePEO/uBiHzeRT/dShIzeRApb5n1ZSTuhdNhTMI454khWD7yB2X2Q4omLy+aq4almkB19qLSgsyqMt0mYSD+QiZJxBF63Ai92qfUwk=
+pqs8d2l7jtud0689j9hj7nkl0erb2d1b.edu.	86400	IN	NSEC3	1 1 0 -  pt5k920e0qq7ui97jjedfhn5ignnc8ms NS DS RRSIG 
+stlchristian.edu.	172800	IN	NS	ns1131.dns.dyn.com.
+stlchristian.edu.	172800	IN	NS	ns2200.dns.dyn.com.
+stlchristian.edu.	172800	IN	NS	ns3200.dns.dyn.com.
+stlchristian.edu.	172800	IN	NS	ns4135.dns.dyn.com.

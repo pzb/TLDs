@@ -1,0 +1,7 @@
+unt.edu.	172800	IN	NS	ns-a.public.grid.untsystem.edu.
+unt.edu.	172800	IN	NS	ns-b.public.grid.untsystem.edu.
+unt.edu.	86400	IN	DS	8859 7 1 6ebd49d50645a038fdd95ef20511c695e11f2718
+unt.edu.	86400	IN	DS	22323 7 1 aa092081f6a1f81e5d590e82fe739f4061e80e76
+unt.edu.	86400	IN	RRSIG	DS 8 2 86400 20160711051944 20160704040944 15617 edu. S59NA40yoOYsK+oCqskg8QHkp7KroTg1O8sffa7/woPMMj8HNdNXDwvkLI3GedsZUAAX/bGQUcF2iKbEReNJLpILFU7o3td3KxECVl9zb+MNjpuZ6DEsc5CglGNbm1VlM7n1hSgYo7dgAA4ok9ABp3ls4icFKOaqvds2GXLbKcs=
+ns-a.public.grid.untsystem.edu.	172800	IN	A	129.120.14.12
+ns-b.public.grid.untsystem.edu.	172800	IN	A	129.120.14.13

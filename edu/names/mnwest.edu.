@@ -1,0 +1,12 @@
+95k0nbcjmih2mjtbcjgfr974f13vgthb.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711060113 20160704045113 15617 edu. XWDkgioiyu3rebnMwGtYCH4jB1oyig2tv1x8EJujsYro9/TEnKLzg/VUfJcYtuNnpCQlHq8vcHVbM7PT3+VbOZxu3iy6YrOX+MglwA36qWtDKLgqbGc9Il7FSias2ZuwalSOcvd//T5dJP8huN+omhqV1pvzy0feSjF9O9S5tAE=
+95k0nbcjmih2mjtbcjgfr974f13vgthb.edu.	86400	IN	NSEC3	1 1 0 -  971334c4n27vgpa9ss6362c3h3uf6e9q NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ns1.mnscu.edu.	172800	IN	A	199.17.241.241
+ns2.mnscu.edu.	172800	IN	A	199.17.243.243
+mnwest.edu.	172800	IN	NS	dns.uw-mad.wiscnet.net.
+mnwest.edu.	172800	IN	NS	dns.uw-mil.wiscnet.net.
+mnwest.edu.	172800	IN	NS	ns1.mnscu.edu.
+mnwest.edu.	172800	IN	NS	ns2.mnscu.edu.
+dns.uw-mad.wiscnet.net.	172800	IN	A	205.213.108.100
+dns.uw-mil.wiscnet.net.	172800	IN	A	205.213.163.100

@@ -1,0 +1,12 @@
+ss2.webhostingbuzz.com.	172800	IN	A	184.95.32.70
+ss200.webhostingbuzz.com.	172800	IN	A	74.81.66.214
+ns100.whbdns.com.	172800	IN	A	184.95.32.70
+ns101.whbdns.com.	172800	IN	A	37.61.239.68
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+hbmu.edu.	172800	IN	NS	ss2.webhostingbuzz.com.
+hbmu.edu.	172800	IN	NS	ns100.whbdns.com.
+hbmu.edu.	172800	IN	NS	ns101.whbdns.com.
+hbmu.edu.	172800	IN	NS	ss200.webhostingbuzz.com.
+utalgci5t5j7dauobndqjgv776lpb97i.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712013253 20160705002253 15617 edu. B+x3NqYLFChPcvTsHnofg6hJElKvD8/dSaQSoPaRYHY7V8HBUbVhlsAqTkpQUVGaGHKZoM8usQjXaTGhX8v9+5qJvpi9f/XiCidmYVegosMRLbHzbKUyFbau3XqpMyZpB4NPNwG+717IgvlS3gT74GDsczUFlXns9k5hjoxHAig=
+utalgci5t5j7dauobndqjgv776lpb97i.edu.	86400	IN	NSEC3	1 1 0 -  v12sk9rti555ol412s8gq0c0hcd4o9cl NS DS RRSIG 

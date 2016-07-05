@@ -1,0 +1,16 @@
+ns1.no-ip.com.	172800	IN	A	204.16.255.55
+ns1.no-ip.com.	172800	IN	AAAA	2620:0:2e60::33
+ns2.no-ip.com.	172800	IN	A	204.16.254.6
+ns2.no-ip.com.	172800	IN	AAAA	2001:1838:f000::6
+ns3.no-ip.com.	172800	IN	A	204.16.253.33
+ns4.no-ip.com.	172800	IN	A	204.16.254.44
+ns5.no-ip.com.	172800	IN	A	204.16.255.155
+33gjscju63nmgdhhvpe46mjs98ojka7p.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711112613 20160704101613 15617 edu. aM2fWI3NHxFrvHGhGmCqTu89VzfQzvygur0S7BxhdDfNzf74fgJureYJ/aU7QGBlmaqX7sAX0nUfVyMC2hX2lVUD+rxheW5IkgMXiTwP2am+4QIgwUWImQD1LaABooX8g4ok4O5QtXjoILvWt0xKkcYAbTWx9vWYhbW+eDdfbys=
+33gjscju63nmgdhhvpe46mjs98ojka7p.edu.	86400	IN	NSEC3	1 1 0 -  34f0imil62j0k91jceqg27ogrj3d8vi3 NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+westernsem.edu.	172800	IN	NS	ns1.no-ip.com.
+westernsem.edu.	172800	IN	NS	ns2.no-ip.com.
+westernsem.edu.	172800	IN	NS	ns3.no-ip.com.
+westernsem.edu.	172800	IN	NS	ns4.no-ip.com.
+westernsem.edu.	172800	IN	NS	ns5.no-ip.com.

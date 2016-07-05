@@ -1,0 +1,8 @@
+mns01.domaincontrol.com.	172800	IN	A	216.69.185.31
+mns02.domaincontrol.com.	172800	IN	A	208.109.255.31
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+a4gasag44ib9coq1oeboir19eugfoh7q.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711170627 20160704155627 15617 edu. xmDh30VhG8ZnU37mAgDQx+2GJwlfA7BnnuFTaQTfGRUTMK3C5GX4XSrK2cKx1tjWPhupGp0Xkw+pJkakIbCciFznGXjvr6lRlPPKRJhW4tZPsm9baNlYhjiO9Nz/c3lepII4XuVXrQjRbi61CxUNzjy+7vaxBl1dikcOIw9mbFU=
+a4gasag44ib9coq1oeboir19eugfoh7q.edu.	86400	IN	NSEC3	1 1 0 -  a510206gd9advgs7ket6rjj7g2npnuvt NS DS RRSIG 
+daytonacollege.edu.	172800	IN	NS	mns01.domaincontrol.com.
+daytonacollege.edu.	172800	IN	NS	mns02.domaincontrol.com.

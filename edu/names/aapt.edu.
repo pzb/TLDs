@@ -1,0 +1,8 @@
+dns1.sherweb.com.	172800	IN	A	66.46.176.250
+dns2.sherweb.com.	172800	IN	A	199.244.76.100
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+aapt.edu.	172800	IN	NS	dns1.sherweb.com.
+aapt.edu.	172800	IN	NS	dns2.sherweb.com.
+jkqk092ujetku84qc67pvk2jecbbu17t.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160708052032 20160701041032 15617 edu. EAs9YnRLsgjmu1AEHwi7+zrma6uQL9BLkB6BiGca/7hqh6bk4XjyoHSWA1l4Krx250LznoISkuIoihTdsD8g0k+1jomdz2kXE01lzlRkYvKf5XrsCDz8o49eINN/S1nFZxZr9ejahFcICCVjoIuWkEjGpf304VMBlOBzjlJm9n8=
+jkqk092ujetku84qc67pvk2jecbbu17t.edu.	86400	IN	NSEC3	1 1 0 -  jl225dar29f2tntbd96g170nuf6md0fj NS DS RRSIG 

@@ -1,0 +1,9 @@
+nasx.edu.	172800	IN	NS	bona.nasx.edu.
+nasx.edu.	172800	IN	NS	xbighorn.nasx.edu.
+nasx.edu.	172800	IN	NS	xberkshire.nasx.edu.
+nasx.edu.	86400	IN	DS	34039 8 1 4344699a3525b977353e53aa7da71e6c99fd1714
+nasx.edu.	86400	IN	DS	34039 8 2 51fe7a34a094395acb1e08414679b4db5afbf51234211efaeb811429ce1cb38e
+nasx.edu.	86400	IN	RRSIG	DS 8 2 86400 20160710053349 20160703042349 15617 edu. 1G9b48b45602M+WkWxHGhtcDWD9FDfKpej2tyjvpt7Kq0ODYOuNha8tFzEFaH1tpkLCKy9em4ahhT9zCEQEQD620xdqOmbeB5OoZQXzn6GlfVpFurkwr8ga2myJiGeBslymeoDFBai/oicFj8DaPZjpGbhQnwLOVs+JeGhMDHHc=
+bona.nasx.edu.	172800	IN	A	52.7.36.190
+xberkshire.nasx.edu.	172800	IN	A	144.171.188.28
+xbighorn.nasx.edu.	172800	IN	A	144.171.188.33

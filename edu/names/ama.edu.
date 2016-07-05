@@ -1,0 +1,8 @@
+ns6017.hostgator.com.	172800	IN	A	50.87.144.20
+ns6018.hostgator.com.	172800	IN	A	50.87.146.118
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ama.edu.	172800	IN	NS	ns6017.hostgator.com.
+ama.edu.	172800	IN	NS	ns6018.hostgator.com.
+cd6cd54ga8ne0nvngjmdu7klmftjgnlf.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051942 20160704040942 15617 edu. hAkRgACvuqbBOuOpcwT0l70pE2RVpulmjJt7SThrGP0STAYsWV4A/fYtW10Hj29rJRrZYUuYcZ+I4ff9dgG4SfXyJIg2//HTCKCD65zobuAfYNlx4OJkOlvUUfnm1z00n1o3xaZGu2R5qBEohnLeyBPmI7+XousfnjWWSw9cQh4=
+cd6cd54ga8ne0nvngjmdu7klmftjgnlf.edu.	86400	IN	NSEC3	1 1 0 -  cdabfufv210mbhiigafk7qapp5g3inj9 NS DS RRSIG 

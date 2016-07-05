@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+gcinter.edu.	172800	IN	NS	ns1.gcinter.edu.
+gcinter.edu.	172800	IN	NS	ns2.gcinter.edu.
+ns1.gcinter.edu.	172800	IN	A	65.38.211.147
+ns2.gcinter.edu.	172800	IN	A	173.243.89.162
+hv0rdgtbqodjv69n7k2jofrvrlsb18k8.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712024836 20160705013836 15617 edu. aWhywU5FTcskxAAm1Ey+CbxILQBtAcIwDI3yM/8oMnv7qvj9nTP4vx5b+WTQI1SXCiaAlNZykZiMMsCT259LQ56N5dHkd+l4PPfOhuWVeWInovkYLHXEd2QL6TqKyrFrp1Vv87Af2zCzOSPBz7sDs+Y2B47kuxU/ijiGq+ZjhwM=
+hv0rdgtbqodjv69n7k2jofrvrlsb18k8.edu.	86400	IN	NSEC3	1 1 0 -  i0a8ihj2fp1rdlriom2d5p9gd15dqsfr NS DS RRSIG 

@@ -1,0 +1,10 @@
+ns-87.awsdns-10.com.	172800	IN	A	205.251.192.87
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+gaj50sd5ns4ecdv9ak1adeon2pf9csa8.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712024214 20160705013214 15617 edu. fD7BlB1yPWcz3/Nn3PBTdszh5W1KIFq3oCXvsJUcvab60jtBqeB0YvWzHcC7k+EjxQxgYazaEcNhSPGMVQrymEmcGwnF5Fa6iPh5ao+JS0iLbjdDFDS9W771nTp8FHYCFQuBH9MTUHi0uA9locmLJErUWBppNy8YqhumQW0tSD8=
+gaj50sd5ns4ecdv9ak1adeon2pf9csa8.edu.	86400	IN	NSEC3	1 1 0 -  gb4dgi2m8p18vqdh3khfaes1ui48nae8 NS DS RRSIG 
+itttech.edu.	172800	IN	NS	ns-87.awsdns-10.com.
+itttech.edu.	172800	IN	NS	ns-754.awsdns-30.net.
+itttech.edu.	172800	IN	NS	ns-1324.awsdns-37.org.
+itttech.edu.	172800	IN	NS	ns-2031.awsdns-61.co.uk.
+ns-754.awsdns-30.net.	172800	IN	A	205.251.194.242

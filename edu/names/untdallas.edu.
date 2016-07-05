@@ -1,0 +1,7 @@
+ns-a.public.grid.unt.edu.	172800	IN	A	129.120.14.12
+ns-b.public.grid.unt.edu.	172800	IN	A	129.120.14.13
+untdallas.edu.	172800	IN	NS	ns-a.public.grid.unt.edu.
+untdallas.edu.	172800	IN	NS	ns-b.public.grid.unt.edu.
+untdallas.edu.	86400	IN	DS	15114 7 1 cfcb40452d328de7dfffcbfb41ea0291da83d0b2
+untdallas.edu.	86400	IN	DS	63135 7 1 f8903becf1f73298e3e8d26c1c4d7b48daf4ee6d
+untdallas.edu.	86400	IN	RRSIG	DS 8 2 86400 20160710053349 20160703042349 15617 edu. y56a+SvDzvoUaRwikU4yAXCyIqQschfPqn/mRnrtRQnYMBNJ5u48dNTVlgq70MuZo7Gy+lMk3WsVGsqBFxTORzJxFMVPa2wBBcZH/wa2hAEOABdEs640z7jSytkc40eNxuRvS100onPezYAwOBflGZ8EE3eOYjMbjKwLH0oB3oI=

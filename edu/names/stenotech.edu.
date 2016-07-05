@@ -1,0 +1,13 @@
+ns1.digitalocean.com.	172800	IN	A	173.245.58.51
+ns1.digitalocean.com.	172800	IN	AAAA	2400:cb00:2049:1::adf5:3a33
+ns2.digitalocean.com.	172800	IN	A	173.245.59.41
+ns2.digitalocean.com.	172800	IN	AAAA	2400:cb00:2049:1::adf5:3b29
+ns3.digitalocean.com.	172800	IN	A	198.41.222.173
+ns3.digitalocean.com.	172800	IN	AAAA	2400:cb00:2049:1::c629:dead
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+k4g58jtui7m1qa7f97nhqfqjcrsrkm8j.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711190538 20160704175538 15617 edu. InSKY9ytQr1Pg/n1b+oLXFTcEfpK3bBD/wNySQzq6JGKuMS8oQraf1/ICDmsJALk4NHYfjuGmNZREZTsIvGMlrTegNPZQsnD0CdFSU0aZgDnvVjeBXkdyvZfIt+J93g2VlcB8sUItruXlUfz8IeTkJqJDZCbRCCmOCoLcjyEVbQ=
+k4g58jtui7m1qa7f97nhqfqjcrsrkm8j.edu.	86400	IN	NSEC3	1 1 0 -  k7l4ae8uvrg2r3sjk8o9u7iq4cvtvq8p NS DS RRSIG 
+stenotech.edu.	172800	IN	NS	ns1.digitalocean.com.
+stenotech.edu.	172800	IN	NS	ns2.digitalocean.com.
+stenotech.edu.	172800	IN	NS	ns3.digitalocean.com.

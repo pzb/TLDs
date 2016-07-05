@@ -1,0 +1,10 @@
+ns-35.awsdns-04.com.	172800	IN	A	205.251.192.35
+3fsd5rpbaa71bvc44bqpdqoaqsl7ap3j.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051942 20160704040942 15617 edu. eZYAEjvX8K2tJ8hN5HFYmbwik0A1+fPQHKuPR97NTLgLlQg/HERRdN1ibciPYk9fyvnxazoceDrDv0nAjmxsuEm1z4I/O2iUtQuzvywPnyij4wRZbmWJ7fSCebr2x46EhyAC3DZtUqDXcZaqHSQytPw/4QDikp9dZhty6DHbOzw=
+3fsd5rpbaa71bvc44bqpdqoaqsl7ap3j.edu.	86400	IN	NSEC3	1 1 0 -  3ftb9rslroqjuopdnljje2i31u25m4mg NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+abtu.edu.	172800	IN	NS	ns-35.awsdns-04.com.
+abtu.edu.	172800	IN	NS	ns-1013.awsdns-62.net.
+abtu.edu.	172800	IN	NS	ns-1406.awsdns-47.org.
+abtu.edu.	172800	IN	NS	ns-1751.awsdns-26.co.uk.
+ns-1013.awsdns-62.net.	172800	IN	A	205.251.195.245

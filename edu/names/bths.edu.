@@ -1,0 +1,22 @@
+dns.jtnetworks.com.	172800	IN	A	24.168.119.118
+ns1.onesimus.com.	172800	IN	A	54.243.251.50
+ns2.onesimus.com.	172800	IN	A	54.245.104.219
+ns3.onesimus.com.	172800	IN	A	54.243.251.177
+ns4.onesimus.com.	172800	IN	A	54.243.251.50
+ns4.onesimus.com.	172800	IN	A	54.243.251.177
+ns4.onesimus.com.	172800	IN	A	54.245.104.219
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+bths.edu.	172800	IN	NS	dns.jtnetworks.com.
+bths.edu.	172800	IN	NS	dns.jtnetservices.net.
+bths.edu.	172800	IN	NS	ns1.onesimus.com.
+bths.edu.	172800	IN	NS	ns1.jtnetservices.net.
+bths.edu.	172800	IN	NS	ns2.onesimus.com.
+bths.edu.	172800	IN	NS	ns2.jtnetservices.net.
+bths.edu.	172800	IN	NS	ns3.onesimus.com.
+bths.edu.	172800	IN	NS	ns4.onesimus.com.
+vuju5duhu20bak0t24atnucsj9psjbno.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051943 20160704040943 15617 edu. HPybBZ6NP3Z/gxg/MJMfA50G9NodCY7aUhSRH4wAi53A4JzQMOnGuj52T/V3o2/2uCS/FfYlmILlmeRIG15yb5s4hpX2AyaKsU7YFIwAvLvPbz54pMh5Rqqz10TY0y8HM6AGDdWJoYw381LP9L2zePbIEMUF407ym5XS0SstnY8=
+vuju5duhu20bak0t24atnucsj9psjbno.edu.	86400	IN	NSEC3	1 1 0 -  vvk9vcoqffu478o4edqedjrcdc5rhj1q NS DS RRSIG 
+dns.jtnetservices.net.	172800	IN	A	98.116.102.26
+ns1.jtnetservices.net.	172800	IN	A	54.243.251.50
+ns2.jtnetservices.net.	172800	IN	A	54.245.104.219

@@ -1,0 +1,12 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ik1s589gejr659v1l90om4fj5jblc0a1.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712011229 20160705000229 15617 edu. FqIOLWpQgQQ35mQeIeMencmrAxPd93JmcS1F1BxvCrTEoe7yZJwmiBNubg5wKP5mQ4FPeXrmgS1HqcDNhtGwncainMojm4JQlVowLxnpXyHb7EHEbreSZQUjKpXgxbX4OUBqC9QdGBSCPbP3jlud5kVwGQBl2fnFKSbBW46jd1U=
+ik1s589gejr659v1l90om4fj5jblc0a1.edu.	86400	IN	NSEC3	1 1 0 -  io9pdjghh8tei1or1hiq13pnfp863n64 NS DS RRSIG 
+saumag.edu.	172800	IN	NS	ns1.areon.net.
+saumag.edu.	172800	IN	NS	ns1.saumag.edu.
+saumag.edu.	172800	IN	NS	ns2.areon.net.
+saumag.edu.	172800	IN	NS	ns2.saumag.edu.
+ns1.saumag.edu.	172800	IN	A	72.35.208.44
+ns2.saumag.edu.	172800	IN	A	72.35.208.43
+ns1.areon.net.	172800	IN	A	208.90.108.5
+ns2.areon.net.	172800	IN	A	208.90.108.6

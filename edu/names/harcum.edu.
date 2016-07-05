@@ -1,0 +1,12 @@
+ns1145.dns.dyn.com.	172800	IN	A	208.76.58.145
+ns2190.dns.dyn.com.	172800	IN	A	208.76.59.190
+ns3161.dns.dyn.com.	172800	IN	A	208.76.60.161
+ns4134.dns.dyn.com.	172800	IN	A	208.76.61.134
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+bo81r8hartcee2ddpcbec4pr776d7ir6.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710211011 20160703200011 15617 edu. z1He5CiahPcEnm7QxY+wYBItSwYxHXJbTHVRD4uPelZ83imlJf8yREO29qQ3B3oTLX5sBU/kmUysWc3ZsTbyJYWFw00yU+RLgohzLrXm2RfAADnFkN/j+h6i8r5RO8BWJxeBpwRN16G6g2lA8N2/8lGEemOo3uYBjqfrLXUCrGQ=
+bo81r8hartcee2ddpcbec4pr776d7ir6.edu.	86400	IN	NSEC3	1 1 0 -  bq2vlgeho4bhqvd0qsegtsnsk21is9kk NS DS RRSIG 
+harcum.edu.	172800	IN	NS	ns1145.dns.dyn.com.
+harcum.edu.	172800	IN	NS	ns2190.dns.dyn.com.
+harcum.edu.	172800	IN	NS	ns3161.dns.dyn.com.
+harcum.edu.	172800	IN	NS	ns4134.dns.dyn.com.

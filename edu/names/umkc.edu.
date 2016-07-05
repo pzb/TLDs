@@ -1,0 +1,20 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+uavdj8aa1k0iskhaf5ri3f5if0qvl9le.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712032618 20160705021618 15617 edu. yFWjH6QsChKvxk4G0oKwB1VpGA6VukufZFznceMXYZBAvbdSRxu3fMxGeDSXDwUTBRtfYWSZS5vV13pjO1vRW/yGE93fmCijhoEdTMoJmm5u2yf/mc8C2CyTVYsgoSuT1WsHhNX4uZXfKvf2gZB+5pZrhXMYujLVhlQwTnyt7NM=
+uavdj8aa1k0iskhaf5ri3f5if0qvl9le.edu.	86400	IN	NSEC3	1 1 0 -  uc10g61c6pi13nfklh76rsfe400l8uj2 NS DS RRSIG 
+umkc.edu.	172800	IN	NS	ns3.umkc.edu.
+umkc.edu.	172800	IN	NS	ns4.umkc.edu.
+umkc.edu.	172800	IN	NS	ns5.umkc.edu.
+umkc.edu.	172800	IN	NS	ns6.umkc.edu.
+umkc.edu.	172800	IN	NS	ns7.umkc.edu.
+umkc.edu.	172800	IN	NS	ns8.umkc.edu.
+ns3.umkc.edu.	172800	IN	A	134.193.86.1
+ns3.umkc.edu.	172800	IN	AAAA	2610:e0:a040:640a::2
+ns4.umkc.edu.	172800	IN	A	134.193.126.153
+ns4.umkc.edu.	172800	IN	AAAA	2610:e0:a040:64fc::3
+ns5.umkc.edu.	172800	IN	A	134.193.126.161
+ns5.umkc.edu.	172800	IN	AAAA	2610:e0:a040:6401::3
+ns6.umkc.edu.	172800	IN	A	134.193.159.53
+ns6.umkc.edu.	172800	IN	AAAA	2610:e0:a040:68fd::3
+ns7.umkc.edu.	172800	IN	A	209.106.228.180
+ns8.umkc.edu.	172800	IN	A	131.151.125.132

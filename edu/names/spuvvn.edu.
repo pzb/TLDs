@@ -1,0 +1,8 @@
+us10.gingerservers.com.	172800	IN	A	63.143.42.158
+us9.gingerservers.com.	172800	IN	A	63.143.42.157
+7t8ujgatgssvqvhr1aeo5ratv0pvinfk.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712033623 20160705022623 15617 edu. cLaFIarPzpwl7y7YZ8gRgfVQGm3s5dVmyd0xI+CDhpqEs9wcbejdk7ADpIzvckLD2P3a/8MNJeCOWre8rT6LY2AXIy8pKQ97xiH+fomMcqVvwDNeGSXHkUZ7OtTlt6ZKWzaTcAfaXfLkEYMU7/a/LU6yjVUfKZBEGOqsVZ/j0Ew=
+7t8ujgatgssvqvhr1aeo5ratv0pvinfk.edu.	86400	IN	NSEC3	1 1 0 -  7upnqdvfl3sk386khufu9jrgkq8hj9n4 NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+spuvvn.edu.	172800	IN	NS	us9.gingerservers.com.
+spuvvn.edu.	172800	IN	NS	us10.gingerservers.com.

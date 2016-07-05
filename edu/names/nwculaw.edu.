@@ -1,0 +1,8 @@
+ns3.princeinternet.com.	172800	IN	A	208.67.227.80
+ns4.princeinternet.com.	172800	IN	A	208.67.227.81
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+nwculaw.edu.	172800	IN	NS	ns3.princeinternet.com.
+nwculaw.edu.	172800	IN	NS	ns4.princeinternet.com.
+v1617ftik69d5kkv20i8l6bdur6bncv5.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712010807 20160704235807 15617 edu. tlC+LVzIvjhdaHNSJqHX9MGr45GA7ocKsAEFIrV7Vzo8ENBUYZNjuOmGjHh1Cxy3IzrX03jQxQwrZhrQoL+sOWevpLC0wDtROnaMhBI6x3jCbtWe4AwZxt0oRllj/gBlv84jDZ1+Aot+XbUkZwolDo/Tr8BP6wI2Q8n2lahobRc=
+v1617ftik69d5kkv20i8l6bdur6bncv5.edu.	86400	IN	NSEC3	1 1 0 -  v1maj3hest3b8n037r0fksfnqukrmnc6 NS DS RRSIG 

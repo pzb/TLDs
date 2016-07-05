@@ -1,0 +1,10 @@
+ns-59.awsdns-07.com.	172800	IN	A	205.251.192.59
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+presentation.edu.	172800	IN	NS	ns-59.awsdns-07.com.
+presentation.edu.	172800	IN	NS	ns-727.awsdns-26.net.
+presentation.edu.	172800	IN	NS	ns-1410.awsdns-48.org.
+presentation.edu.	172800	IN	NS	ns-1826.awsdns-36.co.uk.
+rfn8803ppqiouqmfs3tr7unt3chtkbmp.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709051625 20160702040625 15617 edu. hE9vB9WsrKZJ8oBg//Tn/8T0UD5U0zUhoXwg6LeB0SEVqt9fsjNRu094sfO/OcRN1jBLTlYUcexv+jZQTe1lUB2WmahmLnMSHxifOlr9mzHfifHV/tElr2jlCQq1p8EKkZu2D62Blz6OHvjKsHwG0wtIvH0pNJGEINXiQFtZewo=
+rfn8803ppqiouqmfs3tr7unt3chtkbmp.edu.	86400	IN	NSEC3	1 1 0 -  rfr4las2jo4gkftp3q4i29umqfmgsjtv NS DS RRSIG 
+ns-727.awsdns-26.net.	172800	IN	A	205.251.194.215

@@ -1,0 +1,24 @@
+omninet.earth.orderbox-dns.com.	172800	IN	A	162.251.82.118
+omninet.earth.orderbox-dns.com.	172800	IN	A	162.251.82.119
+omninet.earth.orderbox-dns.com.	172800	IN	A	162.251.82.246
+omninet.earth.orderbox-dns.com.	172800	IN	A	162.251.82.247
+omninet.mars.orderbox-dns.com.	172800	IN	A	162.251.82.124
+omninet.mars.orderbox-dns.com.	172800	IN	A	162.251.82.125
+omninet.mars.orderbox-dns.com.	172800	IN	A	162.251.82.252
+omninet.mars.orderbox-dns.com.	172800	IN	A	162.251.82.253
+omninet.mercury.orderbox-dns.com.	172800	IN	A	162.251.82.122
+omninet.mercury.orderbox-dns.com.	172800	IN	A	162.251.82.123
+omninet.mercury.orderbox-dns.com.	172800	IN	A	162.251.82.250
+omninet.mercury.orderbox-dns.com.	172800	IN	A	162.251.82.251
+omninet.venus.orderbox-dns.com.	172800	IN	A	162.251.82.120
+omninet.venus.orderbox-dns.com.	172800	IN	A	162.251.82.121
+omninet.venus.orderbox-dns.com.	172800	IN	A	162.251.82.248
+omninet.venus.orderbox-dns.com.	172800	IN	A	162.251.82.249
+0o0pso699ui8d0picnmpl8ki6oi7nuub.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712033248 20160705022248 15617 edu. 1q24zOtcwk0ay0Q2f/lJPtyX3syS3CMj/YX/L6P7nylibIWdLnGGBRuoxDSaMTuH5q3rHhNuBlUJ5a5OiG4TO59lMBEzmkaXImuyJsMK+Hzg/ANBODi4yQaDJinH4C6jOekG6jF4muXHDSeOeDuVsi/nyuxxnzbAyofLKAQuLVQ=
+0o0pso699ui8d0picnmpl8ki6oi7nuub.edu.	86400	IN	NSEC3	1 1 0 -  0v1dhvefip55qa8gecjvlnjrp1mvli3r NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ietlucknow.edu.	172800	IN	NS	omninet.mars.orderbox-dns.com.
+ietlucknow.edu.	172800	IN	NS	omninet.earth.orderbox-dns.com.
+ietlucknow.edu.	172800	IN	NS	omninet.venus.orderbox-dns.com.
+ietlucknow.edu.	172800	IN	NS	omninet.mercury.orderbox-dns.com.

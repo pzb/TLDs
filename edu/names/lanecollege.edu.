@@ -1,0 +1,12 @@
+43sjec2jr2ujqa4eu9lvctqrf6cghq8j.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710025509 20160703014509 15617 edu. LTxTV4PusZgIPw5vkM0bhdm/1sYtf+2FsxXUOsXbWaiv85MDcV1WNSi5vzlMB87jrdJ8uaHKaP1VP6VbvgbdJdpc/7d23JhWN2khqXLacYttkHrmZJU9HLhKUU8eAl/RmFfzY9YwnD7Nd19oblwqi6v9egiP6wEY97taG69kMkg=
+43sjec2jr2ujqa4eu9lvctqrf6cghq8j.edu.	86400	IN	NSEC3	1 1 0 -  4473dgltnt999vnqpl6tjop55dj9e47m NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+lanecollege.edu.	172800	IN	NS	ns1.tec.net.
+lanecollege.edu.	172800	IN	NS	ns1.eplus.net.
+lanecollege.edu.	172800	IN	NS	ns2.eplus.net.
+lanecollege.edu.	172800	IN	NS	websrvr.lanecollege.edu.
+websrvr.lanecollege.edu.	172800	IN	A	69.167.203.150
+ns1.eplus.net.	172800	IN	A	69.167.192.10
+ns2.eplus.net.	172800	IN	A	69.167.192.20
+ns1.tec.net.	172800	IN	A	198.146.3.1

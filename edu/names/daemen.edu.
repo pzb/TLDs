@@ -1,0 +1,12 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+daemen.edu.	172800	IN	NS	ns1.p21.dynect.net.
+daemen.edu.	172800	IN	NS	ns2.p21.dynect.net.
+daemen.edu.	172800	IN	NS	ns3.p21.dynect.net.
+daemen.edu.	172800	IN	NS	ns4.p21.dynect.net.
+qlelpb3fvj55bmuhoh1r5nf658egmk7k.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710104222 20160703093222 15617 edu. cTyXb26js6V2lZjfNuAg7g7wYXbpup/CNiJZUiAv4HgiOY6mXBcNShVUFvDRMoDKZf/gHb5uc39e0incIF9pxgFR2mX/QSHJbUMqIZ4vdMspGBE3y3y8BEAplztXOhaRbMabiTBJ60VCZJCnATDF2FUWzYCblEfIhpUEXG0/kvI=
+qlelpb3fvj55bmuhoh1r5nf658egmk7k.edu.	86400	IN	NSEC3	1 1 0 -  qlu4lq8dr4nq3b356jufeeaeuqre2a17 NS DS RRSIG 
+ns1.p21.dynect.net.	172800	IN	A	208.78.70.21
+ns2.p21.dynect.net.	172800	IN	A	204.13.250.21
+ns3.p21.dynect.net.	172800	IN	A	208.78.71.21
+ns4.p21.dynect.net.	172800	IN	A	204.13.251.21

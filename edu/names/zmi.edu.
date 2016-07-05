@@ -1,0 +1,10 @@
+dns1.clarityconnect.com.	172800	IN	A	209.150.228.149
+dns2.clarityconnect.com.	172800	IN	A	209.150.231.2
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+mhgl7k2tfgbnl0rlcsrlphvc2f2gtqdq.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710061953 20160703050953 15617 edu. ZN02jKls0imC6NsWKFbkr3RyFSV9MgMaJfeH7f0dV2mVRTaa6tkshN3YzNfFDXi/zShUbuK/x9t8fHsXq7Ff8Cou5MXNNfikPSNlygm79XU/NF6hK8H3pt53tZpQuQkwZXveSaDcEhbMaC+I3t698JXHRKwlv+qn757DcsbojrQ=
+mhgl7k2tfgbnl0rlcsrlphvc2f2gtqdq.edu.	86400	IN	NSEC3	1 1 0 -  mhohqnvgl3adfqutfmjbgi6q61l8usaq NS DS RRSIG 
+zmi.edu.	172800	IN	NS	dns1.clarityconnect.com.
+zmi.edu.	172800	IN	NS	dns2.clarityconnect.com.
+zmi.edu.	172800	IN	NS	wav2.clarityconnect.net.
+wav2.clarityconnect.net.	172800	IN	A	198.27.64.129

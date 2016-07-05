@@ -1,0 +1,10 @@
+maya.ns.cloudflare.com.	172800	IN	A	173.245.58.194
+maya.ns.cloudflare.com.	172800	IN	AAAA	2400:cb00:2049:1::adf5:3ac2
+paul.ns.cloudflare.com.	172800	IN	A	173.245.59.135
+paul.ns.cloudflare.com.	172800	IN	AAAA	2400:cb00:2049:1::adf5:3b87
+23egb25vahhdhkn5rfrqkeir0f5nn2po.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051941 20160704040941 15617 edu. DJFqAxHa+XjR/KG7EPDMoVl8ZGlH36lLdos3DFb6bYCPgj7oCjkhatSTRjHmo/LWBEt9nNrJ8W4rVIwsQovhh/nFO5bVSdv6vyi5ZWlZVP3ZtCTSY2E1QzUU+rgkJgK+8TmeHg38WIsQ2Q3Ldf0CgHWQhWl15N1jS74OmM0JC4I=
+23egb25vahhdhkn5rfrqkeir0f5nn2po.edu.	86400	IN	NSEC3	1 1 0 -  248851fvsv24td9uhfo6hrf9rsaavkt8 NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+medtech.edu.	172800	IN	NS	maya.ns.cloudflare.com.
+medtech.edu.	172800	IN	NS	paul.ns.cloudflare.com.

@@ -1,0 +1,14 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+bvcudjvjk6gipmrjfnhm6o48pefcjp3p.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712003329 20160704232329 15617 edu. HZ2OPPNE31WKbx7hcYyn4O7hM4h/Rf+kVQffLjaWvCH8WIp0mPXZP6qH7+o4hMG8BL68TR5iR3WwY2n/S2u/hfbZ6jXtJTmFwuhrscphPus5IdJa1aQrO8eQM7gZmwbQKLR3MRp5OxfR6MVK3YhpoZLsbAd0+9IoCSSmNABd58Q=
+bvcudjvjk6gipmrjfnhm6o48pefcjp3p.edu.	86400	IN	NSEC3	1 1 0 -  bvp0cur3vcaqoh7v7rlssmjetqk3v0g7 NS DS RRSIG 
+millsaps.edu.	172800	IN	NS	ns0.millsaps.edu.
+millsaps.edu.	172800	IN	NS	ns1.millsaps.edu.
+millsaps.edu.	172800	IN	NS	ns2.millsaps.edu.
+millsaps.edu.	172800	IN	NS	ns3.millsaps.edu.
+millsaps.edu.	172800	IN	NS	ns4.millsaps.edu.
+ns0.millsaps.edu.	172800	IN	A	208.94.148.2
+ns1.millsaps.edu.	172800	IN	A	208.80.124.2
+ns2.millsaps.edu.	172800	IN	A	208.80.126.2
+ns3.millsaps.edu.	172800	IN	A	208.80.125.2
+ns4.millsaps.edu.	172800	IN	A	208.80.127.2

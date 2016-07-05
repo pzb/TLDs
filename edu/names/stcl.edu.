@@ -1,0 +1,12 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+henoq24rm02f8jtptm4dfi0vdmtd24eu.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711044645 20160704033645 15617 edu. Am86ju+FT3PgTRgQVkmB5ZwAaq5sZJfDO4L2hTwj7OGjN5Au4e9C8gZleVUWCBw0ET8F4gRbrELG5CZ2HmMwuqGZxopZSHe8EOvcX0FHx+ApNiYZPrQLqIabEwLuiP8WTxwKcL1ha3g6Zr9XXxvxvnT/paqBhpMovcKG4yZ3n8c=
+henoq24rm02f8jtptm4dfi0vdmtd24eu.edu.	86400	IN	NSEC3	1 1 0 -  hgh6uof8sc4e07mduib7joc36bo436ns NS DS RRSIG 
+stcl.edu.	172800	IN	NS	ns.stcl.edu.
+stcl.edu.	172800	IN	NS	ns2.stcl.edu.
+stcl.edu.	172800	IN	NS	ns3.stcl.edu.
+stcl.edu.	172800	IN	NS	ns4.stcl.edu.
+ns.stcl.edu.	172800	IN	A	38.100.154.111
+ns2.stcl.edu.	172800	IN	A	38.100.154.112
+ns3.stcl.edu.	172800	IN	A	38.100.154.113
+ns4.stcl.edu.	172800	IN	A	38.107.227.49

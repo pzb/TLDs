@@ -1,0 +1,8 @@
+8m2dqn0voilqoqe8feghr5nur0q0de40.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711143916 20160704132916 15617 edu. Um8rFL9AACnQYzRR6ZHdQ8FZAN56Z3UFRqYkqZvorO69VHhfINnxSReR/3/kWHW6FeFro8pt/O7wKRPJyppPEunEeDn2325zWU+zkBamSgZ6nNF4j5hlXLah4KWPTwBzdQ+QjmrmKPfYHdrAsQzBGKhdfCkE0xXyonIdvj21xY0=
+8m2dqn0voilqoqe8feghr5nur0q0de40.edu.	86400	IN	NSEC3	1 1 0 -  8nj27oac15tnaa38n5l5snqdov27dhdg NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+nuc.edu.	172800	IN	NS	ns01.neptunonetworks.net.
+nuc.edu.	172800	IN	NS	ns03.neptunonetworks.net.
+ns01.neptunonetworks.net.	172800	IN	A	208.81.172.13
+ns03.neptunonetworks.net.	172800	IN	A	208.81.171.13

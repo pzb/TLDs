@@ -1,0 +1,12 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+tybalt.caltech.edu.	172800	IN	A	131.215.139.100
+cgs.edu.	172800	IN	NS	a.cs.okstate.edu.
+cgs.edu.	172800	IN	NS	ns.uu.net.
+cgs.edu.	172800	IN	NS	ymir.claremont.edu.
+cgs.edu.	172800	IN	NS	tybalt.caltech.edu.
+ymir.claremont.edu.	172800	IN	A	134.173.254.23
+jsqoofk84bmuol217287lh5gg15brcfl.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710053346 20160703042346 15617 edu. tk4F9nVz9gUkky48t+HYneyyABJGw9jj0CaZN/M4HcUTjQlrGv1H9JwIH8nIQIUm0BvFa57H2b8cDx39bEBDVY3uAGXPHPyAxV0IUFfeTIcl0+RB44LMpwTm8rROqVXrWicUC6DGmminWh5Vimcr5s7kuGI526Fr+kHId0FWi9c=
+jsqoofk84bmuol217287lh5gg15brcfl.edu.	86400	IN	NSEC3	1 1 0 -  jt4aifu97gchpmktmjc97ikugbm7p8vf NS DS RRSIG 
+a.cs.okstate.edu.	172800	IN	A	139.78.113.1
+ns.uu.net.	172800	IN	A	137.39.1.3

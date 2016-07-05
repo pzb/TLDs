@@ -1,0 +1,8 @@
+41m47r516mmc4gjp27ngclc8mafams5e.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712024311 20160705013311 15617 edu. tXx6rGzKHM0HFvRx1B4QuX6wkGWQ5KXx6DnCf+uHKc2DezdlBvcvcPU/2ACT7wu35m3A7qjgrPtej552wlg0B0m7e3rTSPY+cgAHvHw7PSHz2hbAcMjB6ewg/VZzBLx0fQCKsFAOb9HovEVYQXlse8MrYoCHfFtfGyE4TsqK/b4=
+41m47r516mmc4gjp27ngclc8mafams5e.edu.	86400	IN	NSEC3	1 1 0 -  41s83ikk04tvjbalgnaghkmgpk72jqte NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+newmanu.edu.	172800	IN	NS	ns1.mediatemple.net.
+newmanu.edu.	172800	IN	NS	ns2.mediatemple.net.
+ns1.mediatemple.net.	172800	IN	A	64.207.128.246
+ns2.mediatemple.net.	172800	IN	A	70.32.65.137

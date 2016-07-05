@@ -1,0 +1,14 @@
+ns1.biz.rr.com.	172800	IN	A	24.30.200.19
+ns2.biz.rr.com.	172800	IN	A	24.30.201.19
+dns4.rr.com.	172800	IN	A	65.24.0.172
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+9h6bdsc9rjrplc43o1q9r6rp8jhvldru.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711035026 20160704024026 15617 edu. dAYKdg6uhHzcetl8JnMkGzu0z/KG8sO370Ozw91hkKaqocu37687jS3cv3pzB5nTruXr09L14hNbKuBsE1pTAOcxWwRIbEXxYuNdZ7iPj9vVAnAxxhmP1H9tp09qopg2qM/x3L/mwITk8PadkDkz6bufJkJNE59cK/D4AIbE9pw=
+9h6bdsc9rjrplc43o1q9r6rp8jhvldru.edu.	86400	IN	NSEC3	1 1 0 -  9jomlset6brqqb87uf3eqap5n8qpju8g NS DS RRSIG 
+azwestern.edu.	172800	IN	NS	ns1.biz.rr.com.
+azwestern.edu.	172800	IN	NS	ns1.azwestern.edu.
+azwestern.edu.	172800	IN	NS	ns2.biz.rr.com.
+azwestern.edu.	172800	IN	NS	ns2.azwestern.edu.
+azwestern.edu.	172800	IN	NS	dns4.rr.com.
+ns1.azwestern.edu.	172800	IN	A	198.60.183.10
+ns2.azwestern.edu.	172800	IN	A	198.60.183.11

@@ -1,0 +1,15 @@
+ns1.webfaction.com.	172800	IN	A	108.168.213.81
+ns1.webfaction.com.	172800	IN	AAAA	2607:f0d0:1103:106::15
+ns2.webfaction.com.	172800	IN	A	178.79.142.142
+ns2.webfaction.com.	172800	IN	AAAA	2a01:7e00::f03c:91ff:fe93:c381
+ns3.webfaction.com.	172800	IN	A	198.101.157.188
+ns4.webfaction.com.	172800	IN	A	173.230.141.144
+ns4.webfaction.com.	172800	IN	AAAA	2600:3c02::f03c:91ff:fe93:407
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+hccpr.edu.	172800	IN	NS	ns1.webfaction.com.
+hccpr.edu.	172800	IN	NS	ns2.webfaction.com.
+hccpr.edu.	172800	IN	NS	ns3.webfaction.com.
+hccpr.edu.	172800	IN	NS	ns4.webfaction.com.
+ru7j7nn1jp5kpr4b65cr7frs3jgdiajd.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711212033 20160704201033 15617 edu. gnaa8k1IB4ZnByerbUXjyCBZnkyyB6OYLHfk/UrhpRHA6a9SZ1B0nmwAaKeEp0wCU4MjrKDHTVcYg9CjcmSg9wWVuYCljPT3X2HLcBq+S/wEWq+Gwwipom1sB7vX43GI+DlfMcFX7Dj/sh6VUrnJGpWZy17VEKnAnVW8RGV5TR0=
+ru7j7nn1jp5kpr4b65cr7frs3jgdiajd.edu.	86400	IN	NSEC3	1 1 0 -  rv8j5c75r0kn2qk5ta9517h2q6sbulvn NS DS RRSIG 

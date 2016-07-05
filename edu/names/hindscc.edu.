@@ -1,0 +1,18 @@
+ns10.dnsmadeeasy.com.	172800	IN	A	208.94.148.4
+ns11.dnsmadeeasy.com.	172800	IN	A	208.80.124.4
+ns12.dnsmadeeasy.com.	172800	IN	A	208.80.126.4
+ns13.dnsmadeeasy.com.	172800	IN	A	208.80.125.4
+ns13.dnsmadeeasy.com.	172800	IN	AAAA	2600:1801:13::1
+ns14.dnsmadeeasy.com.	172800	IN	A	208.80.127.4
+ns14.dnsmadeeasy.com.	172800	IN	AAAA	2600:1802:14::1
+ns15.dnsmadeeasy.com.	172800	IN	A	208.94.149.4
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+d84b5a06m8qdulqg32dt7b27p2am8cln.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710212411 20160703201411 15617 edu. RV0uWLvE4OX+wvdBXV9QBtiAKhiDqQByQtRBw9znNSzT9HhZdNVpGkX1B0wJl+j8FvXjU16dUp6W5of0crWwZUtJBI2wtFSTJ61IQ5s+kQbHsQAhm6dGwGHUeElT27LUAee8/icaf1KhFDJMJamlvV4jepzKGRiICOjLNk7TtlQ=
+d84b5a06m8qdulqg32dt7b27p2am8cln.edu.	86400	IN	NSEC3	1 1 0 -  d8ohhlc62akhmo1kbjtb3i7d5t52stdb NS DS RRSIG 
+hindscc.edu.	172800	IN	NS	ns10.dnsmadeeasy.com.
+hindscc.edu.	172800	IN	NS	ns11.dnsmadeeasy.com.
+hindscc.edu.	172800	IN	NS	ns12.dnsmadeeasy.com.
+hindscc.edu.	172800	IN	NS	ns13.dnsmadeeasy.com.
+hindscc.edu.	172800	IN	NS	ns14.dnsmadeeasy.com.
+hindscc.edu.	172800	IN	NS	ns15.dnsmadeeasy.com.

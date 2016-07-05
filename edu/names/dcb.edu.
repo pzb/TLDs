@@ -1,0 +1,16 @@
+8d2pfi28chdp8h9ptse3ulh0qcgo3ncv.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710094307 20160703083307 15617 edu. 0K8fHcpYqfiBPv0eh5MVB+RKRamZQw+TenPNX+l0CYQpplQPVUY3fXuDDpSb48Izx/gt4+/XpPv/nVXrIt0ScJmD3nPjCESrYEmKvfeCZ8J3xrtDxeE19dzo6z7z/eiL8obceKgGgP/27oKK6xn02ZogfVny3cXIOoxBKdkrnns=
+8d2pfi28chdp8h9ptse3ulh0qcgo3ncv.edu.	86400	IN	NSEC3	1 1 0 -  8e2lorgnrmqa16ij0s73v0rng2as63cl NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+dcb.edu.	172800	IN	NS	dns.merit.net.
+dcb.edu.	172800	IN	NS	ns1.ussignalcom.net.
+dcb.edu.	172800	IN	NS	ns2.ussignalcom.net.
+dcb.edu.	172800	IN	NS	dns2.merit.net.
+dcb.edu.	172800	IN	NS	dns3.merit.net.
+dns.merit.net.	172800	IN	A	198.108.1.43
+dns2.merit.net.	172800	IN	A	198.109.64.250
+dns2.merit.net.	172800	IN	AAAA	2001:48a8:6880:71::250
+dns3.merit.net.	172800	IN	A	207.75.118.150
+dns3.merit.net.	172800	IN	AAAA	2001:48a8:6880:73::150
+ns1.ussignalcom.net.	172800	IN	A	64.186.62.168
+ns2.ussignalcom.net.	172800	IN	A	64.141.177.150

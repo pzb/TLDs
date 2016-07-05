@@ -1,0 +1,10 @@
+ns-us.1and1-dns.com.	172800	IN	A	217.160.82.2
+ns-us.1and1-dns.com.	172800	IN	AAAA	2001:8d8:fe:53:0:d9a0:5202:100
+14pj7h7elaug4rk38hmrrrsf4vrpjo1j.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711200449 20160704185449 15617 edu. WcjzqGCp3ib9kh+/lpfQ9LglCvXPcAmRr7k8uB4BzviW0gxQddBFNvZoo9w00/+o8qIc6aEJzGaUzz/uwmDj1ILY5FIPXGEA9Cd7+co8gb2uP8I6o5civKariUDaM+cGD/F12GEtqk0ecfOHa9vZVC+6RBbLZWyJhMIAiQbNqEc=
+14pj7h7elaug4rk38hmrrrsf4vrpjo1j.edu.	86400	IN	NSEC3	1 1 0 -  17h5duovvqba96ana58fjgmfe176j3bp NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+hai.edu.	172800	IN	NS	ns-us.1and1-dns.de.
+hai.edu.	172800	IN	NS	ns-us.1and1-dns.us.
+hai.edu.	172800	IN	NS	ns-us.1and1-dns.com.
+hai.edu.	172800	IN	NS	ns-us.1and1-dns.org.

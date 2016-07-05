@@ -1,0 +1,11 @@
+75eger2qqvss26tmkj1vii736cqkk91a.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712005342 20160704234342 15617 edu. H/ReK3M19STy6UTo6s5bat0tGQyTVq+U1285k/DO3i1cNwXbKWn478R9FrW+C9TwZf90Px495vjiYan/gNsDTxMNCBTXrfJ2sNUVu82BKPQG5bMaWAc4DpQ/aX5NQzCeepr3IN3gaI8aXQTGdJHJDTt2l+DNfH6iS5rh2BXQ1ZY=
+75eger2qqvss26tmkj1vii736cqkk91a.edu.	86400	IN	NSEC3	1 1 0 -  7702t3sl3plbg738vppetoidaidksuf6 NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+swccd.edu.	172800	IN	NS	ns4.cenic.org.
+swccd.edu.	172800	IN	NS	ns5.cenic.org.
+swccd.edu.	172800	IN	NS	ns6.cenic.org.
+swccd.edu.	172800	IN	NS	dns1.swccd.edu.
+swccd.edu.	172800	IN	NS	dns2.swccd.edu.
+dns1.swccd.edu.	172800	IN	A	209.129.112.65
+dns2.swccd.edu.	172800	IN	A	209.129.112.66

@@ -1,0 +1,14 @@
+nserver.apple.com.	172800	IN	A	17.254.0.50
+uucp-gw-1.pa.dec.com.	172800	IN	A	204.123.2.18
+4ntvvudntbb0ag9ern4b51laadhvk6lr.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711012524 20160704001524 15617 edu. PG3L5raUOGmXN2luYUIgPJ3uMq57FaQe5QyOMD6Kxzv8E6mhJ4BQ07735UzeW8U8XVYgGypj0+tnsFbRWEZLkl0bMKrWQ5Qt5W6fx5kmbXRVuqvd5z7mU7dCF12RRqVYlk25H1ftKtzr3QGZeShIID2p6kGre1XppLcnyieFCWw=
+4ntvvudntbb0ag9ern4b51laadhvk6lr.edu.	86400	IN	NSEC3	1 1 0 -  4oiqasisnu2frv9paf5uohp170gr95cr NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+usc.edu.	172800	IN	NS	ns1.usc.edu.
+usc.edu.	172800	IN	NS	ns2.usc.edu.
+usc.edu.	172800	IN	NS	ns3.usc.edu.
+usc.edu.	172800	IN	NS	nserver.apple.com.
+usc.edu.	172800	IN	NS	uucp-gw-1.pa.dec.com.
+ns1.usc.edu.	172800	IN	A	68.181.190.250
+ns2.usc.edu.	172800	IN	A	68.181.195.29
+ns3.usc.edu.	172800	IN	A	50.59.168.11

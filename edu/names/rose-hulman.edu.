@@ -1,0 +1,7 @@
+rose-hulman.edu.	172800	IN	NS	extns1.rose-hulman.edu.
+rose-hulman.edu.	172800	IN	NS	extns2.rose-hulman.edu.
+rose-hulman.edu.	86400	IN	DS	32568 7 2 853ade02f5c29c21dd8d2a41e8bd41842f6e85318ec89744c44ae326b1d29b71
+rose-hulman.edu.	86400	IN	DS	33750 7 2 a17a721adcefb174fdc6b952eb64e29cbb3d11bccc7b3bcab0e307af8337d913
+rose-hulman.edu.	86400	IN	RRSIG	DS 8 2 86400 20160710053345 20160703042345 15617 edu. KzW1LgGhZnanmKN7RvhxK21nA6kL6U6a7S3rqpUcn0rezRaiMKTJXbDbD1KEsppL9tI+Urbxj75+nvAc4ZlTHe7O4aGfsysQUXsc64gxuTCSYKJifBrztcCn6gyw5T0uMPQWYFIIsMBfqFTj+I8pmhzqz59KHOe2z3t7wexm9pM=
+extns1.rose-hulman.edu.	172800	IN	A	137.112.255.28
+extns2.rose-hulman.edu.	172800	IN	A	137.112.255.29

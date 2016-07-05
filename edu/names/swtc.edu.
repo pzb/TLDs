@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+be1040b0g5qt9qr2f45g411g6njt9vin.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051942 20160704040942 15617 edu. 2wsbSpq7RRB8peO/CqpRwez78JlWbRTEkmg9vaZdD7aaxIU7/4gBDms0dfscb8vvWMvpWHPAyB06GwVaDehuZ8M/3wsRq7pvqbNMphvqeaXIv9HezzLW5ijQ1NeBSNLjgQn1+WdlUn2Y6oNYkLVhNvxOes3/TR54TJyEqdvN/UA=
+be1040b0g5qt9qr2f45g411g6njt9vin.edu.	86400	IN	NSEC3	1 1 0 -  bg3kjbmjmjop6nndhq0vm164r8c549s9 NS DS RRSIG 
+swtc.edu.	172800	IN	NS	dns.uw-mad.wiscnet.net.
+swtc.edu.	172800	IN	NS	dns.uw-mil.wiscnet.net.
+dns.uw-mad.wiscnet.net.	172800	IN	A	205.213.108.100
+dns.uw-mil.wiscnet.net.	172800	IN	A	205.213.163.100

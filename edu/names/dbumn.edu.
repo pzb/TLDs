@@ -1,0 +1,8 @@
+ns.rackspace.com.	172800	IN	A	69.20.95.4
+ns2.rackspace.com.	172800	IN	A	65.61.188.4
+8fa4rnkn32886cqu0jceo3m9j0eonttq.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710144128 20160703133128 15617 edu. i8RC+XrpVL8eQbRmMEsiuvU2l+/ncXYEyzpbuBJiimULGvUnvfL+J4cHdozEyeBmK7yRRJJXFz3+37N2czSPLL/4bltJrburCgi3wcPLBR2GWzwcuu4u2v6T0pbAJglwV9tL+43t0uzObUR+k0q1mGzqFIW5FmzS+OPQXtcvDgY=
+8fa4rnkn32886cqu0jceo3m9j0eonttq.edu.	86400	IN	NSEC3	1 1 0 -  8g10fl8av30b95dn0m23uofmg71tb2v5 NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+dbumn.edu.	172800	IN	NS	ns.rackspace.com.
+dbumn.edu.	172800	IN	NS	ns2.rackspace.com.

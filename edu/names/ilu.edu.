@@ -1,0 +1,8 @@
+ns1.securedserverspace.com.	172800	IN	A	50.31.98.46
+ns2.securedserverspace.com.	172800	IN	A	50.31.99.46
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ilu.edu.	172800	IN	NS	ns1.securedserverspace.com.
+ilu.edu.	172800	IN	NS	ns2.securedserverspace.com.
+ml6rpe4tlnisu877ntpnhfk1edqtmkma.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711155941 20160704144941 15617 edu. 0bZ5tRGd9YrlHvQGdcAtJ51JmmouXXFFS6Z5YNGkQqcNDrOvCN2RY0b6/8cf52MXUs0Cex7sQpM2OJ9aeNokgdzPr+WXa82mefZL3C1umY+SYKJCzZnqeB/AvM5zIEeqiSsEXyKADBRukyhWJMTVa/ZLMkDuY3vduBk6rvV8g0s=
+ml6rpe4tlnisu877ntpnhfk1edqtmkma.edu.	86400	IN	NSEC3	1 1 0 -  mlr2e00nn6vo9ntsrsmvvc1ot7m38ciq NS DS RRSIG 

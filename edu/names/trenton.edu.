@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+blhkthee2oj2dc5d5jg7eh1mb24tag9j.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051941 20160704040941 15617 edu. Psjce9350AQY0yEOfYeJwNhc4HbfWjqtc39KGje5H2GBX33ofNMqVK1yQ3QccbsmIaIbueu3aREQC78Nur8Bbh/0HW/YRiefQS9gSYk4i4Pjt7dg7iWThZCSMohX93487gG81yPyywK9rwIDzeIbWlMTA+11Q5SocH3qt8MSS5E=
+blhkthee2oj2dc5d5jg7eh1mb24tag9j.edu.	86400	IN	NSEC3	1 1 0 -  bm9g98djba5qfbbp5624hu5tqffudci9 NS DS RRSIG 
+ns1.tcnj.edu.	172800	IN	A	159.91.15.220
+ns2.tcnj.edu.	172800	IN	A	159.91.8.25
+peter-parker2.tcnj.edu.	172800	IN	A	97.107.135.21
+trenton.edu.	172800	IN	NS	ns1.tcnj.edu.
+trenton.edu.	172800	IN	NS	ns2.tcnj.edu.
+trenton.edu.	172800	IN	NS	peter-parker2.tcnj.edu.

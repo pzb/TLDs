@@ -1,0 +1,8 @@
+ns3.topsecureservers.com.	172800	IN	A	23.91.70.36
+ns4.topsecureservers.com.	172800	IN	A	143.95.249.51
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+l7o7asm0qmjq8cu6i72s9g59cfm0tmgh.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711234142 20160704223142 15617 edu. 4ja/CJPeCxsxcpoI6PbIS0TRbg59++YOAi/Rva0GqHD0FaHBiSOW91HH2I+Vc6fOoPN1LUmIgExNxwtGmukiiQ+LhkLD8c/qUOwqYaODj5ki5/Ndq6InaUcmniC9Ji2gSZgM0IpvrRYKEDiMlqksT9/RCmjITV6jymhuRm0i2fw=
+l7o7asm0qmjq8cu6i72s9g59cfm0tmgh.edu.	86400	IN	NSEC3	1 1 0 -  lbsvbmgto0mmukakief14c8dn28v239d NS DS RRSIG 
+uit.edu.	172800	IN	NS	ns3.topsecureservers.com.
+uit.edu.	172800	IN	NS	ns4.topsecureservers.com.

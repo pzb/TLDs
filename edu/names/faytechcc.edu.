@@ -1,0 +1,12 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+faytechcc.edu.	172800	IN	NS	ns.faytechcc.edu.
+faytechcc.edu.	172800	IN	NS	ncnoc.ncren.net.
+faytechcc.edu.	172800	IN	NS	reggae.ncren.net.
+faytechcc.edu.	172800	IN	NS	chlt-ns1.ncren.net.
+ns.faytechcc.edu.	172800	IN	A	198.85.210.14
+mf43rnhbllce4jpr0pbuj8fn1olmce29.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709051625 20160702040625 15617 edu. gTgwGXAoGmybD8JPMTVlPnpQIcyGU1TRJQB8UvXDr9OIfWxSv2sBzQDCqxMi7g3UFhXNOlyDpEGFce1IcFR+FjUnesjHBopFWMVyof7Bjhs1e87hnne6CLvRmSyIvbdGXjdy2IDowmZgRl9E3vPObvTs8xXDHB+uwhLJmdD03MA=
+mf43rnhbllce4jpr0pbuj8fn1olmce29.edu.	86400	IN	NSEC3	1 1 0 -  mf9jtan2prk03jfrko3vmus5f17f5erl NS DS RRSIG 
+chlt-ns1.ncren.net.	172800	IN	A	128.109.249.27
+ncnoc.ncren.net.	172800	IN	A	192.101.21.1
+reggae.ncren.net.	172800	IN	A	128.109.131.3

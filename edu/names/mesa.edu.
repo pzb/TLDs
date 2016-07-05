@@ -1,0 +1,12 @@
+mesa.edu.	172800	IN	NS	ns1.mesa.edu.
+mesa.edu.	172800	IN	NS	ns2.mesa.edu.
+mesa.edu.	172800	IN	NS	authns1.qwest.net.
+mesa.edu.	172800	IN	NS	authns2.qwest.net.
+mesa.edu.	86400	IN	DS	24271 5 2 73c58a44b8b4d667e2aeb9002b7c5257e1c32fefa155cf21974c191a1ac8d734
+mesa.edu.	86400	IN	RRSIG	DS 8 2 86400 20160709051625 20160702040625 15617 edu. ES+jQrx1CkbkiqxX71Q951hZLzJL6F5EKeiu5NufDPx4Emsy8qHk9vBbJmhYPigYfS6DRkX2N0iH95ClO+ucSW97S7ibLWXl4tPeHoYZ5KCRCLqjhom0UD7efds+e2lomUq+E3zxuP00ClHluEg+hVeWXfIJLo220yJkpNSeFBM=
+ns1.mesa.edu.	172800	IN	A	72.166.224.2
+ns2.mesa.edu.	172800	IN	A	72.166.224.101
+authns1.qwest.net.	172800	IN	A	63.150.72.4
+authns1.qwest.net.	172800	IN	AAAA	2001:428::5
+authns2.qwest.net.	172800	IN	A	208.44.130.120
+authns2.qwest.net.	172800	IN	AAAA	2001:428::6

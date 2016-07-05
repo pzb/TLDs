@@ -1,0 +1,18 @@
+ns10.dnsmadeeasy.com.	172800	IN	A	208.94.148.4
+ns11.dnsmadeeasy.com.	172800	IN	A	208.80.124.4
+ns12.dnsmadeeasy.com.	172800	IN	A	208.80.126.4
+ns13.dnsmadeeasy.com.	172800	IN	A	208.80.125.4
+ns13.dnsmadeeasy.com.	172800	IN	AAAA	2600:1801:13::1
+ns14.dnsmadeeasy.com.	172800	IN	A	208.80.127.4
+ns14.dnsmadeeasy.com.	172800	IN	AAAA	2600:1802:14::1
+ns15.dnsmadeeasy.com.	172800	IN	A	208.94.149.4
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+carroll.edu.	172800	IN	NS	ns10.dnsmadeeasy.com.
+carroll.edu.	172800	IN	NS	ns11.dnsmadeeasy.com.
+carroll.edu.	172800	IN	NS	ns12.dnsmadeeasy.com.
+carroll.edu.	172800	IN	NS	ns13.dnsmadeeasy.com.
+carroll.edu.	172800	IN	NS	ns14.dnsmadeeasy.com.
+carroll.edu.	172800	IN	NS	ns15.dnsmadeeasy.com.
+kvghv2p6k4dopsls08vlfk4cfruq0l9o.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711234400 20160704223400 15617 edu. L/HByGWlrHiNz7ugtSa5RHqF6PwuLxtU9dxDtxXDHGofTKnjbiexuRgLSUHQkuG9bCL69nNR1xZfvec1rMDmKcWZ4RmKP9xX1QfDYZG9d9xjGTh6YtEOv6k7/3dDxu1i2pc0TuWj2FOjeLYzDC0PtWu8B1CP7Iy/tl0WMVAde0Q=
+kvghv2p6k4dopsls08vlfk4cfruq0l9o.edu.	86400	IN	NSEC3	1 1 0 -  l1gilsnt3hcl4d9ouci32lvih3bmeisd NS DS RRSIG 

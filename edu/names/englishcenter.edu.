@@ -1,0 +1,10 @@
+ns-us.1and1-dns.com.	172800	IN	A	217.160.82.2
+ns-us.1and1-dns.com.	172800	IN	AAAA	2001:8d8:fe:53:0:d9a0:5202:100
+2mvhjg7ef0dhr59stva993k7vbf1hgdt.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160708052031 20160701041031 15617 edu. oaQZECgPl9pXi8LqUPfBDR019+eaNmB94Htr78Sd1vDHFKv1/BKj72HtVDExlXa6AI4Nk4a+ttUYSsUR0R1HpEqeQkJjgwdjUbu83tAbfPDIZumeaCV2uwFxI3jtWd8aanbqJyhbO2WBblU8/R8V2wRTsodyO3TPKOAIpDwjwNw=
+2mvhjg7ef0dhr59stva993k7vbf1hgdt.edu.	86400	IN	NSEC3	1 1 0 -  2nc6vvhr51ulecudt9l0mkl9rc8etght NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+englishcenter.edu.	172800	IN	NS	ns-us.1and1-dns.de.
+englishcenter.edu.	172800	IN	NS	ns-us.1and1-dns.us.
+englishcenter.edu.	172800	IN	NS	ns-us.1and1-dns.com.
+englishcenter.edu.	172800	IN	NS	ns-us.1and1-dns.org.

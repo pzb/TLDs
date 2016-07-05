@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+m214ceuntr50v95r6n6pb3a3ibbjpn4m.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711010355 20160703235355 15617 edu. LIaA0H6VdZ8T+7pKFNK1d3b8PVuZ1O4xrXdhTrbnQzg6xw6jfXDNs2p9wWQD7MZlw7cj4ASI16UiOjuaXH/NqW4nG1w4+XTvIsnxacpBg1eU7u8aJ4ZF56TRcKQRXDYsEF7iZQVuvj/bvl5y+48TuXT1+Ik0pNc6gQKDRfAewQg=
+m214ceuntr50v95r6n6pb3a3ibbjpn4m.edu.	86400	IN	NSEC3	1 1 0 -  m284qbbjsq6clurd59mlb3oru9c75eit NS DS RRSIG 
+piedmontcc.edu.	172800	IN	NS	ncnoc.ncren.net.
+piedmontcc.edu.	172800	IN	NS	reggae.ncren.net.
+piedmontcc.edu.	172800	IN	NS	chlt-ns1.ncren.net.
+chlt-ns1.ncren.net.	172800	IN	A	128.109.249.27
+ncnoc.ncren.net.	172800	IN	A	192.101.21.1
+reggae.ncren.net.	172800	IN	A	128.109.131.3

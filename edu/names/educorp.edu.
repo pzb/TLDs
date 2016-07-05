@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+educorp.edu.	172800	IN	NS	auth01.ns.uu.net.
+educorp.edu.	172800	IN	NS	auth61.ns.uu.net.
+sj612eqrmpevpjmprm8srn3opojdotli.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711044058 20160704033058 15617 edu. fM/Ogtmu5W0VdN/iPonYg08Bm2xj4cPSCtAfBdbm92L+nBQfqe3u0EJPgVLlOi9Ro7DU6ahCB29nunljXde+Dw7B1HMck7bK3ExciwoIMMWqGLErverydceIuJMNH8+Zqw0KdYowzYSRqtpoGuzbevZWWkIW1i9iKZNRcHOebeE=
+sj612eqrmpevpjmprm8srn3opojdotli.edu.	86400	IN	NSEC3	1 1 0 -  skhuufetpdfv5jojfea021ugooshgto7 NS DS RRSIG 
+auth01.ns.uu.net.	172800	IN	A	198.6.1.81
+auth61.ns.uu.net.	172800	IN	A	198.6.1.182

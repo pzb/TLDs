@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ns1.arizonachristian.edu.	172800	IN	A	192.254.143.184
+ns2.arizonachristian.edu.	172800	IN	A	192.254.143.150
+pp6rghl8qhasulqe5b68km6dq0tm18ej.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712030642 20160705015642 15617 edu. Qwo0QBKdDbSkLvQHzi7dMe4jceVdfKZTlzUoixK/Pmkt1ejS/BVr4i1dX8zMr+zf5HHvyvSBxliPjlV/FAxmnkY4U2ZMbiN4xBnAIyGvcIEmKibVNQ7u47HGkSaqkerkcZPF3FurJ8EnZvnOpROp2XKXb9xCDz86wzDx2wSyho8=
+pp6rghl8qhasulqe5b68km6dq0tm18ej.edu.	86400	IN	NSEC3	1 1 0 -  pq4352n8jbkkc62jkrhr1bthhvaopenk NS DS RRSIG 
+swcaz.edu.	172800	IN	NS	ns1.arizonachristian.edu.
+swcaz.edu.	172800	IN	NS	ns2.arizonachristian.edu.

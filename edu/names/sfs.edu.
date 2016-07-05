@@ -1,0 +1,15 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+kplfo3bda7l2vonv7jnj9qnjcjl5s736.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051942 20160704040942 15617 edu. a7fynwHEZXEBbN02o5rYL+jhJezRKJw5CxGM0p25/Ywx85OGbnd6ecE4o+HRwpAMUpcCsEw7OtGqlXsjTmxg2jXATy/4NTCxgB85+gFCnUHYU2tFsYN+5lv4GxRYnBsUt9bIZ1ShsINGODwy5MtB8Y/lt5X/uxGP95aqZ/owyRQ=
+kplfo3bda7l2vonv7jnj9qnjcjl5s736.edu.	86400	IN	NSEC3	1 1 0 -  kr2ngideauda67cc81g7emc0rch2vofn NS DS RRSIG 
+sfs.edu.	172800	IN	NS	ns1.cloudns.net.
+sfs.edu.	172800	IN	NS	ns2.cloudns.net.
+sfs.edu.	172800	IN	NS	ns3.cloudns.net.
+sfs.edu.	172800	IN	NS	ns4.cloudns.net.
+ns1.cloudns.net.	172800	IN	A	85.159.233.17
+ns1.cloudns.net.	172800	IN	AAAA	2a00:1768:1001:9::1
+ns2.cloudns.net.	172800	IN	A	108.59.1.205
+ns2.cloudns.net.	172800	IN	AAAA	2604:9a00:2100:a001:2::1
+ns3.cloudns.net.	172800	IN	A	188.241.116.117
+ns4.cloudns.net.	172800	IN	A	46.165.223.182
+ns4.cloudns.net.	172800	IN	AAAA	2a00:c98:2030:a00f:1::1

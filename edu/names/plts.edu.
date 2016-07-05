@@ -1,0 +1,16 @@
+ns2164.dns.dyn.com.	172800	IN	A	208.76.59.164
+ns3129.dns.dyn.com.	172800	IN	A	208.76.60.129
+ns4137.dns.dyn.com.	172800	IN	A	208.76.61.137
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+consort-dns01.gtu.edu.	172800	IN	A	209.76.204.50
+consort-dns02.gtu.edu.	172800	IN	A	209.76.204.51
+plts.edu.	172800	IN	NS	ns2164.dns.dyn.com.
+plts.edu.	172800	IN	NS	ns3129.dns.dyn.com.
+plts.edu.	172800	IN	NS	ns4137.dns.dyn.com.
+plts.edu.	172800	IN	NS	psr-dns01.psr.edu.
+plts.edu.	172800	IN	NS	consort-dns01.gtu.edu.
+plts.edu.	172800	IN	NS	consort-dns02.gtu.edu.
+psr-dns01.psr.edu.	172800	IN	A	209.76.204.6
+v1maj3hest3b8n037r0fksfnqukrmnc6.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712030017 20160705015017 15617 edu. 2waTFBvQUFlij7VQ2TyDT8zVvDq837JVJMn3Aa83KU7G6Z598SG2+2vZTa05U4wSpOQHx2CPb+ZNXTJcBHjTyk8585FLH3ij0E9zqTp5tqEwuD34/Q7N/LkPagxKBH1ECJ4GTd/m1SL7vtgUZSkZTBQBbiikSLT/fpc8XFqCLoQ=
+v1maj3hest3b8n037r0fksfnqukrmnc6.edu.	86400	IN	NSEC3	1 1 0 -  v5t84lbs8etnr688v323fndnhua574df NS DS RRSIG 

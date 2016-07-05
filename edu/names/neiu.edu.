@@ -1,0 +1,16 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+k2tvmeapmtv0oveakturvl0eedd38li6.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712021540 20160705010540 15617 edu. DevS85mNdj0x5kGrmrkDQIoJ0rLnH6vpxvh0bfcbbEUwhM4kiBRYuS1tkICSQNDQm8z+3zr/0bZdYYCN27eW8vywjy1BjExZwfAPAcT+FfS8wNfwOVDOFvQzd6Gd44tn2ggXmv+iNLs1E3GDFDk/UhmsQajNqXe7KpxHfmVJzHk=
+k2tvmeapmtv0oveakturvl0eedd38li6.edu.	86400	IN	NSEC3	1 1 0 -  k4g58jtui7m1qa7f97nhqfqjcrsrkm8j NS DS RRSIG 
+neiu.edu.	172800	IN	NS	ns0.neiu.edu.
+neiu.edu.	172800	IN	NS	ns1.neiu.edu.
+neiu.edu.	172800	IN	NS	ns1.illinois.net.
+neiu.edu.	172800	IN	NS	ns2.neiu.edu.
+neiu.edu.	172800	IN	NS	ns2.illinois.net.
+neiu.edu.	172800	IN	NS	ns3.neiu.edu.
+ns0.neiu.edu.	172800	IN	A	209.64.170.216
+ns1.neiu.edu.	172800	IN	A	66.99.13.78
+ns2.neiu.edu.	172800	IN	A	66.99.13.79
+ns3.neiu.edu.	172800	IN	A	66.99.13.80
+ns1.illinois.net.	172800	IN	A	206.166.61.22
+ns2.illinois.net.	172800	IN	A	206.166.17.200

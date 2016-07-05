@@ -1,0 +1,8 @@
+ns1.hostmonster.com.	172800	IN	A	74.220.195.131
+ns2.hostmonster.com.	172800	IN	A	69.89.16.8
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ags.edu.	172800	IN	NS	ns1.hostmonster.com.
+ags.edu.	172800	IN	NS	ns2.hostmonster.com.
+t53dph921ape3dkgqu7fdjuvjik1eehj.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711162746 20160704151746 15617 edu. e/hOls+k8V6u/Jyy/37xcY/9xuunG8bn2U3w0LqfKBU01lVMLoAu9tkU1XRFZ7rlQjHMp55+J4sJkHfmlG7sSg/aBpTiUxEcO3qezqjkEraDxpJExRonNJFjgObI5O9T+kE/DvMNOZhFGaYVD13/u1d87320PzYu2AFgrE+0XnY=
+t53dph921ape3dkgqu7fdjuvjik1eehj.edu.	86400	IN	NSEC3	1 1 0 -  t69o651te0tqdqtfmglqhre2hhl104th NS DS RRSIG 

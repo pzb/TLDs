@@ -1,0 +1,13 @@
+penn.edu.	172800	IN	NS	adns1.upenn.edu.
+penn.edu.	172800	IN	NS	adns2.upenn.edu.
+penn.edu.	172800	IN	NS	adns3.upenn.edu.
+penn.edu.	172800	IN	NS	sns-pb.isc.org.
+penn.edu.	86400	IN	DS	7387 5 1 fb847f9781bb1a08efe99cd6b9112d873cc04126
+penn.edu.	86400	IN	DS	7387 5 2 2560074091800b22e405902a988ffd2ddf2fc6018be61e566da8361b9b3d1fd0
+penn.edu.	86400	IN	RRSIG	DS 8 2 86400 20160709051625 20160702040625 15617 edu. muPeCuZn2ZfGk1WUHATfbPwzBkE/EykLolYW9h7xmREFl+HmC5ets4VPBoT7fkFMAhvwaVr7BmcRDMCLFxRwjDSDdCL4tKytMZ+fPzDBZHaLwp3Spc9ortnNadWzh4NeqeqSPpfqGm2v38JMxNJuGmAkaFHI8JCZ3iR/WLy/sWs=
+adns1.upenn.edu.	172800	IN	A	128.91.3.128
+adns1.upenn.edu.	172800	IN	AAAA	2607:f470:1001::1:a
+adns2.upenn.edu.	172800	IN	A	128.91.254.22
+adns2.upenn.edu.	172800	IN	AAAA	2607:f470:1002::2:3
+adns3.upenn.edu.	172800	IN	A	128.91.251.33
+adns3.upenn.edu.	172800	IN	AAAA	2607:f470:1003::3:c

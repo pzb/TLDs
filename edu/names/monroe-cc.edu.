@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+monroe-cc.edu.	172800	IN	NS	dns1.monroecc.edu.
+monroe-cc.edu.	172800	IN	NS	dns2.monroecc.edu.
+monroe-cc.edu.	172800	IN	NS	dns3.monroecc.edu.
+dns1.monroecc.edu.	172800	IN	A	150.160.1.35
+dns2.monroecc.edu.	172800	IN	A	150.160.200.100
+dns3.monroecc.edu.	172800	IN	A	150.160.100.35
+q2837c7vep1tf5tftf6b4setc5bat241.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711193133 20160704182133 15617 edu. swsVHBxseaDhPMx7u/0MFfE542nVC0KdqaF7Ixzuq0AnBriTODkTf9sbtgaxuEOs6xOw+I69OtP7oCQRlEEDXBjN1cRDAXqzLdZG7oq30cTyfv/oCoZZ7KELork7xEjgAkuAAV4G8eyE/SrkCYHnrDoyPU7ajDq8L5rw23ddpdE=
+q2837c7vep1tf5tftf6b4setc5bat241.edu.	86400	IN	NSEC3	1 1 0 -  q366mf6861vkbs9335ma0g5j7db5jlq1 NS DS RRSIG 

@@ -1,0 +1,14 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+nameo.its.maine.edu.	172800	IN	A	130.111.32.11
+nameo.its.maine.edu.	172800	IN	AAAA	2610:48:100:820::b
+namep.its.maine.edu.	172800	IN	A	130.111.130.7
+namep.its.maine.edu.	172800	IN	AAAA	2610:48:100:482::7
+s31h6n28ea1t4cuqrj3otbvtfm3eu37f.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711204115 20160704193115 15617 edu. QsFkFWMwgH+pWmvnwgX+V9rUElW/V6DA4TEiacdeoIbqrwJSKc4nwbsJ8HHCWwZavXjWX1X1at+oUWtfecEwH1PgLltxOxaMz8mE4pH1rfXIQQvKekZEHsQ0uUqGeYikHSk3n72EKEGvz+EsOeBlCysIEZN7XjQDM+6a2niZZfc=
+s31h6n28ea1t4cuqrj3otbvtfm3eu37f.edu.	86400	IN	NSEC3	1 1 0 -  s9jtjnfp3tp33a1fm9t4ustiq202ti8m NS DS RRSIG 
+thomas.edu.	172800	IN	NS	t16.thomas.edu.
+thomas.edu.	172800	IN	NS	t25.thomas.edu.
+thomas.edu.	172800	IN	NS	nameo.its.maine.edu.
+thomas.edu.	172800	IN	NS	namep.its.maine.edu.
+t16.thomas.edu.	172800	IN	A	66.252.45.9
+t25.thomas.edu.	172800	IN	A	66.252.45.25

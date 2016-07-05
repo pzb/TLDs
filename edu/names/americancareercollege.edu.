@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+americancareercollege.edu.	172800	IN	NS	ns1.americancareercollege.edu.
+americancareercollege.edu.	172800	IN	NS	ns2.americancareercollege.edu.
+ns1.americancareercollege.edu.	172800	IN	A	96.30.59.28
+ns2.americancareercollege.edu.	172800	IN	A	96.30.59.29
+gffmit2eemb3sph36m38elqv1a5msslr.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712020814 20160705005814 15617 edu. ePcI9wasU6I2kMWORF6Em+jRlIDVwFQ5JI38spw1rIF8y/X/TaGN9Idvy9XjmBuL2yXfWeSpf0AOGOLHme1e67GbNvF2MKYdGg8l9K2x3dPip9GLbvtH82s3O9LOTmjVmY6dd6KH0Lku4NhCuzfgCjGI4floDNjQeRe5L9xAOhQ=
+gffmit2eemb3sph36m38elqv1a5msslr.edu.	86400	IN	NSEC3	1 1 0 -  gij1h50t83hsth4r4fe1j8l53tld7bku NS DS RRSIG 

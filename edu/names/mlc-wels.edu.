@@ -1,0 +1,17 @@
+freedns1.registrar-servers.com.	172800	IN	A	72.20.53.50
+freedns2.registrar-servers.com.	172800	IN	A	72.20.38.137
+freedns3.registrar-servers.com.	172800	IN	A	5.135.128.216
+freedns3.registrar-servers.com.	172800	IN	A	62.210.149.103
+freedns4.registrar-servers.com.	172800	IN	A	62.210.149.102
+freedns4.registrar-servers.com.	172800	IN	A	72.20.53.50
+freedns5.registrar-servers.com.	172800	IN	A	72.20.53.50
+freedns5.registrar-servers.com.	172800	IN	A	192.99.40.34
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+klm00oe8plr0bpu3mpomoeqg40fctkh3.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051942 20160704040942 15617 edu. NRKUWjH0MToPWwcvVkLHL+lyzDhwr+d/9N/A8V50Jv0TitC02JBm9yJxcitqqt22frFfyjzj1jjifnhTHPTtYS2Mk0MZEYNTzoEavaqjtPtKqa6K818MtFU7WzpAlQ+r/gvpf7//GBiXg3xB97wR9iyr5mDxPdFoXoHuqSLw60o=
+klm00oe8plr0bpu3mpomoeqg40fctkh3.edu.	86400	IN	NSEC3	1 1 0 -  km7a6ctkn0ti77i6aj8n53b5v2ledi04 NS DS RRSIG 
+mlc-wels.edu.	172800	IN	NS	freedns1.registrar-servers.com.
+mlc-wels.edu.	172800	IN	NS	freedns2.registrar-servers.com.
+mlc-wels.edu.	172800	IN	NS	freedns3.registrar-servers.com.
+mlc-wels.edu.	172800	IN	NS	freedns4.registrar-servers.com.
+mlc-wels.edu.	172800	IN	NS	freedns5.registrar-servers.com.

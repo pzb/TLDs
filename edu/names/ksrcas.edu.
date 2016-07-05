@@ -1,0 +1,8 @@
+nsp26.securehostdns.com.	172800	IN	A	64.31.41.136
+nsp27.securehostdns.com.	172800	IN	A	64.31.41.137
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+g77ol3eiqa9q2t9r6s9894t29nvu3c0t.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712023030 20160705012030 15617 edu. VdGYElHTr7vuIENtI3p5auVnaL/0YZfIoZUAB3jdVP8JtsE7h2aqX83r+xtF3tGee1JAgfbOLoCGA1TT3cH+lpUu6+8jEypOhjAFato9SyvQQwU3aLWMARnzG09b2DfxrtFPssPoKUKD4vqhKUFmSiKMcqIcfNhe8itwBDB5wPg=
+g77ol3eiqa9q2t9r6s9894t29nvu3c0t.edu.	86400	IN	NSEC3	1 1 0 -  g85bajnl3lhehiisi1ki0el9clnvsg35 NS DS RRSIG 
+ksrcas.edu.	172800	IN	NS	nsp26.securehostdns.com.
+ksrcas.edu.	172800	IN	NS	nsp27.securehostdns.com.

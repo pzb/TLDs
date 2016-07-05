@@ -1,0 +1,14 @@
+6o2mbsmnjivmaoc15lu7enpp53kr1mre.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711191827 20160704180827 15617 edu. iSwUZCHUs5vYEYQFSnWBhR5pmQZ41uiqxFUebdU4sNm761aSAP9gx42jaTMlFoC8Lu359Cr7nedV/vDOqFfj4ju2dUsPgKjGk0WqdoETj/R3+G25pssRjOyDuCfAhRpYvd+axBCN+uGuyMzeKSZ38d2Qq6UpPLMwT1pluGEfpdw=
+6o2mbsmnjivmaoc15lu7enpp53kr1mre.edu.	86400	IN	NSEC3	1 1 0 -  6q6bhm2fjev4uhp5dknb5hck30o8e6jq NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+bethelks.edu.	172800	IN	NS	ns7.dnihost.net.
+bethelks.edu.	172800	IN	NS	ns8.dnihost.net.
+bethelks.edu.	172800	IN	NS	bcmta.bethelks.edu.
+bethelks.edu.	172800	IN	NS	nspub.bethelks.edu.
+bcmta.bethelks.edu.	172800	IN	A	70.165.102.8
+nspub.bethelks.edu.	172800	IN	A	70.165.102.4
+ns7.dnihost.net.	172800	IN	A	64.34.212.108
+ns7.dnihost.net.	172800	IN	AAAA	2001:470:1f0f:565::212:108
+ns8.dnihost.net.	172800	IN	A	216.152.128.166
+ns8.dnihost.net.	172800	IN	AAAA	2001:470:1f0f:572::128:166

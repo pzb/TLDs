@@ -1,0 +1,9 @@
+desales.edu.	172800	IN	NS	ns5.desales.edu.
+desales.edu.	172800	IN	NS	ns6.desales.edu.
+desales.edu.	172800	IN	NS	ns7.desales.edu.
+desales.edu.	86400	IN	DS	36976 5 1 c88ea5bd6051bfa0bc18361d61ab0eb7acbcea1c
+desales.edu.	86400	IN	DS	56536 5 1 c89924f07a8fb2d1cec5a8d1783d4859b50bf719
+desales.edu.	86400	IN	RRSIG	DS 8 2 86400 20160709051627 20160702040627 15617 edu. wupnTquVN1lFlB+iY3jhSsZszzVn5hBheuBxoJQzCV4qoMqscEptg875F0PUP/m+fpUW3FEJk1TqY4EvqOvpqyqYL7m9Lc7EQpiHH9l4tajDwunpevHk0vm15ky6aEFI4Cxei1+kGLGs9MS5Q1ki4HWVGdB0uhlmEngqHg+iwY4=
+ns5.desales.edu.	172800	IN	A	173.230.132.77
+ns6.desales.edu.	172800	IN	A	162.209.88.92
+ns7.desales.edu.	172800	IN	A	147.106.255.251

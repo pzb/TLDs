@@ -1,0 +1,12 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+qqecbnn2dksboa32lba795vj55pmcgfc.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711200719 20160704185719 15617 edu. tXpiuy1OPiFootx3Di2cMT82XgCG5FGWYPjjKlZFH/HwmJr4IXDaEJBPfyZU3JFE5tB5bMQNUeuZxATJ7tvVLAX5En9IeLv+QXyCDN3MgaBuFj3W4ty8BVExoyppyHZeSfLIJXaJ+04ASlGfhakOfL1aM0zdVKuziJeDVicJjEw=
+qqecbnn2dksboa32lba795vj55pmcgfc.edu.	86400	IN	NSEC3	1 1 0 -  qucmssm5pbsrimrugm6j92hijgvncqiv NS DS RRSIG 
+uog.edu.	172800	IN	NS	ns.uog.edu.
+uog.edu.	172800	IN	NS	naan.uog.edu.
+uog.edu.	172800	IN	NS	uog2.uog.edu.
+uog.edu.	172800	IN	NS	uog9.uog.edu.
+naan.uog.edu.	172800	IN	A	67.98.162.22
+ns.uog.edu.	172800	IN	A	67.98.164.133
+uog2.uog.edu.	172800	IN	A	192.149.202.102
+uog9.uog.edu.	172800	IN	A	192.149.202.9

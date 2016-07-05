@@ -1,0 +1,15 @@
+ns1.webfaction.com.	172800	IN	A	108.168.213.81
+ns1.webfaction.com.	172800	IN	AAAA	2607:f0d0:1103:106::15
+ns2.webfaction.com.	172800	IN	A	178.79.142.142
+ns2.webfaction.com.	172800	IN	AAAA	2a01:7e00::f03c:91ff:fe93:c381
+ns3.webfaction.com.	172800	IN	A	198.101.157.188
+ns4.webfaction.com.	172800	IN	A	173.230.141.144
+ns4.webfaction.com.	172800	IN	AAAA	2600:3c02::f03c:91ff:fe93:407
+5efqc2vi5mb3nfglpt7oqre21as1puq7.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712010200 20160704235200 15617 edu. yv1+B1guxOBK7dhYZ00UQ2BvCVNtJ/+8JB8GP6iWwPrFbEMYn3yWM1ooe4bF1DIuWi6Bo8gKBh1gqCsMJxCJPLtZCEyHrs5WFOnFziVtt7t3EUqH7p3tJRJmPS8cpiSLIA5couoh8qHJx8M7qkPGiQgD3kyj60xMDGbhzn4VreI=
+5efqc2vi5mb3nfglpt7oqre21as1puq7.edu.	86400	IN	NSEC3	1 1 0 -  5g6a7e9l8n3mt7u6ndm65la995evtt9l NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+klepharm.edu.	172800	IN	NS	ns1.webfaction.com.
+klepharm.edu.	172800	IN	NS	ns2.webfaction.com.
+klepharm.edu.	172800	IN	NS	ns3.webfaction.com.
+klepharm.edu.	172800	IN	NS	ns4.webfaction.com.

@@ -1,0 +1,14 @@
+gsu.edu.	172800	IN	NS	ns1.usg.edu.
+gsu.edu.	172800	IN	NS	ns2.usg.edu.
+gsu.edu.	172800	IN	NS	ns3.usg.edu.
+gsu.edu.	172800	IN	NS	ns4.usg.edu.
+gsu.edu.	172800	IN	NS	dns-ext1.gsu.edu.
+gsu.edu.	172800	IN	NS	dns-ext2.gsu.edu.
+gsu.edu.	86400	IN	DS	28948 5 1 2815b628c59d9477bccf3dc4d46c09ae5422455b
+gsu.edu.	86400	IN	RRSIG	DS 8 2 86400 20160708052037 20160701041037 15617 edu. kWAbJayuAjwHr1HdLQQ5IpYGu3GT6+khM+K4AwKFd3pj9pAczzFb/bhM/VMgeZuHoJv/U9fG/ThQ3NfJANAcZtXOgjN9+ZM2Ar4xKZoSatIf2MFqA94eba6wrRIFFA1fcZEsm6rrGnaf876Q9C/R7xjlVNg2mlJebXEXIw7WzSE=
+dns-ext1.gsu.edu.	172800	IN	A	131.96.7.116
+dns-ext2.gsu.edu.	172800	IN	A	131.96.7.124
+ns1.usg.edu.	172800	IN	A	198.72.72.10
+ns2.usg.edu.	172800	IN	A	131.144.4.9
+ns3.usg.edu.	172800	IN	A	198.72.72.11
+ns4.usg.edu.	172800	IN	A	131.144.4.10

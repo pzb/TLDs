@@ -1,0 +1,8 @@
+07tlmjt2e2rd4rriar0db5s4cota8v7f.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709181422 20160702170422 15617 edu. ogUtFqtgwEVGWiRe3VTrMwBSYl9Lfwdu5Ydtoi5bKwzyz9wdNFINDdSrWCZtrz0lSrXrnsZTZSHXctBfzL1PM+bcnJy4gts1A3dsv7MsemGGtPTEUfKzcKYEGNDUIgUi9fApL02o8y+QVL8VpTOWRb/jOMq96nVxGF+/Q2wQqZw=
+07tlmjt2e2rd4rriar0db5s4cota8v7f.edu.	86400	IN	NSEC3	1 1 0 -  08b338vfhqh6e7gum531k9dgtgupite6 NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+coleman.edu.	172800	IN	NS	dbru.br.ns.els-gms.att.net.
+coleman.edu.	172800	IN	NS	dmtu.mt.ns.els-gms.att.net.
+dbru.br.ns.els-gms.att.net.	172800	IN	A	68.94.156.134
+dmtu.mt.ns.els-gms.att.net.	172800	IN	A	99.99.99.134

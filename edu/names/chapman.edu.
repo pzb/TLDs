@@ -1,0 +1,8 @@
+chapman.edu.	172800	IN	NS	ns1.chapman.edu.
+chapman.edu.	172800	IN	NS	ns2.chapman.edu.
+chapman.edu.	172800	IN	NS	ns3.chapman.edu.
+chapman.edu.	86400	IN	DS	55717 8 1 2134a0de4436ad160f71205e74584464109604d8
+chapman.edu.	86400	IN	RRSIG	DS 8 2 86400 20160711051943 20160704040943 15617 edu. nadE86RVf8rj9dzIYY48/PrNiRZbruOXwc/3PCx3V/42Uo0btAFNZr5DX8wPPl2a+Dwk/wP0lhBLHwh1KOUukZ2KKxz6oZgekE+5itYyZqxy6ffJu3/ZqPNnQedUjJvW23X0ksYEPVc4XBq67xZVD+6l6vJKCy3TOEZNKe5qrkQ=
+ns1.chapman.edu.	172800	IN	A	192.77.116.3
+ns2.chapman.edu.	172800	IN	A	192.77.116.72
+ns3.chapman.edu.	172800	IN	A	198.175.252.3

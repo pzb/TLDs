@@ -1,0 +1,10 @@
+arch.ns.cloudflare.com.	172800	IN	A	173.245.59.68
+arch.ns.cloudflare.com.	172800	IN	AAAA	2400:cb00:2049:1::adf5:3b44
+yolanda.ns.cloudflare.com.	172800	IN	A	173.245.58.241
+yolanda.ns.cloudflare.com.	172800	IN	AAAA	2400:cb00:2049:1::adf5:3af1
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+cmjevlksh1rpo7mmacdtnsffd13r9hmn.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051943 20160704040943 15617 edu. d2o0uhdY6L19+4mbTX/Hi0GjX+AmfZ4/x0+lMrOCBfIEloNIvOrs13bz6m8DK9swo0ASM+1w8zanUXqYFK0DZ82jfErSzSGRcwm2zk2CZ90pKz4Mex9MjGvwsbNU53xcQ21nMldyoZU1T5UbLFQixbIq/RUHVd+XjSHKdo6OtJc=
+cmjevlksh1rpo7mmacdtnsffd13r9hmn.edu.	86400	IN	NSEC3	1 1 0 -  cn6os5d18ideoft89upassu30tgimuii NS DS RRSIG 
+concordia-ny.edu.	172800	IN	NS	arch.ns.cloudflare.com.
+concordia-ny.edu.	172800	IN	NS	yolanda.ns.cloudflare.com.

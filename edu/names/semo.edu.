@@ -1,0 +1,11 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ltv2hfqfh9r36cfajj82q3eprfnrcnu6.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709164045 20160702153045 15617 edu. wpToIYCk7LXQ3Uc2LbKPmk5V3Tm/krw1jEblUNQt0+cA+Z4Ome8WZlDgitTamyzRCvM3Z25JLNHzoKPjhGNkxiGq6IDaMGXo1BbNMfiZoc/g69ZkdTDDbXMIpAqtKX354T9yCuWwFK/3s3aWp8coO4eR1zGImtcDRKd5H2g5huU=
+ltv2hfqfh9r36cfajj82q3eprfnrcnu6.edu.	86400	IN	NSEC3	1 1 0 -  luvuutd2psn4f7ksfhbgettddi3e20j2 NS DS RRSIG 
+semo.edu.	172800	IN	NS	ns.semo.edu.
+semo.edu.	172800	IN	NS	argus.more.net.
+semo.edu.	172800	IN	NS	meramec.coreserv.more.net.
+ns.semo.edu.	172800	IN	A	150.201.32.248
+argus.more.net.	172800	IN	A	150.199.1.11
+argus.more.net.	172800	IN	AAAA	2610:e0:1:1:150:199:1:11
+meramec.coreserv.more.net.	172800	IN	A	150.199.8.1

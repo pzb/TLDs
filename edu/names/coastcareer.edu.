@@ -1,0 +1,10 @@
+mitch.ns.cloudflare.com.	172800	IN	A	173.245.59.208
+mitch.ns.cloudflare.com.	172800	IN	AAAA	2400:cb00:2049:1::adf5:3bd0
+naomi.ns.cloudflare.com.	172800	IN	A	173.245.58.208
+naomi.ns.cloudflare.com.	172800	IN	AAAA	2400:cb00:2049:1::adf5:3ad0
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+bg3kjbmjmjop6nndhq0vm164r8c549s9.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710145453 20160703134453 15617 edu. uFWWhsFKJ3UJe3F6MXSoLPHN4ue1kD2kKKtPvR9BJOMjFaI9IipvHUQKKGY4spSHUsAkMrta/7SAW8Ywftk9vuQESjKEgp0E2bdbR/T59WNdbc4Oc0xm4jkqGbBAqreEdggbc64anDjZ11zoPcKdKaKW1YselxRAUY7HyoKbM+E=
+bg3kjbmjmjop6nndhq0vm164r8c549s9.edu.	86400	IN	NSEC3	1 1 0 -  bha4laugu0qrid36idc2aaamuhfkm255 NS DS RRSIG 
+coastcareer.edu.	172800	IN	NS	mitch.ns.cloudflare.com.
+coastcareer.edu.	172800	IN	NS	naomi.ns.cloudflare.com.

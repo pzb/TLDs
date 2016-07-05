@@ -1,0 +1,14 @@
+lsu.edu.	172800	IN	NS	bigdog.lsu.edu.
+lsu.edu.	172800	IN	NS	phloem.uoregon.edu.
+lsu.edu.	172800	IN	NS	otc-dns1.lsu.edu.
+lsu.edu.	172800	IN	NS	otc-dns2.lsu.edu.
+lsu.edu.	86400	IN	DS	4039 8 2 423fa9a6b9b2cf91c2911c0344e9cef1aa2f3c0a5a7807ee11b74ad7afa1063d
+lsu.edu.	86400	IN	RRSIG	DS 8 2 86400 20160711051940 20160704040940 15617 edu. sODTGV5SEoK8UAxOPNoMwUWK5QSNakVQuQitQehQKTwtYbS2NQaz4bjrulEGqSd7pS/0wW1aEkRiUvBzyo6hWOjxAewx4ac9H5b7FWherGJqswfJxfxlV0ekltNbqHXfS0FDWlvKr4A3i9tecQAKb6WxvjsYAALM7zW9B/2IsPE=
+bigdog.lsu.edu.	172800	IN	A	192.16.176.1
+bigdog.lsu.edu.	172800	IN	AAAA	2620:105:b050::1
+otc-dns1.lsu.edu.	172800	IN	A	192.16.176.69
+otc-dns1.lsu.edu.	172800	IN	AAAA	2620:105:b050:1550::69
+otc-dns2.lsu.edu.	172800	IN	A	192.16.176.70
+otc-dns2.lsu.edu.	172800	IN	AAAA	2620:105:b050:1550::70
+phloem.uoregon.edu.	172800	IN	A	128.223.32.35
+phloem.uoregon.edu.	172800	IN	AAAA	2001:468:d01:20::80df:2023

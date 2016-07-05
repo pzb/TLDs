@@ -1,0 +1,10 @@
+richland.edu.	172800	IN	NS	ns1.illinois.net.
+richland.edu.	172800	IN	NS	ns1.richland.edu.
+richland.edu.	172800	IN	NS	ns2.illinois.net.
+richland.edu.	172800	IN	NS	ns2.richland.edu.
+richland.edu.	86400	IN	DS	65259 7 1 8f85dd16cb429e502694dae853a1aa69c4fde35c
+richland.edu.	86400	IN	RRSIG	DS 8 2 86400 20160709051626 20160702040626 15617 edu. JJAeUcMh6MvdmjwCwppHqIku3Rd4il3jEQfOLQdeelkWwg6TYyiIfRfgTPl037Yqcca+o1ilwG76LR/5w4NwhC+11yJto43+UG4E1p+0ZRmNiOppZTdx1ZGEPLkci+YyLwmsVP3IKn1BjS3yhfTpHWtQpQ9s6JW/0r7Z5z/xXqY=
+ns1.richland.edu.	172800	IN	A	64.107.104.28
+ns2.richland.edu.	172800	IN	A	64.107.104.12
+ns1.illinois.net.	172800	IN	A	206.166.61.22
+ns2.illinois.net.	172800	IN	A	206.166.17.200

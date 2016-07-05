@@ -1,0 +1,11 @@
+dns1.easydns.com.	172800	IN	A	64.68.192.10
+dns1.easydns.com.	172800	IN	AAAA	2001:1838:f001::10
+8m2dqn0voilqoqe8feghr5nur0q0de40.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711143916 20160704132916 15617 edu. Um8rFL9AACnQYzRR6ZHdQ8FZAN56Z3UFRqYkqZvorO69VHhfINnxSReR/3/kWHW6FeFro8pt/O7wKRPJyppPEunEeDn2325zWU+zkBamSgZ6nNF4j5hlXLah4KWPTwBzdQ+QjmrmKPfYHdrAsQzBGKhdfCkE0xXyonIdvj21xY0=
+8m2dqn0voilqoqe8feghr5nur0q0de40.edu.	86400	IN	NSEC3	1 1 0 -  8nj27oac15tnaa38n5l5snqdov27dhdg NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+upcea.edu.	172800	IN	NS	dns1.easydns.com.
+upcea.edu.	172800	IN	NS	dns2.easydns.net.
+upcea.edu.	172800	IN	NS	dns3.easydns.ca.
+dns2.easydns.net.	172800	IN	A	198.41.222.254
+dns2.easydns.net.	172800	IN	AAAA	2400:cb00:2049:1::c629:defe

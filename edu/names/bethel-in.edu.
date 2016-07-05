@@ -1,0 +1,11 @@
+auth1.dns.cogentco.com.	172800	IN	A	66.28.0.14
+auth1.dns.cogentco.com.	172800	IN	AAAA	2001:550:1:a::d
+auth2.dns.cogentco.com.	172800	IN	A	66.28.0.30
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+a2vttvahr4oj6ngli4jlf25gijemfmuh.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712040000 20160705025000 15617 edu. FkuKnlXQOAE9McS80dg997mbdlvlpmWUmmaRy3es/E6jo4Raedy2QypMOjjXJoIGs/xUl0E4C8s4SXheNdQEjLDndMTElXItPZGKBYjQ4tcT/16JpYJfgAaN+KOi4a2ZZMkZ53sQvcD/lMDOthuFRdS/QNrv5lLnvndk9qnTu0o=
+a2vttvahr4oj6ngli4jlf25gijemfmuh.edu.	86400	IN	NSEC3	1 1 0 -  a3jmbug2ga809askaff6artpfpr38e4g NS DS RRSIG 
+bethel-in.edu.	172800	IN	NS	dns1.bethelcollege.edu.
+bethel-in.edu.	172800	IN	NS	auth1.dns.cogentco.com.
+bethel-in.edu.	172800	IN	NS	auth2.dns.cogentco.com.
+dns1.bethelcollege.edu.	172800	IN	A	199.8.57.4

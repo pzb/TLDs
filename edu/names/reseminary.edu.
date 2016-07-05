@@ -1,0 +1,8 @@
+ns27.1and1.com.	172800	IN	A	217.160.82.147
+ns28.1and1.com.	172800	IN	A	217.160.83.147
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+reseminary.edu.	172800	IN	NS	ns27.1and1.com.
+reseminary.edu.	172800	IN	NS	ns28.1and1.com.
+tr5p56gk1pj2b1enjurf9matmdigpivp.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710200517 20160703185517 15617 edu. wBb1Jc4SYeOI//meqKBn/pt4zznQHhr+g/53lb9tl7Cc6A1wq/walmODyOP7agN2Bhh1tY+pSm09Vt6quwPGUrpzWqa4viXAkLIawsygmjWek2irkOiab/umum5LP0/Fq5I2PH+UqpVdZELKfV0tP5Tz15H0C+YWKLQaVO+GREs=
+tr5p56gk1pj2b1enjurf9matmdigpivp.edu.	86400	IN	NSEC3	1 1 0 -  tv44fv3bt5mfpfbro4ksf5vrlvv83i28 NS DS RRSIG 

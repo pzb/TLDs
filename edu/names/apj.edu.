@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+apj.edu.	172800	IN	NS	ns1.worldwidedns.net.
+apj.edu.	172800	IN	NS	ns2.worldwidedns.net.
+apj.edu.	172800	IN	NS	ns3.worldwidedns.net.
+egtn46gdl62as21ii5tgq71tkk5pk58k.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051940 20160704040940 15617 edu. ffYQt+vwk+RDviBrfVDfyxR70HaIe1VBncUwT7gvSf5q/luY+KpZYOCK9BI1px9QaM4JTRX1yJbbMRpjC4BtWXxtypK/fqgFjVmAFW8IlL6PWGYhoEZmJm/mZLbfBw9r9Ouct2rh5ZrjTb2KKVvvGGBj1s+nn0jYTh5OnJootj8=
+egtn46gdl62as21ii5tgq71tkk5pk58k.edu.	86400	IN	NSEC3	1 1 0 -  ehtsq12u826u4cmbd1sbvuu9r1j46mci NS DS RRSIG 
+ns1.worldwidedns.net.	172800	IN	A	207.97.208.112
+ns2.worldwidedns.net.	172800	IN	A	207.97.208.176
+ns3.worldwidedns.net.	172800	IN	A	174.143.111.161

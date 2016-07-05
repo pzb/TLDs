@@ -1,0 +1,11 @@
+silpakorn.edu.	172800	IN	NS	ns1.silpakorn.edu.
+silpakorn.edu.	172800	IN	NS	ns2.silpakorn.edu.
+silpakorn.edu.	172800	IN	NS	ns3.silpakorn.edu.
+silpakorn.edu.	86400	IN	DS	17835 7 1 b0fd63d719d1c2f36a081350014ee4f7cfcba57e
+silpakorn.edu.	86400	IN	DS	17835 7 2 9c7f6c4187aa45bcddd5b8563143b4c6a172d1751f37113b71a0c1abca7749d5
+silpakorn.edu.	86400	IN	RRSIG	DS 8 2 86400 20160708052037 20160701041037 15617 edu. ZxbNB8JF6II27D4gOhbwXqoxp6YDdpiH2ZRHqfasZbHTIL+ZTRA3s+eNSvbrc2431zwRW+1NrUTf10vjkGnR72xMYyg65yzvgNxkbTx7zUYaReAXT2sGTuQWIRP1H/lkDKzSh0f04epJY7arTZj6qNRSeUyWT9tUTabh5FYh7Qw=
+ns1.silpakorn.edu.	172800	IN	A	202.44.135.9
+ns1.silpakorn.edu.	172800	IN	AAAA	2001:3c8:2107::9
+ns2.silpakorn.edu.	172800	IN	A	202.44.135.10
+ns2.silpakorn.edu.	172800	IN	AAAA	2001:3c8:2107::10
+ns3.silpakorn.edu.	172800	IN	A	202.28.18.65

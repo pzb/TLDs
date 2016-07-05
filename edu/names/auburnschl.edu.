@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+auburnschl.edu.	172800	IN	NS	named.unet.maine.edu.
+auburnschl.edu.	172800	IN	NS	namep.unet.maine.edu.
+named.unet.maine.edu.	172800	IN	A	130.111.32.7
+named.unet.maine.edu.	172800	IN	AAAA	2610:48:100:820::7
+namep.unet.maine.edu.	172800	IN	A	130.111.130.7
+namep.unet.maine.edu.	172800	IN	AAAA	2610:48:100:482::7
+nlslq43u050rilu908fpbvrjoi2621sj.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709051627 20160702040627 15617 edu. ftmT4Qa8bZN8JZZBpL6V1apjmewP7v5uF+MXkC5B/XObu2DeiUcWUUXhsy37pgNMIQ/qtu7PbLnD7iawveHJH7wtXgd20kKeklZnjSG0RVlFT5tkxUcsCfunPc9jNJ0ptSJDBsLwiN0Dem7rjjY/a1dbdOPpl3IkUkuPB9/ao/Y=
+nlslq43u050rilu908fpbvrjoi2621sj.edu.	86400	IN	NSEC3	1 1 0 -  nmb8n84odd1uc9uvt4o705pkc9bissvh NS DS RRSIG 

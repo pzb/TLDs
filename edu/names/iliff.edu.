@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+iliff.edu.	172800	IN	NS	ns1.microtech-tel.net.
+iliff.edu.	172800	IN	NS	ns2.microtech-tel.net.
+ovnva6puhrs4hgpmuj8l2j6svj08vnp2.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711144613 20160704133613 15617 edu. H1B5GUercpJoJoePN5osfFqo9uAnlQFtktiYsNlCFrXwumFf20l7uU6toRBmDF4QIZH688hK9uEeX5M3fHLhEGtdVUsewy0zLlZ/k+xGxrXfIeIppvxWBdlv06RPMP2j+HGXhfZA9ZqX0wXe5V5O9jQ8o7fH5yXut1uOESw4kp4=
+ovnva6puhrs4hgpmuj8l2j6svj08vnp2.edu.	86400	IN	NSEC3	1 1 0 -  p0qgoe99kkruv1n3jajqts12hbrvg841 NS DS RRSIG 
+ns1.microtech-tel.net.	172800	IN	A	64.25.238.120
+ns2.microtech-tel.net.	172800	IN	A	66.110.191.107

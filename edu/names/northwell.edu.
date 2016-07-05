@@ -1,0 +1,17 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+northwell.edu.	172800	IN	NS	a2-64.akam.net.
+northwell.edu.	172800	IN	NS	a4-66.akam.net.
+northwell.edu.	172800	IN	NS	a9-67.akam.net.
+northwell.edu.	172800	IN	NS	a1-168.akam.net.
+northwell.edu.	172800	IN	NS	a11-67.akam.net.
+northwell.edu.	172800	IN	NS	a24-65.akam.net.
+oan8unrlh1m3bgccf803gbb807fua0hd.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710094132 20160703083132 15617 edu. Q8+fAIiorMFgSgOgW14Vygir7Hpg6/cuq370OaneSeHu6Z0rHn4X5eAL5N1btu/DxN7B5yEdw7eEAVr02k4dxTruaadckG/T0Q+daagdjBEHiCgBSl9fuF302HGjByIZ+ndGexPLI5o5Ecj2r3befICh9vImxHW8j40mJM/ynz8=
+oan8unrlh1m3bgccf803gbb807fua0hd.edu.	86400	IN	NSEC3	1 1 0 -  oaotn9d4dsmoeclh5nl2kuutu7l9mnj1 NS DS RRSIG 
+a1-168.akam.net.	172800	IN	A	193.108.91.168
+a1-168.akam.net.	172800	IN	AAAA	2600:1401:2::a8
+a11-67.akam.net.	172800	IN	A	84.53.139.67
+a2-64.akam.net.	172800	IN	A	95.100.174.64
+a24-65.akam.net.	172800	IN	A	2.16.130.65
+a4-66.akam.net.	172800	IN	A	72.246.46.66
+a9-67.akam.net.	172800	IN	A	184.85.248.67

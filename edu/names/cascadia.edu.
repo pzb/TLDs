@@ -1,0 +1,14 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+cascadia.edu.	172800	IN	NS	dns2.cascadia.edu.
+cascadia.edu.	172800	IN	NS	dns3.cascadia.edu.
+cascadia.edu.	172800	IN	NS	aws-dns2.cascadia.edu.
+cascadia.edu.	172800	IN	NS	ext-dns1.cascadia.edu.
+cascadia.edu.	172800	IN	NS	ext-dns2.cascadia.edu.
+aws-dns2.cascadia.edu.	172800	IN	A	52.33.250.203
+dns2.cascadia.edu.	172800	IN	A	216.186.69.55
+dns3.cascadia.edu.	172800	IN	A	134.39.185.35
+ext-dns1.cascadia.edu.	172800	IN	A	66.96.72.70
+ext-dns2.cascadia.edu.	172800	IN	A	66.96.72.78
+utalgci5t5j7dauobndqjgv776lpb97i.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712013253 20160705002253 15617 edu. B+x3NqYLFChPcvTsHnofg6hJElKvD8/dSaQSoPaRYHY7V8HBUbVhlsAqTkpQUVGaGHKZoM8usQjXaTGhX8v9+5qJvpi9f/XiCidmYVegosMRLbHzbKUyFbau3XqpMyZpB4NPNwG+717IgvlS3gT74GDsczUFlXns9k5hjoxHAig=
+utalgci5t5j7dauobndqjgv776lpb97i.edu.	86400	IN	NSEC3	1 1 0 -  v12sk9rti555ol412s8gq0c0hcd4o9cl NS DS RRSIG 

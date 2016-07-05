@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+nayanova.edu.	172800	IN	NS	ns1.nayanova.edu.
+nayanova.edu.	172800	IN	NS	ns2.nayanova.edu.
+ns1.nayanova.edu.	172800	IN	A	217.16.27.44
+ns2.nayanova.edu.	172800	IN	A	195.209.74.6
+vtmchnleh928uimd1gsq1l3o0eufed67.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712022132 20160705011132 15617 edu. ehhZtu3dU804n+x8XhuP9ksMho9ChgnXnvKCUYn0fHqyWZxfLbFx7HWyw1TdxOIHubTfUa5wlkP13+aSadFvs2ho7DY5AqtFLIKuCh1ixNkOudQNg4rSs46MK5DChxVEd2HKjM8qyaC4lUNaMMhRZC2uCJ1tpLmMkCoYLDBtBGw=
+vtmchnleh928uimd1gsq1l3o0eufed67.edu.	86400	IN	NSEC3	1 1 0 -  vuju5duhu20bak0t24atnucsj9psjbno NS DS RRSIG 

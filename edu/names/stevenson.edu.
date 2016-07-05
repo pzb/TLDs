@@ -1,0 +1,10 @@
+ns-283.awsdns-35.com.	172800	IN	A	205.251.193.27
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+mu8koh7skcvifr1qn5jb1dmrdtpveh6d.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712033334 20160705022334 15617 edu. OoldR4oM9FgP3pzjkl7mscxFm0w1HgBUK3r3/xyA5S9XM1R7VIjyUJxg5HwMyUGarZpWhmC8QVB1HN+lI7m74ESo+ehbcTnWCRhrTChX+4x4l1XFI2K7EQAzczEg4Qk1Sc9mZHrgzp4Pm5pd1R0CwhVYIdQQd9vdzUrMLo0tYos=
+mu8koh7skcvifr1qn5jb1dmrdtpveh6d.edu.	86400	IN	NSEC3	1 1 0 -  n06kkbuimff9ait0ahej54vccoon7gsi NS DS RRSIG 
+stevenson.edu.	172800	IN	NS	ns-283.awsdns-35.com.
+stevenson.edu.	172800	IN	NS	ns-680.awsdns-21.net.
+stevenson.edu.	172800	IN	NS	ns-1028.awsdns-00.org.
+stevenson.edu.	172800	IN	NS	ns-1965.awsdns-53.co.uk.
+ns-680.awsdns-21.net.	172800	IN	A	205.251.194.168

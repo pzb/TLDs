@@ -1,0 +1,20 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+edmc.edu.	172800	IN	NS	cbru.br.ns.els-gms.att.net.
+edmc.edu.	172800	IN	NS	cmtu.mt.ns.els-gms.att.net.
+edmc.edu.	172800	IN	NS	dbru.br.ns.els-gms.att.net.
+edmc.edu.	172800	IN	NS	authns1.qwest.net.
+edmc.edu.	172800	IN	NS	authns2.qwest.net.
+edmc.edu.	172800	IN	NS	dca-ans-01.inet.qwest.net.
+edmc.edu.	172800	IN	NS	svl-ans-01.inet.qwest.net.
+mfchv3sm7co7dt00761fl4gr7o2v8bbi.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711173257 20160704162257 15617 edu. AeLX8j0JbjhM58pJCsr4CuOtCx2yO/cPfs/OPmf+ZMLoRGsoy5q5qWe169wkoNNuiU6R23qinpHUWDVXE6Rtx1zf2W9AhShKryTEaNmJpFEP1iMHXO/KCE/w2VYfxx/X0fxV50ZzDAFGv2Jt8qGO60MzzXyOaANvV/+rmqfSr4M=
+mfchv3sm7co7dt00761fl4gr7o2v8bbi.edu.	86400	IN	NSEC3	1 1 0 -  mhgl7k2tfgbnl0rlcsrlphvc2f2gtqdq NS DS RRSIG 
+cbru.br.ns.els-gms.att.net.	172800	IN	A	68.94.156.132
+dbru.br.ns.els-gms.att.net.	172800	IN	A	68.94.156.134
+cmtu.mt.ns.els-gms.att.net.	172800	IN	A	99.99.99.132
+authns1.qwest.net.	172800	IN	A	63.150.72.4
+authns1.qwest.net.	172800	IN	AAAA	2001:428::5
+authns2.qwest.net.	172800	IN	A	208.44.130.120
+authns2.qwest.net.	172800	IN	AAAA	2001:428::6
+dca-ans-01.inet.qwest.net.	172800	IN	A	63.150.72.4
+svl-ans-01.inet.qwest.net.	172800	IN	A	208.44.130.120

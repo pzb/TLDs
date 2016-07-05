@@ -1,0 +1,10 @@
+fay.ns.cloudflare.com.	172800	IN	A	173.245.58.115
+fay.ns.cloudflare.com.	172800	IN	AAAA	2400:cb00:2049:1::adf5:3a73
+josh.ns.cloudflare.com.	172800	IN	A	173.245.59.126
+josh.ns.cloudflare.com.	172800	IN	AAAA	2400:cb00:2049:1::adf5:3b7e
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ne.edu.	172800	IN	NS	fay.ns.cloudflare.com.
+ne.edu.	172800	IN	NS	josh.ns.cloudflare.com.
+tedg8ke60gsb8b23f9hskdkgbm7497i2.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711171701 20160704160701 15617 edu. xu/0YIW1QaqqOwM7yqp0QB9qSqDbbzMFcivbWr2omSqkozbB7lOSEpaNQfvQFmtyWG0UfYHa199uY1ZdWIz0Mj4k2/vFajnJpjBd47nytX+NeavV74Z1kVrBbjtj6wHtwlDi6yEtNLElTNKrwuQXiPLOextHRWc2n6pR/icbKBQ=
+tedg8ke60gsb8b23f9hskdkgbm7497i2.edu.	86400	IN	NSEC3	1 1 0 -  tfnto986hrbdpcd7ne8oemkvuokk3627 NS DS RRSIG 

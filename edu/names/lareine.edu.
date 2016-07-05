@@ -1,0 +1,10 @@
+ns1.quickroutedns.com.	172800	IN	A	209.208.45.83
+ns2.quickroutedns.com.	172800	IN	A	209.208.45.91
+ns3.quickroutedns.com.	172800	IN	A	69.16.156.227
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+lareine.edu.	172800	IN	NS	ns1.quickroutedns.com.
+lareine.edu.	172800	IN	NS	ns2.quickroutedns.com.
+lareine.edu.	172800	IN	NS	ns3.quickroutedns.com.
+mtj75hlgebrhk71842bv5didse4rdul4.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710184853 20160703173853 15617 edu. h/cl9BRJ9BKzAOHrGE+a/nbFKO+9KHFR3/cyULL0auJOcm0U0rpDsA9Ms4lgR4lO4JCI/ZYwfzyxx9yoWDjo+s2C+WCACO/mLqfmdiMIYht66zqJ2KZREqVNkUNtbv4vlNWFkoREwRxbxaYmgzwnB7vAx1S3RSvciM8B1kurppU=
+mtj75hlgebrhk71842bv5didse4rdul4.edu.	86400	IN	NSEC3	1 1 0 -  mu8koh7skcvifr1qn5jb1dmrdtpveh6d NS DS RRSIG 

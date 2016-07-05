@@ -1,0 +1,12 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ahgjbburq4tn4n1p6v2doifo78un63ts.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051940 20160704040940 15617 edu. me6zLLYe+ONHPhuPcCQmdIn4qz6ou0LsmPnLOhvX+IOIH31rehAbn18oQPMI57kwqngG9LNZw+YTxNHEZ2Gw8fKgcPVHQuo8u9xqYPwwKGzQum2tXXbsFkVFKtyNPXgFxdAzRHX2NjGn1FAxHoC+5IrYmGHU+vDoEO3WzerBnsA=
+ahgjbburq4tn4n1p6v2doifo78un63ts.edu.	86400	IN	NSEC3	1 1 0 -  ahl7guvhusrrni44rascltvr3rc1rve5 NS DS RRSIG 
+umassd.edu.	172800	IN	NS	ns1.p09.dynect.net.
+umassd.edu.	172800	IN	NS	ns2.p09.dynect.net.
+umassd.edu.	172800	IN	NS	ns3.p09.dynect.net.
+umassd.edu.	172800	IN	NS	ns4.p09.dynect.net.
+ns1.p09.dynect.net.	172800	IN	A	208.78.70.9
+ns2.p09.dynect.net.	172800	IN	A	204.13.250.9
+ns3.p09.dynect.net.	172800	IN	A	208.78.71.9
+ns4.p09.dynect.net.	172800	IN	A	204.13.251.9

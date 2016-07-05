@@ -1,0 +1,10 @@
+357a82rgu5j4d60rhpov22i6rjn2mc7u.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712002027 20160704231027 15617 edu. ggkW20AyWI1je9Y2F2Z0KLG5XrnBQjl9boXh7Qjkv6DAic0UfhmhCUrluftyruEkHyQrGXiCKDs7/iU4rHabp5g2d1tUxWx5npjEl3XApL74GGCu06fbjTyZ5uKtTzu+mzNa0B709cm9yg5XhXIoSWd21NYbi9zqm1o74tTl6nw=
+357a82rgu5j4d60rhpov22i6rjn2mc7u.edu.	86400	IN	NSEC3	1 1 0 -  360vd87p6cvbldiipccugc1e7r9bcjqk NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+kids.edu.	172800	IN	NS	ns1a.dbsintl.net.
+kids.edu.	172800	IN	NS	ns1b.dbsintl.net.
+kids.edu.	172800	IN	NS	ns2a.dbsintl.net.
+ns1a.dbsintl.net.	172800	IN	A	67.216.68.78
+ns1b.dbsintl.net.	172800	IN	A	67.216.68.74
+ns2a.dbsintl.net.	172800	IN	A	69.7.224.7

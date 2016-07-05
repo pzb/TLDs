@@ -1,0 +1,12 @@
+ns.cvnet.com.	172800	IN	A	167.206.1.103
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+fitnyc.edu.	172800	IN	NS	ns.cv.net.
+fitnyc.edu.	172800	IN	NS	ns.cvnet.com.
+fitnyc.edu.	172800	IN	NS	extdns.fitsuny.edu.
+fitnyc.edu.	172800	IN	NS	extdns1.fitsuny.edu.
+extdns.fitsuny.edu.	172800	IN	A	143.55.5.241
+extdns1.fitsuny.edu.	172800	IN	A	143.55.5.235
+ncs092kacose3idsjcvalc18p26g57r9.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711063019 20160704052019 15617 edu. XLIHmtY0CzJCrdWIf6IcrUad22g6CdUGUaaEf4NvQ4azFEL3RM2y7ccRAeCShA9bXXh9sLO5g5M9vZE2RZQKiQkdopqiTZlO7mlYBG6xmplN+1JD1VvHhGBc1qcav8xnDh3hC5TImieH5a6z6Rb2D8MaIlpgIHh/Mr78DGABCJQ=
+ncs092kacose3idsjcvalc18p26g57r9.edu.	86400	IN	NSEC3	1 1 0 -  ne0km9b0fl4ajigvnf7mgvpupgv02aiv NS DS RRSIG 
+ns.cv.net.	172800	IN	A	167.206.1.30

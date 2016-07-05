@@ -1,0 +1,16 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+euucitl5dvtm09pc3nv8t8bp02gkrkbh.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711140950 20160704125950 15617 edu. V0VPSXkeysNHaJ3OaiIZYV+SoDCYjvvzJpcsLMJPDc6NmwiIsB0qjPYcdBE/NLeGauQ5n12DywUfy+4hwP0JKd3SqKJu4tHaVOEjZEQGp8iOjRNocQbf9Mf5dGpDUc34KxuXSYgDLUIBX42RCnghUWXlSJolk4j9YTmePIFkPSU=
+euucitl5dvtm09pc3nv8t8bp02gkrkbh.edu.	86400	IN	NSEC3	1 1 0 -  f19eijuk6lrau1ovna2scgfu2tsq9e5h NS DS RRSIG 
+uosc.edu.	172800	IN	NS	ns1.dnspark.net.
+uosc.edu.	172800	IN	NS	ns2.dnspark.net.
+uosc.edu.	172800	IN	NS	ns3.dnspark.net.
+uosc.edu.	172800	IN	NS	ns4.dnspark.net.
+uosc.edu.	172800	IN	NS	ns5.dnspark.net.
+ns1.dnspark.net.	172800	IN	A	216.59.57.100
+ns1.dnspark.net.	172800	IN	AAAA	2602:ffe2:10::100
+ns2.dnspark.net.	172800	IN	A	104.153.199.100
+ns3.dnspark.net.	172800	IN	A	159.253.153.220
+ns4.dnspark.net.	172800	IN	A	104.153.199.100
+ns5.dnspark.net.	172800	IN	A	159.253.153.220
+ns5.dnspark.net.	172800	IN	AAAA	2607:f0d0:2002:b5::2

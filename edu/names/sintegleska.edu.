@@ -1,0 +1,8 @@
+8oe1mrkgmau2pllhsm4o8ujreo823jeo.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709051628 20160702040628 15617 edu. ddbb2ScPmpeuzJDKiGBKyKxFaKqbj9p/+XJE/yqCUArjmwIQfk9igg6An1SJ2M671v9uzj5moSckupXkyrf2+TiTeK63qS40efnd7qk85TlJgiDP8L+3hvj8tJ1awCONReitN7+vCNCo2Q2DVNQvs6JNfbWQST8OFbjpTtStk5U=
+8oe1mrkgmau2pllhsm4o8ujreo823jeo.edu.	86400	IN	NSEC3	1 1 0 -  8oif5oqeqnmsq7fub8q8d1fa154g01mj NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+sintegleska.edu.	172800	IN	NS	ns1.gwtc.net.
+sintegleska.edu.	172800	IN	NS	ns2.gwtc.net.
+ns1.gwtc.net.	172800	IN	A	64.251.173.3
+ns2.gwtc.net.	172800	IN	A	64.251.160.3

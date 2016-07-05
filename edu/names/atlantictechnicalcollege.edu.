@@ -1,0 +1,10 @@
+ns1.softlayer.com.	172800	IN	A	67.228.254.4
+ns1.softlayer.com.	172800	IN	AAAA	2607:f0d0:0:f:1::1
+ns2.softlayer.com.	172800	IN	A	67.228.255.5
+ns2.softlayer.com.	172800	IN	AAAA	2607:f0d0:0:f:2::1
+0ioa63meunuivf6o394u8jmpt74n41hk.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711145715 20160704134715 15617 edu. G08lw9eNBQmAVHxMRV4wqaGTiFlf3YlMX0NA6OcUiN1GzMlC8UrQlkCc7iiukZ6aS1ACC38CWqWKYyMWDKBLDnBNUrdaqpc9cDh2sSZtsvC+OGEx2JPjbRvLNFdMWUTSYUHCwgnmQpw65pQmil0/jQ+rso/N5Nm2wjDxx60BVgE=
+0ioa63meunuivf6o394u8jmpt74n41hk.edu.	86400	IN	NSEC3	1 1 0 -  0j9iirp5j9d7t34jahe78fvtl7r4mvf2 NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+atlantictechnicalcollege.edu.	172800	IN	NS	ns1.softlayer.com.
+atlantictechnicalcollege.edu.	172800	IN	NS	ns2.softlayer.com.

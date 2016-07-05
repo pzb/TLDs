@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+canisius.edu.	172800	IN	NS	ns3.broadwing.net.
+canisius.edu.	172800	IN	NS	ns4.broadwing.net.
+ne3brkne599uulffd100ikkh2tvp2t6a.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711181458 20160704170458 15617 edu. luduqS7sQeBm2VKCY16uhqPXCkpiX65xNma93jQy0G54lYGo2iITyXShiTZbUTpUIYP5omin7/Ol85NFFAIEKtHPkeyc4AT19x9lWKxvc8yd7nSmRlMiobQiza55M7bP/eI1W7fYk2aE31IPoJBukxnxHwtUmndSma5wTzA7R4k=
+ne3brkne599uulffd100ikkh2tvp2t6a.edu.	86400	IN	NSEC3	1 1 0 -  nenuqjoovnqrei15hjt63aj0ld61efal NS DS RRSIG 
+ns3.broadwing.net.	172800	IN	A	216.140.16.252
+ns4.broadwing.net.	172800	IN	A	216.140.17.252

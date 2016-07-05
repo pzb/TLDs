@@ -1,0 +1,9 @@
+robotns3.second-ns.com.	172800	IN	A	193.47.99.3
+robotns3.second-ns.com.	172800	IN	AAAA	2001:67c:192c::add:a3
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+hit.edu.	172800	IN	NS	ns1.first-ns.de.
+hit.edu.	172800	IN	NS	robotns2.second-ns.de.
+hit.edu.	172800	IN	NS	robotns3.second-ns.com.
+ofpsulbanq1pfejf97rn0j902qs4cl0o.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712041534 20160705030534 15617 edu. hEGNMlasqJVEy/0Lc/EpO0yVcZ/M2zw52yOLqiOm2VNtxYEuy7qOt85X5A6dJurGtSqvukTer+Qt1IvZ+J7ZRhpgScmMxv+dT42aUTIHR5MowrcabMrWRzRmHxwmD3YezCSn1CuHgTZ9ZdujJ3PIJ1QhYZvvTDcBI01qnhba8mw=
+ofpsulbanq1pfejf97rn0j902qs4cl0o.edu.	86400	IN	NSEC3	1 1 0 -  oi6cl7jn0snqeknthdk41oojmvhpod2l NS DS RRSIG 

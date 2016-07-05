@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+csudh.edu.	172800	IN	NS	ns1.csu.net.
+csudh.edu.	172800	IN	NS	ns1.csudh.edu.
+csudh.edu.	172800	IN	NS	ns3.csudh.edu.
+ns1.csudh.edu.	172800	IN	A	155.135.55.2
+ns3.csudh.edu.	172800	IN	A	155.135.55.125
+rn9r1tmadfempd3jmm962u207negh4ef.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711175313 20160704164313 15617 edu. OjNsJtL1h9gzGvNbjf8zGgUcHSemhn36xT1XBzGavmkUiTCPMNLVUziHvl1qfQjhSZUunSZSwQ8edjNmo1a47GPlKUbem7KxVg88pqK4BZRg55dCgerv4izqPqJHEpsVTIKLOUY6imnybe/23BlrmL2vXbe/X/BcUajAurCfzVc=
+rn9r1tmadfempd3jmm962u207negh4ef.edu.	86400	IN	NSEC3	1 1 0 -  rong6nkel6ssth2m6jr9fs5112bmdhe6 NS DS RRSIG 
+ns1.csu.net.	172800	IN	A	130.150.102.100

@@ -1,0 +1,10 @@
+7fhdvsmjvn0sss5uajg0ffiktlsmbtfc.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709051628 20160702040628 15617 edu. aDogG4uXTB7IH/bdGJMAmo0dy2ifMlUtSYgmcN2G1b4jZpno+Zr8F/IBOuH2l5Z/xL/nXnL/GF7do8NPu1fqqaUH5vPVSnwOfrEu5Wj67n6rtcXGkljhjZ0yppW3cSi2ChrCBCW7bfQAkKlF085hT7JCBFC98lUiuwrGGMC7fWg=
+7fhdvsmjvn0sss5uajg0ffiktlsmbtfc.edu.	86400	IN	NSEC3	1 1 0 -  7fp7184dgauqc8e7io8ltpb5m8mp7ovt NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ns1.asc.edu.	172800	IN	A	129.66.95.3
+ns2.asc.edu.	172800	IN	A	129.66.76.4
+ns3.asc.edu.	172800	IN	A	129.66.172.9
+faulknerstate.edu.	172800	IN	NS	ns1.asc.edu.
+faulknerstate.edu.	172800	IN	NS	ns2.asc.edu.
+faulknerstate.edu.	172800	IN	NS	ns3.asc.edu.

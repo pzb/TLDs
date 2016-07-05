@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+deltacollege.edu.	172800	IN	NS	ns1.deltacollege.edu.
+deltacollege.edu.	172800	IN	NS	ns2.deltacollege.edu.
+ns1.deltacollege.edu.	172800	IN	A	207.62.175.75
+ns2.deltacollege.edu.	172800	IN	A	207.62.174.200
+lea85eblt1o9kasadgooh1g2vmtjp206.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710162220 20160703151220 15617 edu. roe+sb+SwvUHMQVAlul+qt1gtN+rNQMHsqaECTwijnODq8fnmWq81X3KY5zJOS6tJJ6TGy0LHctI6fEN9fzEAKrY8BmYWIn8JAVh6PPGNEUBILMz5jZr3Z6NjL7Nj3otPFDJxW7n0fXjbEI+/FKaMFQNt4668ymCHf+ZTf877VA=
+lea85eblt1o9kasadgooh1g2vmtjp206.edu.	86400	IN	NSEC3	1 1 0 -  leigihi4j3ke2evp2v6ddimhffchs4au NS DS RRSIG 

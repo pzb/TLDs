@@ -1,0 +1,12 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+cipmuo30dt16968mbk6o51fsp7j838k9.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712002129 20160704231129 15617 edu. 40VRPz7w84sX8DMdQEo1+vKA9VdnrdXDCfHqdS/d2VRC4EgXXj1edXfZKRUT5BMlxkACOgTKBclKbwK6BTSXkt4oC4vD/t3uOkKrbPrJ4esUjErtj4nRP2Y/okPux5AI05kNkcKnVDhy+moiPf2Cj5t4Jhzy3FnPNedTeWA+In4=
+cipmuo30dt16968mbk6o51fsp7j838k9.edu.	86400	IN	NSEC3	1 1 0 -  ck2mamv1bub0b6gnds966luso8m7hh1j NS DS RRSIG 
+justice.shawu.edu.	172800	IN	A	152.39.93.5
+sanity.shawu.edu.	172800	IN	A	152.39.4.9
+truth.shawu.edu.	172800	IN	A	152.39.93.4
+vestal.shawu.edu.	172800	IN	A	152.39.4.102
+shawuniversity.edu.	172800	IN	NS	truth.shawu.edu.
+shawuniversity.edu.	172800	IN	NS	sanity.shawu.edu.
+shawuniversity.edu.	172800	IN	NS	vestal.shawu.edu.
+shawuniversity.edu.	172800	IN	NS	justice.shawu.edu.

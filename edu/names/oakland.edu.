@@ -1,0 +1,12 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+oakland.edu.	172800	IN	NS	dns1.oakland.edu.
+oakland.edu.	172800	IN	NS	dns2.oakland.edu.
+oakland.edu.	172800	IN	NS	dns3.oakland.edu.
+dns1.oakland.edu.	172800	IN	A	141.210.2.4
+dns1.oakland.edu.	172800	IN	AAAA	2001:48a8:60f0:300::2:4
+dns2.oakland.edu.	172800	IN	A	141.210.2.132
+dns2.oakland.edu.	172800	IN	AAAA	2001:48a8:60f0:301::2:132
+dns3.oakland.edu.	172800	IN	A	74.94.228.149
+qcfhfsugklnm7ekhfk3p9s28outgt4lj.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711044948 20160704033948 15617 edu. VAm1lwGkVguIZT0pMcrTc8Vfnh2uKWGdqTHeKCIZoCEGUxm5AM/3+UUEV48KpWsD50oUymPm1YzCutd4sEZOjM/3zGd5/+o9wKVskUpBWzRROQvEEp1h2zTIDs8geoGmmM6sRyf6TxifEdfc3L9N0LBTgaurhCyqd6aN9LUumoI=
+qcfhfsugklnm7ekhfk3p9s28outgt4lj.edu.	86400	IN	NSEC3	1 1 0 -  qdoi6ke1oqmek8v96psaseh050p0f366 NS DS RRSIG 

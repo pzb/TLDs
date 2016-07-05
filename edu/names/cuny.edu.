@@ -1,0 +1,14 @@
+46bt1dt3gl757mc6b40fdhn52eom4949.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712024825 20160705013825 15617 edu. 0Mixin+PgFwL1qqIB+itVQy6VlLXEcd2TsSPz9+le3qcK5GByl3ie/wOMGfk8F25pCT99XAE2qL06OkmKIoyw0ZIeqZ/QWRYQ6q+bixrhwRcAD0qdxJCx91B65abvlfP5Cn54iovA5twur0bF2i/AIX3JM2wCyRWHDE2pUxrEHc=
+46bt1dt3gl757mc6b40fdhn52eom4949.edu.	86400	IN	NSEC3	1 1 0 -  489sn5n7038fg5mpg4q5tcgot5vgf65f NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ext-ns1.columbia.edu.	172800	IN	A	128.59.1.1
+cuny.edu.	172800	IN	NS	acme.ucc.cuny.edu.
+cuny.edu.	172800	IN	NS	ns10.customer.level3.net.
+cuny.edu.	172800	IN	NS	ns15.customer.level3.net.
+cuny.edu.	172800	IN	NS	ext-ns1.columbia.edu.
+cuny.edu.	172800	IN	NS	lavinia.cis.cuny.edu.
+lavinia.cis.cuny.edu.	172800	IN	A	128.228.5.64
+acme.ucc.cuny.edu.	172800	IN	A	128.228.1.10
+ns10.customer.level3.net.	172800	IN	A	209.244.4.149
+ns15.customer.level3.net.	172800	IN	A	209.244.4.244

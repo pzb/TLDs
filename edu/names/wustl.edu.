@@ -1,0 +1,14 @@
+17h5duovvqba96ana58fjgmfe176j3bp.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711070735 20160704055735 15617 edu. WTty75JCEES5OpSM7HIOb+f5byAhZrx0P8dd4of2uC41liXf0PVda/DOl2qCAn5m6jq8LLUUd+YZ/Ey6Ap0ylYO4ooNlwUaThE0qDSeYMlXWYJmYckfrdqsaCV+jGzeD+1Rk5tFHkae8Bisccd87Ifmjuc016uMHjpW8LPt6ZWs=
+17h5duovvqba96ana58fjgmfe176j3bp.edu.	86400	IN	NSEC3	1 1 0 -  19evr738e9rmh97sogitmmped75b7b4r NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+alpha.louisiana.edu.	172800	IN	A	130.70.128.2
+wustl.edu.	172800	IN	NS	ns00.ip.wustl.edu.
+wustl.edu.	172800	IN	NS	ns01.ip.wustl.edu.
+wustl.edu.	172800	IN	NS	ns02.ip.wustl.edu.
+wustl.edu.	172800	IN	NS	ns03.ip.wustl.edu.
+wustl.edu.	172800	IN	NS	alpha.louisiana.edu.
+ns00.ip.wustl.edu.	172800	IN	A	128.252.0.1
+ns01.ip.wustl.edu.	172800	IN	A	128.252.0.9
+ns02.ip.wustl.edu.	172800	IN	A	128.252.0.17
+ns03.ip.wustl.edu.	172800	IN	A	128.252.0.25

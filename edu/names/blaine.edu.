@@ -1,0 +1,8 @@
+ns1.brinkster.com.	172800	IN	A	65.182.99.55
+ns2.brinkster.com.	172800	IN	A	65.182.101.55
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+blaine.edu.	172800	IN	NS	ns1.brinkster.com.
+blaine.edu.	172800	IN	NS	ns2.brinkster.com.
+brorbekfvrnch1nrdamqhio1eicd8s5t.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711222146 20160704211146 15617 edu. YwWz8MduF3SYNSaTNVsxstVydHx33P5teDWNV5+0JHjj/2YYNRMCo19X3p0vQAfnttRBfnsTROZsHsbqYP7DWSmgXVF0hNM4f33hrEfLHXcGycpXt4TGF8prLp+1Z9V61V51qcCp6jJu6w1rvOCdYaf27uAGiV1ZUA8yfvPGL/s=
+brorbekfvrnch1nrdamqhio1eicd8s5t.edu.	86400	IN	NSEC3	1 1 0 -  bvcudjvjk6gipmrjfnhm6o48pefcjp3p NS DS RRSIG 

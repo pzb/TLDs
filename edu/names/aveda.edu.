@@ -1,0 +1,10 @@
+ns2.elcompanies.com.	172800	IN	A	206.193.132.79
+ns4.elcompanies.com.	172800	IN	A	206.193.170.10
+ns5.elcompanies.com.	172800	IN	A	202.74.97.10
+7go3o2lp5n0jft8tqcvis69muacrt3q2.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711232228 20160704221228 15617 edu. SltB/aolz62ihTkng0VewappYG8+29CNoTxmBGpameVYzXAWGzIITaMogx4KEMwwWpQ4AhwNZYR7/FvxOmrvj6/HoOyOg9QxzYa9JAp6dxFD0iP96ph+bAC3SpTo40DnxW3+otUtpPsx34KXRmwMpX79GGhuwAwOcVmP2Aq4NVc=
+7go3o2lp5n0jft8tqcvis69muacrt3q2.edu.	86400	IN	NSEC3	1 1 0 -  7h4cge0tnsng1a4jionhpp4j5fih4rck NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+aveda.edu.	172800	IN	NS	ns2.elcompanies.com.
+aveda.edu.	172800	IN	NS	ns4.elcompanies.com.
+aveda.edu.	172800	IN	NS	ns5.elcompanies.com.

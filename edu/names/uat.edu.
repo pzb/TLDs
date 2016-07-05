@@ -1,0 +1,16 @@
+ns-cloud-d1.googledomains.com.	172800	IN	A	216.239.32.109
+ns-cloud-d1.googledomains.com.	172800	IN	AAAA	2001:4860:4802:32::6d
+ns-cloud-d2.googledomains.com.	172800	IN	A	216.239.34.109
+ns-cloud-d2.googledomains.com.	172800	IN	AAAA	2001:4860:4802:34::6d
+ns-cloud-d3.googledomains.com.	172800	IN	A	216.239.36.109
+ns-cloud-d3.googledomains.com.	172800	IN	AAAA	2001:4860:4802:36::6d
+ns-cloud-d4.googledomains.com.	172800	IN	A	216.239.38.109
+ns-cloud-d4.googledomains.com.	172800	IN	AAAA	2001:4860:4802:38::6d
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+s31h6n28ea1t4cuqrj3otbvtfm3eu37f.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711204115 20160704193115 15617 edu. QsFkFWMwgH+pWmvnwgX+V9rUElW/V6DA4TEiacdeoIbqrwJSKc4nwbsJ8HHCWwZavXjWX1X1at+oUWtfecEwH1PgLltxOxaMz8mE4pH1rfXIQQvKekZEHsQ0uUqGeYikHSk3n72EKEGvz+EsOeBlCysIEZN7XjQDM+6a2niZZfc=
+s31h6n28ea1t4cuqrj3otbvtfm3eu37f.edu.	86400	IN	NSEC3	1 1 0 -  s9jtjnfp3tp33a1fm9t4ustiq202ti8m NS DS RRSIG 
+uat.edu.	172800	IN	NS	ns-cloud-d1.googledomains.com.
+uat.edu.	172800	IN	NS	ns-cloud-d2.googledomains.com.
+uat.edu.	172800	IN	NS	ns-cloud-d3.googledomains.com.
+uat.edu.	172800	IN	NS	ns-cloud-d4.googledomains.com.

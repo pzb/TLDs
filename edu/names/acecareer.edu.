@@ -1,0 +1,8 @@
+ns4.dnsserver8.com.	172800	IN	A	65.254.254.152
+ns5.dnsserver8.com.	172800	IN	A	66.96.142.117
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+9kuj8n6fmpnvvtpu9esh5iegfulkk38j.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711232359 20160704221359 15617 edu. a9yEGlsF6R6BW9wCvBnblFS7Ai3Gw+YDbZ1cWIdtsjGK4CpF767JR3xwi/5/qqrkEp0JS8S952Y7bi2O3U1xlRxbrTZUV3C8aKeg5RLtyBqXRF7As2J8TgBocbeVsiapllgkHLxGvO6148+emehTbUVYDu1AGwCxHTgQ23WdxJU=
+9kuj8n6fmpnvvtpu9esh5iegfulkk38j.edu.	86400	IN	NSEC3	1 1 0 -  9ms6ts7kiob5hjm2tq50r7v5ah0mekdl NS DS RRSIG 
+acecareer.edu.	172800	IN	NS	ns4.dnsserver8.com.
+acecareer.edu.	172800	IN	NS	ns5.dnsserver8.com.

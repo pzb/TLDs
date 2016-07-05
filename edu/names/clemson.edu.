@@ -1,0 +1,12 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+clemson.edu.	172800	IN	NS	extns1.clemson.edu.
+clemson.edu.	172800	IN	NS	extns2.clemson.edu.
+clemson.edu.	172800	IN	NS	extns3.clemson.edu.
+extns1.clemson.edu.	172800	IN	A	130.127.255.252
+extns1.clemson.edu.	172800	IN	AAAA	2620:103:a004::252
+extns2.clemson.edu.	172800	IN	A	130.127.255.253
+extns2.clemson.edu.	172800	IN	AAAA	2620:103:a004::253
+extns3.clemson.edu.	172800	IN	A	192.42.3.5
+qjf35107ji4ha6v83i2glnhdko0jni7j.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710193826 20160703182826 15617 edu. rl9esWi14wvZ1x7rN1vpzEl9zivfv+3qaaX1LPSghMEh3Njc/XTUA3/icYUtGZXtUKPM0TARlmfmid+5AHRPdMDQGUErEk/p0D4ms5rFGM4q9AYRg3nUXYI2EIettKaVOgc7ewWGm6fzEV0Eef9MW4XZrM6AG+msNk90QQV+zO4=
+qjf35107ji4ha6v83i2glnhdko0jni7j.edu.	86400	IN	NSEC3	1 1 0 -  ql4qsbkldv10kch3iuevorv38r7viq45 NS DS RRSIG 

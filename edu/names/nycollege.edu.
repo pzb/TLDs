@@ -1,0 +1,13 @@
+ns0.dnsmadeeasy.com.	172800	IN	A	208.94.148.2
+ns1.dnsmadeeasy.com.	172800	IN	A	208.80.124.2
+ns2.dnsmadeeasy.com.	172800	IN	A	208.80.126.2
+ns3.dnsmadeeasy.com.	172800	IN	A	208.80.125.2
+ns3.dnsmadeeasy.com.	172800	IN	AAAA	2600:1801:3::1
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+m096qrvmne0v1jiau28hintfv397ccie.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712004612 20160704233612 15617 edu. m1tpY9nxrJyI1hKEZ2+ppgyTUuU5Ns1QvVSSnEYUEyq5aPoIq6isSXozjd6jzUB4x56fsX3/vXiX7n2Ee1wmWfKKZKb/oFyUi72hXNWlfrJplSCR7D3vlfIr8tEiNEpVguCPD9gYWhRSdWnJTTYHPZEdk1ExBi3lvW3y8FtDT8U=
+m096qrvmne0v1jiau28hintfv397ccie.edu.	86400	IN	NSEC3	1 1 0 -  m1607ut5bas2612pc6aj614jmh6hqoc9 NS DS RRSIG 
+nycollege.edu.	172800	IN	NS	ns0.dnsmadeeasy.com.
+nycollege.edu.	172800	IN	NS	ns1.dnsmadeeasy.com.
+nycollege.edu.	172800	IN	NS	ns2.dnsmadeeasy.com.
+nycollege.edu.	172800	IN	NS	ns3.dnsmadeeasy.com.

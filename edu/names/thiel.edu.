@@ -1,0 +1,10 @@
+ns-280.awsdns-35.com.	172800	IN	A	205.251.193.24
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+nnphu1i7njkp90g250ciu1s1kpbfll8u.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711080323 20160704065323 15617 edu. eiALecazyBASkcXg6OTXai+RO64Rg2PIb25LtQzt1crjHZMROw/x94npPbJwOCo9j0l2vgiHI4vW15Zl5D4+kZ0Yr9CvMNBbIsvTKJD/aoVZkILe2kNdzEjCR+jtii32bit3gmGj/oqaruszrJ1yZjRNTqMFS260v2zvn1VE5vg=
+nnphu1i7njkp90g250ciu1s1kpbfll8u.edu.	86400	IN	NSEC3	1 1 0 -  nos8g1anj5qikt46l3qm4olbqd9v72k5 NS DS RRSIG 
+thiel.edu.	172800	IN	NS	ns-280.awsdns-35.com.
+thiel.edu.	172800	IN	NS	ns-994.awsdns-60.net.
+thiel.edu.	172800	IN	NS	ns-1222.awsdns-24.org.
+thiel.edu.	172800	IN	NS	ns-1571.awsdns-04.co.uk.
+ns-994.awsdns-60.net.	172800	IN	A	205.251.195.226

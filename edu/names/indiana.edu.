@@ -1,0 +1,11 @@
+dns1.illinois.edu.	172800	IN	A	130.126.2.100
+dns1.illinois.edu.	172800	IN	AAAA	2620:0:e00:b::53
+indiana.edu.	172800	IN	NS	dns1.iu.edu.
+indiana.edu.	172800	IN	NS	dns1.illinois.edu.
+indiana.edu.	172800	IN	NS	dns2.iu.edu.
+indiana.edu.	86400	IN	DS	1353 10 1 9d0548e0644ebd00ecd6f479db9138babba8d9ca
+indiana.edu.	86400	IN	DS	1353 10 2 50fa3ee5f9aa493cb70bc9e4a75151275de15f01e7e3fb365864c850ee4a5817
+indiana.edu.	86400	IN	RRSIG	DS 8 2 86400 20160711051941 20160704040941 15617 edu. OcOY/LXQ+GfC7ER7xjZR03Wx2yEoOiKFrcBlphCLLjGmQmULUy+j9uS9LxmRGS9839zcYH/iWXy6G0fL046TlhpQb71VLUhANXxGcqhK7QxxQi2SRtGdqLAJ6+h0bMJ7Zl7fZUN2z8Q5oCNNooEpCWdVyPB2OV6UiiCRbcmbazE=
+dns1.iu.edu.	172800	IN	A	134.68.220.8
+dns2.iu.edu.	172800	IN	A	129.79.1.8
+dns2.iu.edu.	172800	IN	AAAA	2001:18e8:2:8::10

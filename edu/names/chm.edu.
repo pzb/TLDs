@@ -1,0 +1,8 @@
+ns13.worldindia.com.	172800	IN	A	216.55.136.25
+ns14.worldindia.com.	172800	IN	A	216.55.136.209
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+chm.edu.	172800	IN	NS	ns13.worldindia.com.
+chm.edu.	172800	IN	NS	ns14.worldindia.com.
+m7vj498qc58amvkhc5ot01rtr0pd4g60.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711123245 20160704112245 15617 edu. R6tzbYh8Q5Jn+GMGaWY9Zbn3OOFwuh1A+6esgfcMmmxBPou1hrWOzafp2e0apay37gD+ZcjNMgdj/JW164f5sxj6WJOFekLyxmbVvl+PxnunytuZ3JEpS3VA3FzPgU1pBEQmr8/Zi9Nua6xu/i7iv9ELl6qriO6qLsQObb3nAfQ=
+m7vj498qc58amvkhc5ot01rtr0pd4g60.edu.	86400	IN	NSEC3	1 1 0 -  m853ftktrp156f8blih5ouvrpprfg6rp NS DS RRSIG 

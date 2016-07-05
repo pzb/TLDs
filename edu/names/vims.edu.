@@ -1,0 +1,12 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+e4b9q9qmttrl6mcldd46psjvptlfv741.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712012004 20160705001004 15617 edu. p6vRaLRzBKrOBLc+nViym8Ky4GuqpAM805A2Bcq4+0VGIkLP+7BcG0ewE/6xDKRzwiqkrs9Y6xEsu0YYP9BDyoiNICnG8wQYh7qASE4wfDEqvZrOGr3f3J1ULZJh1Xu3X4zEjUb9PVZxmzDSHJSOJhzD6sesg4wSYBZ+Gjdmz1M=
+e4b9q9qmttrl6mcldd46psjvptlfv741.edu.	86400	IN	NSEC3	1 1 0 -  e4our641u973drbk0lp2fs5681iet2av NS DS RRSIG 
+vims.edu.	172800	IN	NS	ns1.wm.edu.
+vims.edu.	172800	IN	NS	ns2.wm.edu.
+vims.edu.	172800	IN	NS	pagan.vims.edu.
+vims.edu.	172800	IN	NS	pocomoke.vims.edu.
+pagan.vims.edu.	172800	IN	A	139.70.2.126
+pocomoke.vims.edu.	172800	IN	A	139.70.2.129
+ns1.wm.edu.	172800	IN	A	128.239.1.2
+ns2.wm.edu.	172800	IN	A	128.239.19.2

@@ -1,0 +1,14 @@
+coloradomesa.edu.	172800	IN	NS	ns1.coloradomesa.edu.
+coloradomesa.edu.	172800	IN	NS	ns2.coloradomesa.edu.
+coloradomesa.edu.	172800	IN	NS	authns1.qwest.net.
+coloradomesa.edu.	172800	IN	NS	authns2.qwest.net.
+coloradomesa.edu.	86400	IN	DS	48466 5 2 5fcfee50c84a682a26c5bcdab04a1cbce198eb0b676a1174aab0aa9e666be655
+coloradomesa.edu.	86400	IN	RRSIG	DS 8 2 86400 20160710053345 20160703042345 15617 edu. SopQhJYVh/JqHEW09UyShwTxUjlFi+lyriH67dCQ0SnqCikYIC/5ovF83BCRxlyeEqU/xEWsA00CDztkKGAK1Wn+7npJMOQmV8bIQ9TUZxeFa3Ni50FfHJSqFnytFR4zaMAJimAWoJ+szouzp+Ou3KcV2V3Vde+u/5vJ8Odos80=
+ns1.coloradomesa.edu.	172800	IN	A	72.166.224.2
+ns1.coloradomesa.edu.	172800	IN	AAAA	2001:428:3801:7::202
+ns2.coloradomesa.edu.	172800	IN	A	72.166.224.101
+ns2.coloradomesa.edu.	172800	IN	AAAA	2001:428:3801:7::265
+authns1.qwest.net.	172800	IN	A	63.150.72.4
+authns1.qwest.net.	172800	IN	AAAA	2001:428::5
+authns2.qwest.net.	172800	IN	A	208.44.130.120
+authns2.qwest.net.	172800	IN	AAAA	2001:428::6

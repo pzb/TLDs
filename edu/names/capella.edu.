@@ -1,0 +1,12 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+capella.edu.	172800	IN	NS	ns1.p15.dynect.net.
+capella.edu.	172800	IN	NS	ns2.p15.dynect.net.
+capella.edu.	172800	IN	NS	ns3.p15.dynect.net.
+capella.edu.	172800	IN	NS	ns4.p15.dynect.net.
+rh8tru35aii0recnm9oritrrr87uqqpj.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711123347 20160704112347 15617 edu. cecU0EDuSbXDrlUWRa+ZXfakYaWDvDjiVmfZWSkoLGJzEKsCr0pVadx7o90b55qaRDSsB3xVptAfyHDciJxpQ7mTF8WDJJ3l01/R9Z8RiCT2IRHZCqEn5b64d3yLEQyZaRvMBN8VCz626kD+MvzUZ1X4Wi2wkykgnfV53juO5U0=
+rh8tru35aii0recnm9oritrrr87uqqpj.edu.	86400	IN	NSEC3	1 1 0 -  rk11042eqjpoojhdljijg3ggteorvecf NS DS RRSIG 
+ns1.p15.dynect.net.	172800	IN	A	208.78.70.15
+ns2.p15.dynect.net.	172800	IN	A	204.13.250.15
+ns3.p15.dynect.net.	172800	IN	A	208.78.71.15
+ns4.p15.dynect.net.	172800	IN	A	204.13.251.15

@@ -1,0 +1,10 @@
+ns1.worldsecuresystems.com.	172800	IN	A	54.236.190.129
+ns2.worldsecuresystems.com.	172800	IN	A	54.246.209.121
+ns3.worldsecuresystems.com.	172800	IN	A	54.252.148.151
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+avucfs606qnef38qcpqbdrj6uoqg4cb3.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711212138 20160704201138 15617 edu. wf2CiRtvndGDC6L48M0DzcAR7XWwVVePArHAr0PME89U0gXPzzFtSdFL9H/5OGlCCibVnNKiuHrn5BjOlZgZmbODT4mR5/fNOENWBuCbvlCFWKQgpm/MZIwaq8pFUTkuq/aOt2S5nPYmLXjCx/3B4qtCmLubEZZFGTIYR7KSw0U=
+avucfs606qnef38qcpqbdrj6uoqg4cb3.edu.	86400	IN	NSEC3	1 1 0 -  b1oslkq3624j4fi3a07biqhncr70tgpn NS DS RRSIG 
+umbi.edu.	172800	IN	NS	ns1.worldsecuresystems.com.
+umbi.edu.	172800	IN	NS	ns2.worldsecuresystems.com.
+umbi.edu.	172800	IN	NS	ns3.worldsecuresystems.com.

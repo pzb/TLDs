@@ -1,0 +1,10 @@
+7aona25thae2do5bb5bu0436vknqlldl.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. 0i3HcJhm7ffCIhVQpa0vSxzzkVq3XG+2yX/3XDq0f78/ywmlft+LNXQZrbfToxJBHUKTcRDx+Onu3Gl5muBnw8DhocH6epBQBT7IH6JniOWp9UwshmnPETQWvfrQ8C7fE6xaeaiZ/6gEMVEbWFKP++kFAYE/3cwkilQBDyu/6sA=
+7aona25thae2do5bb5bu0436vknqlldl.edu.	86400	IN	NSEC3	1 1 0 -  7bapo54bfmn18fckk106chct47pflr59 NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ucm.edu.	172800	IN	NS	luigi.ucmerced.edu.
+ucm.edu.	172800	IN	NS	tulum.ucmerced.edu.
+ucm.edu.	172800	IN	NS	fatxmb.ucmerced.edu.
+fatxmb.ucmerced.edu.	172800	IN	A	192.35.211.240
+luigi.ucmerced.edu.	172800	IN	A	169.236.10.221
+tulum.ucmerced.edu.	172800	IN	A	169.236.80.52

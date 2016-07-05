@@ -1,0 +1,12 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+oaapg16mhm6naridapf3bt9012sqmg2e.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. baaqoFCfl/jXlODPtCHFI8SFOnbyYvB48ZesGWljXxM2llDV0dncmsWM4v8NJSJLD9W43xxxj1aWBJOwp/mNgZ0u6MtU4nWc30TGr9bJdXu7ehN/tfj3Bkh10ri4vrBW0csY/RZ4vXlIlSBbW449KbfgjnEwRZAW1L/pFlIMO8w=
+oaapg16mhm6naridapf3bt9012sqmg2e.edu.	86400	IN	NSEC3	1 1 0 -  oan8unrlh1m3bgccf803gbb807fua0hd NS DS RRSIG 
+randolphcollege.edu.	172800	IN	NS	ns1.telcove.net.
+randolphcollege.edu.	172800	IN	NS	ns2.telcove.net.
+randolphcollege.edu.	172800	IN	NS	ns3.telcove.net.
+randolphcollege.edu.	172800	IN	NS	charon2.randolphcollege.edu.
+charon2.randolphcollege.edu.	172800	IN	A	192.149.97.203
+ns1.telcove.net.	172800	IN	A	209.247.1.129
+ns2.telcove.net.	172800	IN	A	209.244.6.146
+ns3.telcove.net.	172800	IN	A	209.247.1.130

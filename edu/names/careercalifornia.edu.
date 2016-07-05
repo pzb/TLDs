@@ -1,0 +1,10 @@
+ns-100.awsdns-12.com.	172800	IN	A	205.251.192.100
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+9t0uj7csetkh7uane96i0ueea725gbvi.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712025307 20160705014307 15617 edu. WqQo45p9yPih0D5INV43Zr9/CtkczonhaEna0vYfslxGzIwGPyY9tgm/KmxNuC09TgjlWQ2+UIPrY6qjBxWAJMp42siQMfTCT3KFsbgjiAILPSqrt8dPtGPWv4C19khYu426Ri+wW3s/f1IYN8WZG/h+1Ub1K92qwQB6qfxL7Uw=
+9t0uj7csetkh7uane96i0ueea725gbvi.edu.	86400	IN	NSEC3	1 1 0 -  9v5l4lub1vnj9eqqliheqcbreacl25o0 NS DS RRSIG 
+careercalifornia.edu.	172800	IN	NS	ns-100.awsdns-12.com.
+careercalifornia.edu.	172800	IN	NS	ns-778.awsdns-33.net.
+careercalifornia.edu.	172800	IN	NS	ns-1180.awsdns-19.org.
+careercalifornia.edu.	172800	IN	NS	ns-1981.awsdns-55.co.uk.
+ns-778.awsdns-33.net.	172800	IN	A	205.251.195.10

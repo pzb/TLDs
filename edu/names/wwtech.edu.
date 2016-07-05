@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+io9pdjghh8tei1or1hiq13pnfp863n64.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712035403 20160705024403 15617 edu. oCNGQLBDqILxJggua+CcwVQk8WoyA+dGxMB+fsivZ1x3zkUI9TxsQREyGvaVH+RxMgX+G6CgFsWBv3Mkjg0V8dgTzQ+ZvIhZDu1TL+hgf7UtEIITCf4kC6Tw1c3Yl6/Dt928L6ddL0XSvJixIdgyAtfr7QPcjIshMylqPWPwId4=
+io9pdjghh8tei1or1hiq13pnfp863n64.edu.	86400	IN	NSEC3	1 1 0 -  ipgmaum34bb6lgcdpsc4njdloaoce98p NS DS RRSIG 
+terra.osrhe.edu.	172800	IN	A	164.58.233.202
+wwtech.edu.	172800	IN	NS	dns.onenet.net.
+wwtech.edu.	172800	IN	NS	terra.osrhe.edu.
+dns.onenet.net.	172800	IN	A	164.58.253.10

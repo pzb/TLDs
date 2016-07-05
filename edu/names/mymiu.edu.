@@ -1,0 +1,10 @@
+ns-485.awsdns-60.com.	172800	IN	A	205.251.193.229
+8ocug75m59tcqoptdp1hb8n21pfacott.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160708052036 20160701041036 15617 edu. vXVeUF4vitcnpJnwI8bLSgg6zjW0wB1vJvCihqq5qDImtfU42CKYTbzztwsRy9C5VV6SqPQ/R5wyJNv3ggxzYc8+D+ivnKnz0/H3F7NDyB8zjPbYS2Fg4L9nMjDioS94iCm2mqZJDYRrMpJhAO0PtrTZxRZfY7Xtaj7IdTeR5mY=
+8ocug75m59tcqoptdp1hb8n21pfacott.edu.	86400	IN	NSEC3	1 1 0 -  8oe1mrkgmau2pllhsm4o8ujreo823jeo NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+mymiu.edu.	172800	IN	NS	ns-485.awsdns-60.com.
+mymiu.edu.	172800	IN	NS	ns-853.awsdns-42.net.
+mymiu.edu.	172800	IN	NS	ns-1177.awsdns-19.org.
+mymiu.edu.	172800	IN	NS	ns-1615.awsdns-09.co.uk.
+ns-853.awsdns-42.net.	172800	IN	A	205.251.195.85

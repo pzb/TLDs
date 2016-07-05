@@ -1,0 +1,12 @@
+ns1.webpresenceworld.com.	172800	IN	A	202.71.128.37
+ns1.webpresenceworld.com.	172800	IN	A	202.71.128.222
+ns1.webpresenceworld.com.	172800	IN	A	202.71.129.33
+ns2.webpresenceworld.com.	172800	IN	A	202.71.131.12
+ns2.webpresenceworld.com.	172800	IN	A	202.71.131.13
+ns2.webpresenceworld.com.	172800	IN	A	202.71.131.241
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+hgn71ndv1f4s9a8v5t6jpo6j2jm1uj7c.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712031924 20160705020924 15617 edu. 3tl+vF86taJygZZgJU6Yl3fM7ybBcSTmSRvp18EC6zzSWeP/GrWgJrsZMkik+1zWZUIZyYSvdB2RCNuaaLMR4SivVm0t4WxwhG/MKuwz0nzK8jXJhL5o/XDrTXsvlDWLM9CXn/jT8Av7MyMYoj7hJRE1wGfPIEpGLUYK3hEvPyw=
+hgn71ndv1f4s9a8v5t6jpo6j2jm1uj7c.edu.	86400	IN	NSEC3	1 1 0 -  hhhll3h1dfkqnl8r426oj496ebherf24 NS DS RRSIG 
+nujs.edu.	172800	IN	NS	ns1.webpresenceworld.com.
+nujs.edu.	172800	IN	NS	ns2.webpresenceworld.com.

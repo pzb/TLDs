@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+eastwest.edu.	172800	IN	NS	ns1.eastwest.edu.
+eastwest.edu.	172800	IN	NS	ns2.eastwest.edu.
+ns1.eastwest.edu.	172800	IN	A	166.63.0.122
+ns2.eastwest.edu.	172800	IN	A	166.63.4.130
+p2vanqfjhhbu5c7j2u22b2l6no4ibjeg.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. JtTHUhgA6q+5bwmy09/dmVelLsQOeip27kqiHSgwIHnldmFTV90ouiraEA7Epv9ICi5jdOZfHyoBcB8pPS1MKoWuBZJrw8MuLtB7PxctfF0fU1goFXNj3TdvsvZDSIFZHtrEI4sd7uwe1Q8uwpcJ3bO0/T+B0URyGQLtUtDExAg=
+p2vanqfjhhbu5c7j2u22b2l6no4ibjeg.edu.	86400	IN	NSEC3	1 1 0 -  p3n44a78hh5hjbof5esca3rkl19frl1b NS DS RRSIG 

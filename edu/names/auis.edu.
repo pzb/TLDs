@@ -1,0 +1,12 @@
+1uhu4gkgu09654vcmvh1o1v7afkq7p1r.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712014742 20160705003742 15617 edu. FKBH04p6ThryDLtBg5G29c7wbkzlFUZZH/1UdK9OD8rVG4rJfK2ht05n+s4xxo2XACjXMAnpL0aofOJAhOqciJRy7eGAM/0JO0izuj7PxW+1SKb7pXiDiy15K5rE244jnFp9pPZGkduaIEy5mhP1fKoUf2bImgKZhpKqKvT7Vq0=
+1uhu4gkgu09654vcmvh1o1v7afkq7p1r.edu.	86400	IN	NSEC3	1 1 0 -  214bs446g9g97oigbd2k9osptrds76jl NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+auis.edu.	172800	IN	NS	ns1.cloudiro.net.
+auis.edu.	172800	IN	NS	ns2.cloudiro.net.
+auis.edu.	172800	IN	NS	ns3.cloudiro.net.
+auis.edu.	172800	IN	NS	ns4.cloudiro.net.
+ns1.cloudiro.net.	172800	IN	A	69.168.228.2
+ns2.cloudiro.net.	172800	IN	A	69.168.229.2
+ns3.cloudiro.net.	172800	IN	A	69.168.230.2
+ns4.cloudiro.net.	172800	IN	A	69.168.231.2

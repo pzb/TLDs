@@ -1,0 +1,16 @@
+ns1173.dns.dyn.com.	172800	IN	A	208.76.58.173
+ns2164.dns.dyn.com.	172800	IN	A	208.76.59.164
+ns3129.dns.dyn.com.	172800	IN	A	208.76.60.129
+ns4137.dns.dyn.com.	172800	IN	A	208.76.61.137
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+consort-dns01.gtu.edu.	172800	IN	A	209.76.204.50
+consort-dns02.gtu.edu.	172800	IN	A	209.76.204.51
+jstb.edu.	172800	IN	NS	ns1173.dns.dyn.com.
+jstb.edu.	172800	IN	NS	ns2164.dns.dyn.com.
+jstb.edu.	172800	IN	NS	ns3129.dns.dyn.com.
+jstb.edu.	172800	IN	NS	ns4137.dns.dyn.com.
+jstb.edu.	172800	IN	NS	consort-dns01.gtu.edu.
+jstb.edu.	172800	IN	NS	consort-dns02.gtu.edu.
+ocsud1buq9i2f5ojiku0ubsp12n2rcoe.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710224149 20160703213149 15617 edu. wh25PA60NAtE1ztT8hLpPd0w/I/CDrwelwQp1eMI8v47lO/5l400xQnfe476sh4HoWDI6rbYAN3vUmNIASVzrxlVAN3z9bqsTdA5oO6q8AUhQ7qZrBn7T9k3h7MJMIGkg3Q7bIsmsX42kCPEfuBpvUpCLOLiFUKDJRxA6oIRDws=
+ocsud1buq9i2f5ojiku0ubsp12n2rcoe.edu.	86400	IN	NSEC3	1 1 0 -  odedc1ebta6er8ko4cb9mvta6jh0vpur NS DS RRSIG 

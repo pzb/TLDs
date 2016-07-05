@@ -1,0 +1,6 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ami.edu.	172800	IN	NS	dns1.servercontrol.com.au.
+ami.edu.	172800	IN	NS	dns2.servercontrol.com.au.
+nbkf5vbvgvt96eqt1sfi4ti3hikh66sj.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051941 20160704040941 15617 edu. Ra9dzagFIvtRy+3A6oBk1MiE3hfrCm+ggmLsdGVDQ4R9OPMqAUH+WZAgLXHHUNA7RNb8mpkEnLLK/jzh0x9UMOHo3acqH/kVNPR0VKXo9PYnI+aCGEbVGfqGOrVrUIDOuc6cdmzi4bgNs6Qcl7ZlKPdPhe1JuaCxqyLa5ogz+vE=
+nbkf5vbvgvt96eqt1sfi4ti3hikh66sj.edu.	86400	IN	NSEC3	1 1 0 -  ncs092kacose3idsjcvalc18p26g57r9 NS DS RRSIG 

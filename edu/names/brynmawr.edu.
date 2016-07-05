@@ -1,0 +1,19 @@
+brynmawr.edu.	172800	IN	NS	ns1.brynmawr.edu.
+brynmawr.edu.	172800	IN	NS	ns2.brynmawr.edu.
+brynmawr.edu.	172800	IN	NS	ns3.brynmawr.edu.
+brynmawr.edu.	172800	IN	NS	ns4.brynmawr.edu.
+brynmawr.edu.	172800	IN	NS	ns5.brynmawr.edu.
+brynmawr.edu.	172800	IN	NS	ns6.brynmawr.edu.
+brynmawr.edu.	172800	IN	NS	ns11.brynmawr.edu.
+brynmawr.edu.	172800	IN	NS	ns12.brynmawr.edu.
+brynmawr.edu.	86400	IN	DS	34665 7 1 60fa0c44fde6980111d6e2ee9988472eb0a65158
+brynmawr.edu.	86400	IN	DS	34665 7 2 5c385a8ef7005ec79ec4d4afba6474a06ac011a664fd6effdbb39599050960c4
+brynmawr.edu.	86400	IN	RRSIG	DS 8 2 86400 20160709051626 20160702040626 15617 edu. tQeck0kMkQXOLqr6G01FdQ/3acuu2rpqOWGaEo2PgPdL60qIsA3J/bC6YqVkwqjxN+UCrowM0RxJTyLlysTGbZg+FE3Z2IDm8WvuWlf5D+21C/idTu0Z5WBSfXrfpBqBnrBZMvk17zlyYPs64mfi0lr23SzS/bzup1sbCdc+qes=
+ns1.brynmawr.edu.	172800	IN	A	165.106.71.50
+ns11.brynmawr.edu.	172800	IN	A	40.78.146.55
+ns12.brynmawr.edu.	172800	IN	A	52.89.188.124
+ns2.brynmawr.edu.	172800	IN	A	165.106.71.55
+ns3.brynmawr.edu.	172800	IN	A	165.106.71.60
+ns4.brynmawr.edu.	172800	IN	A	165.106.70.50
+ns5.brynmawr.edu.	172800	IN	A	165.106.70.55
+ns6.brynmawr.edu.	172800	IN	A	165.106.70.60

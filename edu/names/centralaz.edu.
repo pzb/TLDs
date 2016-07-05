@@ -1,0 +1,16 @@
+ns-308.awsdns-38.com.	172800	IN	A	205.251.193.52
+ns-392.awsdns-49.com.	172800	IN	A	205.251.193.136
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+centralaz.edu.	172800	IN	NS	ns-308.awsdns-38.com.
+centralaz.edu.	172800	IN	NS	ns-392.awsdns-49.com.
+centralaz.edu.	172800	IN	NS	ns-536.awsdns-03.net.
+centralaz.edu.	172800	IN	NS	ns-752.awsdns-30.net.
+centralaz.edu.	172800	IN	NS	ns-1204.awsdns-22.org.
+centralaz.edu.	172800	IN	NS	ns-1275.awsdns-31.org.
+centralaz.edu.	172800	IN	NS	ns-1616.awsdns-10.co.uk.
+centralaz.edu.	172800	IN	NS	ns-1677.awsdns-17.co.uk.
+gdrtkeat5itaeqjm7hk38g51ofqvqk7j.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710192424 20160703181424 15617 edu. LB1re1DzjCJWOaMLQDTlgT2cku0Kx4X+WzOGv0ddzinHCLizr1xFdSPKAz1mIzuW1VjuwwF1tPVAZhSW3HIiR50z05JbBt9f/khSreclzY/x4o9XXDzSj3svhVeT/3iat8ljuZuHnhj/nMxoYANU0xexjxRRnB0WcvwzIbiM3Y0=
+gdrtkeat5itaeqjm7hk38g51ofqvqk7j.edu.	86400	IN	NSEC3	1 1 0 -  gffmit2eemb3sph36m38elqv1a5msslr NS DS RRSIG 
+ns-536.awsdns-03.net.	172800	IN	A	205.251.194.24
+ns-752.awsdns-30.net.	172800	IN	A	205.251.194.240

@@ -1,0 +1,10 @@
+ns-108.awsdns-13.com.	172800	IN	A	205.251.192.108
+7hnms1q9hvs9830vn1bvnpslmjud54ch.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711061853 20160704050853 15617 edu. oQt7yvRVXIIroXSBoB5pQ4nNCbOmlEwFYDDNHFuQJ0NQVg+mVdRLph+Ih/nwZ1Fd0lQrfFnzZPJTaKQ5BA+gLzaUkzUU8EIl+5lw4IDl7N+l8tO7wtQcIFcvGyeeUEVYHI7wVxHZXQ3y9W8v/JIK5USnvd88g5yIkmrrWaCuo4Y=
+7hnms1q9hvs9830vn1bvnpslmjud54ch.edu.	86400	IN	NSEC3	1 1 0 -  7ivgjed7bdtn4flncfnh85c7gcuv5vkh NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+penncollege.edu.	172800	IN	NS	ns-108.awsdns-13.com.
+penncollege.edu.	172800	IN	NS	ns-835.awsdns-40.net.
+penncollege.edu.	172800	IN	NS	ns-1111.awsdns-10.org.
+penncollege.edu.	172800	IN	NS	ns-1977.awsdns-55.co.uk.
+ns-835.awsdns-40.net.	172800	IN	A	205.251.195.67

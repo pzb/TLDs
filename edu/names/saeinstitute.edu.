@@ -1,0 +1,10 @@
+ns-363.awsdns-45.com.	172800	IN	A	205.251.193.107
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+saeinstitute.edu.	172800	IN	NS	ns-363.awsdns-45.com.
+saeinstitute.edu.	172800	IN	NS	ns-750.awsdns-29.net.
+saeinstitute.edu.	172800	IN	NS	ns-1484.awsdns-57.org.
+saeinstitute.edu.	172800	IN	NS	ns-1590.awsdns-06.co.uk.
+u0th2nnru7623o48gkj35h4gbnt5s528.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711000526 20160703225526 15617 edu. edfgbSPz9KwHN86FcmZdpaSq1nkmqoAS8o2ieXVEku9NFyI/+FJYJtnaBjto3sjtCYL4h2rbsBtKgVW2NVkYlQq4JaeIkawILPoOJLO6pmeuU8kEvGYVQ637ZOW/KKolZa74BD9DlSvfFazAEZvM5lGB213f3F3+xh9At+nzZo8=
+u0th2nnru7623o48gkj35h4gbnt5s528.edu.	86400	IN	NSEC3	1 1 0 -  u1srkjabbpbj9h57qbpd4q1p7g644jld NS DS RRSIG 
+ns-750.awsdns-29.net.	172800	IN	A	205.251.194.238

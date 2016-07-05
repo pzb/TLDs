@@ -1,0 +1,13 @@
+ns1.digitalocean.com.	172800	IN	A	173.245.58.51
+ns1.digitalocean.com.	172800	IN	AAAA	2400:cb00:2049:1::adf5:3a33
+ns2.digitalocean.com.	172800	IN	A	173.245.59.41
+ns2.digitalocean.com.	172800	IN	AAAA	2400:cb00:2049:1::adf5:3b29
+ns3.digitalocean.com.	172800	IN	A	198.41.222.173
+ns3.digitalocean.com.	172800	IN	AAAA	2400:cb00:2049:1::c629:dead
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+mliesl.edu.	172800	IN	NS	ns1.digitalocean.com.
+mliesl.edu.	172800	IN	NS	ns2.digitalocean.com.
+mliesl.edu.	172800	IN	NS	ns3.digitalocean.com.
+uavdj8aa1k0iskhaf5ri3f5if0qvl9le.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712032618 20160705021618 15617 edu. yFWjH6QsChKvxk4G0oKwB1VpGA6VukufZFznceMXYZBAvbdSRxu3fMxGeDSXDwUTBRtfYWSZS5vV13pjO1vRW/yGE93fmCijhoEdTMoJmm5u2yf/mc8C2CyTVYsgoSuT1WsHhNX4uZXfKvf2gZB+5pZrhXMYujLVhlQwTnyt7NM=
+uavdj8aa1k0iskhaf5ri3f5if0qvl9le.edu.	86400	IN	NSEC3	1 1 0 -  uc10g61c6pi13nfklh76rsfe400l8uj2 NS DS RRSIG 

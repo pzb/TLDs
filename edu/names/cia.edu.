@@ -1,0 +1,14 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+cia.edu.	172800	IN	NS	ns1.oar.net.
+cia.edu.	172800	IN	NS	ns1.onecleveland.org.
+cia.edu.	172800	IN	NS	ns2.oar.net.
+cia.edu.	172800	IN	NS	ns2.onecleveland.org.
+cia.edu.	172800	IN	NS	gate.cia.edu.
+cia.edu.	172800	IN	NS	gate3.cia.edu.
+gate.cia.edu.	172800	IN	A	208.50.108.3
+gate3.cia.edu.	172800	IN	A	208.50.108.2
+m9fttcvdle8ob978to0imp60iurloc1d.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711152222 20160704141222 15617 edu. d8nwPSmnEwtKOy/baa+AJA+p5v6fAf8yUlAhYZFCi2o448kq4u7K9oLHKF/4PRedDT+EKPUgFRyRQhJ9xIXgZYzTl3XVrQDajh9r4iUvd38cW2WFIpHs3/whvtiSgj6XzS8NMog9g/IYIPFrZ4kArC//DJzkCqeTRVUdA6WMulM=
+m9fttcvdle8ob978to0imp60iurloc1d.edu.	86400	IN	NSEC3	1 1 0 -  m9kg32s9i34j5kpsonqtm3leiebfesq8 NS DS RRSIG 
+ns1.oar.net.	172800	IN	A	192.88.193.144
+ns2.oar.net.	172800	IN	A	192.88.195.10

@@ -1,0 +1,8 @@
+ns66.viglan.com.	172800	IN	A	212.83.149.217
+ns72.viglan.com.	172800	IN	A	212.83.149.218
+22i9jmsccccvkp1uj5nbon3k8rajmrvi.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712014419 20160705003419 15617 edu. W+yzvi/cvJIet1azdYPN1hKU7TnlZKxVdgch+7kcYrt4flrOqMx3xqvqtWNgUZJ/jsplWztJIL+JuFCeeB5GSVR/GtiM1EW+8gPTy+0ZKOsgn7KHQ0ZIdoU9du5P/FivgHswBBCaAQazFZD3ScOSy0BspiwPe+7zkoSmUJ5XryE=
+22i9jmsccccvkp1uj5nbon3k8rajmrvi.edu.	86400	IN	NSEC3	1 1 0 -  23egb25vahhdhkn5rfrqkeir0f5nn2po NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+jinnah.edu.	172800	IN	NS	ns66.viglan.com.
+jinnah.edu.	172800	IN	NS	ns72.viglan.com.

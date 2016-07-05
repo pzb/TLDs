@@ -1,0 +1,10 @@
+ns-320.awsdns-40.com.	172800	IN	A	205.251.193.64
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+dd0rvcip7andv3066i6kjs6r53nm27nl.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712005639 20160704234639 15617 edu. JyzjU/WD5242jsimNX95YFXYZ30aixtT7BHo+cv+QwAUfwLegUdmpatIvtPqCplyDINWFwa+1lUp6WRwxDaE4m/xBH8WbDpTvnhLEkSAmOeiXQyUrwvHcFidHpSbdyUITIdjWpyTd51gZ4kqhi4cibCJC68V8+zaKcaEzMuYUYQ=
+dd0rvcip7andv3066i6kjs6r53nm27nl.edu.	86400	IN	NSEC3	1 1 0 -  dgo7dfb7s40nspnvf73pc47iv9cumtn9 NS DS RRSIG 
+svuca.edu.	172800	IN	NS	ns-320.awsdns-40.com.
+svuca.edu.	172800	IN	NS	ns-594.awsdns-10.net.
+svuca.edu.	172800	IN	NS	ns-1224.awsdns-25.org.
+svuca.edu.	172800	IN	NS	ns-2023.awsdns-60.co.uk.
+ns-594.awsdns-10.net.	172800	IN	A	205.251.194.82

@@ -1,0 +1,10 @@
+ns-us.1and1-dns.com.	172800	IN	A	217.160.82.2
+ns-us.1and1-dns.com.	172800	IN	AAAA	2001:8d8:fe:53:0:d9a0:5202:100
+5mi4he7vkvjf861t8bm5mrtgu81r8mdt.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710181107 20160703170107 15617 edu. CwAxlgSIMumLbWkORoo9hnLXo56sG89Q2p9+yJ0BTZPzn127DiSLjFv68wlxj0Vh9x7Em+UretP26GDoeHCcCyGTzHvoixAyQqPhHYF+p49BLEIA2o7bXr4UrtsxtneN0i37ytnPKBofQRhyCmHvPty+CPrbWcaJ3WICW2tNPeY=
+5mi4he7vkvjf861t8bm5mrtgu81r8mdt.edu.	86400	IN	NSEC3	1 1 0 -  5n5oqf5b31e0te2eeov1furlds3605p8 NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+southeasternbaptist.edu.	172800	IN	NS	ns-us.1and1-dns.de.
+southeasternbaptist.edu.	172800	IN	NS	ns-us.1and1-dns.us.
+southeasternbaptist.edu.	172800	IN	NS	ns-us.1and1-dns.com.
+southeasternbaptist.edu.	172800	IN	NS	ns-us.1and1-dns.org.

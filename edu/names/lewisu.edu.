@@ -1,0 +1,12 @@
+7pblrk7iikc5q8ksnmvsiq3igukadtiu.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711214539 20160704203539 15617 edu. v7cpMCkHccZCbN1ymFOSMM6H40fhISr2MiqG1B3AiNqJDysaDB0OOmZpuCrxQZxcubc9BWFLPOquMqGf1mOJ/+mFidkuky/jux+gi/54TQF6xeec8XaapBiElVoMCYthF1Qw9mjW6GVDfJ4XnifnOMMmJjeD4oG1WpO17ThRBYU=
+7pblrk7iikc5q8ksnmvsiq3igukadtiu.edu.	86400	IN	NSEC3	1 1 0 -  7pes9nbghq27c9453pjufsa6dgbtlttm NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+lewisu.edu.	172800	IN	NS	dns1.lewisu.edu.
+lewisu.edu.	172800	IN	NS	dns2.lewisu.edu.
+lewisu.edu.	172800	IN	NS	dns3.lewisu.edu.
+lewisu.edu.	172800	IN	NS	dns4.lewisu.edu.
+dns1.lewisu.edu.	172800	IN	A	209.65.81.10
+dns2.lewisu.edu.	172800	IN	A	38.69.16.11
+dns3.lewisu.edu.	172800	IN	A	173.244.206.25
+dns4.lewisu.edu.	172800	IN	A	107.191.99.111

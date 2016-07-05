@@ -1,0 +1,8 @@
+ns1.bluehost.com.	172800	IN	A	74.220.195.31
+ns2.bluehost.com.	172800	IN	A	69.89.16.4
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+aluniversity.edu.	172800	IN	NS	ns1.bluehost.com.
+aluniversity.edu.	172800	IN	NS	ns2.bluehost.com.
+fli6enjjla32iqh2d91brugdfot1j6d3.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712022254 20160705011254 15617 edu. QF9diLjG7HyUk+REZ96QSF/K//DMkH87cfyO5kVFM9tQ8b9jKuStX5fjP4pXsczuqubllfGJr+xEYOIOvP3EiFwhtb6nd/oX081qpJNS/kbUcPo6EWdGnLwP89XXgvvru5u5Pl0mCxRNgcNTa/7JzWh3RiYqWuCPglorE5+svJc=
+fli6enjjla32iqh2d91brugdfot1j6d3.edu.	86400	IN	NSEC3	1 1 0 -  fsn7e105hsd4mjc4eeo0qmvel4dmfquq NS DS RRSIG 

@@ -1,0 +1,18 @@
+ns10.dnsmadeeasy.com.	172800	IN	A	208.94.148.4
+ns11.dnsmadeeasy.com.	172800	IN	A	208.80.124.4
+ns12.dnsmadeeasy.com.	172800	IN	A	208.80.126.4
+ns13.dnsmadeeasy.com.	172800	IN	A	208.80.125.4
+ns13.dnsmadeeasy.com.	172800	IN	AAAA	2600:1801:13::1
+ns14.dnsmadeeasy.com.	172800	IN	A	208.80.127.4
+ns14.dnsmadeeasy.com.	172800	IN	AAAA	2600:1802:14::1
+ns15.dnsmadeeasy.com.	172800	IN	A	208.94.149.4
+63fgehp1cqab501r1bkmavkb7du0qg3n.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711103006 20160704092006 15617 edu. IAZa6anol7SM0dL6xYLba47NHBvxFKyzJsSjTt4NMSV7/6/5IMEmILEdLuHUsGvFxJAhXHWLNfhC9J0oCV4hP//J92gMR1CapCktUB5+RgddwIeXZvFb3tvBUPxsTe1lLqGBwcLCi6OGtG0TZiBcdW9a1oL5mTBs/Hr3m/MCaCM=
+63fgehp1cqab501r1bkmavkb7du0qg3n.edu.	86400	IN	NSEC3	1 1 0 -  648r2aikci294ukr7ds6dl6urp8oao8p NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+nipissing.edu.	172800	IN	NS	ns10.dnsmadeeasy.com.
+nipissing.edu.	172800	IN	NS	ns11.dnsmadeeasy.com.
+nipissing.edu.	172800	IN	NS	ns12.dnsmadeeasy.com.
+nipissing.edu.	172800	IN	NS	ns13.dnsmadeeasy.com.
+nipissing.edu.	172800	IN	NS	ns14.dnsmadeeasy.com.
+nipissing.edu.	172800	IN	NS	ns15.dnsmadeeasy.com.

@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+denverschoolofnursing.edu.	172800	IN	NS	ns1.pointclick.net.
+denverschoolofnursing.edu.	172800	IN	NS	ns2.pointclick.net.
+denverschoolofnursing.edu.	172800	IN	NS	ns3.pointclick.net.
+qq0mnprh2bspeli5sd1ialqmp1e659kn.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712033408 20160705022408 15617 edu. LvVETKK2OxL3z2KTv1IiBwJVOnh1z6lzkGl//9LGypT3CDM0CZz4AKmyh1KT6ByHs61sKfI3BnxzPXomT4Im8lFSJvb1rfRaN3qNDUwIBAU6WgYyK5EGhI44fsjk8iA/U7NuhelOVBr1HSXqvy4SO3MEJFomLepQ9siBIqplmZE=
+qq0mnprh2bspeli5sd1ialqmp1e659kn.edu.	86400	IN	NSEC3	1 1 0 -  qqecbnn2dksboa32lba795vj55pmcgfc NS DS RRSIG 
+ns1.pointclick.net.	172800	IN	A	74.213.145.125
+ns2.pointclick.net.	172800	IN	A	50.59.102.60
+ns3.pointclick.net.	172800	IN	A	74.213.145.83

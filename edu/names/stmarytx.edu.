@@ -1,0 +1,12 @@
+pdns01.domaincontrol.com.	172800	IN	A	216.69.185.50
+pdns02.domaincontrol.com.	172800	IN	A	208.109.255.50
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+rn9r1tmadfempd3jmm962u207negh4ef.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711175313 20160704164313 15617 edu. OjNsJtL1h9gzGvNbjf8zGgUcHSemhn36xT1XBzGavmkUiTCPMNLVUziHvl1qfQjhSZUunSZSwQ8edjNmo1a47GPlKUbem7KxVg88pqK4BZRg55dCgerv4izqPqJHEpsVTIKLOUY6imnybe/23BlrmL2vXbe/X/BcUajAurCfzVc=
+rn9r1tmadfempd3jmm962u207negh4ef.edu.	86400	IN	NSEC3	1 1 0 -  rong6nkel6ssth2m6jr9fs5112bmdhe6 NS DS RRSIG 
+stmarytx.edu.	172800	IN	NS	ns1.swbell.net.
+stmarytx.edu.	172800	IN	NS	ns2.swbell.net.
+stmarytx.edu.	172800	IN	NS	pdns01.domaincontrol.com.
+stmarytx.edu.	172800	IN	NS	pdns02.domaincontrol.com.
+ns1.swbell.net.	172800	IN	A	151.164.1.1
+ns2.swbell.net.	172800	IN	A	151.164.11.218

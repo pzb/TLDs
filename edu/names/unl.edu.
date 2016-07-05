@@ -1,0 +1,12 @@
+0ec36cnag05eg3kt4f1uu5sjhbpku3fd.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160708052037 20160701041037 15617 edu. i0pGuRh3m64K66kYNadV2Fvrxt7ErWK0A+Y88zNY+Qh0HtseoIOycS1NS5CxmMUwOHxkrUtN5Ue9pbgMcdG22FB1JNi8WJfPbbs21SwGWKtG+6TUqRbeR6vRYie3oXh8kQfwqrUVLuclkRuN5g40nsdPSwB2f6SrkLEYmllenaA=
+0ec36cnag05eg3kt4f1uu5sjhbpku3fd.edu.	86400	IN	NSEC3	1 1 0 -  0f2j75tfreejrofb2ahgmjqs2i5f0k5v NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+dotis.ttu.edu.	172800	IN	A	129.118.201.25
+dryas.ttu.edu.	172800	IN	A	129.118.201.24
+unl.edu.	172800	IN	NS	dotis.ttu.edu.
+unl.edu.	172800	IN	NS	dryas.ttu.edu.
+unl.edu.	172800	IN	NS	forrestal.unl.edu.
+unl.edu.	172800	IN	NS	lexington.unl.edu.
+forrestal.unl.edu.	172800	IN	A	129.93.6.189
+lexington.unl.edu.	172800	IN	A	129.93.6.146

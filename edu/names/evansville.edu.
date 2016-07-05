@@ -1,0 +1,22 @@
+ns11.dnsmadeeasy.com.	172800	IN	A	208.80.124.4
+ns12.dnsmadeeasy.com.	172800	IN	A	208.80.126.4
+ns13.dnsmadeeasy.com.	172800	IN	A	208.80.125.4
+ns13.dnsmadeeasy.com.	172800	IN	AAAA	2600:1801:13::1
+ns14.dnsmadeeasy.com.	172800	IN	A	208.80.127.4
+ns14.dnsmadeeasy.com.	172800	IN	AAAA	2600:1802:14::1
+ns15.dnsmadeeasy.com.	172800	IN	A	208.94.149.4
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+evansville.edu.	172800	IN	NS	ns1.evansville.edu.
+evansville.edu.	172800	IN	NS	ns2.evansville.edu.
+evansville.edu.	172800	IN	NS	ns3.evansville.edu.
+evansville.edu.	172800	IN	NS	ns11.dnsmadeeasy.com.
+evansville.edu.	172800	IN	NS	ns12.dnsmadeeasy.com.
+evansville.edu.	172800	IN	NS	ns13.dnsmadeeasy.com.
+evansville.edu.	172800	IN	NS	ns14.dnsmadeeasy.com.
+evansville.edu.	172800	IN	NS	ns15.dnsmadeeasy.com.
+ns1.evansville.edu.	172800	IN	A	208.94.148.4
+ns2.evansville.edu.	172800	IN	A	208.80.125.4
+ns3.evansville.edu.	172800	IN	A	208.94.149.4
+s31h6n28ea1t4cuqrj3otbvtfm3eu37f.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711204115 20160704193115 15617 edu. QsFkFWMwgH+pWmvnwgX+V9rUElW/V6DA4TEiacdeoIbqrwJSKc4nwbsJ8HHCWwZavXjWX1X1at+oUWtfecEwH1PgLltxOxaMz8mE4pH1rfXIQQvKekZEHsQ0uUqGeYikHSk3n72EKEGvz+EsOeBlCysIEZN7XjQDM+6a2niZZfc=
+s31h6n28ea1t4cuqrj3otbvtfm3eu37f.edu.	86400	IN	NSEC3	1 1 0 -  s9jtjnfp3tp33a1fm9t4ustiq202ti8m NS DS RRSIG 

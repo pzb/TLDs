@@ -1,0 +1,22 @@
+ns10.dnsmadeeasy.com.	172800	IN	A	208.94.148.4
+ns11.dnsmadeeasy.com.	172800	IN	A	208.80.124.4
+ns12.dnsmadeeasy.com.	172800	IN	A	208.80.126.4
+ns13.dnsmadeeasy.com.	172800	IN	A	208.80.125.4
+ns13.dnsmadeeasy.com.	172800	IN	AAAA	2600:1801:13::1
+ns14.dnsmadeeasy.com.	172800	IN	A	208.80.127.4
+ns14.dnsmadeeasy.com.	172800	IN	AAAA	2600:1802:14::1
+ns15.dnsmadeeasy.com.	172800	IN	A	208.94.149.4
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+colgate.edu.	172800	IN	NS	ns10.dnsmadeeasy.com.
+colgate.edu.	172800	IN	NS	ns11.dnsmadeeasy.com.
+colgate.edu.	172800	IN	NS	ns12.dnsmadeeasy.com.
+colgate.edu.	172800	IN	NS	ns13.dnsmadeeasy.com.
+colgate.edu.	172800	IN	NS	ns14.dnsmadeeasy.com.
+colgate.edu.	172800	IN	NS	ns15.dnsmadeeasy.com.
+colgate.edu.	172800	IN	NS	dnsadsv01.colgate.edu.
+colgate.edu.	172800	IN	NS	dnsadsv02.colgate.edu.
+dnsadsv01.colgate.edu.	172800	IN	A	149.43.131.121
+dnsadsv02.colgate.edu.	172800	IN	A	149.43.131.123
+r0v9qkkbnq6kpl5aifjbmc5jc11pl62n.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712000748 20160704225748 15617 edu. ca5DAL/oEG/3tur5bDO9BIsoFHVMYPZBNnPhYjBUnigkpqGv2p8g85cQcHyDbkzuOhS3ofQU3Vm5rfOEsEMsJRV4djoWVHMQlRiJA4c46zak+Z+9PBEdMlMZ84dntJZKxMamAL11jpHYHMlRjlqpGyzw0HKTGCcPsr9BtuNYWgY=
+r0v9qkkbnq6kpl5aifjbmc5jc11pl62n.edu.	86400	IN	NSEC3	1 1 0 -  r2tuuoiul28ka79v1feqduv1arkhf0db NS DS RRSIG 

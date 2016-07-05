@@ -1,0 +1,8 @@
+carnegie01.carnegie.com.	172800	IN	A	64.94.232.30
+carnegie02.carnegie.com.	172800	IN	A	70.89.83.122
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+acpe.edu.	172800	IN	NS	carnegie01.carnegie.com.
+acpe.edu.	172800	IN	NS	carnegie02.carnegie.com.
+cq8g9prri9urvomcf8klnta7uo2eo7jr.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711105001 20160704094001 15617 edu. O4grUMrAzqGuWfs5apir3iLM6/rjSwGMj8XoRBNGsbza16jghJfNAe8jGhTbQlriQVXYRZLXtj1NGuA9p1QCgP3qPCgvp+iXqebtWy8sh2x8PcjBmgyAIs1CEm4CvZqIrkTitBfCvBWSargWTPLeqflTdGqZZ9mr9vk/4o+QjA8=
+cq8g9prri9urvomcf8klnta7uo2eo7jr.edu.	86400	IN	NSEC3	1 1 0 -  cqqdopmalu1q11ek5ln2cveqjq1k3e18 NS DS RRSIG 

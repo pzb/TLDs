@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+austinseminary.edu.	172800	IN	NS	faith.logixcom.net.
+austinseminary.edu.	172800	IN	NS	meredith.logixcom.net.
+tfnto986hrbdpcd7ne8oemkvuokk3627.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709051627 20160702040627 15617 edu. scPQ9ruBLMzSm25wnlJzl+S/e7iZEJsi0nFRDwKoyWB4wMUbtjsCCSrRQ8C/2VmLigL/ALysHOGpzWrwKMAPHK4lOJednkeNTLsjgW9VyenRa+yapZW8QJB87bRGKOhZX116b6PA5Z0GvFiPiPTFOm2pGpa+PBFFTxEYq3CSOLs=
+tfnto986hrbdpcd7ne8oemkvuokk3627.edu.	86400	IN	NSEC3	1 1 0 -  tft4lf8jshg1bfh052d8vi8v2a62qase NS DS RRSIG 
+faith.logixcom.net.	172800	IN	A	216.201.128.10
+meredith.logixcom.net.	172800	IN	A	66.196.216.10

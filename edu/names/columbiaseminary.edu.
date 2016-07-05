@@ -1,0 +1,8 @@
+ns.inmotionhosting.com.	172800	IN	A	74.124.210.242
+ns2.inmotionhosting.com.	172800	IN	A	70.39.150.2
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+columbiaseminary.edu.	172800	IN	NS	ns.inmotionhosting.com.
+columbiaseminary.edu.	172800	IN	NS	ns2.inmotionhosting.com.
+hsq6ct16ppaes50bqliaqsalg9tjaphn.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709124959 20160702113959 15617 edu. Wl4eS2xWKCAe7TRzQakV1i2BRlEQAPcvbJbkzzqk2S8sx7w8d1xneu+cAztCqR3Rnxdd4kbWhgsi7TwSLmWp5e7yQqhwfEjZW4CRHKz8rPaYfmUkXhcOfkhoDapRYeLLXkDKWxv/ivt/RT3zyy+lgwKdaH5LxbPs0O0PHNhAJOo=
+hsq6ct16ppaes50bqliaqsalg9tjaphn.edu.	86400	IN	NSEC3	1 1 0 -  htqqhp6gsebo3qf0mj1p0chmb8sarld5 NS DS RRSIG 

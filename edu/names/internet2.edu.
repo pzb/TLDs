@@ -1,0 +1,15 @@
+internet2.edu.	172800	IN	NS	dns.internet2.edu.
+internet2.edu.	172800	IN	NS	dns2.internet2.edu.
+internet2.edu.	172800	IN	NS	dns3.internet2.edu.
+internet2.edu.	172800	IN	NS	phloem.uoregon.edu.
+internet2.edu.	86400	IN	DS	24606 7 1 0202c1e81c148962cfe37742769a394036fb5faa
+internet2.edu.	86400	IN	DS	24606 7 2 0494d1b8c022f9ccf7a0d2034ea7503b671ede9d93930681d097677c8014006c
+internet2.edu.	86400	IN	RRSIG	DS 8 2 86400 20160709051625 20160702040625 15617 edu. vaj8gBByc5sCCSBpNmu5BcyWuxe+1/e5+Wwd4yQDCRT2uoxpNPjJX+acl/ko4hX+/V07Q1kdh762wuYjAcXa7i/vGlw0tXxPPiInxfGOIwKI3Ev+Wk8VwLGcz1AeaXeVOZgYrCH/3lapEwcIXKYnRVfNUNdlXbihP20qXNXlt7c=
+dns.internet2.edu.	172800	IN	A	207.75.164.59
+dns.internet2.edu.	172800	IN	AAAA	2001:48a8:68fe::59
+dns2.internet2.edu.	172800	IN	A	192.52.179.250
+dns2.internet2.edu.	172800	IN	AAAA	2001:468:c07:4::250
+dns3.internet2.edu.	172800	IN	A	155.101.29.4
+dns3.internet2.edu.	172800	IN	AAAA	2001:1948:414:df::4
+phloem.uoregon.edu.	172800	IN	A	128.223.32.35
+phloem.uoregon.edu.	172800	IN	AAAA	2001:468:d01:20::80df:2023

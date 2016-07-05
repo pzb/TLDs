@@ -1,0 +1,8 @@
+8cj1scpul5bnpu9qvdmvmnua0phtoipd.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710181246 20160703170246 15617 edu. JnkFM8zx8tMP+BFnztDuITbu1tZk433t4y8+fjf2CRV2hD+sUNtARNt51EBSkQ5oPtycPenu7PJsIfHY4s0sF6shcEiZJa66ToIjf5t7+rucluBISkeNlF4/izL77FwHC3MoWdAgwWyJYHwomF0CYNHdNwhY4w/Sem8d6sy0WTc=
+8cj1scpul5bnpu9qvdmvmnua0phtoipd.edu.	86400	IN	NSEC3	1 1 0 -  8d2pfi28chdp8h9ptse3ulh0qcgo3ncv NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+uch.edu.	172800	IN	NS	ns1.uch.edu.
+uch.edu.	172800	IN	NS	ns2.uch.edu.
+ns1.uch.edu.	172800	IN	A	168.200.3.1
+ns2.uch.edu.	172800	IN	A	168.200.3.2

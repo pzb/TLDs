@@ -1,0 +1,20 @@
+1f8vod63d5j4mb9bnnvks04927p2n9mq.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711174937 20160704163937 15617 edu. m8oIlaN172XaNNMLdXIe5ZC4+1wvccEPlRcNX59IHHrDjXpw/FyE6Vl8GE5Nb+vKbIciAmrtbbigrUdt9syrM2OutVpmoOUfj51nMHyMujK0cwdw6fxNmBZHsD/WEv9L1lErzI0R2ZFrJg66GLzqhGmpVPR81dQiTTPIEnvhO0o=
+1f8vod63d5j4mb9bnnvks04927p2n9mq.edu.	86400	IN	NSEC3	1 1 0 -  1i9m0u6qdp5ps3j7mfmce1krbfrvj2sd NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+csuohio.edu.	172800	IN	NS	ns1.csuohio.edu.
+csuohio.edu.	172800	IN	NS	ns2.csuohio.edu.
+csuohio.edu.	172800	IN	NS	ns4.oar.net.
+csuohio.edu.	172800	IN	NS	ns5.oar.net.
+csuohio.edu.	172800	IN	NS	ns6.oar.net.
+csuohio.edu.	172800	IN	NS	ns7.oar.net.
+ns1.csuohio.edu.	172800	IN	A	137.148.18.10
+ns2.csuohio.edu.	172800	IN	A	137.148.19.10
+ns4.oar.net.	172800	IN	A	199.18.199.2
+ns4.oar.net.	172800	IN	AAAA	2610:a8:2004::2
+ns5.oar.net.	172800	IN	A	199.218.199.2
+ns5.oar.net.	172800	IN	AAAA	2610:a8:2005::2
+ns6.oar.net.	172800	IN	A	157.134.199.2
+ns6.oar.net.	172800	IN	AAAA	2610:a8:2006::2
+ns7.oar.net.	172800	IN	A	206.244.199.2
+ns7.oar.net.	172800	IN	AAAA	2610:a8:2007::2

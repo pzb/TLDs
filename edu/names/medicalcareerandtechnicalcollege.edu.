@@ -1,0 +1,8 @@
+ns1-r3-dc.webserversystems.com.	172800	IN	A	108.174.148.32
+ns2-r3-dc.webserversystems.com.	172800	IN	A	108.174.148.46
+65ftg4i5atik2ii2eg1f5ntocdobgs06.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710110459 20160703095459 15617 edu. FQe8s9IwW35pZQY8PthvG5eaD0AR/wDAFqLbR81lKK+PnWrbd/Obc0gfYnh6nOUSGamJj85WLGI32a//xms9QhQRNHEiGeKl/1II/YiB+gAHm+rjtnIb6hrjKEdV8T4MUnBlhj25v38v8F5tkwoRFYNNzXw7FCkFt1FfEyaapkY=
+65ftg4i5atik2ii2eg1f5ntocdobgs06.edu.	86400	IN	NSEC3	1 1 0 -  65ohahlhvq2oab2d0kda9fb4tpngl47r NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+medicalcareerandtechnicalcollege.edu.	172800	IN	NS	ns1-r3-dc.webserversystems.com.
+medicalcareerandtechnicalcollege.edu.	172800	IN	NS	ns2-r3-dc.webserversystems.com.

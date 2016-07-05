@@ -1,0 +1,6 @@
+syso-svr-ns1.lctcs.edu.	172800	IN	A	76.165.120.16
+syso-svr-ns2.lctcs.edu.	172800	IN	A	76.165.210.249
+nwltc.edu.	172800	IN	NS	syso-svr-ns1.lctcs.edu.
+nwltc.edu.	172800	IN	NS	syso-svr-ns2.lctcs.edu.
+nwltc.edu.	86400	IN	DS	36719 5 1 5f39ad5c0868ea8d055eb48388c38a4862fab536
+nwltc.edu.	86400	IN	RRSIG	DS 8 2 86400 20160708052036 20160701041036 15617 edu. NaRLhRoPonRotf3Rk3dXoj9pTj1+44+chMNoSb+J4Hq3cseje4o67JYEyFYAWzasjt4/wc/5mGPfXK8hCj7nTH/YMkLemrPDzMoeIEs1ecvcsbIfFydmDx5mPCHFOwWPas/sAGOcxgpltaE7NZ7OiyQXKiAwdmCMvgdH8QW/hfo=

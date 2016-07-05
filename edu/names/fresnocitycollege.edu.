@@ -1,0 +1,10 @@
+ns1.dnspark.com.	172800	IN	A	216.59.57.100
+98md6oui8o989nt0i6v13qaaljrhd0rc.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710183047 20160703172047 15617 edu. Fyh4XLELdp4oqfSHs53j/YeOqHFVq2Jt43/5jGhYIpvQxO1AFn3WaLOtltLc/DchsDPhI4kbaBHU5oopC3rWbVptaTDPUbBZ0Fk3+PZtfLyzqTfZCfwjV34WigogzLrHivwV4s/DfpXIciPgoR+kVrmVqVKkOcvsiCXifcivraU=
+98md6oui8o989nt0i6v13qaaljrhd0rc.edu.	86400	IN	NSEC3	1 1 0 -  9a00tjh3lb2i4k0om1oq7ffrvqvqftq8 NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+fresnocitycollege.edu.	172800	IN	NS	ns1.dnspark.com.
+fresnocitycollege.edu.	172800	IN	NS	ns2.dnspark.net.
+fresnocitycollege.edu.	172800	IN	NS	ns3.dnspark.net.
+ns2.dnspark.net.	172800	IN	A	104.153.199.100
+ns3.dnspark.net.	172800	IN	A	159.253.153.220

@@ -1,0 +1,12 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+rh8tru35aii0recnm9oritrrr87uqqpj.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711123347 20160704112347 15617 edu. cecU0EDuSbXDrlUWRa+ZXfakYaWDvDjiVmfZWSkoLGJzEKsCr0pVadx7o90b55qaRDSsB3xVptAfyHDciJxpQ7mTF8WDJJ3l01/R9Z8RiCT2IRHZCqEn5b64d3yLEQyZaRvMBN8VCz626kD+MvzUZ1X4Wi2wkykgnfV53juO5U0=
+rh8tru35aii0recnm9oritrrr87uqqpj.edu.	86400	IN	NSEC3	1 1 0 -  rk11042eqjpoojhdljijg3ggteorvecf NS DS RRSIG 
+westwood.edu.	172800	IN	NS	ns1.netnames.net.
+westwood.edu.	172800	IN	NS	ns2.netnames.net.
+westwood.edu.	172800	IN	NS	ns5.netnames.net.
+westwood.edu.	172800	IN	NS	ns6.netnames.net.
+ns1.netnames.net.	172800	IN	A	204.74.108.253
+ns2.netnames.net.	172800	IN	A	185.26.230.5
+ns5.netnames.net.	172800	IN	A	91.194.150.102
+ns6.netnames.net.	172800	IN	A	204.74.109.253

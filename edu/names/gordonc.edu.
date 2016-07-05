@@ -1,0 +1,10 @@
+7r9rreh4gfgtj7utkkhcjrtk8l9ehea0.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712042253 20160705031253 15617 edu. qhwNo8jGmj4QolQP6x6zotJRKwPCma1k4PlRyt/R+BGozxkRn1YjEVoHLhvaVgVodFBTBW2rJb9uZbHMUGqAbC8F5+C1UShZfToZGXnT2mBNKx9OKdddee3pDf+Mhu+EtlRnFllSe5dX5w4SfEw0IBk3/PvlKG690brIYfA/KSg=
+7r9rreh4gfgtj7utkkhcjrtk8l9ehea0.edu.	86400	IN	NSEC3	1 1 0 -  7s6mthft87uugdv8tshimm0p4ek5p18s NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+gordonc.edu.	172800	IN	NS	eve.mva.net.
+gordonc.edu.	172800	IN	NS	adam.mva.net.
+adam.mva.net.	172800	IN	A	216.236.246.10
+adam.mva.net.	172800	IN	AAAA	2606:a500::5:a
+eve.mva.net.	172800	IN	A	216.236.244.11
+eve.mva.net.	172800	IN	AAAA	2606:a500::5:1a

@@ -1,0 +1,11 @@
+psc.edu.	172800	IN	NS	dns1.psc.edu.
+psc.edu.	172800	IN	NS	dns2.itd.umich.edu.
+psc.edu.	172800	IN	NS	charon.psc.edu.
+psc.edu.	86400	IN	DS	56239 5 1 e2753571eff02c599b05f25acf4a61af523df257
+psc.edu.	86400	IN	DS	56239 5 2 b0ba0f57b5089341f2c3e10f80e7610c00acac37b4a686bdd6a4be98ddb4278b
+psc.edu.	86400	IN	RRSIG	DS 8 2 86400 20160710053349 20160703042349 15617 edu. ph8juwrsmmcgHa1WxWfEdmi1XHG+cgXEmaKSLwXLdNMNqLBn97DTEECxIOTPbbpRVmeDTZF6thL3H5LthfFlqzjzKpbYh2ExUF2keGTQfjaWZiZ4hdY/7seisEr4HjR4F+tjQFmOra5mnzImUbYlIzDxB3c43tWDwVA9GK8ibkQ=
+charon.psc.edu.	172800	IN	A	128.182.65.6
+charon.psc.edu.	172800	IN	AAAA	2001:5e8:2:41::6
+dns1.psc.edu.	172800	IN	A	128.182.58.105
+dns1.psc.edu.	172800	IN	AAAA	2001:5e8:1:3a::69
+dns2.itd.umich.edu.	172800	IN	A	192.12.80.222

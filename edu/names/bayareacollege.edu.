@@ -1,0 +1,8 @@
+ns45.domaincontrol.com.	172800	IN	A	216.69.185.23
+ns46.domaincontrol.com.	172800	IN	A	208.109.255.23
+7r9rreh4gfgtj7utkkhcjrtk8l9ehea0.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712021630 20160705010630 15617 edu. X+eYmfnjYM9PPO+5t2/V9Uxz5mqTnsJb1C8AL5qE2czXjFBjzKvXXgqmVbkoalE7hxtcjWaMbycQT4Mo0m+FIJJvJWeCDEvR316Az0KSYod0kmPmp+i/V0NwgfDXUwlhdmib5LAYSEV8hRIWAQCJaseJpzD9rvn8wZd/g+wjq/A=
+7r9rreh4gfgtj7utkkhcjrtk8l9ehea0.edu.	86400	IN	NSEC3	1 1 0 -  7rm6itsb0ailei2k0006vnf2fu24ihcu NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+bayareacollege.edu.	172800	IN	NS	ns45.domaincontrol.com.
+bayareacollege.edu.	172800	IN	NS	ns46.domaincontrol.com.

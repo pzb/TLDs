@@ -1,0 +1,10 @@
+4h4q55ngjr2tj6ocv2phte7u5jgg7k6h.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711231059 20160704220059 15617 edu. z95LtJzSVIcMjXv5RJLAYfKE7YVZHVLT8wVZXOfvhjhpf+OvNU9PXLyM0bDK/1NkEg8u0fA5lTKgQOjJUGcFCwPOGvCsoWs01a0+1Y1UNj2jG5X05o0y32N6zqtPWPeWSXVmDGQK0iTLnG1SoutLUO9ck7HaJ4RNVgzpirGzkjk=
+4h4q55ngjr2tj6ocv2phte7u5jgg7k6h.edu.	86400	IN	NSEC3	1 1 0 -  4jt1du49oeiigacsu86h32nstbm9tkq2 NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+alsde.edu.	172800	IN	NS	asnsvr.asc.edu.
+alsde.edu.	172800	IN	NS	alsdedns1.alsde.edu.
+alsde.edu.	172800	IN	NS	alsdedns2.alsde.edu.
+alsdedns1.alsde.edu.	172800	IN	A	157.149.1.10
+alsdedns2.alsde.edu.	172800	IN	A	157.149.1.11
+asnsvr.asc.edu.	172800	IN	A	129.66.20.4

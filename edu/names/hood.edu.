@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+f32u7iekh9e5pgkthebkrmefqn5vipou.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710113409 20160703102409 15617 edu. JFUjM4+26gW3KuCrv/Xxj/fWoWC7gJksdEE0rs9UCHKA0fvRaEpwKg8yodc7e/8FAvV0AossA4PRmlaXEsfxsotdJfP1Yywn6jPgTduNrzG1WeTYRZ4GgpY1rdx3XuQUra+xjFLxPhA8WoLvDoS2oZzzZaTh6WdvDwm6KdGp2Yw=
+f32u7iekh9e5pgkthebkrmefqn5vipou.edu.	86400	IN	NSEC3	1 1 0 -  f3klblrpbfjjtvnnpa8eh58a5ankv4mn NS DS RRSIG 
+hood.edu.	172800	IN	NS	ns1.telcove.net.
+hood.edu.	172800	IN	NS	ns2.telcove.net.
+hood.edu.	172800	IN	NS	ns3.telcove.net.
+ns1.telcove.net.	172800	IN	A	209.247.1.129
+ns2.telcove.net.	172800	IN	A	209.244.6.146
+ns3.telcove.net.	172800	IN	A	209.247.1.130

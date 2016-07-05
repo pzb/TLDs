@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+dmhl8dp2lpnj9jjpqo80d72kkq8g9qu7.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712012944 20160705001944 15617 edu. o5r4CnaEr6SCP3Nin4zfWujgtsy/xpy5OzmGYG8coOGFtTFurF54mbcOEMXh9gigdVsjJGgrVPZYBBdeKDhgFjYzMR8yNJpGPPOkYUCGWseTJZtS/+vXzwMKdF3HbVx37etR81DSc2XmcF03t4h4zIIVsp1TbYEvUn8Ncsp23PA=
+dmhl8dp2lpnj9jjpqo80d72kkq8g9qu7.edu.	86400	IN	NSEC3	1 1 0 -  dnvg5pnh44q1e02k93e38fmbjvgbbhd5 NS DS RRSIG 
+farmington.edu.	172800	IN	NS	nameo.unet.maine.edu.
+farmington.edu.	172800	IN	NS	namep.unet.maine.edu.
+nameo.unet.maine.edu.	172800	IN	A	130.111.32.11
+nameo.unet.maine.edu.	172800	IN	AAAA	2610:48:100:820::b
+namep.unet.maine.edu.	172800	IN	A	130.111.130.7
+namep.unet.maine.edu.	172800	IN	AAAA	2610:48:100:482::7

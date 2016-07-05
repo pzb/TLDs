@@ -1,0 +1,12 @@
+ns1.ecacolleges.com.	172800	IN	A	68.68.244.32
+ns2.ecacolleges.com.	172800	IN	A	68.68.240.32
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+dskgidhnif11o5et1p9javdqccl651au.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711155818 20160704144818 15617 edu. ubovJDNeN911vzevjBsTbmRWoHoZWrw/CeAWG5Bko7wQuKbqVRl4ofy3ZvDktul16vUeN0gjt+9o/SBZC/1LUqX2ehtyhEFBC7DRduGs5oI4V+yXUjzF7H2eoukx/e77FvzwV7iDhxToSGgLzzx/4CCsgA0rAcwKC9CfYlFg1qw=
+dskgidhnif11o5et1p9javdqccl651au.edu.	86400	IN	NSEC3	1 1 0 -  du2kkdur753ic1o1cqalu1eoeb5lc978 NS DS RRSIG 
+tsb.edu.	172800	IN	NS	ns1.venturenet.net.
+tsb.edu.	172800	IN	NS	ns1.ecacolleges.com.
+tsb.edu.	172800	IN	NS	ns2.venturenet.net.
+tsb.edu.	172800	IN	NS	ns2.ecacolleges.com.
+ns1.venturenet.net.	172800	IN	A	64.79.224.2
+ns2.venturenet.net.	172800	IN	A	64.79.224.3

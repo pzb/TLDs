@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+cclemoyne.edu.	172800	IN	NS	isp.gisinet.net.
+cclemoyne.edu.	172800	IN	NS	ns1.gisinet.net.
+cclemoyne.edu.	172800	IN	NS	ns2.gisinet.net.
+unosk4ti7l1o6larrpo7mj5i8bmne7jo.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712001751 20160704230751 15617 edu. 260g2eje1+nlpTltrLraZ7VhGEX18bdXjhQ0u2nn63tvaltuLeJizeuJWWQW2Oz/VWEDyaAFcA8cpI9gLeACpz/1P6LYU8YzRV1T4JIfUcHT7GZJfCVxTVBOWQ+AvxB2OPwsXMTvMsfje/5HmDqpBH8+TbBgm8px1h6WY4vvfVM=
+unosk4ti7l1o6larrpo7mj5i8bmne7jo.edu.	86400	IN	NSEC3	1 1 0 -  upc519fb14789k52osvsb14tb752e4ni NS DS RRSIG 
+isp.gisinet.net.	172800	IN	A	64.15.130.185
+ns1.gisinet.net.	172800	IN	A	69.70.45.174
+ns2.gisinet.net.	172800	IN	A	64.15.130.170

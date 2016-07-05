@@ -1,0 +1,10 @@
+ns1-09.azure-dns.com.	172800	IN	A	40.90.4.9
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+cgfc8p33p4rgapi5cip3fdd17kcv3k40.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711121901 20160704110901 15617 edu. mpcLGxMIiAYJNlcaWO/ymhp0gTomjY1ujZq2JtWuc30b7sBMyl2a0hq0W0fhr7MgM5swnGjjRM9a303yqGRWkb/bozcShO76Z3JWEFM3heKuuc16zSV+zi4lFEmOSflrMtgyZFcx8fq6dACrnQIKgXjTyEMl7g38D7TgBKjatgM=
+cgfc8p33p4rgapi5cip3fdd17kcv3k40.edu.	86400	IN	NSEC3	1 1 0 -  ch002hdi9c9v8765aadg2s8h274jupb4 NS DS RRSIG 
+rivervalley.edu.	172800	IN	NS	ns1-09.azure-dns.com.
+rivervalley.edu.	172800	IN	NS	ns2-09.azure-dns.net.
+rivervalley.edu.	172800	IN	NS	ns3-09.azure-dns.org.
+rivervalley.edu.	172800	IN	NS	ns4-09.azure-dns.info.
+ns2-09.azure-dns.net.	172800	IN	A	64.4.48.9

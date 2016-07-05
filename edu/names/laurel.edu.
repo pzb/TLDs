@@ -1,0 +1,10 @@
+brad.ns.cloudflare.com.	172800	IN	A	173.245.59.105
+brad.ns.cloudflare.com.	172800	IN	AAAA	2400:cb00:2049:1::adf5:3b69
+sara.ns.cloudflare.com.	172800	IN	A	173.245.58.144
+sara.ns.cloudflare.com.	172800	IN	AAAA	2400:cb00:2049:1::adf5:3a90
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+gb4dgi2m8p18vqdh3khfaes1ui48nae8.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711164144 20160704153144 15617 edu. hDrsNVoDgpetVuwLsU7JBVCS9y+U/hEM0ETE6VEInhhUUVlbLqoIwQKAYLmY17W9JgDI2HuurR0mfziMlkBjgQOXdbneSq9Zqki9CFLWuwxfhQXmr/eVY056+Axxs1Ed/M8eiWOUk/S8uSpqnCa5e6jZ1TpOY/vB2WPqLk559SI=
+gb4dgi2m8p18vqdh3khfaes1ui48nae8.edu.	86400	IN	NSEC3	1 1 0 -  gc72oodrj358b7pq8o7f81gk88inubru NS DS RRSIG 
+laurel.edu.	172800	IN	NS	brad.ns.cloudflare.com.
+laurel.edu.	172800	IN	NS	sara.ns.cloudflare.com.

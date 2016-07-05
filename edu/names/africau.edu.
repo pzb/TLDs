@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+africau.edu.	172800	IN	NS	ns1.vm3273.sgvps.net.
+africau.edu.	172800	IN	NS	ns2.vm3273.sgvps.net.
+lns26l2sevk54il98c1gq7si2tbntqok.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711140310 20160704125310 15617 edu. J36cdJK0roIKBtN+mDjALcnSxWWvQyT/tcd3ks0hHQxiMzfume7a6niuVYZhl0uzMkd/hogoiG3qjs4hKqqrIVQlnwclg9L6WsvVpUWuIUP78Zmc4cs687KJDfXz9elRpdHU8Ep/cWavhviw9WEquJZeAkgk+BNMFimjjSIj4Os=
+lns26l2sevk54il98c1gq7si2tbntqok.edu.	86400	IN	NSEC3	1 1 0 -  lqvhocpf8k7fbhpnd1vtg8iscadrjp1e NS DS RRSIG 
+ns1.vm3273.sgvps.net.	172800	IN	A	185.62.238.49
+ns2.vm3273.sgvps.net.	172800	IN	A	185.62.238.50

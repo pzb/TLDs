@@ -1,0 +1,8 @@
+ns1eu7.panalinkinfotech.com.	172800	IN	A	78.129.155.244
+ns2eu7.panalinkinfotech.com.	172800	IN	A	78.129.155.245
+34o8623qqko5387qs7jfp45ht2jqdhro.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711054202 20160704043202 15617 edu. Z8Ig+5yjtb8ac6t85bfLbvgYw2Tq1uIcnJOhUAdBiqLqPQ6KGfGSXM98InfDhxF6Hnap2G2c4OmK+7RRHesLuuovbK0LknMLrqH6+V+K2goffzVt2UTgFlIbWdl4WpR6vLhQ0GRYv+dJQDjcLgO3taDPpcKKlefoMujhObn3mF0=
+34o8623qqko5387qs7jfp45ht2jqdhro.edu.	86400	IN	NSEC3	1 1 0 -  357a82rgu5j4d60rhpov22i6rjn2mc7u NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+jamiahamdard.edu.	172800	IN	NS	ns1eu7.panalinkinfotech.com.
+jamiahamdard.edu.	172800	IN	NS	ns2eu7.panalinkinfotech.com.

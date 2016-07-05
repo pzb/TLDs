@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+earlham.edu.	172800	IN	NS	jade.earlham.edu.
+earlham.edu.	172800	IN	NS	sardonyx.earlham.edu.
+earlham.edu.	172800	IN	NS	washington.ind.net.
+jade.earlham.edu.	172800	IN	A	159.28.1.49
+sardonyx.earlham.edu.	172800	IN	A	159.28.1.107
+hsaueogenjuq9ihjo6bcodkuabmjn57o.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711151919 20160704140919 15617 edu. du/8L+lONh+EB+vSGgdx37STDXwVMSS2/wht5hSpwt9AOEpjdTF312jK1giRODxpcElHgoSjvhkc8+pL/tCwVuEDTuyIcRTllbWhPYDGcthgL3fxKlJPAPAX1LP1IH9W9/bYhHslIeD0VTgbVH7CF5BxI3eoX2h5c7Sv/FzfC5g=
+hsaueogenjuq9ihjo6bcodkuabmjn57o.edu.	86400	IN	NSEC3	1 1 0 -  hsq6ct16ppaes50bqliaqsalg9tjaphn NS DS RRSIG 
+washington.ind.net.	172800	IN	A	157.91.1.1

@@ -1,0 +1,8 @@
+server3.intellicomweb.com.	172800	IN	A	70.34.34.107
+serverc.intellicomweb.com.	172800	IN	A	70.34.34.107
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+f8tq605ggb8p2i4cst790u9rhbbnhdmi.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710021250 20160703010250 15617 edu. msxzNEgjVm1o3fndpx9PRpqeykbCXkmXC+YyhcAFTvPDqv8S9XHQasIHNpu9mw7Goq44/wLZL1hAeAnHBvc0+iiCgYAMOJ8EEgvnfJjblAwidlD6uGw2NUDVjrwDVJlkcdc4nNLvPshnwfLNKyS3A9nVUmg/D3UgNanzLIB8/1A=
+f8tq605ggb8p2i4cst790u9rhbbnhdmi.edu.	86400	IN	NSEC3	1 1 0 -  f9r2ou9gd8pmoutapduvt0t1mj6u71jj NS DS RRSIG 
+josephscollege.edu.	172800	IN	NS	server3.intellicomweb.com.
+josephscollege.edu.	172800	IN	NS	serverc.intellicomweb.com.

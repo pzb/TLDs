@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+bts.edu.	172800	IN	NS	ns5.mainehost.net.
+bts.edu.	172800	IN	NS	ns6.mainehost.net.
+taucmarcf8tpp2shiekrrkdnvlp1pmns.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711125505 20160704114505 15617 edu. g8Ge8G/+ILQY2HO4yYBOKuOvz0Et+63O1Mgjgtx/eos9zVmW866CT7tMNlM6+SS6TU3LnJHYOj1BTmMsfCv5uY2o3/KXqNzBdiLGYc9eOYIIqUZNlkvbDPZYuARGlVp2g1MbD88/yE6sGWf0cRBuSQORIgWfw2nEj1vAMBhQ97g=
+taucmarcf8tpp2shiekrrkdnvlp1pmns.edu.	86400	IN	NSEC3	1 1 0 -  tb68ev4fk2hptvaq09a1gel8jnvijtei NS DS RRSIG 
+ns5.mainehost.net.	172800	IN	A	108.163.188.194
+ns6.mainehost.net.	172800	IN	A	72.55.153.4

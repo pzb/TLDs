@@ -1,0 +1,10 @@
+ns-405.awsdns-50.com.	172800	IN	A	205.251.193.149
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+cumberland.edu.	172800	IN	NS	ns-405.awsdns-50.com.
+cumberland.edu.	172800	IN	NS	ns-839.awsdns-40.net.
+cumberland.edu.	172800	IN	NS	ns-1191.awsdns-20.org.
+cumberland.edu.	172800	IN	NS	ns-1619.awsdns-10.co.uk.
+ihksiur7p96jhnnn2co6c438pf5jl1b7.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711224623 20160704213623 15617 edu. WTfE8eCGYqsK9JXT2/BJvIi2Qcl9Z/aogI3NxIIkidj1Aj6ZXvQOW3LYs+xwgZikc3qcbcgH5pe58Tkp9niiHfvq57esCBJHFN24CvrcStzmjlVQdJ1aK4bwC6FCdgyDIPCZ0UWjslQ4q+9zTn+un34dgc2ceb5kBdVLpLpC6xE=
+ihksiur7p96jhnnn2co6c438pf5jl1b7.edu.	86400	IN	NSEC3	1 1 0 -  iivhjjiukpceta3a0p8c19t4a80pt3jp NS DS RRSIG 
+ns-839.awsdns-40.net.	172800	IN	A	205.251.195.71

@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+limestone.edu.	172800	IN	NS	dnsx1.limestone.edu.
+limestone.edu.	172800	IN	NS	dnsx2.limestone.edu.
+dnsx1.limestone.edu.	172800	IN	A	74.253.14.10
+dnsx2.limestone.edu.	172800	IN	A	74.253.14.11
+u8nd8q6qbqgnhsajol41imstmu24e7hn.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711064858 20160704053858 15617 edu. Lq0CxUTy4JFA+7bevcDYMjvgBb4H6hDJRsMpK1hJcbIpVNE9anf9n8FtyUEc3e/zCf8J2nKh8ZmDTjPdgQ4AMytboQhVGV1rNFFZeXmXF+3ywhvZVduRJzs1LYwmE35LLGLHp+DranTpZnx41Kp+pUf6yd7XhB8ypauUxlnCxhs=
+u8nd8q6qbqgnhsajol41imstmu24e7hn.edu.	86400	IN	NSEC3	1 1 0 -  u9orcm0auo266bjqpahig45id0mn44ob NS DS RRSIG 

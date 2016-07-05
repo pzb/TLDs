@@ -1,0 +1,13 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+pdx.edu.	172800	IN	NS	dns0.pdx.edu.
+pdx.edu.	172800	IN	NS	dns1.pdx.edu.
+pdx.edu.	172800	IN	NS	walt.ee.pdx.edu.
+pdx.edu.	172800	IN	NS	phloem.uoregon.edu.
+dns0.pdx.edu.	172800	IN	A	131.252.120.128
+dns1.pdx.edu.	172800	IN	A	131.252.120.129
+walt.ee.pdx.edu.	172800	IN	A	131.252.208.38
+phloem.uoregon.edu.	172800	IN	A	128.223.32.35
+phloem.uoregon.edu.	172800	IN	AAAA	2001:468:d01:20::80df:2023
+vkt514a77f4ulhngmv52lm8aci3ia85b.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711113802 20160704102802 15617 edu. 3An7lYMCRUZCtUGizXYfCLAxnj/41zTY1AcmhYb+R7GPwCLTNsRAAO3N/AI2DXpLyN7QYXdZFftU8XTSixfK08MxAPn39WNhs1sc8GxphnEZcUHRukmHUb/NbsO25ofUkhuJV773dwWbthNMdWOC/ov1KyD2yuNLQ4ITxyINHBU=
+vkt514a77f4ulhngmv52lm8aci3ia85b.edu.	86400	IN	NSEC3	1 1 0 -  vls7iktghkb19lvn7fm5r83trergeue2 NS DS RRSIG 

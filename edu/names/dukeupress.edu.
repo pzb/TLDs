@@ -1,0 +1,10 @@
+rick.ns.cloudflare.com.	172800	IN	A	173.245.59.139
+rick.ns.cloudflare.com.	172800	IN	AAAA	2400:cb00:2049:1::adf5:3b8b
+rose.ns.cloudflare.com.	172800	IN	A	173.245.58.141
+rose.ns.cloudflare.com.	172800	IN	AAAA	2400:cb00:2049:1::adf5:3a8d
+5jgls0sj4cr8r3k4eolif5v1eaqc7ofi.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711201042 20160704190042 15617 edu. BybHYVN51FSz8gn9kAH+8BtfNDroqQHNNGDv9Ga+X99Ay8bNVhkZj8Qgh12PU272CgK6vpYHa0Oq85do14iM/VeEu+hRfuaEAoQ7krAQalBars43ITzf+92CEYKAFcSDcSClBAcwfOZdtOneQdjlxXhSXJDOMOAspZTzgHqGAtk=
+5jgls0sj4cr8r3k4eolif5v1eaqc7ofi.edu.	86400	IN	NSEC3	1 1 0 -  5kut5165mmusjmbpbbql7mvqcbmia9co NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+dukeupress.edu.	172800	IN	NS	rick.ns.cloudflare.com.
+dukeupress.edu.	172800	IN	NS	rose.ns.cloudflare.com.

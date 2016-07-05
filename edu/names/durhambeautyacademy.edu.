@@ -1,0 +1,8 @@
+32kj18nkn49givh9m2nhuo81uaqsp7jh.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710185605 20160703174605 15617 edu. BrPJKX4Ycgi2VV/SPOJAolEKKlYtphZ6qeA1d9bciX8UNX83ncxPj1tqmhWS5nas+Afo2LPirEiHJHFO2J8kNvg6vrKDgYbKctVIPX/feR1vcnRZdhCFJrWcsO6fdwO2+WApqxwjzLhu5/eBidEn/RDpysJKTkOxn1wIC/Ey4RU=
+32kj18nkn49givh9m2nhuo81uaqsp7jh.edu.	86400	IN	NSEC3	1 1 0 -  335mbckjmnce71909ot82bk1bo4iqcd7 NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+durhambeautyacademy.edu.	172800	IN	NS	ns1.linuxhost1.net.
+durhambeautyacademy.edu.	172800	IN	NS	ns2.linuxhost1.net.
+ns1.linuxhost1.net.	172800	IN	A	64.91.231.103
+ns2.linuxhost1.net.	172800	IN	A	67.227.253.86

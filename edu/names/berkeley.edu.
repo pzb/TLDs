@@ -1,0 +1,19 @@
+berkeley.edu.	172800	IN	NS	ns.v6.berkeley.edu.
+berkeley.edu.	172800	IN	NS	adns1.berkeley.edu.
+berkeley.edu.	172800	IN	NS	adns2.berkeley.edu.
+berkeley.edu.	172800	IN	NS	aodns1.berkeley.edu.
+berkeley.edu.	172800	IN	NS	aodns2.berkeley.edu.
+berkeley.edu.	172800	IN	NS	phloem.uoregon.edu.
+berkeley.edu.	172800	IN	NS	sns-pb.isc.org.
+berkeley.edu.	86400	IN	DS	12834 10 2 960119016aa073b4f9fb935fb9d7fa0f6391d2c409d9069ae6a53bcbcc201059
+berkeley.edu.	86400	IN	DS	56928 10 2 6efe2aaa98f1140e5f56cd6f9d0ad582a95c173d17c0df00f2aafb6293eec513
+berkeley.edu.	86400	IN	RRSIG	DS 8 2 86400 20160708052033 20160701041033 15617 edu. O82pCIYxuODyovlhOfwelQW12f8qlXeo+QFuz2D19gDzEWMVXPgF/a4yjSHJJm1OONMybLlsW/wthPCT6RYp/M7bp9Q29RBz6+EvKqJSnB/zr3MTm4i4sZuL4utIWwMlgAkZUv2+hAsnQTHZVrg290biDOJ/LlvsDUl/7VD2V8I=
+adns1.berkeley.edu.	172800	IN	A	128.32.136.3
+adns2.berkeley.edu.	172800	IN	A	128.32.136.14
+aodns1.berkeley.edu.	172800	IN	A	192.35.225.133
+aodns1.berkeley.edu.	172800	IN	AAAA	2607:f010:3f8:8000:0:ff:fe00:53
+aodns2.berkeley.edu.	172800	IN	A	128.253.35.148
+ns.v6.berkeley.edu.	172800	IN	A	128.32.136.6
+ns.v6.berkeley.edu.	172800	IN	AAAA	2607:f140:ffff:fffe::6
+phloem.uoregon.edu.	172800	IN	A	128.223.32.35
+phloem.uoregon.edu.	172800	IN	AAAA	2001:468:d01:20::80df:2023

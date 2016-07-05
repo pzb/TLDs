@@ -1,0 +1,12 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+lazurus.antioch.edu.	172800	IN	A	199.218.254.152
+unibase.antioch.edu.	172800	IN	A	199.218.254.90
+antiochmidwest.edu.	172800	IN	NS	ns1.oar.net.
+antiochmidwest.edu.	172800	IN	NS	ns2.oar.net.
+antiochmidwest.edu.	172800	IN	NS	lazurus.antioch.edu.
+antiochmidwest.edu.	172800	IN	NS	unibase.antioch.edu.
+t2s8aq46g4nalbo141p5ntdb762dqbhg.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711225524 20160704214524 15617 edu. GvG+KcSqAKZDYBp/esigNKNEKdxtCj7+rQvqjJO5xtFMt4RQ2IehmH9IEQUrtZ/6lVlvmm7R+6lZo6W3DtHqD083tf5SGOjIKf5jxCi0oo/RTzLb7b8UX1H5eirn1GWztnR+JHFQ24Ol1CWh0Kv+4NW3IlhQJnRj65UT6gb5c6w=
+t2s8aq46g4nalbo141p5ntdb762dqbhg.edu.	86400	IN	NSEC3	1 1 0 -  t42baj3i37340k9v63s2quof9h1i26a5 NS DS RRSIG 
+ns1.oar.net.	172800	IN	A	192.88.193.144
+ns2.oar.net.	172800	IN	A	192.88.195.10

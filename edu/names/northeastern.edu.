@@ -1,0 +1,12 @@
+29lpmsr4bm1vd7c6mgob142tm5d5l488.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711061546 20160704050546 15617 edu. sdUBlyXx8eyn73dripjUMxdtLb4AeGBkZVcZAXf0SWCkTMODw0Yqh7F3wXIJLWkIlHaNi1bzeOLc8N8KcZ2gx3shOBWhE2Y6EfithrvMQbcSzywGG1oBVLWD/Zr9jI8AmQvczJLzCtYodi5XIau2R0zDqzt9QypKwNZBLeZZ/ss=
+29lpmsr4bm1vd7c6mgob142tm5d5l488.edu.	86400	IN	NSEC3	1 1 0 -  2b8q8bst1u37feind29ufumdv2si1ai3 NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+nb4276.neu.edu.	172800	IN	A	155.33.16.201
+nb4277.neu.edu.	172800	IN	A	155.33.16.202
+northeastern.edu.	172800	IN	NS	ns20.customer.level3.net.
+northeastern.edu.	172800	IN	NS	ns29.customer.level3.net.
+northeastern.edu.	172800	IN	NS	nb4276.neu.edu.
+northeastern.edu.	172800	IN	NS	nb4277.neu.edu.
+ns20.customer.level3.net.	172800	IN	A	209.244.5.53
+ns29.customer.level3.net.	172800	IN	A	209.244.5.212

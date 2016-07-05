@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+he9a0l4p56naeoho8tvtv9e6bqahgv9v.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710214625 20160703203625 15617 edu. dWG1BUI7bUY3reO74B5NjVRXvtBR/W6FDWTub4lAlcdYWUfqBM8im5iSJ2pkKize+X3S1dKsoXvpCnUWuHdHxmuB04/aM0QP1hiJpHGvIk41ZeTIq2ctkjYj8kVZ6TXzpPPckiOEwpfSpc7Fqbpe7BdWs5H7oTZ7G7mixvccjCs=
+he9a0l4p56naeoho8tvtv9e6bqahgv9v.edu.	86400	IN	NSEC3	1 1 0 -  henoq24rm02f8jtptm4dfi0vdmtd24eu NS DS RRSIG 
+paramount.edu.	172800	IN	NS	ns1.paramount.edu.
+paramount.edu.	172800	IN	NS	ns2.paramount.edu.
+ns1.paramount.edu.	172800	IN	A	75.103.116.54
+ns2.paramount.edu.	172800	IN	A	75.103.116.55

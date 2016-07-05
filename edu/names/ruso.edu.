@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+terra.osrhe.edu.	172800	IN	A	164.58.233.202
+otluhg5uaemvtgrdsaak465aff2ondih.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160708052033 20160701041033 15617 edu. B6X6gd0JIBHODQ2TOi0fDPHudHysJr/dfsoaLofSn/4eNl2ai98Mvgp5no00MGhwrk1OCOOymkH3bq5hBpuUQti7fCq+CuQEq/A9AX6NbPQt3/z3N4MLpjfHlyBXeNZwXxvAe+K1ULAd/f8gFGZyfvF0nnJTr5m/G4uOWCeDTVA=
+otluhg5uaemvtgrdsaak465aff2ondih.edu.	86400	IN	NSEC3	1 1 0 -  ou4vbupsol4tv8ep027ejq2mm2p7ktpn NS DS RRSIG 
+ruso.edu.	172800	IN	NS	dns.onenet.net.
+ruso.edu.	172800	IN	NS	terra.osrhe.edu.
+dns.onenet.net.	172800	IN	A	164.58.253.10

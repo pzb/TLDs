@@ -1,0 +1,12 @@
+auth1.dns.cogentco.com.	172800	IN	A	66.28.0.14
+auth1.dns.cogentco.com.	172800	IN	AAAA	2001:550:1:a::d
+auth2.dns.cogentco.com.	172800	IN	A	66.28.0.30
+bradley.edu.	172800	IN	NS	dns1.bradley.edu.
+bradley.edu.	172800	IN	NS	dns2.bradley.edu.
+bradley.edu.	172800	IN	NS	auth1.dns.cogentco.com.
+bradley.edu.	172800	IN	NS	auth2.dns.cogentco.com.
+bradley.edu.	86400	IN	DS	31527 10 1 b64d0e06e40046ad946f5eb54d670ab226f99db6
+bradley.edu.	86400	IN	DS	31527 10 2 bd6351b0b7f66b03c2aa31c20bf20c4ac6fb58a737a8e0be6fba5f305b8edad5
+bradley.edu.	86400	IN	RRSIG	DS 8 2 86400 20160710053345 20160703042345 15617 edu. mKtsk30cka/UamJojP+NjcCVGKBC1M0EuQD5G9sCz6kIt04almLXeLGNxkUFaT4Xl5gzD3YrdZqVTV03rVeYalDP8nv76RAjkLuRVCBv2cxGqzgWr3L+XMB9P3ZGJJBXJlNk+4l1NJsWYTGnEt22snwaEjEDcgdZhTG99u8O/oA=
+dns1.bradley.edu.	172800	IN	A	136.176.200.10
+dns2.bradley.edu.	172800	IN	A	136.176.200.100

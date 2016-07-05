@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+blackburn.edu.	172800	IN	NS	auth.lkvl.mn.frontiernet.net.
+blackburn.edu.	172800	IN	NS	auth.roch.ny.frontiernet.net.
+u9rtp4n5kirbraaonro23cd4p6kafere.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051943 20160704040943 15617 edu. SMtZaJVVQKBTVmbrOyDUPPzRm9vtsnPZtD+ewmc63wEsVeV54ga3lMlYOi4aHj5WcGvzZ+bjO0OuB4+v+M5UqjMaWXiLx2uI/1WftK9oBDMP94+/grP3ID0HJ4kRd9vfANfQR9DpH2PNi6IHqs418yFp9u5apr5ssDIdGL83VeI=
+u9rtp4n5kirbraaonro23cd4p6kafere.edu.	86400	IN	NSEC3	1 1 0 -  uacfp995lprt4c40f9lc8drk7t0stffb NS DS RRSIG 
+auth.lkvl.mn.frontiernet.net.	172800	IN	A	66.133.150.11
+auth.roch.ny.frontiernet.net.	172800	IN	A	66.133.170.3

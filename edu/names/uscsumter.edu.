@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+tlco3b6hvnjil44845sn02bgo9ei1qu9.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711103914 20160704092914 15617 edu. wpl9XZQfnk3GzWVZfByC0OiFyNlmI1QqmLFYezlgqhMkiaszLcWLvXxB870HSPgUjdaeQGyhOqVQ3Xf+WOuZzmcxTMZ9n3sNFEIb1H0aSqHAo5jEbhE6jna6xm3r7QvXnGMIG2h9zP7LTOODzLUQoZbipzx6L60l+d/3d+MxTYs=
+tlco3b6hvnjil44845sn02bgo9ei1qu9.edu.	86400	IN	NSEC3	1 1 0 -  tmumluophnf7hem7siual2p41b0fm4ka NS DS RRSIG 
+uscsumter.edu.	172800	IN	NS	sumtdns.uscsumter.edu.
+uscsumter.edu.	172800	IN	NS	sumtdns2.uscsumter.edu.
+sumtdns.uscsumter.edu.	172800	IN	A	129.252.121.44
+sumtdns2.uscsumter.edu.	172800	IN	A	129.252.121.70

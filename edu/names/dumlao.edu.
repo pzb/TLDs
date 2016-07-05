@@ -1,0 +1,10 @@
+ns1.freewha.com.	172800	IN	A	5.9.106.213
+ns2.freewha.com.	172800	IN	A	5.9.126.141
+71ivpudsrbcv530g2cctmrqam2lj8nd0.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. RFuedCievvqp+GIYz3pgbj29jbmlNgWCG+yZ6CA2RLe7EABw7YL65RQk58i3H00zB+HiTbeV9Kj40bp/WG/6oGgT8xVobQ8bXTW80+bq5U8ruMOMzttwPQFeJ15L8XkvZ70Dyez8GVr9xljjxxq5gKufYfPzXHrw4hM8F2Ex1aE=
+71ivpudsrbcv530g2cctmrqam2lj8nd0.edu.	86400	IN	NSEC3	1 1 0 -  71nahj15el3l260ofp8la0fduq5qt5mc NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+dumlao.edu.	172800	IN	NS	ns1.eu5.org.
+dumlao.edu.	172800	IN	NS	ns1.freewha.com.
+dumlao.edu.	172800	IN	NS	ns2.eu5.org.
+dumlao.edu.	172800	IN	NS	ns2.freewha.com.

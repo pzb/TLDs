@@ -1,0 +1,14 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+onu.edu.	172800	IN	NS	ns1.oar.net.
+onu.edu.	172800	IN	NS	ns1.onu.edu.
+onu.edu.	172800	IN	NS	ns2.oar.net.
+onu.edu.	172800	IN	NS	ns2.onu.edu.
+onu.edu.	172800	IN	NS	ncnoc.ncren.net.
+ns1.onu.edu.	172800	IN	A	140.228.10.14
+ns2.onu.edu.	172800	IN	A	140.228.10.22
+tdf0p36r7uu0bjt9c615ujrtjf87mjcf.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051943 20160704040943 15617 edu. P+1DYtRAODT6/Bw0b1Nl3xu4CbzWjN+8yHYwoZDaK9VNSNH/GK5uw8TyVXnVuO7jcj/Mz08CMAzXenwyckGlx5zpLpnxR4LYwqx05iPWg+zooSaAy/Vh2HMBCHWHEyctjmBs9Pdx+RRVNsXoDGQ8hlQE/xpbqPACmg8PAuhqtJM=
+tdf0p36r7uu0bjt9c615ujrtjf87mjcf.edu.	86400	IN	NSEC3	1 1 0 -  tedg8ke60gsb8b23f9hskdkgbm7497i2 NS DS RRSIG 
+ncnoc.ncren.net.	172800	IN	A	192.101.21.1
+ns1.oar.net.	172800	IN	A	192.88.193.144
+ns2.oar.net.	172800	IN	A	192.88.195.10

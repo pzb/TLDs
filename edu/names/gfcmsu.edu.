@@ -1,0 +1,9 @@
+gfcmsu.edu.	172800	IN	NS	dns1.msu.montana.edu.
+gfcmsu.edu.	172800	IN	NS	dns2.msu.montana.edu.
+gfcmsu.edu.	172800	IN	NS	gfcipam.gfcmsu.edu.
+gfcmsu.edu.	86400	IN	DS	33483 7 1 7a2a6aa4619beb27d857488218f3141bc9fc63df
+gfcmsu.edu.	86400	IN	DS	33483 7 2 25c58bf390ec2a4a8025f0bd94e1d6d62406418c39e7f695c80c643848869b4b
+gfcmsu.edu.	86400	IN	RRSIG	DS 8 2 86400 20160711051941 20160704040941 15617 edu. TG8ycCib1iFx4k62hQgsfqecCO6ss5x9uTHaSTdMcrY9+No1Bnw02zr02gvDxBhlKWyg/wM7p2tYZaCMqPRLBWXPuIb/+tMoksQn+d2yalIayG435PA+PSfDsm25o6ZMHwOJpN/LRCwA1NcMeNE0R642b313VzqJsEd/chtSTZk=
+gfcipam.gfcmsu.edu.	172800	IN	A	207.196.131.39
+dns1.msu.montana.edu.	172800	IN	A	153.90.2.15
+dns2.msu.montana.edu.	172800	IN	A	153.90.2.1

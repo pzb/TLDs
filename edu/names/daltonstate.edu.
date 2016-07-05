@@ -1,0 +1,10 @@
+4ms03enpup4hoc8v5svc80vqrhi0dbrm.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711151752 20160704140752 15617 edu. Z/aviNzP8Sk0KIa+1LKirPRnOXndO+p2nhMs3JV7+QuxU9fo+gvaSxdmpbpwIjFJI3f7XRZBPd48XGwrfpoVs8Fer21i7DAZK8AtVmM643TQeanZa+JgVhUOoAezG7JeKxpiKVz6+FAB8ZGUM9G2mODWEM0aWiOLWQiM4EapqyE=
+4ms03enpup4hoc8v5svc80vqrhi0dbrm.edu.	86400	IN	NSEC3	1 1 0 -  4nnt9jfjosbmgm909uddrpo0ifnt9j5c NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+daltonstate.edu.	172800	IN	NS	ns1.usg.edu.
+daltonstate.edu.	172800	IN	NS	ns2.usg.edu.
+daltonstate.edu.	172800	IN	NS	ns4.usg.edu.
+ns1.usg.edu.	172800	IN	A	198.72.72.10
+ns2.usg.edu.	172800	IN	A	131.144.4.9
+ns4.usg.edu.	172800	IN	A	131.144.4.10

@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+i5gosm70gaod35ji6h2kdqsrgarupu8h.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711210929 20160704195929 15617 edu. VfNgp5HH07jI1DciOShYnkXfNI4ikZ9DN+fPu6+bu0STFbHy9kHaMNgVDnhwQXgbre0BqVwOaedWcR1tLvq0VsCYTT7jdz3d3sJfSnXvRp3U7AJX9ZcR/n4X2lZ/XMHfMDf43EnMQilLweahO0R1FgUVigh/wd11HoDQ9lYWIpI=
+i5gosm70gaod35ji6h2kdqsrgarupu8h.edu.	86400	IN	NSEC3	1 1 0 -  i6lqkeg3vjqk7j0ql2cumgj011o59irj NS DS RRSIG 
+rockinghamcc.edu.	172800	IN	NS	ns2.rockinghamcc.edu.
+rockinghamcc.edu.	172800	IN	NS	ns3.rockinghamcc.edu.
+ns2.rockinghamcc.edu.	172800	IN	A	70.60.253.130
+ns3.rockinghamcc.edu.	172800	IN	A	152.27.16.246

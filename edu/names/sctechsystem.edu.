@@ -1,0 +1,8 @@
+42ogvb3io99vsec30qk4red7b5n5qbio.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711164450 20160704153450 15617 edu. l3w9DzhX9psezWCb2MhLxFebgOfyl3dY8XUfa83NCCl9/YPVf+Q8IKSBaynBaD0MJirNvdBDArGqwlp4EsUfIPrgJbowPgspk2BK3pdPql040aBrf5l++khAVTD8inWdF5TZ+hi34Ilr5Ao7D4g+IToIqg/AQvypuygqSfkk+Xg=
+42ogvb3io99vsec30qk4red7b5n5qbio.edu.	86400	IN	NSEC3	1 1 0 -  43sjec2jr2ujqa4eu9lvctqrf6cghq8j NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+sctechsystem.edu.	172800	IN	NS	coral.sctechsystem.edu.
+sctechsystem.edu.	172800	IN	NS	citrine.sctechsystem.edu.
+citrine.sctechsystem.edu.	172800	IN	A	199.4.246.246
+coral.sctechsystem.edu.	172800	IN	A	199.4.246.247

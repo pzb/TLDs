@@ -1,0 +1,12 @@
+94f82f7q88jigu42g1tjloh9oaafmpd8.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711231347 20160704220347 15617 edu. zEQsBud7Y7mW4VyYTrWiQudjp4aKe0LHvREsMG8LpFSfdJIzGi2xrM52hs9CqCcVEkJDvMPB3Fbj+2vN1udqHEIwAWvU56cItxKgEHhMhA2fYqjiEwUyR3c+k4KCzeGb/wQ2z2qfYJMaYXu64FWzcoZpQ9CoqeQFXvWRNyOXux0=
+94f82f7q88jigu42g1tjloh9oaafmpd8.edu.	86400	IN	NSEC3	1 1 0 -  95k0nbcjmih2mjtbcjgfr974f13vgthb NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+abtech.edu.	172800	IN	NS	ns1.abtech.edu.
+abtech.edu.	172800	IN	NS	ns2.abtech.edu.
+abtech.edu.	172800	IN	NS	ns3.abtech.edu.
+abtech.edu.	172800	IN	NS	ns4.abtech.edu.
+ns1.abtech.edu.	172800	IN	A	152.27.4.81
+ns2.abtech.edu.	172800	IN	A	152.27.4.82
+ns3.abtech.edu.	172800	IN	A	66.219.26.155
+ns4.abtech.edu.	172800	IN	A	66.219.26.156

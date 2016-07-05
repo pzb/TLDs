@@ -1,0 +1,9 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+bmt259aoupiu0f90ribrboutq4d5b1m3.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711204645 20160704193645 15617 edu. sOnxOkZjUBhUUUa5zh6hiVtlhtCBXCZ2XNgFNqZ2uPLs/yEk8IcbMrfJPZaT23qKA3fT6ij9c8XfW1GofHubfX0TkC+dNvTXdW88rwE93B1vmitv/1mqMNlhiaaCpg2yHLohtGYel3yfvwRJXy8MAQS9095gLY895f4EY392LeY=
+bmt259aoupiu0f90ribrboutq4d5b1m3.edu.	86400	IN	NSEC3	1 1 0 -  bnp9535kikavffnhg68m0m6c4mmocu42 NS DS RRSIG 
+gluck.edu.	172800	IN	NS	smithers.rutgers.edu.
+gluck.edu.	172800	IN	NS	ns-newark1.rutgers.edu.
+ns-newark1.rutgers.edu.	172800	IN	A	165.230.79.232
+smithers.rutgers.edu.	172800	IN	A	128.6.68.53
+smithers.rutgers.edu.	172800	IN	A	128.6.68.153

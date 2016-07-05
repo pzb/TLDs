@@ -1,0 +1,7 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+openuniversity.edu.	172800	IN	NS	nse-0.open.ac.uk.
+openuniversity.edu.	172800	IN	NS	nse-1.open.ac.uk.
+openuniversity.edu.	172800	IN	NS	nse-2.open.ac.uk.
+vls7iktghkb19lvn7fm5r83trergeue2.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710201432 20160703190432 15617 edu. HinopuQHOzAlT6AkTSK4aMLZfpDLHleBTdwd6Rkc7m6Vj23uqtWfgeQKYVZaDvg3MnR9GpnhhuPnJBRMbWUnfCfYI7OZcJkfpw1sR5qVoiG5u0gXd+xwdoKubvooRhp1XFxcvD/BuWLBT2LzCrLHxHLjKRK1/nQ4hShGgzBzhCo=
+vls7iktghkb19lvn7fm5r83trergeue2.edu.	86400	IN	NSEC3	1 1 0 -  vnfo6lvlmles2lu8gdn77mm01phtgb1l NS DS RRSIG 

@@ -1,0 +1,8 @@
+ns1.topwebsnetwork.com.	172800	IN	A	96.30.2.94
+ns2.topwebsnetwork.com.	172800	IN	A	96.30.2.95
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+stpsu.edu.	172800	IN	NS	ns1.topwebsnetwork.com.
+stpsu.edu.	172800	IN	NS	ns2.topwebsnetwork.com.
+u1srkjabbpbj9h57qbpd4q1p7g644jld.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711151724 20160704140724 15617 edu. 3UxNyjwzcoNRSkhRt4E6abUzbpbstyKhOA8oZk/WgjdJJ+3iRThedTdJcCtpWiQPSvcrZefGhu1Nh5DEOchXqThWGsFPdQIR0iepXFNzk8XHVbq/WHlO3NM74xqr/76nNxiYUXWKYcZlaiKH6GpFt0OkDTnowEWofK7Nx7AfOgs=
+u1srkjabbpbj9h57qbpd4q1p7g644jld.edu.	86400	IN	NSEC3	1 1 0 -  u37k0p2moli6asrl45pmp2r6nsfaeds8 NS DS RRSIG 

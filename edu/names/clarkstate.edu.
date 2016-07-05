@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+clarkstate.edu.	172800	IN	NS	ns1.oar.net.
+clarkstate.edu.	172800	IN	NS	ns2.oar.net.
+nbcdqkronu85meqfnd4j7polff6dufso.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711193731 20160704182731 15617 edu. HeTIlYsD0imYECx61O8YPM6lCSKkFHkXsRWg8axvprLHPRufntJOHWnkcC6vV2SbKgjsGxvuGe/rwrJu8sf5kQRpqEQ1vilgIF6hp3jfqtBlkOG2q1+qXAjzOIrC0sWH6MlOl/1Gz+O2dQZg+pSkXI5x+NLXbewYX6iZHCwcqMg=
+nbcdqkronu85meqfnd4j7polff6dufso.edu.	86400	IN	NSEC3	1 1 0 -  nbkf5vbvgvt96eqt1sfi4ti3hikh66sj NS DS RRSIG 
+ns1.oar.net.	172800	IN	A	192.88.193.144
+ns2.oar.net.	172800	IN	A	192.88.195.10

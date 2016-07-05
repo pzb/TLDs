@@ -1,0 +1,6 @@
+cltcc.edu.	172800	IN	NS	syso-svr-ns1.lctcs.edu.
+cltcc.edu.	172800	IN	NS	syso-svr-ns2.lctcs.edu.
+cltcc.edu.	86400	IN	DS	30508 5 1 7e420fe1dc8af4399da53112060f7b94e413d50d
+cltcc.edu.	86400	IN	RRSIG	DS 8 2 86400 20160708052033 20160701041033 15617 edu. rDFw5Kb1wxG+L62shnvx29jcktCQx0kNmW5YO1mDFN9HJ13V9u+mzhSvTVTEPhKg3XPqdOWp8fKfDtKunNbeb6jQXv+5IcA266Oo8XJEbwyWqF0zLLYKZPjCBhjV1MZ7eM+77lWk/zPHkd7l9sr94kgAom3vCoN+ahHNzegu5Hk=
+syso-svr-ns1.lctcs.edu.	172800	IN	A	76.165.120.16
+syso-svr-ns2.lctcs.edu.	172800	IN	A	76.165.210.249

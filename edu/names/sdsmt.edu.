@@ -1,0 +1,14 @@
+sdsmt.edu.	172800	IN	NS	ns1.gratisdns.dk.
+sdsmt.edu.	172800	IN	NS	ns2.gratisdns.dk.
+sdsmt.edu.	172800	IN	NS	ns3.gratisdns.dk.
+sdsmt.edu.	172800	IN	NS	ns4.gratisdns.dk.
+sdsmt.edu.	172800	IN	NS	ns5.gratisdns.dk.
+sdsmt.edu.	172800	IN	NS	ntp.sdsmt.edu.
+sdsmt.edu.	172800	IN	NS	silver.sdsmt.edu.
+sdsmt.edu.	86400	IN	DS	62156 8 1 33b740f3013c0bb43be7369c148fe2af0ad5c788
+sdsmt.edu.	86400	IN	DS	62156 8 2 6618d82a69fc7b09ce6e762caf9dfddbd5bf6b8effa9812d8134e5c4af3d38fc
+sdsmt.edu.	86400	IN	RRSIG	DS 8 2 86400 20160711051943 20160704040943 15617 edu. GtnhJk8WaFVlFNaJJXqqVegQeMq0XFzt+5NUW/MqOEZHK+99QBRQBnUKcwap+Y+75b4W8I+FL1nrcBZIv4m/nfDPrC6O245c0O1coI8JBr/NpPo302mTRrSyckmEfb2E+vugpIl8URoxmZDTcvg2STt29FyHEl9u05dC54wR00A=
+ntp.sdsmt.edu.	172800	IN	A	151.159.90.1
+ntp.sdsmt.edu.	172800	IN	AAAA	2607:f558:1000:12::30
+silver.sdsmt.edu.	172800	IN	A	151.159.1.1
+silver.sdsmt.edu.	172800	IN	AAAA	2607:f558:1000:b::30

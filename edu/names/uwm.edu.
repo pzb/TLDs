@@ -1,0 +1,13 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+dns1.illinois.edu.	172800	IN	A	130.126.2.100
+dns1.illinois.edu.	172800	IN	AAAA	2620:0:e00:b::53
+dns2.illinois.edu.	172800	IN	A	130.126.2.120
+pck5be8psshftul0faobe8ocie2c1kll.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712023019 20160705012019 15617 edu. Lw2W3fKLRv14IobwXHqDMSSx5yg++OTO9dp/F2j+pe6M4vfo+bSrRZ9Ri1UZBZXjlSWlhBitzZwMJ2pUCI4odpSXl7Nl7QitWTMkKq/ed2q33sEuYf52KYKrR20iqDcE9/b8gXrc03TEmiXpJJBsNw2HCAGpLSH7U4vv4e/EmEA=
+pck5be8psshftul0faobe8ocie2c1kll.edu.	86400	IN	NSEC3	1 1 0 -  pg6o81qsmbpc30oc92oj4ki6rdm6orrp NS DS RRSIG 
+uwm.edu.	172800	IN	NS	dns1.illinois.edu.
+uwm.edu.	172800	IN	NS	dns2.illinois.edu.
+uwm.edu.	172800	IN	NS	uwmdns1.uwm.edu.
+uwm.edu.	172800	IN	NS	uwmdns2.uwm.edu.
+uwmdns1.uwm.edu.	172800	IN	A	129.89.10.26
+uwmdns2.uwm.edu.	172800	IN	A	192.107.47.13

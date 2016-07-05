@@ -1,0 +1,16 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+b8v7icjd5a0pvbk9fbgb6beptvggpj8c.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711223954 20160704212954 15617 edu. g8ZWr3bQyuKqyCA6zb8Qk9G+DxMprSpagZINSMhxl4/PsW94xlhKwzw3B9TRnxqrjiD4E2b0pUzEwEaXyinXlBhdCOWqXLkCcv0MkzlMz1mX+gStSGs2ukJDCABJUu2uyXiqM+OwvOoosoaM6ETDqnAQSoIYf2xJot3rfSPI3vQ=
+b8v7icjd5a0pvbk9fbgb6beptvggpj8c.edu.	86400	IN	NSEC3	1 1 0 -  bbpco6mrumnhafopne0h8d20s2e4pe6f NS DS RRSIG 
+saintlukescollege.edu.	172800	IN	NS	ns1.saintlukescollege.edu.
+saintlukescollege.edu.	172800	IN	NS	ns2.saintlukescollege.edu.
+saintlukescollege.edu.	172800	IN	NS	ns3.saintlukescollege.edu.
+saintlukescollege.edu.	172800	IN	NS	ns4.saintlukescollege.edu.
+saintlukescollege.edu.	172800	IN	NS	ns5.saintlukescollege.edu.
+saintlukescollege.edu.	172800	IN	NS	ns6.saintlukescollege.edu.
+ns1.saintlukescollege.edu.	172800	IN	A	208.94.148.4
+ns2.saintlukescollege.edu.	172800	IN	A	208.80.124.4
+ns3.saintlukescollege.edu.	172800	IN	A	208.80.126.4
+ns4.saintlukescollege.edu.	172800	IN	A	208.80.125.4
+ns5.saintlukescollege.edu.	172800	IN	A	208.80.127.4
+ns6.saintlukescollege.edu.	172800	IN	A	208.94.149.4

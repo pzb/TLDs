@@ -1,0 +1,13 @@
+drake.edu.	172800	IN	NS	dns1.drake.edu.
+drake.edu.	172800	IN	NS	dns2.drake.edu.
+drake.edu.	172800	IN	NS	dns4.drake.edu.
+drake.edu.	172800	IN	NS	lnx-dns3-prod.drake.edu.
+drake.edu.	86400	IN	DS	45451 5 1 20ad9929be018b6bd9bc26852756414e526412c4
+drake.edu.	86400	IN	DS	45451 5 2 16b1facc546a5ea06a4f3136fcdb8abd7e5c1d47b1bb3c5f92ed000765a1fab9
+drake.edu.	86400	IN	DS	48406 5 1 9f8da300d4884cc25e9cf3499aa2ab75ab4be631
+drake.edu.	86400	IN	DS	48406 5 2 b0fb9c7f9c45cc076d78ebc3bb9f89c63a6726779a0e4f4aee3240563ca5c36f
+drake.edu.	86400	IN	RRSIG	DS 8 2 86400 20160708052037 20160701041037 15617 edu. yP8ASjDRT5fSPiwK/XnCm3lpB/kBM5aVldLQgStXVFNW3L1q8Hywm81Ee0zPknnHMyvT4EzNoXgshOeCNVtUmGk/3Dx2qff+t3Sof8eANsoKiYZL3kp8KCT/zczEkD/CRpyoahfUsuatfIowbw1qK7uIIW9p/36jTD9JqBsxiI0=
+dns1.drake.edu.	172800	IN	A	192.84.11.3
+dns2.drake.edu.	172800	IN	A	192.84.11.4
+dns4.drake.edu.	172800	IN	A	106.187.101.194
+lnx-dns3-prod.drake.edu.	172800	IN	A	68.177.144.32

@@ -1,0 +1,14 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+clintoncollege.edu.	172800	IN	NS	ns1.in10sity.net.
+clintoncollege.edu.	172800	IN	NS	ns2.in10sity.net.
+clintoncollege.edu.	172800	IN	NS	ns3.in10sity.net.
+clintoncollege.edu.	172800	IN	NS	ns4.in10sity.net.
+clintoncollege.edu.	172800	IN	NS	ns5.in10sity.net.
+sujfcqi25j0g86ta0ls5am1qe8okq2kn.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711083735 20160704072735 15617 edu. Pn2ZoDP/IEVUdRKvNIc1GXtvBF4oVTLHMD1CplA7/W+cv1yD+Uf/O6qm95NNuQHJopkPlTIMr4gwWjFSrZQ0PDO9Qc/67sx1ihb0NrLY9DhSq6imPB4Fo+k8ALoYRLjYjmywO8JU7y/wlfmzeRcUitCajqEVqALZNJFvaHX/e1U=
+sujfcqi25j0g86ta0ls5am1qe8okq2kn.edu.	86400	IN	NSEC3	1 1 0 -  svlh42aq4fndma9t9bdpsb3me76al5s9 NS DS RRSIG 
+ns1.in10sity.net.	172800	IN	A	50.23.153.82
+ns2.in10sity.net.	172800	IN	A	50.23.67.178
+ns3.in10sity.net.	172800	IN	A	50.22.233.66
+ns4.in10sity.net.	172800	IN	A	216.185.108.194
+ns5.in10sity.net.	172800	IN	A	159.253.132.162

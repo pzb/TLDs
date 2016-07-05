@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+bqssihrpoc2l56lrjaalcbfn9ud0rnoh.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160708052033 20160701041033 15617 edu. qvSNZ2R7Op86UJcJu0HGl8Qd14lK4liITKBXtluN+sM4b9kgyGyRe3WB07WA4iFj88SqdTZ/GqlAkLLb1hc+RpxMkW4VEfJ8THgqZoAXfjAlI8mSWBlGK4YyMvnFFS/U0UnBTR8oarcOeZ0QJSUevfVist0rwOBdScka65ADvys=
+bqssihrpoc2l56lrjaalcbfn9ud0rnoh.edu.	86400	IN	NSEC3	1 1 0 -  brorbekfvrnch1nrdamqhio1eicd8s5t NS DS RRSIG 
+kingscollegecharlotte.edu.	172800	IN	NS	ns1.secure.net.
+kingscollegecharlotte.edu.	172800	IN	NS	ns2.secure.net.
+ns1.secure.net.	172800	IN	A	192.220.124.10
+ns2.secure.net.	172800	IN	A	192.220.125.10

@@ -1,0 +1,12 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+clarku.edu.	172800	IN	NS	ns1.clarku.edu.
+clarku.edu.	172800	IN	NS	ns2.clarku.edu.
+clarku.edu.	172800	IN	NS	ns3.clarku.edu.
+clarku.edu.	172800	IN	NS	ns4.clarku.edu.
+ns1.clarku.edu.	172800	IN	A	140.232.1.123
+ns2.clarku.edu.	172800	IN	A	140.232.1.124
+ns3.clarku.edu.	172800	IN	A	107.21.201.49
+ns4.clarku.edu.	172800	IN	A	54.245.226.229
+svlh42aq4fndma9t9bdpsb3me76al5s9.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711231512 20160704220512 15617 edu. 3v/i6/q2dRMXK1FJ5RbTUh2sXzUoY2PjoCxRmVkaPrDxdkHGKs8KT5mOCxbE/aOM/ieOru07x3WtDDqQtveZoj/jjVYhBTOIVKmMRhaXoNJ7/MoS8Ft3cL0rKGnlCu85X9cfh35S/pw3URJNTXGbPcRa6uAgPuBkpqcVpB2pEwY=
+svlh42aq4fndma9t9bdpsb3me76al5s9.edu.	86400	IN	NSEC3	1 1 0 -  t14v6bu1tb92rgbobouujqco5ir8u3ds NS DS RRSIG 

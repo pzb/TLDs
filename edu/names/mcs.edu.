@@ -1,0 +1,15 @@
+ns1.dnsexit.com.	172800	IN	A	199.255.159.226
+ns2.dnsexit.com.	172800	IN	A	69.30.236.138
+ns2.dnsexit.com.	172800	IN	A	104.219.19.52
+ns3.dnsexit.com.	172800	IN	A	173.208.189.26
+ns3.dnsexit.com.	172800	IN	A	209.160.33.82
+ns4.dnsexit.com.	172800	IN	A	66.85.182.220
+ns4.dnsexit.com.	172800	IN	A	198.204.224.146
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+mcs.edu.	172800	IN	NS	ns1.dnsexit.com.
+mcs.edu.	172800	IN	NS	ns2.dnsexit.com.
+mcs.edu.	172800	IN	NS	ns3.dnsexit.com.
+mcs.edu.	172800	IN	NS	ns4.dnsexit.com.
+r0v9qkkbnq6kpl5aifjbmc5jc11pl62n.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712000748 20160704225748 15617 edu. ca5DAL/oEG/3tur5bDO9BIsoFHVMYPZBNnPhYjBUnigkpqGv2p8g85cQcHyDbkzuOhS3ofQU3Vm5rfOEsEMsJRV4djoWVHMQlRiJA4c46zak+Z+9PBEdMlMZ84dntJZKxMamAL11jpHYHMlRjlqpGyzw0HKTGCcPsr9BtuNYWgY=
+r0v9qkkbnq6kpl5aifjbmc5jc11pl62n.edu.	86400	IN	NSEC3	1 1 0 -  r2tuuoiul28ka79v1feqduv1arkhf0db NS DS RRSIG 

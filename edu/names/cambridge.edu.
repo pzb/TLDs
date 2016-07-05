@@ -1,0 +1,8 @@
+ns11.domaincontrol.com.	172800	IN	A	216.69.185.6
+ns12.domaincontrol.com.	172800	IN	A	208.109.255.6
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+cambridge.edu.	172800	IN	NS	ns11.domaincontrol.com.
+cambridge.edu.	172800	IN	NS	ns12.domaincontrol.com.
+cr9jkmj2alb3m3fpa8irsv3kte5bvhki.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712013805 20160705002805 15617 edu. 3mZBPPEqVRFX1PMQevTwtcabTMcd3Yux6wAIDMl6YtuPvAp5ulOAIGycs/TIEvxJ3vAx2xLhClKZIFUj5C4PlXvRzRFwiufx7MztYIvn2Eo0SZuSkjieQ2G3cuv4WqLzKh3qrbKuwbsqk8jPMYy7qFWWwW+kX6UeMyzYQCNq3+M=
+cr9jkmj2alb3m3fpa8irsv3kte5bvhki.edu.	86400	IN	NSEC3	1 1 0 -  d0k6rfg7vb83d3cso14clli6m8jij78e NS DS RRSIG 

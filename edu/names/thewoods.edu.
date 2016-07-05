@@ -1,0 +1,11 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+gc72oodrj358b7pq8o7f81gk88inubru.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711000027 20160703225027 15617 edu. d1Ya/wGsGWareroTDZU3waJDLCjrseY1K/dJoaWB8N1DORKH2TBbK5DKKqksPPfCE3kOEFtg8RdkzAhYrQsP3XF5SOnC8h9B9CEW0Bk2E4/z4JPgyCycC9TiXibVJq/mMilrJ6Hp1/k/imbtyWNzcaFL+5L3bpTQnEk3keZO5w8=
+gc72oodrj358b7pq8o7f81gk88inubru.edu.	86400	IN	NSEC3	1 1 0 -  gd70aggcbpfcma4ulk2vvlcuarocs4vq NS DS RRSIG 
+thewoods.edu.	172800	IN	NS	argus.more.net.
+thewoods.edu.	172800	IN	NS	current.coreserv.more.net.
+thewoods.edu.	172800	IN	NS	meramec.coreserv.more.net.
+argus.more.net.	172800	IN	A	150.199.1.11
+argus.more.net.	172800	IN	AAAA	2610:e0:1:1:150:199:1:11
+current.coreserv.more.net.	172800	IN	A	150.199.101.1
+meramec.coreserv.more.net.	172800	IN	A	150.199.8.1

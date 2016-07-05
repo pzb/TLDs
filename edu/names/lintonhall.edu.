@@ -1,0 +1,11 @@
+dns1.easydns.com.	172800	IN	A	64.68.192.10
+dns1.easydns.com.	172800	IN	AAAA	2001:1838:f001::10
+33gjscju63nmgdhhvpe46mjs98ojka7p.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711112613 20160704101613 15617 edu. aM2fWI3NHxFrvHGhGmCqTu89VzfQzvygur0S7BxhdDfNzf74fgJureYJ/aU7QGBlmaqX7sAX0nUfVyMC2hX2lVUD+rxheW5IkgMXiTwP2am+4QIgwUWImQD1LaABooX8g4ok4O5QtXjoILvWt0xKkcYAbTWx9vWYhbW+eDdfbys=
+33gjscju63nmgdhhvpe46mjs98ojka7p.edu.	86400	IN	NSEC3	1 1 0 -  34f0imil62j0k91jceqg27ogrj3d8vi3 NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+lintonhall.edu.	172800	IN	NS	dns1.easydns.com.
+lintonhall.edu.	172800	IN	NS	dns2.easydns.net.
+lintonhall.edu.	172800	IN	NS	dns3.easydns.ca.
+dns2.easydns.net.	172800	IN	A	198.41.222.254
+dns2.easydns.net.	172800	IN	AAAA	2400:cb00:2049:1::c629:defe

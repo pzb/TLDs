@@ -1,0 +1,10 @@
+ualr.edu.	172800	IN	NS	ns.ualr.edu.
+ualr.edu.	172800	IN	NS	ns2.ualr.edu.
+ualr.edu.	172800	IN	NS	ns3.ualr.edu.
+ualr.edu.	172800	IN	NS	ns4.ualr.edu.
+ualr.edu.	86400	IN	DS	52161 7 1 397ecb4e5872c24529ef47fcbee17302883e4bca
+ualr.edu.	86400	IN	RRSIG	DS 8 2 86400 20160708052032 20160701041032 15617 edu. whLdF28OG8YSHulKwZlZMQuhW+1lloplonTwSc7vLHeuzjwtcPBz5evZAF9gkt9psGh9auTz1K4nOSNESUxyRNiMJELe2piDwyEdCrWc6BJaP0E3lTzfja2v0krYJHU6U8wWpje8P4hXf7ZktqBhbLjt2kLIg4UwWRZF5nGT/M8=
+ns.ualr.edu.	172800	IN	A	144.167.10.48
+ns2.ualr.edu.	172800	IN	A	144.167.10.1
+ns3.ualr.edu.	172800	IN	A	144.167.5.50
+ns4.ualr.edu.	172800	IN	A	130.184.15.85

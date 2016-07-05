@@ -1,0 +1,10 @@
+ns1.wordpress.com.	172800	IN	A	198.181.116.9
+ns2.wordpress.com.	172800	IN	A	198.181.117.9
+ns3.wordpress.com.	172800	IN	A	192.0.74.9
+41s83ikk04tvjbalgnaghkmgpk72jqte.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712032526 20160705021526 15617 edu. qqIhnwG3vQ7+vn7G4tcQhfBaUkxLgjL98rsoWSuESkejx7ip1awRQtgfbMeOE2J9KllrApCAMYNwhAX/pfS1lmYpRqiW3lolMr3b/14dHZm/zQbl4wnJpc6cP9H7rDdhd/oa6Gvzu/GLM3RIr/T7IdrcCMCTP27uoAUBZN7KIdo=
+41s83ikk04tvjbalgnaghkmgpk72jqte.edu.	86400	IN	NSEC3	1 1 0 -  42apkgc0a0vmpvftbdvflq5gn5rof9rk NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ccbatlanta.edu.	172800	IN	NS	ns1.wordpress.com.
+ccbatlanta.edu.	172800	IN	NS	ns2.wordpress.com.
+ccbatlanta.edu.	172800	IN	NS	ns3.wordpress.com.

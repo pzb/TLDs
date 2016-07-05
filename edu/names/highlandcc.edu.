@@ -1,0 +1,14 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+highlandcc.edu.	172800	IN	NS	kic.kanren.net.
+highlandcc.edu.	172800	IN	NS	nic.kanren.net.
+highlandcc.edu.	172800	IN	NS	ns1.highlandcc.edu.
+highlandcc.edu.	172800	IN	NS	ns2.highlandcc.edu.
+ns1.highlandcc.edu.	172800	IN	A	198.248.79.210
+ns2.highlandcc.edu.	172800	IN	A	198.248.79.224
+o7i64km23b372rsvphok312m00t4888u.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711082013 20160704071013 15617 edu. 30qLd984Bqky7TJuFKR/V2FCIth6jwfv/8HiBsx2XZh6xMkplayoEvFjEv9DQSMg5RJybUmKRBLRApfa3HRMRvKrkyeHtrfzI7eqXcS3FpaorHIulXZ89+tI36SuC5T0cMY9BvZGr4HGawI/ojADS9UubJBB8Cb2EFxGgWk37RI=
+o7i64km23b372rsvphok312m00t4888u.edu.	86400	IN	NSEC3	1 1 0 -  o7us76579dr2ohqb02vhhmfbjlpre4b7 NS DS RRSIG 
+kic.kanren.net.	172800	IN	A	164.113.92.250
+kic.kanren.net.	172800	IN	AAAA	2001:49d0:2003:f000::5
+nic.kanren.net.	172800	IN	A	164.113.192.242
+nic.kanren.net.	172800	IN	AAAA	2001:49d0:2008:f000::5

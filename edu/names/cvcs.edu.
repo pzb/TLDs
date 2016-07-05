@@ -1,0 +1,8 @@
+ns1.adventistschoolconnect.com.	172800	IN	A	22.23.253.254
+ns2.adventistschoolconnect.com.	172800	IN	A	23.23.250.157
+8d2pfi28chdp8h9ptse3ulh0qcgo3ncv.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710094307 20160703083307 15617 edu. 0K8fHcpYqfiBPv0eh5MVB+RKRamZQw+TenPNX+l0CYQpplQPVUY3fXuDDpSb48Izx/gt4+/XpPv/nVXrIt0ScJmD3nPjCESrYEmKvfeCZ8J3xrtDxeE19dzo6z7z/eiL8obceKgGgP/27oKK6xn02ZogfVny3cXIOoxBKdkrnns=
+8d2pfi28chdp8h9ptse3ulh0qcgo3ncv.edu.	86400	IN	NSEC3	1 1 0 -  8e2lorgnrmqa16ij0s73v0rng2as63cl NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+cvcs.edu.	172800	IN	NS	ns1.adventistschoolconnect.com.
+cvcs.edu.	172800	IN	NS	ns2.adventistschoolconnect.com.

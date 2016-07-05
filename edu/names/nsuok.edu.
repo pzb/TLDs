@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+bnp9535kikavffnhg68m0m6c4mmocu42.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709102724 20160702091724 15617 edu. 3SJTq8xrrziBga5H+iZwzLOQwFivtdNjbY1IvLZ8R1plIPO9pe9RNJfSiFvhhryNdHxkT2P0brNFYmLOdK1+NI4I3GbD1+fI2C1C8IwFQ6hJF6RBL5JSc48lQaORFD3yEp/5pXnd+jm7YntBvrRi3akNw/k1cNLDVsUa64hclyU=
+bnp9535kikavffnhg68m0m6c4mmocu42.edu.	86400	IN	NSEC3	1 1 0 -  bo1h25tfbudga79lnru7i1etfb099orb NS DS RRSIG 
+nsuok.edu.	172800	IN	NS	dns1.nsuok.edu.
+nsuok.edu.	172800	IN	NS	dns2.nsuok.edu.
+nsuok.edu.	172800	IN	NS	extdns3.nsuok.edu.
+dns1.nsuok.edu.	172800	IN	A	192.173.49.1
+dns2.nsuok.edu.	172800	IN	A	192.173.49.2
+extdns3.nsuok.edu.	172800	IN	A	192.173.63.23

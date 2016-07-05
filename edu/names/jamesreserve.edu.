@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+jamesreserve.edu.	172800	IN	NS	ns1.ucr.edu.
+jamesreserve.edu.	172800	IN	NS	ns2.ucr.edu.
+rong6nkel6ssth2m6jr9fs5112bmdhe6.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709051627 20160702040627 15617 edu. QkulY/rAMAdzR2zrzXKIlfT0CfzEaM3NCUkm3GwoD0vDpVXTdoqqkq6Lcaydu7ZCafa5fCfmffqDPqFg0xTlu2rQfViuiM+zZG7oOhJueVvotpiGjhD6aoxgZsRLjPr2gkQX9v/uY+UqUbuze/ixDP4VBWlvqPbE4tBATfIsfdU=
+rong6nkel6ssth2m6jr9fs5112bmdhe6.edu.	86400	IN	NSEC3	1 1 0 -  rp81pe4it67qnbidigh2vav6r974jdd6 NS DS RRSIG 
+ns1.ucr.edu.	172800	IN	A	138.23.80.10
+ns1.ucr.edu.	172800	IN	AAAA	2607:f290:9::100
+ns2.ucr.edu.	172800	IN	A	138.23.80.20
+ns2.ucr.edu.	172800	IN	AAAA	2607:f290:9:1::100

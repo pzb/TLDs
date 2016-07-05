@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+floridacareerinstitute.edu.	172800	IN	NS	ns1.pointclick.net.
+floridacareerinstitute.edu.	172800	IN	NS	ns2.pointclick.net.
+floridacareerinstitute.edu.	172800	IN	NS	ns3.pointclick.net.
+lfm3tilhp90c0fomrrhlcg45pndtg448.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711092039 20160704081039 15617 edu. u4cFM8M23zsyfks7agDesdphnP7i7wXYIT03SCsIcdeSBj2gtXZKzsLN/EDmWYwuu8MfHPZJetlqOiAToOJ5lTLzkypRCsKKMajkNTqt6/icvRp+AGmWjEWBH9Vfm/8AsAhG0IsEsLo2zNOcIduN+k8mHIJQ2Xz7p+C2BSyJCII=
+lfm3tilhp90c0fomrrhlcg45pndtg448.edu.	86400	IN	NSEC3	1 1 0 -  lfufdh9302v402ufp50qc5ihalj31dcu NS DS RRSIG 
+ns1.pointclick.net.	172800	IN	A	74.213.145.125
+ns2.pointclick.net.	172800	IN	A	50.59.102.60
+ns3.pointclick.net.	172800	IN	A	74.213.145.83

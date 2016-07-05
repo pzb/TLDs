@@ -1,0 +1,8 @@
+mns01.domaincontrol.com.	172800	IN	A	216.69.185.31
+mns02.domaincontrol.com.	172800	IN	A	208.109.255.31
+7blv8nob7k1oq1kp5f44tkt6taee0mkv.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709051625 20160702040625 15617 edu. nl+AKbQpI5yePT6HE7yJ6bXC3UX8hJc9TTYxR2xpLAqxyrkmnceeDqG2NkvA4kdT3kP+HXNMp0LO/UVDXpoISlP1bw2Z2wSMG6mM89WB5oKEHhRUePWKFpmsRaF5opiNkvrRIhU9ZLIT1/cEVp43x5EmzyS9HXzMJKLuMGTWsAA=
+7blv8nob7k1oq1kp5f44tkt6taee0mkv.edu.	86400	IN	NSEC3	1 1 0 -  7ccapip0699st8hli8t4uek69vv38a2g NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+summitsalonacademy.edu.	172800	IN	NS	mns01.domaincontrol.com.
+summitsalonacademy.edu.	172800	IN	NS	mns02.domaincontrol.com.

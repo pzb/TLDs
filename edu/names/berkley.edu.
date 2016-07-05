@@ -1,0 +1,16 @@
+9a00tjh3lb2i4k0om1oq7ffrvqvqftq8.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711160106 20160704145106 15617 edu. Diz8AgH7dvHKoJN0OPR/4XZHHScBdFHbo8XpM4qbjqfojP6kYfijWUKXnMq7Vtb2qL89ZpavXg5RWTbJbF5i8WLE3/x0hf2Mz1e/mSSS6TQtqjudnXFahaeVPLuZJLGPHkplojkkhLXQtp93/i5RngX/On4zmlESijYwACxXlyI=
+9a00tjh3lb2i4k0om1oq7ffrvqvqftq8.edu.	86400	IN	NSEC3	1 1 0 -  9d20oue9vt92lm5155nv539glqhq69h8 NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+berkley.edu.	172800	IN	NS	ns1.parkingcrew.net.
+berkley.edu.	172800	IN	NS	ns2.parkingcrew.net.
+ns1.parkingcrew.net.	172800	IN	A	52.2.199.197
+ns1.parkingcrew.net.	172800	IN	A	52.64.97.236
+ns1.parkingcrew.net.	172800	IN	A	52.68.87.177
+ns1.parkingcrew.net.	172800	IN	A	52.88.191.171
+ns1.parkingcrew.net.	172800	IN	A	54.75.227.14
+ns2.parkingcrew.net.	172800	IN	A	52.22.2.242
+ns2.parkingcrew.net.	172800	IN	A	52.64.133.131
+ns2.parkingcrew.net.	172800	IN	A	52.69.248.231
+ns2.parkingcrew.net.	172800	IN	A	52.89.204.2
+ns2.parkingcrew.net.	172800	IN	A	54.75.226.194

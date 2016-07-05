@@ -1,0 +1,10 @@
+ns-292.awsdns-36.com.	172800	IN	A	205.251.193.36
+5l3p0tpkmmj1c8teptlmf62gtod74ms9.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711122256 20160704111256 15617 edu. tHY6f/oK3Axi7KTcgwfv/NIlfN7gx1Hg567Hp3gKe+yS4QZLZA8zIbFp8iMYZb01fxKj71ZZKLZgVefJzx6epQy9e6YXl+Ztq0lxZZtY/n39/TzdlyivdAuXdcRn6BioAq66ww1jwNnMNg9hILMioHnn3BttClbiiXdwxNaEFRU=
+5l3p0tpkmmj1c8teptlmf62gtod74ms9.edu.	86400	IN	NSEC3	1 1 0 -  5lqrvl5mctdgu0tevr6lsln6kvskerce NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+fkcc.edu.	172800	IN	NS	ns-292.awsdns-36.com.
+fkcc.edu.	172800	IN	NS	ns-590.awsdns-09.net.
+fkcc.edu.	172800	IN	NS	ns-1519.awsdns-61.org.
+fkcc.edu.	172800	IN	NS	ns-1725.awsdns-23.co.uk.
+ns-590.awsdns-09.net.	172800	IN	A	205.251.194.78

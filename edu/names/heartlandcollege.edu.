@@ -1,0 +1,8 @@
+ns1.scribblesandscribes.com.	172800	IN	A	96.30.9.96
+ns2.scribblesandscribes.com.	172800	IN	A	96.30.9.97
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+f4ekapsqvrs6anl2bchg0a8al8io68bd.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709051628 20160702040628 15617 edu. wO3nlNxe5B5Xrx0ae5c9xcleDLH4CgD0sHhx5NpMc4TMTFdDWlPBWg617Yv+QZ5GSNPPYblVgk1QVGAggBYavsXgH+6DmpaLQsxBQTYYPhdat/yAYHugPvaEk9R2p3WxThyzCO+EwSYRp6d7ZbVOK0C8QL3oTuysN4EPFIeQnyQ=
+f4ekapsqvrs6anl2bchg0a8al8io68bd.edu.	86400	IN	NSEC3	1 1 0 -  f4p6auu5mb05cm1n47o1n1pp5mqkaduh NS DS RRSIG 
+heartlandcollege.edu.	172800	IN	NS	ns1.scribblesandscribes.com.
+heartlandcollege.edu.	172800	IN	NS	ns2.scribblesandscribes.com.

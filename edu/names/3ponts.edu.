@@ -1,0 +1,8 @@
+ns51.domaincontrol.com.	172800	IN	A	216.69.185.26
+ns52.domaincontrol.com.	172800	IN	A	208.109.255.26
+3ponts.edu.	172800	IN	NS	ns51.domaincontrol.com.
+3ponts.edu.	172800	IN	NS	ns52.domaincontrol.com.
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+hhhll3h1dfkqnl8r426oj496ebherf24.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712031924 20160705020924 15617 edu. H5o9Jp1/E+LrxkwGNKdWMm6UzeC+BgOn4/KdSAWh7zpV/e6PW53jZKv9QmrjgqnMB1SauxCSqfPV6atyWtZgqduHtIBVQopGuQ9DKW2U/r4Q7dGsXpHsPGPpnksFtNj5pE3e+x2jGzrNUl6zmmSoJ9xi3HjYprUXYDuTfs5+1W8=
+hhhll3h1dfkqnl8r426oj496ebherf24.edu.	86400	IN	NSEC3	1 1 0 -  hia2ubo2cdcdov6ce9jelmgnt6q3dr6c NS DS RRSIG 

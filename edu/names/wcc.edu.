@@ -1,0 +1,16 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+cce41s0h0q8j0rbq57andaqglv4kj31i.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710135828 20160703124828 15617 edu. jwbfo6bvhKVzFBAQZGimYMkPO3HiFxQxOmG+0Nz8k3T2r4Un7hQi+XokZqa9FVsqV737AHoWVRFxXxWQA8bEPTktoYoto7VF5wFjvsG7Yu35nVPrS0ALDdBpY951PlvFO9oLYiROtvCrjOns77La5HOjwcGYxRgqXqYH65rwccQ=
+cce41s0h0q8j0rbq57andaqglv4kj31i.edu.	86400	IN	NSEC3	1 1 0 -  cd6cd54ga8ne0nvngjmdu7klmftjgnlf NS DS RRSIG 
+wcc.edu.	172800	IN	NS	ns1.wy.edu.
+wcc.edu.	172800	IN	NS	ns2.wy.edu.
+wcc.edu.	172800	IN	NS	ns3.wy.edu.
+wcc.edu.	172800	IN	NS	ns4.wy.edu.
+wcc.edu.	172800	IN	NS	ns5.wy.edu.
+wcc.edu.	172800	IN	NS	ns6.wy.edu.
+ns1.wy.edu.	172800	IN	A	208.94.148.4
+ns2.wy.edu.	172800	IN	A	208.80.124.4
+ns3.wy.edu.	172800	IN	A	208.80.126.4
+ns4.wy.edu.	172800	IN	A	208.80.125.4
+ns5.wy.edu.	172800	IN	A	208.80.127.4
+ns6.wy.edu.	172800	IN	A	208.94.149.4

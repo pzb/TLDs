@@ -1,0 +1,13 @@
+d.service.afiliasdns.com.	172800	IN	A	199.254.30.254
+d.service.afiliasdns.com.	172800	IN	AAAA	2001:500:18::254
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+bq2vlgeho4bhqvd0qsegtsnsk21is9kk.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711102752 20160704091752 15617 edu. cz5nN98nlLIR34L7Fpl8M08c2R1tSno5bacWjgmcYBy/HICiRmIMqcO+fCNyIS5bg6ZXQY5v9pD6GrBuniEu1AKqIkPuVODzTyjQcdZ3Z1AfX1LtfYvnXVKyzgPN8utP8YJdQEqFHjBCFzOBFe9dHjAGFB1vCpHEhEuemc0zMW8=
+bq2vlgeho4bhqvd0qsegtsnsk21is9kk.edu.	86400	IN	NSEC3	1 1 0 -  bqpjjjpctki47m8epdrq1ol3udbrifou NS DS RRSIG 
+maricopa.edu.	172800	IN	NS	d.service.afiliasdns.com.
+maricopa.edu.	172800	IN	NS	names.dist.maricopa.edu.
+maricopa.edu.	172800	IN	NS	names2.dist.maricopa.edu.
+maricopa.edu.	172800	IN	NS	names4.dist.maricopa.edu.
+names.dist.maricopa.edu.	172800	IN	A	140.198.8.15
+names2.dist.maricopa.edu.	172800	IN	A	140.198.8.14
+names4.dist.maricopa.edu.	172800	IN	A	140.198.242.62

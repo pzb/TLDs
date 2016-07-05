@@ -1,0 +1,14 @@
+indianatech.edu.	172800	IN	NS	ns1.p15.dynect.net.
+indianatech.edu.	172800	IN	NS	ns2.p15.dynect.net.
+indianatech.edu.	172800	IN	NS	ns3.p15.dynect.net.
+indianatech.edu.	172800	IN	NS	ns4.p15.dynect.net.
+indianatech.edu.	86400	IN	DS	38941 5 1 d3fea3346c1e313a7d9c81140f991a734bda6800
+indianatech.edu.	86400	IN	DS	48454 5 1 dacdfef96d480d341ba49094e81caa7a0abcbc7f
+indianatech.edu.	86400	IN	DS	58459 5 1 cb89109eb1ae9fa5a8457317682c42c777a9cb09
+indianatech.edu.	86400	IN	DS	60274 5 1 7a792e3bf0dce16086d1c8bb40b6de0c269f3854
+indianatech.edu.	86400	IN	DS	62146 5 1 d33648d0cca796d068176bcb87db5d524ef166cc
+indianatech.edu.	86400	IN	RRSIG	DS 8 2 86400 20160709051628 20160702040628 15617 edu. rqihqDALoEWpaHfzaZeyREX8VwIXgqkbxK5LdJRXwprYV9gW7yec1AlhpUsm9Y9teCZeUy+YzXSq9rcQ/PGQkgejhEgrtr+btH7x9NQ7OgmTWS7Voac/5tpt8mnEQbAdkqKnf0zJOsXRnK2YaUnDEpaYHK/V4yqAhC4TOEQOBtY=
+ns1.p15.dynect.net.	172800	IN	A	208.78.70.15
+ns2.p15.dynect.net.	172800	IN	A	204.13.250.15
+ns3.p15.dynect.net.	172800	IN	A	208.78.71.15
+ns4.p15.dynect.net.	172800	IN	A	204.13.251.15

@@ -1,0 +1,14 @@
+33gjscju63nmgdhhvpe46mjs98ojka7p.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711112613 20160704101613 15617 edu. aM2fWI3NHxFrvHGhGmCqTu89VzfQzvygur0S7BxhdDfNzf74fgJureYJ/aU7QGBlmaqX7sAX0nUfVyMC2hX2lVUD+rxheW5IkgMXiTwP2am+4QIgwUWImQD1LaABooX8g4ok4O5QtXjoILvWt0xKkcYAbTWx9vWYhbW+eDdfbys=
+33gjscju63nmgdhhvpe46mjs98ojka7p.edu.	86400	IN	NSEC3	1 1 0 -  34f0imil62j0k91jceqg27ogrj3d8vi3 NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+cvtc.edu.	172800	IN	NS	dns.uw-mad.wiscnet.net.
+cvtc.edu.	172800	IN	NS	dns.uw-mil.wiscnet.net.
+cvtc.edu.	172800	IN	NS	s-ecb-ens1.cvtc.edu.
+cvtc.edu.	172800	IN	NS	s-dns-ext-01.cvtc.edu.
+cvtc.edu.	172800	IN	NS	s-dns-ext-02.cvtc.edu.
+s-dns-ext-01.cvtc.edu.	172800	IN	A	160.32.2.22
+s-dns-ext-02.cvtc.edu.	172800	IN	A	160.32.2.20
+s-ecb-ens1.cvtc.edu.	172800	IN	A	160.32.2.20
+dns.uw-mad.wiscnet.net.	172800	IN	A	205.213.108.100
+dns.uw-mil.wiscnet.net.	172800	IN	A	205.213.163.100

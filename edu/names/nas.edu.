@@ -1,0 +1,11 @@
+nas.edu.	172800	IN	NS	bona.nas.edu.
+nas.edu.	172800	IN	NS	bighorn.nas.edu.
+nas.edu.	172800	IN	NS	rushmore.nas.edu.
+nas.edu.	172800	IN	NS	berkshire.nas.edu.
+nas.edu.	86400	IN	DS	63529 8 1 1905b0030f0899e8885f2907651b0ded6bc96f19
+nas.edu.	86400	IN	DS	63529 8 2 f84e8df1948a57392de56a3c81cc2869341433cfa3e11ec5438fed1c7c930a37
+nas.edu.	86400	IN	RRSIG	DS 8 2 86400 20160710053347 20160703042347 15617 edu. dX+axq8D9Ay7HFmwnL1l2u1gGUqPpPB1yozVFBhe/NN2x72Iz6Q11+JALgp0XsI5mKLrwTiJRafUQoyaK62c55M2oKhYw69LULQfeh5pX6AMFyVkUObSP6NaYRN7LO/0g1c1JCJD059l9/CxU/QSQGlk7/ebmO+8spOGI+WqoYg=
+berkshire.nas.edu.	172800	IN	A	144.171.1.37
+bighorn.nas.edu.	172800	IN	A	144.171.1.38
+bona.nas.edu.	172800	IN	A	52.7.36.190
+rushmore.nas.edu.	172800	IN	A	184.80.173.85

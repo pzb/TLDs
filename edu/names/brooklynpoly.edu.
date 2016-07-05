@@ -1,0 +1,12 @@
+ns1.appliedtheory.com.	172800	IN	A	204.168.28.9
+ns2.appliedtheory.com.	172800	IN	A	206.204.111.13
+ns3.appliedtheory.com.	172800	IN	A	207.127.101.8
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+brooklynpoly.edu.	172800	IN	NS	ns1.appliedtheory.com.
+brooklynpoly.edu.	172800	IN	NS	ns2.appliedtheory.com.
+brooklynpoly.edu.	172800	IN	NS	ns3.appliedtheory.com.
+brooklynpoly.edu.	172800	IN	NS	gatekeeper.poly.edu.
+oeoqphcunnvvtulcj2aj2b2l449718p9.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711151655 20160704140655 15617 edu. IDHB6l0VtK8TyhqRauaru+OYLoHJ2O1mv1rNuOtZ4AAHyQoGSODjbp0YtuHTDzvIW4LXQEOdFq5DVH8IahsASnCkENaAQ1yH6EnPt4BdRmF4D4HZoLNiTwDyvHAkjY+/vVbUTRXgeWh741qGQCsTaFtAlemVtHTTyZEORnWzyNE=
+oeoqphcunnvvtulcj2aj2b2l449718p9.edu.	86400	IN	NSEC3	1 1 0 -  ofpsulbanq1pfejf97rn0j902qs4cl0o NS DS RRSIG 
+gatekeeper.poly.edu.	172800	IN	A	128.238.2.38

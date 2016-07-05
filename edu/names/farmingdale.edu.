@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+farmingdale.edu.	172800	IN	NS	ns1.farmingdale.edu.
+farmingdale.edu.	172800	IN	NS	ns2.farmingdale.edu.
+ns1.farmingdale.edu.	172800	IN	A	137.125.248.48
+ns2.farmingdale.edu.	172800	IN	A	137.125.248.49
+rp81pe4it67qnbidigh2vav6r974jdd6.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711114829 20160704103829 15617 edu. brMHmtG0I1X83i7k7bKIEbTNkwoRnbSlTOLpKJbbb2jnk1ZUS3rnca4dCDYkisz6nSLulVpBZlQ4nV9hS7fHquIKogf7LJKDOtcTg1ly+1ZlGXO1ycfIiMCrvB2mU5+Vo2fe81wQpCqPiuSvuWMgSf410C40vbWOjggQqNbuZno=
+rp81pe4it67qnbidigh2vav6r974jdd6.edu.	86400	IN	NSEC3	1 1 0 -  rpvob14uuji8pa5qc6cg1mgg259lqgef NS DS RRSIG 

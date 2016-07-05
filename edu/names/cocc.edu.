@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+cocc.edu.	172800	IN	NS	ns.cocc.edu.
+cocc.edu.	172800	IN	NS	ns1.nero.net.
+cocc.edu.	172800	IN	NS	ns2.nero.net.
+ns.cocc.edu.	172800	IN	A	140.211.24.129
+v7tsdfagd6hgsadbv4h0ju0aoltnjr45.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712005608 20160704234608 15617 edu. W9uR9Y1ovZ0BQDN8RmDwhzyjLyIAAU7207IIiXgj/1eFEyYzJjtGfnFLdfGJBowRAoTeS6QuRSTOc1w43huVBAr6WJEuhya50oGT5sVW8a/jvrw7plstjFG6uVD9nkHaa777wckssSAalxS7KN4+dkclqf9M04KWbEViu1RdrDQ=
+v7tsdfagd6hgsadbv4h0ju0aoltnjr45.edu.	86400	IN	NSEC3	1 1 0 -  v98ijbmtc7nshjl8s8ik40gcv104b1df NS DS RRSIG 
+ns1.nero.net.	172800	IN	A	207.98.65.2
+ns2.nero.net.	172800	IN	A	207.98.67.19

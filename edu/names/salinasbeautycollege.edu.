@@ -1,0 +1,10 @@
+ns1.dreamhost.com.	172800	IN	A	66.33.206.206
+ns2.dreamhost.com.	172800	IN	A	208.97.182.10
+ns3.dreamhost.com.	172800	IN	A	66.33.216.216
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ng4kqusqdiplqe7brhhmgv1sqap7gc0t.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711004817 20160703233817 15617 edu. XLIATf88WLMKx2MlDssB3NbvC7HjIGv6PhV0MNi9vkAVe9alFv5czwAMsuwwKtSo46Mo/NxQugi6q/074537y+RE9wXe8ugaugEgKP9wPGjfoZcPWigTd6i5twvm4VOlY+cAy36ynE3bs18XpzHLY2sQuJEEBY+b+MPP9tdSrts=
+ng4kqusqdiplqe7brhhmgv1sqap7gc0t.edu.	86400	IN	NSEC3	1 1 0 -  ngmprm58d50qikpkutcsndirv1mhgk6k NS DS RRSIG 
+salinasbeautycollege.edu.	172800	IN	NS	ns1.dreamhost.com.
+salinasbeautycollege.edu.	172800	IN	NS	ns2.dreamhost.com.
+salinasbeautycollege.edu.	172800	IN	NS	ns3.dreamhost.com.

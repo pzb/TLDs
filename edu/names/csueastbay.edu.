@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+csueastbay.edu.	172800	IN	NS	ns1.csueastbay.edu.
+csueastbay.edu.	172800	IN	NS	ns2.cenic.org.
+csueastbay.edu.	172800	IN	NS	ns2.csueastbay.edu.
+csueastbay.edu.	172800	IN	NS	ns3.cenic.org.
+ns1.csueastbay.edu.	172800	IN	A	134.154.196.161
+ns2.csueastbay.edu.	172800	IN	A	134.154.196.169
+s9jtjnfp3tp33a1fm9t4ustiq202ti8m.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712015826 20160705004826 15617 edu. F14OLhJgrGWjauJXqiU7JA8Lgvz8L74RAsBA4borCYXQN6OJ+q9GIRIgaXt3dPwTEcMMdSyhXg5JVtbj7IUgQScQOoiC94mYS9aE4Wg334MRgSw5KHoUPMOp/Br/AVlVtD5XjQkGZ9eSLInoptYGMTWJnm8xwEW5XPKn3TvHEq8=
+s9jtjnfp3tp33a1fm9t4ustiq202ti8m.edu.	86400	IN	NSEC3	1 1 0 -  sbgf91s5r05gn2dhnhrj0qjjqtgnk0e2 NS DS RRSIG 

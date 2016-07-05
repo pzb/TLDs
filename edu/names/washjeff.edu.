@@ -1,0 +1,11 @@
+washjeff.edu.	172800	IN	NS	ns1.p06.dynect.net.
+washjeff.edu.	172800	IN	NS	ns2.p06.dynect.net.
+washjeff.edu.	172800	IN	NS	ns3.p06.dynect.net.
+washjeff.edu.	172800	IN	NS	ns4.p06.dynect.net.
+washjeff.edu.	86400	IN	DS	17011 5 1 a950540529dd510b349adac35b57ffae8c6478b4
+washjeff.edu.	86400	IN	DS	54519 10 1 aa68fb9457548c5cddd39853b7c449968317e141
+washjeff.edu.	86400	IN	RRSIG	DS 8 2 86400 20160709051628 20160702040628 15617 edu. kMxsWcTXSbWHFClWOsUSsrBr0HTu+yS8GTwEHvfQWPpT7HzlTjtM8R/BRFAbA7LXuSWoPmVO1I6r1GGirifYS17KhxsRYMEeluFqmHwglJZX4F4GG815fXRSmng6Kuv7n9L+briX56heo++s9ND//vgfYOpsVlsPPmi5QUdy8+Q=
+ns1.p06.dynect.net.	172800	IN	A	208.78.70.6
+ns2.p06.dynect.net.	172800	IN	A	204.13.250.6
+ns3.p06.dynect.net.	172800	IN	A	208.78.71.6
+ns4.p06.dynect.net.	172800	IN	A	204.13.251.6

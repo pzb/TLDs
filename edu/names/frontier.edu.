@@ -1,0 +1,18 @@
+ns1.easydns.com.	172800	IN	A	64.68.192.10
+ns1.easydns.com.	172800	IN	AAAA	2001:1838:f001::10
+ns2.easydns.com.	172800	IN	A	198.41.222.254
+ns2.easydns.com.	172800	IN	AAAA	2400:cb00:2049:1::c629:defe
+remote1.easydns.com.	172800	IN	A	64.68.192.10
+remote2.easydns.com.	172800	IN	A	198.41.222.254
+remote2.easydns.com.	172800	IN	AAAA	2400:cb00:2049:1::c629:defe
+0asbfmknd2hee0lvsp3b385bnkv3vlnu.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711032040 20160704021040 15617 edu. 3vFPrr+PQqyejea8F28mrw36YY5FFmzWj7Ty0Ia6BgCJW3MYTmoD+6AYW0NfysqjbRKbmtMBpU834KtJTlme3WDVf7I0guB23T7DszdVX1waKzY0kbFP6j2b+7LFN+6iKJKTdSNXsf0bqdn7wLuKG3/LueugL4HNKpBj1FhaE4A=
+0asbfmknd2hee0lvsp3b385bnkv3vlnu.edu.	86400	IN	NSEC3	1 1 0 -  0brsqbupa8luldsp2aabau8r1lkaet8b NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+frontier.edu.	172800	IN	NS	ns1.easydns.com.
+frontier.edu.	172800	IN	NS	ns2.easydns.com.
+frontier.edu.	172800	IN	NS	ns3.easydns.org.
+frontier.edu.	172800	IN	NS	ns6.easydns.net.
+frontier.edu.	172800	IN	NS	remote1.easydns.com.
+frontier.edu.	172800	IN	NS	remote2.easydns.com.
+ns6.easydns.net.	172800	IN	A	198.41.222.254

@@ -1,0 +1,8 @@
+fhsu.edu.	172800	IN	NS	rex.fhsu.edu.
+fhsu.edu.	172800	IN	NS	bindcat.fhsu.edu.
+fhsu.edu.	86400	IN	DS	13114 8 2 285222f029c46c6892d922947a02fabdc0b295b2e671c2b9cc77be74743ca66c
+fhsu.edu.	86400	IN	RRSIG	DS 8 2 86400 20160710053345 20160703042345 15617 edu. SCyddQgxfpqi2w1lG0OBSZy7N/CBXqzkvf4+8nEB2OG0vb11+xFffU3vyPGnBCwp1qyzbzqOywmcfICCA+ET3bAO4njSNrBbWvorqUVyGPNO5/IphLCfMMKeGqg931HcNkiu1mYE7e5cvBZrfbbQ2zEEctZJBWEzPMUJ7lC/4UM=
+bindcat.fhsu.edu.	172800	IN	A	209.114.111.1
+bindcat.fhsu.edu.	172800	IN	AAAA	2001:49d0:100:23::32
+rex.fhsu.edu.	172800	IN	A	209.114.127.1
+rex.fhsu.edu.	172800	IN	AAAA	2001:49d0:100:21::32

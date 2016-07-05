@@ -1,0 +1,12 @@
+ns1156.dns.dyn.com.	172800	IN	A	208.76.58.156
+ns2177.dns.dyn.com.	172800	IN	A	208.76.59.177
+ns3146.dns.dyn.com.	172800	IN	A	208.76.60.146
+ns4196.dns.dyn.com.	172800	IN	A	208.76.61.196
+7rm6itsb0ailei2k0006vnf2fu24ihcu.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712033442 20160705022442 15617 edu. amsaVh98yIWXr2Gr7myqJYg4arQitvEzQ3bWZm5Va+jsdLMM4/SVK/31fG2qQ90Bqh0vdYDJQo39bNVkUmWQ+fBXpcGWH4TFOGZmfADMgtA4kfI+m3dZB4+89siALOaZq3qj/KkgLrU8lK6LqEK2LorUp96kqzlSRmT74Lp0vyc=
+7rm6itsb0ailei2k0006vnf2fu24ihcu.edu.	86400	IN	NSEC3	1 1 0 -  7s6mthft87uugdv8tshimm0p4ek5p18s NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+shaarhatorah.edu.	172800	IN	NS	ns1156.dns.dyn.com.
+shaarhatorah.edu.	172800	IN	NS	ns2177.dns.dyn.com.
+shaarhatorah.edu.	172800	IN	NS	ns3146.dns.dyn.com.
+shaarhatorah.edu.	172800	IN	NS	ns4196.dns.dyn.com.

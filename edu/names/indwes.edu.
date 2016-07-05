@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+indwes.edu.	172800	IN	NS	dns.indwes.edu.
+indwes.edu.	172800	IN	NS	dnssecondary.indwes.edu.
+dns.indwes.edu.	172800	IN	A	199.8.20.1
+dnssecondary.indwes.edu.	172800	IN	A	199.8.20.2
+t43r0kjqoplpnfat3mjum26p8jq2j481.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712031821 20160705020821 15617 edu. pLD4cX5OWT9BreJFFDwX+qTFQi+ItxcKAJk/UGOAYIdl/gKYclMQ/4cECf7owJUqKLsiIVne7urRPyxa1qswPYaN2V5ncqGAeGasaIff1KPMCVjrUuz6zkcT7F0lsooR0TASI4aw/qsDkFNS/ilye/V/kn8/bGXiDDnr7RSBP2E=
+t43r0kjqoplpnfat3mjum26p8jq2j481.edu.	86400	IN	NSEC3	1 1 0 -  t53dph921ape3dkgqu7fdjuvjik1eehj NS DS RRSIG 

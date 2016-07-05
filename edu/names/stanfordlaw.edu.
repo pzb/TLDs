@@ -1,0 +1,14 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+sfje4m5nhh45i3lv3ar84hrm08iphv7v.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709143317 20160702132317 15617 edu. qt8ut7Ldl0cIGJoWmT7n2esiZWP9ajfApCLftxzxLNO3YKOj0bYL5obw/3/btNsHvLZK/AGv9NVAjo4vUZHDsuGuJ9eiDhbq6VJBN2pQepRSqYWMiPlczajcydkQyIODpdmBthgd7uCSrSEhxCKnIkJTyWnzJ8vjIEDVhrmkf3M=
+sfje4m5nhh45i3lv3ar84hrm08iphv7v.edu.	86400	IN	NSEC3	1 1 0 -  sft9pn9bjfhdcuvbt5nhlh48fcjii7qj NS DS RRSIG 
+stanfordlaw.edu.	172800	IN	NS	ns11.cloudns.net.
+stanfordlaw.edu.	172800	IN	NS	ns12.cloudns.net.
+stanfordlaw.edu.	172800	IN	NS	ns13.cloudns.net.
+stanfordlaw.edu.	172800	IN	NS	ns14.cloudns.net.
+ns11.cloudns.net.	172800	IN	A	109.201.133.194
+ns11.cloudns.net.	172800	IN	AAAA	2a00:1768:1001:9::11
+ns12.cloudns.net.	172800	IN	A	108.59.6.24
+ns12.cloudns.net.	172800	IN	AAAA	2604:9a00:2100:a008:7::1
+ns13.cloudns.net.	172800	IN	A	188.241.115.14
+ns14.cloudns.net.	172800	IN	A	62.75.253.97

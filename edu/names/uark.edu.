@@ -1,0 +1,13 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+9h6bdsc9rjrplc43o1q9r6rp8jhvldru.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711035026 20160704024026 15617 edu. dAYKdg6uhHzcetl8JnMkGzu0z/KG8sO370Ozw91hkKaqocu37687jS3cv3pzB5nTruXr09L14hNbKuBsE1pTAOcxWwRIbEXxYuNdZ7iPj9vVAnAxxhmP1H9tp09qopg2qM/x3L/mwITk8PadkDkz6bufJkJNE59cK/D4AIbE9pw=
+9h6bdsc9rjrplc43o1q9r6rp8jhvldru.edu.	86400	IN	NSEC3	1 1 0 -  9jomlset6brqqb87uf3eqap5n8qpju8g NS DS RRSIG 
+uark.edu.	172800	IN	NS	ns1.uark.edu.
+uark.edu.	172800	IN	NS	ns2.uark.edu.
+uark.edu.	172800	IN	NS	ns3.uark.edu.
+ns1.uark.edu.	172800	IN	A	130.184.251.99
+ns1.uark.edu.	172800	IN	AAAA	2604:fc00:f:2251::99
+ns2.uark.edu.	172800	IN	A	130.184.251.100
+ns2.uark.edu.	172800	IN	AAAA	2604:fc00:f:2251::100
+ns3.uark.edu.	172800	IN	A	130.184.147.28
+ns3.uark.edu.	172800	IN	AAAA	2604:fc00:c:147::28

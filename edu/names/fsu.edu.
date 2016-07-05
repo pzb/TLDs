@@ -1,0 +1,13 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+fsu.edu.	172800	IN	NS	nsx.lbl.gov.
+fsu.edu.	172800	IN	NS	dns1.fsu.edu.
+fsu.edu.	172800	IN	NS	dns2.fsu.edu.
+fsu.edu.	172800	IN	NS	dnsa.fsu.edu.
+fsu.edu.	172800	IN	NS	trantor.umd.edu.
+dns1.fsu.edu.	172800	IN	A	128.186.6.103
+dns2.fsu.edu.	172800	IN	A	128.186.8.8
+dnsa.fsu.edu.	172800	IN	A	192.12.121.44
+ru7j7nn1jp5kpr4b65cr7frs3jgdiajd.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711212033 20160704201033 15617 edu. gnaa8k1IB4ZnByerbUXjyCBZnkyyB6OYLHfk/UrhpRHA6a9SZ1B0nmwAaKeEp0wCU4MjrKDHTVcYg9CjcmSg9wWVuYCljPT3X2HLcBq+S/wEWq+Gwwipom1sB7vX43GI+DlfMcFX7Dj/sh6VUrnJGpWZy17VEKnAnVW8RGV5TR0=
+ru7j7nn1jp5kpr4b65cr7frs3jgdiajd.edu.	86400	IN	NSEC3	1 1 0 -  rv8j5c75r0kn2qk5ta9517h2q6sbulvn NS DS RRSIG 
+trantor.umd.edu.	172800	IN	A	128.8.10.14

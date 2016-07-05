@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+afubmse0078reiq2noh1qovv30ltprdp.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051940 20160704040940 15617 edu. sq4l8/CDD1/5e1+wNkRv3GHETn5EcsFLQUCV8Vc1gLtIMO+qShnfMNnyuTykDJip1zEOqlTBJxCSkB0Wb+8/dWBU/ZuxkloMAmtQckTPs10oWeDDz9zUQKd+GXYdjM0dh9tuG6RdtxvDbzmZ4VjhNSm8VqvkDUQIMq7/j+rZdPI=
+afubmse0078reiq2noh1qovv30ltprdp.edu.	86400	IN	NSEC3	1 1 0 -  ag3migfieglpgtgmsvqr4af39uckel08 NS DS RRSIG 
+tlu.edu.	172800	IN	NS	cbru.br.ns.els-gms.att.net.
+tlu.edu.	172800	IN	NS	cmtu.mt.ns.els-gms.att.net.
+cbru.br.ns.els-gms.att.net.	172800	IN	A	68.94.156.132
+cmtu.mt.ns.els-gms.att.net.	172800	IN	A	99.99.99.132

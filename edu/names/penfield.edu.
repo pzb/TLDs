@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+gmca2f2cn4efqakqjbi22pcm0v4rm56q.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712030314 20160705015314 15617 edu. m54Ps+pnhi3DuZUDE6GVtVGCnYsCOegtZSP1PAdqh/ah+gee/BQPsvSyVQ6VApjQUjwCQyxpXvYTduPg3ltHLXgTL5Ve6EooSgGV42+F8WNZLwG+G2jHlmp6Dpq/YW7aKYG7HbytGUbZWERXzekAebWZY+xuRn/9BkJha/Kj4o8=
+gmca2f2cn4efqakqjbi22pcm0v4rm56q.edu.	86400	IN	NSEC3	1 1 0 -  gn080qrngmpfq70qcaqu8lfue76hejej NS DS RRSIG 
+forty.monroe.edu.	172800	IN	A	199.190.222.66
+ns2.monroe.edu.	172800	IN	A	199.190.222.115
+penfield.edu.	172800	IN	NS	ns2.monroe.edu.
+penfield.edu.	172800	IN	NS	forty.monroe.edu.

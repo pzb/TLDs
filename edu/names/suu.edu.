@@ -1,0 +1,8 @@
+suu.edu.	172800	IN	NS	ns.suu.edu.
+suu.edu.	172800	IN	NS	ns2.suu.edu.
+suu.edu.	172800	IN	NS	ns3.suu.edu.
+suu.edu.	86400	IN	DS	27801 7 2 ac4212ddd28f7ecb26d831b82f7966a4a7284d231e59fec9838c9ca9ac9d2186
+suu.edu.	86400	IN	RRSIG	DS 8 2 86400 20160708052035 20160701041035 15617 edu. ebJo0xcJkBfCcgzyqJjPlHtj8Cvjdll9U+uwiD6XOZO/s4Ebru3iEZibbkka5hvCeqe/N5i8GwGgkKFynBY1rydqR5jw7pdx/88pmAzDajjXgEqBIXjLFPJ8MPxdRUjVgzOgMinRT8yVJrC6jXqOntY3htdNN67CjDpUWlC+0e4=
+ns.suu.edu.	172800	IN	A	134.250.2.3
+ns2.suu.edu.	172800	IN	A	134.250.6.3
+ns3.suu.edu.	172800	IN	A	205.120.169.3

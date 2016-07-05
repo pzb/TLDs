@@ -1,0 +1,10 @@
+ns-463.awsdns-57.com.	172800	IN	A	205.251.193.207
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+li4uucthudkm0l8mieqp3acc0a061a5i.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051942 20160704040942 15617 edu. r3W505mlNJ9B9WIs2mYv162ZUwqkhJdYdxV+at1IZhVZIsjsiaL4tzCzCvCY1/neWIEXL/dhd9IhTuu1edjId0xB9RJW/Bk9NMpP99wbxKEbHQULhoErv13dPTvW5Qix9g2++iSa7ubUb/b+OcZIibwrESYBigtEoKsiwryt2Ks=
+li4uucthudkm0l8mieqp3acc0a061a5i.edu.	86400	IN	NSEC3	1 1 0 -  liant64mbb023qh592k7vofhmgqigilq NS DS RRSIG 
+taac.edu.	172800	IN	NS	ns-463.awsdns-57.com.
+taac.edu.	172800	IN	NS	ns-885.awsdns-46.net.
+taac.edu.	172800	IN	NS	ns-1148.awsdns-15.org.
+taac.edu.	172800	IN	NS	ns-1713.awsdns-22.co.uk.
+ns-885.awsdns-46.net.	172800	IN	A	205.251.195.117

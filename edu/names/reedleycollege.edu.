@@ -1,0 +1,10 @@
+ns1.dnspark.com.	172800	IN	A	216.59.57.100
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+reedleycollege.edu.	172800	IN	NS	ns1.dnspark.com.
+reedleycollege.edu.	172800	IN	NS	ns2.dnspark.net.
+reedleycollege.edu.	172800	IN	NS	ns3.dnspark.net.
+s31h6n28ea1t4cuqrj3otbvtfm3eu37f.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711204115 20160704193115 15617 edu. QsFkFWMwgH+pWmvnwgX+V9rUElW/V6DA4TEiacdeoIbqrwJSKc4nwbsJ8HHCWwZavXjWX1X1at+oUWtfecEwH1PgLltxOxaMz8mE4pH1rfXIQQvKekZEHsQ0uUqGeYikHSk3n72EKEGvz+EsOeBlCysIEZN7XjQDM+6a2niZZfc=
+s31h6n28ea1t4cuqrj3otbvtfm3eu37f.edu.	86400	IN	NSEC3	1 1 0 -  s9jtjnfp3tp33a1fm9t4ustiq202ti8m NS DS RRSIG 
+ns2.dnspark.net.	172800	IN	A	104.153.199.100
+ns3.dnspark.net.	172800	IN	A	159.253.153.220

@@ -1,0 +1,10 @@
+ns1.softlayer.com.	172800	IN	A	67.228.254.4
+ns1.softlayer.com.	172800	IN	AAAA	2607:f0d0:0:f:1::1
+ns2.softlayer.com.	172800	IN	A	67.228.255.5
+ns2.softlayer.com.	172800	IN	AAAA	2607:f0d0:0:f:2::1
+5jgls0sj4cr8r3k4eolif5v1eaqc7ofi.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711201042 20160704190042 15617 edu. BybHYVN51FSz8gn9kAH+8BtfNDroqQHNNGDv9Ga+X99Ay8bNVhkZj8Qgh12PU272CgK6vpYHa0Oq85do14iM/VeEu+hRfuaEAoQ7krAQalBars43ITzf+92CEYKAFcSDcSClBAcwfOZdtOneQdjlxXhSXJDOMOAspZTzgHqGAtk=
+5jgls0sj4cr8r3k4eolif5v1eaqc7ofi.edu.	86400	IN	NSEC3	1 1 0 -  5kut5165mmusjmbpbbql7mvqcbmia9co NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+mcfattertechnicalcollege.edu.	172800	IN	NS	ns1.softlayer.com.
+mcfattertechnicalcollege.edu.	172800	IN	NS	ns2.softlayer.com.

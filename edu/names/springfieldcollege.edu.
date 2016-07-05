@@ -1,0 +1,8 @@
+3ftb9rslroqjuopdnljje2i31u25m4mg.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711144009 20160704133009 15617 edu. oqhYs9N73ZdKQk+HTs4K1waOJp1DP1wyQRM7qr6NsE48rOPIgI+uYtpg7pJPoAh0JAlucyo1HJzUNWU2oCCSILRh1uyViTQ1T7my4K/mZvx7L1oyx/hUrEDF3mmy0bD9W1gRdYgZLmFAyrdFp98YSAiU6a9GbYhQfnAegVLF6Cs=
+3ftb9rslroqjuopdnljje2i31u25m4mg.edu.	86400	IN	NSEC3	1 1 0 -  3hmcjklol5am6uur92gru70o8v2qnmr7 NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+springfieldcollege.edu.	172800	IN	NS	cbru.br.ns.els-gms.att.net.
+springfieldcollege.edu.	172800	IN	NS	cmtu.mt.ns.els-gms.att.net.
+cbru.br.ns.els-gms.att.net.	172800	IN	A	68.94.156.132
+cmtu.mt.ns.els-gms.att.net.	172800	IN	A	99.99.99.132

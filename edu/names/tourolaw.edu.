@@ -1,0 +1,12 @@
+50np94ui3p8trafs6no6c4ot291ntm4r.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710215619 20160703204619 15617 edu. M4rT6bGZPhU5wCUWjpBewj2q5jnjxleEK9wTNcTBl28W3c4TpIxLWrpBgiJBOUVPc/v8Q0qdwoen8Qm2I8VbK1K9keqYo9ld+tLwRQf0Mq/rqRzXSH4wW2Bt5gzFKqFGlKIBVjeM13VJ9lUL8pahs7PAHxKLp5NvnMU6WKTscIc=
+50np94ui3p8trafs6no6c4ot291ntm4r.edu.	86400	IN	NSEC3	1 1 0 -  515h42qgie56p03vodd7j6jd9dp1v8kb NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+tourolaw.edu.	172800	IN	NS	tlcdns2.tourolaw.edu.
+tourolaw.edu.	172800	IN	NS	tlcdns3.tourolaw.edu.
+tourolaw.edu.	172800	IN	NS	tlc-dns1.tourolaw.edu.
+tourolaw.edu.	172800	IN	NS	tlc-dns2.tourolaw.edu.
+tlc-dns1.tourolaw.edu.	172800	IN	A	167.206.57.38
+tlc-dns2.tourolaw.edu.	172800	IN	A	167.206.57.44
+tlcdns2.tourolaw.edu.	172800	IN	A	69.74.168.214
+tlcdns3.tourolaw.edu.	172800	IN	A	69.74.168.222

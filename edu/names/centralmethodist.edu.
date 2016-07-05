@@ -1,0 +1,9 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+centralmethodist.edu.	172800	IN	NS	argus.more.net.
+centralmethodist.edu.	172800	IN	NS	meramec.coreserv.more.net.
+t42baj3i37340k9v63s2quof9h1i26a5.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709051625 20160702040625 15617 edu. ybbh8HUgvxUcA9qJl4p++xPxLtqcjHavhJPjF9rEOFdYdIKXXXvZBk6GfST7N0pn3Up9S/y3u17pTj+okvRwU723oTDOD+qni6h7RnCqrFe7RYUSXQdzm/J9jIQkvNYbiKYDC7Ar4/5y8b49ogqhEebAcjqDySnaqwJZbYCQ3hA=
+t42baj3i37340k9v63s2quof9h1i26a5.edu.	86400	IN	NSEC3	1 1 0 -  t43r0kjqoplpnfat3mjum26p8jq2j481 NS DS RRSIG 
+argus.more.net.	172800	IN	A	150.199.1.11
+argus.more.net.	172800	IN	AAAA	2610:e0:1:1:150:199:1:11
+meramec.coreserv.more.net.	172800	IN	A	150.199.8.1

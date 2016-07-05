@@ -1,0 +1,8 @@
+lctcs.edu.	172800	IN	NS	sfns1.lctcs.edu.
+lctcs.edu.	172800	IN	NS	syso-svr-ns1.lctcs.edu.
+lctcs.edu.	172800	IN	NS	syso-svr-ns2.lctcs.edu.
+lctcs.edu.	86400	IN	DS	27184 5 1 bd2c82a0588fc5028a9be4ea86dc2d6a0452f8d1
+lctcs.edu.	86400	IN	RRSIG	DS 8 2 86400 20160711051944 20160704040944 15617 edu. mnL+SWUHDnRmcF+a5VEgl7t6+zvmz/It6l7n2V07gnGk5TCXTgd6y4WtPCOQztCY2uJGIEw6mnZhqPHPqNN9ajeKZKL7joLh9uP+LfepCiB3alXiZdoR0PRPCMasL2YEMxeMkt287A4SeF/EnmKK2VtRIfVkK+6WlWhH0NsgJQM=
+sfns1.lctcs.edu.	172800	IN	A	76.165.120.16
+syso-svr-ns1.lctcs.edu.	172800	IN	A	76.165.120.16
+syso-svr-ns2.lctcs.edu.	172800	IN	A	76.165.210.249

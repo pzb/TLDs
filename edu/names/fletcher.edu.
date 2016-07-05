@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+fletcher.edu.	172800	IN	NS	ns01.fletcher.edu.
+fletcher.edu.	172800	IN	NS	sfns1.lctcs.edu.
+ns01.fletcher.edu.	172800	IN	A	76.165.121.171
+hkpdiqo26fet57ogoh8mdd0pdp0f0efk.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712011211 20160705000211 15617 edu. 4SUd0cCSAgrczToQHTQN8x7cdsfj4Xf2+otVPia4CCfaUlKCzbHIB14azJhP9HqBIpVQ7sBxLCKw6kLul9Xw44uDeyL5zbsoT3cCiE7tBfve7iPgFf9oOLIoRktmGiH+RDxZtA+zRNA+4v4VxS4vm43kA5dzIRftw68wB1+MBvI=
+hkpdiqo26fet57ogoh8mdd0pdp0f0efk.edu.	86400	IN	NSEC3	1 1 0 -  hm0ckfg0k837n368mgjn6hbdma6jap47 NS DS RRSIG 
+sfns1.lctcs.edu.	172800	IN	A	76.165.120.16

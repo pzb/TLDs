@@ -1,0 +1,12 @@
+ns1140.dns.dyn.com.	172800	IN	A	208.76.58.140
+ns2159.dns.dyn.com.	172800	IN	A	208.76.59.159
+ns3154.dns.dyn.com.	172800	IN	A	208.76.60.154
+ns4183.dns.dyn.com.	172800	IN	A	208.76.61.183
+83rr71uaaba9dtn2pvfbecetglf3kjgs.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711235225 20160704224225 15617 edu. C6LniJf3PevyXgC3El0UPVmTYk6v7eOsTBna7tX3w2oGTxZ5mhB+kzoZltjb/eATFUIwwAPK7c2IVc3/7A6heg9Q1tSJS8XWXvYr63uu+m9URGELIkKAvDSueyCQUR0IekOPlylAkzES35CUK1VRHyeN298+XOtvPuzneD8Kcyc=
+83rr71uaaba9dtn2pvfbecetglf3kjgs.edu.	86400	IN	NSEC3	1 1 0 -  84r3vll0i0qrhsi5n9sj2knksff0jnmp NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+lumcon.edu.	172800	IN	NS	ns1140.dns.dyn.com.
+lumcon.edu.	172800	IN	NS	ns2159.dns.dyn.com.
+lumcon.edu.	172800	IN	NS	ns3154.dns.dyn.com.
+lumcon.edu.	172800	IN	NS	ns4183.dns.dyn.com.

@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+b8lvss2ih9degafv13edbhkfrlar270j.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711190127 20160704175127 15617 edu. KyCfBwsijdzvBG7KTWIserNSX+lanm6YwB3NR3O38giIY9cIuB3tYnb6b1TKJWCo2faQdIWeURlDwRP2pir1nwnuPsfkskXjVTbfYUuFbwb/3Q1YvH2Oq96ZwuIFAa1+SSMn2Fa6lj0BrAohB9zlMraYWAmtxgmWphY8kckChBc=
+b8lvss2ih9degafv13edbhkfrlar270j.edu.	86400	IN	NSEC3	1 1 0 -  b8v7icjd5a0pvbk9fbgb6beptvggpj8c NS DS RRSIG 
+sam.edu.	172800	IN	NS	ns.shsu.edu.
+sam.edu.	172800	IN	NS	ns2.shsu.edu.
+sam.edu.	172800	IN	NS	ns3.shsu.edu.
+ns.shsu.edu.	172800	IN	A	158.135.1.20
+ns2.shsu.edu.	172800	IN	A	158.135.1.200
+ns3.shsu.edu.	172800	IN	A	147.26.15.18

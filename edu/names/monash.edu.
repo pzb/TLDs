@@ -1,0 +1,13 @@
+4k771dpt331f4vurttk3ts9krag00d6k.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711171025 20160704160025 15617 edu. bxJnNWaAcJ1wfUu7dMkzcV+qCTCC1u5GOTHdn+0p8Jxa1IxnXB7kPozFhQ2YpKmh3ISoL6GONCA2KUxhc4VuGetIaccoyzO/JUkszUmj7FJhVa/sCzJhHYGg5SlXz/eaBdOoMgRskU3a44/Tw7G/fV6gw+R7ijRbJk83oUnV+ME=
+4k771dpt331f4vurttk3ts9krag00d6k.edu.	86400	IN	NSEC3	1 1 0 -  4m376rutfupqajf3sh7q5utdl7l72ug1 NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+monash.edu.	172800	IN	NS	ns3.its.monash.edu.
+monash.edu.	172800	IN	NS	ns4.its.monash.edu.
+monash.edu.	172800	IN	NS	ns5.its.monash.edu.
+ns3.its.monash.edu.	172800	IN	A	72.4.126.159
+ns3.its.monash.edu.	172800	IN	AAAA	2001:4802:1000:40::7e9f
+ns4.its.monash.edu.	172800	IN	A	130.194.1.100
+ns4.its.monash.edu.	172800	IN	AAAA	2001:388:608c:284::1
+ns5.its.monash.edu.	172800	IN	A	130.194.1.101
+ns5.its.monash.edu.	172800	IN	AAAA	2001:388:608c:285::1

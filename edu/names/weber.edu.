@@ -1,0 +1,12 @@
+weber.edu.	172800	IN	NS	dns1.weber.edu.
+weber.edu.	172800	IN	NS	dns4.weber.edu.
+weber.edu.	172800	IN	NS	dns6.weber.edu.
+weber.edu.	86400	IN	DS	62434 8 1 5965de8c1c17b047814bdf1714f094575e487d95
+weber.edu.	86400	IN	DS	62434 8 2 3f20213d40ac9ec1c5cde4b30bc1b42dc102159c1e930f57d5888dc56e4b7849
+weber.edu.	86400	IN	DS	63544 8 2 d10d2b6312aa8aec979fb6de026a06bf45d77b6f8774c1cb9da7402172ee3516
+weber.edu.	86400	IN	RRSIG	DS 8 2 86400 20160708052035 20160701041035 15617 edu. vnuaEealFOI+EaEcDparxCyDBTA/xlZfwnTF1pEmg9SvIhvRlLyBkLebfGiKbB8LaG/ds8nfwFk7fQR0/0LKEvIuFsa64/knynv0GdPtFEzb5k7jjwSRTTY8YO5vzJu/2YGNmdp9fN8G/HXOiDOGCpKjnjf0M5nriKyTtk94sRo=
+dns1.weber.edu.	172800	IN	A	137.190.1.2
+dns1.weber.edu.	172800	IN	AAAA	2001:1948:210::2
+dns4.weber.edu.	172800	IN	A	137.190.234.2
+dns4.weber.edu.	172800	IN	AAAA	2001:1948:214::2
+dns6.weber.edu.	172800	IN	A	205.120.163.5

@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+hartwick.edu.	172800	IN	NS	dns1.hartwick.edu.
+hartwick.edu.	172800	IN	NS	dns2.hartwick.edu.
+dns1.hartwick.edu.	172800	IN	A	147.205.135.229
+dns2.hartwick.edu.	172800	IN	A	147.205.135.225
+m58ds008lcbn9vaprsmdtbtmqseo6akk.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712032350 20160705021350 15617 edu. rX23KrMUUST4geAgtzo6fvbTpI2Wdha4RivAWDfqh//ZN1d1JEksvuZdtL0VpmDEv50UplTCyLk3+tNyPBi6KHCASXrFo+QG6jCKGS538s2iiNIzO2Ihx5iy8hdU5wDJWgCEBpaEyNydF5lLwTeX69/ouFs3B5wGXOhJcXGuCMc=
+m58ds008lcbn9vaprsmdtbtmqseo6akk.edu.	86400	IN	NSEC3	1 1 0 -  m7vj498qc58amvkhc5ot01rtr0pd4g60 NS DS RRSIG 

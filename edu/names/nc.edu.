@@ -1,0 +1,10 @@
+carl.ns.cloudflare.com.	172800	IN	A	173.245.59.106
+carl.ns.cloudflare.com.	172800	IN	AAAA	2400:cb00:2049:1::adf5:3b6a
+chan.ns.cloudflare.com.	172800	IN	A	173.245.58.82
+chan.ns.cloudflare.com.	172800	IN	AAAA	2400:cb00:2049:1::adf5:3a52
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+nbkf5vbvgvt96eqt1sfi4ti3hikh66sj.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051941 20160704040941 15617 edu. Ra9dzagFIvtRy+3A6oBk1MiE3hfrCm+ggmLsdGVDQ4R9OPMqAUH+WZAgLXHHUNA7RNb8mpkEnLLK/jzh0x9UMOHo3acqH/kVNPR0VKXo9PYnI+aCGEbVGfqGOrVrUIDOuc6cdmzi4bgNs6Qcl7ZlKPdPhe1JuaCxqyLa5ogz+vE=
+nbkf5vbvgvt96eqt1sfi4ti3hikh66sj.edu.	86400	IN	NSEC3	1 1 0 -  ncs092kacose3idsjcvalc18p26g57r9 NS DS RRSIG 
+nc.edu.	172800	IN	NS	carl.ns.cloudflare.com.
+nc.edu.	172800	IN	NS	chan.ns.cloudflare.com.

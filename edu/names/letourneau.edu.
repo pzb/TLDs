@@ -1,0 +1,18 @@
+ns10.dnsmadeeasy.com.	172800	IN	A	208.94.148.4
+ns11.dnsmadeeasy.com.	172800	IN	A	208.80.124.4
+ns12.dnsmadeeasy.com.	172800	IN	A	208.80.126.4
+ns13.dnsmadeeasy.com.	172800	IN	A	208.80.125.4
+ns13.dnsmadeeasy.com.	172800	IN	AAAA	2600:1801:13::1
+ns14.dnsmadeeasy.com.	172800	IN	A	208.80.127.4
+ns14.dnsmadeeasy.com.	172800	IN	AAAA	2600:1802:14::1
+ns15.dnsmadeeasy.com.	172800	IN	A	208.94.149.4
+90r81180joek0mm4j3tkug1o47i1v880.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711134058 20160704123058 15617 edu. Q2a4tOWvJ/t2EVJjbv3tv55gT4xoF04h7XU8fvGxyxRahtmcZtcOGF3/c8OJ+1TIKmUT86DOJ0jSgLzb86JcQj18umSD+jWNQXWWuhZqxi0GuH4xWYcLv7VwjI+9hsqFMKw83tPBx77v/bmUr8KlsNgKZqHQotNJxVjvvKKmJxM=
+90r81180joek0mm4j3tkug1o47i1v880.edu.	86400	IN	NSEC3	1 1 0 -  93dimamp68rau8tiermepbv97d096hkm NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+letourneau.edu.	172800	IN	NS	ns10.dnsmadeeasy.com.
+letourneau.edu.	172800	IN	NS	ns11.dnsmadeeasy.com.
+letourneau.edu.	172800	IN	NS	ns12.dnsmadeeasy.com.
+letourneau.edu.	172800	IN	NS	ns13.dnsmadeeasy.com.
+letourneau.edu.	172800	IN	NS	ns14.dnsmadeeasy.com.
+letourneau.edu.	172800	IN	NS	ns15.dnsmadeeasy.com.

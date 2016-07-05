@@ -1,0 +1,16 @@
+5jgls0sj4cr8r3k4eolif5v1eaqc7ofi.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711201042 20160704190042 15617 edu. BybHYVN51FSz8gn9kAH+8BtfNDroqQHNNGDv9Ga+X99Ay8bNVhkZj8Qgh12PU272CgK6vpYHa0Oq85do14iM/VeEu+hRfuaEAoQ7krAQalBars43ITzf+92CEYKAFcSDcSClBAcwfOZdtOneQdjlxXhSXJDOMOAspZTzgHqGAtk=
+5jgls0sj4cr8r3k4eolif5v1eaqc7ofi.edu.	86400	IN	NSEC3	1 1 0 -  5kut5165mmusjmbpbbql7mvqcbmia9co NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ns1.dns.ucla.edu.	172800	IN	A	192.35.225.7
+ns1.dns.ucla.edu.	172800	IN	AAAA	2607:f010:3fe:12:0:ff:fe01:35
+ns2.dns.ucla.edu.	172800	IN	A	192.12.234.140
+ns2.dns.ucla.edu.	172800	IN	AAAA	2607:f140:0:e000:0:ff:fe01:35
+ns3.dns.ucla.edu.	172800	IN	A	192.35.210.7
+ns3.dns.ucla.edu.	172800	IN	AAAA	2607:f600:8001:1:0:ff:fe01:35
+ns4.dns.ucla.edu.	172800	IN	A	128.171.28.220
+ns4.dns.ucla.edu.	172800	IN	AAAA	2607:f278:2:2:0:ff:fe01:35
+uclosangeles.edu.	172800	IN	NS	ns1.dns.ucla.edu.
+uclosangeles.edu.	172800	IN	NS	ns2.dns.ucla.edu.
+uclosangeles.edu.	172800	IN	NS	ns3.dns.ucla.edu.
+uclosangeles.edu.	172800	IN	NS	ns4.dns.ucla.edu.

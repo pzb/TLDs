@@ -1,0 +1,6 @@
+truman.edu.	172800	IN	NS	ns3.truman.edu.
+truman.edu.	172800	IN	NS	ns4.truman.edu.
+truman.edu.	86400	IN	DS	52166 5 1 fc1b03d050bf6d123abf469eb0e7a69d7ed8676d
+truman.edu.	86400	IN	RRSIG	DS 8 2 86400 20160708052030 20160701041030 15617 edu. Dq36tGeKUNpfBJgSpxl/aM9cxuZM0ePfEAaNayl1LppBfToiyYeqg10A9jxXabS5R85NUSDaLSnk28DrhdK/xo2AlvH/k9t1WoIGeB7AnWNzCunpsSKAJbh8U8nWJ5/ys9vFVp4J7uW1ow8uiO5lYjI+F8xcdmAFgwIWex4osUs=
+ns3.truman.edu.	172800	IN	A	150.243.160.9
+ns4.truman.edu.	172800	IN	A	150.243.160.14

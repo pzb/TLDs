@@ -1,0 +1,24 @@
+ns10.dnsmadeeasy.com.	172800	IN	A	208.94.148.4
+ns11.dnsmadeeasy.com.	172800	IN	A	208.80.124.4
+ns12.dnsmadeeasy.com.	172800	IN	A	208.80.126.4
+ns13.dnsmadeeasy.com.	172800	IN	A	208.80.125.4
+ns13.dnsmadeeasy.com.	172800	IN	AAAA	2600:1801:13::1
+ns14.dnsmadeeasy.com.	172800	IN	A	208.80.127.4
+ns14.dnsmadeeasy.com.	172800	IN	AAAA	2600:1802:14::1
+ns15.dnsmadeeasy.com.	172800	IN	A	208.94.149.4
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+hbu.edu.	172800	IN	NS	ns1.dnspark.net.
+hbu.edu.	172800	IN	NS	ns5.dnspark.net.
+hbu.edu.	172800	IN	NS	ns10.dnsmadeeasy.com.
+hbu.edu.	172800	IN	NS	ns11.dnsmadeeasy.com.
+hbu.edu.	172800	IN	NS	ns12.dnsmadeeasy.com.
+hbu.edu.	172800	IN	NS	ns13.dnsmadeeasy.com.
+hbu.edu.	172800	IN	NS	ns14.dnsmadeeasy.com.
+hbu.edu.	172800	IN	NS	ns15.dnsmadeeasy.com.
+lkkok9p539dranog9ttc7nqnsvtcnv4v.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711193324 20160704182324 15617 edu. 3Jvy7jjyTVrNInXScSjfXNulVqE5K7UOg8r7SBYgXxSxdsNQK5qf/oqgBOiCooo6G6kH0oCLFJus/Xa24sRMGEjnhM66HgWDt542icySjxZzv2K8zf5rEit98+Rld0w+wO7Scit/1fxjdaTcNqpXHBR39rMI70X4VyTRXpQUGys=
+lkkok9p539dranog9ttc7nqnsvtcnv4v.edu.	86400	IN	NSEC3	1 1 0 -  ln2n7g0g8fctraokaa76srur38qapeqb NS DS RRSIG 
+ns1.dnspark.net.	172800	IN	A	216.59.57.100
+ns1.dnspark.net.	172800	IN	AAAA	2602:ffe2:10::100
+ns5.dnspark.net.	172800	IN	A	159.253.153.220
+ns5.dnspark.net.	172800	IN	AAAA	2607:f0d0:2002:b5::2

@@ -1,0 +1,10 @@
+isla.ns.cloudflare.com.	172800	IN	A	173.245.58.119
+isla.ns.cloudflare.com.	172800	IN	AAAA	2400:cb00:2049:1::adf5:3a77
+ivan.ns.cloudflare.com.	172800	IN	A	173.245.59.120
+ivan.ns.cloudflare.com.	172800	IN	AAAA	2400:cb00:2049:1::adf5:3b78
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+goddard.edu.	172800	IN	NS	isla.ns.cloudflare.com.
+goddard.edu.	172800	IN	NS	ivan.ns.cloudflare.com.
+tmumluophnf7hem7siual2p41b0fm4ka.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711193631 20160704182631 15617 edu. JS39mR4a7vQNdGVsHQQrfw5YnjxgI7pINlAyB0Rq5Ih1jvGMkWkPKo+CbQCcgrR3qzh8UunlObOUAeUDa4RXRm5Y0BoNeP15oyMmnmVCF0Vy55j3kzbmJ5Guqfx4HHiYvs+uy1h1hhGRnJ2kqO4TKoFAYitVW48yv4KZPxsddms=
+tmumluophnf7hem7siual2p41b0fm4ka.edu.	86400	IN	NSEC3	1 1 0 -  tnfeng0soku2voaptbeknpm6q45hgclb NS DS RRSIG 

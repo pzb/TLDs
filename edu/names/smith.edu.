@@ -1,0 +1,14 @@
+3fbra3pkckvqui8ab2nlelr0qecaggp1.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710184725 20160703173725 15617 edu. cDCPdAGgjPqba2TfnuUx+zHY45umtXUlgMFGb3PbRnOHwXttKVSsiTGBqnnbv70RdZMnYctT9e5KJj6FCgBTEXyYWmHW11s8dm9LAOGoNdJw35yqQ/0YhYr0CDwLDPYb/VV+aiH0PzSnvu6M9HU6f4ZSYM3naI9iPKnR1AHWS5c=
+3fbra3pkckvqui8ab2nlelr0qecaggp1.edu.	86400	IN	NSEC3	1 1 0 -  3fsd5rpbaa71bvc44bqpdqoaqsl7ap3j NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+smith.edu.	172800	IN	NS	ns1.smith.edu.
+smith.edu.	172800	IN	NS	ns1.umass.edu.
+smith.edu.	172800	IN	NS	ns2.umass.edu.
+smith.edu.	172800	IN	NS	ns3.umass.edu.
+smith.edu.	172800	IN	NS	babel.smith.edu.
+babel.smith.edu.	172800	IN	A	131.229.64.2
+ns1.smith.edu.	172800	IN	A	198.101.218.79
+ns1.umass.edu.	172800	IN	A	128.119.10.27
+ns2.umass.edu.	172800	IN	A	128.119.10.28
+ns3.umass.edu.	172800	IN	A	128.103.38.68

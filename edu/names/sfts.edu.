@@ -1,0 +1,17 @@
+ns1.easydns.com.	172800	IN	A	64.68.192.10
+ns1.easydns.com.	172800	IN	AAAA	2001:1838:f001::10
+ns2.easydns.com.	172800	IN	A	198.41.222.254
+ns2.easydns.com.	172800	IN	AAAA	2400:cb00:2049:1::c629:defe
+remote1.easydns.com.	172800	IN	A	64.68.192.10
+remote2.easydns.com.	172800	IN	A	198.41.222.254
+remote2.easydns.com.	172800	IN	AAAA	2400:cb00:2049:1::c629:defe
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+h2vjv2t2g6saolls9dj9j0ba42dig7os.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712020856 20160705005856 15617 edu. ESmW40Uw05LcLjWVFdpatuE/6ovdZb39/251H5UgET7MiCrHelA6DNXcYmlfr6v0dzs/EM3+DiqyJwdD+z73lUpxdmJsH5A7knXm1pQEXGvkV3FhMrhsxIW0NVZALt1patbR2RLnBB0/PE0MxZpjmBXLv7KFgbeI2r171GIfJKU=
+h2vjv2t2g6saolls9dj9j0ba42dig7os.edu.	86400	IN	NSEC3	1 1 0 -  h6msb0gqkfh1e0rlhm42a7m0usfassrt NS DS RRSIG 
+sfts.edu.	172800	IN	NS	ns1.easydns.com.
+sfts.edu.	172800	IN	NS	ns2.easydns.com.
+sfts.edu.	172800	IN	NS	ns6.easydns.net.
+sfts.edu.	172800	IN	NS	remote1.easydns.com.
+sfts.edu.	172800	IN	NS	remote2.easydns.com.
+ns6.easydns.net.	172800	IN	A	198.41.222.254

@@ -1,0 +1,7 @@
+ccny.edu.	172800	IN	NS	ns1.ccny.cuny.edu.
+ccny.edu.	172800	IN	NS	ns2.ccny.cuny.edu.
+ccny.edu.	86400	IN	DS	24916 5 1 60a991ff8320776bed9d71fd4ba513f1819a9bd8
+ccny.edu.	86400	IN	DS	24916 5 2 d2ec355efa432c3883643453679c7b5b8e950e485f09d1292f129fdf2e18e7a3
+ccny.edu.	86400	IN	RRSIG	DS 8 2 86400 20160710053347 20160703042347 15617 edu. xaPeQrhZPdgHchaqEjq5Xnx8PoKVGghbdTMz3VqFzy8lsW1wjrStsRinXayN/kS79lfBQ3P+h0BOMFIjRBFcPcl2fMk9Aep2Xola3goo4tTUjsR12H0sHqk4BhLG1exYamPh0WHlBgn83/tMgSsN9rI26nbpR9Yk8onuz1jsaQg=
+ns1.ccny.cuny.edu.	172800	IN	A	134.74.99.199
+ns2.ccny.cuny.edu.	172800	IN	A	134.74.98.199

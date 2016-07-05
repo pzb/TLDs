@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+cb7jk0s0fgcjssov0ev859u2q6ttostk.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710223914 20160703212914 15617 edu. YpQy9fpMsBE7osIcVDxn5uU61+TAKuuxjyeee+isKdyzpQC/KKDHoCwjzh0zY07k2end5hd+222gB+0CZ+Aldc53qhbRXe/xQBktqZ7Df4kpFr85HI0hxd7bS2uIGUXb5v1zS02KJtgTssEVrGYIJe9w9okZJUMmkJ/KHyvKcBI=
+cb7jk0s0fgcjssov0ev859u2q6ttostk.edu.	86400	IN	NSEC3	1 1 0 -  cce41s0h0q8j0rbq57andaqglv4kj31i NS DS RRSIG 
+sccnc.edu.	172800	IN	NS	ncnoc.ncren.net.
+sccnc.edu.	172800	IN	NS	reggae.ncren.net.
+sccnc.edu.	172800	IN	NS	chlt-ns1.ncren.net.
+chlt-ns1.ncren.net.	172800	IN	A	128.109.249.27
+ncnoc.ncren.net.	172800	IN	A	192.101.21.1
+reggae.ncren.net.	172800	IN	A	128.109.131.3

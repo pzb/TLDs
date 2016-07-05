@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+fortisonline.edu.	172800	IN	NS	ns1.pointclick.net.
+fortisonline.edu.	172800	IN	NS	ns2.pointclick.net.
+fortisonline.edu.	172800	IN	NS	ns3.pointclick.net.
+h07fmc21eauto6fbedd5d39e9bvkmqn9.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711034802 20160704023802 15617 edu. L0g8Nvif8ccwnypJnlkCf7rush8DojNanORV/0d+WR62Fske1JIn02+fWmn36NQ2NnZtqRYCySgmKBFSD7QcEuJzHpyoe9enHfkF/qpYq6gMdE2e721ZBbh76vlTJkK7uLGGElSA2wo+sHMQBPrR17A7JQF4PsRgv/I1hLx1NQY=
+h07fmc21eauto6fbedd5d39e9bvkmqn9.edu.	86400	IN	NSEC3	1 1 0 -  h1spuqiv7kaego7mnvfsoo14tgesk44n NS DS RRSIG 
+ns1.pointclick.net.	172800	IN	A	74.213.145.125
+ns2.pointclick.net.	172800	IN	A	50.59.102.60
+ns3.pointclick.net.	172800	IN	A	74.213.145.83

@@ -1,0 +1,16 @@
+auth1.dns.expedient.com.	172800	IN	A	209.166.168.15
+auth2.dns.expedient.com.	172800	IN	A	216.183.191.12
+auth3.dns.expedient.com.	172800	IN	A	207.54.143.204
+auth4.dns.expedient.com.	172800	IN	A	209.166.144.108
+auth5.dns.expedient.com.	172800	IN	A	216.230.112.43
+auth6.dns.expedient.com.	172800	IN	A	207.54.143.204
+1j6nvln01m4ii5krbgosu6tte1do9gc7.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160708052033 20160701041033 15617 edu. iAWfngfpaYMk4cu7Eirmcn2/ckx7rrMZ32R2bBPvcWEbkMTjVtz4y6T1zaa+vJjm6CkdESLwqKaL7YmwGiGH6LgrbatEyIuVEoTAKwJqAg/prdiDYrJDDRGNIioC3HZDnf8tup+cY6BFZip+WyogXRnalXNULkFF5DC9DyiBDxM=
+1j6nvln01m4ii5krbgosu6tte1do9gc7.edu.	86400	IN	NSEC3	1 1 0 -  1jnhban0dkljq08hgqquigtr3sapfn10 NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+triangle-tech.edu.	172800	IN	NS	auth1.dns.expedient.com.
+triangle-tech.edu.	172800	IN	NS	auth2.dns.expedient.com.
+triangle-tech.edu.	172800	IN	NS	auth3.dns.expedient.com.
+triangle-tech.edu.	172800	IN	NS	auth4.dns.expedient.com.
+triangle-tech.edu.	172800	IN	NS	auth5.dns.expedient.com.
+triangle-tech.edu.	172800	IN	NS	auth6.dns.expedient.com.

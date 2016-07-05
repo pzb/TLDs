@@ -1,0 +1,5 @@
+valencia.edu.	172800	IN	NS	gong.ci.uv.es.
+valencia.edu.	172800	IN	NS	peque.ci.uv.es.
+valencia.edu.	172800	IN	NS	shackleton.red.uv.es.
+valencia.edu.	86400	IN	DS	48823 5 1 e3d55c4cf1e59f9b682f6a1176451a164e22b614
+valencia.edu.	86400	IN	RRSIG	DS 8 2 86400 20160710053348 20160703042348 15617 edu. mM/oA8i0YdwmsQhZjcfdmhvwdExHryG2ryI6JVhb37s5iP+gKVYvmIL9YaqpjPoS3DXY4uITA9F1RRIRk2131oHPbAi/Yi+84QRXDuMbbsvcajKVzk33TSczTN55h79Na9+75DDo9vYZRV86yQ/XesNeWqCu474fVHhnU8kFiXg=

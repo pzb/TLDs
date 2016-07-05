@@ -1,0 +1,8 @@
+ns1.bluehost.com.	172800	IN	A	74.220.195.31
+ns2.bluehost.com.	172800	IN	A	69.89.16.4
+4q36gplcb8an2g5e7iagt9so1j9jrpni.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712024153 20160705013153 15617 edu. S7PhgEM4uy1JdzL+dMQ9/sbC1vAx2O8FFx+o2H6AxYmQ1NrcaF7pveLoyQQQMTRomKeZNwQayB3fnpkzMi16Lbt8MptTNIANmdVYoq9pE8/qh335KP9385xTE5sDjzUAZrZTf3n/F+FDp97wsV1MJeqOavtHtXRtCJDcLOyYAQ4=
+4q36gplcb8an2g5e7iagt9so1j9jrpni.edu.	86400	IN	NSEC3	1 1 0 -  4ro7r7qhqn1reqcukki51soh91j6nr09 NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+heartlandbaptist.edu.	172800	IN	NS	ns1.bluehost.com.
+heartlandbaptist.edu.	172800	IN	NS	ns2.bluehost.com.

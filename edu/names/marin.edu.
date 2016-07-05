@@ -1,0 +1,11 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+l31jan8i7vlqjr3lb37omqinn1cngd3s.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711174736 20160704163736 15617 edu. AvR+4YmmQMu9qbJ2voxkjpAzZwqv4m+DbFWJ8HPLn+SOEjuuV0QLryHUpOD/ZtNy4XtV1XIiXZiLqwLMcQAqV8rGP9ZU5ibsjj4/wZC5BRPU5ZhKcqn1n9LLd6O1tVrFRMnNqYY5ua+sNiOg51s7NbCvjdAq4fshuisKqNOMK6s=
+l31jan8i7vlqjr3lb37omqinn1cngd3s.edu.	86400	IN	NSEC3	1 1 0 -  l55gdolq7a0vtnrakd6pq0iul1l0nv19 NS DS RRSIG 
+marin.edu.	172800	IN	NS	ns4.cenic.org.
+marin.edu.	172800	IN	NS	ns5.cenic.org.
+marin.edu.	172800	IN	NS	ns6.cenic.org.
+marin.edu.	172800	IN	NS	dns1.marin.edu.
+marin.edu.	172800	IN	NS	dns2.marin.edu.
+dns1.marin.edu.	172800	IN	A	198.189.225.10
+dns2.marin.edu.	172800	IN	A	198.189.225.11

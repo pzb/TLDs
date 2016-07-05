@@ -1,0 +1,18 @@
+dns0.mtgsy.com.	172800	IN	A	72.249.29.226
+dns3.mtgsy.com.	172800	IN	A	66.228.62.33
+dns3.mtgsy.com.	172800	IN	A	162.243.59.139
+dns4.mtgsy.com.	172800	IN	A	178.79.133.227
+dns4.mtgsy.com.	172800	IN	AAAA	2a01:7e00::f03c:91ff:fe96:f238
+a.ns.mtgsy.com.	172800	IN	A	199.73.83.1
+a.ns.mtgsy.com.	172800	IN	AAAA	2620:1f:8000::1
+b.ns.mtgsy.com.	172800	IN	A	199.73.82.1
+b.ns.mtgsy.com.	172800	IN	AAAA	2620:1f:8002::1
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+pcc.edu.	172800	IN	NS	a.ns.mtgsy.com.
+pcc.edu.	172800	IN	NS	b.ns.mtgsy.com.
+pcc.edu.	172800	IN	NS	dns0.mtgsy.com.
+pcc.edu.	172800	IN	NS	dns3.mtgsy.com.
+pcc.edu.	172800	IN	NS	dns4.mtgsy.com.
+ssekrpe1oqjosg9mo58evsol6hjdrbqn.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710053349 20160703042349 15617 edu. VDMan262ohF4S6hObnlKlEVgeRhQRlBPFCOu0xZFunIm95XueQJbt+9pHqWX2HEIOwtdhe7CEL4srn1uAeX7/PRbIwsTMB2fYuO+pD9UtQuIBI7v8x8j0ulP7++RKR/dhMxFHsD11d0tdje2RoFXTICglhaT88UAHSqqeALobgs=
+ssekrpe1oqjosg9mo58evsol6hjdrbqn.edu.	86400	IN	NSEC3	1 1 0 -  ssle39evver6htid2f81rlg61a31jgm7 NS DS RRSIG 

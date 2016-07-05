@@ -1,0 +1,8 @@
+ns.weduhosting.com.	172800	IN	A	69.84.147.39
+ns2.weduhosting.com.	172800	IN	A	69.84.147.17
+7q2le7vieluti321ab2l6qldj5vvbc9g.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712041913 20160705030913 15617 edu. ElNEIrTh8+1xcyQzMvJ4vu0gAiAjRwC2ZEPD/AxBNndjdlfcVnlGUF9F9vA7awUQCqg3YDYdLfs4lIjRvBNM8HCgpQ7LovY8E2ZrJMcj7IqIRGRycgf/d+DVzGHbgEe9F0sEjxFTD7TyrJUtINhwqKcslownQQ1HPLi4sL/s0d4=
+7q2le7vieluti321ab2l6qldj5vvbc9g.edu.	86400	IN	NSEC3	1 1 0 -  7qcekrb3gs6prm4bpbnrk3qm67l0mtgq NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+sjson.edu.	172800	IN	NS	ns.weduhosting.com.
+sjson.edu.	172800	IN	NS	ns2.weduhosting.com.

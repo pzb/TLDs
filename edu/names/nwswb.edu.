@@ -1,0 +1,14 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+9kuj8n6fmpnvvtpu9esh5iegfulkk38j.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711232359 20160704221359 15617 edu. a9yEGlsF6R6BW9wCvBnblFS7Ai3Gw+YDbZ1cWIdtsjGK4CpF767JR3xwi/5/qqrkEp0JS8S952Y7bi2O3U1xlRxbrTZUV3C8aKeg5RLtyBqXRF7As2J8TgBocbeVsiapllgkHLxGvO6148+emehTbUVYDu1AGwCxHTgQ23WdxJU=
+9kuj8n6fmpnvvtpu9esh5iegfulkk38j.edu.	86400	IN	NSEC3	1 1 0 -  9ms6ts7kiob5hjm2tq50r7v5ah0mekdl NS DS RRSIG 
+nwswb.edu.	172800	IN	NS	ns11.cloudns.net.
+nwswb.edu.	172800	IN	NS	ns12.cloudns.net.
+nwswb.edu.	172800	IN	NS	ns13.cloudns.net.
+nwswb.edu.	172800	IN	NS	ns14.cloudns.net.
+ns11.cloudns.net.	172800	IN	A	109.201.133.194
+ns11.cloudns.net.	172800	IN	AAAA	2a00:1768:1001:9::11
+ns12.cloudns.net.	172800	IN	A	108.59.6.24
+ns12.cloudns.net.	172800	IN	AAAA	2604:9a00:2100:a008:7::1
+ns13.cloudns.net.	172800	IN	A	188.241.115.14
+ns14.cloudns.net.	172800	IN	A	62.75.253.97

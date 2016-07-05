@@ -1,0 +1,12 @@
+1ed0supbinromvimcfegkp0h36dtf973.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712011800 20160705000800 15617 edu. fQV1EN3+vWWZWQhSehl9yz9CrmrpfuKmzyuG6wgHWSnCazb98Mxto3LbkiERo+D5Fufs+VBHHdl498fcm74WRxHm8ejUJ8X72A4EOk7t/PJEseQ8vJzlJeR+PmhYKSnyyi9akBjRxVtnhWBQZyR0cedM1bdUmbDNr8D4t+hf4ek=
+1ed0supbinromvimcfegkp0h36dtf973.edu.	86400	IN	NSEC3	1 1 0 -  1f5qfg4fo9ltbibvtq23kcijkl0p120d NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+citruscollege.edu.	172800	IN	NS	dns4.lacoe.edu.
+citruscollege.edu.	172800	IN	NS	dns5.lacoe.edu.
+citruscollege.edu.	172800	IN	NS	netmgr.lacoe.edu.
+citruscollege.edu.	172800	IN	NS	nccunix.lacoe.edu.
+dns4.lacoe.edu.	172800	IN	A	209.147.28.1
+dns5.lacoe.edu.	172800	IN	A	209.147.28.2
+nccunix.lacoe.edu.	172800	IN	A	156.3.1.8
+netmgr.lacoe.edu.	172800	IN	A	156.3.1.3

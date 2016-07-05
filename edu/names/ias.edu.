@@ -1,0 +1,11 @@
+auth1.dns.cogentco.com.	172800	IN	A	66.28.0.14
+auth1.dns.cogentco.com.	172800	IN	AAAA	2001:550:1:a::d
+auth2.dns.cogentco.com.	172800	IN	A	66.28.0.30
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+aug7maivb7pcpgg5knog99pm7aodbnu8.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160708052034 20160701041034 15617 edu. jm+aWpT9/SeL7LqTsUMcMRVBGQIWpyNfrzrwqanjlxeXw+LH6uM8YEH/F+j+OU0BHgA4YdjYg3fNgzn8FcmwFNyLsCESv5sMhT3W4kU4uBv8REMyfMqcetTZivUBZFkQfGdB54kh8p76GkDu50HN7hqanXPhzvHKk7ImMRHVvNY=
+aug7maivb7pcpgg5knog99pm7aodbnu8.edu.	86400	IN	NSEC3	1 1 0 -  aujdakehgm30r72f489heflfjpbh8ec6 NS DS RRSIG 
+ias.edu.	172800	IN	NS	auth1.dns.cogentco.com.
+ias.edu.	172800	IN	NS	auth2.dns.cogentco.com.
+ias.edu.	172800	IN	NS	xauth1.ias.edu.
+xauth1.ias.edu.	172800	IN	A	192.108.106.226

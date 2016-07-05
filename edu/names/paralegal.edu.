@@ -1,0 +1,15 @@
+ns1.dnspark.com.	172800	IN	A	216.59.57.100
+95k0nbcjmih2mjtbcjgfr974f13vgthb.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711060113 20160704045113 15617 edu. XWDkgioiyu3rebnMwGtYCH4jB1oyig2tv1x8EJujsYro9/TEnKLzg/VUfJcYtuNnpCQlHq8vcHVbM7PT3+VbOZxu3iy6YrOX+MglwA36qWtDKLgqbGc9Il7FSias2ZuwalSOcvd//T5dJP8huN+omhqV1pvzy0feSjF9O9S5tAE=
+95k0nbcjmih2mjtbcjgfr974f13vgthb.edu.	86400	IN	NSEC3	1 1 0 -  971334c4n27vgpa9ss6362c3h3uf6e9q NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+paralegal.edu.	172800	IN	NS	ns1.dnspark.com.
+paralegal.edu.	172800	IN	NS	ns2.dnspark.net.
+paralegal.edu.	172800	IN	NS	ns3.dnspark.net.
+paralegal.edu.	172800	IN	NS	ns4.dnspark.net.
+paralegal.edu.	172800	IN	NS	ns5.dnspark.net.
+ns2.dnspark.net.	172800	IN	A	104.153.199.100
+ns3.dnspark.net.	172800	IN	A	159.253.153.220
+ns4.dnspark.net.	172800	IN	A	104.153.199.100
+ns5.dnspark.net.	172800	IN	A	159.253.153.220
+ns5.dnspark.net.	172800	IN	AAAA	2607:f0d0:2002:b5::2

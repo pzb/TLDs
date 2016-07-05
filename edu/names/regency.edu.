@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+kl0bl2e5ivrl9et9mh6shss4hqe8pn6u.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711185405 20160704174405 15617 edu. Nct5/E746Aw5Mljrydy9/3WLW199Gy/ULGq3dofEYDsH0vN0wj8LUiiwUREpO+BQk8/750k03dEHV+xz+Sbw6OXf5LtT3zz8im5P6wSgex7VkTCQbFJCrODxkfcU5b1k1ujY8ieCbaNKJs7NeYO1epILryWAILudzwGhALaigng=
+kl0bl2e5ivrl9et9mh6shss4hqe8pn6u.edu.	86400	IN	NSEC3	1 1 0 -  klm00oe8plr0bpu3mpomoeqg40fctkh3 NS DS RRSIG 
+regency.edu.	172800	IN	NS	ns1.twtelecom.net.
+regency.edu.	172800	IN	NS	ns2.twtelecom.net.
+ns1.twtelecom.net.	172800	IN	A	216.136.95.2
+ns1.twtelecom.net.	172800	IN	AAAA	2001:4870:6082:3::5
+ns2.twtelecom.net.	172800	IN	A	64.132.94.250
+ns2.twtelecom.net.	172800	IN	AAAA	2001:4870:8000:3::5

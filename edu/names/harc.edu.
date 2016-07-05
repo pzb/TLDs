@@ -1,0 +1,19 @@
+ns1.linode.com.	172800	IN	A	162.159.27.72
+ns1.linode.com.	172800	IN	AAAA	2400:cb00:2049:1::a29f:1a63
+ns2.linode.com.	172800	IN	A	162.159.24.39
+ns2.linode.com.	172800	IN	AAAA	2400:cb00:2049:1::a29f:1827
+ns3.linode.com.	172800	IN	A	162.159.25.129
+ns3.linode.com.	172800	IN	AAAA	2400:cb00:2049:1::a29f:1981
+ns4.linode.com.	172800	IN	A	162.159.26.99
+ns4.linode.com.	172800	IN	AAAA	2400:cb00:2049:1::a29f:1b48
+ns5.linode.com.	172800	IN	A	162.159.24.25
+ns5.linode.com.	172800	IN	AAAA	2400:cb00:2049:1::a29f:1819
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+harc.edu.	172800	IN	NS	ns1.linode.com.
+harc.edu.	172800	IN	NS	ns2.linode.com.
+harc.edu.	172800	IN	NS	ns3.linode.com.
+harc.edu.	172800	IN	NS	ns4.linode.com.
+harc.edu.	172800	IN	NS	ns5.linode.com.
+k7l4ae8uvrg2r3sjk8o9u7iq4cvtvq8p.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711091846 20160704080846 15617 edu. SwyqTgHcplvxyuHzbIe1kglN8xTNLFMPEy2zLW4ZnzvwvAL+KoE71RTazhpl/v9XArxZ693PSbTSpY0YpR7+YKQE1wUqJoAMsJBUD8R22e3idjjBMx0M3jZCv+ZsBPua4wyYaJb8IHrfeGc6BRXUj32c6HFwmHUX02J8iXgwwYY=
+k7l4ae8uvrg2r3sjk8o9u7iq4cvtvq8p.edu.	86400	IN	NSEC3	1 1 0 -  k92geaclnata7v3pchtsh8e6dlbul767 NS DS RRSIG 

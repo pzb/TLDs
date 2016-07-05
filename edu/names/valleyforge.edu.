@@ -1,0 +1,18 @@
+ns1.easydns.com.	172800	IN	A	64.68.192.10
+ns1.easydns.com.	172800	IN	AAAA	2001:1838:f001::10
+ns2.easydns.com.	172800	IN	A	198.41.222.254
+ns2.easydns.com.	172800	IN	AAAA	2400:cb00:2049:1::c629:defe
+remote1.easydns.com.	172800	IN	A	64.68.192.10
+remote2.easydns.com.	172800	IN	A	198.41.222.254
+remote2.easydns.com.	172800	IN	AAAA	2400:cb00:2049:1::c629:defe
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+k9knshn2eb4tk8p0rfifpl3d58fh643p.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709051626 20160702040626 15617 edu. OKKe0JqYxnYR59WHcSpjUhFiDcTdY9FmDT7gxKpzSzxM8Ox56IsnhyE/zQc+jcz6zcDP1GquV6naiak8W6TWt7vG1ELr0l+tn9rZSw+NuTefCayXfEwzXki+jvSWDIw2i6Htm1bCK+bwGhyNBTCSQ3dFF/qUQE/83dzpuUO0v0c=
+k9knshn2eb4tk8p0rfifpl3d58fh643p.edu.	86400	IN	NSEC3	1 1 0 -  k9oui4h841evk1u6hjd9q8h76te8gm8a NS DS RRSIG 
+valleyforge.edu.	172800	IN	NS	ns1.easydns.com.
+valleyforge.edu.	172800	IN	NS	ns2.easydns.com.
+valleyforge.edu.	172800	IN	NS	ns3.easydns.org.
+valleyforge.edu.	172800	IN	NS	ns6.easydns.net.
+valleyforge.edu.	172800	IN	NS	remote1.easydns.com.
+valleyforge.edu.	172800	IN	NS	remote2.easydns.com.
+ns6.easydns.net.	172800	IN	A	198.41.222.254

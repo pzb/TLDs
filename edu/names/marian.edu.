@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+marian.edu.	172800	IN	NS	muns01.marian.edu.
+marian.edu.	172800	IN	NS	muns02.marian.edu.
+marian.edu.	172800	IN	NS	muns03.marian.edu.
+muns01.marian.edu.	172800	IN	A	50.59.52.218
+muns02.marian.edu.	172800	IN	A	199.8.163.219
+muns03.marian.edu.	172800	IN	A	173.240.98.117
+pck5be8psshftul0faobe8ocie2c1kll.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712023019 20160705012019 15617 edu. Lw2W3fKLRv14IobwXHqDMSSx5yg++OTO9dp/F2j+pe6M4vfo+bSrRZ9Ri1UZBZXjlSWlhBitzZwMJ2pUCI4odpSXl7Nl7QitWTMkKq/ed2q33sEuYf52KYKrR20iqDcE9/b8gXrc03TEmiXpJJBsNw2HCAGpLSH7U4vv4e/EmEA=
+pck5be8psshftul0faobe8ocie2c1kll.edu.	86400	IN	NSEC3	1 1 0 -  pg6o81qsmbpc30oc92oj4ki6rdm6orrp NS DS RRSIG 

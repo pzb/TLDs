@@ -1,0 +1,7 @@
+csumb.edu.	172800	IN	NS	ns1.csumb.edu.
+csumb.edu.	172800	IN	NS	ns4.csumb.edu.
+csumb.edu.	172800	IN	NS	dnssec1.cenic.org.
+csumb.edu.	86400	IN	DS	62928 5 1 e917d804ebfbce4682a70a160f37617e44a63dfe
+csumb.edu.	86400	IN	RRSIG	DS 8 2 86400 20160710053348 20160703042348 15617 edu. USo/rTId3YPbUuxkK1jDuOq1aZEH2Bg1nZ2jGGQ1zm1Fk6nlHZGdBuiJ1UkrTGCM5xe01auwuIBNZWtzPy8XJ8DrkI+ORCf9+I0HHUk8uqOrnJ9n/VLZwFesw6qimGrmMyeRmcw6hmvWsAyiIx8j8rl46svsKMIchYW4WOzff30=
+ns1.csumb.edu.	172800	IN	A	198.189.5.3
+ns4.csumb.edu.	172800	IN	A	198.189.5.4

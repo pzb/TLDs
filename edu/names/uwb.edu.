@@ -1,0 +1,11 @@
+86icu2ftc946p5phpliknopbk8pm7l2d.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711204534 20160704193534 15617 edu. F29M8vySM6Db84zv4uT5lTWLO6J+584HqDIqY36IEE+lBaACyq6ltZ9aMbQiXP4VWfDekrDZgW1O1I9vkfAL4mZSGO1z2lwd9pqge+2YhS6s80Vui1E9BQGC/Bll5yCEGlagWgjc0NVFwaQSbha9mLJznmH5T9QE4vgItfebSV4=
+86icu2ftc946p5phpliknopbk8pm7l2d.edu.	86400	IN	NSEC3	1 1 0 -  87nsd69pdsqr546mn7r1e0vlqp2mrge9 NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+uwb.edu.	172800	IN	NS	dns2.uwb.edu.
+uwb.edu.	172800	IN	NS	dns4.uwb.edu.
+uwb.edu.	172800	IN	NS	hanna.cac.washington.edu.
+dns2.uwb.edu.	172800	IN	A	69.91.206.28
+dns4.uwb.edu.	172800	IN	A	69.91.206.29
+hanna.cac.washington.edu.	172800	IN	A	140.142.5.5
+hanna.cac.washington.edu.	172800	IN	AAAA	2607:4000:200:42::5

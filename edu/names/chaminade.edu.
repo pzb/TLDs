@@ -1,0 +1,13 @@
+19evr738e9rmh97sogitmmped75b7b4r.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710122405 20160703111405 15617 edu. k37+4cE70xcd6zNF/rl66rquIAsVAWQl2Hd4XYeMZu5jMrM91gVsV6ktedyVQue5IFale0Sr8rKgm5WmWYMEPmV1X03lpt5JlR4IXI3IvvJjlKwQ02P4mlq92IqQZAxPmgs0UW0DxqPYLUTeXbbUV3KdtCjX1nF8t3gZPFbG/LA=
+19evr738e9rmh97sogitmmped75b7b4r.edu.	86400	IN	NSEC3	1 1 0 -  19upis9i73o21db0rkd7pue70htstsif NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+chaminade.edu.	172800	IN	NS	ns1-auth.sprintlink.net.
+chaminade.edu.	172800	IN	NS	ns2-auth.sprintlink.net.
+chaminade.edu.	172800	IN	NS	ns3-auth.sprintlink.net.
+ns1-auth.sprintlink.net.	172800	IN	A	206.228.179.10
+ns1-auth.sprintlink.net.	172800	IN	AAAA	2600::a1
+ns2-auth.sprintlink.net.	172800	IN	A	144.228.254.10
+ns2-auth.sprintlink.net.	172800	IN	AAAA	2600::a2
+ns3-auth.sprintlink.net.	172800	IN	A	144.228.255.10
+ns3-auth.sprintlink.net.	172800	IN	AAAA	2600::a3

@@ -1,0 +1,8 @@
+mns01.domaincontrol.com.	172800	IN	A	216.69.185.31
+mns02.domaincontrol.com.	172800	IN	A	208.109.255.31
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+suburbantech.edu.	172800	IN	NS	mns01.domaincontrol.com.
+suburbantech.edu.	172800	IN	NS	mns02.domaincontrol.com.
+vnk3odq44n24cnrgpv6ok8b5um0hlp2d.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160708052033 20160701041033 15617 edu. QiRYUPhGy5N8xIAZxVQ/8cSXKsbd6clptbEFL0vRSFGXpQBj+3D1Fq5qjch+wnAXk2JtthFxgLPu960fJWBfMAOKdgQsoX/f8rwYJm+P6lSuhWTz+QTUYprs+TBAhn0bRCBi9pnUjVXz4pdAwFEe8MUhEOK8Mq/l1sUuv2CK5Yc=
+vnk3odq44n24cnrgpv6ok8b5um0hlp2d.edu.	86400	IN	NSEC3	1 1 0 -  vnufaocj4di3m38nqd2kup363catehca NS DS RRSIG 

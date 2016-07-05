@@ -1,0 +1,23 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ca4o37re4oqiegt1inabfk1k95g7u3qt.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051940 20160704040940 15617 edu. BvTMs+1aSJIU5UqQhe+lo2GZETosi0e0OwdIvh5PXPN80J6p55OFJ2AC1eLfB2QfuF0W7mzHhdkuBnTQzD8j2IWtpJwRG6Ij4DFwuJrAjQK3bdjZwmwgkE5csN9uKuSqZwj9+vfGISoACFZofrUSsENJ+TXpj6aT5BdMO8jR6j0=
+ca4o37re4oqiegt1inabfk1k95g7u3qt.edu.	86400	IN	NSEC3	1 1 0 -  cb7jk0s0fgcjssov0ev859u2q6ttostk NS DS RRSIG 
+whitehead.edu.	172800	IN	NS	eur5.akam.net.
+whitehead.edu.	172800	IN	NS	use2.akam.net.
+whitehead.edu.	172800	IN	NS	use5.akam.net.
+whitehead.edu.	172800	IN	NS	usw2.akam.net.
+whitehead.edu.	172800	IN	NS	asia1.akam.net.
+whitehead.edu.	172800	IN	NS	asia2.akam.net.
+whitehead.edu.	172800	IN	NS	ns1-37.akam.net.
+whitehead.edu.	172800	IN	NS	ns1-173.akam.net.
+asia1.akam.net.	172800	IN	A	95.100.175.64
+asia2.akam.net.	172800	IN	A	95.101.36.64
+eur5.akam.net.	172800	IN	A	23.74.25.64
+ns1-173.akam.net.	172800	IN	A	193.108.91.173
+ns1-173.akam.net.	172800	IN	AAAA	2600:1401:2::ad
+ns1-37.akam.net.	172800	IN	A	193.108.91.37
+ns1-37.akam.net.	172800	IN	AAAA	2600:1401:2::25
+use2.akam.net.	172800	IN	A	96.7.49.64
+use5.akam.net.	172800	IN	A	2.16.40.64
+use5.akam.net.	172800	IN	AAAA	2600:1401:1::40
+usw2.akam.net.	172800	IN	A	184.26.161.64

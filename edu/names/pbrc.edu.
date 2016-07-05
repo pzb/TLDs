@@ -1,0 +1,16 @@
+ns5.dnsmadeeasy.com.	172800	IN	A	208.94.148.13
+ns5.dnsmadeeasy.com.	172800	IN	AAAA	2600:1800:5::1
+ns6.dnsmadeeasy.com.	172800	IN	A	208.80.124.13
+ns7.dnsmadeeasy.com.	172800	IN	A	208.80.126.13
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+j8pdtkg61a6c8b0lnj616q349dfr2ccd.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709070404 20160702055404 15617 edu. PwAMX69n4RyYV4frpjeOtL38hkrFHlvkLb21v3XqyGBaJ91MfPEAnxKpjBAGao0O0qzwIik8iNO3tY838bN38eWVd9Qa5/hLClKbYxRlj+dU0OAaPWfBMg+SskHFtaPryjv+G2d7Fiv5It25RXFvGy0EZwalPDRr0LzARhBsmSM=
+j8pdtkg61a6c8b0lnj616q349dfr2ccd.edu.	86400	IN	NSEC3	1 1 0 -  j9nor94iabtg8ha7fkp4jg6aqa2qi7mj NS DS RRSIG 
+bigdog.lsu.edu.	172800	IN	A	192.16.176.1
+bigdog.lsu.edu.	172800	IN	AAAA	2620:105:b050::1
+pbrc.edu.	172800	IN	NS	ns.pbrc.edu.
+pbrc.edu.	172800	IN	NS	ns5.dnsmadeeasy.com.
+pbrc.edu.	172800	IN	NS	ns6.dnsmadeeasy.com.
+pbrc.edu.	172800	IN	NS	ns7.dnsmadeeasy.com.
+pbrc.edu.	172800	IN	NS	bigdog.lsu.edu.
+ns.pbrc.edu.	172800	IN	A	198.62.89.155

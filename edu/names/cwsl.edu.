@@ -1,0 +1,16 @@
+ns0.dnsmadeeasy.com.	172800	IN	A	208.94.148.2
+ns1.dnsmadeeasy.com.	172800	IN	A	208.80.124.2
+ns2.dnsmadeeasy.com.	172800	IN	A	208.80.126.2
+ns3.dnsmadeeasy.com.	172800	IN	A	208.80.125.2
+ns3.dnsmadeeasy.com.	172800	IN	AAAA	2600:1801:3::1
+ns4.dnsmadeeasy.com.	172800	IN	A	208.80.127.2
+ns4.dnsmadeeasy.com.	172800	IN	AAAA	2600:1802:4::1
+8vfh055qqiotd3o16fdi6101dc0dghmb.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051941 20160704040941 15617 edu. LPOrz6v8vuRv6JOB07bjX4l6qwfLa5nfBSryPBRN6s2sVwSe1/Z4CgUq/Wr9kZO2i5y4UNT0VXwEOEr2SuI3BG37s7TzL028P//nwcMUCPFhoWkITCoXv3T4RYOCJrobldUKMd9Iecs1TH/J+duS54gOqWSwY+wmDF3pBI6XtPU=
+8vfh055qqiotd3o16fdi6101dc0dghmb.edu.	86400	IN	NSEC3	1 1 0 -  8vjf7dtur42duoqkppdplvaaoq7ln0as NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+cwsl.edu.	172800	IN	NS	ns0.dnsmadeeasy.com.
+cwsl.edu.	172800	IN	NS	ns1.dnsmadeeasy.com.
+cwsl.edu.	172800	IN	NS	ns2.dnsmadeeasy.com.
+cwsl.edu.	172800	IN	NS	ns3.dnsmadeeasy.com.
+cwsl.edu.	172800	IN	NS	ns4.dnsmadeeasy.com.

@@ -1,0 +1,10 @@
+ali.ns.cloudflare.com.	172800	IN	A	173.245.58.59
+ali.ns.cloudflare.com.	172800	IN	AAAA	2400:cb00:2049:1::adf5:3a3b
+ken.ns.cloudflare.com.	172800	IN	A	173.245.59.127
+ken.ns.cloudflare.com.	172800	IN	AAAA	2400:cb00:2049:1::adf5:3b7f
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+clarkart.edu.	172800	IN	NS	ali.ns.cloudflare.com.
+clarkart.edu.	172800	IN	NS	ken.ns.cloudflare.com.
+vce7vuk05unbgi4q848ih760ptlbv92l.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709234809 20160702223809 15617 edu. YdnDS973sfTDRIe2U5YO58iUtDAR2Cw8PYs8x7fFWzRCLc3OfdbJtTicNszBeZNAAOuyPmQEM0bkOVlekMIwuaV9zB5PMMcdKvnO2Dqntvi9aolzucY0j4r0y+PXKy+36ksciXO5858vw0RUgigRqhKX/Jb/JnAHwJy3Y8Pq7KI=
+vce7vuk05unbgi4q848ih760ptlbv92l.edu.	86400	IN	NSEC3	1 1 0 -  vd7u774a8q6i982vl0mb7fprkjdcf10q NS DS RRSIG 

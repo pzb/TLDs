@@ -1,0 +1,16 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+e2ksoilsah8uovl817nd777j8ui81hht.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712011113 20160705000113 15617 edu. AVcNTTTNtbKGXkHtmagDs3qMC7fWkWyu7jF4RRbDkBiOdjtyOrYdBJIiXGxw/3m+ZFPbmVT4ELLb90UlV6i/vLb1LdUPx74QP9pocO4KHutE/dcWs18EP0oy0HkFtP/rdkCVJWe2UMbVYWEboRQzT6X16+WGnZYpYbgHV5wGquY=
+e2ksoilsah8uovl817nd777j8ui81hht.edu.	86400	IN	NSEC3	1 1 0 -  e4b9q9qmttrl6mcldd46psjvptlfv741 NS DS RRSIG 
+ucumberlands.edu.	172800	IN	NS	ns1.p16.dynect.net.
+ucumberlands.edu.	172800	IN	NS	ns2.p16.dynect.net.
+ucumberlands.edu.	172800	IN	NS	ns3.p16.dynect.net.
+ucumberlands.edu.	172800	IN	NS	ns4.p16.dynect.net.
+ucumberlands.edu.	172800	IN	NS	uc2.ucumberlands.edu.
+ucumberlands.edu.	172800	IN	NS	mail.ucumberlands.edu.
+mail.ucumberlands.edu.	172800	IN	A	192.188.130.9
+uc2.ucumberlands.edu.	172800	IN	A	192.188.130.48
+ns1.p16.dynect.net.	172800	IN	A	208.78.70.16
+ns2.p16.dynect.net.	172800	IN	A	204.13.250.16
+ns3.p16.dynect.net.	172800	IN	A	208.78.71.16
+ns4.p16.dynect.net.	172800	IN	A	204.13.251.16

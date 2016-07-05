@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+cqqdopmalu1q11ek5ln2cveqjq1k3e18.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711054036 20160704043036 15617 edu. kjux6OZeg48y/m2y9d6cH2Dorf3XYIANNxK1PonbRbHosvAv5oz34WEQcpxDK+UmGUggbzhSRUtUScFkhaEzGKlQ0szoJxi6wKcu6m023F+o996QhlislalXYRbw1L8Rfpd1Xga8vrViW4sFBPwVV3xCVxYQarC5ir19+Z0zzbc=
+cqqdopmalu1q11ek5ln2cveqjq1k3e18.edu.	86400	IN	NSEC3	1 1 0 -  cr9jkmj2alb3m3fpa8irsv3kte5bvhki NS DS RRSIG 
+sons1.ct.edu.	172800	IN	A	149.152.13.1
+sons2.ct.edu.	172800	IN	A	149.152.13.2
+sons3.ct.edu.	172800	IN	A	149.152.64.79
+threerivers.edu.	172800	IN	NS	sons1.ct.edu.
+threerivers.edu.	172800	IN	NS	sons2.ct.edu.
+threerivers.edu.	172800	IN	NS	sons3.ct.edu.

@@ -1,0 +1,16 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+apsu.edu.	172800	IN	NS	ns1.tbr.edu.
+apsu.edu.	172800	IN	NS	ns1.tec.net.
+apsu.edu.	172800	IN	NS	ns2.tbr.edu.
+apsu.edu.	172800	IN	NS	dns1.tbr.edu.
+apsu.edu.	172800	IN	NS	apbrns2.apsu.edu.
+apsu.edu.	172800	IN	NS	apmyxdns1.apsu.edu.
+apbrns2.apsu.edu.	172800	IN	A	198.146.56.201
+apmyxdns1.apsu.edu.	172800	IN	A	198.146.56.200
+jucf80chogerohkphm4dtan6jbglls9e.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712000012 20160704225012 15617 edu. pNwt6Yer89GgLs+frgHkaxXpH0y/5yVYtG8/5DqmxJvfwHK05zZhVdrdWg3Xor3eeUaqi5E3EOwksSfOW8YCPOtWF5H32eamjByHCZzNGWidx9Xy1XtyPNkKKQbCLmEobmbk6/cCHZtt6wVxsr9HKYzej0xMdSLqwo8cdmo84L8=
+jucf80chogerohkphm4dtan6jbglls9e.edu.	86400	IN	NSEC3	1 1 0 -  jvku2i2d100ja62tpqlkhb7f2qf53cma NS DS RRSIG 
+dns1.tbr.edu.	172800	IN	A	13.89.51.150
+ns1.tbr.edu.	172800	IN	A	198.146.12.10
+ns2.tbr.edu.	172800	IN	A	141.225.215.120
+ns1.tec.net.	172800	IN	A	198.146.3.1

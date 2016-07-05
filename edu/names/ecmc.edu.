@@ -1,0 +1,10 @@
+4gid6l37rp646qton5ku1r38frlnearj.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710163441 20160703152441 15617 edu. AI25huP4GypcGAWhsQyoZZg6MCns7q0/FXMjSKNaBbWQMy+gkoHDgHuFWnGKBEYJQR4rw+I70xoaegrlxGoUulmm38ZsBOOspxuhIb78cnPuy7ctuYazBbs/cUZ7uRAOuANCcG5+RtigJzsfJYhookocB6T21Wal7swpTfHAtfY=
+4gid6l37rp646qton5ku1r38frlnearj.edu.	86400	IN	NSEC3	1 1 0 -  4h4q55ngjr2tj6ocv2phte7u5jgg7k6h NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ecmc.edu.	172800	IN	NS	ns1.ecmc.edu.
+ecmc.edu.	172800	IN	NS	ns2.ecmc.edu.
+ecmc.edu.	172800	IN	NS	ns3.ecmc.edu.
+ns1.ecmc.edu.	172800	IN	A	161.136.245.7
+ns2.ecmc.edu.	172800	IN	A	161.136.245.8
+ns3.ecmc.edu.	172800	IN	A	161.136.245.9

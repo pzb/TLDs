@@ -1,0 +1,14 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ltu.edu.	172800	IN	NS	ns1.ltu.edu.
+ltu.edu.	172800	IN	NS	ns3.ltu.edu.
+ltu.edu.	172800	IN	NS	dns1.merit.net.
+ltu.edu.	172800	IN	NS	dns3.merit.net.
+ns1.ltu.edu.	172800	IN	A	198.111.37.18
+ns3.ltu.edu.	172800	IN	A	198.111.37.17
+o97cmkkdptb1akblh5b789pamu5gmnqg.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711211705 20160704200705 15617 edu. HYoG1NLoZ9N8T+Bx2X6kNOdnj8572qRixUmwaJVoPzgg6xP+S2rLY6FURRtRpvU0VQdlCSWNNzJXmLn747wNIFx6AzfYJRQPtnY/zztggklkLm/CafoIz8UdEPKeL0kUtxMlxX9o8ZSwkmb9VSE7e1gsp8hZtJqfZ+fvo/0OdD0=
+o97cmkkdptb1akblh5b789pamu5gmnqg.edu.	86400	IN	NSEC3	1 1 0 -  oaapg16mhm6naridapf3bt9012sqmg2e NS DS RRSIG 
+dns1.merit.net.	172800	IN	A	198.108.1.43
+dns1.merit.net.	172800	IN	AAAA	2001:48a8:6880:1::43
+dns3.merit.net.	172800	IN	A	207.75.118.150
+dns3.merit.net.	172800	IN	AAAA	2001:48a8:6880:73::150

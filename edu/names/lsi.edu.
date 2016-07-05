@@ -1,0 +1,16 @@
+ns-472.awsdns-59.com.	172800	IN	A	205.251.193.216
+dns1.easydns.com.	172800	IN	A	64.68.192.10
+dns1.easydns.com.	172800	IN	AAAA	2001:1838:f001::10
+39j96iq4sub6md3nq0jq30h66167q29p.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712012217 20160705001217 15617 edu. heIZKLspC/jrgaqmvlwunJal9Aek3b5g/RETKqNkqXO0MRQV9d3LY5+l1iv0JTqtw7SPIHiGC2VDo6bbK1+Pab1p6yBso5bmV87FNXR7Ikk+z6XQj/jAHoRetgz+MakqklPEEmm+D0RrsFgdNEtE2BBoSa13435QPrhe8waCMJI=
+39j96iq4sub6md3nq0jq30h66167q29p.edu.	86400	IN	NSEC3	1 1 0 -  3ancqhh49kami7q40svqpgtrfj1jvdrc NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+lsi.edu.	172800	IN	NS	dns1.easydns.com.
+lsi.edu.	172800	IN	NS	dns2.easydns.net.
+lsi.edu.	172800	IN	NS	ns-472.awsdns-59.com.
+lsi.edu.	172800	IN	NS	ns-802.awsdns-36.net.
+lsi.edu.	172800	IN	NS	ns-1157.awsdns-16.org.
+lsi.edu.	172800	IN	NS	ns-1659.awsdns-15.co.uk.
+ns-802.awsdns-36.net.	172800	IN	A	205.251.195.34
+dns2.easydns.net.	172800	IN	A	198.41.222.254
+dns2.easydns.net.	172800	IN	AAAA	2400:cb00:2049:1::c629:defe

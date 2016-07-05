@@ -1,0 +1,9 @@
+dns1.easydns.com.	172800	IN	A	64.68.192.10
+dns1.easydns.com.	172800	IN	AAAA	2001:1838:f001::10
+monmouth.edu.	172800	IN	NS	dns1.easydns.com.
+monmouth.edu.	172800	IN	NS	dns2.easydns.net.
+monmouth.edu.	172800	IN	NS	dns3.easydns.org.
+monmouth.edu.	86400	IN	DS	38868 7 2 b7fd6423218a80a2d1812a10e7eb35018d6ae35368d480a58d05a408fe0a81d1
+monmouth.edu.	86400	IN	RRSIG	DS 8 2 86400 20160708052032 20160701041032 15617 edu. OzeaSyCdf2KlNXGj2YZW10UnCmffO0EzHFBLj/8UxDZYPgADWY7fD++5ZDnlp2qljOu+2qlKjBfEmbAwwNQHYIm9oEdBnQ2tkwrcC2x9HqA24NGyZLF7ItUpYIFMUvg5x+5TgW8j0rMfcUfw6BYh24Fso4iF/hij4eJ9LyjQui0=
+dns2.easydns.net.	172800	IN	A	198.41.222.254
+dns2.easydns.net.	172800	IN	AAAA	2400:cb00:2049:1::c629:defe

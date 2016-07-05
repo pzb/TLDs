@@ -1,0 +1,17 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+avila.edu.	172800	IN	NS	argus.more.net.
+avila.edu.	172800	IN	NS	osage.coreserv.more.net.
+avila.edu.	172800	IN	NS	current.coreserv.more.net.
+avila.edu.	172800	IN	NS	meramec.coreserv.more.net.
+avila.edu.	172800	IN	NS	chariton.coreserv.more.net.
+avila.edu.	172800	IN	NS	gasconade.coreserv.more.net.
+dlcvt5vk5k38ndn84fhbdii5d95v4tv3.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712032448 20160705021448 15617 edu. g29lkwofuXtS4kdo02edMC+lLZajehndB6JGmTAlvMZiuEank055uM5oxl0MCHtASHUBVBDnyqyqLvkCZw/lPP/yPmCfZ+ZFrZ8VwdvjXAqsXI3ECBN7w9lI07OImiDy3HOqO/6pAMeVNoFi/H1ksi04fBz63zic3mzPUSpZAf4=
+dlcvt5vk5k38ndn84fhbdii5d95v4tv3.edu.	86400	IN	NSEC3	1 1 0 -  dmhl8dp2lpnj9jjpqo80d72kkq8g9qu7 NS DS RRSIG 
+argus.more.net.	172800	IN	A	150.199.1.11
+argus.more.net.	172800	IN	AAAA	2610:e0:1:1:150:199:1:11
+chariton.coreserv.more.net.	172800	IN	A	150.199.1.10
+current.coreserv.more.net.	172800	IN	A	150.199.101.1
+gasconade.coreserv.more.net.	172800	IN	A	150.199.178.1
+meramec.coreserv.more.net.	172800	IN	A	150.199.8.1
+osage.coreserv.more.net.	172800	IN	A	150.199.199.1

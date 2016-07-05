@@ -1,0 +1,8 @@
+ns.rackspace.com.	172800	IN	A	69.20.95.4
+ns2.rackspace.com.	172800	IN	A	65.61.188.4
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+everestcollege.edu.	172800	IN	NS	ns.rackspace.com.
+everestcollege.edu.	172800	IN	NS	ns2.rackspace.com.
+jt4aifu97gchpmktmjc97ikugbm7p8vf.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051939 20160704040939 15617 edu. Yy/No9Im4fIQ5Cz4JfM9CmO5o0s9l4RtrVKYbJJO0rBInAa31YM+xoElv0J/U/pjDH0Q/Y+aXqPTEBgr/+hPqPMhxM7cmCcy9RYeinSgL+OJL0DH+m2lDVi6C1+26rMaZqfB2SgUJLLlq4/lv1kM+dznfFCCuDlCgeBjZiJCeOM=
+jt4aifu97gchpmktmjc97ikugbm7p8vf.edu.	86400	IN	NSEC3	1 1 0 -  jucf80chogerohkphm4dtan6jbglls9e NS DS RRSIG 

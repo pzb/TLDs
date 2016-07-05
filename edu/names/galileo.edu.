@@ -1,0 +1,16 @@
+ns-cloud-c1.googledomains.com.	172800	IN	A	216.239.32.108
+ns-cloud-c1.googledomains.com.	172800	IN	AAAA	2001:4860:4802:32::6c
+ns-cloud-c2.googledomains.com.	172800	IN	A	216.239.34.108
+ns-cloud-c2.googledomains.com.	172800	IN	AAAA	2001:4860:4802:34::6c
+ns-cloud-c3.googledomains.com.	172800	IN	A	216.239.36.108
+ns-cloud-c3.googledomains.com.	172800	IN	AAAA	2001:4860:4802:36::6c
+ns-cloud-c4.googledomains.com.	172800	IN	A	216.239.38.108
+ns-cloud-c4.googledomains.com.	172800	IN	AAAA	2001:4860:4802:38::6c
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+galileo.edu.	172800	IN	NS	ns-cloud-c1.googledomains.com.
+galileo.edu.	172800	IN	NS	ns-cloud-c2.googledomains.com.
+galileo.edu.	172800	IN	NS	ns-cloud-c3.googledomains.com.
+galileo.edu.	172800	IN	NS	ns-cloud-c4.googledomains.com.
+u4gucuv56ct9gc68eego08asagm25s9u.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711145314 20160704134314 15617 edu. kPo38n/h+v3RJvwfMRA/sN2W5pNKlnw/vE47S3P/sE47VO2Tp7/MDMLt7icXhtEY6RrvtV+giI+fJDLXyAL+I8CJG+n2dsBlHV2JQd0kEPMIwmAKZIZWw38zo3Oz1x8+kwpuff+cJR817/whjSWT0DuV3+dM7KSOexn+N19iKFI=
+u4gucuv56ct9gc68eego08asagm25s9u.edu.	86400	IN	NSEC3	1 1 0 -  u7amvtqtp3clb6ggj4pcta4156v0c0qf NS DS RRSIG 

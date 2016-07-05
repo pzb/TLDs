@@ -1,0 +1,10 @@
+ns1.jones.com.	172800	IN	A	54.69.169.1
+ns2.jones.com.	172800	IN	A	54.68.171.74
+ns3.jones.com.	172800	IN	A	66.179.30.149
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+bq2vlgeho4bhqvd0qsegtsnsk21is9kk.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711102752 20160704091752 15617 edu. cz5nN98nlLIR34L7Fpl8M08c2R1tSno5bacWjgmcYBy/HICiRmIMqcO+fCNyIS5bg6ZXQY5v9pD6GrBuniEu1AKqIkPuVODzTyjQcdZ3Z1AfX1LtfYvnXVKyzgPN8utP8YJdQEqFHjBCFzOBFe9dHjAGFB1vCpHEhEuemc0zMW8=
+bq2vlgeho4bhqvd0qsegtsnsk21is9kk.edu.	86400	IN	NSEC3	1 1 0 -  bqpjjjpctki47m8epdrq1ol3udbrifou NS DS RRSIG 
+jonesinternational.edu.	172800	IN	NS	ns1.jones.com.
+jonesinternational.edu.	172800	IN	NS	ns2.jones.com.
+jonesinternational.edu.	172800	IN	NS	ns3.jones.com.

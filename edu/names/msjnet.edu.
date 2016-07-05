@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+msjnet.edu.	172800	IN	NS	ns1.onecommunications.net.
+msjnet.edu.	172800	IN	NS	ns2.onecommunications.net.
+msjnet.edu.	172800	IN	NS	ns3.onecommunications.net.
+qama3qgps6c0hlv0i6n9jh24r25siib0.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712024005 20160705013005 15617 edu. W8sLjOVO/IggaYSuTVeJWsNL1HlRn44kTxQ6PyWWlVGx+pU24daw9QlN/ad6j7gmTQ2eNsYZccEpk/WBr9A+cTmyezcgHKwgYDzuJNw86Vc6gUw0K1e6d56x8MljJ7yP4m1qBMt7mh1bSfCn0FPY0YUbvxxgerZ6IYT0bnk9VMc=
+qama3qgps6c0hlv0i6n9jh24r25siib0.edu.	86400	IN	NSEC3	1 1 0 -  qcbc0bilkun7s4lq42368b1un1j1gn8i NS DS RRSIG 
+ns1.onecommunications.net.	172800	IN	A	64.65.208.2
+ns2.onecommunications.net.	172800	IN	A	64.65.223.2
+ns3.onecommunications.net.	172800	IN	A	64.65.196.2

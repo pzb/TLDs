@@ -1,0 +1,8 @@
+ns4.zoneedit.com.	172800	IN	A	162.220.34.74
+ns8.zoneedit.com.	172800	IN	A	136.0.0.131
+14a38u3lshmknpjjgb1j6una1p3siqs5.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710053345 20160703042345 15617 edu. WToUJXFKOaYP7v0ZfcxG4IFgTg743mwLPI7aPrxPKAFpTrLRJfp/xRtnF+qW1bMjeXlxgoBO+BqW4Hj+qs71utVk+wZnI3EVLlgcglQkmle4MP8HtBFT2vvxrGI3cz1FElMQtiHG4c2wKZsi8s29b/79qVzK9rc2SlLyN0XXiGY=
+14a38u3lshmknpjjgb1j6una1p3siqs5.edu.	86400	IN	NSEC3	1 1 0 -  14pj7h7elaug4rk38hmrrrsf4vrpjo1j NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+rustcollege.edu.	172800	IN	NS	ns4.zoneedit.com.
+rustcollege.edu.	172800	IN	NS	ns8.zoneedit.com.

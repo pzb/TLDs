@@ -1,0 +1,8 @@
+ns859.websitewelcome.com.	172800	IN	A	192.185.157.173
+ns860.websitewelcome.com.	172800	IN	A	192.185.157.174
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+jacksonvillebeautyinstitute.edu.	172800	IN	NS	ns859.websitewelcome.com.
+jacksonvillebeautyinstitute.edu.	172800	IN	NS	ns860.websitewelcome.com.
+rt14jdbqthbhm93bc8j79m4hocb8d7ok.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710184927 20160703173927 15617 edu. BrsR/+yvveElGdILG8gQkD8g5UHE3xvRptSV+02qBB3+hONMuPyJiPoJOwzqg60XfxMEVhnuF19k+DvIsVe000MMHHddsXN/a7cpUdnYwWbPLFtlOdzApozZTM6r43+p2ksZbtTjrSzkbG4OQiu+6VtsvBdlEG2jmm6Tovv7IIQ=
+rt14jdbqthbhm93bc8j79m4hocb8d7ok.edu.	86400	IN	NSEC3	1 1 0 -  rtop0lojqpfaia42e7grouj9ehqd4coe NS DS RRSIG 

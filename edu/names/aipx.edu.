@@ -1,0 +1,10 @@
+ns-425.awsdns-53.com.	172800	IN	A	205.251.193.169
+5si50c9fu25bml33n0iptoiqcvo0to0g.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160708052030 20160701041030 15617 edu. DtJqRt9Nod7g0maxf7SToEpSvs3BuAqsJgYvB3AdtYaEjSg/09IZFmKVJ58+7hiuKmzAsa/GSwH7HJM8PPtfST+8q2fByfQttOZvzpbPsMxMbmGQcmHl91HwLJqDcv8aLwnomAqtE/7kCTmXzxjdzERgg2D3XOU8/iPjhgKaAF4=
+5si50c9fu25bml33n0iptoiqcvo0to0g.edu.	86400	IN	NSEC3	1 1 0 -  5stv4pit86j8o0f6cj0oa20v8pla5je7 NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+aipx.edu.	172800	IN	NS	ns-425.awsdns-53.com.
+aipx.edu.	172800	IN	NS	ns-711.awsdns-24.net.
+aipx.edu.	172800	IN	NS	ns-1038.awsdns-01.org.
+aipx.edu.	172800	IN	NS	ns-1806.awsdns-33.co.uk.
+ns-711.awsdns-24.net.	172800	IN	A	205.251.194.199

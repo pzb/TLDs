@@ -1,0 +1,8 @@
+uni-stuttgart.edu.	172800	IN	NS	dns0.uni-stuttgart.de.
+uni-stuttgart.edu.	172800	IN	NS	dns1.belwue.de.
+uni-stuttgart.edu.	172800	IN	NS	dns1.uni-stuttgart.edu.
+uni-stuttgart.edu.	172800	IN	NS	dns3.belwue.de.
+uni-stuttgart.edu.	86400	IN	DS	39756 7 2 c9055f289bb0e92cb03b7253be7f8f4e3767bc932fc3fe59a6049130fe852c1b
+uni-stuttgart.edu.	86400	IN	RRSIG	DS 8 2 86400 20160708052036 20160701041036 15617 edu. o6ndMw/VwnJk9o4CBqv4kD7YeNLuIraQj1w+10tUzNv3B0YJJnAry7eccPno+P8FzYo6j/Tia7ddLZetwVI2gM2Ti7gCo7QLnksg9gGrBsEO9Yn8p2qXUTo5xlZac55uzpIib1YRlAshG/eVN8DLi1CvpppldO15t4LrPnifXIE=
+dns1.uni-stuttgart.edu.	172800	IN	A	129.69.252.34
+dns1.uni-stuttgart.edu.	172800	IN	AAAA	2001:7c0:7c0:1::babe:face

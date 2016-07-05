@@ -1,0 +1,15 @@
+ns1.webfaction.com.	172800	IN	A	108.168.213.81
+ns1.webfaction.com.	172800	IN	AAAA	2607:f0d0:1103:106::15
+ns2.webfaction.com.	172800	IN	A	178.79.142.142
+ns2.webfaction.com.	172800	IN	AAAA	2a01:7e00::f03c:91ff:fe93:c381
+ns3.webfaction.com.	172800	IN	A	198.101.157.188
+ns4.webfaction.com.	172800	IN	A	173.230.141.144
+ns4.webfaction.com.	172800	IN	AAAA	2600:3c02::f03c:91ff:fe93:407
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+avucfs606qnef38qcpqbdrj6uoqg4cb3.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711212138 20160704201138 15617 edu. wf2CiRtvndGDC6L48M0DzcAR7XWwVVePArHAr0PME89U0gXPzzFtSdFL9H/5OGlCCibVnNKiuHrn5BjOlZgZmbODT4mR5/fNOENWBuCbvlCFWKQgpm/MZIwaq8pFUTkuq/aOt2S5nPYmLXjCx/3B4qtCmLubEZZFGTIYR7KSw0U=
+avucfs606qnef38qcpqbdrj6uoqg4cb3.edu.	86400	IN	NSEC3	1 1 0 -  b1oslkq3624j4fi3a07biqhncr70tgpn NS DS RRSIG 
+westerntech.edu.	172800	IN	NS	ns1.webfaction.com.
+westerntech.edu.	172800	IN	NS	ns2.webfaction.com.
+westerntech.edu.	172800	IN	NS	ns3.webfaction.com.
+westerntech.edu.	172800	IN	NS	ns4.webfaction.com.

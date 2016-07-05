@@ -1,0 +1,14 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+hq233ol0ei69l28qgo7on82ht3kp1o96.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712013926 20160705002926 15617 edu. gyjdvJvnnFsegl/G4RdYvA5GXPLNN4Kfg1/+TkzYD43gN3mvqPkBW35/JOGaiIrvXqVEu8rzx8r49ncH+GZaNINqqBNblW4E2nxTRPkqI5Z6QBmx8a8ZuTGs1Y96OAk7CJKzZBtolwkQy3Fw3ch11WVsnmSO45KK+29BpARBeX0=
+hq233ol0ei69l28qgo7on82ht3kp1o96.edu.	86400	IN	NSEC3	1 1 0 -  hrn3q1mb9jkealhe60j7qdi9ajmm3k2j NS DS RRSIG 
+porterchester.edu.	172800	IN	NS	nsa0.lemonade.net.
+porterchester.edu.	172800	IN	NS	nsa1.lemonade.net.
+porterchester.edu.	172800	IN	NS	nsa2.lemonade.net.
+porterchester.edu.	172800	IN	NS	nsa3.lemonade.net.
+porterchester.edu.	172800	IN	NS	nsa4.lemonade.net.
+nsa0.lemonade.net.	172800	IN	A	208.94.148.2
+nsa1.lemonade.net.	172800	IN	A	208.80.124.2
+nsa2.lemonade.net.	172800	IN	A	208.80.126.2
+nsa3.lemonade.net.	172800	IN	A	208.80.125.2
+nsa4.lemonade.net.	172800	IN	A	208.80.127.2

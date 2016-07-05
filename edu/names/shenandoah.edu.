@@ -1,0 +1,10 @@
+1457pvjada8lcmej3veatgrs4otcejpv.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709011536 20160702000536 15617 edu. uCSIywVD0LMblbT82wYFIIYsz8gR0xDqdRpjhAAwsDUh7WC8f5UNA19TCFs0oWGzQkhZztGpTQ2Wi+1l9g9ZBt/aOp8COfogRgmLcfKZ9ZU3/IbSl46y3VdC+LmkZ7m7ctAvoXTfK/mRwNHmlTWmZ/6xmcixlmQTAxM+Wd6yDb0=
+1457pvjada8lcmej3veatgrs4otcejpv.edu.	86400	IN	NSEC3	1 1 0 -  14a38u3lshmknpjjgb1j6una1p3siqs5 NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+shenandoah.edu.	172800	IN	NS	ns1.telcove.net.
+shenandoah.edu.	172800	IN	NS	ns2.telcove.net.
+shenandoah.edu.	172800	IN	NS	ns3.telcove.net.
+ns1.telcove.net.	172800	IN	A	209.247.1.129
+ns2.telcove.net.	172800	IN	A	209.244.6.146
+ns3.telcove.net.	172800	IN	A	209.247.1.130

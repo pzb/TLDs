@@ -1,0 +1,8 @@
+ns1.entry2.com.	172800	IN	A	192.185.159.254
+ns2.entry2.com.	172800	IN	A	192.185.159.253
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+hdmubthum0gga9pru0fei32d001l6oc1.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709051625 20160702040625 15617 edu. GM9BZma2qL89FkluNnwTcRNISkYSIqqZ9tBcikfsSYxJh2Rp2jg7e8cVBYUmIM9gUcLta11kmhuObu6GMBNtlN+uoiMAQWTZuqtlI9mHaJDUmeetxm6aa2uUasfLBp8Oj72Z+4UxdDzdtSildLOCghn5IJOo3UBJcLSxamaixa0=
+hdmubthum0gga9pru0fei32d001l6oc1.edu.	86400	IN	NSEC3	1 1 0 -  he9a0l4p56naeoho8tvtv9e6bqahgv9v NS DS RRSIG 
+wadecollege.edu.	172800	IN	NS	ns1.entry2.com.
+wadecollege.edu.	172800	IN	NS	ns2.entry2.com.

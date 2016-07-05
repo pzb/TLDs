@@ -1,0 +1,8 @@
+ns12.zoneedit.com.	172800	IN	A	46.101.18.226
+ns14.zoneedit.com.	172800	IN	A	23.27.48.61
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+fernbank.edu.	172800	IN	NS	ns12.zoneedit.com.
+fernbank.edu.	172800	IN	NS	ns14.zoneedit.com.
+ja85p7eolktg7uc8vk82t1jjb9lurm35.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711064240 20160704053240 15617 edu. BKGyTf87JWCTvMzYUeeqKeVo+AB/31XkLeY/1svnOqnqpwPbq0AbUDngDHpBmQi/6DR0aELJ5xsajwTM0XlZG33sbGEpcJh5NzO28Eyk9/fjkxXBijw5R0M3q8DmSmi9y3U2Rnm1NIlRykpwR9+kAoblX8xlqoTpxKyqo8I3HGw=
+ja85p7eolktg7uc8vk82t1jjb9lurm35.edu.	86400	IN	NSEC3	1 1 0 -  jangtgotqhuhk8fle6647l0tb5c9rfg4 NS DS RRSIG 

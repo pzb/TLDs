@@ -1,0 +1,12 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+elo1n38nv37j0ufu0s35t8opb0dknk3e.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711123848 20160704112848 15617 edu. dhC966FnD1SRlkoGTEUzCOqkofLA6ymofkjOwmDmZL0SrxC+nZaF5KDbknGvW7XEwwyKbz6kq1v5s19BJPMout8m5hpVsT7l9X0aIRRX/k0xIS5FENw63yIwMz7l/akTobQgJ8Ivb+a49whh3S+9wgRP+byd3+o0ajWOMcuro2Q=
+elo1n38nv37j0ufu0s35t8opb0dknk3e.edu.	86400	IN	NSEC3	1 1 0 -  ensl5vvhkjqo3t019ueqvai1dv9ergnq NS DS RRSIG 
+pts.edu.	172800	IN	NS	pgh.nauticom.net.
+pts.edu.	172800	IN	NS	pgh1.nauticom.net.
+pts.edu.	172800	IN	NS	dns01.nauticom.net.
+pts.edu.	172800	IN	NS	dns02.nauticom.net.
+dns01.nauticom.net.	172800	IN	A	198.190.226.113
+dns02.nauticom.net.	172800	IN	A	198.190.226.115
+pgh.nauticom.net.	172800	IN	A	72.22.1.3
+pgh1.nauticom.net.	172800	IN	A	72.22.1.4

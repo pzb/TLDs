@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+forrestcollege.edu.	172800	IN	NS	ns1.csihosting.net.
+forrestcollege.edu.	172800	IN	NS	ns2.csihosting.net.
+m853ftktrp156f8blih5ouvrpprfg6rp.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711152215 20160704141215 15617 edu. g0yEKyWUge+5K0KM2xnGyOyyirpoXLIdGacHYhKI825LVJ9+xqCVJUJENsVQ5vW99I8ywHWP/acxv5+1F5SJ7OJysPMSODAi6C5fUvTuCpV4iYGBIXgzjrjG3k9Q/VEstT1/f1sL++IzuFQnxtMO/maddTSguAjeHfqkbrPcHUk=
+m853ftktrp156f8blih5ouvrpprfg6rp.edu.	86400	IN	NSEC3	1 1 0 -  m9fttcvdle8ob978to0imp60iurloc1d NS DS RRSIG 
+ns1.csihosting.net.	172800	IN	A	162.218.106.139
+ns2.csihosting.net.	172800	IN	A	209.50.124.90

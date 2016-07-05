@@ -1,0 +1,12 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+dcccd.edu.	172800	IN	NS	ns1.p22.dynect.net.
+dcccd.edu.	172800	IN	NS	ns2.p22.dynect.net.
+dcccd.edu.	172800	IN	NS	ns3.p22.dynect.net.
+dcccd.edu.	172800	IN	NS	ns4.p22.dynect.net.
+m58ds008lcbn9vaprsmdtbtmqseo6akk.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712032350 20160705021350 15617 edu. rX23KrMUUST4geAgtzo6fvbTpI2Wdha4RivAWDfqh//ZN1d1JEksvuZdtL0VpmDEv50UplTCyLk3+tNyPBi6KHCASXrFo+QG6jCKGS538s2iiNIzO2Ihx5iy8hdU5wDJWgCEBpaEyNydF5lLwTeX69/ouFs3B5wGXOhJcXGuCMc=
+m58ds008lcbn9vaprsmdtbtmqseo6akk.edu.	86400	IN	NSEC3	1 1 0 -  m7vj498qc58amvkhc5ot01rtr0pd4g60 NS DS RRSIG 
+ns1.p22.dynect.net.	172800	IN	A	208.78.70.22
+ns2.p22.dynect.net.	172800	IN	A	204.13.250.22
+ns3.p22.dynect.net.	172800	IN	A	208.78.71.22
+ns4.p22.dynect.net.	172800	IN	A	204.13.251.22

@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+bha4laugu0qrid36idc2aaamuhfkm255.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711224633 20160704213633 15617 edu. pSC2llDsPgEEPdMzUF4OCBpW7Yc6PcyRPEZ66tcePa9s8+tdBwTmWEh12y8GVzniyvy1EJTqizEB2Mg4gWEBeBXEZdv9LXuA4xlVAgQe4MoektbMJ8jt7yaGG6P/DRDFSFQlvwY9vMP0rRRsOjAofRVlBTOoJr+rTfE5gDjCztc=
+bha4laugu0qrid36idc2aaamuhfkm255.edu.	86400	IN	NSEC3	1 1 0 -  bio615rtuvu3e2n3jiarecqavrladnhm NS DS RRSIG 
+tabor.edu.	172800	IN	NS	ns1.tabor.edu.
+tabor.edu.	172800	IN	NS	ns2.tabor.edu.
+tabor.edu.	172800	IN	NS	ns3-dni.tabor.edu.
+ns1.tabor.edu.	172800	IN	A	67.214.198.8
+ns2.tabor.edu.	172800	IN	A	67.214.198.248
+ns3-dni.tabor.edu.	172800	IN	A	64.34.212.108

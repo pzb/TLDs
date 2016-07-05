@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+claremont.edu.	172800	IN	NS	ns.hmc.edu.
+claremont.edu.	172800	IN	NS	ns.claremont.edu.
+claremont.edu.	172800	IN	NS	ns3.claremont.edu.
+ns.claremont.edu.	172800	IN	A	134.173.254.23
+ns3.claremont.edu.	172800	IN	A	134.173.254.28
+ns.hmc.edu.	172800	IN	A	134.173.53.8
+nps9o1o5ii7hcriaeitnsqr0umlan5up.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711135053 20160704124053 15617 edu. Rn0vJhXnexZCsQaQhu6TBXOpBVULM0l/BlIUG36qmoO4hYkEPL/Zs2gg4mZiJWIhBtncG1VBa/mnLaNY9FS46bKYaark8fpJMUvZ6ucOrZMXXkd6SOibzNJmkjU1HJYtnkKMiNuscL+DNUyhPzuYHb+41BwuQA2PxuqQahYnRqs=
+nps9o1o5ii7hcriaeitnsqr0umlan5up.edu.	86400	IN	NSEC3	1 1 0 -  nrj4m2msvr0a224dfn414n8j9qe99947 NS DS RRSIG 

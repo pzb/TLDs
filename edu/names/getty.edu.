@@ -1,0 +1,19 @@
+a1.verisigndns.com.	172800	IN	A	209.112.113.33
+a1.verisigndns.com.	172800	IN	AAAA	2001:500:7967::2:33
+a2.verisigndns.com.	172800	IN	A	209.112.114.33
+a2.verisigndns.com.	172800	IN	AAAA	2620:74:19::33
+a3.verisigndns.com.	172800	IN	A	69.36.145.33
+a3.verisigndns.com.	172800	IN	AAAA	2001:502:cbe4::33
+u1.verisigndns.com.	172800	IN	A	209.112.113.33
+u2.verisigndns.com.	172800	IN	A	209.112.114.33
+u3.verisigndns.com.	172800	IN	A	69.36.145.33
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+getty.edu.	172800	IN	NS	a1.verisigndns.com.
+getty.edu.	172800	IN	NS	a2.verisigndns.com.
+getty.edu.	172800	IN	NS	a3.verisigndns.com.
+getty.edu.	172800	IN	NS	u1.verisigndns.com.
+getty.edu.	172800	IN	NS	u2.verisigndns.com.
+getty.edu.	172800	IN	NS	u3.verisigndns.com.
+nmb8n84odd1uc9uvt4o705pkc9bissvh.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712001908 20160704230908 15617 edu. jO6Cglz00eHne0FP4cTJqRgZdLyL9Q5F4ZiJyl7ynSs41vSmW2c5lOYASOt9IUbMMQ3qdY4kw2awMydRwwQS18A7uAtvm/xMN4+cyhDx3AvRKQEkmOlA5zT0AMV7JYWaaUUCD/NF5tKE/7KjN/mV4hFfkzusZ1QFl3azI4eOpsw=
+nmb8n84odd1uc9uvt4o705pkc9bissvh.edu.	86400	IN	NSEC3	1 1 0 -  nnphu1i7njkp90g250ciu1s1kpbfll8u NS DS RRSIG 

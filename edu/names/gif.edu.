@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+gif.edu.	172800	IN	NS	pri4.dns.psi.net.
+gif.edu.	172800	IN	NS	pri5.dns.psi.net.
+gif.edu.	172800	IN	NS	pri6.dns.psi.net.
+vnufaocj4di3m38nqd2kup363catehca.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711081202 20160704070202 15617 edu. CoLg6V7JozagmckJDYRHReIA+vC81s1kujxq1ev4Zoir5XKMoZOx4wJBSum8Tq5RxQ+VGqekYv7pcVsQwwnCwXvMN31I2UTu+b1N2x6gBcBAjPjv6wLwP6L1YM5MD6qu61hXsgmQHJoD/Yu69z2Ez+RBZNPd0R9uKQO1ZDh1rXk=
+vnufaocj4di3m38nqd2kup363catehca.edu.	86400	IN	NSEC3	1 1 0 -  vo7jmlrtc923tue3a46dme0r6chhjnjc NS DS RRSIG 
+pri4.dns.psi.net.	172800	IN	A	66.28.0.14
+pri5.dns.psi.net.	172800	IN	A	66.28.0.30
+pri6.dns.psi.net.	172800	IN	A	66.28.0.14

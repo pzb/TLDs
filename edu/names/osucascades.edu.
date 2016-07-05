@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ns1.oregonstate.edu.	172800	IN	A	128.193.0.10
+ns2.oregonstate.edu.	172800	IN	A	128.193.4.20
+osucascades.edu.	172800	IN	NS	ns1.nero.net.
+osucascades.edu.	172800	IN	NS	ns1.oregonstate.edu.
+osucascades.edu.	172800	IN	NS	ns2.oregonstate.edu.
+sgbio5nmvpk8ggsit1kei4rmt36u4qrk.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710204119 20160703193119 15617 edu. Ji4qySL8feJljL6Cwz5msq27jJUJTirc5E7py5LrWn8hZA+xg652YbQWAQnF6LAIF0MSjW/4Xi8zcUL1r0m3BWJ2Ul7gZORdRNaw5mDL0h5dsbgxkmEyu/0hmhJKJ32HlYs5wIScoFA/H3Drm4kXPEEq6K2XK+LUG/l88Zml85c=
+sgbio5nmvpk8ggsit1kei4rmt36u4qrk.edu.	86400	IN	NSEC3	1 1 0 -  sig002qsef2gnt8unid0jjm5b4t3lour NS DS RRSIG 
+ns1.nero.net.	172800	IN	A	207.98.65.2

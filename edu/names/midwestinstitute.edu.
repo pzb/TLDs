@@ -1,0 +1,8 @@
+7j55qj1c6o5gd6gem9vfmee06ipk7adb.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711125638 20160704114638 15617 edu. N45dg5/WHjE/OjLlhutxHOour5gOo5OfsOLbDWHtcOPNrDQ0hyk93RVQtRgeKXErE5bdcuKqY70CvRMoaQYh8elCG6qUNUrNwMMhwhMSnk6MikYZn/lKVB/vzmrXwzDQ+mNRDM8zgiMHuERiIjCMaaDwbF094zqNvRXIpoq2mLs=
+7j55qj1c6o5gd6gem9vfmee06ipk7adb.edu.	86400	IN	NSEC3	1 1 0 -  7kpo6hleaqfstque1m9i54dnr2gar88n NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+midwestinstitute.edu.	172800	IN	NS	ns1.mediatemple.net.
+midwestinstitute.edu.	172800	IN	NS	ns2.mediatemple.net.
+ns1.mediatemple.net.	172800	IN	A	64.207.128.246
+ns2.mediatemple.net.	172800	IN	A	70.32.65.137

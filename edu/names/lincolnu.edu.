@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+e9t15ngev6h3imppipmsd84laj6cf696.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711164052 20160704153052 15617 edu. LcHq8KXNVIYdsVidJE486PapHvqO5iml6e6lJ0pvfIngFl3ZrJKzyf0sbmu1qu7d3tOA5EmDWb2q2c9MM7qgnIk4Ow/4bFtdQKohNCs1rH0Y6VNFgDXEyXn6AIpNtGzpJcv2XrgvUhpaLtB295/mg7IYq8pbgB0mZ+REg/RoM34=
+e9t15ngev6h3imppipmsd84laj6cf696.edu.	86400	IN	NSEC3	1 1 0 -  ed0mlhqlv8s3ajp1smc9520tgmf0ngrp NS DS RRSIG 
+lincolnu.edu.	172800	IN	NS	osage.coreserv.more.net.
+lincolnu.edu.	172800	IN	NS	meramec.coreserv.more.net.
+lincolnu.edu.	172800	IN	NS	chariton.coreserv.more.net.
+chariton.coreserv.more.net.	172800	IN	A	150.199.1.10
+meramec.coreserv.more.net.	172800	IN	A	150.199.8.1
+osage.coreserv.more.net.	172800	IN	A	150.199.199.1

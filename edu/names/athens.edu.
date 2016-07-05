@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+asnsvr.asc.edu.	172800	IN	A	129.66.20.4
+ns1.asc.edu.	172800	IN	A	129.66.95.3
+athens.edu.	172800	IN	NS	ns1.asc.edu.
+athens.edu.	172800	IN	NS	asnsvr.asc.edu.
+kcsprd7uocm1fb8agc06ameu4aqfjqtg.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711144117 20160704133117 15617 edu. q3qFan8uYNQDnv2sXhOXay86sxuAvzpKv/l3o7ylDoiwhwzyVUrXgzfcwy3nmiIuMcMrDPe3U0VlJDkibRvXSMaRotjCtmi8joq7WOtF1H3o8AyazRnDlPKAy526oLQkxkmDxxRAQsXYytGGhmvm9JL+w4BQA+fT2fn5lok4uG0=
+kcsprd7uocm1fb8agc06ameu4aqfjqtg.edu.	86400	IN	NSEC3	1 1 0 -  kd3iai3cd0ocbeu8id57oj5cdlm9nbdl NS DS RRSIG 

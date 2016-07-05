@@ -1,0 +1,14 @@
+auth1.dns.expedient.com.	172800	IN	A	209.166.168.15
+auth2.dns.expedient.com.	172800	IN	A	216.183.191.12
+auth3.dns.expedient.com.	172800	IN	A	207.54.143.204
+auth4.dns.expedient.com.	172800	IN	A	209.166.144.108
+auth5.dns.expedient.com.	172800	IN	A	216.230.112.43
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+duq.edu.	172800	IN	NS	auth1.dns.expedient.com.
+duq.edu.	172800	IN	NS	auth2.dns.expedient.com.
+duq.edu.	172800	IN	NS	auth3.dns.expedient.com.
+duq.edu.	172800	IN	NS	auth4.dns.expedient.com.
+duq.edu.	172800	IN	NS	auth5.dns.expedient.com.
+dv1k7b4ru47j0l4lkik3qenlhp2snbbv.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711223454 20160704212454 15617 edu. bYz1t/MWqDCpBfAMYDOcX93hZqavrAKY1IIA0i9l7G2QBqZdO3P0oFKVo33y/3EJ6BjoMZW4TI5SYjkT/rS/dv3Vba1zZVeRQO3kEiZVzKP7tBRa3uZnlv4F8nL5N0WmaQ5ICSH0mvkzbGD9JZe4eR9h7LnFVAt0MnMxfY0pQm4=
+dv1k7b4ru47j0l4lkik3qenlhp2snbbv.edu.	86400	IN	NSEC3	1 1 0 -  e2ksoilsah8uovl817nd777j8ui81hht NS DS RRSIG 

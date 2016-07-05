@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+cbseminary.edu.	172800	IN	NS	ns1.fuse.net.
+cbseminary.edu.	172800	IN	NS	ns2.fuse.net.
+gtlqvh592m6lmn02naj17ib7qkrofmma.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710232922 20160703221922 15617 edu. OcbzVVgzjmyQXS36QpUiGz8DfADYtiZVyQhF5k+udZJf3af+lQgLI/DMuJTCYQfViSNjgV5JDzPPMimJtXjf1QKglwC0sxGhoRIWFnAHT5pkbd/+k46PUjtu9KTvJJxJel9M+fMZfLv05eNFCSSXa77p5yJ0dEbCcgdQEoc1XOs=
+gtlqvh592m6lmn02naj17ib7qkrofmma.edu.	86400	IN	NSEC3	1 1 0 -  gviuce1j3dpomipbkb297ptvm6kb0rfc NS DS RRSIG 
+ns1.fuse.net.	172800	IN	A	216.68.1.100
+ns2.fuse.net.	172800	IN	A	216.68.2.100

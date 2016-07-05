@@ -1,0 +1,12 @@
+ns.cvnet.com.	172800	IN	A	167.206.1.103
+6m6221vjok3daj3rgvro0nttamo93bjn.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711194238 20160704183238 15617 edu. 2TBmyOttj11BZky9ogN1bFy/Cnam0QkmrtAEr1lO68hUvLvErOmKktlH9sh56oL8NqEFHDVxYU5oEzHWqX0xV27hmh2f65bWDnN1Mch1ZDSovqD/7Pk+HyD/5lQLf8JGaauvWW2MtIj9HG8LQcP3RB+tL7XSEy6D1qXaQOL13Zs=
+6m6221vjok3daj3rgvro0nttamo93bjn.edu.	86400	IN	NSEC3	1 1 0 -  6o2mbsmnjivmaoc15lu7enpp53kr1mre NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+iona.edu.	172800	IN	NS	ns.cv.net.
+iona.edu.	172800	IN	NS	ns.cvnet.com.
+iona.edu.	172800	IN	NS	ionans1.iona.edu.
+iona.edu.	172800	IN	NS	ionans2.iona.edu.
+ionans1.iona.edu.	172800	IN	A	192.231.231.30
+ionans2.iona.edu.	172800	IN	A	192.231.231.31
+ns.cv.net.	172800	IN	A	167.206.1.30

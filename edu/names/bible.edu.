@@ -1,0 +1,13 @@
+ns10.dnsmadeeasy.com.	172800	IN	A	208.94.148.4
+ns11.dnsmadeeasy.com.	172800	IN	A	208.80.124.4
+ns12.dnsmadeeasy.com.	172800	IN	A	208.80.126.4
+ns13.dnsmadeeasy.com.	172800	IN	A	208.80.125.4
+ns13.dnsmadeeasy.com.	172800	IN	AAAA	2600:1801:13::1
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+bible.edu.	172800	IN	NS	ns10.dnsmadeeasy.com.
+bible.edu.	172800	IN	NS	ns11.dnsmadeeasy.com.
+bible.edu.	172800	IN	NS	ns12.dnsmadeeasy.com.
+bible.edu.	172800	IN	NS	ns13.dnsmadeeasy.com.
+ngmprm58d50qikpkutcsndirv1mhgk6k.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712002650 20160704231650 15617 edu. AdlQxm+Ux6TJtguT9iOt90vjfdFNtVRbnrIxl2whUnR3NZseMw3MIQbnrjKCICQ2ynJI7P/R9zKujs3sMb/CKRY02SNI1luyqz42rVEO07fez+lxlY6AXeB0Gm4wCIxyfnf1jjIhmqbwFD783AgaeSVmJA4GNyYYZlPXE9+7+7c=
+ngmprm58d50qikpkutcsndirv1mhgk6k.edu.	86400	IN	NSEC3	1 1 0 -  njtoj96i8vk3j8u0f5i9v1sq86ucdgl8 NS DS RRSIG 

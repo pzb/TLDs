@@ -1,0 +1,16 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+h7v0hh5qnl680bp02bspkl93ud5f0u66.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709185235 20160702174235 15617 edu. UzIfjGFt1MMezWo8fHOWG/EtUU0i22Q9ppICkgaDAxDBTLCtRQwu1TUWexodenTdFhFMuxhcXUlCBNjAjL1T/rvtPX2uJmUJScY67ssrpvhV+Cw2tQ9a/efHlDlxhYqBN3fVKT3bW+ALhps9RVEiBaGgtt9MR08+YdwtvEmi3z4=
+h7v0hh5qnl680bp02bspkl93ud5f0u66.edu.	86400	IN	NSEC3	1 1 0 -  h8huo61ee7ksp436q62o0u23a24mrpqt NS DS RRSIG 
+rajabhat.edu.	172800	IN	NS	ns1.rajabhat.edu.
+rajabhat.edu.	172800	IN	NS	ns2.rajabhat.edu.
+rajabhat.edu.	172800	IN	NS	ns3.rajabhat.edu.
+rajabhat.edu.	172800	IN	NS	ns4.rajabhat.edu.
+ns1.rajabhat.edu.	172800	IN	A	202.29.64.2
+ns1.rajabhat.edu.	172800	IN	AAAA	2001:3c8:2105:2::2
+ns2.rajabhat.edu.	172800	IN	A	202.29.64.3
+ns2.rajabhat.edu.	172800	IN	AAAA	2001:3c8:2105:2::3
+ns3.rajabhat.edu.	172800	IN	A	202.29.64.4
+ns3.rajabhat.edu.	172800	IN	AAAA	2001:3c8:2105:2::4
+ns4.rajabhat.edu.	172800	IN	A	202.29.64.5
+ns4.rajabhat.edu.	172800	IN	AAAA	2001:3c8:2105:2::5

@@ -1,0 +1,8 @@
+ns1.hostmonster.com.	172800	IN	A	74.220.195.131
+ns2.hostmonster.com.	172800	IN	A	69.89.16.8
+3q3gn92ulsv8rdstab8o5op2331nniff.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711205712 20160704194712 15617 edu. o/nniM3x3L81gk8TTC2RFNlG61zz5pWoFiB0RhBrZwIYDwz0PnsT/y+e7i0r6x2y1/auNZEY/gUTUbkl5+Lx9xRGh1nBM0IZ24whDbIiNClMbr+7Gt2GNryt/g0Tprh3df/ldrSZHkQF/6gV37WumDlw1QUP4X1V7EuD3EtHXjQ=
+3q3gn92ulsv8rdstab8o5op2331nniff.edu.	86400	IN	NSEC3	1 1 0 -  3qv7bb5mjurofodn8bik5fhqs1g643hr NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+aism.edu.	172800	IN	NS	ns1.hostmonster.com.
+aism.edu.	172800	IN	NS	ns2.hostmonster.com.

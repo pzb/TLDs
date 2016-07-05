@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+fvcqaqdmrdahgdp4kngvdqffeab68n5f.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712032437 20160705021437 15617 edu. AaxJVdhZKi7GqeCXs3XFHCjd0HIFmEZxM3Kr1XFO//65u+MzowJu4JhBF32sPkLdwJy2hzs/BMCyInn6gpkAqxBHcIrAfWi4cAwjIASbXSMUEyrboQQXnsJpDUMpYpN3ZtIQ+SnW9nGdcWD0FVzAGDS7T2aYwXQ8HHyRR8NO2IM=
+fvcqaqdmrdahgdp4kngvdqffeab68n5f.edu.	86400	IN	NSEC3	1 1 0 -  fvg1d1c2tf9tmc7pic921lil13pu1ak7 NS DS RRSIG 
+quinnipiac.edu.	172800	IN	NS	dns-qu01.quinnipiac.edu.
+quinnipiac.edu.	172800	IN	NS	dns-qu02.quinnipiac.edu.
+quinnipiac.edu.	172800	IN	NS	dns-qu03.quinnipiac.edu.
+dns-qu01.quinnipiac.edu.	172800	IN	A	192.152.243.125
+dns-qu02.quinnipiac.edu.	172800	IN	A	192.152.243.126
+dns-qu03.quinnipiac.edu.	172800	IN	A	64.251.63.203

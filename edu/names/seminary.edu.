@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+n2i4an0t59htsg84m36q3clovihie207.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711174509 20160704163509 15617 edu. CIGM7Ra3I9cHxhNHqET9QY/RpbHoomyQzl14PbkTyztSWgHfkg4jtsf8OPZ+MVS0HLAGbs6jSq5etcXNg+6hpyvOrGvVTQsuyWgFxtYqG5mUYchQvFIn6Qih5U1r9hmWHd8DHGfa/ndFPPhUdxN1dNVb3Ivu5V1hz/b0vqIwAuc=
+n2i4an0t59htsg84m36q3clovihie207.edu.	86400	IN	NSEC3	1 1 0 -  n3fqdmpqfnp8psgbdhkbgkdbv2cloihh NS DS RRSIG 
+seminary.edu.	172800	IN	NS	ns1.illinois.net.
+seminary.edu.	172800	IN	NS	ns2.illinois.net.
+ns1.illinois.net.	172800	IN	A	206.166.61.22
+ns2.illinois.net.	172800	IN	A	206.166.17.200

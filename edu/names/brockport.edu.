@@ -1,0 +1,19 @@
+ns5.dnsmadeeasy.com.	172800	IN	A	208.94.148.13
+ns5.dnsmadeeasy.com.	172800	IN	AAAA	2600:1800:5::1
+ns6.dnsmadeeasy.com.	172800	IN	A	208.80.124.13
+ns7.dnsmadeeasy.com.	172800	IN	A	208.80.126.13
+2mefdks2h6h7rj4dg45ud43ungqdskcd.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051942 20160704040942 15617 edu. G56xto8PIq0OV5SvYw6eJfhre7bk7U74JLCAuBF3UOJLm5at1hSWnm+PBRQRQqTSf+praLlI1VLac73U0S3WqB6CEcNzKQyK000i//j0SH3OW+14b4xIlRVxfWwKI5pxwsWq7q941UQAIllTebUC2IgkCO3kIZqmjuMoX09vIt0=
+2mefdks2h6h7rj4dg45ud43ungqdskcd.edu.	86400	IN	NSEC3	1 1 0 -  2mvhjg7ef0dhr59stva993k7vbf1hgdt NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+brockport.edu.	172800	IN	NS	ns5.dnsmadeeasy.com.
+brockport.edu.	172800	IN	NS	ns6.dnsmadeeasy.com.
+brockport.edu.	172800	IN	NS	ns7.dnsmadeeasy.com.
+brockport.edu.	172800	IN	NS	dns2.admc.brockport.edu.
+brockport.edu.	172800	IN	NS	dns3.admc.brockport.edu.
+brockport.edu.	172800	IN	NS	dns4.admc.brockport.edu.
+brockport.edu.	172800	IN	NS	adrisc1.admc.brockport.edu.
+adrisc1.admc.brockport.edu.	172800	IN	A	137.21.1.15
+dns2.admc.brockport.edu.	172800	IN	A	137.21.1.16
+dns3.admc.brockport.edu.	172800	IN	A	198.101.232.160
+dns4.admc.brockport.edu.	172800	IN	A	137.21.1.18

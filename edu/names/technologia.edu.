@@ -1,0 +1,8 @@
+my.privatedns.com.	172800	IN	A	174.142.253.5
+your.privatedns.com.	172800	IN	A	67.205.116.5
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+bckddb4ftpojb2e8t05145fmt4rbrhh4.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711191045 20160704180045 15617 edu. grG0xi2HxQS9jMX3nUdv60Dx7s1/bDzaVsYtyhmA1mMxR8YUCikjRNbTxOUxPFxEgTRpdfBHRdhhn1LtN3AdM/5XTpD3Myt8mbeDmLg76t/LjPhI8h66wkQvgvI7HopJ9qWXPouW2xgySpq7bTCX3YeqSMZ4mNlFVPr69BlX+vw=
+bckddb4ftpojb2e8t05145fmt4rbrhh4.edu.	86400	IN	NSEC3	1 1 0 -  bd0qh47v15gks0qgi3rtcqhg3oquatem NS DS RRSIG 
+technologia.edu.	172800	IN	NS	my.privatedns.com.
+technologia.edu.	172800	IN	NS	your.privatedns.com.

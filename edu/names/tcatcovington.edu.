@@ -1,0 +1,10 @@
+ns1-06.azure-dns.com.	172800	IN	A	40.90.4.6
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+n6pmb8gapgvuhqidi60o4sks1sdrq091.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711212247 20160704201247 15617 edu. immOucVziiv0rGQuS3F2unfdKo6fzRUreMpNWRDXvsndgnbe3OwsWd8NiDPUjfG4Z+H2CbL0zXMiyAWaSvASu6gsqUNTJOMmJ51WmBeghE1esw4Y7UdGHJE/YYID7wRZDhZ0RUucg8MCJ+R149QaNEZnOKjP/kiX9wByXdulRjg=
+n6pmb8gapgvuhqidi60o4sks1sdrq091.edu.	86400	IN	NSEC3	1 1 0 -  n8apl5c1cuaah1l7dobp9nqe16cje5il NS DS RRSIG 
+tcatcovington.edu.	172800	IN	NS	ns1-06.azure-dns.com.
+tcatcovington.edu.	172800	IN	NS	ns2-06.azure-dns.net.
+tcatcovington.edu.	172800	IN	NS	ns3-06.azure-dns.org.
+tcatcovington.edu.	172800	IN	NS	ns4-06.azure-dns.info.
+ns2-06.azure-dns.net.	172800	IN	A	64.4.48.6

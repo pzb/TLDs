@@ -1,0 +1,11 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+aus.edu.	172800	IN	NS	ns1.aus.edu.
+aus.edu.	172800	IN	NS	ns2.aus.edu.
+aus.edu.	172800	IN	NS	auhans1.ecompany.ae.
+aus.edu.	172800	IN	NS	dxbans1.ecompany.ae.
+aus.edu.	172800	IN	NS	dxbans2.ecompany.ae.
+ns1.aus.edu.	172800	IN	A	195.229.156.23
+ns2.aus.edu.	172800	IN	A	195.229.156.24
+j6qfj0namj9f4dirdtr43u2n0rm77bd8.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711184010 20160704173010 15617 edu. 3VVZhh5E0awCmtcnwBEIHbmxCqnma8pH/RTYc/58JJXKnfaGW6tpwgSXyWTYTV9HZcnEmODJftGztWFQ3Cb/DhNLlugw/UioKtUMg50lj6lHhRWuo4F8sfpILLTLz2zqeBNDOzEv9kp+y6LhxznkziNvNHYW9ZlLOlaITFo3f/g=
+j6qfj0namj9f4dirdtr43u2n0rm77bd8.edu.	86400	IN	NSEC3	1 1 0 -  j7eu1coa8o7bfd0uld4ledcruc6t8fa1 NS DS RRSIG 

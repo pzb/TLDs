@@ -1,0 +1,12 @@
+res1.dns.cogentco.com.	172800	IN	A	66.28.0.45
+res2.dns.cogentco.com.	172800	IN	A	66.28.0.61
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+mercy.edu.	172800	IN	NS	ns1.mercy.edu.
+mercy.edu.	172800	IN	NS	ns2.mercy.edu.
+mercy.edu.	172800	IN	NS	res1.dns.cogentco.com.
+mercy.edu.	172800	IN	NS	res2.dns.cogentco.com.
+ns1.mercy.edu.	172800	IN	A	204.174.224.14
+ns2.mercy.edu.	172800	IN	A	149.24.137.95
+vnk3odq44n24cnrgpv6ok8b5um0hlp2d.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160708052033 20160701041033 15617 edu. QiRYUPhGy5N8xIAZxVQ/8cSXKsbd6clptbEFL0vRSFGXpQBj+3D1Fq5qjch+wnAXk2JtthFxgLPu960fJWBfMAOKdgQsoX/f8rwYJm+P6lSuhWTz+QTUYprs+TBAhn0bRCBi9pnUjVXz4pdAwFEe8MUhEOK8Mq/l1sUuv2CK5Yc=
+vnk3odq44n24cnrgpv6ok8b5um0hlp2d.edu.	86400	IN	NSEC3	1 1 0 -  vnufaocj4di3m38nqd2kup363catehca NS DS RRSIG 

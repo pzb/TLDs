@@ -1,0 +1,10 @@
+eva.ns.cloudflare.com.	172800	IN	A	173.245.58.114
+eva.ns.cloudflare.com.	172800	IN	AAAA	2400:cb00:2049:1::adf5:3a72
+mark.ns.cloudflare.com.	172800	IN	A	173.245.59.130
+mark.ns.cloudflare.com.	172800	IN	AAAA	2400:cb00:2049:1::adf5:3b82
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+brynathyn.edu.	172800	IN	NS	eva.ns.cloudflare.com.
+brynathyn.edu.	172800	IN	NS	mark.ns.cloudflare.com.
+n48eobrgfgmd4i8dftmilpuur7f23c96.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160708052036 20160701041036 15617 edu. sAXvMqLbqEaaeGywxUXV+yy5Kl0fzAHhO5T6f8hSttouDmiL7afJPFiHAGdoCeor33w1ijeN87hwnIp0HNmZrT5nd6PHgoTAghF4qRyCwexurbG+KIB7lYkPpSqCvlcwQ+RZ2pUaCyZd+aVSX1nGkmjoJL6vZMOQmeAP726FtTM=
+n48eobrgfgmd4i8dftmilpuur7f23c96.edu.	86400	IN	NSEC3	1 1 0 -  n4ug1kh45o8tob1pmvm97agfsagnct0i NS DS RRSIG 

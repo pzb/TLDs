@@ -1,0 +1,13 @@
+a1.uberns.com.	172800	IN	A	216.59.59.1
+a1.uberns.com.	172800	IN	AAAA	2602:ffe2:53::1
+b1.uberns.com.	172800	IN	A	216.59.60.1
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+browncollege.edu.	172800	IN	NS	a1.uberns.com.
+browncollege.edu.	172800	IN	NS	a1.uberns.net.
+browncollege.edu.	172800	IN	NS	b1.uberns.com.
+browncollege.edu.	172800	IN	NS	b1.uberns.net.
+o8lae4m9j2f66a05993s9e1kid8sr8an.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160709152621 20160702141621 15617 edu. zb37NoFPb28gJL2mJMiyjp//S7P0/ODrtI8QP9FXG/H3QkJEdF/1emGcUwFOXjMatsQdZi5r+qIrn2JtKSEP62i51tWwddCqkj61MH967QsKl2b1E2d62fIJDHTiTM70kBBT3rVptoWSEs3jr1QwH4+7JgDzV3rea6CkDlXIW5s=
+o8lae4m9j2f66a05993s9e1kid8sr8an.edu.	86400	IN	NSEC3	1 1 0 -  o90nft568pb4jroenoa5kcihtk6sa4gh NS DS RRSIG 
+a1.uberns.net.	172800	IN	A	216.59.59.2
+b1.uberns.net.	172800	IN	A	216.59.57.1

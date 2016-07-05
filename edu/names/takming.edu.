@@ -1,0 +1,10 @@
+ns1.myezdns.com.	172800	IN	A	114.80.155.205
+ns2.myezdns.com.	172800	IN	A	58.64.186.22
+ns3.myezdns.com.	172800	IN	A	114.80.155.206
+1m2aci73mephdvcn0q1dhuv4cq46m8v0.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711053733 20160704042733 15617 edu. t/Uj85x9ubqbY3o7gAdbJ6kPdmjODyahJrWxQ3UTOMrIY2tNQC/fzkMixmq1hMKE/4UossNth03iRP8Ow2qQG745PCQ5laDFVy20QeY+IvaNdJbTep/UB2twdvMbm1w90HVQro+FAl7BMI0PUNsvSwtalc3CWVH+zChfldqSjLc=
+1m2aci73mephdvcn0q1dhuv4cq46m8v0.edu.	86400	IN	NSEC3	1 1 0 -  1mtncoebi61gsrnvd46556tof00jlppq NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+takming.edu.	172800	IN	NS	ns1.myezdns.com.
+takming.edu.	172800	IN	NS	ns2.myezdns.com.
+takming.edu.	172800	IN	NS	ns3.myezdns.com.

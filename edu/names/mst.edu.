@@ -1,0 +1,9 @@
+ns1.umsl.com.	172800	IN	A	134.124.31.136
+mst.edu.	172800	IN	NS	ns1.umsl.com.
+mst.edu.	172800	IN	NS	ns-1.mst.edu.
+mst.edu.	172800	IN	NS	ns-2.mst.edu.
+mst.edu.	86400	IN	DS	18691 5 1 da257c976c988d32c90cd3cdf72a485a1f4de172
+mst.edu.	86400	IN	DS	18691 5 2 915172083b4aaacf5c55e904cdfa783e3d510cc75f6eed3470be2eec742ffced
+mst.edu.	86400	IN	RRSIG	DS 8 2 86400 20160709051625 20160702040625 15617 edu. kJ4p0iFY2jrK4k9NKc6kcSenFkQ3o9WS/07PuqOTVckoJElmWkTIIF1Yp55yjJkX+EenZ7dnqD7yGxi7yv9HqNyoiBVDgPFI9oOl47AKypAgdZeST+zuFKkYFdFNrhUaa0b3CKnKp1dVfUAZEgzq1jlwkx4cWmGU2RukVebhBlI=
+ns-1.mst.edu.	172800	IN	A	131.151.249.175
+ns-2.mst.edu.	172800	IN	A	131.151.249.176

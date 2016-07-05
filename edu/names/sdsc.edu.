@@ -1,0 +1,12 @@
+2dk407l2ujnrk9fll9gku0c9alruf9qr.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711134358 20160704123358 15617 edu. um+rgFPwsdut144zXWnlgmd2MvWqcBW91P5aJA9E77ys12AbemAx5VKstcA0Qz2cj0O+WOJBI0s/ydSTbuGIVRg3f2NGnlCA1SMaj5Q4mus5IIjEPHz88oeK3Z9rHSfYAMdym1o1DpdZPlWV2Axz0euZNFOFaHQeW7Ql6P7MiKQ=
+2dk407l2ujnrk9fll9gku0c9alruf9qr.edu.	86400	IN	NSEC3	1 1 0 -  2fgg4lh11fno6nport851b91mov8r5vm NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+sdsc.edu.	172800	IN	NS	ns0.sdsc.edu.
+sdsc.edu.	172800	IN	NS	ns1.sdsc.edu.
+sdsc.edu.	172800	IN	NS	ns1.ucsd.edu.
+sdsc.edu.	172800	IN	NS	dns2.itd.umich.edu.
+ns0.sdsc.edu.	172800	IN	A	132.249.20.25
+ns1.sdsc.edu.	172800	IN	A	198.202.75.26
+ns1.ucsd.edu.	172800	IN	A	128.54.16.2
+dns2.itd.umich.edu.	172800	IN	A	192.12.80.222

@@ -1,0 +1,12 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+frc.edu.	172800	IN	NS	ns1.nestegg.net.
+frc.edu.	172800	IN	NS	ns1.lanlogic.net.
+frc.edu.	172800	IN	NS	ns2.nestegg.net.
+frc.edu.	172800	IN	NS	ns2.lanlogic.net.
+q366mf6861vkbs9335ma0g5j7db5jlq1.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711125254 20160704114254 15617 edu. uOY0Y/uXoiSzoftUpUq+PlXOeJrGtk430ESyXd1I9/Bl7Wivw0HrgRNPMvckXoZ2Vzv7QTurwMCCjA5DOIrhu88/OPKu640bhDOq77IXAIW9LrJ5w+/YNV1D2iwsCxly2boLmRHzlk/LQVdZraEcl0kJ0OnjNyG3mnhbBvMBLno=
+q366mf6861vkbs9335ma0g5j7db5jlq1.edu.	86400	IN	NSEC3	1 1 0 -  q4jga8onf78esv9lpu1qaqlkd8h0uokq NS DS RRSIG 
+ns1.lanlogic.net.	172800	IN	A	69.50.10.35
+ns2.lanlogic.net.	172800	IN	A	69.50.0.35
+ns1.nestegg.net.	172800	IN	A	69.50.12.15
+ns2.nestegg.net.	172800	IN	A	45.56.111.229

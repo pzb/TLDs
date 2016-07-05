@@ -1,0 +1,8 @@
+ns1.kaplan.com.	172800	IN	A	54.208.129.148
+ns2.kaplan.com.	172800	IN	A	72.166.181.220
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+9ofgctvdbbrjep6ujv2728gaqhdrtoii.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711183353 20160704172353 15617 edu. JCZlMSITr0vGFAf3krSO2m5cgOB/85jfrnRpuvASyxb99I6+kW/uBredu9zpm3e3VDKBzHEOTV9bNd8OR3/3iEK+9B4MUIuNW/NUmkUCWFzloccq1qKA1sT9++ZfQ/9OK04sLGigxnQ2uAuLU3cikMNso8QyvykPnbOChBLbQYY=
+9ofgctvdbbrjep6ujv2728gaqhdrtoii.edu.	86400	IN	NSEC3	1 1 0 -  9pjikph8eif6mhfpuripuf6o8aeob081 NS DS RRSIG 
+concordlawschool.edu.	172800	IN	NS	ns1.kaplan.com.
+concordlawschool.edu.	172800	IN	NS	ns2.kaplan.com.

@@ -1,0 +1,12 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+sandburg.edu.	172800	IN	NS	ns1.illinois.net.
+sandburg.edu.	172800	IN	NS	ns2.illinois.net.
+sandburg.edu.	172800	IN	NS	cscns1.sandburg.edu.
+sandburg.edu.	172800	IN	NS	cscns2.sandburg.edu.
+cscns1.sandburg.edu.	172800	IN	A	216.24.125.135
+cscns2.sandburg.edu.	172800	IN	A	216.24.125.136
+tbi38nkma7bs0venh7c1l77hi3967ldn.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712032103 20160705021103 15617 edu. juP/ZcMBExVmeweRbGkUc+Ys9LETfJ7z6M8dN5xFKNCNODkkwgO+8Prq66xDkQRcyRoS7Tq0QaScfaWt3eUTQa9xneDP31hP+uisWxul8XPglajGt2gBoN1Jt1VmmoZ7Ty1ryqJgA6+0F8nwQ7+UPIMDd9fCVxbZPtatWJCSE9k=
+tbi38nkma7bs0venh7c1l77hi3967ldn.edu.	86400	IN	NSEC3	1 1 0 -  tdf0p36r7uu0bjt9c615ujrtjf87mjcf NS DS RRSIG 
+ns1.illinois.net.	172800	IN	A	206.166.61.22
+ns2.illinois.net.	172800	IN	A	206.166.17.200

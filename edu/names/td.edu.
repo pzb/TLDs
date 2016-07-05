@@ -1,0 +1,15 @@
+ns1.dnsexit.com.	172800	IN	A	199.255.159.226
+ns2.dnsexit.com.	172800	IN	A	69.30.236.138
+ns2.dnsexit.com.	172800	IN	A	104.219.19.52
+ns3.dnsexit.com.	172800	IN	A	173.208.189.26
+ns3.dnsexit.com.	172800	IN	A	209.160.33.82
+ns4.dnsexit.com.	172800	IN	A	66.85.182.220
+ns4.dnsexit.com.	172800	IN	A	198.204.224.146
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+cnffrudnb52dsovno91bcke8e1gdrfns.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051942 20160704040942 15617 edu. QnY4D1fTMGp0nwFkfnWJLCdh4iCzTiGFDzLsY5y1qLDQChDKtDfmi06t/KoXGj4VdLA4vfU7VlolmH5KU40jEu9hOfiTHjM1Yei7FoIlMwVtd8rPzmVuxt2XoR3KymvJj+y0ksrDsUoaGhuW/jzmwDUslDxRUE8hr9BJuRzL4fw=
+cnffrudnb52dsovno91bcke8e1gdrfns.edu.	86400	IN	NSEC3	1 1 0 -  col12qdjd0jdbi4liqhcqiq0e82krpnp NS DS RRSIG 
+td.edu.	172800	IN	NS	ns1.dnsexit.com.
+td.edu.	172800	IN	NS	ns2.dnsexit.com.
+td.edu.	172800	IN	NS	ns3.dnsexit.com.
+td.edu.	172800	IN	NS	ns4.dnsexit.com.

@@ -1,0 +1,6 @@
+rpcc.edu.	172800	IN	NS	rpcc-ns1.rpcc.edu.
+rpcc.edu.	172800	IN	NS	rpcc-ns2.rpcc.edu.
+rpcc.edu.	86400	IN	DS	41384 8 2 0fd2ac17eb2316a98c6372d34c63b1332f13c45a0ef256a81bc5843287a0132f
+rpcc.edu.	86400	IN	RRSIG	DS 8 2 86400 20160708052035 20160701041035 15617 edu. DJfLpkm4N6v3rt+9K8A75nTv+cVKmeqBWYVcYHiKyRsjsrjIgUMDYWlLekx2fphcomrQS0sXl+uhtyMX1/LK37tDlobQtO7OLXiKe6UaXsAYlO7HuQ3elz66GbYTSMweoh48pglhpbrrooZOtAeXXefYDY9VdgDSodhmf6ofUKE=
+rpcc-ns1.rpcc.edu.	172800	IN	A	76.165.121.132
+rpcc-ns2.rpcc.edu.	172800	IN	A	76.165.121.131

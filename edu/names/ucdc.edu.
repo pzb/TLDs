@@ -1,0 +1,14 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+pbr2t72ikhrrf8bhq6qljoekt2naf5k2.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710053345 20160703042345 15617 edu. QgVfSMDHEsV8d+kbDAh4BuZqkAhk5qAjriE39mQ59KK+tiOBBEjDZ2kGRmFoL+frPszfHyPXTsMdqeCHuUraSOW1fMgmv9hjh9doboNaT8hL9cRm3VGblOZJtbU7wvbkQkuy9vf6W9YwPS6Ak55+GTq6VvbvnpFi6fwS1K691QM=
+pbr2t72ikhrrf8bhq6qljoekt2naf5k2.edu.	86400	IN	NSEC3	1 1 0 -  pc6i0727v3bv6ibcleahdsb6d7am1017 NS DS RRSIG 
+ucdc.edu.	172800	IN	NS	ns1.ucdc.edu.
+ucdc.edu.	172800	IN	NS	ns1.ucop.edu.
+ucdc.edu.	172800	IN	NS	ns2.ucdc.edu.
+ucdc.edu.	172800	IN	NS	ns2.ucop.edu.
+ucdc.edu.	172800	IN	NS	ns3.ucop.edu.
+ns1.ucdc.edu.	172800	IN	A	192.12.83.21
+ns2.ucdc.edu.	172800	IN	A	192.12.83.22
+ns1.ucop.edu.	172800	IN	A	128.48.102.70
+ns2.ucop.edu.	172800	IN	A	128.48.102.80
+ns3.ucop.edu.	172800	IN	A	192.35.228.20

@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+cerrocoso.edu.	172800	IN	NS	ns.kernccd.net.
+cerrocoso.edu.	172800	IN	NS	ns3.csu.net.
+ukhmm8mgibrfidglebgkelm52qeg8nhc.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711234444 20160704223444 15617 edu. jdZlfTvUYawuAUSAstNcXitzCj3a7OhdN4AqrGZhMbtyMoyJKxEmQGx8sCgQnIG/OKPLBjTHkHyyumRwgjhzDtFy4fj/DDv3+OnrvpZBZng+otcDoufb1qbq//Na00xm1/oO5heTU2Xovx2T24zVA0Gale5g1+gU0rhkeo7fXC8=
+ukhmm8mgibrfidglebgkelm52qeg8nhc.edu.	86400	IN	NSEC3	1 1 0 -  unosk4ti7l1o6larrpo7mj5i8bmne7jo NS DS RRSIG 
+ns3.csu.net.	172800	IN	A	137.145.204.10
+ns.kernccd.net.	172800	IN	A	198.189.180.100

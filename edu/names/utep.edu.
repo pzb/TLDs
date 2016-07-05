@@ -1,0 +1,12 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+t89oc0d5klhj179dpkq23p39h60bkm5j.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711153226 20160704142226 15617 edu. k4naXj0sdyxwiHPPyb1LI7NNnWq5z5/Rukr29aLQKZZ0nhVpqmNyf8xmuw0Q6+omVQ2y/0AZUd2oE1G8sMZ3kyxt85EnBG2btGbav6NPAdASu09ztGIntZaIopR/gE7uFXA6zjjA64r397jHDRvFmlZtdg2PUbqpSdlsmHmGa0g=
+t89oc0d5klhj179dpkq23p39h60bkm5j.edu.	86400	IN	NSEC3	1 1 0 -  t9ivasbru7p7vit848u7deohn1c74fk0 NS DS RRSIG 
+utep.edu.	172800	IN	NS	ns2.ots.utsystem.edu.
+utep.edu.	172800	IN	NS	ns3.ots.utsystem.edu.
+utep.edu.	172800	IN	NS	dns3.utep.edu.
+utep.edu.	172800	IN	NS	dns4.utep.edu.
+dns3.utep.edu.	172800	IN	A	129.108.202.35
+dns4.utep.edu.	172800	IN	A	129.108.202.20
+ns2.ots.utsystem.edu.	172800	IN	A	206.77.62.130
+ns3.ots.utsystem.edu.	172800	IN	A	198.215.1.52

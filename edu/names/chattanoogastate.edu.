@@ -1,0 +1,7 @@
+chattanoogastate.edu.	172800	IN	NS	ns1.chattanoogastate.edu.
+chattanoogastate.edu.	172800	IN	NS	ns2.chattanoogastate.edu.
+chattanoogastate.edu.	86400	IN	DS	4483 5 1 5bc068184a5bec46ec3c786ab8722c8e74559a3b
+chattanoogastate.edu.	86400	IN	DS	4483 5 2 d19a8289b0ea70df1f986138200ee3d5bdf5ca4faeecd439c72847a6965af362
+chattanoogastate.edu.	86400	IN	RRSIG	DS 8 2 86400 20160711051944 20160704040944 15617 edu. j4NYx21QIln3XcUlRIkT2iN+jyS27Nc89Q8g8EpxhEPGvptgmfUxHnK6PFlZOtzK6gF/hySCaMkdMuR53XHvbJiNXRjMgAGjDt02ChPDyd738wc2LRoBZa2uHtdrfQWyqUorUHjGYOL9iKJWzTeQnBnk+unXw2tLFb1OKien6P0=
+ns1.chattanoogastate.edu.	172800	IN	A	192.230.240.3
+ns2.chattanoogastate.edu.	172800	IN	A	192.230.241.3

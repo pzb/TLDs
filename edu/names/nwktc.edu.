@@ -1,0 +1,12 @@
+ns1132.dns.dyn.com.	172800	IN	A	208.76.58.132
+ns2151.dns.dyn.com.	172800	IN	A	208.76.59.151
+ns3195.dns.dyn.com.	172800	IN	A	208.76.60.195
+ns4182.dns.dyn.com.	172800	IN	A	208.76.61.182
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+cf086pn2slbsv1lf0okn8hkvrbkbcko0.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711025225 20160704014225 15617 edu. GOpqnWiiqnuQFBfSQpOJJHBamF9CTNWsSUCfY4LSqvpT/lIsT7KJyicIh2D70PK2bEY18uiAukTQbt2khzrZQ9RY6GFT2WRdnODpx97ipkhQrwiuuu7Bs3VtOxCq4AJgn5HBxSKn/4b9uOkIZq7lan5TZl9V7idkzcogbg1D63I=
+cf086pn2slbsv1lf0okn8hkvrbkbcko0.edu.	86400	IN	NSEC3	1 1 0 -  cgfc8p33p4rgapi5cip3fdd17kcv3k40 NS DS RRSIG 
+nwktc.edu.	172800	IN	NS	ns1132.dns.dyn.com.
+nwktc.edu.	172800	IN	NS	ns2151.dns.dyn.com.
+nwktc.edu.	172800	IN	NS	ns3195.dns.dyn.com.
+nwktc.edu.	172800	IN	NS	ns4182.dns.dyn.com.

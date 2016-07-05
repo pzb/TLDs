@@ -1,0 +1,10 @@
+ns1-07.azure-dns.com.	172800	IN	A	40.90.4.7
+4dgh1kdo7rs4k6rl4vsh934p29qd3sh0.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711163018 20160704152018 15617 edu. zM5eH1Tz+OOVXdxUT+9djj73lYXiQ/iTFLQWf3D3EwOdu7FSLVRsguRURc3eUgxVFv5EwAt7skLlpOkm+f/m6kXKa7tePsPcytMHOs4hUQwKGDlgojhqvB4faDGmYsK3NHJY59qG1sjpK+o45xm4ULhTAqiJPRUageDcLIFtI84=
+4dgh1kdo7rs4k6rl4vsh934p29qd3sh0.edu.	86400	IN	NSEC3	1 1 0 -  4f8c0cgvv7ao85v63j8qccmv0heedsji NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+tcatparis.edu.	172800	IN	NS	ns1-07.azure-dns.com.
+tcatparis.edu.	172800	IN	NS	ns2-07.azure-dns.net.
+tcatparis.edu.	172800	IN	NS	ns3-07.azure-dns.org.
+tcatparis.edu.	172800	IN	NS	ns4-07.azure-dns.info.
+ns2-07.azure-dns.net.	172800	IN	A	64.4.48.7

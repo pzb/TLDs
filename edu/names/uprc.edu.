@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ditgmelhbp2i1sa2ug9rcihtc8o88db2.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051941 20160704040941 15617 edu. kWIDPCAA5gac8XaM6IgfASO97iURkiLo9ahl0NgQlEKjNgqff5/XUmcz4HXBvvbSvzvAt0cNubf/Lz+QFBl8gWS5Ncc3I6GQEi7I9g6RdL/JHWx3ExVE1JA4GcPUgtCizWKR3YWkEHheomMHti7mlyvOc43+E3zRgQIzSnsZoH4=
+ditgmelhbp2i1sa2ug9rcihtc8o88db2.edu.	86400	IN	NSEC3	1 1 0 -  dj7h9vj4co9ununqa1rmij9hiv9cnuec NS DS RRSIG 
+uprc.edu.	172800	IN	NS	ns1.uprc.edu.
+uprc.edu.	172800	IN	NS	ns2.uprc.edu.
+uprc.edu.	172800	IN	NS	mail.uprc.edu.
+mail.uprc.edu.	172800	IN	A	136.145.237.96
+ns1.uprc.edu.	172800	IN	A	136.145.237.99
+ns2.uprc.edu.	172800	IN	A	136.145.237.98

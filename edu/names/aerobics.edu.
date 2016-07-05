@@ -1,0 +1,10 @@
+ns-392.awsdns-49.com.	172800	IN	A	205.251.193.136
+7hnms1q9hvs9830vn1bvnpslmjud54ch.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711061853 20160704050853 15617 edu. oQt7yvRVXIIroXSBoB5pQ4nNCbOmlEwFYDDNHFuQJ0NQVg+mVdRLph+Ih/nwZ1Fd0lQrfFnzZPJTaKQ5BA+gLzaUkzUU8EIl+5lw4IDl7N+l8tO7wtQcIFcvGyeeUEVYHI7wVxHZXQ3y9W8v/JIK5USnvd88g5yIkmrrWaCuo4Y=
+7hnms1q9hvs9830vn1bvnpslmjud54ch.edu.	86400	IN	NSEC3	1 1 0 -  7ivgjed7bdtn4flncfnh85c7gcuv5vkh NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+aerobics.edu.	172800	IN	NS	ns-392.awsdns-49.com.
+aerobics.edu.	172800	IN	NS	ns-641.awsdns-16.net.
+aerobics.edu.	172800	IN	NS	ns-1126.awsdns-12.org.
+aerobics.edu.	172800	IN	NS	ns-1806.awsdns-33.co.uk.
+ns-641.awsdns-16.net.	172800	IN	A	205.251.194.129

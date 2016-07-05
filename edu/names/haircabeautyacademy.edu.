@@ -1,0 +1,6 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+eedjr7ofutj4mko0p1pad4eirigr6ljl.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711103137 20160704092137 15617 edu. GTS/wXJPD0sEXXDXENGnlulQEPfrWL4RxDlk+iPEP+Xkhb0XjIvN7ybkHq9PI3qrilf72HQ34uLL/kvaeMSywqxu5Q/4ZYnf4LY4QvDVXaXOQGf6YIGV6nnw6276JuuIrfVGcT/WYFpgZvNslsdCODrCPwOSQdpHBUIUzJy5jqM=
+eedjr7ofutj4mko0p1pad4eirigr6ljl.edu.	86400	IN	NSEC3	1 1 0 -  eemn4rejtdngr729rvgpdtk7qd5r1hud NS DS RRSIG 
+haircabeautyacademy.edu.	172800	IN	NS	ns1.freedns.vn.
+haircabeautyacademy.edu.	172800	IN	NS	ns2.freedns.vn.

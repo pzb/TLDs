@@ -1,0 +1,11 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+a87ngsdjlpejp42vf0resusdqh59q9to.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711234257 20160704223257 15617 edu. q+cu0aP+nrmJJ9VsD73zJkvBTOwzpubbwWuUpEcCbsZ9Q3smQLZisI3FrFxCEiwKKI8FFs/+xQ7Tu+/Ic1xUU3pnHhULBtqcmAXHeH2EBUuXzaZXR7v/lr+jay9lVQBLPlLSjr6OfLSM79fPkj7WPrMnbRLW1oCznhEYkWy1AnU=
+a87ngsdjlpejp42vf0resusdqh59q9to.edu.	86400	IN	NSEC3	1 1 0 -  abfu152kbodqs6l6teo5u8mv8qsinpkv NS DS RRSIG 
+cccco.edu.	172800	IN	NS	ns1.cccco.edu.
+cccco.edu.	172800	IN	NS	ns2.cccco.edu.
+cccco.edu.	172800	IN	NS	ns4.cenic.org.
+cccco.edu.	172800	IN	NS	ns5.cenic.org.
+cccco.edu.	172800	IN	NS	ns6.cenic.org.
+ns1.cccco.edu.	172800	IN	A	198.188.255.132
+ns2.cccco.edu.	172800	IN	A	207.62.210.10

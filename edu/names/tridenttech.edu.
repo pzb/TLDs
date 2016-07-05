@@ -1,0 +1,19 @@
+ns1.no-ip.com.	172800	IN	A	204.16.255.55
+ns1.no-ip.com.	172800	IN	AAAA	2620:0:2e60::33
+ns2.no-ip.com.	172800	IN	A	204.16.254.6
+ns2.no-ip.com.	172800	IN	AAAA	2001:1838:f000::6
+ns3.no-ip.com.	172800	IN	A	204.16.253.33
+ns4.no-ip.com.	172800	IN	A	204.16.254.44
+ns5.no-ip.com.	172800	IN	A	204.16.255.155
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+pgravk9cvn15d9tdfcvpmj6qe1ulab32.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. gRf7CNFGcgd0QP7UQflqQUC9AUjQ7hQxP90QZIuStJGwMKQ6uAbA/K8lTN+X1YtArMgOV68Qf2tBjep/j98z0XmdaPyYaAzbnk2BWW/ZkSPuwtJma0hbEZ3qW2/x9rJt/kPdfd9i8tCrnpuMy10VJ7pZlj5rU8Fd/KKU6Bn0NxY=
+pgravk9cvn15d9tdfcvpmj6qe1ulab32.edu.	86400	IN	NSEC3	1 1 0 -  phls1kvejtq5qsjbhdlddi61fnbfssa2 NS DS RRSIG 
+tridenttech.edu.	172800	IN	NS	ns1.no-ip.com.
+tridenttech.edu.	172800	IN	NS	ns2.no-ip.com.
+tridenttech.edu.	172800	IN	NS	ns3.no-ip.com.
+tridenttech.edu.	172800	IN	NS	ns4.no-ip.com.
+tridenttech.edu.	172800	IN	NS	ns5.no-ip.com.
+tridenttech.edu.	172800	IN	NS	tridentdns.tridenttech.org.
+tridenttech.edu.	172800	IN	NS	tridentdns2.tridenttech.org.
+tridenttech.edu.	172800	IN	NS	tridentdns3.tridenttech.org.

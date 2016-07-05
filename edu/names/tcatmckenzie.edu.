@@ -1,0 +1,10 @@
+ns1-05.azure-dns.com.	172800	IN	A	40.90.4.5
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+eemn4rejtdngr729rvgpdtk7qd5r1hud.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711230539 20160704215539 15617 edu. qB2ekizpX3wUdqBOcxcjORnNEOALgFwrmAmi8zPqxowK+DW/u3WVflR0TSGOQXGBEC9E21Vu1emy1iUHqxIUaQ+r1yMH8eHgs9N3Aa14nuMF0ABFz9o10hM94TgKXo6EweaFYKDdMzQ1f1LRQXeNh0KNciSJxxvjX0B4eNnBrsY=
+eemn4rejtdngr729rvgpdtk7qd5r1hud.edu.	86400	IN	NSEC3	1 1 0 -  efhht559a1s5i6jsbv6ialstpulmo69j NS DS RRSIG 
+tcatmckenzie.edu.	172800	IN	NS	ns1-05.azure-dns.com.
+tcatmckenzie.edu.	172800	IN	NS	ns2-05.azure-dns.net.
+tcatmckenzie.edu.	172800	IN	NS	ns3-05.azure-dns.org.
+tcatmckenzie.edu.	172800	IN	NS	ns4-05.azure-dns.info.
+ns2-05.azure-dns.net.	172800	IN	A	64.4.48.5

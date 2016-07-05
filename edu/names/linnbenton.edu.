@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+eta3b5bc21jqvuol87kvrlpsr5fukle5.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710053349 20160703042349 15617 edu. c1/1WJHvN+VjfghTgpab2LwsRXhWoHt08iuTra45qJ9u/lpvoNIVa5/lzoxbqSjaogNBZ3cOv0PVoqKAZVnABy4zaYLsAsqRaV633L6OSlnYfVc8ob89rRo0tYDlLDDe6YT7Bu/LG9X9w+uCSqpuTNGnwIEfpIALIpSeEzv4e7c=
+eta3b5bc21jqvuol87kvrlpsr5fukle5.edu.	86400	IN	NSEC3	1 1 0 -  etus7e1qclqiu18oup7fbobva2loa364 NS DS RRSIG 
+linnbenton.edu.	172800	IN	NS	ns1.nero.net.
+linnbenton.edu.	172800	IN	NS	ns1.linnbenton.edu.
+linnbenton.edu.	172800	IN	NS	ns2.nero.net.
+ns1.linnbenton.edu.	172800	IN	A	140.211.14.53
+ns1.nero.net.	172800	IN	A	207.98.65.2
+ns2.nero.net.	172800	IN	A	207.98.67.19

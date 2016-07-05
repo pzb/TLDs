@@ -1,0 +1,8 @@
+5c5cbnmu42jtnna9gir46g2m7nlkjmnr.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711230803 20160704215803 15617 edu. GecWGyvK33Cm9Mo7MqVudign9qPDz9g31QPg/y2QhbGvxksrw81kHbxbNba9HdJ+ov9R1wBMrwUa0RRxj35JvsmmF8jQOvmgnkA7FLCSuapn4diLF68Lo7bhHh6gaBv3iLQvs6x45HYxVHzyEdiFoNlFkIKkoOSnkBdGYwnXIQE=
+5c5cbnmu42jtnna9gir46g2m7nlkjmnr.edu.	86400	IN	NSEC3	1 1 0 -  5cg1k02ashu56flr04vn1ln979q9b9k4 NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+sfvlaw.edu.	172800	IN	NS	ns1.aerioconnect.net.
+sfvlaw.edu.	172800	IN	NS	ns2.aerioconnect.net.
+ns1.aerioconnect.net.	172800	IN	A	216.240.32.70
+ns2.aerioconnect.net.	172800	IN	A	216.240.32.71

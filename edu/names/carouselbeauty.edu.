@@ -1,0 +1,8 @@
+ns1.hostingchemistry.com.	172800	IN	A	184.173.30.104
+ns2.hostingchemistry.com.	172800	IN	A	184.173.30.105
+6cp83gmjah5ata9un633u6p1prf72i2l.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711061509 20160704050509 15617 edu. 0NYJvKOphlp7eSBhYPw2uwwJZlGSRKra0vqB6sNJpF+n95j7OUczyME7WR5eMrBw1ehxy4TvMVWFz7IZ2lkMpGTQrOTiyQECx7PPj6o3bFlJRNv8p7WGgwq07i6g23HLQaJom//iQ9q67fC1DHegqhqWRIHmBP5SB9QrecCUSNo=
+6cp83gmjah5ata9un633u6p1prf72i2l.edu.	86400	IN	NSEC3	1 1 0 -  6d83p79mtjcba039l7vcalbr9nctf5fn NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+carouselbeauty.edu.	172800	IN	NS	ns1.hostingchemistry.com.
+carouselbeauty.edu.	172800	IN	NS	ns2.hostingchemistry.com.

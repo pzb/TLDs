@@ -1,0 +1,7 @@
+ns1.csumb.edu.	172800	IN	A	198.189.5.3
+ns4.csumb.edu.	172800	IN	A	198.189.5.4
+montereybay.edu.	172800	IN	NS	ns1.csumb.edu.
+montereybay.edu.	172800	IN	NS	ns4.csumb.edu.
+montereybay.edu.	172800	IN	NS	dnssec1.cenic.org.
+montereybay.edu.	86400	IN	DS	3627 5 1 86eacb831f124a998965b1fe9cd16ea964a30d07
+montereybay.edu.	86400	IN	RRSIG	DS 8 2 86400 20160708052035 20160701041035 15617 edu. 0y40nFzaJlGfrgkJ7aBqDJy4dT9y4AM2itHYc9hKrwQlYqwEaoGeWSD3lOaipQ8yWdQm+kKiEWuj0WhQNC3EZkayPYpCSOPODRAeCkS7/12gw/BBv5CUvMwN9ArQhsrMcekhQlgA46Rq9i/xiVcnrgCRKTIkA+TzQDWx6Pnaj0s=

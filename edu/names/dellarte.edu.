@@ -1,0 +1,8 @@
+ns17.domaincontrol.com.	172800	IN	A	216.69.185.9
+ns18.domaincontrol.com.	172800	IN	A	208.109.255.9
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+dellarte.edu.	172800	IN	NS	ns17.domaincontrol.com.
+dellarte.edu.	172800	IN	NS	ns18.domaincontrol.com.
+gq91231lruh7ajmo55tnf4uuu7c6cqeo.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712040449 20160705025449 15617 edu. Q5CLI/z+N8u7CrumO6ppxvEFqFkRva1Srmjb5OIoUXbggJtxLMShMhxMvTqcZ9O8SKCBVcJczl3Dmye5IzYYqyb9Azlf/Or2ZtXAecD20aPXEYzp0eCmbb4jpB9tyNzNuKo+FefJCNGiHI+8u7fJpMt7Sz5kaS3EPF65EazSg3g=
+gq91231lruh7ajmo55tnf4uuu7c6cqeo.edu.	86400	IN	NSEC3	1 1 0 -  gtlqvh592m6lmn02naj17ib7qkrofmma NS DS RRSIG 

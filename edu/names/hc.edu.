@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+hc.edu.	172800	IN	NS	faith.logixcom.net.
+hc.edu.	172800	IN	NS	gordon.logixcom.net.
+hc.edu.	172800	IN	NS	meredith.logixcom.net.
+r3vvgnjh99fcd14cqemr5qda6anltt3e.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712031940 20160705020940 15617 edu. O6FGI9fd1q4ROgQewExXJpQaxekjaTPWhaoZ+5Lj/nWhcvlj7qwqxtIAWwigFH9R/VWXZMpB++0HBfiln3AcIx/xq/A7UjqPxUBSCT6Iyk/k+vU2uARX7stIOpLG4RFOcTixWaONuPz6jHMoKe0H1xVS8s6VTF/BlJ35PNvkwwk=
+r3vvgnjh99fcd14cqemr5qda6anltt3e.edu.	86400	IN	NSEC3	1 1 0 -  r58oqscg7qfheaef5dbd2gipupmgrjq9 NS DS RRSIG 
+faith.logixcom.net.	172800	IN	A	216.201.128.10
+gordon.logixcom.net.	172800	IN	A	66.192.212.10
+meredith.logixcom.net.	172800	IN	A	66.196.216.10

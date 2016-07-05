@@ -1,0 +1,10 @@
+ns-228.awsdns-28.com.	172800	IN	A	205.251.192.228
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+e68gqunjkojlv965p1207qjrfn8t84k0.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711205459 20160704194459 15617 edu. 2hc36UmdrCMNjwhYltSOZWH74+RNX7l5nYLbuLyoEAlwyZbcQ0AC7HVz1U2U2Cn9rnYgl4PoVco3XcC17AjWORRLlGFOTqJm2leivBVCtHcYOkDN9aJZRsUwSPnX9JQ5uT1MuxxIYEmdMKHdouXdn+jl1OtDX8oQnTXEBbvCmQM=
+e68gqunjkojlv965p1207qjrfn8t84k0.edu.	86400	IN	NSEC3	1 1 0 -  e6oo6p78fbg5vcap4u0jsjmtpvg95ld2 NS DS RRSIG 
+webstercollege.edu.	172800	IN	NS	ns-228.awsdns-28.com.
+webstercollege.edu.	172800	IN	NS	ns-944.awsdns-54.net.
+webstercollege.edu.	172800	IN	NS	ns-1290.awsdns-33.org.
+webstercollege.edu.	172800	IN	NS	ns-1656.awsdns-15.co.uk.
+ns-944.awsdns-54.net.	172800	IN	A	205.251.195.176

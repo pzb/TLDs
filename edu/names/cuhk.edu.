@@ -1,0 +1,7 @@
+cuhk.edu.	172800	IN	NS	dnssec1.cuhk.edu.
+cuhk.edu.	172800	IN	NS	dnssec2.cuhk.edu.
+cuhk.edu.	86400	IN	DS	13494 7 1 9b5ca81f4c3406830037ae25fff54c1142c8cae5
+cuhk.edu.	86400	IN	DS	13494 7 2 18dac9ea9098b75c9a7b4ce7cad23264179e0cfd2a896854f2ffc54d28ac8bb2
+cuhk.edu.	86400	IN	RRSIG	DS 8 2 86400 20160709051624 20160702040624 15617 edu. 0wusGLATMYKKivt/9Voza3buj0NrkzKatlIFj2FqhqY++RwKP3FGiNiZ7otzlPp1TqVkBnFg4JKy2WcGWdOQJQTrspry3ZHH9cgC1Z6afo4DhX8oOmDvmYFCsfx535JYIhNGRn1uZadzBexjJuVRSs5MGFPddCCXia4wfFVvGr8=
+dnssec1.cuhk.edu.	172800	IN	A	137.189.2.248
+dnssec2.cuhk.edu.	172800	IN	A	137.189.2.243

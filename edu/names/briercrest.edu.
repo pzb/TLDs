@@ -1,0 +1,18 @@
+ns10.dnsmadeeasy.com.	172800	IN	A	208.94.148.4
+ns11.dnsmadeeasy.com.	172800	IN	A	208.80.124.4
+ns12.dnsmadeeasy.com.	172800	IN	A	208.80.126.4
+ns13.dnsmadeeasy.com.	172800	IN	A	208.80.125.4
+ns13.dnsmadeeasy.com.	172800	IN	AAAA	2600:1801:13::1
+ns14.dnsmadeeasy.com.	172800	IN	A	208.80.127.4
+ns14.dnsmadeeasy.com.	172800	IN	AAAA	2600:1802:14::1
+ns15.dnsmadeeasy.com.	172800	IN	A	208.94.149.4
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+briercrest.edu.	172800	IN	NS	ns10.dnsmadeeasy.com.
+briercrest.edu.	172800	IN	NS	ns11.dnsmadeeasy.com.
+briercrest.edu.	172800	IN	NS	ns12.dnsmadeeasy.com.
+briercrest.edu.	172800	IN	NS	ns13.dnsmadeeasy.com.
+briercrest.edu.	172800	IN	NS	ns14.dnsmadeeasy.com.
+briercrest.edu.	172800	IN	NS	ns15.dnsmadeeasy.com.
+ck2mamv1bub0b6gnds966luso8m7hh1j.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711194650 20160704183650 15617 edu. u5P4ne7cOE/iP9fJHBxDtpqVMOXZ/azm5U8mK9rFGdK6CKdkCMKtFmlbKmKKGSQIzydC4bXNj4palyw/xkWoJkevqG2DfnLGwGgLJTMBA+t0tCtYDnJbbp+TEUleKdkPIXDbN1ZpZqDEmdh/sQZq4nj/Q5geEUtN9HRnWoapmKs=
+ck2mamv1bub0b6gnds966luso8m7hh1j.edu.	86400	IN	NSEC3	1 1 0 -  cmjevlksh1rpo7mmacdtnsffd13r9hmn NS DS RRSIG 

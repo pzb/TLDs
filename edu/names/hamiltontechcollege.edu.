@@ -1,0 +1,8 @@
+dns1.stabletransit.com.	172800	IN	A	69.20.95.4
+dns2.stabletransit.com.	172800	IN	A	65.61.188.4
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+col12qdjd0jdbi4liqhcqiq0e82krpnp.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711125212 20160704114212 15617 edu. PbT54Knen1ZbDLbQQizLL4lYuInN8LS7fLHa4DksZ02zvkfLHOwudrt9SdwHwAjsypbbtbAAHkZnZnJOrs9p23y0mlln5e0ieq7aGPwR4H+dSK8QlNHycYZjo7rCtjlXVYVuThXuhI39xINB6adFD8yxyy+Q5y3blG+ImDv1ofA=
+col12qdjd0jdbi4liqhcqiq0e82krpnp.edu.	86400	IN	NSEC3	1 1 0 -  cpilu08oborsbjdkcuser6vjfqdn2ue8 NS DS RRSIG 
+hamiltontechcollege.edu.	172800	IN	NS	dns1.stabletransit.com.
+hamiltontechcollege.edu.	172800	IN	NS	dns2.stabletransit.com.

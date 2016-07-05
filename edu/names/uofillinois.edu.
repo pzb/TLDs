@@ -1,0 +1,11 @@
+1j6nvln01m4ii5krbgosu6tte1do9gc7.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160708052033 20160701041033 15617 edu. iAWfngfpaYMk4cu7Eirmcn2/ckx7rrMZ32R2bBPvcWEbkMTjVtz4y6T1zaa+vJjm6CkdESLwqKaL7YmwGiGH6LgrbatEyIuVEoTAKwJqAg/prdiDYrJDDRGNIioC3HZDnf8tup+cY6BFZip+WyogXRnalXNULkFF5DC9DyiBDxM=
+1j6nvln01m4ii5krbgosu6tte1do9gc7.edu.	86400	IN	NSEC3	1 1 0 -  1jnhban0dkljq08hgqquigtr3sapfn10 NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+dns1.illinois.edu.	172800	IN	A	130.126.2.100
+dns1.illinois.edu.	172800	IN	AAAA	2620:0:e00:b::53
+dns2.illinois.edu.	172800	IN	A	130.126.2.120
+dns3.illinois.edu.	172800	IN	A	204.93.1.5
+uofillinois.edu.	172800	IN	NS	dns1.illinois.edu.
+uofillinois.edu.	172800	IN	NS	dns2.illinois.edu.
+uofillinois.edu.	172800	IN	NS	dns3.illinois.edu.

@@ -1,0 +1,8 @@
+ns1.siteground321.com.	172800	IN	A	184.154.235.6
+ns2.siteground321.com.	172800	IN	A	184.154.235.106
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+etus7e1qclqiu18oup7fbobva2loa364.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711050119 20160704035119 15617 edu. SlsnL16Wp0veeFg/TZImllbgLG47SVCTgyYC1G+PDZGwuaWDeMYhoHd84VBz+5RjXfYAi9fFJDrFHDMW9vpjy9OfWcapVR+HyciwOJmtudNZ6w2Mzr5hnrWCXDDzuExxTCSK2vcsSW5dGKGdBPbp16pFLQl4d3SxgLlHV2WOhtE=
+etus7e1qclqiu18oup7fbobva2loa364.edu.	86400	IN	NSEC3	1 1 0 -  euucitl5dvtm09pc3nv8t8bp02gkrkbh NS DS RRSIG 
+genesiscareer.edu.	172800	IN	NS	ns1.siteground321.com.
+genesiscareer.edu.	172800	IN	NS	ns2.siteground321.com.

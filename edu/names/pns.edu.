@@ -1,0 +1,14 @@
+pns.edu.	172800	IN	NS	omega.acns.pns.edu.
+pns.edu.	172800	IN	NS	hadron.acns.pns.edu.
+pns.edu.	172800	IN	NS	mcbain.pns.edu.
+pns.edu.	172800	IN	NS	wiggum.pns.edu.
+pns.edu.	86400	IN	DS	24334 7 2 85fed5fbfc7262f26cb74fb09add4d9678018325785a3f898e55ec2e4be8e9a4
+pns.edu.	86400	IN	RRSIG	DS 8 2 86400 20160710053349 20160703042349 15617 edu. 2mUJDp0nj9tEK27KFcGxyeWB3yZ/JhgnFNxV0NnXANHkwkXo/Q+zKhSB9lvtCBlF555MtK8SD2726eyrUtzxhjNZS7cm9g6bM/Do+JmYPtHYaGCaMlh5/myEUwZN/KkNTgRV7YeSZW4MhNEt4RoEUAzujTZSoMz4zlFOqQOq31s=
+hadron.acns.pns.edu.	172800	IN	A	212.83.168.207
+hadron.acns.pns.edu.	172800	IN	AAAA	2001:470:1f13:11a6::2
+omega.acns.pns.edu.	172800	IN	A	195.154.63.217
+omega.acns.pns.edu.	172800	IN	AAAA	2001:470:1f17:154::1
+mcbain.pns.edu.	172800	IN	A	198.100.150.95
+mcbain.pns.edu.	172800	IN	AAAA	2607:5300:60:2bcf::2
+wiggum.pns.edu.	172800	IN	A	87.98.241.150
+wiggum.pns.edu.	172800	IN	AAAA	2001:41d0:8:99cd::3

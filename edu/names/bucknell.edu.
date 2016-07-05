@@ -1,0 +1,9 @@
+bucknell.edu.	172800	IN	NS	aws.bucknell.edu.
+bucknell.edu.	172800	IN	NS	dns.bucknell.edu.
+bucknell.edu.	172800	IN	NS	dns2.bucknell.edu.
+bucknell.edu.	86400	IN	DS	59161 5 1 59523e4bfa91042c1a7503be50226942f272e2a8
+bucknell.edu.	86400	IN	DS	59161 5 2 272e5141167c6723d007ee620b0d8ca029d74932743e5d82f080c8c8edcd94c0
+bucknell.edu.	86400	IN	RRSIG	DS 8 2 86400 20160711051941 20160704040941 15617 edu. dCI2fNLU0mQSD0C51qxzGklDCXIV0wyremSkaH9V5RfBSwq45fLpiEYVm4WAepUQgpX/EOpxrtZHbmYpcV3mgA5cbGD1Lgn1dP/rxr1NVcAjJSZI7ymhCpN7kBwxb5QHAB+3ihG3dxQ3lYXsQ+V62osu3LTOTnx/RPxCZGljIGM=
+aws.bucknell.edu.	172800	IN	A	184.72.111.49
+dns.bucknell.edu.	172800	IN	A	134.82.7.253
+dns2.bucknell.edu.	172800	IN	A	134.82.24.4

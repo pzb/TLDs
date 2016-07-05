@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+embry-riddle.edu.	172800	IN	NS	dns2.pr.erau.edu.
+embry-riddle.edu.	172800	IN	NS	spring.db.erau.edu.
+spring.db.erau.edu.	172800	IN	A	155.31.251.37
+dns2.pr.erau.edu.	172800	IN	A	192.101.135.10
+euucitl5dvtm09pc3nv8t8bp02gkrkbh.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711140950 20160704125950 15617 edu. V0VPSXkeysNHaJ3OaiIZYV+SoDCYjvvzJpcsLMJPDc6NmwiIsB0qjPYcdBE/NLeGauQ5n12DywUfy+4hwP0JKd3SqKJu4tHaVOEjZEQGp8iOjRNocQbf9Mf5dGpDUc34KxuXSYgDLUIBX42RCnghUWXlSJolk4j9YTmePIFkPSU=
+euucitl5dvtm09pc3nv8t8bp02gkrkbh.edu.	86400	IN	NSEC3	1 1 0 -  f19eijuk6lrau1ovna2scgfu2tsq9e5h NS DS RRSIG 

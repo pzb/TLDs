@@ -1,0 +1,12 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+i32isem00kjeri9i9lrgl261ae3t7vtk.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160710144151 20160703133151 15617 edu. 0ge0x9aZz0+/3HV8gzOIS6qpWfwwctnnvcdHQyF2NbuK8Hd6U1FVeV+x9uUqG96tSqWjk7l0CKwjp5ibBUWFzfNSa5kxAWdXqxla8oAhLEZawJ6RCDzUp5wZ+NEu2kE4nf7vZl5cQw327vFHMuSX/e0ZTA+dxoUblZNrqSoPY3s=
+i32isem00kjeri9i9lrgl261ae3t7vtk.edu.	86400	IN	NSEC3	1 1 0 -  i3ehbj6dbh6190lu68r8hnsuuhiat726 NS DS RRSIG 
+purduecal.edu.	172800	IN	NS	ns.purduecal.edu.
+purduecal.edu.	172800	IN	NS	ip-srv1.purduecal.edu.
+purduecal.edu.	172800	IN	NS	ip-srv2.purduecal.edu.
+purduecal.edu.	172800	IN	NS	ip-upol1.purduecal.edu.
+ip-srv1.purduecal.edu.	172800	IN	A	205.215.127.84
+ip-srv2.purduecal.edu.	172800	IN	A	205.215.123.122
+ip-upol1.purduecal.edu.	172800	IN	A	69.51.188.6
+ns.purduecal.edu.	172800	IN	A	205.215.64.10

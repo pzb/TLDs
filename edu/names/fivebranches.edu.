@@ -1,0 +1,10 @@
+ns1.dreamhost.com.	172800	IN	A	66.33.206.206
+ns2.dreamhost.com.	172800	IN	A	208.97.182.10
+ns3.dreamhost.com.	172800	IN	A	66.33.216.216
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+fivebranches.edu.	172800	IN	NS	ns1.dreamhost.com.
+fivebranches.edu.	172800	IN	NS	ns2.dreamhost.com.
+fivebranches.edu.	172800	IN	NS	ns3.dreamhost.com.
+komhthp1g06s36517lo45h8hg289c6ku.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711020159 20160704005159 15617 edu. AEXgCSNWFvE9/36QaGDgNbga3R+C378x4D1zv87WSDC7duqDPFsA1SC7mGW261wfZ0zCk/QfjkK+fdGFrDDZ1OpPwJ4c3UhJFTfDoeoElDIoXVAQeRS6v5RslMEkMEc8qrfigYCPeOiMR5xUyz4/YRSU7GqHWE+BnWLOzd+Kx8M=
+komhthp1g06s36517lo45h8hg289c6ku.edu.	86400	IN	NSEC3	1 1 0 -  kp0m0pn7eg23i6t2ceet8vjn4htugttc NS DS RRSIG 

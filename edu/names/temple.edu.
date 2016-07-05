@@ -1,0 +1,9 @@
+temple.edu.	172800	IN	NS	ns1.temple.edu.
+temple.edu.	172800	IN	NS	ns2.temple.edu.
+temple.edu.	86400	IN	DS	106 7 1 5779e10553a169dcc5e7f23e0e16c83473398e58
+temple.edu.	86400	IN	DS	64603 7 1 7a73f8ec9eaa0caca175c149ea81548de7eca03a
+temple.edu.	86400	IN	RRSIG	DS 8 2 86400 20160708052034 20160701041034 15617 edu. AY5iKrwxtTcH8OBIyJXVjE4V2x/TdRP653g9dc9Wn7u78xQQQvuHbMviEboMN6NkLbtCeiUV5JT3IrfQPmS67c9qV00Koak6lBaciucWpM0nWOD9dMBpifv+vfq3Gtr8AEDaPjdkcNtWFDCMANji5NB5c6cuFhfZjuA8VrwCwPs=
+ns1.temple.edu.	172800	IN	A	155.247.166.2
+ns1.temple.edu.	172800	IN	AAAA	2607:4a80:80::2:2
+ns2.temple.edu.	172800	IN	A	155.247.19.2
+ns2.temple.edu.	172800	IN	AAAA	2607:4a80:80::2

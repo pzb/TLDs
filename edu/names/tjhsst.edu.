@@ -1,0 +1,20 @@
+tjhsst.edu.	172800	IN	NS	ns.uu.net.
+tjhsst.edu.	172800	IN	NS	ns1.tjhsst.edu.
+tjhsst.edu.	172800	IN	NS	ns2.tjhsst.edu.
+tjhsst.edu.	172800	IN	NS	ns1-auth.sprintlink.net.
+tjhsst.edu.	172800	IN	NS	ns2-auth.sprintlink.net.
+tjhsst.edu.	172800	IN	NS	ns3-auth.sprintlink.net.
+tjhsst.edu.	86400	IN	DS	54034 5 1 6c6d1252a60cb4b16c97ad25ca372263a4569869
+tjhsst.edu.	86400	IN	DS	54034 5 2 f96ceffedaf5e9411372c6821ad3329e3c0cdf1bea30b55d3905434c623753a2
+tjhsst.edu.	86400	IN	RRSIG	DS 8 2 86400 20160710053348 20160703042348 15617 edu. bzYcDHX56irKkIcKXGodZCqEuqAXCagD7njx3X3m8Dgr8vDKz3E/PRcN0VKj2g+7ghBV6EdNisxjwjNHbvTH1nJgaRfxpjeFliX1uY5oQw5IsA7lURwWbgWmTTdp1/J9mzplt/qpN3E3EPFnwUuZFeZBbKxQ8XBfsZerbf+D2c4=
+ns1.tjhsst.edu.	172800	IN	A	198.38.16.40
+ns1.tjhsst.edu.	172800	IN	AAAA	2001:468:cc0:1600:0:c6ff:fe26:1028
+ns2.tjhsst.edu.	172800	IN	A	198.38.16.41
+ns2.tjhsst.edu.	172800	IN	AAAA	2001:468:cc0:1600:0:c6ff:fe26:1029
+ns1-auth.sprintlink.net.	172800	IN	A	206.228.179.10
+ns1-auth.sprintlink.net.	172800	IN	AAAA	2600::a1
+ns2-auth.sprintlink.net.	172800	IN	A	144.228.254.10
+ns2-auth.sprintlink.net.	172800	IN	AAAA	2600::a2
+ns3-auth.sprintlink.net.	172800	IN	A	144.228.255.10
+ns3-auth.sprintlink.net.	172800	IN	AAAA	2600::a3
+ns.uu.net.	172800	IN	A	137.39.1.3

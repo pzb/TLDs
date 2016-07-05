@@ -1,0 +1,14 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ao447nffpckgb0ko2g3cfpf4r8i3076a.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711031235 20160704020235 15617 edu. DlnHXoDacHqvktb8t/pEwmdnykhdRVLwdBeooevOY/1n/+lk1ZSnO15q4nS8c3hHLGkco5655/zYWipvzXUzW87qWhHPjbDUJpumZc3gFJoU0fxC9I8p15EkdVP7sdH4ZGt45pQq4jk4Kl6Oh4SFs2c+yZy1c4IT5UaKzw5CtnI=
+ao447nffpckgb0ko2g3cfpf4r8i3076a.edu.	86400	IN	NSEC3	1 1 0 -  ap5vs8sjrnn8eor3v75k3h4p3t4k6vf9 NS DS RRSIG 
+ccp.edu.	172800	IN	NS	ns0.ccp.edu.
+ccp.edu.	172800	IN	NS	ns1.ccp.edu.
+ccp.edu.	172800	IN	NS	ns2.ccp.edu.
+ccp.edu.	172800	IN	NS	ns3.ccp.edu.
+ccp.edu.	172800	IN	NS	ns4.ccp.edu.
+ns0.ccp.edu.	172800	IN	A	208.94.148.2
+ns1.ccp.edu.	172800	IN	A	208.80.124.2
+ns2.ccp.edu.	172800	IN	A	208.80.126.2
+ns3.ccp.edu.	172800	IN	A	208.80.125.2
+ns4.ccp.edu.	172800	IN	A	208.80.127.2

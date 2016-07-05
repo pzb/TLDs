@@ -1,0 +1,10 @@
+ns1-02.azure-dns.com.	172800	IN	A	40.90.4.2
+38qanqd8sq6elt7j65v05hifq6jr1ei1.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711053633 20160704042633 15617 edu. dGJPDh9lI0d7eEPDn77Dk4GB8kxn+ULci/IGZNmjJ8ZT4zOJ8GsAEnTHHlYDOC+DGJgtGj/DDQQgK7PpWd9cllUTXesBg7o/FEpjqwg+dKuqEZDBnVBnaeip9t8dT5O706m2TRoLt3o4myeAeI/nmB0/pTu/hYXvfIxQ56eu0Ik=
+38qanqd8sq6elt7j65v05hifq6jr1ei1.edu.	86400	IN	NSEC3	1 1 0 -  39j96iq4sub6md3nq0jq30h66167q29p NS DS RRSIG 
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+tcatnashville.edu.	172800	IN	NS	ns1-02.azure-dns.com.
+tcatnashville.edu.	172800	IN	NS	ns2-02.azure-dns.net.
+tcatnashville.edu.	172800	IN	NS	ns3-02.azure-dns.org.
+tcatnashville.edu.	172800	IN	NS	ns4-02.azure-dns.info.
+ns2-02.azure-dns.net.	172800	IN	A	64.4.48.2

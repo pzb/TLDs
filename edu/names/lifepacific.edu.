@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+lifepacific.edu.	172800	IN	NS	ns1.twtelecom.net.
+lifepacific.edu.	172800	IN	NS	ns2.twtelecom.net.
+vito0q0d898ljnutvoli85aluojqnccq.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712000448 20160704225448 15617 edu. o2Xg8qqDXr9R1PB2E4POopWgFZWcdasO9LyldlIfqDo/FNOVB3dfAdq8WJpOWUAFRee/4sSGQmjp4pnHPLtS6XG+mPJizx9fMZnz30hBB0+jDggstgqCUgPvuQx/GY2kESo5OFvc7AS0vtxTLkady6/gC6c5KqlUQwdsUrSq6dY=
+vito0q0d898ljnutvoli85aluojqnccq.edu.	86400	IN	NSEC3	1 1 0 -  vkcq98lp656k8am07af2120dsn7lpk30 NS DS RRSIG 
+ns1.twtelecom.net.	172800	IN	A	216.136.95.2
+ns1.twtelecom.net.	172800	IN	AAAA	2001:4870:6082:3::5
+ns2.twtelecom.net.	172800	IN	A	64.132.94.250
+ns2.twtelecom.net.	172800	IN	AAAA	2001:4870:8000:3::5

@@ -1,0 +1,6 @@
+syso-svr-ns1.lctcs.edu.	172800	IN	A	76.165.120.16
+syso-svr-ns2.lctcs.edu.	172800	IN	A	76.165.210.249
+scl.edu.	172800	IN	NS	syso-svr-ns1.lctcs.edu.
+scl.edu.	172800	IN	NS	syso-svr-ns2.lctcs.edu.
+scl.edu.	86400	IN	DS	2659 5 1 0e7534b723d7ca173cabca32a66d8fcb0926e0e5
+scl.edu.	86400	IN	RRSIG	DS 8 2 86400 20160709051626 20160702040626 15617 edu. W/xaiMDmH5Nz5TJH7rdwvcAMfoe6CQpwZSczH9BrgByHi4+MU7cThrgIZ/HjbrPmFlkvZEQWKhUIhflTVDCJcM8xGzfF63/8vjKqGxZO6Sy56YLNkPVl8ZCl818Rim+9UQrwwGguwv5hQZgVpjW8BwT5YYVlFBBzwdbi2/rQgPg=

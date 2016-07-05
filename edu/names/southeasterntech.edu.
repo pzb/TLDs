@@ -1,0 +1,8 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+kf06d0jhiqv1abj4pcp2f8j7iet1j17u.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711174250 20160704163250 15617 edu. TsK0o7uU5n8oUIfpbL1oXCB2R4HVsEcgQ9UwwNsUw+Do7gx1EQVtjKoDX/rBOAJEoKeA20RmCw8Nfc6AQ35ZV6yQzSKygqJvBKlyCfn4yZ5NVRuhur3nt/rfx/f1JbsM+H7z9UWTkNVhMnF6fSaKWmOgN3jXrBSWOjq87yVkPW4=
+kf06d0jhiqv1abj4pcp2f8j7iet1j17u.edu.	86400	IN	NSEC3	1 1 0 -  kh68tliahht69dqd2innd4n24d9fk27t NS DS RRSIG 
+southeasterntech.edu.	172800	IN	NS	ns2.tcsg.edu.
+southeasterntech.edu.	172800	IN	NS	stc-dns-ext.southeasterntech.edu.
+stc-dns-ext.southeasterntech.edu.	172800	IN	A	72.162.208.32
+ns2.tcsg.edu.	172800	IN	A	72.162.1.4

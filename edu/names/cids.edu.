@@ -1,0 +1,27 @@
+64649.earth.orderbox-dns.com.	172800	IN	A	162.251.82.118
+64649.earth.orderbox-dns.com.	172800	IN	A	162.251.82.119
+64649.earth.orderbox-dns.com.	172800	IN	A	162.251.82.246
+64649.earth.orderbox-dns.com.	172800	IN	A	162.251.82.247
+64649.mars.orderbox-dns.com.	172800	IN	A	66.249.5.25
+64649.mars.orderbox-dns.com.	172800	IN	A	162.251.82.124
+64649.mars.orderbox-dns.com.	172800	IN	A	162.251.82.125
+64649.mars.orderbox-dns.com.	172800	IN	A	162.251.82.252
+64649.mars.orderbox-dns.com.	172800	IN	A	162.251.82.253
+64649.mercury.orderbox-dns.com.	172800	IN	A	66.135.40.144
+64649.mercury.orderbox-dns.com.	172800	IN	A	162.251.82.122
+64649.mercury.orderbox-dns.com.	172800	IN	A	162.251.82.123
+64649.mercury.orderbox-dns.com.	172800	IN	A	162.251.82.250
+64649.mercury.orderbox-dns.com.	172800	IN	A	162.251.82.251
+64649.venus.orderbox-dns.com.	172800	IN	A	66.249.5.10
+64649.venus.orderbox-dns.com.	172800	IN	A	162.251.82.120
+64649.venus.orderbox-dns.com.	172800	IN	A	162.251.82.121
+64649.venus.orderbox-dns.com.	172800	IN	A	162.251.82.248
+64649.venus.orderbox-dns.com.	172800	IN	A	162.251.82.249
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+cids.edu.	172800	IN	NS	64649.mars.orderbox-dns.com.
+cids.edu.	172800	IN	NS	64649.earth.orderbox-dns.com.
+cids.edu.	172800	IN	NS	64649.venus.orderbox-dns.com.
+cids.edu.	172800	IN	NS	64649.mercury.orderbox-dns.com.
+s31h6n28ea1t4cuqrj3otbvtfm3eu37f.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711204115 20160704193115 15617 edu. QsFkFWMwgH+pWmvnwgX+V9rUElW/V6DA4TEiacdeoIbqrwJSKc4nwbsJ8HHCWwZavXjWX1X1at+oUWtfecEwH1PgLltxOxaMz8mE4pH1rfXIQQvKekZEHsQ0uUqGeYikHSk3n72EKEGvz+EsOeBlCysIEZN7XjQDM+6a2niZZfc=
+s31h6n28ea1t4cuqrj3otbvtfm3eu37f.edu.	86400	IN	NSEC3	1 1 0 -  s9jtjnfp3tp33a1fm9t4ustiq202ti8m NS DS RRSIG 

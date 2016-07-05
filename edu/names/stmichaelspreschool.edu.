@@ -1,0 +1,8 @@
+ns12.zoneedit.com.	172800	IN	A	46.101.18.226
+ns14.zoneedit.com.	172800	IN	A	23.27.48.61
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+stmichaelspreschool.edu.	172800	IN	NS	ns12.zoneedit.com.
+stmichaelspreschool.edu.	172800	IN	NS	ns14.zoneedit.com.
+uacfp995lprt4c40f9lc8drk7t0stffb.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051943 20160704040943 15617 edu. 4cDDwcp1lOi55Oar8r9VMXY8El1Wc0MoUtApx3R7DmlUT0qxXJahdie/WhrzwGd2PqUV+Ug+Wm8Xg+CVfgqDBSnfnCBIdOskuo0PmWT7j3WQGGlR/WpOqx39q/OFvKdoBimvtdSz9Pj+C1ImSRjWo21E1XxC7+5M2I8B+VkdcZI=
+uacfp995lprt4c40f9lc8drk7t0stffb.edu.	86400	IN	NSEC3	1 1 0 -  uavdj8aa1k0iskhaf5ri3f5if0qvl9le NS DS RRSIG 

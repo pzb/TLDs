@@ -1,0 +1,16 @@
+ns1173.dns.dyn.com.	172800	IN	A	208.76.58.173
+ns2164.dns.dyn.com.	172800	IN	A	208.76.59.164
+ns3129.dns.dyn.com.	172800	IN	A	208.76.60.129
+ns4137.dns.dyn.com.	172800	IN	A	208.76.61.137
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+9nos1fud0bj9429qmi1q2ohne2ota3ek.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051942 20160704040942 15617 edu. yw2t9cVqIGvojpu1NL63QkDhqGGzKVsxR58IhzSUSt5Jt2PTpfrMSpT6nZn1FLm8X4dpG54Jn5akKMw2U420YEO52vGMDDIsVv8BGCGkQC4d3jsjhHd0NqzDUoy7A+cNbq2SX7z10xlBwoAckeSsSKNPwBOMTLll3jCpyOJqF3s=
+9nos1fud0bj9429qmi1q2ohne2ota3ek.edu.	86400	IN	NSEC3	1 1 0 -  9o26lm8heqivmp28km6t473culiauonr NS DS RRSIG 
+consort-dns01.gtu.edu.	172800	IN	A	209.76.204.50
+consort-dns02.gtu.edu.	172800	IN	A	209.76.204.51
+sksm.edu.	172800	IN	NS	ns1173.dns.dyn.com.
+sksm.edu.	172800	IN	NS	ns2164.dns.dyn.com.
+sksm.edu.	172800	IN	NS	ns3129.dns.dyn.com.
+sksm.edu.	172800	IN	NS	ns4137.dns.dyn.com.
+sksm.edu.	172800	IN	NS	consort-dns01.gtu.edu.
+sksm.edu.	172800	IN	NS	consort-dns02.gtu.edu.

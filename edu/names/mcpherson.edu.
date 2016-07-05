@@ -1,0 +1,10 @@
+mcpherson.edu.	172800	IN	NS	cs.mcpherson.edu.
+mcpherson.edu.	172800	IN	NS	dormgate.mcpherson.edu.
+mcpherson.edu.	86400	IN	DS	10912 8 2 a4bad8a3f40dbcd566f83b0eeb35f450a0c46f5e90376145b7bb5e03b43629b9
+mcpherson.edu.	86400	IN	RRSIG	DS 8 2 86400 20160708052036 20160701041036 15617 edu. 4Bn/P01tALIaNb3FwjERNUF7Ze7DLyJjgLN8Ci4SEXPvEfS0uE6cuhsSolJZzHBslZ6kk3AriiMsihzWZhoJEMk3cjk8M3v4T8sB/VDpCmfkuOT1XtXnAR+N8D/GcYmLq0EQnaCuv+0bxDIbECdpIWa7ee/LnmYyVjVQFXgm0pc=
+cs.mcpherson.edu.	172800	IN	A	98.190.234.252
+cs.mcpherson.edu.	172800	IN	A	174.76.152.252
+cs.mcpherson.edu.	172800	IN	AAAA	2620:1:c000::30:8488:f5d3
+dormgate.mcpherson.edu.	172800	IN	A	98.190.235.250
+dormgate.mcpherson.edu.	172800	IN	A	174.76.153.250
+dormgate.mcpherson.edu.	172800	IN	AAAA	2620:1:c000:1:0:18:f35e:45b2

@@ -1,0 +1,16 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+9veb337f4h3q7n04p4ob5dtjtrp03kd4.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712001544 20160704230544 15617 edu. OWZrHEr12SlN1A8ZPuwo7DgknLq/kNJ8DEt89j2gLbr828uFYgIFdDk38WNPJMFcbCjDKEIsrYrf2VBBh1IU+Lu45HJ7T9QL//TL4feb1QW+PcYMjFzj95eqHQIFnoeY2wplK3oqd6JL4z5pQL/pxeirKme/UyjqIQworMB3ZZ8=
+9veb337f4h3q7n04p4ob5dtjtrp03kd4.edu.	86400	IN	NSEC3	1 1 0 -  a06glqfflq01pdtihnipdav7vqu16nu1 NS DS RRSIG 
+jacksonville-college.edu.	172800	IN	NS	ns0.esc7.net.
+jacksonville-college.edu.	172800	IN	NS	ns1.esc7.net.
+jacksonville-college.edu.	172800	IN	NS	ns2.esc7.net.
+jacksonville-college.edu.	172800	IN	NS	ns3.esc7.net.
+ns0.esc7.net.	172800	IN	A	72.53.186.13
+ns0.esc7.net.	172800	IN	AAAA	2604:c400:0:2:72:53:186:13
+ns1.esc7.net.	172800	IN	A	72.53.186.10
+ns1.esc7.net.	172800	IN	AAAA	2604:c400:0:2:72:53:186:10
+ns2.esc7.net.	172800	IN	A	72.53.186.11
+ns2.esc7.net.	172800	IN	AAAA	2604:c400:0:2:72:53:186:11
+ns3.esc7.net.	172800	IN	A	72.53.186.12
+ns3.esc7.net.	172800	IN	AAAA	2604:c400:0:2:72:53:186:12

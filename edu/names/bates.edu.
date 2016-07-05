@@ -1,0 +1,12 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+bates.edu.	172800	IN	NS	ns1.bates.edu.
+bates.edu.	172800	IN	NS	ns2.bates.edu.
+bates.edu.	172800	IN	NS	mother.bates.edu.
+bates.edu.	172800	IN	NS	dns-ext1.dartmouth.edu.
+mother.bates.edu.	172800	IN	A	134.181.128.1
+ns1.bates.edu.	172800	IN	A	134.181.131.44
+ns2.bates.edu.	172800	IN	A	134.181.131.42
+dns-ext1.dartmouth.edu.	172800	IN	A	129.170.170.2
+ujp9hvh9j2e4bnikoblt2a473d6io0lv.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711115529 20160704104529 15617 edu. H+oqM1P1x3K/pHvk9lDi2kLuCCKYxV3rl6RcZpnSy+gRD2vCQy6RTFbZybPzTFrG+Ax6fyphjn3gtEizxLjthAG9o7P6VazE29cvKw0HPQcovrLOjpbmE6irRcpUaLG9PoUZ0j5vx7waEpFnzDCTdmdjcp+zFV22rZUeDiPEmUM=
+ujp9hvh9j2e4bnikoblt2a473d6io0lv.edu.	86400	IN	NSEC3	1 1 0 -  ukbkp4qdacsdj5ki6pjcvba0ch5mbpqe NS DS RRSIG 

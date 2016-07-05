@@ -1,0 +1,8 @@
+dns.stingcomm.com.	172800	IN	A	216.220.80.200
+ns.stingcomm.com.	172800	IN	A	216.220.93.193
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ictc.edu.	172800	IN	NS	ns.stingcomm.com.
+ictc.edu.	172800	IN	NS	dns.stingcomm.com.
+s1no8buve0uuejuv4pob3ua4ptpudrnr.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711074933 20160704063933 15617 edu. u8NmmGmPoPX6tYuBnZNZBs8eMuWmR/rex8k8CYyxZNzOZaE/htvuvMwIlxBUTyYAbanUsj0xikS9mAmGNtpV6iO+eGDc8/2swYUk6DY2oy0NnE4szv2M3OWf8KS96lvAr41YG1lHPUgvqKOOpCoCjPik/BrFwqO2LtaeFdEGTXk=
+s1no8buve0uuejuv4pob3ua4ptpudrnr.edu.	86400	IN	NSEC3	1 1 0 -  s2gcbr5vt50f8r4o9m45mqusqurbpu99 NS DS RRSIG 

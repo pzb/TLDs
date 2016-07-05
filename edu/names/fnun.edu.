@@ -1,0 +1,8 @@
+dns1.supremepanel25.com.	172800	IN	A	198.23.59.54
+dns2.supremepanel25.com.	172800	IN	A	198.23.62.42
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+fnun.edu.	172800	IN	NS	dns1.supremepanel25.com.
+fnun.edu.	172800	IN	NS	dns2.supremepanel25.com.
+st2g4i3g1t6bn46jaaquqlkoh1g2afh8.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160712024336 20160705013336 15617 edu. GO4QlV8zv6j/x1JkU16AAzqj7VVDhp1vHHxVHLm6dm1jbx/LxCE4tAXxRpSY+tC0ve55ZAYzwqD9eIASz6Ah3VIf7UCLiw9A4IrEQyGubvCNXQgZCqk4tpehLOFr+0m0mtX+v6PycIpJihsDpCulZAJcPTaat6ij3rtjFpx636E=
+st2g4i3g1t6bn46jaaquqlkoh1g2afh8.edu.	86400	IN	NSEC3	1 1 0 -  sthuk67afjohpfre9rq66la5fc8djpd6 NS DS RRSIG 

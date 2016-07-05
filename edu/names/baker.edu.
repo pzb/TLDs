@@ -1,0 +1,10 @@
+baker.edu.	172800	IN	NS	orion.baker.edu.
+baker.edu.	172800	IN	NS	eisdns03.baker.edu.
+baker.edu.	172800	IN	NS	eisdns04.baker.edu.
+baker.edu.	172800	IN	NS	hercules.baker.edu.
+baker.edu.	86400	IN	DS	36235 8 2 698110f5b3f1fc5bdd712ad8b24034262e04057a15035d34e9d0e95b40a589c8
+baker.edu.	86400	IN	RRSIG	DS 8 2 86400 20160711051943 20160704040943 15617 edu. CGJ9gVMPBIusC7ZbcLwHsI3m/VtfEZQu4QqcdpU5cgJHqc5/pGlGq3Pt/HkY24g73Uue5EXl99tOsvbsiwBMWtQQKPHdO4aSswA8CtBlK056Yw7q2Mn1Ye68Pbc6+BweGd5QD0r1OFDn8AccBvy8ICb90vKFdfvW2Hffib6FYv0=
+eisdns03.baker.edu.	172800	IN	A	158.80.217.40
+eisdns04.baker.edu.	172800	IN	A	158.80.217.42
+hercules.baker.edu.	172800	IN	A	158.80.1.40
+orion.baker.edu.	172800	IN	A	158.80.1.140

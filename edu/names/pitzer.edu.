@@ -1,0 +1,10 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+ns.claremont.edu.	172800	IN	A	134.173.254.23
+h6msb0gqkfh1e0rlhm42a7m0usfassrt.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711031436 20160704020436 15617 edu. ZtWclmNV/eF67PHiSmhB6YtqrNYGAGJlnbHPMgcHPoOR8TDXc+y/j1xVJDzJMMzTxFhPH2PX6p9gHRWat8lFl8I9RWtZKuMNRXozGm5X/qiA0tRBvEKT9cAq0aK55LK1VSX/1pK1zgVUWrGsAy6DNC1BCpgyNUeI3iS94b1cvF8=
+h6msb0gqkfh1e0rlhm42a7m0usfassrt.edu.	86400	IN	NSEC3	1 1 0 -  h7v0hh5qnl680bp02bspkl93ud5f0u66 NS DS RRSIG 
+pitzer.edu.	172800	IN	NS	ns.claremont.edu.
+pitzer.edu.	172800	IN	NS	pzresolve.pitzer.edu.
+pitzer.edu.	172800	IN	NS	pzresolve2.pitzer.edu.
+pzresolve.pitzer.edu.	172800	IN	A	134.173.112.3
+pzresolve2.pitzer.edu.	172800	IN	A	134.173.112.6

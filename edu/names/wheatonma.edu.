@@ -1,0 +1,14 @@
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711051944 20160704040944 15617 edu. ZpobskA12c7v3njm7oPTISKPa+hCMHQ+pmX5S0cgqNzRe3iNji1ipBfWLHhVBWKfnaGyQa/McLHKV4tC/SZOtJSf5WBYiORrqNxecOLRjNSTkb0SraVl0v3VDNEDG5B4MmPJQtkSnbeUVYLzLAIoTI60Hcz0Dgbl+5cVuJD5lkQ=
+9dhs4ep5g85pf9nufk06hek0o48qgk77.edu.	86400	IN	NSEC3	1 1 0 -  9dkp6r6nrdivnlacttsioscvu9qcml7d NS SOA RRSIG DNSKEY NSEC3PARAM 
+9s0100d7b91g4gujbvsvvac0bt8go2ol.edu.	86400	IN	RRSIG	NSEC3 8 2 86400 20160711175703 20160704164703 15617 edu. TLa4f0E/ZxsPiZuYVYriQ5O/k32PQO7Vr6NMA8NfvMdigOSnMADY7SuzoSjTzM+o+DRZSUngGYyG615fAgzeVT5vsPZDE23RwxuWMrHZYX1UUPuxyeF1X9dSWVSiOalOX8ibhZ/Kx4ye3aZUyOhbIs0jeLjvrRQI3QcDboqv+so=
+9s0100d7b91g4gujbvsvvac0bt8go2ol.edu.	86400	IN	NSEC3	1 1 0 -  9t0uj7csetkh7uane96i0ueea725gbvi NS DS RRSIG 
+wheatonma.edu.	172800	IN	NS	ns1.p16.dynect.net.
+wheatonma.edu.	172800	IN	NS	ns2.p16.dynect.net.
+wheatonma.edu.	172800	IN	NS	ns3.p16.dynect.net.
+wheatonma.edu.	172800	IN	NS	ns4.p16.dynect.net.
+wheatonma.edu.	172800	IN	NS	name1.oshean.org.
+wheatonma.edu.	172800	IN	NS	name2.oshean.org.
+ns1.p16.dynect.net.	172800	IN	A	208.78.70.16
+ns2.p16.dynect.net.	172800	IN	A	204.13.250.16
+ns3.p16.dynect.net.	172800	IN	A	208.78.71.16
+ns4.p16.dynect.net.	172800	IN	A	204.13.251.16
